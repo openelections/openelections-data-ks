@@ -1,0 +1,120 @@
+county,precinct,office,district,party,candidate,Total
+Grant,Ward 1,Attorney,,,A.J. Kotich [D],34
+Grant,Ward 2,Attorney,,,A.J. Kotich [D],77
+Grant,Ward 3,Attorney,,,A.J. Kotich [D],79
+Grant,Prec 4,Attorney,,,A.J. Kotich [D],37
+Grant,Ward 1,Attorney,,,Derek Schmidt [R],148
+Grant,Ward 2,Attorney,,,Derek Schmidt [R],347
+Grant,Ward 3,Attorney,,,Derek Schmidt [R],322
+Grant,Prec 4,Attorney,,,Derek Schmidt [R],269
+Grant,Ward 1,Congress 1,1,,James E. Sherow [D],42
+Grant,Ward 2,Congress 1,1,,James E. Sherow [D],88
+Grant,Ward 3,Congress 1,1,,James E. Sherow [D],91
+Grant,Prec 4,Congress 1,1,,James E. Sherow [D],45
+Grant,Ward 1,Congress 1,1,,Tim Huelskamp [R],140
+Grant,Ward 2,Congress 1,1,,Tim Huelskamp [R],338
+Grant,Ward 3,Congress 1,1,,Tim Huelskamp [R],312
+Grant,Prec 4,Congress 1,1,,Tim Huelskamp [R],262
+Grant,Ward 1,Governor,,,Keen Umbehr [L],10
+Grant,Ward 2,Governor,,,Keen Umbehr [L],17
+Grant,Ward 3,Governor,,,Keen Umbehr [L],40
+Grant,Prec 4,Governor,,,Keen Umbehr [L],25
+Grant,Ward 1,Governor,,,Paul Davis [D],52
+Grant,Ward 2,Governor,,,Paul Davis [D],134
+Grant,Ward 3,Governor,,,Paul Davis [D],115
+Grant,Prec 4,Governor,,,Paul Davis [D],66
+Grant,Ward 1,Governor,,,Sam Brownback [R],125
+Grant,Ward 2,Governor,,,Sam Brownback [R],282
+Grant,Ward 3,Governor,,,Sam Brownback [R],254
+Grant,Prec 4,Governor,,,Sam Brownback [R],217
+Grant,Ward 1,Insurance,,,Dennis Anderson [D],40
+Grant,Ward 2,Insurance,,,Dennis Anderson [D],81
+Grant,Ward 3,Insurance,,,Dennis Anderson [D],87
+Grant,Prec 4,Insurance,,,Dennis Anderson [D],42
+Grant,Ward 1,Insurance,,,Ken Selzer [R],140
+Grant,Ward 2,Insurance,,,Ken Selzer [R],346
+Grant,Ward 3,Insurance,,,Ken Selzer [R],307
+Grant,Prec 4,Insurance,,,Ken Selzer [R],257
+Grant,Ward 1,Secretary,,,Jean Kurtis Schodorf [D],55
+Grant,Ward 2,Secretary,,,Jean Kurtis Schodorf [D],86
+Grant,Ward 3,Secretary,,,Jean Kurtis Schodorf [D],97
+Grant,Prec 4,Secretary,,,Jean Kurtis Schodorf [D],54
+Grant,Ward 1,Secretary,,,Kris Kobach [R],128
+Grant,Ward 2,Secretary,,,Kris Kobach [R],346
+Grant,Ward 3,Secretary,,,Kris Kobach [R],307
+Grant,Prec 4,Secretary,,,Kris Kobach [R],254
+Grant,Ward 1,SR124,124,,Stephen Alford [R],162
+Grant,Ward 2,SR124,124,,Stephen Alford [R],399
+Grant,Ward 3,SR124,124,,Stephen Alford [R],362
+Grant,Prec 4,SR124,124,,Stephen Alford [R],282
+Grant,Ward 1,Treasurer,,,Carmen Alldritt [D],29
+Grant,Ward 2,Treasurer,,,Carmen Alldritt [D],65
+Grant,Ward 3,Treasurer,,,Carmen Alldritt [D],69
+Grant,Prec 4,Treasurer,,,Carmen Alldritt [D],31
+Grant,Ward 1,Treasurer,,,Ron Estes [R],153
+Grant,Ward 2,Treasurer,,,Ron Estes [R],363
+Grant,Ward 3,Treasurer,,,Ron Estes [R],328
+Grant,Prec 4,Treasurer,,,Ron Estes [R],272
+Grant,Ward 1,US Senate,,,Greg Orman [I],45
+Grant,Ward 2,US Senate,,,Greg Orman [I],117
+Grant,Ward 3,US Senate,,,Greg Orman [I],101
+Grant,Prec 4,US Senate,,,Greg Orman [I],37
+Grant,Ward 1,US Senate,,,Pat Roberts [R],133
+Grant,Ward 2,US Senate,,,Pat Roberts [R],294
+Grant,Ward 3,US Senate,,,Pat Roberts [R],286
+Grant,Prec 4,US Senate,,,Pat Roberts [R],250
+Grant,Ward 1,US Senate,,,Randall Batson [L],6
+Grant,Ward 2,US Senate,,,Randall Batson [L],18
+Grant,Ward 3,US Senate,,,Randall Batson [L],21
+Grant,Prec 4,US Senate,,,Randall Batson [L],21
+Grant,Ward 1,Voters,,,Provisional,5
+Grant,Ward 2,Voters,,,Provisional,10
+Grant,Ward 3,Voters,,,Provisional,22
+Grant,Prec 4,Voters,,,Provisional,14
+Grant,Ward 1,Voters,,,Registered voters,574
+Grant,Ward 2,Voters,,,Registered voters,978
+Grant,Ward 3,Voters,,,Registered voters,1129
+Grant,Prec 4,Voters,,,Registered voters,724
+Grant,Ward 1,Voters,,,Total Votes Cast,192
+Grant,Ward 2,Voters,,,Total Votes Cast,447
+Grant,Ward 3,Voters,,,Total Votes Cast,436
+Grant,Prec 4,Voters,,,Total Votes Cast,325
+Grant,Ward 1,Voters,,,Votes cast at polls,187
+Grant,Ward 2,Voters,,,Votes cast at polls,437
+Grant,Ward 3,Voters,,,Votes cast at polls,414
+Grant,Prec 4,Voters,,,Votes cast at polls,311
+county,precinct,office,district,party,candidate,Polls
+Grant,Advance,US Senate,,R,Pat Roberts [R],289
+Grant,Prov,US Senate,,R,Pat Roberts [R],23
+Grant,Advance,US Senate,,I,Greg Orman [I],99
+Grant,Prov,US Senate,,I,Greg Orman [I],14
+Grant,Advance,US Senate,,L,Randall Batson [L],15
+Grant,Prov,US Senate,,L,Randall Batson [L],3
+Grant,Advance,Congress 1,1,R,Tim Huelskamp [R],298
+Grant,Prov,Congress 1,1,R,Tim Huelskamp [R],28
+Grant,Advance,Congress 1,1,D,James E. Sherow [D],98
+Grant,Prov,Congress 1,1,D,James E. Sherow [D],11
+Grant,Advance,Governor,,R,Sam Brownback [R],259
+Grant,Prov,Governor,,R,Sam Brownback [R],20
+Grant,Advance,Governor,,D,Paul Davis [D],127
+Grant,Prov,Governor,,D,Paul Davis [D],13
+Grant,Advance,Governor,,L,Keen Umbehr [L],15
+Grant,Prov,Governor,,L,Keen Umbehr [L],6
+Grant,Advance,Secretary,,R,Kris Kobach [R],297
+Grant,Prov,Secretary,,R,Kris Kobach [R],28
+Grant,Advance,Secretary,,D,Jean Kurtis Schodorf [D],96
+Grant,Prov,Secretary,,D,Jean Kurtis Schodorf [D],10
+Grant,Advance,Attorney,,R,Derek Schmidt [R],316
+Grant,Prov,Attorney,,R,Derek Schmidt [R],27
+Grant,Advance,Attorney,,D,A J Kotich,73
+Grant,Prov,Attorney,,D,A J Kotich,11
+Grant,Advance,Treasurer,,R,Ron Estes [R],320
+Grant,Prov,Treasurer,,R,Ron Estes [R],27
+Grant,Advance,Treasurer,,D,Carmen Alldritt [D],67
+Grant,Prov,Treasurer,,D,Carmen Alldritt [D],11
+Grant,Advance,Insurance,,R,Ken Selzer [R],302
+Grant,Prov,Insurance,,R,Ken Selzer [R],27
+Grant,Advance,Insurance,,D,Dennis Anderson [D],78
+Grant,Prov,Insurance,,D,Dennis Anderson [D],11
+Grant,Advance,State Rep,124,R,Stephen Alford [R],342
+Grant,Prov,State Rep,124,R,Stephen Alford [R],35
