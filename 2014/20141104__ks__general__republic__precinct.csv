@@ -71,8 +71,8 @@ Republic,0021 Union,U.S. Senate,,L,Randall Batson,0
 Republic,0022 Washington,U.S. Senate,,L,Randall Batson,0
 Republic,0023 White Rock,U.S. Senate,,L,Randall Batson,1
 REPUBLIC,,U.S. Senate,,L,Randall Batson,96
-Republic,0006 Belleville,U.S. Senate,,,write-in,1
-Republic,0018 Richland,U.S. Senate,,,write-in,1
+Republic,0006 Belleville,U.S. Senate,,,Write-ins,1
+Republic,0018 Richland,U.S. Senate,,,Write-ins,1
 Republic,1st Ward,U.S. House,1,D,James Sherow,77
 Republic,2nd Ward,U.S. House,1,D,James Sherow,90
 Republic,3rd Ward,U.S. House,1,D,James Sherow,43
@@ -121,10 +121,10 @@ Republic,0021 Union,U.S. House,1,R,Tim Huelskamp,11
 Republic,0022 Washington,U.S. House,1,R,Tim Huelskamp,29
 Republic,0023 White Rock,U.S. House,1,R,Tim Huelskamp,33
 REPUBLIC,,U.S. House,1,R,Tim Huelskamp,1417
-Republic,2nd Ward,U.S. House,1,,write-in,2
-Republic,0008 Courtland,U.S. House,1,,write-in,1
-Republic,0018 Richland,U.S. House,1,,write-in,2
-REPUBLIC KS,,U.S. House,1,,write-in,5
+Republic,2nd Ward,U.S. House,1,,Write-ins,2
+Republic,0008 Courtland,U.S. House,1,,Write-ins,1
+Republic,0018 Richland,U.S. House,1,,Write-ins,2
+REPUBLIC KS,,U.S. House,1,,Write-ins,5
 Republic,1st Ward,Governor,,R,Sam Brownback,170
 Republic,2nd Ward,Governor,,R,Sam Brownback,173
 Republic,3rd Ward,Governor,,R,Sam Brownback,102
@@ -197,11 +197,11 @@ Republic,0021 Union,Governor,,L,Keen Umbehr,0
 Republic,0022 Washington,Governor,,L,Keen Umbehr,0
 Republic,0023 White Rock,Governor,,L,Keen Umbehr,3
 REPUBLIC,,Governor,,L,Keen Umbehr,111
-Republic,0008 Courtland,Governor,,,write-in,1
-Republic,0011 Farmington,Governor,,,write-in,1
-Republic,0015 Liberty,Governor,,,write-in,1
-Republic,0018 Richland,Governor,,,write-in,2
-REPUBLIC,,Governor,,,write-in,5
+Republic,0008 Courtland,Governor,,,Write-ins,1
+Republic,0011 Farmington,Governor,,,Write-ins,1
+Republic,0015 Liberty,Governor,,,Write-ins,1
+Republic,0018 Richland,Governor,,,Write-ins,2
+REPUBLIC,,Governor,,,Write-ins,5
 Republic,1st Ward,Secretary of State,,R,Kris Kobach,208
 Republic,2nd Ward,Secretary of State,,R,Kris Kobach,211
 Republic,3rd Ward,Secretary of State,,R,Kris Kobach,130
@@ -250,7 +250,7 @@ Republic,0021 Union,Secretary of State,,D,Jean Schodorf,6
 Republic,0022 Washington,Secretary of State,,D,Jean Schodorf,5
 Republic,0023 White Rock,Secretary of State,,D,Jean Schodorf,8
 REPUBLIC,REPUBLIC KS,Secretary of State,,D,Jean Schodorf,440
-Republic,0018 Richland,Secretary of State,,,write-in,1
+Republic,0018 Richland,Secretary of State,,,Write-ins,1
 Republic,1st Ward,Attorney General,,R,Derek Schmidt,214
 Republic,2nd Ward,Attorney General,,R,Derek Schmidt,236
 Republic,3rd Ward,Attorney General,,R,Derek Schmidt,133
@@ -299,8 +299,8 @@ Republic,0021 Union,Attorney General,,D,AJ Kotich,3
 Republic,0022 Washington,Attorney General,,D,AJ Kotich,4
 Republic,0023 White Rock,Attorney General,,D,AJ Kotich,9
 REPUBLIC,,Attorney General,,D,AJ Kotich,342
-Republic,0018 Richland,Attorney General,,,write-in,2
-Republic,0020 Scandia,Attorney General,,,write-in,1
+Republic,0018 Richland,Attorney General,,,Write-ins,2
+Republic,0020 Scandia,Attorney General,,,Write-ins,1
 Republic,1st Ward,State Treasurer,,R,Ken Estes,222
 Republic,2nd Ward,State Treasurer,,R,Ken Estes,233
 Republic,3rd Ward,State Treasurer,,R,Ken Estes,132
@@ -349,7 +349,7 @@ Republic,0021 Union,State Treasurer,,D,Carmen Alldritt,4
 Republic,0022 Washington,State Treasurer,,D,Carmen Alldritt,3
 Republic,0023 White Rock,State Treasurer,,D,Carmen Alldritt,6
 REPUBLIC,,TREAS,,D,Carmen Alldritt,321
-Republic,0018 Richland,State Treasurer,,,write-in,1
+Republic,0018 Richland,State Treasurer,,,Write-ins,1
 Republic,1st Ward,Insurance Commissioner,,R,Ken Selzer,206
 Republic,2nd Ward,Insurance Commissioner,,R,Ken Selzer,208
 Republic,3rd Ward,Insurance Commissioner,,R,Ken Selzer,122
@@ -398,54 +398,54 @@ Republic,0021 Union,Insurance Commissioner,,D,Dennis Anderson,4
 Republic,0022 Washington,Insurance Commissioner,,D,Dennis Anderson,5
 Republic,0023 White Rock,Insurance Commissioner,,D,Dennis Anderson,7
 REPUBLIC,,Insurance Commissioner,,D,Dennis Anderson,421
-Republic,2nd Ward,Insurance Commissioner,,,write-in,1
-Republic,0009 Elk Creek,Insurance Commissioner,,,write-in,1
-Republic,0018 Richland,Insurance Commissioner,,,write-in,1
-Republic,1st Ward,House,106,R,Sharon Schwartz,246
-Republic,2nd Ward,House,106,R,Sharon Schwartz,262
-Republic,3rd Ward,House,106,R,Sharon Schwartz,144
-Republic,0004 Albion,House,106,R,Sharon Schwartz,45
-Republic,0005 Beaver,House,106,R,Sharon Schwartz,33
-Republic,0006 Belleville,House,106,R,Sharon Schwartz,93
-Republic,0007 Big Bend,House,106,R,Sharon Schwartz,60
-Republic,0008 Courtland,House,106,R,Sharon Schwartz,158
-Republic,0009 Elk Creek,House,106,R,Sharon Schwartz,62
-Republic,0010 Fairview,House,106,R,Sharon Schwartz,57
-Republic,0011 Farmington,House,106,R,Sharon Schwartz,22
-Republic,0012 Freedom,House,106,R,Sharon Schwartz,69
-Republic,0013 Grant,House,106,R,Sharon Schwartz,24
-Republic,0014 Jefferson,House,106,R,Sharon Schwartz,40
-Republic,0015 Liberty,House,106,R,Sharon Schwartz,13
-Republic,0016 Lincoln,House,106,R,Sharon Schwartz,28
-Republic,0017 Norway,House,106,R,Sharon Schwartz,55
-Republic,0018 Richland,House,106,R,Sharon Schwartz,92
-Republic,0019 Rose Creek,House,106,R,Sharon Schwartz,53
-Republic,0020 Scandia,House,106,R,Sharon Schwartz,152
-Republic,0021 Union,House,106,R,Sharon Schwartz,13
-Republic,0022 Washington,House,106,R,Sharon Schwartz,32
-Republic,0023 White Rock,House,106,R,Sharon Schwartz,34
-Republic,,House,106,R,Sharon Schwartz,1787
-Republic,1st Ward,House,106,,write-in,3
-Republic,2nd Ward,House,106,,write-in,5
-Republic,3rd Ward,House,106,,write-in,6
-Republic,0004 Albion,House,106,,write-in,1
-Republic,0005 Beaver,House,106,,write-in,2
-Republic,0006 Belleville,House,106,,write-in,1
-Republic,0007 Big Bend,House,106,,write-in,0
-Republic,0008 Courtland,House,106,,write-in,5
-Republic,0009 Elk Creek,House,106,,write-in,0
-Republic,0010 Fairview,House,106,,write-in,4
-Republic,0011 Farmington,House,106,,write-in,0
-Republic,0012 Freedom,House,106,,write-in,1
-Republic,0013 Grant,House,106,,write-in,0
-Republic,0014 Jefferson,House,106,,write-in,0
-Republic,0015 Liberty,House,106,,write-in,1
-Republic,0016 Lincoln,House,106,,write-in,0
-Republic,0017 Norway,House,106,,write-in,1
-Republic,0018 Richland,House,106,,write-in,3
-Republic,0019 Rose Creek,House,106,,write-in,1
-Republic,0020 Scandia,House,106,,write-in,3
-Republic,0021 Union,House,106,,write-in,1
-Republic,0022 Washington,House,106,,write-in,1
-Republic,0023 White Rock,House,106,,write-in,3
-Republic,,House,106,,write-in,42
+Republic,2nd Ward,Insurance Commissioner,,,Write-ins,1
+Republic,0009 Elk Creek,Insurance Commissioner,,,Write-ins,1
+Republic,0018 Richland,Insurance Commissioner,,,Write-ins,1
+Republic,1st Ward,State House,106,R,Sharon Schwartz,246
+Republic,2nd Ward,State House,106,R,Sharon Schwartz,262
+Republic,3rd Ward,State House,106,R,Sharon Schwartz,144
+Republic,0004 Albion,State House,106,R,Sharon Schwartz,45
+Republic,0005 Beaver,State House,106,R,Sharon Schwartz,33
+Republic,0006 Belleville,State House,106,R,Sharon Schwartz,93
+Republic,0007 Big Bend,State House,106,R,Sharon Schwartz,60
+Republic,0008 Courtland,State House,106,R,Sharon Schwartz,158
+Republic,0009 Elk Creek,State House,106,R,Sharon Schwartz,62
+Republic,0010 Fairview,State House,106,R,Sharon Schwartz,57
+Republic,0011 Farmington,State House,106,R,Sharon Schwartz,22
+Republic,0012 Freedom,State House,106,R,Sharon Schwartz,69
+Republic,0013 Grant,State House,106,R,Sharon Schwartz,24
+Republic,0014 Jefferson,State House,106,R,Sharon Schwartz,40
+Republic,0015 Liberty,State House,106,R,Sharon Schwartz,13
+Republic,0016 Lincoln,State House,106,R,Sharon Schwartz,28
+Republic,0017 Norway,State House,106,R,Sharon Schwartz,55
+Republic,0018 Richland,State House,106,R,Sharon Schwartz,92
+Republic,0019 Rose Creek,State House,106,R,Sharon Schwartz,53
+Republic,0020 Scandia,State House,106,R,Sharon Schwartz,152
+Republic,0021 Union,State House,106,R,Sharon Schwartz,13
+Republic,0022 Washington,State House,106,R,Sharon Schwartz,32
+Republic,0023 White Rock,State House,106,R,Sharon Schwartz,34
+Republic,,State House,106,R,Sharon Schwartz,1787
+Republic,1st Ward,State House,106,,Write-ins,3
+Republic,2nd Ward,State House,106,,Write-ins,5
+Republic,3rd Ward,State House,106,,Write-ins,6
+Republic,0004 Albion,State House,106,,Write-ins,1
+Republic,0005 Beaver,State House,106,,Write-ins,2
+Republic,0006 Belleville,State House,106,,Write-ins,1
+Republic,0007 Big Bend,State House,106,,Write-ins,0
+Republic,0008 Courtland,State House,106,,Write-ins,5
+Republic,0009 Elk Creek,State House,106,,Write-ins,0
+Republic,0010 Fairview,State House,106,,Write-ins,4
+Republic,0011 Farmington,State House,106,,Write-ins,0
+Republic,0012 Freedom,State House,106,,Write-ins,1
+Republic,0013 Grant,State House,106,,Write-ins,0
+Republic,0014 Jefferson,State House,106,,Write-ins,0
+Republic,0015 Liberty,State House,106,,Write-ins,1
+Republic,0016 Lincoln,State House,106,,Write-ins,0
+Republic,0017 Norway,State House,106,,Write-ins,1
+Republic,0018 Richland,State House,106,,Write-ins,3
+Republic,0019 Rose Creek,State House,106,,Write-ins,1
+Republic,0020 Scandia,State House,106,,Write-ins,3
+Republic,0021 Union,State House,106,,Write-ins,1
+Republic,0022 Washington,State House,106,,Write-ins,1
+Republic,0023 White Rock,State House,106,,Write-ins,3
+Republic,,State House,106,,Write-ins,42

@@ -5,14 +5,14 @@ Ottawa,Mpls III,Attorney General,,D,A.J. Kotich,39
 Ottawa,Mpls 1,Attorney General,,R,Derek Schmidt,231
 Ottawa,Mpls II,Attorney General,,R,Derek Schmidt,150
 Ottawa,Mpls III,Attorney General,,R,Derek Schmidt,219
-Ottawa,Mpls 1,U.S. House,CD1,D,James Sherow,59
-Ottawa,Mpls II,U.S. House,CD1,D,James Sherow,44
-Ottawa,Mpls III,U.S. House,CD1,D,James Sherow,67
-Ottawa,Mpls 1,U.S. House,CD1,R,Tim Huelskamp,211
-Ottawa,Mpls II,U.S. House,CD1,R,Tim Huelskamp,134
-Ottawa,Mpls III,U.S. House,CD1,R,Tim Huelskamp,191
-Ottawa,Mpls 1,U.S. House,CD1,,Write-In,1
-Ottawa,Mpls III,U.S. House,CD1,,Write-In,1
+Ottawa,Mpls 1,U.S. House,1,D,James Sherow,59
+Ottawa,Mpls II,U.S. House,1,D,James Sherow,44
+Ottawa,Mpls III,U.S. House,1,D,James Sherow,67
+Ottawa,Mpls 1,U.S. House,1,R,Tim Huelskamp,211
+Ottawa,Mpls II,U.S. House,1,R,Tim Huelskamp,134
+Ottawa,Mpls III,U.S. House,1,R,Tim Huelskamp,191
+Ottawa,Mpls 1,U.S. House,1,,Write-ins,1
+Ottawa,Mpls III,U.S. House,1,,Write-ins,1
 Ottawa,Mpls 1,Governor ,,L,Keen Umbehr,17
 Ottawa,Mpls II,Governor ,,L,Keen Umbehr,19
 Ottawa,Mpls III,Governor ,,L,Keen Umbehr,22
@@ -28,7 +28,7 @@ Ottawa,Mpls III,Insurance Commissioner,,D,Dennis Anderson,54
 Ottawa,Mpls 1,Insurance Commissioner,,R,Ken Selzer,212
 Ottawa,Mpls II,Insurance Commissioner,,R,Ken Selzer,138
 Ottawa,Mpls III,Insurance Commissioner,,R,Ken Selzer,197
-Ottawa,Mpls 1,Insurance Commissioner,,,Write-In,1
+Ottawa,Mpls 1,Insurance Commissioner,,,Write-ins,1
 Ottawa,Mpls 1,Secretary of State,,D,Jean Kurtis Schodorf,67
 Ottawa,Mpls II,Secretary of State,,D,Jean Kurtis Schodorf,43
 Ottawa,Mpls III,Secretary of State,,D,Jean Kurtis Schodorf,62
@@ -38,8 +38,8 @@ Ottawa,Mpls III,Secretary of State,,R,Kris Kobach,199
 Ottawa,Mpls 1,State House,H107,R,Susan Concannon,228
 Ottawa,Mpls II,State House,H107,R,Susan Concannon,150
 Ottawa,Mpls III,State House,H107,R,Susan Concannon,220
-Ottawa,Mpls 1,State House,H107,wri,Write-In,1
-Ottawa,Mpls III,State House,H107,wri,Write-In,1
+Ottawa,Mpls 1,State House,H107,wri,Write-ins,1
+Ottawa,Mpls III,State House,H107,wri,Write-ins,1
 Ottawa,Mpls 1,State Treasurer,,D,Carmen Alldritt,37
 Ottawa,Mpls II,State Treasurer,,D,Carmen Alldritt,27
 Ottawa,Mpls III,State Treasurer,,D,Carmen Alldritt,37
@@ -55,7 +55,7 @@ Ottawa,Mpls III,U.S. Senate,,R,Pat Roberts,188
 Ottawa,Mpls 1,U.S. Senate,,L,Randall Batson,11
 Ottawa,Mpls II,U.S. Senate,,L,Randall Batson,15
 Ottawa,Mpls III,U.S. Senate,,L,Randall Batson,17
-Ottawa,Mpls III,U.S. Senate,,wri,Write-In,1
+Ottawa,Mpls III,U.S. Senate,,wri,Write-ins,1
 county,precinct,office,district,party,candidate,votes
 Ottawa,Bennington,Attorney General,,D,A.J. Kotich,89
 Ottawa,Blaine,Attorney General,,D,A.J. Kotich,10
@@ -97,48 +97,48 @@ Ottawa,Richland,Attorney General,,R,Derek Schmidt,93
 Ottawa,Sheridan,Attorney General,,R,Derek Schmidt,139
 Ottawa,Sherman,Attorney General,,R,Derek Schmidt,22
 Ottawa,Stanton,Attorney General,,R,Derek Schmidt,20
-Ottawa,Bennington,Attorney General,,wri,Write-In,1
-Ottawa,Bennington,U.S. House,CD1,D,James Sherow,133
-Ottawa,Blaine,U.S. House,CD1,D,James Sherow,10
-Ottawa,Buckeye,U.S. House,CD1,D,James Sherow,13
-Ottawa,Center,U.S. House,CD1,D,James Sherow,5
-Ottawa,Chapman,U.S. House,CD1,D,James Sherow,4
-Ottawa,Concord,U.S. House,CD1,D,James Sherow,23
-Ottawa,Culver,U.S. House,CD1,D,James Sherow,25
-Ottawa,Durham,U.S. House,CD1,D,James Sherow,2
-Ottawa,Fountain,U.S. House,CD1,D,James Sherow,12
-Ottawa,Garfield,U.S. House,CD1,D,James Sherow,5
-Ottawa,Grant,U.S. House,CD1,D,James Sherow,4
-Ottawa,Henry,U.S. House,CD1,D,James Sherow,2
-Ottawa,Lincoln,U.S. House,CD1,D,James Sherow,24
-Ottawa,Logan,U.S. House,CD1,D,James Sherow,7
-Ottawa,Morton,U.S. House,CD1,D,James Sherow,35
-Ottawa,Ottawa,U.S. House,CD1,D,James Sherow,5
-Ottawa,Richland,U.S. House,CD1,D,James Sherow,19
-Ottawa,Sheridan,U.S. House,CD1,D,James Sherow,48
-Ottawa,Sherman,U.S. House,CD1,D,James Sherow,4
-Ottawa,Stanton,U.S. House,CD1,D,James Sherow,9
-Ottawa,Bennington,U.S. House,CD1,R,Tim Huelskamp,327
-Ottawa,Blaine,U.S. House,CD1,R,Tim Huelskamp,48
-Ottawa,Buckeye,U.S. House,CD1,R,Tim Huelskamp,36
-Ottawa,Center,U.S. House,CD1,R,Tim Huelskamp,34
-Ottawa,Chapman,U.S. House,CD1,R,Tim Huelskamp,28
-Ottawa,Concord,U.S. House,CD1,R,Tim Huelskamp,76
-Ottawa,Culver,U.S. House,CD1,R,Tim Huelskamp,82
-Ottawa,Durham,U.S. House,CD1,R,Tim Huelskamp,4
-Ottawa,Fountain,U.S. House,CD1,R,Tim Huelskamp,42
-Ottawa,Garfield,U.S. House,CD1,R,Tim Huelskamp,34
-Ottawa,Grant,U.S. House,CD1,R,Tim Huelskamp,38
-Ottawa,Henry,U.S. House,CD1,R,Tim Huelskamp,7
-Ottawa,Lincoln,U.S. House,CD1,R,Tim Huelskamp,31
-Ottawa,Logan,U.S. House,CD1,R,Tim Huelskamp,25
-Ottawa,Morton,U.S. House,CD1,R,Tim Huelskamp,129
-Ottawa,Ottawa,U.S. House,CD1,R,Tim Huelskamp,16
-Ottawa,Richland,U.S. House,CD1,R,Tim Huelskamp,87
-Ottawa,Sheridan,U.S. House,CD1,R,Tim Huelskamp,130
-Ottawa,Sherman,U.S. House,CD1,R,Tim Huelskamp,22
-Ottawa,Stanton,U.S. House,CD1,R,Tim Huelskamp,15
-Ottawa,Bennington,U.S. House,CD1,wri,Write-In,1
+Ottawa,Bennington,Attorney General,,wri,Write-ins,1
+Ottawa,Bennington,U.S. House,1,D,James Sherow,133
+Ottawa,Blaine,U.S. House,1,D,James Sherow,10
+Ottawa,Buckeye,U.S. House,1,D,James Sherow,13
+Ottawa,Center,U.S. House,1,D,James Sherow,5
+Ottawa,Chapman,U.S. House,1,D,James Sherow,4
+Ottawa,Concord,U.S. House,1,D,James Sherow,23
+Ottawa,Culver,U.S. House,1,D,James Sherow,25
+Ottawa,Durham,U.S. House,1,D,James Sherow,2
+Ottawa,Fountain,U.S. House,1,D,James Sherow,12
+Ottawa,Garfield,U.S. House,1,D,James Sherow,5
+Ottawa,Grant,U.S. House,1,D,James Sherow,4
+Ottawa,Henry,U.S. House,1,D,James Sherow,2
+Ottawa,Lincoln,U.S. House,1,D,James Sherow,24
+Ottawa,Logan,U.S. House,1,D,James Sherow,7
+Ottawa,Morton,U.S. House,1,D,James Sherow,35
+Ottawa,Ottawa,U.S. House,1,D,James Sherow,5
+Ottawa,Richland,U.S. House,1,D,James Sherow,19
+Ottawa,Sheridan,U.S. House,1,D,James Sherow,48
+Ottawa,Sherman,U.S. House,1,D,James Sherow,4
+Ottawa,Stanton,U.S. House,1,D,James Sherow,9
+Ottawa,Bennington,U.S. House,1,R,Tim Huelskamp,327
+Ottawa,Blaine,U.S. House,1,R,Tim Huelskamp,48
+Ottawa,Buckeye,U.S. House,1,R,Tim Huelskamp,36
+Ottawa,Center,U.S. House,1,R,Tim Huelskamp,34
+Ottawa,Chapman,U.S. House,1,R,Tim Huelskamp,28
+Ottawa,Concord,U.S. House,1,R,Tim Huelskamp,76
+Ottawa,Culver,U.S. House,1,R,Tim Huelskamp,82
+Ottawa,Durham,U.S. House,1,R,Tim Huelskamp,4
+Ottawa,Fountain,U.S. House,1,R,Tim Huelskamp,42
+Ottawa,Garfield,U.S. House,1,R,Tim Huelskamp,34
+Ottawa,Grant,U.S. House,1,R,Tim Huelskamp,38
+Ottawa,Henry,U.S. House,1,R,Tim Huelskamp,7
+Ottawa,Lincoln,U.S. House,1,R,Tim Huelskamp,31
+Ottawa,Logan,U.S. House,1,R,Tim Huelskamp,25
+Ottawa,Morton,U.S. House,1,R,Tim Huelskamp,129
+Ottawa,Ottawa,U.S. House,1,R,Tim Huelskamp,16
+Ottawa,Richland,U.S. House,1,R,Tim Huelskamp,87
+Ottawa,Sheridan,U.S. House,1,R,Tim Huelskamp,130
+Ottawa,Sherman,U.S. House,1,R,Tim Huelskamp,22
+Ottawa,Stanton,U.S. House,1,R,Tim Huelskamp,15
+Ottawa,Bennington,U.S. House,1,wri,Write-ins,1
 Ottawa,Bennington,Governor ,,L,Keen Umbehr,31
 Ottawa,Blaine,Governor ,,L,Keen Umbehr,5
 Ottawa,Buckeye,Governor ,,L,Keen Umbehr,4
@@ -199,7 +199,7 @@ Ottawa,Richland,Governor ,,R,Sam Brownback,79
 Ottawa,Sheridan,Governor ,,R,Sam Brownback,106
 Ottawa,Sherman,Governor ,,R,Sam Brownback,24
 Ottawa,Stanton,Governor ,,R,Sam Brownback,14
-Ottawa,Lincoln,Governor ,,wri,Write-In,2
+Ottawa,Lincoln,Governor ,,wri,Write-ins,2
 Ottawa,Bennington,Insurance Commissioner,,D,Dennis Anderson,105
 Ottawa,Blaine,Insurance Commissioner,,D,Dennis Anderson,13
 Ottawa,Buckeye,Insurance Commissioner,,D,Dennis Anderson,8
@@ -240,7 +240,7 @@ Ottawa,Richland,Insurance Commissioner,,R,Ken Selzer,89
 Ottawa,Sheridan,Insurance Commissioner,,R,Ken Selzer,145
 Ottawa,Sherman,Insurance Commissioner,,R,Ken Selzer,22
 Ottawa,Stanton,Insurance Commissioner,,R,Ken Selzer,19
-Ottawa,Bennington,Insurance Commissioner,,wri,Write-In,1
+Ottawa,Bennington,Insurance Commissioner,,wri,Write-ins,1
 Ottawa,Bennington,Secretary of State,,D,Jean Kurtis Schodorf,133
 Ottawa,Blaine,Secretary of State,,D,Jean Kurtis Schodorf,15
 Ottawa,Buckeye,Secretary of State,,D,Jean Kurtis Schodorf,11
@@ -281,7 +281,7 @@ Ottawa,Richland,Secretary of State,,R,Kris Kobach,91
 Ottawa,Sheridan,Secretary of State,,R,Kris Kobach,137
 Ottawa,Sherman,Secretary of State,,R,Kris Kobach,23
 Ottawa,Stanton,Secretary of State,,R,Kris Kobach,17
-Ottawa,Henry,Secretary of State,,wri,Write-In,1
+Ottawa,Henry,Secretary of State,,wri,Write-ins,1
 Ottawa,Bennington,State House,H107,R,Susan Concannon,405
 Ottawa,Blaine,State House,H107,R,Susan Concannon,45
 Ottawa,Buckeye,State House,H107,R,Susan Concannon,46
@@ -302,10 +302,10 @@ Ottawa,Richland,State House,H107,R,Susan Concannon,103
 Ottawa,Sheridan,State House,H107,R,Susan Concannon,155
 Ottawa,Sherman,State House,H107,R,Susan Concannon,25
 Ottawa,Stanton,State House,H107,R,Susan Concannon,23
-Ottawa,Bennington,State House,H107,wri,Write-In,2
-Ottawa,Blaine,State House,H107,wri,Write-In,1
-Ottawa,Lincoln,State House,H107,wri,Write-In,3
-Ottawa,Sheridan,State House,H107,wri,Write-In,2
+Ottawa,Bennington,State House,H107,wri,Write-ins,2
+Ottawa,Blaine,State House,H107,wri,Write-ins,1
+Ottawa,Lincoln,State House,H107,wri,Write-ins,3
+Ottawa,Sheridan,State House,H107,wri,Write-ins,2
 Ottawa,Bennington,State Treasurer,,D,Carmen Alldritt,81
 Ottawa,Blaine,State Treasurer,,D,Carmen Alldritt,9
 Ottawa,Buckeye,State Treasurer,,D,Carmen Alldritt,9
@@ -346,7 +346,7 @@ Ottawa,Richland,State Treasurer,,R,Ron Estes,95
 Ottawa,Sheridan,State Treasurer,,R,Ron Estes,143
 Ottawa,Sherman,State Treasurer,,R,Ron Estes,24
 Ottawa,Stanton,State Treasurer,,R,Ron Estes,18
-Ottawa,Bennington,State Treasurer,,,Write-In,1
+Ottawa,Bennington,State Treasurer,,,Write-ins,1
 Ottawa,Bennington,U.S. Senate,,I,Greg Orman,121
 Ottawa,Blaine,U.S. Senate,,I,Greg Orman,10
 Ottawa,Buckeye,U.S. Senate,,I,Greg Orman,13
