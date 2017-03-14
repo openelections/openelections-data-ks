@@ -1,1 +1,69 @@
-county,precinct,office,district,party,candidate,votesGreeley,MSD - 408,President,,LBT,Gary Johnson,15Greeley,MSD - 408,President,,IND,Jill Stein,6Greeley,MSD - 408,President,,REP,Donald J Trump,317Greeley,MSD - 408,President,,DEM,Hillary Clinton,63Greeley,MSD - 408,President,,,Write-ins,0Greeley,GSD - 202,President,,LBT,Gary Johnson,7Greeley,GSD - 202,President,,IND,Jill Stein,1Greeley,GSD - 202,President,,REP,Donald J Trump,182Greeley,GSD - 202,President,,DEM,Hillary Clinton,16Greeley,GSD - 202,President,,,Write-ins,0Greeley,HC - 46,President,,LBT,Gary Johnson,3Greeley,HC - 46,President,,IND,Jill Stein,1Greeley,HC - 46,President,,REP,Donald J Trump,35Greeley,HC - 46,President,,DEM,Hillary Clinton,4Greeley,HC - 46,President,,,Write-ins,0Greeley,Prov.-11,President,,LBT,Gary Johnson,0Greeley,Prov.-11,President,,IND,Jill Stein,0Greeley,Prov.-11,President,,REP,Donald J Trump,0Greeley,Prov.-11,President,,DEM,Hillary Clinton,0Greeley,Prov.-11,President,,,Write-ins,0Greeley,MSD - 408,U.S. Senate,,REP,Jerry Moran,355Greeley,MSD - 408,U.S. Senate,,DEM,Patrick Wiesner,34Greeley,MSD - 408,U.S. Senate,,LBT,Robert Garrard,11Greeley,MSD - 408,U.S. Senate,,,Write-ins,0Greeley,GSD - 202,U.S. Senate,,REP,Jerry Moran,176Greeley,GSD - 202,U.S. Senate,,DEM,Patrick Wiesner,12Greeley,GSD - 202,U.S. Senate,,LBT,Robert Garrard,11Greeley,GSD - 202,U.S. Senate,,,Write-ins,0Greeley,HC - 46,U.S. Senate,,REP,Jerry Moran,39Greeley,HC - 46,U.S. Senate,,DEM,Patrick Wiesner,2Greeley,HC - 46,U.S. Senate,,LBT,Robert Garrard,1Greeley,HC - 46,U.S. Senate,,,Write-ins,0Greeley,Prov.-11,U.S. Senate,,REP,Jerry Moran,0Greeley,Prov.-11,U.S. Senate,,DEM,Patrick Wiesner,0Greeley,Prov.-11,U.S. Senate,,LBT,Robert Garrard,0Greeley,Prov.-11,U.S. Senate,,,Write-ins,0Greeley,MSD - 408,U.S. House,1,LBT,Kerry Burt,23Greeley,MSD - 408,U.S. House,1,IND,Alan LaPolice,32Greeley,MSD - 408,U.S. House,1,REP,Roger Marshall,333Greeley,MSD - 408,U.S. House,1,,Write-ins,0Greeley,GSD - 202,U.S. House,1,LBT,Kerry Burt,9Greeley,GSD - 202,U.S. House,1,IND,Alan LaPolice,24Greeley,GSD - 202,U.S. House,1,REP,Roger Marshall,156Greeley,GSD - 202,U.S. House,1,,Write-ins,0Greeley,HC - 46,U.S. House,1,LBT,Kerry Burt,2Greeley,HC - 46,U.S. House,1,IND,Alan LaPolice,6Greeley,HC - 46,U.S. House,1,REP,Roger Marshall,36Greeley,HC - 46,U.S. House,1,,Write-ins,0Greeley,Prov.-11,U.S. House,1,LBT,Kerry Burt,0Greeley,Prov.-11,U.S. House,1,IND,Alan LaPolice,0Greeley,Prov.-11,U.S. House,1,REP,Roger Marshall,0Greeley,Prov.-11,U.S. House,1,,Write-ins,0Greeley,MSD - 408,State Senate,,DEM,A. Zacheriah Worf,38Greeley,MSD - 408,State Senate,,REP,John Doll,349Greeley,MSD - 408,State Senate,,,Write-ins,0Greeley,GSD - 202,State Senate,,DEM,A. Zacheriah Worf,21Greeley,GSD - 202,State Senate,,REP,John Doll,160Greeley,GSD - 202,State Senate,,,Write-ins,0Greeley,HC - 46,State Senate,,DEM,A. Zacheriah Worf,5Greeley,HC - 46,State Senate,,REP,John Doll,36Greeley,HC - 46,State Senate,,,Write-ins,0Greeley,Prov.-11,State Senate,,DEM,A. Zacheriah Worf,0Greeley,Prov.-11,State Senate,,REP,John Doll,0Greeley,Prov.-11,State Senate,,,Write-ins,0Greeley,MSD - 408,State House,122,REP,J. Russell 'Russ' Jennings,385Greeley,GSD - 202,State House,122,REP,J. Russell 'Russ' Jennings,181Greeley,HC - 46,State House,122,REP,J. Russell 'Russ' Jennings,41Greeley,Prov.-11,State House,122,REP,J. Russell 'Russ' Jennings,0
+county,precinct,office,district,party,candidate,votes
+Greeley,MSD - 408,President,,LBT,Gary Johnson,15
+Greeley,MSD - 408,President,,IND,Jill Stein,6
+Greeley,MSD - 408,President,,REP,Donald J Trump,317
+Greeley,MSD - 408,President,,DEM,Hillary Clinton,63
+Greeley,MSD - 408,President,,,Write-ins,0
+Greeley,GSD - 202,President,,LBT,Gary Johnson,7
+Greeley,GSD - 202,President,,IND,Jill Stein,1
+Greeley,GSD - 202,President,,REP,Donald J Trump,182
+Greeley,GSD - 202,President,,DEM,Hillary Clinton,16
+Greeley,GSD - 202,President,,,Write-ins,0
+Greeley,HC - 46,President,,LBT,Gary Johnson,3
+Greeley,HC - 46,President,,IND,Jill Stein,1
+Greeley,HC - 46,President,,REP,Donald J Trump,35
+Greeley,HC - 46,President,,DEM,Hillary Clinton,4
+Greeley,HC - 46,President,,,Write-ins,0
+Greeley,Prov.-11,President,,LBT,Gary Johnson,0
+Greeley,Prov.-11,President,,IND,Jill Stein,0
+Greeley,Prov.-11,President,,REP,Donald J Trump,0
+Greeley,Prov.-11,President,,DEM,Hillary Clinton,0
+Greeley,Prov.-11,President,,,Write-ins,0
+Greeley,MSD - 408,U.S. Senate,,REP,Jerry Moran,355
+Greeley,MSD - 408,U.S. Senate,,DEM,Patrick Wiesner,34
+Greeley,MSD - 408,U.S. Senate,,LBT,Robert Garrard,11
+Greeley,MSD - 408,U.S. Senate,,,Write-ins,0
+Greeley,GSD - 202,U.S. Senate,,REP,Jerry Moran,176
+Greeley,GSD - 202,U.S. Senate,,DEM,Patrick Wiesner,12
+Greeley,GSD - 202,U.S. Senate,,LBT,Robert Garrard,11
+Greeley,GSD - 202,U.S. Senate,,,Write-ins,0
+Greeley,HC - 46,U.S. Senate,,REP,Jerry Moran,39
+Greeley,HC - 46,U.S. Senate,,DEM,Patrick Wiesner,2
+Greeley,HC - 46,U.S. Senate,,LBT,Robert Garrard,1
+Greeley,HC - 46,U.S. Senate,,,Write-ins,0
+Greeley,Prov.-11,U.S. Senate,,REP,Jerry Moran,0
+Greeley,Prov.-11,U.S. Senate,,DEM,Patrick Wiesner,0
+Greeley,Prov.-11,U.S. Senate,,LBT,Robert Garrard,0
+Greeley,Prov.-11,U.S. Senate,,,Write-ins,0
+Greeley,MSD - 408,U.S. House,1,LBT,Kerry Burt,23
+Greeley,MSD - 408,U.S. House,1,IND,Alan LaPolice,32
+Greeley,MSD - 408,U.S. House,1,REP,Roger Marshall,333
+Greeley,MSD - 408,U.S. House,1,,Write-ins,0
+Greeley,GSD - 202,U.S. House,1,LBT,Kerry Burt,9
+Greeley,GSD - 202,U.S. House,1,IND,Alan LaPolice,24
+Greeley,GSD - 202,U.S. House,1,REP,Roger Marshall,156
+Greeley,GSD - 202,U.S. House,1,,Write-ins,0
+Greeley,HC - 46,U.S. House,1,LBT,Kerry Burt,2
+Greeley,HC - 46,U.S. House,1,IND,Alan LaPolice,6
+Greeley,HC - 46,U.S. House,1,REP,Roger Marshall,36
+Greeley,HC - 46,U.S. House,1,,Write-ins,0
+Greeley,Prov.-11,U.S. House,1,LBT,Kerry Burt,0
+Greeley,Prov.-11,U.S. House,1,IND,Alan LaPolice,0
+Greeley,Prov.-11,U.S. House,1,REP,Roger Marshall,0
+Greeley,Prov.-11,U.S. House,1,,Write-ins,0
+Greeley,MSD - 408,State Senate,,DEM,A. Zacheriah Worf,38
+Greeley,MSD - 408,State Senate,,REP,John Doll,349
+Greeley,MSD - 408,State Senate,,,Write-ins,0
+Greeley,GSD - 202,State Senate,,DEM,A. Zacheriah Worf,21
+Greeley,GSD - 202,State Senate,,REP,John Doll,160
+Greeley,GSD - 202,State Senate,,,Write-ins,0
+Greeley,HC - 46,State Senate,,DEM,A. Zacheriah Worf,5
+Greeley,HC - 46,State Senate,,REP,John Doll,36
+Greeley,HC - 46,State Senate,,,Write-ins,0
+Greeley,Prov.-11,State Senate,,DEM,A. Zacheriah Worf,0
+Greeley,Prov.-11,State Senate,,REP,John Doll,0
+Greeley,Prov.-11,State Senate,,,Write-ins,0
+Greeley,MSD - 408,State House,122,REP,J. Russell 'Russ' Jennings,385
+Greeley,GSD - 202,State House,122,REP,J. Russell 'Russ' Jennings,181
+Greeley,HC - 46,State House,122,REP,J. Russell 'Russ' Jennings,41
+Greeley,Prov.-11,State House,122,REP,J. Russell 'Russ' Jennings,0
