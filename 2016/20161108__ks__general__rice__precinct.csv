@@ -27,7 +27,7 @@ Rice,Sterling E,President,,D,Hillary Clinton,49
 Rice,Sterling W,President,,D,Hillary Clinton,32
 Rice,Prov,President,,D,Hillary Clinton,12
 Rice,Advance,President,,D,Hillary Clinton,355
-Rice,,President,,D,Hillary Clinton,695
+Rice,Total,President,,D,Hillary Clinton,695
 Rice,Atlanta,President,,LBT,Gary Johnson,0
 Rice,Bell,President,,LBT,Gary Johnson,0
 Rice,Center,President,,LBT,Gary Johnson,1
@@ -56,7 +56,7 @@ Rice,Sterling E,President,,LBT,Gary Johnson,18
 Rice,Sterling W,President,,LBT,Gary Johnson,14
 Rice,Prov,President,,LBT,Gary Johnson,5
 Rice,Advance,President,,LBT,Gary Johnson,73
-Rice,,President,,LBT,Gary Johnson,194
+Rice,Total,President,,LBT,Gary Johnson,194
 Rice,Atlanta,President,,IND,Jill Stein,0
 Rice,Bell,President,,IND,Jill Stein,0
 Rice,Center,President,,IND,Jill Stein,0
@@ -85,7 +85,7 @@ Rice,Sterling E,President,,IND,Jill Stein,10
 Rice,Sterling W,President,,IND,Jill Stein,5
 Rice,Prov,President,,IND,Jill Stein,1
 Rice,Advance,President,,IND,Jill Stein,23
-Rice,,President,,IND,Jill Stein,69
+Rice,Total,President,,IND,Jill Stein,69
 Rice,Atlanta,President,,R,Donald Trump,23
 Rice,Bell,President,,R,Donald Trump,4
 Rice,Center,President,,R,Donald Trump,30
@@ -114,7 +114,7 @@ Rice,Sterling E,President,,R,Donald Trump,238
 Rice,Sterling W,President,,R,Donald Trump,152
 Rice,Prov,President,,R,Donald Trump,40
 Rice,Advance,President,,R,Donald Trump,1172
-Rice,,President,,R,Donald Trump,2837
+Rice,Total,President,,R,Donald Trump,2837
 Rice,Odessa,President,,CON,Darrell Castle,2
 Rice,Union,President,,CON,Darrell Castle,1
 Rice,Lyons 3,President,,CON,Darrell Castle,1
@@ -151,7 +151,7 @@ Rice,Sterling E,U.S. Senate,,LBT,Robert Garrard,19
 Rice,Sterling W,U.S. Senate,,LBT,Robert Garrard,18
 Rice,Prov,U.S. Senate,,LBT,Robert Garrard,6
 Rice,Advance,U.S. Senate,,LBT,Robert Garrard,89
-Rice,,U.S. Senate,,LBT,Robert Garrard,230
+Rice,Total,U.S. Senate,,LBT,Robert Garrard,230
 Rice,Atlanta,U.S. Senate,,R,Jerry Moran,21
 Rice,Bell,U.S. Senate,,R,Jerry Moran,4
 Rice,Center,U.S. Senate,,R,Jerry Moran,29
@@ -180,7 +180,7 @@ Rice,Sterling E,U.S. Senate,,R,Jerry Moran,272
 Rice,Sterling W,U.S. Senate,,R,Jerry Moran,163
 Rice,Prov,U.S. Senate,,R,Jerry Moran,44
 Rice,Advance,U.S. Senate,,R,Jerry Moran,1237
-Rice,,U.S. Senate,,R,Jerry Moran,2980
+Rice,Total,U.S. Senate,,R,Jerry Moran,2980
 Rice,Atlanta,U.S. Senate,,D,Patrick Wiesner,3
 Rice,Bell,U.S. Senate,,D,Patrick Wiesner,1
 Rice,Center,U.S. Senate,,D,Patrick Wiesner,1
@@ -209,7 +209,7 @@ Rice,Sterling E,U.S. Senate,,D,Patrick Wiesner,37
 Rice,Sterling W,U.S. Senate,,D,Patrick Wiesner,29
 Rice,Prov,U.S. Senate,,D,Patrick Wiesner,11
 Rice,Advance,U.S. Senate,,D,Patrick Wiesner,302
-Rice,,U.S. Senate,,D,Patrick Wiesner,611
+Rice,Total,U.S. Senate,,D,Patrick Wiesner,611
 Rice,Atlanta,U.S. House,1,LBT,Kerry Burt,1
 Rice,Bell,U.S. House,1,LBT,Kerry Burt,0
 Rice,Center,U.S. House,1,LBT,Kerry Burt,2
@@ -238,7 +238,7 @@ Rice,Sterling E,U.S. House,1,LBT,Kerry Burt,29
 Rice,Sterling W,U.S. House,1,LBT,Kerry Burt,19
 Rice,Prov,U.S. House,1,LBT,Kerry Burt,6
 Rice,Advance,U.S. House,1,LBT,Kerry Burt,113
-Rice,,U.S. House,1,LBT,Kerry Burt,282
+Rice,Total,U.S. House,1,LBT,Kerry Burt,282
 Rice,Atlanta,U.S. House,1,IND,Alan LaPolice,2
 Rice,Bell,U.S. House,1,IND,Alan LaPolice,3
 Rice,Center,U.S. House,1,IND,Alan LaPolice,4
@@ -267,7 +267,7 @@ Rice,Sterling E,U.S. House,1,IND,Alan LaPolice,59
 Rice,Sterling W,U.S. House,1,IND,Alan LaPolice,36
 Rice,Prov,U.S. House,1,IND,Alan LaPolice,8
 Rice,Advance,U.S. House,1,IND,Alan LaPolice,340
-Rice,,U.S. House,1,IND,Alan LaPolice,738
+Rice,Total,U.S. House,1,IND,Alan LaPolice,738
 Rice,Atlanta,U.S. House,1,R,Roger Marshall,24
 Rice,Bell,U.S. House,1,R,Roger Marshall,3
 Rice,Center,U.S. House,1,R,Roger Marshall,25
@@ -296,11 +296,11 @@ Rice,Sterling E,U.S. House,1,R,Roger Marshall,243
 Rice,Sterling W,U.S. House,1,R,Roger Marshall,149
 Rice,Prov,U.S. House,1,R,Roger Marshall,42
 Rice,Advance,U.S. House,1,R,Roger Marshall,1153
-Rice,,U.S. House,1,R,Roger Marshall,2764
+Rice,Total,U.S. House,1,R,Roger Marshall,2764
 Rice,Atlanta,State Senate,35,D,Levi Morris,3
 Rice,Bell,State Senate,33,D,Matt Bristow,1
 Rice,Center,State Senate,33,D,Matt Bristow,5
-Rice,Eureka,State Senate,33,D,Doug Walker,2
+Rice,Eureka,State Senate,33,D,Matt Bristow,2
 Rice,Farmer,State Senate,33,D,Matt Bristow,25
 Rice,Galt,State Senate,35,D,Levi Morris,8
 Rice,Harrison,State Senate,35,D,Levi Morris,9
@@ -325,14 +325,14 @@ Rice,Sterling E,State Senate,35,D,Levi Morris,85
 Rice,Sterling W,State Senate,35,D,Levi Morris,66
 Rice,Prov,State Senate,33,D,Matt Bristow,2
 Rice,Advance,State Senate,33,D,Matt Bristow,66
-Rice,,State Senate,33,D,Matt Bristow,282
+Rice,Total,State Senate,33,D,Matt Bristow,185
 Rice,Prov,State Senate,35,D,Levi Morris,22
 Rice,Advance,State Senate,35,D,Levi Morris,492
-Rice,,State Senate,35,D,Levi Morris,1074
+Rice,Total,State Senate,35,D,Levi Morris,1074
 Rice,Atlanta,State Senate,35,R,Richard Willborn,24
 Rice,Bell,State Senate,33,R,Mary Jo Taylor,4
 Rice,Center,State Senate,33,R,Mary Jo Taylor,26
-Rice,Eureka,State Senate,33,R,Doug Walker,10
+Rice,Eureka,State Senate,33,R,Mary Jo Taylor,10
 Rice,Farmer,State Senate,33,R,Mary Jo Taylor,79
 Rice,Galt,State Senate,35,R,Richard Willborn,25
 Rice,Harrison,State Senate,35,R,Richard Willborn,37
@@ -357,10 +357,10 @@ Rice,Sterling E,State Senate,35,R,Richard Willborn,234
 Rice,Sterling W,State Senate,35,R,Richard Willborn,135
 Rice,Prov,State Senate,33,R,Mary Jo Taylor,8
 Rice,Advance,State Senate,33,R,Mary Jo Taylor,146
-Rice,,State Senate,33,R,Mary Jo Taylor,451
+Rice,Total,State Senate,33,R,Mary Jo Taylor,451
 Rice,Prov,State Senate,35,R,Richard Willborn,26
 Rice,Advance,State Senate,35,R,Richard Willborn,897
-Rice,,State Senate,35,R,Richard Willborn,2046
+Rice,Total,State Senate,35,R,Richard Willborn,2046
 Rice,Eureka,State House,108,D,Kelley Menke,2
 Rice,Farmer,State House,108,D,Kelley Menke,19
 Rice,Galt,State House,108,D,Kelley Menke,6
@@ -370,7 +370,7 @@ Rice,Union,State House,108,D,Kelley Menke,60
 Rice,Victory,State House,108,D,Kelley Menke,31
 Rice,Prov,State House,108,D,Kelley Menke,5
 Rice,Advance,State House,108,D,Kelley Menke,77
-Rice,,State House,108,D,Kelley Menke,217
+Rice,Total,State House,108,D,Kelley Menke,217
 Rice,Atlanta,State House,113,R,Greg Lewis,26
 Rice,Bell,State House,113,R,Greg Lewis,5
 Rice,Center,State House,113,R,Greg Lewis,28
@@ -380,7 +380,7 @@ Rice,Galt,State House,108,R,Steven Johnson,28
 Rice,Harrison,State House,113,R,Greg Lewis,44
 Rice,Lincoln,State House,113,R,Greg Lewis,122
 Rice,Mitchell,State House,108,R,Steven Johnson,25
-Rice,Odessa,State House,108,R,Steven Johnson,19
+Rice,Odessa,State House,108,R,Steven Johnson,14
 Rice,Pioneer,State House,113,R,Greg Lewis,19
 Rice,Raymond,State House,113,R,Greg Lewis,51
 Rice,Rockville,State House,114,R,Jack Thimesch,40
@@ -399,10 +399,10 @@ Rice,Sterling E,State House,114,R,Jack Thimesch,288
 Rice,Sterling W,State House,114,R,Jack Thimesch,182
 Rice,Prov,State House,108,R,Steven Johnson,8
 Rice,Advance,State House,108,R,Steven Johnson,154
-Rice,,State House,108,R,Steven Johnson,565
+Rice,Total,State House,108,R,Steven Johnson,565
 Rice,Prov,State House,113,R,Greg Lewis,27
 Rice,Advance,State House,113,R,Greg Lewis,819
-Rice,,State House,113,R,Greg Lewis,1626
+Rice,Total,State House,113,R,Greg Lewis,1626
 Rice,Prov,State House,114,R,Jack Thimesch,14
 Rice,Advance,State House,114,R,Jack Thimesch,395
-Rice,,State House,114,R,Jack Thimesch,1049
+Rice,Total,State House,114,R,Jack Thimesch,1049
