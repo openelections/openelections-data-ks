@@ -1,4 +1,4 @@
-COUNTY,PRECINCT,,,,,REG
+county,precinct,office,district,party,candidate,votes
 Lyon,Emporia 01.01,Voters,,,Registration,800
 Lyon,Emporia 02.01,Voters,,,Registration,676
 Lyon,Emporia 03.01,Voters,,,Registration,808
@@ -71,30 +71,29 @@ Lyon,Precinct 29D.01,Voters,,,Ballots Cast,3
 Lyon,Precinct 30.01,Voters,,,Ballots Cast,383
 Lyon,Precinct 31.01,Voters,,,Ballots Cast,502
 Lyon,Precinct 32.01,Voters,,,Ballots Cast,276
-,,,,,,
-Ly-Emporia,Emporia 01.01,U.S. Senate,,R,Pat Roberts,124
-Ly-Emporia,Emporia 02.01,U.S. Senate,,R,Pat Roberts,84
-Ly-Emporia,Emporia 03.01,U.S. Senate,,R,Pat Roberts,124
-Ly-Emporia,Emporia 04.01,U.S. Senate,,R,Pat Roberts,124
-Ly-Emporia,Emporia 4A.01,U.S. Senate,,R,Pat Roberts,4
-Ly-Emporia,Emporia 4B.01,U.S. Senate,,R,Pat Roberts,0
-Ly-Emporia,Emporia 4C.01,U.S. Senate,,R,Pat Roberts,2
-Ly-Emporia,Emporia 05.01,U.S. Senate,,R,Pat Roberts,76
-Ly-Emporia,Emporia 06.01,U.S. Senate,,R,Pat Roberts,88
-Ly-Emporia,Emporia 07.01,U.S. Senate,,R,Pat Roberts,33
-Ly-Emporia,Emporia 08.01,U.S. Senate,,R,Pat Roberts,79
-Ly-Emporia,Emporia 09.01,U.S. Senate,,R,Pat Roberts,89
-Ly-Emporia,Emporia 10.01,U.S. Senate,,R,Pat Roberts,108
-Ly-Emporia,Emporia 11.01,U.S. Senate,,R,Pat Roberts,87
-Ly-Emporia,Emporia 12.01,U.S. Senate,,R,Pat Roberts,91
-Ly-Emporia,Emporia 13.01,U.S. Senate,,R,Pat Roberts,135
-Ly-Emporia,Emporia 14.01,U.S. Senate,,R,Pat Roberts,184
-Ly-Emporia,Emporia 15.01,U.S. Senate,,R,Pat Roberts,109
-Ly-Emporia,Emporia 16.01,U.S. Senate,,R,Pat Roberts,145
-Ly-Emporia,Emporia 17.01,U.S. Senate,,R,Pat Roberts,160
-Ly-Emporia,Emporia 18.01,U.S. Senate,,R,Pat Roberts,154
-Ly-Emporia,Emporia 19.01,U.S. Senate,,R,Pat Roberts,234
-Ly-Emporia,Emporia 20.01,U.S. Senate,,R,Pat Roberts,239
+Lyon,Emporia 01.01,U.S. Senate,,R,Pat Roberts,124
+Lyon,Emporia 02.01,U.S. Senate,,R,Pat Roberts,84
+Lyon,Emporia 03.01,U.S. Senate,,R,Pat Roberts,124
+Lyon,Emporia 04.01,U.S. Senate,,R,Pat Roberts,124
+Lyon,Emporia 4A.01,U.S. Senate,,R,Pat Roberts,4
+Lyon,Emporia 4B.01,U.S. Senate,,R,Pat Roberts,0
+Lyon,Emporia 4C.01,U.S. Senate,,R,Pat Roberts,2
+Lyon,Emporia 05.01,U.S. Senate,,R,Pat Roberts,76
+Lyon,Emporia 06.01,U.S. Senate,,R,Pat Roberts,88
+Lyon,Emporia 07.01,U.S. Senate,,R,Pat Roberts,33
+Lyon,Emporia 08.01,U.S. Senate,,R,Pat Roberts,79
+Lyon,Emporia 09.01,U.S. Senate,,R,Pat Roberts,89
+Lyon,Emporia 10.01,U.S. Senate,,R,Pat Roberts,108
+Lyon,Emporia 11.01,U.S. Senate,,R,Pat Roberts,87
+Lyon,Emporia 12.01,U.S. Senate,,R,Pat Roberts,91
+Lyon,Emporia 13.01,U.S. Senate,,R,Pat Roberts,135
+Lyon,Emporia 14.01,U.S. Senate,,R,Pat Roberts,184
+Lyon,Emporia 15.01,U.S. Senate,,R,Pat Roberts,109
+Lyon,Emporia 16.01,U.S. Senate,,R,Pat Roberts,145
+Lyon,Emporia 17.01,U.S. Senate,,R,Pat Roberts,160
+Lyon,Emporia 18.01,U.S. Senate,,R,Pat Roberts,154
+Lyon,Emporia 19.01,U.S. Senate,,R,Pat Roberts,234
+Lyon,Emporia 20.01,U.S. Senate,,R,Pat Roberts,239
 Lyon,Precinct 21.01,U.S. Senate,,R,Pat Roberts,80
 Lyon,Precinct 22.01,U.S. Senate,,R,Pat Roberts,60
 Lyon,Precinct 23.01,U.S. Senate,,R,Pat Roberts,66
@@ -108,29 +107,29 @@ Lyon,Precinct 29D.01,U.S. Senate,,R,Pat Roberts,3
 Lyon,Precinct 30.01,U.S. Senate,,R,Pat Roberts,200
 Lyon,Precinct 31.01,U.S. Senate,,R,Pat Roberts,271
 Lyon,Precinct 32.01,U.S. Senate,,R,Pat Roberts,138
-Ly-Emporia,Emporia 01.01,U.S. Senate,,I,Greg Orman,188
-Ly-Emporia,Emporia 02.01,U.S. Senate,,I,Greg Orman,128
-Ly-Emporia,Emporia 03.01,U.S. Senate,,I,Greg Orman,124
-Ly-Emporia,Emporia 04.01,U.S. Senate,,I,Greg Orman,171
-Ly-Emporia,Emporia 4A.01,U.S. Senate,,I,Greg Orman,0
-Ly-Emporia,Emporia 4B.01,U.S. Senate,,I,Greg Orman,1
-Ly-Emporia,Emporia 4C.01,U.S. Senate,,I,Greg Orman,3
-Ly-Emporia,Emporia 05.01,U.S. Senate,,I,Greg Orman,86
-Ly-Emporia,Emporia 06.01,U.S. Senate,,I,Greg Orman,103
-Ly-Emporia,Emporia 07.01,U.S. Senate,,I,Greg Orman,53
-Ly-Emporia,Emporia 08.01,U.S. Senate,,I,Greg Orman,110
-Ly-Emporia,Emporia 09.01,U.S. Senate,,I,Greg Orman,107
-Ly-Emporia,Emporia 10.01,U.S. Senate,,I,Greg Orman,149
-Ly-Emporia,Emporia 11.01,U.S. Senate,,I,Greg Orman,107
-Ly-Emporia,Emporia 12.01,U.S. Senate,,I,Greg Orman,115
-Ly-Emporia,Emporia 13.01,U.S. Senate,,I,Greg Orman,142
-Ly-Emporia,Emporia 14.01,U.S. Senate,,I,Greg Orman,239
-Ly-Emporia,Emporia 15.01,U.S. Senate,,I,Greg Orman,116
-Ly-Emporia,Emporia 16.01,U.S. Senate,,I,Greg Orman,199
-Ly-Emporia,Emporia 17.01,U.S. Senate,,I,Greg Orman,172
-Ly-Emporia,Emporia 18.01,U.S. Senate,,I,Greg Orman,164
-Ly-Emporia,Emporia 19.01,U.S. Senate,,I,Greg Orman,279
-Ly-Emporia,Emporia 20.01,U.S. Senate,,I,Greg Orman,206
+Lyon,Emporia 01.01,U.S. Senate,,I,Greg Orman,188
+Lyon,Emporia 02.01,U.S. Senate,,I,Greg Orman,128
+Lyon,Emporia 03.01,U.S. Senate,,I,Greg Orman,124
+Lyon,Emporia 04.01,U.S. Senate,,I,Greg Orman,171
+Lyon,Emporia 4A.01,U.S. Senate,,I,Greg Orman,0
+Lyon,Emporia 4B.01,U.S. Senate,,I,Greg Orman,1
+Lyon,Emporia 4C.01,U.S. Senate,,I,Greg Orman,3
+Lyon,Emporia 05.01,U.S. Senate,,I,Greg Orman,86
+Lyon,Emporia 06.01,U.S. Senate,,I,Greg Orman,103
+Lyon,Emporia 07.01,U.S. Senate,,I,Greg Orman,53
+Lyon,Emporia 08.01,U.S. Senate,,I,Greg Orman,110
+Lyon,Emporia 09.01,U.S. Senate,,I,Greg Orman,107
+Lyon,Emporia 10.01,U.S. Senate,,I,Greg Orman,149
+Lyon,Emporia 11.01,U.S. Senate,,I,Greg Orman,107
+Lyon,Emporia 12.01,U.S. Senate,,I,Greg Orman,115
+Lyon,Emporia 13.01,U.S. Senate,,I,Greg Orman,142
+Lyon,Emporia 14.01,U.S. Senate,,I,Greg Orman,239
+Lyon,Emporia 15.01,U.S. Senate,,I,Greg Orman,116
+Lyon,Emporia 16.01,U.S. Senate,,I,Greg Orman,199
+Lyon,Emporia 17.01,U.S. Senate,,I,Greg Orman,172
+Lyon,Emporia 18.01,U.S. Senate,,I,Greg Orman,164
+Lyon,Emporia 19.01,U.S. Senate,,I,Greg Orman,279
+Lyon,Emporia 20.01,U.S. Senate,,I,Greg Orman,206
 Lyon,Precinct 21.01,U.S. Senate,,I,Greg Orman,65
 Lyon,Precinct 22.01,U.S. Senate,,I,Greg Orman,34
 Lyon,Precinct 23.01,U.S. Senate,,I,Greg Orman,34
@@ -144,29 +143,29 @@ Lyon,Precinct 29D.01,U.S. Senate,,I,Greg Orman,0
 Lyon,Precinct 30.01,U.S. Senate,,I,Greg Orman,149
 Lyon,Precinct 31.01,U.S. Senate,,I,Greg Orman,198
 Lyon,Precinct 32.01,U.S. Senate,,I,Greg Orman,118
-Ly-Emporia,Emporia 01.01,U.S. Senate,,L,Randall Batson,7
-Ly-Emporia,Emporia 02.01,U.S. Senate,,L,Randall Batson,11
-Ly-Emporia,Emporia 03.01,U.S. Senate,,L,Randall Batson,17
-Ly-Emporia,Emporia 04.01,U.S. Senate,,L,Randall Batson,13
-Ly-Emporia,Emporia 4A.01,U.S. Senate,,L,Randall Batson,0
-Ly-Emporia,Emporia 4B.01,U.S. Senate,,L,Randall Batson,0
-Ly-Emporia,Emporia 4C.01,U.S. Senate,,L,Randall Batson,0
-Ly-Emporia,Emporia 05.01,U.S. Senate,,L,Randall Batson,13
-Ly-Emporia,Emporia 06.01,U.S. Senate,,L,Randall Batson,13
-Ly-Emporia,Emporia 07.01,U.S. Senate,,L,Randall Batson,5
-Ly-Emporia,Emporia 08.01,U.S. Senate,,L,Randall Batson,11
-Ly-Emporia,Emporia 09.01,U.S. Senate,,L,Randall Batson,6
-Ly-Emporia,Emporia 10.01,U.S. Senate,,L,Randall Batson,12
-Ly-Emporia,Emporia 11.01,U.S. Senate,,L,Randall Batson,7
-Ly-Emporia,Emporia 12.01,U.S. Senate,,L,Randall Batson,8
-Ly-Emporia,Emporia 13.01,U.S. Senate,,L,Randall Batson,22
-Ly-Emporia,Emporia 14.01,U.S. Senate,,L,Randall Batson,10
-Ly-Emporia,Emporia 15.01,U.S. Senate,,L,Randall Batson,7
-Ly-Emporia,Emporia 16.01,U.S. Senate,,L,Randall Batson,11
-Ly-Emporia,Emporia 17.01,U.S. Senate,,L,Randall Batson,22
-Ly-Emporia,Emporia 18.01,U.S. Senate,,L,Randall Batson,8
-Ly-Emporia,Emporia 19.01,U.S. Senate,,L,Randall Batson,16
-Ly-Emporia,Emporia 20.01,U.S. Senate,,L,Randall Batson,14
+Lyon,Emporia 01.01,U.S. Senate,,L,Randall Batson,7
+Lyon,Emporia 02.01,U.S. Senate,,L,Randall Batson,11
+Lyon,Emporia 03.01,U.S. Senate,,L,Randall Batson,17
+Lyon,Emporia 04.01,U.S. Senate,,L,Randall Batson,13
+Lyon,Emporia 4A.01,U.S. Senate,,L,Randall Batson,0
+Lyon,Emporia 4B.01,U.S. Senate,,L,Randall Batson,0
+Lyon,Emporia 4C.01,U.S. Senate,,L,Randall Batson,0
+Lyon,Emporia 05.01,U.S. Senate,,L,Randall Batson,13
+Lyon,Emporia 06.01,U.S. Senate,,L,Randall Batson,13
+Lyon,Emporia 07.01,U.S. Senate,,L,Randall Batson,5
+Lyon,Emporia 08.01,U.S. Senate,,L,Randall Batson,11
+Lyon,Emporia 09.01,U.S. Senate,,L,Randall Batson,6
+Lyon,Emporia 10.01,U.S. Senate,,L,Randall Batson,12
+Lyon,Emporia 11.01,U.S. Senate,,L,Randall Batson,7
+Lyon,Emporia 12.01,U.S. Senate,,L,Randall Batson,8
+Lyon,Emporia 13.01,U.S. Senate,,L,Randall Batson,22
+Lyon,Emporia 14.01,U.S. Senate,,L,Randall Batson,10
+Lyon,Emporia 15.01,U.S. Senate,,L,Randall Batson,7
+Lyon,Emporia 16.01,U.S. Senate,,L,Randall Batson,11
+Lyon,Emporia 17.01,U.S. Senate,,L,Randall Batson,22
+Lyon,Emporia 18.01,U.S. Senate,,L,Randall Batson,8
+Lyon,Emporia 19.01,U.S. Senate,,L,Randall Batson,16
+Lyon,Emporia 20.01,U.S. Senate,,L,Randall Batson,14
 Lyon,Precinct 21.01,U.S. Senate,,L,Randall Batson,5
 Lyon,Precinct 22.01,U.S. Senate,,L,Randall Batson,3
 Lyon,Precinct 23.01,U.S. Senate,,L,Randall Batson,7
@@ -180,29 +179,29 @@ Lyon,Precinct 29D.01,U.S. Senate,,L,Randall Batson,0
 Lyon,Precinct 30.01,U.S. Senate,,L,Randall Batson,29
 Lyon,Precinct 31.01,U.S. Senate,,L,Randall Batson,25
 Lyon,Precinct 32.01,U.S. Senate,,L,Randall Batson,16
-Ly-Emporia,Emporia 01.01,U.S. House,1,R,Tim Huelskamp,124
-Ly-Emporia,Emporia 02.01,U.S. House,1,R,Tim Huelskamp,101
-Ly-Emporia,Emporia 03.01,U.S. House,1,R,Tim Huelskamp,131
-Ly-Emporia,Emporia 04.01,U.S. House,1,R,Tim Huelskamp,145
-Ly-Emporia,Emporia 4A.01,U.S. House,1,R,Tim Huelskamp,4
-Ly-Emporia,Emporia 4B.01,U.S. House,1,R,Tim Huelskamp,0
-Ly-Emporia,Emporia 4C.01,U.S. House,1,R,Tim Huelskamp,1
-Ly-Emporia,Emporia 05.01,U.S. House,1,R,Tim Huelskamp,90
-Ly-Emporia,Emporia 06.01,U.S. House,1,R,Tim Huelskamp,85
-Ly-Emporia,Emporia 07.01,U.S. House,1,R,Tim Huelskamp,37
-Ly-Emporia,Emporia 08.01,U.S. House,1,R,Tim Huelskamp,98
-Ly-Emporia,Emporia 09.01,U.S. House,1,R,Tim Huelskamp,94
-Ly-Emporia,Emporia 10.01,U.S. House,1,R,Tim Huelskamp,131
-Ly-Emporia,Emporia 11.01,U.S. House,1,R,Tim Huelskamp,99
-Ly-Emporia,Emporia 12.01,U.S. House,1,R,Tim Huelskamp,94
-Ly-Emporia,Emporia 13.01,U.S. House,1,R,Tim Huelskamp,149
-Ly-Emporia,Emporia 14.01,U.S. House,1,R,Tim Huelskamp,190
-Ly-Emporia,Emporia 15.01,U.S. House,1,R,Tim Huelskamp,109
-Ly-Emporia,Emporia 16.01,U.S. House,1,R,Tim Huelskamp,154
-Ly-Emporia,Emporia 17.01,U.S. House,1,R,Tim Huelskamp,168
-Ly-Emporia,Emporia 18.01,U.S. House,1,R,Tim Huelskamp,164
-Ly-Emporia,Emporia 19.01,U.S. House,1,R,Tim Huelskamp,269
-Ly-Emporia,Emporia 20.01,U.S. House,1,R,Tim Huelskamp,233
+Lyon,Emporia 01.01,U.S. House,1,R,Tim Huelskamp,124
+Lyon,Emporia 02.01,U.S. House,1,R,Tim Huelskamp,101
+Lyon,Emporia 03.01,U.S. House,1,R,Tim Huelskamp,131
+Lyon,Emporia 04.01,U.S. House,1,R,Tim Huelskamp,145
+Lyon,Emporia 4A.01,U.S. House,1,R,Tim Huelskamp,4
+Lyon,Emporia 4B.01,U.S. House,1,R,Tim Huelskamp,0
+Lyon,Emporia 4C.01,U.S. House,1,R,Tim Huelskamp,1
+Lyon,Emporia 05.01,U.S. House,1,R,Tim Huelskamp,90
+Lyon,Emporia 06.01,U.S. House,1,R,Tim Huelskamp,85
+Lyon,Emporia 07.01,U.S. House,1,R,Tim Huelskamp,37
+Lyon,Emporia 08.01,U.S. House,1,R,Tim Huelskamp,98
+Lyon,Emporia 09.01,U.S. House,1,R,Tim Huelskamp,94
+Lyon,Emporia 10.01,U.S. House,1,R,Tim Huelskamp,131
+Lyon,Emporia 11.01,U.S. House,1,R,Tim Huelskamp,99
+Lyon,Emporia 12.01,U.S. House,1,R,Tim Huelskamp,94
+Lyon,Emporia 13.01,U.S. House,1,R,Tim Huelskamp,149
+Lyon,Emporia 14.01,U.S. House,1,R,Tim Huelskamp,190
+Lyon,Emporia 15.01,U.S. House,1,R,Tim Huelskamp,109
+Lyon,Emporia 16.01,U.S. House,1,R,Tim Huelskamp,154
+Lyon,Emporia 17.01,U.S. House,1,R,Tim Huelskamp,168
+Lyon,Emporia 18.01,U.S. House,1,R,Tim Huelskamp,164
+Lyon,Emporia 19.01,U.S. House,1,R,Tim Huelskamp,269
+Lyon,Emporia 20.01,U.S. House,1,R,Tim Huelskamp,233
 Lyon,Precinct 21.01,U.S. House,1,R,Tim Huelskamp,95
 Lyon,Precinct 22.01,U.S. House,1,R,Tim Huelskamp,67
 Lyon,Precinct 23.01,U.S. House,1,R,Tim Huelskamp,67
@@ -216,29 +215,29 @@ Lyon,Precinct 29D.01,U.S. House,1,R,Tim Huelskamp,3
 Lyon,Precinct 30.01,U.S. House,1,R,Tim Huelskamp,224
 Lyon,Precinct 31.01,U.S. House,1,R,Tim Huelskamp,306
 Lyon,Precinct 32.01,U.S. House,1,R,Tim Huelskamp,168
-Ly-Emporia,Emporia 01.01,U.S. House,1,D,James Sherow,193
-Ly-Emporia,Emporia 02.01,U.S. House,1,D,James Sherow,115
-Ly-Emporia,Emporia 03.01,U.S. House,1,D,James Sherow,126
-Ly-Emporia,Emporia 04.01,U.S. House,1,D,James Sherow,157
-Ly-Emporia,Emporia 4A.01,U.S. House,1,D,James Sherow,0
-Ly-Emporia,Emporia 4B.01,U.S. House,1,D,James Sherow,2
-Ly-Emporia,Emporia 4C.01,U.S. House,1,D,James Sherow,4
-Ly-Emporia,Emporia 05.01,U.S. House,1,D,James Sherow,86
-Ly-Emporia,Emporia 06.01,U.S. House,1,D,James Sherow,121
-Ly-Emporia,Emporia 07.01,U.S. House,1,D,James Sherow,51
-Ly-Emporia,Emporia 08.01,U.S. House,1,D,James Sherow,102
-Ly-Emporia,Emporia 09.01,U.S. House,1,D,James Sherow,104
-Ly-Emporia,Emporia 10.01,U.S. House,1,D,James Sherow,136
-Ly-Emporia,Emporia 11.01,U.S. House,1,D,James Sherow,101
-Ly-Emporia,Emporia 12.01,U.S. House,1,D,James Sherow,114
-Ly-Emporia,Emporia 13.01,U.S. House,1,D,James Sherow,145
-Ly-Emporia,Emporia 14.01,U.S. House,1,D,James Sherow,230
-Ly-Emporia,Emporia 15.01,U.S. House,1,D,James Sherow,122
-Ly-Emporia,Emporia 16.01,U.S. House,1,D,James Sherow,196
-Ly-Emporia,Emporia 17.01,U.S. House,1,D,James Sherow,181
-Ly-Emporia,Emporia 18.01,U.S. House,1,D,James Sherow,156
-Ly-Emporia,Emporia 19.01,U.S. House,1,D,James Sherow,252
-Ly-Emporia,Emporia 20.01,U.S. House,1,D,James Sherow,214
+Lyon,Emporia 01.01,U.S. House,1,D,James Sherow,193
+Lyon,Emporia 02.01,U.S. House,1,D,James Sherow,115
+Lyon,Emporia 03.01,U.S. House,1,D,James Sherow,126
+Lyon,Emporia 04.01,U.S. House,1,D,James Sherow,157
+Lyon,Emporia 4A.01,U.S. House,1,D,James Sherow,0
+Lyon,Emporia 4B.01,U.S. House,1,D,James Sherow,2
+Lyon,Emporia 4C.01,U.S. House,1,D,James Sherow,4
+Lyon,Emporia 05.01,U.S. House,1,D,James Sherow,86
+Lyon,Emporia 06.01,U.S. House,1,D,James Sherow,121
+Lyon,Emporia 07.01,U.S. House,1,D,James Sherow,51
+Lyon,Emporia 08.01,U.S. House,1,D,James Sherow,102
+Lyon,Emporia 09.01,U.S. House,1,D,James Sherow,104
+Lyon,Emporia 10.01,U.S. House,1,D,James Sherow,136
+Lyon,Emporia 11.01,U.S. House,1,D,James Sherow,101
+Lyon,Emporia 12.01,U.S. House,1,D,James Sherow,114
+Lyon,Emporia 13.01,U.S. House,1,D,James Sherow,145
+Lyon,Emporia 14.01,U.S. House,1,D,James Sherow,230
+Lyon,Emporia 15.01,U.S. House,1,D,James Sherow,122
+Lyon,Emporia 16.01,U.S. House,1,D,James Sherow,196
+Lyon,Emporia 17.01,U.S. House,1,D,James Sherow,181
+Lyon,Emporia 18.01,U.S. House,1,D,James Sherow,156
+Lyon,Emporia 19.01,U.S. House,1,D,James Sherow,252
+Lyon,Emporia 20.01,U.S. House,1,D,James Sherow,214
 Lyon,Precinct 21.01,U.S. House,1,D,James Sherow,50
 Lyon,Precinct 22.01,U.S. House,1,D,James Sherow,31
 Lyon,Precinct 23.01,U.S. House,1,D,James Sherow,40
@@ -252,29 +251,29 @@ Lyon,Precinct 29D.01,U.S. House,1,D,James Sherow,0
 Lyon,Precinct 30.01,U.S. House,1,D,James Sherow,150
 Lyon,Precinct 31.01,U.S. House,1,D,James Sherow,173
 Lyon,Precinct 32.01,U.S. House,1,D,James Sherow,105
-Ly-Emporia,Emporia 01.01,Governor,,R,Sam Brownback,99
-Ly-Emporia,Emporia 02.01,Governor,,R,Sam Brownback,64
-Ly-Emporia,Emporia 03.01,Governor,,R,Sam Brownback,107
-Ly-Emporia,Emporia 04.01,Governor,,R,Sam Brownback,96
-Ly-Emporia,Emporia 4A.01,Governor,,R,Sam Brownback,4
-Ly-Emporia,Emporia 4B.01,Governor,,R,Sam Brownback,0
-Ly-Emporia,Emporia 4C.01,Governor,,R,Sam Brownback,1
-Ly-Emporia,Emporia 05.01,Governor,,R,Sam Brownback,61
-Ly-Emporia,Emporia 06.01,Governor,,R,Sam Brownback,71
-Ly-Emporia,Emporia 07.01,Governor,,R,Sam Brownback,23
-Ly-Emporia,Emporia 08.01,Governor,,R,Sam Brownback,65
-Ly-Emporia,Emporia 09.01,Governor,,R,Sam Brownback,71
-Ly-Emporia,Emporia 10.01,Governor,,R,Sam Brownback,93
-Ly-Emporia,Emporia 11.01,Governor,,R,Sam Brownback,64
-Ly-Emporia,Emporia 12.01,Governor,,R,Sam Brownback,60
-Ly-Emporia,Emporia 13.01,Governor,,R,Sam Brownback,108
-Ly-Emporia,Emporia 14.01,Governor,,R,Sam Brownback,142
-Ly-Emporia,Emporia 15.01,Governor,,R,Sam Brownback,84
-Ly-Emporia,Emporia 16.01,Governor,,R,Sam Brownback,110
-Ly-Emporia,Emporia 17.01,Governor,,R,Sam Brownback,126
-Ly-Emporia,Emporia 18.01,Governor,,R,Sam Brownback,128
-Ly-Emporia,Emporia 19.01,Governor,,R,Sam Brownback,192
-Ly-Emporia,Emporia 20.01,Governor,,R,Sam Brownback,171
+Lyon,Emporia 01.01,Governor,,R,Sam Brownback,99
+Lyon,Emporia 02.01,Governor,,R,Sam Brownback,64
+Lyon,Emporia 03.01,Governor,,R,Sam Brownback,107
+Lyon,Emporia 04.01,Governor,,R,Sam Brownback,96
+Lyon,Emporia 4A.01,Governor,,R,Sam Brownback,4
+Lyon,Emporia 4B.01,Governor,,R,Sam Brownback,0
+Lyon,Emporia 4C.01,Governor,,R,Sam Brownback,1
+Lyon,Emporia 05.01,Governor,,R,Sam Brownback,61
+Lyon,Emporia 06.01,Governor,,R,Sam Brownback,71
+Lyon,Emporia 07.01,Governor,,R,Sam Brownback,23
+Lyon,Emporia 08.01,Governor,,R,Sam Brownback,65
+Lyon,Emporia 09.01,Governor,,R,Sam Brownback,71
+Lyon,Emporia 10.01,Governor,,R,Sam Brownback,93
+Lyon,Emporia 11.01,Governor,,R,Sam Brownback,64
+Lyon,Emporia 12.01,Governor,,R,Sam Brownback,60
+Lyon,Emporia 13.01,Governor,,R,Sam Brownback,108
+Lyon,Emporia 14.01,Governor,,R,Sam Brownback,142
+Lyon,Emporia 15.01,Governor,,R,Sam Brownback,84
+Lyon,Emporia 16.01,Governor,,R,Sam Brownback,110
+Lyon,Emporia 17.01,Governor,,R,Sam Brownback,126
+Lyon,Emporia 18.01,Governor,,R,Sam Brownback,128
+Lyon,Emporia 19.01,Governor,,R,Sam Brownback,192
+Lyon,Emporia 20.01,Governor,,R,Sam Brownback,171
 Lyon,Precinct 21.01,Governor,,R,Sam Brownback,77
 Lyon,Precinct 22.01,Governor,,R,Sam Brownback,55
 Lyon,Precinct 23.01,Governor,,R,Sam Brownback,57
@@ -288,29 +287,29 @@ Lyon,Precinct 29D.01,Governor,,R,Sam Brownback,3
 Lyon,Precinct 30.01,Governor,,R,Sam Brownback,180
 Lyon,Precinct 31.01,Governor,,R,Sam Brownback,221
 Lyon,Precinct 32.01,Governor,,R,Sam Brownback,125
-Ly-Emporia,Emporia 01.01,Governor,,D,Paul Davis,213
-Ly-Emporia,Emporia 02.01,Governor,,D,Paul Davis,154
-Ly-Emporia,Emporia 03.01,Governor,,D,Paul Davis,154
-Ly-Emporia,Emporia 04.01,Governor,,D,Paul Davis,195
-Ly-Emporia,Emporia 4A.01,Governor,,D,Paul Davis,0
-Ly-Emporia,Emporia 4B.01,Governor,,D,Paul Davis,2
-Ly-Emporia,Emporia 4C.01,Governor,,D,Paul Davis,4
-Ly-Emporia,Emporia 05.01,Governor,,D,Paul Davis,99
-Ly-Emporia,Emporia 06.01,Governor,,D,Paul Davis,125
-Ly-Emporia,Emporia 07.01,Governor,,D,Paul Davis,60
-Ly-Emporia,Emporia 08.01,Governor,,D,Paul Davis,124
-Ly-Emporia,Emporia 09.01,Governor,,D,Paul Davis,121
-Ly-Emporia,Emporia 10.01,Governor,,D,Paul Davis,173
-Ly-Emporia,Emporia 11.01,Governor,,D,Paul Davis,126
-Ly-Emporia,Emporia 12.01,Governor,,D,Paul Davis,144
-Ly-Emporia,Emporia 13.01,Governor,,D,Paul Davis,175
-Ly-Emporia,Emporia 14.01,Governor,,D,Paul Davis,282
-Ly-Emporia,Emporia 15.01,Governor,,D,Paul Davis,146
-Ly-Emporia,Emporia 16.01,Governor,,D,Paul Davis,236
-Ly-Emporia,Emporia 17.01,Governor,,D,Paul Davis,211
-Ly-Emporia,Emporia 18.01,Governor,,D,Paul Davis,199
-Ly-Emporia,Emporia 19.01,Governor,,D,Paul Davis,327
-Ly-Emporia,Emporia 20.01,Governor,,D,Paul Davis,283
+Lyon,Emporia 01.01,Governor,,D,Paul Davis,213
+Lyon,Emporia 02.01,Governor,,D,Paul Davis,154
+Lyon,Emporia 03.01,Governor,,D,Paul Davis,154
+Lyon,Emporia 04.01,Governor,,D,Paul Davis,195
+Lyon,Emporia 4A.01,Governor,,D,Paul Davis,0
+Lyon,Emporia 4B.01,Governor,,D,Paul Davis,2
+Lyon,Emporia 4C.01,Governor,,D,Paul Davis,4
+Lyon,Emporia 05.01,Governor,,D,Paul Davis,99
+Lyon,Emporia 06.01,Governor,,D,Paul Davis,125
+Lyon,Emporia 07.01,Governor,,D,Paul Davis,60
+Lyon,Emporia 08.01,Governor,,D,Paul Davis,124
+Lyon,Emporia 09.01,Governor,,D,Paul Davis,121
+Lyon,Emporia 10.01,Governor,,D,Paul Davis,173
+Lyon,Emporia 11.01,Governor,,D,Paul Davis,126
+Lyon,Emporia 12.01,Governor,,D,Paul Davis,144
+Lyon,Emporia 13.01,Governor,,D,Paul Davis,175
+Lyon,Emporia 14.01,Governor,,D,Paul Davis,282
+Lyon,Emporia 15.01,Governor,,D,Paul Davis,146
+Lyon,Emporia 16.01,Governor,,D,Paul Davis,236
+Lyon,Emporia 17.01,Governor,,D,Paul Davis,211
+Lyon,Emporia 18.01,Governor,,D,Paul Davis,199
+Lyon,Emporia 19.01,Governor,,D,Paul Davis,327
+Lyon,Emporia 20.01,Governor,,D,Paul Davis,283
 Lyon,Precinct 21.01,Governor,,D,Paul Davis,65
 Lyon,Precinct 22.01,Governor,,D,Paul Davis,39
 Lyon,Precinct 23.01,Governor,,D,Paul Davis,46
@@ -324,29 +323,29 @@ Lyon,Precinct 29D.01,Governor,,D,Paul Davis,0
 Lyon,Precinct 30.01,Governor,,D,Paul Davis,173
 Lyon,Precinct 31.01,Governor,,D,Paul Davis,259
 Lyon,Precinct 32.01,Governor,,D,Paul Davis,120
-Ly-Emporia,Emporia 01.01,Governor,,L,Keen Umbehr,13
-Ly-Emporia,Emporia 02.01,Governor,,L,Keen Umbehr,6
-Ly-Emporia,Emporia 03.01,Governor,,L,Keen Umbehr,10
-Ly-Emporia,Emporia 04.01,Governor,,L,Keen Umbehr,20
-Ly-Emporia,Emporia 4A.01,Governor,,L,Keen Umbehr,0
-Ly-Emporia,Emporia 4B.01,Governor,,L,Keen Umbehr,0
-Ly-Emporia,Emporia 4C.01,Governor,,L,Keen Umbehr,0
-Ly-Emporia,Emporia 05.01,Governor,,L,Keen Umbehr,20
-Ly-Emporia,Emporia 06.01,Governor,,L,Keen Umbehr,14
-Ly-Emporia,Emporia 07.01,Governor,,L,Keen Umbehr,8
-Ly-Emporia,Emporia 08.01,Governor,,L,Keen Umbehr,15
-Ly-Emporia,Emporia 09.01,Governor,,L,Keen Umbehr,10
-Ly-Emporia,Emporia 10.01,Governor,,L,Keen Umbehr,6
-Ly-Emporia,Emporia 11.01,Governor,,L,Keen Umbehr,12
-Ly-Emporia,Emporia 12.01,Governor,,L,Keen Umbehr,13
-Ly-Emporia,Emporia 13.01,Governor,,L,Keen Umbehr,24
-Ly-Emporia,Emporia 14.01,Governor,,L,Keen Umbehr,10
-Ly-Emporia,Emporia 15.01,Governor,,L,Keen Umbehr,6
-Ly-Emporia,Emporia 16.01,Governor,,L,Keen Umbehr,10
-Ly-Emporia,Emporia 17.01,Governor,,L,Keen Umbehr,16
-Ly-Emporia,Emporia 18.01,Governor,,L,Keen Umbehr,2
-Ly-Emporia,Emporia 19.01,Governor,,L,Keen Umbehr,17
-Ly-Emporia,Emporia 20.01,Governor,,L,Keen Umbehr,8
+Lyon,Emporia 01.01,Governor,,L,Keen Umbehr,13
+Lyon,Emporia 02.01,Governor,,L,Keen Umbehr,6
+Lyon,Emporia 03.01,Governor,,L,Keen Umbehr,10
+Lyon,Emporia 04.01,Governor,,L,Keen Umbehr,20
+Lyon,Emporia 4A.01,Governor,,L,Keen Umbehr,0
+Lyon,Emporia 4B.01,Governor,,L,Keen Umbehr,0
+Lyon,Emporia 4C.01,Governor,,L,Keen Umbehr,0
+Lyon,Emporia 05.01,Governor,,L,Keen Umbehr,20
+Lyon,Emporia 06.01,Governor,,L,Keen Umbehr,14
+Lyon,Emporia 07.01,Governor,,L,Keen Umbehr,8
+Lyon,Emporia 08.01,Governor,,L,Keen Umbehr,15
+Lyon,Emporia 09.01,Governor,,L,Keen Umbehr,10
+Lyon,Emporia 10.01,Governor,,L,Keen Umbehr,6
+Lyon,Emporia 11.01,Governor,,L,Keen Umbehr,12
+Lyon,Emporia 12.01,Governor,,L,Keen Umbehr,13
+Lyon,Emporia 13.01,Governor,,L,Keen Umbehr,24
+Lyon,Emporia 14.01,Governor,,L,Keen Umbehr,10
+Lyon,Emporia 15.01,Governor,,L,Keen Umbehr,6
+Lyon,Emporia 16.01,Governor,,L,Keen Umbehr,10
+Lyon,Emporia 17.01,Governor,,L,Keen Umbehr,16
+Lyon,Emporia 18.01,Governor,,L,Keen Umbehr,2
+Lyon,Emporia 19.01,Governor,,L,Keen Umbehr,17
+Lyon,Emporia 20.01,Governor,,L,Keen Umbehr,8
 Lyon,Precinct 21.01,Governor,,L,Keen Umbehr,12
 Lyon,Precinct 22.01,Governor,,L,Keen Umbehr,4
 Lyon,Precinct 23.01,Governor,,L,Keen Umbehr,7
@@ -360,29 +359,29 @@ Lyon,Precinct 29D.01,Governor,,L,Keen Umbehr,0
 Lyon,Precinct 30.01,Governor,,L,Keen Umbehr,22
 Lyon,Precinct 31.01,Governor,,L,Keen Umbehr,20
 Lyon,Precinct 32.01,Governor,,L,Keen Umbehr,28
-Ly-Emporia,Emporia 01.01,Secretary of State,,R,Kris Kobach,121
-Ly-Emporia,Emporia 02.01,Secretary of State,,R,Kris Kobach,96
-Ly-Emporia,Emporia 03.01,Secretary of State,,R,Kris Kobach,133
-Ly-Emporia,Emporia 04.01,Secretary of State,,R,Kris Kobach,149
-Ly-Emporia,Emporia 4A.01,Secretary of State,,R,Kris Kobach,4
-Ly-Emporia,Emporia 4B.01,Secretary of State,,R,Kris Kobach,0
-Ly-Emporia,Emporia 4C.01,Secretary of State,,R,Kris Kobach,2
-Ly-Emporia,Emporia 05.01,Secretary of State,,R,Kris Kobach,90
-Ly-Emporia,Emporia 06.01,Secretary of State,,R,Kris Kobach,86
-Ly-Emporia,Emporia 07.01,Secretary of State,,R,Kris Kobach,36
-Ly-Emporia,Emporia 08.01,Secretary of State,,R,Kris Kobach,92
-Ly-Emporia,Emporia 09.01,Secretary of State,,R,Kris Kobach,99
-Ly-Emporia,Emporia 10.01,Secretary of State,,R,Kris Kobach,131
-Ly-Emporia,Emporia 11.01,Secretary of State,,R,Kris Kobach,100
-Ly-Emporia,Emporia 12.01,Secretary of State,,R,Kris Kobach,97
-Ly-Emporia,Emporia 13.01,Secretary of State,,R,Kris Kobach,160
-Ly-Emporia,Emporia 14.01,Secretary of State,,R,Kris Kobach,197
-Ly-Emporia,Emporia 15.01,Secretary of State,,R,Kris Kobach,115
-Ly-Emporia,Emporia 16.01,Secretary of State,,R,Kris Kobach,163
-Ly-Emporia,Emporia 17.01,Secretary of State,,R,Kris Kobach,184
-Ly-Emporia,Emporia 18.01,Secretary of State,,R,Kris Kobach,172
-Ly-Emporia,Emporia 19.01,Secretary of State,,R,Kris Kobach,284
-Ly-Emporia,Emporia 20.01,Secretary of State,,R,Kris Kobach,249
+Lyon,Emporia 01.01,Secretary of State,,R,Kris Kobach,121
+Lyon,Emporia 02.01,Secretary of State,,R,Kris Kobach,96
+Lyon,Emporia 03.01,Secretary of State,,R,Kris Kobach,133
+Lyon,Emporia 04.01,Secretary of State,,R,Kris Kobach,149
+Lyon,Emporia 4A.01,Secretary of State,,R,Kris Kobach,4
+Lyon,Emporia 4B.01,Secretary of State,,R,Kris Kobach,0
+Lyon,Emporia 4C.01,Secretary of State,,R,Kris Kobach,2
+Lyon,Emporia 05.01,Secretary of State,,R,Kris Kobach,90
+Lyon,Emporia 06.01,Secretary of State,,R,Kris Kobach,86
+Lyon,Emporia 07.01,Secretary of State,,R,Kris Kobach,36
+Lyon,Emporia 08.01,Secretary of State,,R,Kris Kobach,92
+Lyon,Emporia 09.01,Secretary of State,,R,Kris Kobach,99
+Lyon,Emporia 10.01,Secretary of State,,R,Kris Kobach,131
+Lyon,Emporia 11.01,Secretary of State,,R,Kris Kobach,100
+Lyon,Emporia 12.01,Secretary of State,,R,Kris Kobach,97
+Lyon,Emporia 13.01,Secretary of State,,R,Kris Kobach,160
+Lyon,Emporia 14.01,Secretary of State,,R,Kris Kobach,197
+Lyon,Emporia 15.01,Secretary of State,,R,Kris Kobach,115
+Lyon,Emporia 16.01,Secretary of State,,R,Kris Kobach,163
+Lyon,Emporia 17.01,Secretary of State,,R,Kris Kobach,184
+Lyon,Emporia 18.01,Secretary of State,,R,Kris Kobach,172
+Lyon,Emporia 19.01,Secretary of State,,R,Kris Kobach,284
+Lyon,Emporia 20.01,Secretary of State,,R,Kris Kobach,249
 Lyon,Precinct 21.01,Secretary of State,,R,Kris Kobach,102
 Lyon,Precinct 22.01,Secretary of State,,R,Kris Kobach,69
 Lyon,Precinct 23.01,Secretary of State,,R,Kris Kobach,70
@@ -396,29 +395,29 @@ Lyon,Precinct 29D.01,Secretary of State,,R,Kris Kobach,2
 Lyon,Precinct 30.01,Secretary of State,,R,Kris Kobach,234
 Lyon,Precinct 31.01,Secretary of State,,R,Kris Kobach,314
 Lyon,Precinct 32.01,Secretary of State,,R,Kris Kobach,169
-Ly-Emporia,Emporia 01.01,Secretary of State,,D,Jean Schodorf,197
-Ly-Emporia,Emporia 02.01,Secretary of State,,D,Jean Schodorf,121
-Ly-Emporia,Emporia 03.01,Secretary of State,,D,Jean Schodorf,124
-Ly-Emporia,Emporia 04.01,Secretary of State,,D,Jean Schodorf,154
-Ly-Emporia,Emporia 4A.01,Secretary of State,,D,Jean Schodorf,0
-Ly-Emporia,Emporia 4B.01,Secretary of State,,D,Jean Schodorf,2
-Ly-Emporia,Emporia 4C.01,Secretary of State,,D,Jean Schodorf,3
-Ly-Emporia,Emporia 05.01,Secretary of State,,D,Jean Schodorf,85
-Ly-Emporia,Emporia 06.01,Secretary of State,,D,Jean Schodorf,122
-Ly-Emporia,Emporia 07.01,Secretary of State,,D,Jean Schodorf,49
-Ly-Emporia,Emporia 08.01,Secretary of State,,D,Jean Schodorf,108
-Ly-Emporia,Emporia 09.01,Secretary of State,,D,Jean Schodorf,98
-Ly-Emporia,Emporia 10.01,Secretary of State,,D,Jean Schodorf,136
-Ly-Emporia,Emporia 11.01,Secretary of State,,D,Jean Schodorf,100
-Ly-Emporia,Emporia 12.01,Secretary of State,,D,Jean Schodorf,114
-Ly-Emporia,Emporia 13.01,Secretary of State,,D,Jean Schodorf,138
-Ly-Emporia,Emporia 14.01,Secretary of State,,D,Jean Schodorf,232
-Ly-Emporia,Emporia 15.01,Secretary of State,,D,Jean Schodorf,117
-Ly-Emporia,Emporia 16.01,Secretary of State,,D,Jean Schodorf,188
-Ly-Emporia,Emporia 17.01,Secretary of State,,D,Jean Schodorf,163
-Ly-Emporia,Emporia 18.01,Secretary of State,,D,Jean Schodorf,150
-Ly-Emporia,Emporia 19.01,Secretary of State,,D,Jean Schodorf,238
-Ly-Emporia,Emporia 20.01,Secretary of State,,D,Jean Schodorf,203
+Lyon,Emporia 01.01,Secretary of State,,D,Jean Schodorf,197
+Lyon,Emporia 02.01,Secretary of State,,D,Jean Schodorf,121
+Lyon,Emporia 03.01,Secretary of State,,D,Jean Schodorf,124
+Lyon,Emporia 04.01,Secretary of State,,D,Jean Schodorf,154
+Lyon,Emporia 4A.01,Secretary of State,,D,Jean Schodorf,0
+Lyon,Emporia 4B.01,Secretary of State,,D,Jean Schodorf,2
+Lyon,Emporia 4C.01,Secretary of State,,D,Jean Schodorf,3
+Lyon,Emporia 05.01,Secretary of State,,D,Jean Schodorf,85
+Lyon,Emporia 06.01,Secretary of State,,D,Jean Schodorf,122
+Lyon,Emporia 07.01,Secretary of State,,D,Jean Schodorf,49
+Lyon,Emporia 08.01,Secretary of State,,D,Jean Schodorf,108
+Lyon,Emporia 09.01,Secretary of State,,D,Jean Schodorf,98
+Lyon,Emporia 10.01,Secretary of State,,D,Jean Schodorf,136
+Lyon,Emporia 11.01,Secretary of State,,D,Jean Schodorf,100
+Lyon,Emporia 12.01,Secretary of State,,D,Jean Schodorf,114
+Lyon,Emporia 13.01,Secretary of State,,D,Jean Schodorf,138
+Lyon,Emporia 14.01,Secretary of State,,D,Jean Schodorf,232
+Lyon,Emporia 15.01,Secretary of State,,D,Jean Schodorf,117
+Lyon,Emporia 16.01,Secretary of State,,D,Jean Schodorf,188
+Lyon,Emporia 17.01,Secretary of State,,D,Jean Schodorf,163
+Lyon,Emporia 18.01,Secretary of State,,D,Jean Schodorf,150
+Lyon,Emporia 19.01,Secretary of State,,D,Jean Schodorf,238
+Lyon,Emporia 20.01,Secretary of State,,D,Jean Schodorf,203
 Lyon,Precinct 21.01,Secretary of State,,D,Jean Schodorf,47
 Lyon,Precinct 22.01,Secretary of State,,D,Jean Schodorf,29
 Lyon,Precinct 23.01,Secretary of State,,D,Jean Schodorf,40
@@ -432,29 +431,29 @@ Lyon,Precinct 29D.01,Secretary of State,,D,Jean Schodorf,0
 Lyon,Precinct 30.01,Secretary of State,,D,Jean Schodorf,141
 Lyon,Precinct 31.01,Secretary of State,,D,Jean Schodorf,171
 Lyon,Precinct 32.01,Secretary of State,,D,Jean Schodorf,102
-Ly-Emporia,Emporia 01.01,Attorney General,,R,Derek Schmidt,157
-Ly-Emporia,Emporia 02.01,Attorney General,,R,Derek Schmidt,106
-Ly-Emporia,Emporia 03.01,Attorney General,,R,Derek Schmidt,147
-Ly-Emporia,Emporia 04.01,Attorney General,,R,Derek Schmidt,161
-Ly-Emporia,Emporia 4A.01,Attorney General,,R,Derek Schmidt,4
-Ly-Emporia,Emporia 4B.01,Attorney General,,R,Derek Schmidt,0
-Ly-Emporia,Emporia 4C.01,Attorney General,,R,Derek Schmidt,3
-Ly-Emporia,Emporia 05.01,Attorney General,,R,Derek Schmidt,100
-Ly-Emporia,Emporia 06.01,Attorney General,,R,Derek Schmidt,96
-Ly-Emporia,Emporia 07.01,Attorney General,,R,Derek Schmidt,42
-Ly-Emporia,Emporia 08.01,Attorney General,,R,Derek Schmidt,101
-Ly-Emporia,Emporia 09.01,Attorney General,,R,Derek Schmidt,111
-Ly-Emporia,Emporia 10.01,Attorney General,,R,Derek Schmidt,154
-Ly-Emporia,Emporia 11.01,Attorney General,,R,Derek Schmidt,114
-Ly-Emporia,Emporia 12.01,Attorney General,,R,Derek Schmidt,109
-Ly-Emporia,Emporia 13.01,Attorney General,,R,Derek Schmidt,175
-Ly-Emporia,Emporia 14.01,Attorney General,,R,Derek Schmidt,233
-Ly-Emporia,Emporia 15.01,Attorney General,,R,Derek Schmidt,131
-Ly-Emporia,Emporia 16.01,Attorney General,,R,Derek Schmidt,193
-Ly-Emporia,Emporia 17.01,Attorney General,,R,Derek Schmidt,219
-Ly-Emporia,Emporia 18.01,Attorney General,,R,Derek Schmidt,197
-Ly-Emporia,Emporia 19.01,Attorney General,,R,Derek Schmidt,333
-Ly-Emporia,Emporia 20.01,Attorney General,,R,Derek Schmidt,298
+Lyon,Emporia 01.01,Attorney General,,R,Derek Schmidt,157
+Lyon,Emporia 02.01,Attorney General,,R,Derek Schmidt,106
+Lyon,Emporia 03.01,Attorney General,,R,Derek Schmidt,147
+Lyon,Emporia 04.01,Attorney General,,R,Derek Schmidt,161
+Lyon,Emporia 4A.01,Attorney General,,R,Derek Schmidt,4
+Lyon,Emporia 4B.01,Attorney General,,R,Derek Schmidt,0
+Lyon,Emporia 4C.01,Attorney General,,R,Derek Schmidt,3
+Lyon,Emporia 05.01,Attorney General,,R,Derek Schmidt,100
+Lyon,Emporia 06.01,Attorney General,,R,Derek Schmidt,96
+Lyon,Emporia 07.01,Attorney General,,R,Derek Schmidt,42
+Lyon,Emporia 08.01,Attorney General,,R,Derek Schmidt,101
+Lyon,Emporia 09.01,Attorney General,,R,Derek Schmidt,111
+Lyon,Emporia 10.01,Attorney General,,R,Derek Schmidt,154
+Lyon,Emporia 11.01,Attorney General,,R,Derek Schmidt,114
+Lyon,Emporia 12.01,Attorney General,,R,Derek Schmidt,109
+Lyon,Emporia 13.01,Attorney General,,R,Derek Schmidt,175
+Lyon,Emporia 14.01,Attorney General,,R,Derek Schmidt,233
+Lyon,Emporia 15.01,Attorney General,,R,Derek Schmidt,131
+Lyon,Emporia 16.01,Attorney General,,R,Derek Schmidt,193
+Lyon,Emporia 17.01,Attorney General,,R,Derek Schmidt,219
+Lyon,Emporia 18.01,Attorney General,,R,Derek Schmidt,197
+Lyon,Emporia 19.01,Attorney General,,R,Derek Schmidt,333
+Lyon,Emporia 20.01,Attorney General,,R,Derek Schmidt,298
 Lyon,Precinct 21.01,Attorney General,,R,Derek Schmidt,110
 Lyon,Precinct 22.01,Attorney General,,R,Derek Schmidt,71
 Lyon,Precinct 23.01,Attorney General,,R,Derek Schmidt,81
@@ -468,29 +467,29 @@ Lyon,Precinct 29D.01,Attorney General,,R,Derek Schmidt,3
 Lyon,Precinct 30.01,Attorney General,,R,Derek Schmidt,258
 Lyon,Precinct 31.01,Attorney General,,R,Derek Schmidt,367
 Lyon,Precinct 32.01,Attorney General,,R,Derek Schmidt,204
-Ly-Emporia,Emporia 01.01,Attorney General,,D,AJ Kotich,157
-Ly-Emporia,Emporia 02.01,Attorney General,,D,AJ Kotich,111
-Ly-Emporia,Emporia 03.01,Attorney General,,D,AJ Kotich,110
-Ly-Emporia,Emporia 04.01,Attorney General,,D,AJ Kotich,136
-Ly-Emporia,Emporia 4A.01,Attorney General,,D,AJ Kotich,0
-Ly-Emporia,Emporia 4B.01,Attorney General,,D,AJ Kotich,2
-Ly-Emporia,Emporia 4C.01,Attorney General,,D,AJ Kotich,2
-Ly-Emporia,Emporia 05.01,Attorney General,,D,AJ Kotich,74
-Ly-Emporia,Emporia 06.01,Attorney General,,D,AJ Kotich,107
-Ly-Emporia,Emporia 07.01,Attorney General,,D,AJ Kotich,43
-Ly-Emporia,Emporia 08.01,Attorney General,,D,AJ Kotich,94
-Ly-Emporia,Emporia 09.01,Attorney General,,D,AJ Kotich,87
-Ly-Emporia,Emporia 10.01,Attorney General,,D,AJ Kotich,113
-Ly-Emporia,Emporia 11.01,Attorney General,,D,AJ Kotich,85
-Ly-Emporia,Emporia 12.01,Attorney General,,D,AJ Kotich,97
-Ly-Emporia,Emporia 13.01,Attorney General,,D,AJ Kotich,119
-Ly-Emporia,Emporia 14.01,Attorney General,,D,AJ Kotich,190
-Ly-Emporia,Emporia 15.01,Attorney General,,D,AJ Kotich,99
-Ly-Emporia,Emporia 16.01,Attorney General,,D,AJ Kotich,147
-Ly-Emporia,Emporia 17.01,Attorney General,,D,AJ Kotich,126
-Ly-Emporia,Emporia 18.01,Attorney General,,D,AJ Kotich,117
-Ly-Emporia,Emporia 19.01,Attorney General,,D,AJ Kotich,182
-Ly-Emporia,Emporia 20.01,Attorney General,,D,AJ Kotich,152
+Lyon,Emporia 01.01,Attorney General,,D,AJ Kotich,157
+Lyon,Emporia 02.01,Attorney General,,D,AJ Kotich,111
+Lyon,Emporia 03.01,Attorney General,,D,AJ Kotich,110
+Lyon,Emporia 04.01,Attorney General,,D,AJ Kotich,136
+Lyon,Emporia 4A.01,Attorney General,,D,AJ Kotich,0
+Lyon,Emporia 4B.01,Attorney General,,D,AJ Kotich,2
+Lyon,Emporia 4C.01,Attorney General,,D,AJ Kotich,2
+Lyon,Emporia 05.01,Attorney General,,D,AJ Kotich,74
+Lyon,Emporia 06.01,Attorney General,,D,AJ Kotich,107
+Lyon,Emporia 07.01,Attorney General,,D,AJ Kotich,43
+Lyon,Emporia 08.01,Attorney General,,D,AJ Kotich,94
+Lyon,Emporia 09.01,Attorney General,,D,AJ Kotich,87
+Lyon,Emporia 10.01,Attorney General,,D,AJ Kotich,113
+Lyon,Emporia 11.01,Attorney General,,D,AJ Kotich,85
+Lyon,Emporia 12.01,Attorney General,,D,AJ Kotich,97
+Lyon,Emporia 13.01,Attorney General,,D,AJ Kotich,119
+Lyon,Emporia 14.01,Attorney General,,D,AJ Kotich,190
+Lyon,Emporia 15.01,Attorney General,,D,AJ Kotich,99
+Lyon,Emporia 16.01,Attorney General,,D,AJ Kotich,147
+Lyon,Emporia 17.01,Attorney General,,D,AJ Kotich,126
+Lyon,Emporia 18.01,Attorney General,,D,AJ Kotich,117
+Lyon,Emporia 19.01,Attorney General,,D,AJ Kotich,182
+Lyon,Emporia 20.01,Attorney General,,D,AJ Kotich,152
 Lyon,Precinct 21.01,Attorney General,,D,AJ Kotich,39
 Lyon,Precinct 22.01,Attorney General,,D,AJ Kotich,27
 Lyon,Precinct 23.01,Attorney General,,D,AJ Kotich,28
@@ -504,29 +503,29 @@ Lyon,Precinct 29D.01,Attorney General,,D,AJ Kotich,0
 Lyon,Precinct 30.01,Attorney General,,D,AJ Kotich,110
 Lyon,Precinct 31.01,Attorney General,,D,AJ Kotich,116
 Lyon,Precinct 32.01,Attorney General,,D,AJ Kotich,67
-Ly-Emporia,Emporia 01.01,State Treasurer,,R,Ron Estes,162
-Ly-Emporia,Emporia 02.01,State Treasurer,,R,Ron Estes,117
-Ly-Emporia,Emporia 03.01,State Treasurer,,R,Ron Estes,147
-Ly-Emporia,Emporia 04.01,State Treasurer,,R,Ron Estes,165
-Ly-Emporia,Emporia 4A.01,State Treasurer,,R,Ron Estes,4
-Ly-Emporia,Emporia 4B.01,State Treasurer,,R,Ron Estes,0
-Ly-Emporia,Emporia 4C.01,State Treasurer,,R,Ron Estes,2
-Ly-Emporia,Emporia 05.01,State Treasurer,,R,Ron Estes,97
-Ly-Emporia,Emporia 06.01,State Treasurer,,R,Ron Estes,103
-Ly-Emporia,Emporia 07.01,State Treasurer,,R,Ron Estes,44
-Ly-Emporia,Emporia 08.01,State Treasurer,,R,Ron Estes,108
-Ly-Emporia,Emporia 09.01,State Treasurer,,R,Ron Estes,118
-Ly-Emporia,Emporia 10.01,State Treasurer,,R,Ron Estes,156
-Ly-Emporia,Emporia 11.01,State Treasurer,,R,Ron Estes,108
-Ly-Emporia,Emporia 12.01,State Treasurer,,R,Ron Estes,121
-Ly-Emporia,Emporia 13.01,State Treasurer,,R,Ron Estes,180
-Ly-Emporia,Emporia 14.01,State Treasurer,,R,Ron Estes,248
-Ly-Emporia,Emporia 15.01,State Treasurer,,R,Ron Estes,135
-Ly-Emporia,Emporia 16.01,State Treasurer,,R,Ron Estes,195
-Ly-Emporia,Emporia 17.01,State Treasurer,,R,Ron Estes,210
-Ly-Emporia,Emporia 18.01,State Treasurer,,R,Ron Estes,196
-Ly-Emporia,Emporia 19.01,State Treasurer,,R,Ron Estes,339
-Ly-Emporia,Emporia 20.01,State Treasurer,,R,Ron Estes,297
+Lyon,Emporia 01.01,State Treasurer,,R,Ron Estes,162
+Lyon,Emporia 02.01,State Treasurer,,R,Ron Estes,117
+Lyon,Emporia 03.01,State Treasurer,,R,Ron Estes,147
+Lyon,Emporia 04.01,State Treasurer,,R,Ron Estes,165
+Lyon,Emporia 4A.01,State Treasurer,,R,Ron Estes,4
+Lyon,Emporia 4B.01,State Treasurer,,R,Ron Estes,0
+Lyon,Emporia 4C.01,State Treasurer,,R,Ron Estes,2
+Lyon,Emporia 05.01,State Treasurer,,R,Ron Estes,97
+Lyon,Emporia 06.01,State Treasurer,,R,Ron Estes,103
+Lyon,Emporia 07.01,State Treasurer,,R,Ron Estes,44
+Lyon,Emporia 08.01,State Treasurer,,R,Ron Estes,108
+Lyon,Emporia 09.01,State Treasurer,,R,Ron Estes,118
+Lyon,Emporia 10.01,State Treasurer,,R,Ron Estes,156
+Lyon,Emporia 11.01,State Treasurer,,R,Ron Estes,108
+Lyon,Emporia 12.01,State Treasurer,,R,Ron Estes,121
+Lyon,Emporia 13.01,State Treasurer,,R,Ron Estes,180
+Lyon,Emporia 14.01,State Treasurer,,R,Ron Estes,248
+Lyon,Emporia 15.01,State Treasurer,,R,Ron Estes,135
+Lyon,Emporia 16.01,State Treasurer,,R,Ron Estes,195
+Lyon,Emporia 17.01,State Treasurer,,R,Ron Estes,210
+Lyon,Emporia 18.01,State Treasurer,,R,Ron Estes,196
+Lyon,Emporia 19.01,State Treasurer,,R,Ron Estes,339
+Lyon,Emporia 20.01,State Treasurer,,R,Ron Estes,297
 Lyon,Precinct 21.01,State Treasurer,,R,Ron Estes,109
 Lyon,Precinct 22.01,State Treasurer,,R,Ron Estes,75
 Lyon,Precinct 23.01,State Treasurer,,R,Ron Estes,84
@@ -540,29 +539,29 @@ Lyon,Precinct 29D.01,State Treasurer,,R,Ron Estes,3
 Lyon,Precinct 30.01,State Treasurer,,R,Ron Estes,251
 Lyon,Precinct 31.01,State Treasurer,,R,Ron Estes,338
 Lyon,Precinct 32.01,State Treasurer,,R,Ron Estes,195
-Ly-Emporia,Emporia 01.01,State Treasurer,,D,Carmen Alldritt,151
-Ly-Emporia,Emporia 02.01,State Treasurer,,D,Carmen Alldritt,98
-Ly-Emporia,Emporia 03.01,State Treasurer,,D,Carmen Alldritt,109
-Ly-Emporia,Emporia 04.01,State Treasurer,,D,Carmen Alldritt,132
-Ly-Emporia,Emporia 4A.01,State Treasurer,,D,Carmen Alldritt,0
-Ly-Emporia,Emporia 4B.01,State Treasurer,,D,Carmen Alldritt,2
-Ly-Emporia,Emporia 4C.01,State Treasurer,,D,Carmen Alldritt,2
-Ly-Emporia,Emporia 05.01,State Treasurer,,D,Carmen Alldritt,77
-Ly-Emporia,Emporia 06.01,State Treasurer,,D,Carmen Alldritt,101
-Ly-Emporia,Emporia 07.01,State Treasurer,,D,Carmen Alldritt,38
-Ly-Emporia,Emporia 08.01,State Treasurer,,D,Carmen Alldritt,83
-Ly-Emporia,Emporia 09.01,State Treasurer,,D,Carmen Alldritt,84
-Ly-Emporia,Emporia 10.01,State Treasurer,,D,Carmen Alldritt,110
-Ly-Emporia,Emporia 11.01,State Treasurer,,D,Carmen Alldritt,87
-Ly-Emporia,Emporia 12.01,State Treasurer,,D,Carmen Alldritt,87
-Ly-Emporia,Emporia 13.01,State Treasurer,,D,Carmen Alldritt,108
-Ly-Emporia,Emporia 14.01,State Treasurer,,D,Carmen Alldritt,170
-Ly-Emporia,Emporia 15.01,State Treasurer,,D,Carmen Alldritt,86
-Ly-Emporia,Emporia 16.01,State Treasurer,,D,Carmen Alldritt,139
-Ly-Emporia,Emporia 17.01,State Treasurer,,D,Carmen Alldritt,133
-Ly-Emporia,Emporia 18.01,State Treasurer,,D,Carmen Alldritt,118
-Ly-Emporia,Emporia 19.01,State Treasurer,,D,Carmen Alldritt,175
-Ly-Emporia,Emporia 20.01,State Treasurer,,D,Carmen Alldritt,148
+Lyon,Emporia 01.01,State Treasurer,,D,Carmen Alldritt,151
+Lyon,Emporia 02.01,State Treasurer,,D,Carmen Alldritt,98
+Lyon,Emporia 03.01,State Treasurer,,D,Carmen Alldritt,109
+Lyon,Emporia 04.01,State Treasurer,,D,Carmen Alldritt,132
+Lyon,Emporia 4A.01,State Treasurer,,D,Carmen Alldritt,0
+Lyon,Emporia 4B.01,State Treasurer,,D,Carmen Alldritt,2
+Lyon,Emporia 4C.01,State Treasurer,,D,Carmen Alldritt,2
+Lyon,Emporia 05.01,State Treasurer,,D,Carmen Alldritt,77
+Lyon,Emporia 06.01,State Treasurer,,D,Carmen Alldritt,101
+Lyon,Emporia 07.01,State Treasurer,,D,Carmen Alldritt,38
+Lyon,Emporia 08.01,State Treasurer,,D,Carmen Alldritt,83
+Lyon,Emporia 09.01,State Treasurer,,D,Carmen Alldritt,84
+Lyon,Emporia 10.01,State Treasurer,,D,Carmen Alldritt,110
+Lyon,Emporia 11.01,State Treasurer,,D,Carmen Alldritt,87
+Lyon,Emporia 12.01,State Treasurer,,D,Carmen Alldritt,87
+Lyon,Emporia 13.01,State Treasurer,,D,Carmen Alldritt,108
+Lyon,Emporia 14.01,State Treasurer,,D,Carmen Alldritt,170
+Lyon,Emporia 15.01,State Treasurer,,D,Carmen Alldritt,86
+Lyon,Emporia 16.01,State Treasurer,,D,Carmen Alldritt,139
+Lyon,Emporia 17.01,State Treasurer,,D,Carmen Alldritt,133
+Lyon,Emporia 18.01,State Treasurer,,D,Carmen Alldritt,118
+Lyon,Emporia 19.01,State Treasurer,,D,Carmen Alldritt,175
+Lyon,Emporia 20.01,State Treasurer,,D,Carmen Alldritt,148
 Lyon,Precinct 21.01,State Treasurer,,D,Carmen Alldritt,38
 Lyon,Precinct 22.01,State Treasurer,,D,Carmen Alldritt,22
 Lyon,Precinct 23.01,State Treasurer,,D,Carmen Alldritt,24
@@ -576,29 +575,29 @@ Lyon,Precinct 29D.01,State Treasurer,,D,Carmen Alldritt,0
 Lyon,Precinct 30.01,State Treasurer,,D,Carmen Alldritt,115
 Lyon,Precinct 31.01,State Treasurer,,D,Carmen Alldritt,128
 Lyon,Precinct 32.01,State Treasurer,,D,Carmen Alldritt,74
-Ly-Emporia,Emporia 01.01,Insurance Commissioner,,R,Ken Selzer,147
-Ly-Emporia,Emporia 02.01,Insurance Commissioner,,R,Ken Selzer,94
-Ly-Emporia,Emporia 03.01,Insurance Commissioner,,R,Ken Selzer,125
-Ly-Emporia,Emporia 04.01,Insurance Commissioner,,R,Ken Selzer,146
-Ly-Emporia,Emporia 4A.01,Insurance Commissioner,,R,Ken Selzer,4
-Ly-Emporia,Emporia 4B.01,Insurance Commissioner,,R,Ken Selzer,0
-Ly-Emporia,Emporia 4C.01,Insurance Commissioner,,R,Ken Selzer,2
-Ly-Emporia,Emporia 05.01,Insurance Commissioner,,R,Ken Selzer,79
-Ly-Emporia,Emporia 06.01,Insurance Commissioner,,R,Ken Selzer,86
-Ly-Emporia,Emporia 07.01,Insurance Commissioner,,R,Ken Selzer,41
-Ly-Emporia,Emporia 08.01,Insurance Commissioner,,R,Ken Selzer,87
-Ly-Emporia,Emporia 09.01,Insurance Commissioner,,R,Ken Selzer,100
-Ly-Emporia,Emporia 10.01,Insurance Commissioner,,R,Ken Selzer,118
-Ly-Emporia,Emporia 11.01,Insurance Commissioner,,R,Ken Selzer,98
-Ly-Emporia,Emporia 12.01,Insurance Commissioner,,R,Ken Selzer,102
-Ly-Emporia,Emporia 13.01,Insurance Commissioner,,R,Ken Selzer,160
-Ly-Emporia,Emporia 14.01,Insurance Commissioner,,R,Ken Selzer,212
-Ly-Emporia,Emporia 15.01,Insurance Commissioner,,R,Ken Selzer,124
-Ly-Emporia,Emporia 16.01,Insurance Commissioner,,R,Ken Selzer,167
-Ly-Emporia,Emporia 17.01,Insurance Commissioner,,R,Ken Selzer,181
-Ly-Emporia,Emporia 18.01,Insurance Commissioner,,R,Ken Selzer,180
-Ly-Emporia,Emporia 19.01,Insurance Commissioner,,R,Ken Selzer,289
-Ly-Emporia,Emporia 20.01,Insurance Commissioner,,R,Ken Selzer,258
+Lyon,Emporia 01.01,Insurance Commissioner,,R,Ken Selzer,147
+Lyon,Emporia 02.01,Insurance Commissioner,,R,Ken Selzer,94
+Lyon,Emporia 03.01,Insurance Commissioner,,R,Ken Selzer,125
+Lyon,Emporia 04.01,Insurance Commissioner,,R,Ken Selzer,146
+Lyon,Emporia 4A.01,Insurance Commissioner,,R,Ken Selzer,4
+Lyon,Emporia 4B.01,Insurance Commissioner,,R,Ken Selzer,0
+Lyon,Emporia 4C.01,Insurance Commissioner,,R,Ken Selzer,2
+Lyon,Emporia 05.01,Insurance Commissioner,,R,Ken Selzer,79
+Lyon,Emporia 06.01,Insurance Commissioner,,R,Ken Selzer,86
+Lyon,Emporia 07.01,Insurance Commissioner,,R,Ken Selzer,41
+Lyon,Emporia 08.01,Insurance Commissioner,,R,Ken Selzer,87
+Lyon,Emporia 09.01,Insurance Commissioner,,R,Ken Selzer,100
+Lyon,Emporia 10.01,Insurance Commissioner,,R,Ken Selzer,118
+Lyon,Emporia 11.01,Insurance Commissioner,,R,Ken Selzer,98
+Lyon,Emporia 12.01,Insurance Commissioner,,R,Ken Selzer,102
+Lyon,Emporia 13.01,Insurance Commissioner,,R,Ken Selzer,160
+Lyon,Emporia 14.01,Insurance Commissioner,,R,Ken Selzer,212
+Lyon,Emporia 15.01,Insurance Commissioner,,R,Ken Selzer,124
+Lyon,Emporia 16.01,Insurance Commissioner,,R,Ken Selzer,167
+Lyon,Emporia 17.01,Insurance Commissioner,,R,Ken Selzer,181
+Lyon,Emporia 18.01,Insurance Commissioner,,R,Ken Selzer,180
+Lyon,Emporia 19.01,Insurance Commissioner,,R,Ken Selzer,289
+Lyon,Emporia 20.01,Insurance Commissioner,,R,Ken Selzer,258
 Lyon,Precinct 21.01,Insurance Commissioner,,R,Ken Selzer,88
 Lyon,Precinct 22.01,Insurance Commissioner,,R,Ken Selzer,64
 Lyon,Precinct 23.01,Insurance Commissioner,,R,Ken Selzer,67
@@ -612,29 +611,29 @@ Lyon,Precinct 29D.01,Insurance Commissioner,,R,Ken Selzer,2
 Lyon,Precinct 30.01,Insurance Commissioner,,R,Ken Selzer,238
 Lyon,Precinct 31.01,Insurance Commissioner,,R,Ken Selzer,284
 Lyon,Precinct 32.01,Insurance Commissioner,,R,Ken Selzer,160
-Ly-Emporia,Emporia 01.01,Insurance Commissioner,,D,Dennis Anderson,167
-Ly-Emporia,Emporia 02.01,Insurance Commissioner,,D,Dennis Anderson,115
-Ly-Emporia,Emporia 03.01,Insurance Commissioner,,D,Dennis Anderson,124
-Ly-Emporia,Emporia 04.01,Insurance Commissioner,,D,Dennis Anderson,145
-Ly-Emporia,Emporia 4A.01,Insurance Commissioner,,D,Dennis Anderson,0
-Ly-Emporia,Emporia 4B.01,Insurance Commissioner,,D,Dennis Anderson,2
-Ly-Emporia,Emporia 4C.01,Insurance Commissioner,,D,Dennis Anderson,2
-Ly-Emporia,Emporia 05.01,Insurance Commissioner,,D,Dennis Anderson,92
-Ly-Emporia,Emporia 06.01,Insurance Commissioner,,D,Dennis Anderson,115
-Ly-Emporia,Emporia 07.01,Insurance Commissioner,,D,Dennis Anderson,42
-Ly-Emporia,Emporia 08.01,Insurance Commissioner,,D,Dennis Anderson,102
-Ly-Emporia,Emporia 09.01,Insurance Commissioner,,D,Dennis Anderson,99
-Ly-Emporia,Emporia 10.01,Insurance Commissioner,,D,Dennis Anderson,145
-Ly-Emporia,Emporia 11.01,Insurance Commissioner,,D,Dennis Anderson,92
-Ly-Emporia,Emporia 12.01,Insurance Commissioner,,D,Dennis Anderson,103
-Ly-Emporia,Emporia 13.01,Insurance Commissioner,,D,Dennis Anderson,127
-Ly-Emporia,Emporia 14.01,Insurance Commissioner,,D,Dennis Anderson,197
-Ly-Emporia,Emporia 15.01,Insurance Commissioner,,D,Dennis Anderson,97
-Ly-Emporia,Emporia 16.01,Insurance Commissioner,,D,Dennis Anderson,169
-Ly-Emporia,Emporia 17.01,Insurance Commissioner,,D,Dennis Anderson,154
-Ly-Emporia,Emporia 18.01,Insurance Commissioner,,D,Dennis Anderson,126
-Ly-Emporia,Emporia 19.01,Insurance Commissioner,,D,Dennis Anderson,217
-Ly-Emporia,Emporia 20.01,Insurance Commissioner,,D,Dennis Anderson,180
+Lyon,Emporia 01.01,Insurance Commissioner,,D,Dennis Anderson,167
+Lyon,Emporia 02.01,Insurance Commissioner,,D,Dennis Anderson,115
+Lyon,Emporia 03.01,Insurance Commissioner,,D,Dennis Anderson,124
+Lyon,Emporia 04.01,Insurance Commissioner,,D,Dennis Anderson,145
+Lyon,Emporia 4A.01,Insurance Commissioner,,D,Dennis Anderson,0
+Lyon,Emporia 4B.01,Insurance Commissioner,,D,Dennis Anderson,2
+Lyon,Emporia 4C.01,Insurance Commissioner,,D,Dennis Anderson,2
+Lyon,Emporia 05.01,Insurance Commissioner,,D,Dennis Anderson,92
+Lyon,Emporia 06.01,Insurance Commissioner,,D,Dennis Anderson,115
+Lyon,Emporia 07.01,Insurance Commissioner,,D,Dennis Anderson,42
+Lyon,Emporia 08.01,Insurance Commissioner,,D,Dennis Anderson,102
+Lyon,Emporia 09.01,Insurance Commissioner,,D,Dennis Anderson,99
+Lyon,Emporia 10.01,Insurance Commissioner,,D,Dennis Anderson,145
+Lyon,Emporia 11.01,Insurance Commissioner,,D,Dennis Anderson,92
+Lyon,Emporia 12.01,Insurance Commissioner,,D,Dennis Anderson,103
+Lyon,Emporia 13.01,Insurance Commissioner,,D,Dennis Anderson,127
+Lyon,Emporia 14.01,Insurance Commissioner,,D,Dennis Anderson,197
+Lyon,Emporia 15.01,Insurance Commissioner,,D,Dennis Anderson,97
+Lyon,Emporia 16.01,Insurance Commissioner,,D,Dennis Anderson,169
+Lyon,Emporia 17.01,Insurance Commissioner,,D,Dennis Anderson,154
+Lyon,Emporia 18.01,Insurance Commissioner,,D,Dennis Anderson,126
+Lyon,Emporia 19.01,Insurance Commissioner,,D,Dennis Anderson,217
+Lyon,Emporia 20.01,Insurance Commissioner,,D,Dennis Anderson,180
 Lyon,Precinct 21.01,Insurance Commissioner,,D,Dennis Anderson,53
 Lyon,Precinct 22.01,Insurance Commissioner,,D,Dennis Anderson,33
 Lyon,Precinct 23.01,Insurance Commissioner,,D,Dennis Anderson,41
@@ -648,60 +647,60 @@ Lyon,Precinct 29D.01,Insurance Commissioner,,D,Dennis Anderson,0
 Lyon,Precinct 30.01,Insurance Commissioner,,D,Dennis Anderson,120
 Lyon,Precinct 31.01,Insurance Commissioner,,D,Dennis Anderson,172
 Lyon,Precinct 32.01,Insurance Commissioner,,D,Dennis Anderson,103
-Ly-Emporia,Emporia 01.01,SR060,H060,R,Don Hill,286
-Ly-Emporia,Emporia 02.01,SR060,H060,R,Don Hill,188
-Ly-Emporia,Emporia 03.01,State House,76,R,Peggy Mast,112
-Ly-Emporia,Emporia 04.01,State House,76,R,Peggy Mast,122
-Ly-Emporia,Emporia 4A.01,State House,76,R,Peggy Mast,2
-Ly-Emporia,Emporia 4B.01,State House,76,R,Peggy Mast,0
-Ly-Emporia,Emporia 4C.01,State House,76,R,Peggy Mast,0
-Ly-Emporia,Emporia 05.01,SR060,H060,R,Don Hill,156
-Ly-Emporia,Emporia 06.01,SR060,H060,R,Don Hill,166
-Ly-Emporia,Emporia 07.01,SR060,H060,R,Don Hill,76
-Ly-Emporia,Emporia 08.01,SR060,H060,R,Don Hill,162
-Ly-Emporia,Emporia 09.01,SR060,H060,R,Don Hill,177
-Ly-Emporia,Emporia 10.01,State House,76,R,Peggy Mast,132
-Ly-Emporia,Emporia 11.01,SR060,H060,R,Don Hill,170
-Ly-Emporia,Emporia 12.01,SR060,H060,R,Don Hill,180
-Ly-Emporia,Emporia 13.01,SR060,H060,R,Don Hill,255
-Ly-Emporia,Emporia 14.01,SR060,H060,R,Don Hill,397
-Ly-Emporia,Emporia 15.01,SR060,H060,R,Don Hill,214
-Ly-Emporia,Emporia 16.01,SR060,H060,R,Don Hill,317
-Ly-Emporia,Emporia 17.01,SR060,H060,R,Don Hill,309
-Ly-Emporia,Emporia 18.01,SR060,H060,R,Don Hill,280
-Ly-Emporia,Emporia 19.01,SR060,H060,R,Don Hill,484
-Ly-Emporia,Emporia 20.01,SR060,H060,R,Don Hill,415
-Lyon,Precinct 21.01,SR051,H051,R,Ron Highland,124
-Lyon,Precinct 22.01,SR051,H051,R,Ron Highland,86
-Lyon,Precinct 23.01,SR051,H051,R,Ron Highland,95
-Lyon,Precinct 24.01,SR060,H060,R,Don Hill,428
-Lyon,Precinct 25.01,SR060,H060,R,Don Hill,367
-Lyon,Precinct 26.01,SR051,H051,R,Ron Highland,140
-Lyon,Precinct 27.01,SR060,H060,R,Don Hill,262
+Lyon,Emporia 01.01,State House,60,R,Don Hill,286
+Lyon,Emporia 02.01,State House,60,R,Don Hill,188
+Lyon,Emporia 03.01,State House,76,R,Peggy Mast,112
+Lyon,Emporia 04.01,State House,76,R,Peggy Mast,122
+Lyon,Emporia 4A.01,State House,76,R,Peggy Mast,2
+Lyon,Emporia 4B.01,State House,76,R,Peggy Mast,0
+Lyon,Emporia 4C.01,State House,76,R,Peggy Mast,0
+Lyon,Emporia 05.01,State House,60,R,Don Hill,156
+Lyon,Emporia 06.01,State House,60,R,Don Hill,166
+Lyon,Emporia 07.01,State House,60,R,Don Hill,76
+Lyon,Emporia 08.01,State House,60,R,Don Hill,162
+Lyon,Emporia 09.01,State House,60,R,Don Hill,177
+Lyon,Emporia 10.01,State House,76,R,Peggy Mast,132
+Lyon,Emporia 11.01,State House,60,R,Don Hill,170
+Lyon,Emporia 12.01,State House,60,R,Don Hill,180
+Lyon,Emporia 13.01,State House,60,R,Don Hill,255
+Lyon,Emporia 14.01,State House,60,R,Don Hill,397
+Lyon,Emporia 15.01,State House,60,R,Don Hill,214
+Lyon,Emporia 16.01,State House,60,R,Don Hill,317
+Lyon,Emporia 17.01,State House,60,R,Don Hill,309
+Lyon,Emporia 18.01,State House,60,R,Don Hill,280
+Lyon,Emporia 19.01,State House,60,R,Don Hill,484
+Lyon,Emporia 20.01,State House,60,R,Don Hill,415
+Lyon,Precinct 21.01,State House,51,R,Ron Highland,124
+Lyon,Precinct 22.01,State House,51,R,Ron Highland,86
+Lyon,Precinct 23.01,State House,51,R,Ron Highland,95
+Lyon,Precinct 24.01,State House,60,R,Don Hill,428
+Lyon,Precinct 25.01,State House,60,R,Don Hill,367
+Lyon,Precinct 26.01,State House,51,R,Ron Highland,140
+Lyon,Precinct 27.01,State House,60,R,Don Hill,262
 Lyon,Precinct 28.01,State House,76,R,Peggy Mast,110
-Lyon,Precinct 29.01,SR060,H060,R,Don Hill,121
-Lyon,Precinct 29D.01,SR060,H060,R,Don Hill,3
+Lyon,Precinct 29.01,State House,60,R,Don Hill,121
+Lyon,Precinct 29D.01,State House,60,R,Don Hill,3
 Lyon,Precinct 30.01,State House,76,R,Peggy Mast,148
 Lyon,Precinct 31.01,State House,76,R,Peggy Mast,250
 Lyon,Precinct 32.01,State House,76,R,Peggy Mast,111
-Ly-Emporia,Emporia 03.01,State House,76,D,Teresa Briggs,117
-Ly-Emporia,Emporia 04.01,State House,76,D,Teresa Briggs,146
-Ly-Emporia,Emporia 4A.01,State House,76,D,Teresa Briggs,1
-Ly-Emporia,Emporia 4B.01,State House,76,D,Teresa Briggs,2
-Ly-Emporia,Emporia 4C.01,State House,76,D,Teresa Briggs,5
-Ly-Emporia,Emporia 10.01,State House,76,D,Teresa Briggs,104
+Lyon,Emporia 03.01,State House,76,D,Teresa Briggs,117
+Lyon,Emporia 04.01,State House,76,D,Teresa Briggs,146
+Lyon,Emporia 4A.01,State House,76,D,Teresa Briggs,1
+Lyon,Emporia 4B.01,State House,76,D,Teresa Briggs,2
+Lyon,Emporia 4C.01,State House,76,D,Teresa Briggs,5
+Lyon,Emporia 10.01,State House,76,D,Teresa Briggs,104
 Lyon,Precinct 28.01,State House,76,D,Teresa Briggs,135
 Lyon,Precinct 30.01,State House,76,D,Teresa Briggs,186
 Lyon,Precinct 31.01,State House,76,D,Teresa Briggs,176
 Lyon,Precinct 32.01,State House,76,D,Teresa Briggs,112
-Ly-Emporia,Emporia 03.01,State House,76,I,Bill Otto,37
-Ly-Emporia,Emporia 04.01,State House,76,I,Bill Otto,38
-Ly-Emporia,Emporia 4A.01,State House,76,I,Bill Otto,1
-Ly-Emporia,Emporia 4B.01,State House,76,I,Bill Otto,0
-Ly-Emporia,Emporia 4C.01,State House,76,I,Bill Otto,0
-Ly-Emporia,Emporia 10.01,State House,76,I,Bill Otto,38
+Lyon,Emporia 03.01,State House,76,I,Bill Otto,37
+Lyon,Emporia 04.01,State House,76,I,Bill Otto,38
+Lyon,Emporia 4A.01,State House,76,I,Bill Otto,1
+Lyon,Emporia 4B.01,State House,76,I,Bill Otto,0
+Lyon,Emporia 4C.01,State House,76,I,Bill Otto,0
+Lyon,Emporia 10.01,State House,76,I,Bill Otto,38
 Lyon,Precinct 28.01,State House,76,I,Bill Otto,23
 Lyon,Precinct 30.01,State House,76,I,Bill Otto,46
 Lyon,Precinct 31.01,State House,76,I,Bill Otto,72
 Lyon,Precinct 32.01,State House,76,I,Bill Otto,52
-LYON,LYON KS,REP,,,LYON KS,307
+Lyon,,State House,76,I,Bill Otto,307
