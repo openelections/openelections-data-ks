@@ -47,15 +47,15 @@ Jackson,Wd 3,State Treasurer,,D,Carmen Alldritt,86,65,20,1
 Jackson,Wd 1,State Treasurer,,R,Ron Estes,234,166,66,2
 Jackson,Wd 2,State Treasurer,,R,Ron Estes,248,183,62,3
 Jackson,Wd 3,State Treasurer,,R,Ron Estes,210,168,39,3
-Jackson,Wd 1,US Senator,,I,Greg Orman,162,121,39,2
-Jackson,Wd 2,US Senator,,I,Greg Orman,181,140,39,2
-Jackson,Wd 3,US Senator,,I,Greg Orman,141,108,32,1
-Jackson,Wd 1,US Senator,,R,Pat Roberts,160,115,43,2
-Jackson,Wd 2,US Senator,,R,Pat Roberts,192,134,55,3
-Jackson,Wd 3,US Senator,,R,Pat Roberts,151,119,30,2
-Jackson,Wd 1,US Senator,,L,Randall Batson,25,16,9,0
-Jackson,Wd 2,US Senator,,L,Randall Batson,11,7,4,0
-Jackson,Wd 3,US Senator,,L,Randall Batson,11,11,0,0
+Jackson,Wd 1,U.S. Senate,,I,Greg Orman,162,121,39,2
+Jackson,Wd 2,U.S. Senate,,I,Greg Orman,181,140,39,2
+Jackson,Wd 3,U.S. Senate,,I,Greg Orman,141,108,32,1
+Jackson,Wd 1,U.S. Senate,,R,Pat Roberts,160,115,43,2
+Jackson,Wd 2,U.S. Senate,,R,Pat Roberts,192,134,55,3
+Jackson,Wd 3,U.S. Senate,,R,Pat Roberts,151,119,30,2
+Jackson,Wd 1,U.S. Senate,,L,Randall Batson,25,16,9,0
+Jackson,Wd 2,U.S. Senate,,L,Randall Batson,11,7,4,0
+Jackson,Wd 3,U.S. Senate,,L,Randall Batson,11,11,0,0
 Jackson,Wd 1,Voters,,,Cast,262,,,
 Jackson,Wd 2,Voters,,,Cast,293,,,
 Jackson,Wd 3,Voters,,,Cast,249,,,
@@ -269,10 +269,10 @@ Jackson,Lincoln,SR061,H061,D,Vivian Olsen,209,178,24,7
 Jackson,Soldier,SR061,H061,D,Vivian Olsen,57,46,11,0
 Jackson,St. Creek,SR061,H061,D,Vivian Olsen,15,6,9,0
 Jackson,Washington,SR061,H061,D,Vivian Olsen,48,44,3,1
-Jackson,Netawaka,SR062,H062,R,Randy Garber,65,63,2,0
-Jackson,Whiting,SR062,H062,R,Randy Garber,67,60,4,3
-Jackson,Netawaka,SR062,H062,D,Steve Lukert,57,54,3,0
-Jackson,Whiting,SR062,H062,D,Steve Lukert,68,64,4,0
+Jackson,Netawaka,State House,62,R,Randy Garber,65,63,2,0
+Jackson,Whiting,State House,62,R,Randy Garber,67,60,4,3
+Jackson,Netawaka,State House,62,D,Steve Lukert,57,54,3,0
+Jackson,Whiting,State House,62,D,Steve Lukert,68,64,4,0
 Jackson,Adrian,State Treasurer,,D,Carmen Alldritt,9,6,3,0
 Jackson,Banner,State Treasurer,,D,Carmen Alldritt,29,22,7,0
 Jackson,Cedar,State Treasurer,,D,Carmen Alldritt,134,111,17,6
@@ -303,51 +303,51 @@ Jackson,Soldier,State Treasurer,,R,Ron Estes,107,89,16,2
 Jackson,St. Creek,State Treasurer,,R,Ron Estes,58,35,21,2
 Jackson,Washington,State Treasurer,,R,Ron Estes,148,142,4,2
 Jackson,Whiting,State Treasurer,,R,Ron Estes,105,96,6,3
-Jackson,Adrian,US Senator,,I,Greg Orman,10,7,3,0
-Jackson,Banner,US Senator,,I,Greg Orman,46,34,12,0
-Jackson,Cedar,US Senator,,I,Greg Orman,177,146,27,4
-Jackson,Douglas,US Senator,,I,Greg Orman,379,322,55,2
-Jackson,Franklin,US Senator,,I,Greg Orman,167,129,38,0
-Jackson,Garfield,US Senator,,I,Greg Orman,90,77,11,2
-Jackson,Grant,US Senator,,I,Greg Orman,33,26,6,1
-Jackson,Jefferson,US Senator,,I,Greg Orman,84,68,16,0
-Jackson,Liberty,US Senator,,I,Greg Orman,101,75,24,2
-Jackson,Lincoln,US Senator,,I,Greg Orman,215,174,33,8
-Jackson,Netawaka,US Senator,,I,Greg Orman,46,45,1,0
-Jackson,Soldier,US Senator,,I,Greg Orman,52,43,9,0
-Jackson,St. Creek,US Senator,,I,Greg Orman,30,15,15,0
-Jackson,Washington,US Senator,,I,Greg Orman,57,52,3,2
-Jackson,Whiting,US Senator,,I,Greg Orman,43,39,4,0
-Jackson,Adrian,US Senator,,R,Pat Roberts,45,37,8,0
-Jackson,Banner,US Senator,,R,Pat Roberts,92,77,15,0
-Jackson,Cedar,US Senator,,R,Pat Roberts,250,204,38,8
-Jackson,Douglas,US Senator,,R,Pat Roberts,446,392,46,8
-Jackson,Franklin,US Senator,,R,Pat Roberts,243,182,55,6
-Jackson,Garfield,US Senator,,R,Pat Roberts,149,130,19,0
-Jackson,Grant,US Senator,,R,Pat Roberts,45,34,11,0
-Jackson,Jefferson,US Senator,,R,Pat Roberts,128,102,26,0
-Jackson,Liberty,US Senator,,R,Pat Roberts,121,103,18,0
-Jackson,Lincoln,US Senator,,R,Pat Roberts,111,90,17,4
-Jackson,Netawaka,US Senator,,R,Pat Roberts,71,67,4,0
-Jackson,Soldier,US Senator,,R,Pat Roberts,101,85,14,2
-Jackson,St. Creek,US Senator,,R,Pat Roberts,43,27,14,2
-Jackson,Washington,US Senator,,R,Pat Roberts,130,125,4,1
-Jackson,Whiting,US Senator,,R,Pat Roberts,75,69,4,2
-Jackson,Adrian,US Senator,,L,Randall Batson,1,1,0,0
-Jackson,Banner,US Senator,,L,Randall Batson,6,5,0,1
-Jackson,Cedar,US Senator,,L,Randall Batson,29,24,4,1
-Jackson,Douglas,US Senator,,L,Randall Batson,44,38,5,1
-Jackson,Franklin,US Senator,,L,Randall Batson,20,15,5,0
-Jackson,Garfield,US Senator,,L,Randall Batson,8,7,1,0
-Jackson,Grant,US Senator,,L,Randall Batson,2,2,0,0
-Jackson,Jefferson,US Senator,,L,Randall Batson,13,12,1,0
-Jackson,Liberty,US Senator,,L,Randall Batson,12,11,1,0
-Jackson,Lincoln,US Senator,,L,Randall Batson,20,20,0,0
-Jackson,Netawaka,US Senator,,L,Randall Batson,3,3,0,0
-Jackson,Soldier,US Senator,,L,Randall Batson,5,3,2,0
-Jackson,St. Creek,US Senator,,L,Randall Batson,4,1,3,0
-Jackson,Washington,US Senator,,L,Randall Batson,5,3,1,1
-Jackson,Whiting,US Senator,,L,Randall Batson,15,14,0,1
+Jackson,Adrian,U.S. Senate,,I,Greg Orman,10,7,3,0
+Jackson,Banner,U.S. Senate,,I,Greg Orman,46,34,12,0
+Jackson,Cedar,U.S. Senate,,I,Greg Orman,177,146,27,4
+Jackson,Douglas,U.S. Senate,,I,Greg Orman,379,322,55,2
+Jackson,Franklin,U.S. Senate,,I,Greg Orman,167,129,38,0
+Jackson,Garfield,U.S. Senate,,I,Greg Orman,90,77,11,2
+Jackson,Grant,U.S. Senate,,I,Greg Orman,33,26,6,1
+Jackson,Jefferson,U.S. Senate,,I,Greg Orman,84,68,16,0
+Jackson,Liberty,U.S. Senate,,I,Greg Orman,101,75,24,2
+Jackson,Lincoln,U.S. Senate,,I,Greg Orman,215,174,33,8
+Jackson,Netawaka,U.S. Senate,,I,Greg Orman,46,45,1,0
+Jackson,Soldier,U.S. Senate,,I,Greg Orman,52,43,9,0
+Jackson,St. Creek,U.S. Senate,,I,Greg Orman,30,15,15,0
+Jackson,Washington,U.S. Senate,,I,Greg Orman,57,52,3,2
+Jackson,Whiting,U.S. Senate,,I,Greg Orman,43,39,4,0
+Jackson,Adrian,U.S. Senate,,R,Pat Roberts,45,37,8,0
+Jackson,Banner,U.S. Senate,,R,Pat Roberts,92,77,15,0
+Jackson,Cedar,U.S. Senate,,R,Pat Roberts,250,204,38,8
+Jackson,Douglas,U.S. Senate,,R,Pat Roberts,446,392,46,8
+Jackson,Franklin,U.S. Senate,,R,Pat Roberts,243,182,55,6
+Jackson,Garfield,U.S. Senate,,R,Pat Roberts,149,130,19,0
+Jackson,Grant,U.S. Senate,,R,Pat Roberts,45,34,11,0
+Jackson,Jefferson,U.S. Senate,,R,Pat Roberts,128,102,26,0
+Jackson,Liberty,U.S. Senate,,R,Pat Roberts,121,103,18,0
+Jackson,Lincoln,U.S. Senate,,R,Pat Roberts,111,90,17,4
+Jackson,Netawaka,U.S. Senate,,R,Pat Roberts,71,67,4,0
+Jackson,Soldier,U.S. Senate,,R,Pat Roberts,101,85,14,2
+Jackson,St. Creek,U.S. Senate,,R,Pat Roberts,43,27,14,2
+Jackson,Washington,U.S. Senate,,R,Pat Roberts,130,125,4,1
+Jackson,Whiting,U.S. Senate,,R,Pat Roberts,75,69,4,2
+Jackson,Adrian,U.S. Senate,,L,Randall Batson,1,1,0,0
+Jackson,Banner,U.S. Senate,,L,Randall Batson,6,5,0,1
+Jackson,Cedar,U.S. Senate,,L,Randall Batson,29,24,4,1
+Jackson,Douglas,U.S. Senate,,L,Randall Batson,44,38,5,1
+Jackson,Franklin,U.S. Senate,,L,Randall Batson,20,15,5,0
+Jackson,Garfield,U.S. Senate,,L,Randall Batson,8,7,1,0
+Jackson,Grant,U.S. Senate,,L,Randall Batson,2,2,0,0
+Jackson,Jefferson,U.S. Senate,,L,Randall Batson,13,12,1,0
+Jackson,Liberty,U.S. Senate,,L,Randall Batson,12,11,1,0
+Jackson,Lincoln,U.S. Senate,,L,Randall Batson,20,20,0,0
+Jackson,Netawaka,U.S. Senate,,L,Randall Batson,3,3,0,0
+Jackson,Soldier,U.S. Senate,,L,Randall Batson,5,3,2,0
+Jackson,St. Creek,U.S. Senate,,L,Randall Batson,4,1,3,0
+Jackson,Washington,U.S. Senate,,L,Randall Batson,5,3,1,1
+Jackson,Whiting,U.S. Senate,,L,Randall Batson,15,14,0,1
 Jackson,Adrian,Voters,,,Cast,47,,,
 Jackson,Banner,Voters,,,Cast,120,,,
 Jackson,Cedar,Voters,,,Cast,393,,,
