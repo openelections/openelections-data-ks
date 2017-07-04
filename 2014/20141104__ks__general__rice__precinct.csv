@@ -292,18 +292,18 @@ Rice,MITCHELL,State House,108,R,Steven Johnson,35
 Rice,ODESSA,State House,108,R,Steven Johnson,19
 Rice,UNION,State House,108,R,Steven Johnson,185
 Rice,VICTORIA,State House,108,R,Steven Johnson,76
-Rice,ATLANTA,State House,H113,R,Jeremy Dannebohm,40
-Rice,BELL,State House,H113,R,Jeremy Dannebohm,4
-Rice,CENTER,State House,H113,R,Jeremy Dannebohm,28
-Rice,HARRISON,State House,H113,R,Jeremy Dannebohm,47
-Rice,LINCOLN,State House,H113,R,Jeremy Dannebohm,115
-Rice,LYONS  3RD,State House,H113,R,Jeremy Dannebohm,113
-Rice,LYONS 1ST,State House,H113,R,Jeremy Dannebohm,170
-Rice,LYONS 2ND,State House,H113,R,Jeremy Dannebohm,120
-Rice,LYONS 4TH,State House,H113,R,Jeremy Dannebohm,122
-Rice,Pioneer,State House,H113,R,Jeremy Dannebohm,17
-Rice,Raymond,State House,H113,R,Jeremy Dannebohm,30
-Rice,VALLEY,State House,H113,R,Jeremy Dannebohm,51
+Rice,ATLANTA,State House,113,R,Jeremy Dannebohm,40
+Rice,BELL,State House,113,R,Jeremy Dannebohm,4
+Rice,CENTER,State House,113,R,Jeremy Dannebohm,28
+Rice,HARRISON,State House,113,R,Jeremy Dannebohm,47
+Rice,LINCOLN,State House,113,R,Jeremy Dannebohm,115
+Rice,LYONS  3RD,State House,113,R,Jeremy Dannebohm,113
+Rice,LYONS 1ST,State House,113,R,Jeremy Dannebohm,170
+Rice,LYONS 2ND,State House,113,R,Jeremy Dannebohm,120
+Rice,LYONS 4TH,State House,113,R,Jeremy Dannebohm,122
+Rice,Pioneer,State House,113,R,Jeremy Dannebohm,17
+Rice,Raymond,State House,113,R,Jeremy Dannebohm,30
+Rice,VALLEY,State House,113,R,Jeremy Dannebohm,51
 Rice,STERING,State House,114,R,Jack Thimesch,37
 Rice,STERLING EAST,State House,114,R,Jack Thimesch,249
 Rice,STERLING WEST,State House,114,R,Jack Thimesch,131
@@ -317,24 +317,24 @@ Rice,STERLING WEST,State House,114,D,Mark Schnittker,64
 Rice,WASH E,State House,114,D,Mark Schnittker,4
 Rice,WASH W,State House,114,D,Mark Schnittker,9
 Rice,WILSON,State House,114,D,Mark Schnittker,11
-Rice,Rockville,State Sen #35,35,R,Richard Wilborn,41
-Rice,ATLANTA,State Sen 35,35,R,Richard Wilborn,38
-Rice,GALT,State Sen 35,35,R,Richard Wilborn,27
-Rice,HARRISON,State Sen 35,35,R,Richard Wilborn,42
-Rice,LYONS  3RD,State Sen 35,35,R,Richard Wilborn,105
-Rice,LYONS 1ST,State Sen 35,35,R,Richard Wilborn,160
-Rice,LYONS 2ND,State Sen 35,35,R,Richard Wilborn,117
-Rice,LYONS 4TH,State Sen 35,35,R,Richard Wilborn,112
-Rice,MITCHELL,State Sen 35,35,R,Richard Wilborn,33
-Rice,ODESSA,State Sen 35,35,R,Richard Wilborn,19
-Rice,STERING,State Sen 35,35,R,Richard Wilborn,43
-Rice,STERLING EAST,State Sen 35,35,R,Richard Wilborn,289
-Rice,STERLING WEST,State Sen 35,35,R,Richard Wilborn,163
-Rice,UNION,State Sen 35,35,R,Richard Wilborn,163
-Rice,VICTORIA,State Sen 35,35,R,Richard Wilborn,65
-Rice,WASH E,State Sen 35,35,R,Richard Wilborn,22
-Rice,WASH W,State Sen 35,35,R,Richard Wilborn,20
-Rice,WILSON,State Sen 35,35,R,Richard Wilborn,27
+Rice,Rockville,State Senate,35,R,Richard Wilborn,41
+Rice,ATLANTA,State Senate,35,R,Richard Wilborn,38
+Rice,GALT,State Senate,35,R,Richard Wilborn,27
+Rice,HARRISON,State Senate,35,R,Richard Wilborn,42
+Rice,LYONS  3RD,State Senate,35,R,Richard Wilborn,105
+Rice,LYONS 1ST,State Senate,35,R,Richard Wilborn,160
+Rice,LYONS 2ND,State Senate,35,R,Richard Wilborn,117
+Rice,LYONS 4TH,State Senate,35,R,Richard Wilborn,112
+Rice,MITCHELL,State Senate,35,R,Richard Wilborn,33
+Rice,ODESSA,State Senate,35,R,Richard Wilborn,19
+Rice,STERING,State Senate,35,R,Richard Wilborn,43
+Rice,STERLING EAST,State Senate,35,R,Richard Wilborn,289
+Rice,STERLING WEST,State Senate,35,R,Richard Wilborn,163
+Rice,UNION,State Senate,35,R,Richard Wilborn,163
+Rice,VICTORIA,State Senate,35,R,Richard Wilborn,65
+Rice,WASH E,State Senate,35,R,Richard Wilborn,22
+Rice,WASH W,State Senate,35,R,Richard Wilborn,20
+Rice,WILSON,State Senate,35,R,Richard Wilborn,27
 Rice,ATLANTA,State Treasurer,,D,Carmen Alldritt,5
 Rice,BELL,State Treasurer,,D,Carmen Alldritt,0
 Rice,CENTER,State Treasurer,,D,Carmen Alldritt,2
@@ -465,7 +465,6 @@ Rice,VICTORIA,U.S. Senate,,L,Randall Batson,7
 Rice,WASH E,U.S. Senate,,L,Randall Batson,2
 Rice,WASH W,U.S. Senate,,L,Randall Batson,1
 Rice,WILSON,U.S. Senate,,L,Randall Batson,3
-county,precinct,office,district,party,candidate,poll
 Rice,Advance,Attorney General,,D,A.J. Kotich,142
 Rice,Provisional,Attorney General,,D,A.J. Kotich,14
 Rice,Advance,Attorney General,,R,Derek Schmidt,520
@@ -488,16 +487,16 @@ Rice,Advance,Secretary of State,,D,Jean Kurtis Shodorf,230
 Rice,Provisional,Secretary of State,,D,Jean Kurtis Shodorf,17
 Rice,Advance,Secretary of State,,R,Kris Kobach,439
 Rice,Provisional,Secretary of State,,R,Kris Kobach,25
-Rice,Advance,State House,,R,Steven Johnson,86
-Rice,Provisional,State House,,R,Steven Johnson,11
-Rice,Advance,State House,,R,Jeremy Dannebohm,325
-Rice,Provisional,State House,,R,Jeremy Dannebohm,21
-Rice,Advance,State House,,R,Jack Thimesch,114
-Rice,Provisional,State House,,R,Jack Thimesch,6
-Rice,Advance,State House,,D,Mark Schnittker,59
-Rice,Provisional,State House,,D,Mark Schnittker,3
-Rice,Advance,State Sen 35,,R,Richard Wilborn,468
-Rice,Provisional,State Sen 35,,R,Richard Wilborn,31
+Rice,Advance,State House,108,R,Steven Johnson,86
+Rice,Provisional,State House,108,R,Steven Johnson,11
+Rice,Advance,State House,109,R,Jeremy Dannebohm,325
+Rice,Provisional,State House,109,R,Jeremy Dannebohm,21
+Rice,Advance,State House,114,R,Jack Thimesch,114
+Rice,Provisional,State House,114,R,Jack Thimesch,6
+Rice,Advance,State House,114,D,Mark Schnittker,59
+Rice,Provisional,State House,114,D,Mark Schnittker,3
+Rice,Advance,State Senate,35,R,Richard Wilborn,468
+Rice,Provisional,State Senate,35,R,Richard Wilborn,31
 Rice,Advance,State Treasurer,,D,Carmen Alldritt,148
 Rice,Provisional,State Treasurer,,D,Carmen Alldritt,13
 Rice,Advance,State Treasurer,,R,Ron Estes,510

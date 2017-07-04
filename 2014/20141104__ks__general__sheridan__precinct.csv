@@ -1,4 +1,4 @@
-,,,Dist,Party,,Vote
+county,precinct,office,district,party,candidate,votes
 Sheridan,Adell,U.S. Senate,,R,Pat Roberts,8
 Sheridan,Bloomfield,U.S. Senate,,R,Pat Roberts,16
 Sheridan,Bowcreek,U.S. Senate,,R,Pat Roberts,14
@@ -14,7 +14,7 @@ Sheridan,Solomon,U.S. Senate,,R,Pat Roberts,64
 Sheridan,Springbrook,U.S. Senate,,R,Pat Roberts,31
 Sheridan,Union,U.S. Senate,,R,Pat Roberts,16
 Sheridan,Valley,U.S. Senate,,R,Pat Roberts,32
-SHERIDAN KS,SHERIDAN KS,U.S. Senate,,R,Pat Roberts,815
+Sheridan,,U.S. Senate,,R,Pat Roberts,815
 Sheridan,Adell,U.S. Senate,,I,Greg Orman,3
 Sheridan,Bloomfield,U.S. Senate,,I,Greg Orman,5
 Sheridan,Bowcreek,U.S. Senate,,I,Greg Orman,7
@@ -30,7 +30,7 @@ Sheridan,Solomon,U.S. Senate,,I,Greg Orman,13
 Sheridan,Springbrook,U.S. Senate,,I,Greg Orman,5
 Sheridan,Union,U.S. Senate,,I,Greg Orman,2
 Sheridan,Valley,U.S. Senate,,I,Greg Orman,9
-SHERIDAN KS,SHERIDAN KS,U.S. Senate,,I,Greg Orman,200
+Sheridan,,U.S. Senate,,I,Greg Orman,200
 Sheridan,Adell,U.S. Senate,,L,Randall Batson,0
 Sheridan,Bloomfield,U.S. Senate,,L,Randall Batson,0
 Sheridan,Bowcreek,U.S. Senate,,L,Randall Batson,0
@@ -46,7 +46,7 @@ Sheridan,Solomon,U.S. Senate,,L,Randall Batson,4
 Sheridan,Springbrook,U.S. Senate,,L,Randall Batson,2
 Sheridan,Union,U.S. Senate,,L,Randall Batson,0
 Sheridan,Valley,U.S. Senate,,L,Randall Batson,3
-SHERIDAN KS,SHERIDAN KS,U.S. Senate,,L,Randall Batson,36
+Sheridan,,U.S. Senate,,L,Randall Batson,36
 Sheridan,Adell,U.S. House,1,D,James Sherow,3
 Sheridan,Bloomfield,U.S. House,1,D,James Sherow,7
 Sheridan,Bowcreek,U.S. House,1,D,James Sherow,2
@@ -62,7 +62,7 @@ Sheridan,Solomon,U.S. House,1,D,James Sherow,14
 Sheridan,Springbrook,U.S. House,1,D,James Sherow,4
 Sheridan,Union,U.S. House,1,D,James Sherow,1
 Sheridan,Valley,U.S. House,1,D,James Sherow,7
-SHERIDAN KS,SHERIDAN KS,U.S. House,1,D,James Sherow,200
+Sheridan,,U.S. House,1,D,James Sherow,200
 Sheridan,Adell,U.S. House,1,R,Tim Huelskamp,7
 Sheridan,Bloomfield,U.S. House,1,R,Tim Huelskamp,13
 Sheridan,Bowcreek,U.S. House,1,R,Tim Huelskamp,20
@@ -78,7 +78,7 @@ Sheridan,Solomon,U.S. House,1,R,Tim Huelskamp,67
 Sheridan,Springbrook,U.S. House,1,R,Tim Huelskamp,32
 Sheridan,Union,U.S. House,1,R,Tim Huelskamp,17
 Sheridan,Valley,U.S. House,1,R,Tim Huelskamp,37
-SHERIDAN KS,SHERIDAN KS,U.S. House,1,R,Tim Huelskamp,839
+Sheridan,,U.S. House,1,R,Tim Huelskamp,839
 Sheridan,Adell,Governor,,D,Paul Davis,5
 Sheridan,Bloomfield,Governor,,D,Paul Davis,5
 Sheridan,Bowcreek,Governor,,D,Paul Davis,6
@@ -94,7 +94,7 @@ Sheridan,Solomon,Governor,,D,Paul Davis,14
 Sheridan,Springbrook,Governor,,D,Paul Davis,6
 Sheridan,Union,Governor,,D,Paul Davis,2
 Sheridan,Valley,Governor,,D,Paul Davis,11
-SHERIDAN KS,SHERIDAN KS,Governor,,D,Paul Davis,254
+Sheridan,,Governor,,D,Paul Davis,254
 Sheridan,Adell,Governor,,R,Sam Brownback,6
 Sheridan,Bloomfield,Governor,,R,Sam Brownback,16
 Sheridan,Bowcreek,Governor,,R,Sam Brownback,15
@@ -110,7 +110,7 @@ Sheridan,Solomon,Governor,,R,Sam Brownback,66
 Sheridan,Springbrook,Governor,,R,Sam Brownback,30
 Sheridan,Union,Governor,,R,Sam Brownback,15
 Sheridan,Valley,Governor,,R,Sam Brownback,32
-SHERIDAN KS,SHERIDAN KS,Governor,,R,Sam Brownback,776
+Sheridan,,Governor,,R,Sam Brownback,776
 Sheridan,Adell,Governor,,L,Keen Umbehr,0
 Sheridan,Bloomfield,Governor,,L,Keen Umbehr,0
 Sheridan,Bowcreek,Governor,,L,Keen Umbehr,0
@@ -126,7 +126,7 @@ Sheridan,Solomon,Governor,,L,Keen Umbehr,1
 Sheridan,Springbrook,Governor,,L,Keen Umbehr,2
 Sheridan,Union,Governor,,L,Keen Umbehr,1
 Sheridan,Valley,Governor,,L,Keen Umbehr,1
-SHERIDAN KS,SHERIDAN KS,Governor,,L,Keen Umbehr,32
+Sheridan,,Governor,,L,Keen Umbehr,32
 Sheridan,Adell,Secretary of State,,D,Jean Schodorf,3
 Sheridan,Bloomfield,Secretary of State,,D,Jean Schodorf,3
 Sheridan,Bowcreek,Secretary of State,,D,Jean Schodorf,2
@@ -142,7 +142,7 @@ Sheridan,Solomon,Secretary of State,,D,Jean Schodorf,13
 Sheridan,Springbrook,Secretary of State,,D,Jean Schodorf,5
 Sheridan,Union,Secretary of State,,D,Jean Schodorf,2
 Sheridan,Valley,Secretary of State,,D,Jean Schodorf,10
-SHERIDAN KS,SHERIDAN KS,Secretary of State,,D,Jean Schodorf,196
+Sheridan,,Secretary of State,,D,Jean Schodorf,196
 Sheridan,Adell,Secretary of State,,R,Kris Kobach,8
 Sheridan,Bloomfield,Secretary of State,,R,Kris Kobach,17
 Sheridan,Bowcreek,Secretary of State,,R,Kris Kobach,20
@@ -158,7 +158,7 @@ Sheridan,Solomon,Secretary of State,,R,Kris Kobach,66
 Sheridan,Springbrook,Secretary of State,,R,Kris Kobach,33
 Sheridan,Union,Secretary of State,,R,Kris Kobach,15
 Sheridan,Valley,Secretary of State,,R,Kris Kobach,34
-SHERIDAN KS,SHERIDAN KS,Secretary of State,,R,Kris Kobach,829
+Sheridan,,Secretary of State,,R,Kris Kobach,829
 Sheridan,Adell,Attorney General,,D,A J Kotich,2
 Sheridan,Bloomfield,Attorney General,,D,A J Kotich,4
 Sheridan,Bowcreek,Attorney General,,D,A J Kotich,1
@@ -174,7 +174,7 @@ Sheridan,Solomon,Attorney General,,D,A J Kotich,11
 Sheridan,Springbrook,Attorney General,,D,A J Kotich,2
 Sheridan,Union,Attorney General,,D,A J Kotich,0
 Sheridan,Valley,Attorney General,,D,A J Kotich,7
-SHERIDAN KS,SHERIDAN KS,Attorney General,,D,A J Kotich,135
+Sheridan,,Attorney General,,D,A J Kotich,135
 Sheridan,Adell,Attorney General,,R,Derek Schmidt,7
 Sheridan,Bloomfield,Attorney General,,R,Derek Schmidt,16
 Sheridan,Bowcreek,Attorney General,,R,Derek Schmidt,21
@@ -190,7 +190,7 @@ Sheridan,Solomon,Attorney General,,R,Derek Schmidt,69
 Sheridan,Springbrook,Attorney General,,R,Derek Schmidt,35
 Sheridan,Union,Attorney General,,R,Derek Schmidt,17
 Sheridan,Valley,Attorney General,,R,Derek Schmidt,37
-SHERIDAN KS,SHERIDAN KS,Attorney General,,R,Derek Schmidt,874
+Sheridan,,Attorney General,,R,Derek Schmidt,874
 Sheridan,Adell,State Treasurer,,D,Carmen Alldritt,2
 Sheridan,Bloomfield,State Treasurer,,D,Carmen Alldritt,3
 Sheridan,Bowcreek,State Treasurer,,D,Carmen Alldritt,2
@@ -206,7 +206,7 @@ Sheridan,Solomon,State Treasurer,,D,Carmen Alldritt,8
 Sheridan,Springbrook,State Treasurer,,D,Carmen Alldritt,2
 Sheridan,Union,State Treasurer,,D,Carmen Alldritt,2
 Sheridan,Valley,State Treasurer,,D,Carmen Alldritt,5
-SHERIDAN KS,SHERIDAN KS,State Treasurer,,D,Carmen Alldritt,133
+Sheridan,,State Treasurer,,D,Carmen Alldritt,133
 Sheridan,Adell,State Treasurer,,R,Ron Estes,7
 Sheridan,Bloomfield,State Treasurer,,R,Ron Estes,17
 Sheridan,Bowcreek,State Treasurer,,R,Ron Estes,19
@@ -222,7 +222,7 @@ Sheridan,Solomon,State Treasurer,,R,Ron Estes,71
 Sheridan,Springbrook,State Treasurer,,R,Ron Estes,35
 Sheridan,Union,State Treasurer,,R,Ron Estes,15
 Sheridan,Valley,State Treasurer,,R,Ron Estes,39
-SHERIDAN KS,SHERIDAN KS,State Treasurer,,R,Ron Estes,873
+Sheridan,,State Treasurer,,R,Ron Estes,873
 Sheridan,Adell,Insurance Commissioner,,D,Dennis Anderson,2
 Sheridan,Bloomfield,Insurance Commissioner,,D,Dennis Anderson,2
 Sheridan,Bowcreek,Insurance Commissioner,,D,Dennis Anderson,1
@@ -238,7 +238,7 @@ Sheridan,Solomon,Insurance Commissioner,,D,Dennis Anderson,10
 Sheridan,Springbrook,Insurance Commissioner,,D,Dennis Anderson,1
 Sheridan,Union,Insurance Commissioner,,D,Dennis Anderson,3
 Sheridan,Valley,Insurance Commissioner,,D,Dennis Anderson,7
-SHERIDAN KS,SHERIDAN KS,Insurance Commissioner,,D,Dennis Anderson,161
+Sheridan,,Insurance Commissioner,,D,Dennis Anderson,161
 Sheridan,Adell,Insurance Commissioner,,R,Ken Selzer,7
 Sheridan,Bloomfield,Insurance Commissioner,,R,Ken Selzer,18
 Sheridan,Bowcreek,Insurance Commissioner,,R,Ken Selzer,21
@@ -254,7 +254,7 @@ Sheridan,Solomon,Insurance Commissioner,,R,Ken Selzer,66
 Sheridan,Springbrook,Insurance Commissioner,,R,Ken Selzer,36
 Sheridan,Union,Insurance Commissioner,,R,Ken Selzer,13
 Sheridan,Valley,Insurance Commissioner,,R,Ken Selzer,34
-SHERIDAN KS,SHERIDAN KS,Insurance Commissioner,,R,Ken Selzer,825
+Sheridan,,Insurance Commissioner,,R,Ken Selzer,825
 Sheridan,Adell,State House,118,R,Don Hineman,9
 Sheridan,Bloomfield,State House,118,R,Don Hineman,18
 Sheridan,Bowcreek,State House,118,R,Don Hineman,20
@@ -270,4 +270,4 @@ Sheridan,Solomon,State House,118,R,Don Hineman,78
 Sheridan,Springbrook,State House,118,R,Don Hineman,35
 Sheridan,Union,State House,118,R,Don Hineman,16
 Sheridan,Valley,State House,118,R,Don Hineman,40
-SHERIDAN KS,SHERIDAN KS,State House,118,R,Don Hineman,920
+Sheridan,,State House,118,R,Don Hineman,920

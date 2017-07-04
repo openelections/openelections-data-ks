@@ -38,8 +38,8 @@ Ottawa,Mpls III,Secretary of State,,R,Kris Kobach,199
 Ottawa,Mpls 1,State House,107,R,Susan Concannon,228
 Ottawa,Mpls II,State House,107,R,Susan Concannon,150
 Ottawa,Mpls III,State House,107,R,Susan Concannon,220
-Ottawa,Mpls 1,State House,107,wri,Write-ins,1
-Ottawa,Mpls III,State House,107,wri,Write-ins,1
+Ottawa,Mpls 1,State House,107,,Write-ins,1
+Ottawa,Mpls III,State House,107,,Write-ins,1
 Ottawa,Mpls 1,State Treasurer,,D,Carmen Alldritt,37
 Ottawa,Mpls II,State Treasurer,,D,Carmen Alldritt,27
 Ottawa,Mpls III,State Treasurer,,D,Carmen Alldritt,37
@@ -55,8 +55,7 @@ Ottawa,Mpls III,U.S. Senate,,R,Pat Roberts,188
 Ottawa,Mpls 1,U.S. Senate,,L,Randall Batson,11
 Ottawa,Mpls II,U.S. Senate,,L,Randall Batson,15
 Ottawa,Mpls III,U.S. Senate,,L,Randall Batson,17
-Ottawa,Mpls III,U.S. Senate,,wri,Write-ins,1
-county,precinct,office,district,party,candidate,votes
+Ottawa,Mpls III,U.S. Senate,,,Write-ins,1
 Ottawa,Bennington,Attorney General,,D,A.J. Kotich,89
 Ottawa,Blaine,Attorney General,,D,A.J. Kotich,10
 Ottawa,Buckeye,Attorney General,,D,A.J. Kotich,9
@@ -97,7 +96,7 @@ Ottawa,Richland,Attorney General,,R,Derek Schmidt,93
 Ottawa,Sheridan,Attorney General,,R,Derek Schmidt,139
 Ottawa,Sherman,Attorney General,,R,Derek Schmidt,22
 Ottawa,Stanton,Attorney General,,R,Derek Schmidt,20
-Ottawa,Bennington,Attorney General,,wri,Write-ins,1
+Ottawa,Bennington,Attorney General,,,Write-ins,1
 Ottawa,Bennington,U.S. House,1,D,James Sherow,133
 Ottawa,Blaine,U.S. House,1,D,James Sherow,10
 Ottawa,Buckeye,U.S. House,1,D,James Sherow,13
@@ -138,7 +137,7 @@ Ottawa,Richland,U.S. House,1,R,Tim Huelskamp,87
 Ottawa,Sheridan,U.S. House,1,R,Tim Huelskamp,130
 Ottawa,Sherman,U.S. House,1,R,Tim Huelskamp,22
 Ottawa,Stanton,U.S. House,1,R,Tim Huelskamp,15
-Ottawa,Bennington,U.S. House,1,wri,Write-ins,1
+Ottawa,Bennington,U.S. House,1,,Write-ins,1
 Ottawa,Bennington,Governor ,,L,Keen Umbehr,31
 Ottawa,Blaine,Governor ,,L,Keen Umbehr,5
 Ottawa,Buckeye,Governor ,,L,Keen Umbehr,4
@@ -199,7 +198,7 @@ Ottawa,Richland,Governor ,,R,Sam Brownback,79
 Ottawa,Sheridan,Governor ,,R,Sam Brownback,106
 Ottawa,Sherman,Governor ,,R,Sam Brownback,24
 Ottawa,Stanton,Governor ,,R,Sam Brownback,14
-Ottawa,Lincoln,Governor ,,wri,Write-ins,2
+Ottawa,Lincoln,Governor ,,,Write-ins,2
 Ottawa,Bennington,Insurance Commissioner,,D,Dennis Anderson,105
 Ottawa,Blaine,Insurance Commissioner,,D,Dennis Anderson,13
 Ottawa,Buckeye,Insurance Commissioner,,D,Dennis Anderson,8
@@ -240,7 +239,7 @@ Ottawa,Richland,Insurance Commissioner,,R,Ken Selzer,89
 Ottawa,Sheridan,Insurance Commissioner,,R,Ken Selzer,145
 Ottawa,Sherman,Insurance Commissioner,,R,Ken Selzer,22
 Ottawa,Stanton,Insurance Commissioner,,R,Ken Selzer,19
-Ottawa,Bennington,Insurance Commissioner,,wri,Write-ins,1
+Ottawa,Bennington,Insurance Commissioner,,,Write-ins,1
 Ottawa,Bennington,Secretary of State,,D,Jean Kurtis Schodorf,133
 Ottawa,Blaine,Secretary of State,,D,Jean Kurtis Schodorf,15
 Ottawa,Buckeye,Secretary of State,,D,Jean Kurtis Schodorf,11
@@ -281,7 +280,7 @@ Ottawa,Richland,Secretary of State,,R,Kris Kobach,91
 Ottawa,Sheridan,Secretary of State,,R,Kris Kobach,137
 Ottawa,Sherman,Secretary of State,,R,Kris Kobach,23
 Ottawa,Stanton,Secretary of State,,R,Kris Kobach,17
-Ottawa,Henry,Secretary of State,,wri,Write-ins,1
+Ottawa,Henry,Secretary of State,,,Write-ins,1
 Ottawa,Bennington,State House,107,R,Susan Concannon,405
 Ottawa,Blaine,State House,107,R,Susan Concannon,45
 Ottawa,Buckeye,State House,107,R,Susan Concannon,46
@@ -302,10 +301,10 @@ Ottawa,Richland,State House,107,R,Susan Concannon,103
 Ottawa,Sheridan,State House,107,R,Susan Concannon,155
 Ottawa,Sherman,State House,107,R,Susan Concannon,25
 Ottawa,Stanton,State House,107,R,Susan Concannon,23
-Ottawa,Bennington,State House,107,wri,Write-ins,2
-Ottawa,Blaine,State House,107,wri,Write-ins,1
-Ottawa,Lincoln,State House,107,wri,Write-ins,3
-Ottawa,Sheridan,State House,107,wri,Write-ins,2
+Ottawa,Bennington,State House,107,,Write-ins,2
+Ottawa,Blaine,State House,107,,Write-ins,1
+Ottawa,Lincoln,State House,107,,Write-ins,3
+Ottawa,Sheridan,State House,107,,Write-ins,2
 Ottawa,Bennington,State Treasurer,,D,Carmen Alldritt,81
 Ottawa,Blaine,State Treasurer,,D,Carmen Alldritt,9
 Ottawa,Buckeye,State Treasurer,,D,Carmen Alldritt,9

@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,TOTAL,polls,advance,absentee,prov
+county,precinct,office,district,party,candidate,votes,poll,advance,absentee,prov
 Thomas,01 Barrett twp,Attorney General,,DEM,A.J. Kotich,60,37,15,8,0
 Thomas,02 Colby Ward 1,Attorney General,,DEM,A.J. Kotich,60,37,15,8,0
 Thomas,03 Colby Ward 2,Attorney General,,DEM,A.J. Kotich,82,53,22,7,0
@@ -17,7 +17,6 @@ Thomas,15 N Randall twp,Attorney General,,DEM,A.J. Kotich,0,0,0,0,0
 Thomas,16 Rovohl twp,Attorney General,,DEM,A.J. Kotich,6,4,2,0,0
 Thomas,17 Summers twp,Attorney General,,DEM,A.J. Kotich,6,2,1,3,0
 Thomas,18 Wendell twp,Attorney General,,DEM,A.J. Kotich,2,0,0,2,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Attorney General,,REP,Derek Schmidt,269,202,44,21,2
 Thomas,02 Colby Ward 1,Attorney General,,REP,Derek Schmidt,269,202,44,21,2
 Thomas,03 Colby Ward 2,Attorney General,,REP,Derek Schmidt,299,214,62,20,3
@@ -36,11 +35,9 @@ Thomas,15 N Randall twp,Attorney General,,REP,Derek Schmidt,34,16,12,4,2
 Thomas,16 Rovohl twp,Attorney General,,REP,Derek Schmidt,65,48,7,10,0
 Thomas,17 Summers twp,Attorney General,,REP,Derek Schmidt,81,47,17,17,0
 Thomas,18 Wendell twp,Attorney General,,REP,Derek Schmidt,32,10,3,19,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Attorney General,,,Write-ins,1,1,0,0,0
 Thomas,02 Colby Ward 1,Attorney General,,,Write-ins,1,1,0,0,0
 Thomas,11 East Hale twp,Attorney General,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Governor,,LIB,Keen A. Umbehr,15,15,0,0,0
 Thomas,02 Colby Ward 1,Governor,,LIB,Keen A. Umbehr,15,15,0,0,0
 Thomas,03 Colby Ward 2,Governor,,LIB,Keen A. Umbehr,18,15,1,1,1
@@ -59,7 +56,6 @@ Thomas,15 N Randall twp,Governor,,LIB,Keen A. Umbehr,0,0,0,0,0
 Thomas,16 Rovohl twp,Governor,,LIB,Keen A. Umbehr,4,4,0,0,0
 Thomas,17 Summers twp,Governor,,LIB,Keen A. Umbehr,2,1,1,0,0
 Thomas,18 Wendell twp,Governor,,LIB,Keen A. Umbehr,1,0,0,1,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Governor,,DEM,Paul Davis,129,80,31,18,0
 Thomas,02 Colby Ward 1,Governor,,DEM,Paul Davis,129,80,31,18,0
 Thomas,03 Colby Ward 2,Governor,,DEM,Paul Davis,143,98,31,12,2
@@ -78,7 +74,6 @@ Thomas,15 N Randall twp,Governor,,DEM,Paul Davis,2,0,2,0,0
 Thomas,16 Rovohl twp,Governor,,DEM,Paul Davis,16,13,2,1,0
 Thomas,17 Summers twp,Governor,,DEM,Paul Davis,12,2,3,7,0
 Thomas,18 Wendell twp,Governor,,DEM,Paul Davis,10,4,0,6,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Governor,,REP,Sam Brownback,192,150,30,10,2
 Thomas,02 Colby Ward 1,Governor,,REP,Sam Brownback,192,150,30,10,2
 Thomas,03 Colby Ward 2,Governor,,REP,Sam Brownback,222,153,52,17,0
@@ -97,10 +92,8 @@ Thomas,15 N Randall twp,Governor,,REP,Sam Brownback,32,16,10,4,2
 Thomas,16 Rovohl twp,Governor,,REP,Sam Brownback,52,35,8,9,0
 Thomas,17 Summers twp,Governor,,REP,Sam Brownback,78,48,14,16,0
 Thomas,18 Wendell twp,Governor,,REP,Sam Brownback,23,6,3,14,0
-,,,,,,,,,,
 Thomas,09 S Randall twp/Oakl,Governor,,,Write-ins,1,1,0,0,0
 Thomas,16 Rovohl twp,Governor,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Insurance Commissioner,,DEM,Dennis Anderson,11,2,1,8,0
 Thomas,02 Colby Ward 1,Insurance Commissioner,,DEM,Dennis Anderson,71,42,16,13,0
 Thomas,03 Colby Ward 2,Insurance Commissioner,,DEM,Dennis Anderson,91,57,25,9,0
@@ -119,7 +112,6 @@ Thomas,15 N Randall twp,Insurance Commissioner,,DEM,Dennis Anderson,1,0,1,0,0
 Thomas,16 Rovohl twp,Insurance Commissioner,,DEM,Dennis Anderson,5,2,2,1,0
 Thomas,17 Summers twp,Insurance Commissioner,,DEM,Dennis Anderson,6,1,1,4,0
 Thomas,18 Wendell twp,Insurance Commissioner,,DEM,Dennis Anderson,3,1,0,2,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Insurance Commissioner,,REP,Ken Selzer,35,22,3,10,0
 Thomas,02 Colby Ward 1,Insurance Commissioner,,REP,Ken Selzer,252,192,42,16,2
 Thomas,03 Colby Ward 2,Insurance Commissioner,,REP,Ken Selzer,288,207,59,19,3
@@ -138,10 +130,8 @@ Thomas,15 N Randall twp,Insurance Commissioner,,REP,Ken Selzer,33,16,11,4,2
 Thomas,16 Rovohl twp,Insurance Commissioner,,REP,Ken Selzer,66,50,7,9,0
 Thomas,17 Summers twp,Insurance Commissioner,,REP,Ken Selzer,79,47,17,15,0
 Thomas,18 Wendell twp,Insurance Commissioner,,REP,Ken Selzer,31,9,3,19,0
-,,,,,,,,,,
 Thomas,05 Colby Ward 4,Insurance Commissioner,,,Write-ins,1,0,1,0,0
 Thomas,11 East Hale twp,Insurance Commissioner,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Secretary of State,,DEM,Jean Kurtis Schodorf,95,58,23,14,0
 Thomas,02 Colby Ward 1,Secretary of State,,DEM,Jean Kurtis Schodorf,95,58,23,14,0
 Thomas,03 Colby Ward 2,Secretary of State,,DEM,Jean Kurtis Schodorf,103,67,26,10,0
@@ -160,7 +150,6 @@ Thomas,15 N Randall twp,Secretary of State,,DEM,Jean Kurtis Schodorf,2,0,2,0,0
 Thomas,16 Rovohl twp,Secretary of State,,DEM,Jean Kurtis Schodorf,8,5,2,1,0
 Thomas,17 Summers twp,Secretary of State,,DEM,Jean Kurtis Schodorf,9,2,1,6,0
 Thomas,18 Wendell twp,Secretary of State,,DEM,Jean Kurtis Schodorf,6,1,0,5,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Secretary of State,,REP,Kris Kobach,238,187,35,14,2
 Thomas,02 Colby Ward 1,Secretary of State,,REP,Kris Kobach,238,187,35,14,2
 Thomas,03 Colby Ward 2,Secretary of State,,REP,Kris Kobach,280,201,58,18,3
@@ -179,42 +168,36 @@ Thomas,15 N Randall twp,Secretary of State,,REP,Kris Kobach,32,16,10,4,2
 Thomas,16 Rovohl twp,Secretary of State,,REP,Kris Kobach,64,47,7,10,0
 Thomas,17 Summers twp,Secretary of State,,REP,Kris Kobach,81,48,17,16,0
 Thomas,18 Wendell twp,Secretary of State,,REP,Kris Kobach,27,8,3,16,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,Secretary of State,,,Write-ins,1,1,0,0,0
 Thomas,02 Colby Ward 1,Secretary of State,,,Write-ins,1,1,0,0,0
 Thomas,09 S Randall twp/Oakl,Secretary of State,,,Write-ins,1,1,0,0,0
 Thomas,11 East Hale twp,Secretary of State,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
-Thomas,07 Lacey twp/Gem,SR 118,SR 118,REP,Don Hineman,43,19,12,12,0
-Thomas,08 Menlo twp,SR 118,SR 118,REP,Don Hineman,23,8,5,9,1
-Thomas,09 S Randall twp/Oakl,SR 118,SR 118,REP,Don Hineman,91,38,4,48,1
-Thomas,10 Smith twp /Rexford,SR 118,SR 118,REP,Don Hineman,72,27,8,36,1
-Thomas,12 Kingery twp,SR 118,SR 118,REP,Don Hineman,37,19,2,16,0
-Thomas,15 N Randall twp,SR 118,SR 118,REP,Don Hineman,32,15,11,4,2
-Thomas,17 Summers twp,SR 118,SR 118,REP,Don Hineman,79,44,15,20,0
-Thomas,18 Wendell twp,SR 118,SR 118,REP,Don Hineman,31,9,3,19,0
-,,,,,,,,,,
-Thomas,09 S Randall twp/Oakl,SR 118,SR 118,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,SR 120,SR 120,REP,Rick Billinger,303,229,50,22,2
-Thomas,02 Colby Ward 1,SR 120,SR 120,REP,Rick Billinger,303,229,50,22,2
-Thomas,03 Colby Ward 2,SR 120,SR 120,REP,Rick Billinger,353,255,72,23,3
-Thomas,04 Colby Ward 3,SR 120,SR 120,REP,Rick Billinger,462,300,103,51,8
-Thomas,05 Colby Ward 4,SR 120,SR 120,REP,Rick Billinger,406,278,77,45,6
-Thomas,06 Hale twp/Brewster,SR 120,SR 120,REP,Rick Billinger,120,37,20,60,3
-Thomas,11 East Hale twp,SR 120,SR 120,REP,Rick Billinger,56,30,5,21,0
-Thomas,13 E Morgan twp,SR 120,SR 120,REP,Rick Billinger,103,75,26,2,0
-Thomas,14 W Morgan twp,SR 120,SR 120,REP,Rick Billinger,174,118,34,22,0
-Thomas,16 Rovohl twp,SR 120,SR 120,REP,Rick Billinger,69,50,8,11,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,SR 120,SR 120,,Write-ins,12,6,4,2,0
-Thomas,02 Colby Ward 1,SR 120,SR 120,,Write-ins,12,6,4,2,0
-Thomas,03 Colby Ward 2,SR 120,SR 120,,Write-ins,9,6,3,0,0
-Thomas,04 Colby Ward 3,SR 120,SR 120,,Write-ins,4,3,1,0,0
-Thomas,05 Colby Ward 4,SR 120,SR 120,,Write-ins,6,5,1,0,0
-Thomas,06 Hale twp/Brewster,SR 120,SR 120,,Write-ins,2,0,1,1,0
-Thomas,14 W Morgan twp,SR 120,SR 120,,Write-ins,4,3,0,1,0
-,,,,,,,,,,
+Thomas,07 Lacey twp/Gem,State House,118,REP,Don Hineman,43,19,12,12,0
+Thomas,08 Menlo twp,State House,118,REP,Don Hineman,23,8,5,9,1
+Thomas,09 S Randall twp/Oakl,State House,118,REP,Don Hineman,91,38,4,48,1
+Thomas,10 Smith twp /Rexford,State House,118,REP,Don Hineman,72,27,8,36,1
+Thomas,12 Kingery twp,State House,118,REP,Don Hineman,37,19,2,16,0
+Thomas,15 N Randall twp,State House,118,REP,Don Hineman,32,15,11,4,2
+Thomas,17 Summers twp,State House,118,REP,Don Hineman,79,44,15,20,0
+Thomas,18 Wendell twp,State House,118,REP,Don Hineman,31,9,3,19,0
+Thomas,09 S Randall twp/Oakl,State House,118,,Write-ins,1,1,0,0,0
+Thomas,01 Barrett twp,State House,120,REP,Rick Billinger,303,229,50,22,2
+Thomas,02 Colby Ward 1,State House,120,REP,Rick Billinger,303,229,50,22,2
+Thomas,03 Colby Ward 2,State House,120,REP,Rick Billinger,353,255,72,23,3
+Thomas,04 Colby Ward 3,State House,120,REP,Rick Billinger,462,300,103,51,8
+Thomas,05 Colby Ward 4,State House,120,REP,Rick Billinger,406,278,77,45,6
+Thomas,06 Hale twp/Brewster,State House,120,REP,Rick Billinger,120,37,20,60,3
+Thomas,11 East Hale twp,State House,120,REP,Rick Billinger,56,30,5,21,0
+Thomas,13 E Morgan twp,State House,120,REP,Rick Billinger,103,75,26,2,0
+Thomas,14 W Morgan twp,State House,120,REP,Rick Billinger,174,118,34,22,0
+Thomas,16 Rovohl twp,State House,120,REP,Rick Billinger,69,50,8,11,0
+Thomas,01 Barrett twp,State House,120,,Write-ins,12,6,4,2,0
+Thomas,02 Colby Ward 1,State House,120,,Write-ins,12,6,4,2,0
+Thomas,03 Colby Ward 2,State House,120,,Write-ins,9,6,3,0,0
+Thomas,04 Colby Ward 3,State House,120,,Write-ins,4,3,1,0,0
+Thomas,05 Colby Ward 4,State House,120,,Write-ins,6,5,1,0,0
+Thomas,06 Hale twp/Brewster,State House,120,,Write-ins,2,0,1,1,0
+Thomas,14 W Morgan twp,State House,120,,Write-ins,4,3,0,1,0
 Thomas,01 Barrett twp,State Treasurer,,DEM,Carmen Alldritt,60,36,16,8,0
 Thomas,02 Colby Ward 1,State Treasurer,,DEM,Carmen Alldritt,60,36,16,8,0
 Thomas,03 Colby Ward 2,State Treasurer,,DEM,Carmen Alldritt,77,47,24,6,0
@@ -233,7 +216,6 @@ Thomas,15 N Randall twp,State Treasurer,,DEM,Carmen Alldritt,0,0,0,0,0
 Thomas,16 Rovohl twp,State Treasurer,,DEM,Carmen Alldritt,1,1,0,0,0
 Thomas,17 Summers twp,State Treasurer,,DEM,Carmen Alldritt,8,2,2,4,0
 Thomas,18 Wendell twp,State Treasurer,,DEM,Carmen Alldritt,1,0,0,1,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,State Treasurer,,REP,Ron Estes,270,203,44,21,2
 Thomas,02 Colby Ward 1,State Treasurer,,REP,Ron Estes,270,203,44,21,2
 Thomas,03 Colby Ward 2,State Treasurer,,REP,Ron Estes,305,220,60,22,3
@@ -252,75 +234,69 @@ Thomas,15 N Randall twp,State Treasurer,,REP,Ron Estes,34,16,12,4,2
 Thomas,16 Rovohl twp,State Treasurer,,REP,Ron Estes,72,52,9,11,0
 Thomas,17 Summers twp,State Treasurer,,REP,Ron Estes,81,47,16,18,0
 Thomas,18 Wendell twp,State Treasurer,,REP,Ron Estes,32,10,3,19,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,State Treasurer,,,Write-ins,1,1,0,0,0
 Thomas,02 Colby Ward 1,State Treasurer,,,Write-ins,1,1,0,0,0
 Thomas,04 Colby Ward 3,State Treasurer,,,Write-ins,1,1,0,0,0
 Thomas,11 East Hale twp,State Treasurer,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,US REP 1,1,DEM,James E. Sherow,93,59,23,11,0
-Thomas,02 Colby Ward 1,US REP 1,1,DEM,James E. Sherow,93,59,23,11,0
-Thomas,03 Colby Ward 2,US REP 1,1,DEM,James E. Sherow,109,68,28,13,0
-Thomas,04 Colby Ward 3,US REP 1,1,DEM,James E. Sherow,120,71,25,22,2
-Thomas,05 Colby Ward 4,US REP 1,1,DEM,James E. Sherow,131,81,32,17,1
-Thomas,06 Hale twp/Brewster,US REP 1,1,DEM,James E. Sherow,18,1,3,14,0
-Thomas,07 Lacey twp/Gem,US REP 1,1,DEM,James E. Sherow,9,3,2,4,0
-Thomas,08 Menlo twp,US REP 1,1,DEM,James E. Sherow,2,0,0,2,0
-Thomas,09 S Randall twp/Oakl,US REP 1,1,DEM,James E. Sherow,24,7,2,15,0
-Thomas,10 Smith twp /Rexford,US REP 1,1,DEM,James E. Sherow,10,4,,6,0
-Thomas,11 East Hale twp,US REP 1,1,DEM,James E. Sherow,7,4,0,3,0
-Thomas,12 Kingery twp,US REP 1,1,DEM,James E. Sherow,5,4,0,1,0
-Thomas,13 E Morgan twp,US REP 1,1,DEM,James E. Sherow,25,19,6,0,0
-Thomas,14 W Morgan twp,US REP 1,1,DEM,James E. Sherow,50,37,10,3,0
-Thomas,15 N Randall twp,US REP 1,1,DEM,James E. Sherow,2,0,2,0,0
-Thomas,16 Rovohl twp,US REP 1,1,DEM,James E. Sherow,10,8,2,0,0
-Thomas,17 Summers twp,US REP 1,1,DEM,James E. Sherow,10,3,2,5,0
-Thomas,18 Wendell twp,US REP 1,1,DEM,James E. Sherow,5,2,0,3,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,US REP 1,1,REP,Tim Huelskamp,241,184,37,18,2
-Thomas,02 Colby Ward 1,US REP 1,1,REP,Tim Huelskamp,241,184,37,18,2
-Thomas,03 Colby Ward 2,US REP 1,1,REP,Tim Huelskamp,274,199,56,16,3
-Thomas,04 Colby Ward 3,US REP 1,1,REP,Tim Huelskamp,367,241,82,37,7
-Thomas,05 Colby Ward 4,US REP 1,1,REP,Tim Huelskamp,319,220,57,36,6
-Thomas,06 Hale twp/Brewster,US REP 1,1,REP,Tim Huelskamp,108,36,18,51,3
-Thomas,07 Lacey twp/Gem,US REP 1,1,REP,Tim Huelskamp,42,17,12,13,0
-Thomas,08 Menlo twp,US REP 1,1,REP,Tim Huelskamp,24,9,5,9,1
-Thomas,09 S Randall twp/Oakl,US REP 1,1,REP,Tim Huelskamp,77,33,2,41,1
-Thomas,10 Smith twp /Rexford,US REP 1,1,REP,Tim Huelskamp,65,24,8,32,1
-Thomas,11 East Hale twp,US REP 1,1,REP,Tim Huelskamp,48,25,5,18,0
-Thomas,12 Kingery twp,US REP 1,1,REP,Tim Huelskamp,34,17,2,15,0
-Thomas,13 E Morgan twp,US REP 1,1,REP,Tim Huelskamp,83,58,22,3,0
-Thomas,14 W Morgan twp,US REP 1,1,REP,Tim Huelskamp,135,91,23,21,0
-Thomas,15 N Randall twp,US REP 1,1,REP,Tim Huelskamp,32,16,10,4,2
-Thomas,16 Rovohl twp,US REP 1,1,REP,Tim Huelskamp,63,45,7,11,0
-Thomas,17 Summers twp,US REP 1,1,REP,Tim Huelskamp,80,47,16,17,0
-Thomas,18 Wendell twp,US REP 1,1,REP,Tim Huelskamp,29,8,3,18,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,US REP 1,1,,Write-ins,1,1,0,0,0
-Thomas,02 Colby Ward 1,US REP 1,1,,Write-ins,1,1,0,0,0
-Thomas,03 Colby Ward 2,US REP 1,1,,Write-ins,1,1,0,0,0
-Thomas,11 East Hale twp,US REP 1,1,,Write-ins,1,1,0,0,0
-Thomas,14 W Morgan twp,US REP 1,1,,Write-ins,1,0,1,0,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,U.S. Senate,,(IND),Greg Orman,89,51,24,14,0
-Thomas,02 Colby Ward 1,U.S. Senate,,(IND),Greg Orman,89,51,24,14,0
-Thomas,03 Colby Ward 2,U.S. Senate,,(IND),Greg Orman,97,62,23,10,2
-Thomas,04 Colby Ward 3,U.S. Senate,,(IND),Greg Orman,135,84,25,23,3
-Thomas,05 Colby Ward 4,U.S. Senate,,(IND),Greg Orman,123,82,26,13,2
-Thomas,06 Hale twp/Brewster,U.S. Senate,,(IND),Greg Orman,29,6,5,18,0
-Thomas,07 Lacey twp/Gem,U.S. Senate,,(IND),Greg Orman,10,2,2,6,0
-Thomas,08 Menlo twp,U.S. Senate,,(IND),Greg Orman,2,0,0,2,0
-Thomas,09 S Randall twp/Oakl,U.S. Senate,,(IND),Greg Orman,24,5,1,18,0
-Thomas,10 Smith twp /Rexford,U.S. Senate,,(IND),Greg Orman,12,5,1,6,0
-Thomas,11 East Hale twp,U.S. Senate,,(IND),Greg Orman,6,3,0,3,0
-Thomas,12 Kingery twp,U.S. Senate,,(IND),Greg Orman,8,6,1,1,0
-Thomas,13 E Morgan twp,U.S. Senate,,(IND),Greg Orman,24,17,5,2,0
-Thomas,14 W Morgan twp,U.S. Senate,,(IND),Greg Orman,38,31,6,1,0
-Thomas,15 N Randall twp,U.S. Senate,,(IND),Greg Orman,2,0,2,0,0
-Thomas,16 Rovohl twp,U.S. Senate,,(IND),Greg Orman,10,7,2,1,0
-Thomas,17 Summers twp,U.S. Senate,,(IND),Greg Orman,10,2,2,6,0
-Thomas,18 Wendell twp,U.S. Senate,,(IND),Greg Orman,5,2,0,3,0
-,,,,,,,,,,
+Thomas,01 Barrett twp,U.S. House,1,DEM,James E. Sherow,93,59,23,11,0
+Thomas,02 Colby Ward 1,U.S. House,1,DEM,James E. Sherow,93,59,23,11,0
+Thomas,03 Colby Ward 2,U.S. House,1,DEM,James E. Sherow,109,68,28,13,0
+Thomas,04 Colby Ward 3,U.S. House,1,DEM,James E. Sherow,120,71,25,22,2
+Thomas,05 Colby Ward 4,U.S. House,1,DEM,James E. Sherow,131,81,32,17,1
+Thomas,06 Hale twp/Brewster,U.S. House,1,DEM,James E. Sherow,18,1,3,14,0
+Thomas,07 Lacey twp/Gem,U.S. House,1,DEM,James E. Sherow,9,3,2,4,0
+Thomas,08 Menlo twp,U.S. House,1,DEM,James E. Sherow,2,0,0,2,0
+Thomas,09 S Randall twp/Oakl,U.S. House,1,DEM,James E. Sherow,24,7,2,15,0
+Thomas,10 Smith twp /Rexford,U.S. House,1,DEM,James E. Sherow,10,4,,6,0
+Thomas,11 East Hale twp,U.S. House,1,DEM,James E. Sherow,7,4,0,3,0
+Thomas,12 Kingery twp,U.S. House,1,DEM,James E. Sherow,5,4,0,1,0
+Thomas,13 E Morgan twp,U.S. House,1,DEM,James E. Sherow,25,19,6,0,0
+Thomas,14 W Morgan twp,U.S. House,1,DEM,James E. Sherow,50,37,10,3,0
+Thomas,15 N Randall twp,U.S. House,1,DEM,James E. Sherow,2,0,2,0,0
+Thomas,16 Rovohl twp,U.S. House,1,DEM,James E. Sherow,10,8,2,0,0
+Thomas,17 Summers twp,U.S. House,1,DEM,James E. Sherow,10,3,2,5,0
+Thomas,18 Wendell twp,U.S. House,1,DEM,James E. Sherow,5,2,0,3,0
+Thomas,01 Barrett twp,U.S. House,1,REP,Tim Huelskamp,241,184,37,18,2
+Thomas,02 Colby Ward 1,U.S. House,1,REP,Tim Huelskamp,241,184,37,18,2
+Thomas,03 Colby Ward 2,U.S. House,1,REP,Tim Huelskamp,274,199,56,16,3
+Thomas,04 Colby Ward 3,U.S. House,1,REP,Tim Huelskamp,367,241,82,37,7
+Thomas,05 Colby Ward 4,U.S. House,1,REP,Tim Huelskamp,319,220,57,36,6
+Thomas,06 Hale twp/Brewster,U.S. House,1,REP,Tim Huelskamp,108,36,18,51,3
+Thomas,07 Lacey twp/Gem,U.S. House,1,REP,Tim Huelskamp,42,17,12,13,0
+Thomas,08 Menlo twp,U.S. House,1,REP,Tim Huelskamp,24,9,5,9,1
+Thomas,09 S Randall twp/Oakl,U.S. House,1,REP,Tim Huelskamp,77,33,2,41,1
+Thomas,10 Smith twp /Rexford,U.S. House,1,REP,Tim Huelskamp,65,24,8,32,1
+Thomas,11 East Hale twp,U.S. House,1,REP,Tim Huelskamp,48,25,5,18,0
+Thomas,12 Kingery twp,U.S. House,1,REP,Tim Huelskamp,34,17,2,15,0
+Thomas,13 E Morgan twp,U.S. House,1,REP,Tim Huelskamp,83,58,22,3,0
+Thomas,14 W Morgan twp,U.S. House,1,REP,Tim Huelskamp,135,91,23,21,0
+Thomas,15 N Randall twp,U.S. House,1,REP,Tim Huelskamp,32,16,10,4,2
+Thomas,16 Rovohl twp,U.S. House,1,REP,Tim Huelskamp,63,45,7,11,0
+Thomas,17 Summers twp,U.S. House,1,REP,Tim Huelskamp,80,47,16,17,0
+Thomas,18 Wendell twp,U.S. House,1,REP,Tim Huelskamp,29,8,3,18,0
+Thomas,01 Barrett twp,U.S. House,1,,Write-ins,1,1,0,0,0
+Thomas,02 Colby Ward 1,U.S. House,1,,Write-ins,1,1,0,0,0
+Thomas,03 Colby Ward 2,U.S. House,1,,Write-ins,1,1,0,0,0
+Thomas,11 East Hale twp,U.S. House,1,,Write-ins,1,1,0,0,0
+Thomas,14 W Morgan twp,U.S. House,1,,Write-ins,1,0,1,0,0
+Thomas,01 Barrett twp,U.S. Senate,,IND,Greg Orman,89,51,24,14,0
+Thomas,02 Colby Ward 1,U.S. Senate,,IND,Greg Orman,89,51,24,14,0
+Thomas,03 Colby Ward 2,U.S. Senate,,IND,Greg Orman,97,62,23,10,2
+Thomas,04 Colby Ward 3,U.S. Senate,,IND,Greg Orman,135,84,25,23,3
+Thomas,05 Colby Ward 4,U.S. Senate,,IND,Greg Orman,123,82,26,13,2
+Thomas,06 Hale twp/Brewster,U.S. Senate,,IND,Greg Orman,29,6,5,18,0
+Thomas,07 Lacey twp/Gem,U.S. Senate,,IND,Greg Orman,10,2,2,6,0
+Thomas,08 Menlo twp,U.S. Senate,,IND,Greg Orman,2,0,0,2,0
+Thomas,09 S Randall twp/Oakl,U.S. Senate,,IND,Greg Orman,24,5,1,18,0
+Thomas,10 Smith twp /Rexford,U.S. Senate,,IND,Greg Orman,12,5,1,6,0
+Thomas,11 East Hale twp,U.S. Senate,,IND,Greg Orman,6,3,0,3,0
+Thomas,12 Kingery twp,U.S. Senate,,IND,Greg Orman,8,6,1,1,0
+Thomas,13 E Morgan twp,U.S. Senate,,IND,Greg Orman,24,17,5,2,0
+Thomas,14 W Morgan twp,U.S. Senate,,IND,Greg Orman,38,31,6,1,0
+Thomas,15 N Randall twp,U.S. Senate,,IND,Greg Orman,2,0,2,0,0
+Thomas,16 Rovohl twp,U.S. Senate,,IND,Greg Orman,10,7,2,1,0
+Thomas,17 Summers twp,U.S. Senate,,IND,Greg Orman,10,2,2,6,0
+Thomas,18 Wendell twp,U.S. Senate,,IND,Greg Orman,5,2,0,3,0
 Thomas,01 Barrett twp,U.S. Senate,,REP,Pat Roberts,233,184,36,11,2
 Thomas,02 Colby Ward 1,U.S. Senate,,REP,Pat Roberts,233,184,36,11,2
 Thomas,03 Colby Ward 2,U.S. Senate,,REP,Pat Roberts,271,191,61,18,1
@@ -339,7 +315,6 @@ Thomas,15 N Randall twp,U.S. Senate,,REP,Pat Roberts,31,15,10,4,2
 Thomas,16 Rovohl twp,U.S. Senate,,REP,Pat Roberts,62,45,7,10,0
 Thomas,17 Summers twp,U.S. Senate,,REP,Pat Roberts,80,48,16,16,0
 Thomas,18 Wendell twp,U.S. Senate,,REP,Pat Roberts,28,8,3,17,0
-,,,,,,,,,,
 Thomas,01 Barrett twp,U.S. Senate,,LIB,Randall Batson,16,12,1,3,0
 Thomas,02 Colby Ward 1,U.S. Senate,,LIB,Randall Batson,16,12,1,3,0
 Thomas,03 Colby Ward 2,U.S. Senate,,LIB,Randall Batson,17,15,0,2,0
@@ -358,29 +333,26 @@ Thomas,15 N Randall twp,U.S. Senate,,LIB,Randall Batson,0,0,0,0,0
 Thomas,16 Rovohl twp,U.S. Senate,,LIB,Randall Batson,2,1,1,0,0
 Thomas,17 Summers twp,U.S. Senate,,LIB,Randall Batson,2,1,0,1,0
 Thomas,18 Wendell twp,U.S. Senate,,LIB,Randall Batson,1,0,0,1,0
-,,,,,,,,,,
 Thomas,03 Colby Ward 2,U.S. Senate,,,Write-ins,2,2,0,0,0
 Thomas,04 Colby Ward 3,U.S. Senate,,,Write-ins,4,4,0,0,0
 Thomas,05 Colby Ward 4,U.S. Senate,,,Write-ins,1,1,0,0,0
 Thomas,09 S Randall twp/Oakl,U.S. Senate,,,Write-ins,1,1,0,0,0
 Thomas,11 East Hale twp,U.S. Senate,,,Write-ins,1,1,0,0,0
-,,,,,,,,,,
-Thomas,01 Barrett twp,VOTERS,, TOTAL,BALLOTS CAST,340,248,61,29,2
-Thomas,02 Colby Ward 1,VOTERS,, TOTAL,BALLOTS CAST,340,248,61,29,2
-Thomas,03 Colby Ward 2,VOTERS,, TOTAL,BALLOTS CAST,390,272,85,30,3
-Thomas,04 Colby Ward 3,VOTERS,, TOTAL,BALLOTS CAST,494,316,108,61,9
-Thomas,05 Colby Ward 4,VOTERS,, TOTAL,BALLOTS CAST,457,306,90,54,7
-Thomas,06 Hale twp/Brewster,VOTERS,, TOTAL,BALLOTS CAST,127,38,21,65,3
-Thomas,07 Lacey twp/Gem,VOTERS,, TOTAL,BALLOTS CAST,52,20,15,17,0
-Thomas,08 Menlo twp,VOTERS,, TOTAL,BALLOTS CAST,26,9,5,11,1
-Thomas,09 S Randall twp/Oakl,VOTERS,, TOTAL,BALLOTS CAST,103,40,4,58,1
-Thomas,10 Smith twp /Rexford,VOTERS,, TOTAL,BALLOTS CAST,75,28,8,38,1
-Thomas,11 East Hale twp,VOTERS,, TOTAL,BALLOTS CAST,57,31,5,21,0
-Thomas,12 Kingery twp,VOTERS,, TOTAL,BALLOTS CAST,40,22,2,16,0
-Thomas,13 E Morgan twp,VOTERS,, TOTAL,BALLOTS CAST,109,78,28,3,0
-Thomas,14 W Morgan twp,VOTERS,, TOTAL,BALLOTS CAST,187,129,34,24,0
-Thomas,15 N Randall twp,VOTERS,, TOTAL,BALLOTS CAST,34,16,12,4,2
-Thomas,16 Rovohl twp,VOTERS,, TOTAL,BALLOTS CAST,75,53,10,12,0
-Thomas,17 Summers twp,VOTERS,, TOTAL,BALLOTS CAST,92,51,18,23,0
-Thomas,18 Wendell twp,VOTERS,, TOTAL,BALLOTS CAST,34,10,3,21,0
-,,,,,,,,,,
+Thomas,01 Barrett twp,VOTERS,,,BALLOTS CAST,340,248,61,29,2
+Thomas,02 Colby Ward 1,VOTERS,,,BALLOTS CAST,340,248,61,29,2
+Thomas,03 Colby Ward 2,VOTERS,,,BALLOTS CAST,390,272,85,30,3
+Thomas,04 Colby Ward 3,VOTERS,,,BALLOTS CAST,494,316,108,61,9
+Thomas,05 Colby Ward 4,VOTERS,,,BALLOTS CAST,457,306,90,54,7
+Thomas,06 Hale twp/Brewster,VOTERS,,,BALLOTS CAST,127,38,21,65,3
+Thomas,07 Lacey twp/Gem,VOTERS,,,BALLOTS CAST,52,20,15,17,0
+Thomas,08 Menlo twp,VOTERS,,,BALLOTS CAST,26,9,5,11,1
+Thomas,09 S Randall twp/Oakl,VOTERS,,,BALLOTS CAST,103,40,4,58,1
+Thomas,10 Smith twp /Rexford,VOTERS,,,BALLOTS CAST,75,28,8,38,1
+Thomas,11 East Hale twp,VOTERS,,,BALLOTS CAST,57,31,5,21,0
+Thomas,12 Kingery twp,VOTERS,,,BALLOTS CAST,40,22,2,16,0
+Thomas,13 E Morgan twp,VOTERS,,,BALLOTS CAST,109,78,28,3,0
+Thomas,14 W Morgan twp,VOTERS,,,BALLOTS CAST,187,129,34,24,0
+Thomas,15 N Randall twp,VOTERS,,,BALLOTS CAST,34,16,12,4,2
+Thomas,16 Rovohl twp,VOTERS,,,BALLOTS CAST,75,53,10,12,0
+Thomas,17 Summers twp,VOTERS,,,BALLOTS CAST,92,51,18,23,0
+Thomas,18 Wendell twp,VOTERS,,,BALLOTS CAST,34,10,3,21,0

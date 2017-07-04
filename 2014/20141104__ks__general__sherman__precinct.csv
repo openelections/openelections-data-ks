@@ -1,4 +1,4 @@
-city,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Sherman,Goodland W1,,,,Votes Cast,437
 Sherman,Goodland W2,,,,Votes Cast,213
 Sherman,Goodland W3,,,,Votes Cast,240
@@ -197,141 +197,141 @@ Sherman,Union,Secretary of State,,D,Jean Schodorf,1
 Sherman,Voltaire,Secretary of State,,D,Jean Schodorf,16
 Sherman,Washington,Secretary of State,,D,Jean Schodorf,2
 Sherman,Kanorado,Secretary of State,,D,Jean Schodorf,10
-Sherman,Goodland W1,ATTY,,R,Derek Schmidt,345
-Sherman,Goodland W2,ATTY,,R,Derek Schmidt,164
-Sherman,Goodland W3,ATTY,,R,Derek Schmidt,181
-Sherman,Goodland W4,ATTY,,R,Derek Schmidt,329
-Sherman,Grant,ATTY,,R,Derek Schmidt,24
-Sherman,Iowa,ATTY,,R,Derek Schmidt,13
-Sherman,Itasca,ATTY,,R,Derek Schmidt,104
-Sherman,Lincoln,ATTY,,R,Derek Schmidt,26
-Sherman,Llanos,ATTY,,R,Derek Schmidt,18
-Sherman,Logan,ATTY,,R,Derek Schmidt,94
-Sherman,McPherson,ATTY,,R,Derek Schmidt,21
-Sherman,Shermanville,ATTY,,R,Derek Schmidt,11
-Sherman,Smoky,ATTY,,R,Derek Schmidt,25
-Sherman,State Line,ATTY,,R,Derek Schmidt,31
-Sherman,Union,ATTY,,R,Derek Schmidt,28
-Sherman,Voltaire,ATTY,,R,Derek Schmidt,155
-Sherman,Washington,ATTY,,R,Derek Schmidt,32
-Sherman,Kanorado,ATTY,,R,Derek Schmidt,24
-Sherman,Goodland W1,ATTY,,D,A J Kotich,77
-Sherman,Goodland W2,ATTY,,D,A J Kotich,40
-Sherman,Goodland W3,ATTY,,D,A J Kotich,43
-Sherman,Goodland W4,ATTY,,D,A J Kotich,69
-Sherman,Grant,ATTY,,D,A J Kotich,7
-Sherman,Iowa,ATTY,,D,A J Kotich,0
-Sherman,Itasca,ATTY,,D,A J Kotich,23
-Sherman,Lincoln,ATTY,,D,A J Kotich,11
-Sherman,Llanos,ATTY,,D,A J Kotich,3
-Sherman,Logan,ATTY,,D,A J Kotich,8
-Sherman,McPherson,ATTY,,D,A J Kotich,2
-Sherman,Shermanville,ATTY,,D,A J Kotich,0
-Sherman,Smoky,ATTY,,D,A J Kotich,1
-Sherman,State Line,ATTY,,D,A J Kotich,3
-Sherman,Union,ATTY,,D,A J Kotich,1
-Sherman,Voltaire,ATTY,,D,A J Kotich,18
-Sherman,Washington,ATTY,,D,A J Kotich,2
-Sherman,Kanorado,ATTY,,D,A J Kotich,9
-Sherman,Goodland W1,TREAS,,R,Ron Estes,338
-Sherman,Goodland W2,TREAS,,R,Ron Estes,167
-Sherman,Goodland W3,TREAS,,R,Ron Estes,184
-Sherman,Goodland W4,TREAS,,R,Ron Estes,342
-Sherman,Grant,TREAS,,R,Ron Estes,25
-Sherman,Iowa,TREAS,,R,Ron Estes,12
-Sherman,Itasca,TREAS,,R,Ron Estes,112
-Sherman,Lincoln,TREAS,,R,Ron Estes,28
-Sherman,Llanos,TREAS,,R,Ron Estes,19
-Sherman,Logan,TREAS,,R,Ron Estes,93
-Sherman,McPherson,TREAS,,R,Ron Estes,23
-Sherman,Shermanville,TREAS,,R,Ron Estes,10
-Sherman,Smoky,TREAS,,R,Ron Estes,26
-Sherman,State Line,TREAS,,R,Ron Estes,30
-Sherman,Union,TREAS,,R,Ron Estes,28
-Sherman,Voltaire,TREAS,,R,Ron Estes,165
-Sherman,Washington,TREAS,,R,Ron Estes,32
-Sherman,Kanorado,TREAS,,R,Ron Estes,27
-Sherman,Goodland W1,TREAS,,D,Carmen Alldritt,83
-Sherman,Goodland W2,TREAS,,D,Carmen Alldritt,35
-Sherman,Goodland W3,TREAS,,D,Carmen Alldritt,43
-Sherman,Goodland W4,TREAS,,D,Carmen Alldritt,59
-Sherman,Grant,TREAS,,D,Carmen Alldritt,6
-Sherman,Iowa,TREAS,,D,Carmen Alldritt,0
-Sherman,Itasca,TREAS,,D,Carmen Alldritt,16
-Sherman,Lincoln,TREAS,,D,Carmen Alldritt,10
-Sherman,Llanos,TREAS,,D,Carmen Alldritt,2
-Sherman,Logan,TREAS,,D,Carmen Alldritt,8
-Sherman,McPherson,TREAS,,D,Carmen Alldritt,1
-Sherman,Shermanville,TREAS,,D,Carmen Alldritt,1
-Sherman,Smoky,TREAS,,D,Carmen Alldritt,1
-Sherman,State Line,TREAS,,D,Carmen Alldritt,3
-Sherman,Union,TREAS,,D,Carmen Alldritt,1
-Sherman,Voltaire,TREAS,,D,Carmen Alldritt,12
-Sherman,Washington,TREAS,,D,Carmen Alldritt,3
-Sherman,Kanorado,TREAS,,D,Carmen Alldritt,8
-Sherman,Goodland W1,INS,,R,Ron Selzer,326
-Sherman,Goodland W2,INS,,R,Ron Selzer,156
-Sherman,Goodland W3,INS,,R,Ron Selzer,172
-Sherman,Goodland W4,INS,,R,Ron Selzer,312
-Sherman,Grant,INS,,R,Ron Selzer,24
-Sherman,Iowa,INS,,R,Ron Selzer,12
-Sherman,Itasca,INS,,R,Ron Selzer,101
-Sherman,Lincoln,INS,,R,Ron Selzer,27
-Sherman,Llanos,INS,,R,Ron Selzer,19
-Sherman,Logan,INS,,R,Ron Selzer,91
-Sherman,McPherson,INS,,R,Ron Selzer,22
-Sherman,Shermanville,INS,,R,Ron Selzer,11
-Sherman,Smoky,INS,,R,Ron Selzer,24
-Sherman,State Line,INS,,R,Ron Selzer,30
-Sherman,Union,INS,,R,Ron Selzer,27
-Sherman,Voltaire,INS,,R,Ron Selzer,155
-Sherman,Washington,INS,,R,Ron Selzer,30
-Sherman,Kanorado,INS,,R,Ron Selzer,23
-Sherman,Goodland W1,INS,,D,Dennis Anderson,88
-Sherman,Goodland W2,INS,,D,Dennis Anderson,42
-Sherman,Goodland W3,INS,,D,Dennis Anderson,46
-Sherman,Goodland W4,INS,,D,Dennis Anderson,81
-Sherman,Grant,INS,,D,Dennis Anderson,5
-Sherman,Iowa,INS,,D,Dennis Anderson,0
-Sherman,Itasca,INS,,D,Dennis Anderson,25
-Sherman,Lincoln,INS,,D,Dennis Anderson,11
-Sherman,Llanos,INS,,D,Dennis Anderson,3
-Sherman,Logan,INS,,D,Dennis Anderson,10
-Sherman,McPherson,INS,,D,Dennis Anderson,2
-Sherman,Shermanville,INS,,D,Dennis Anderson,0
-Sherman,Smoky,INS,,D,Dennis Anderson,2
-Sherman,State Line,INS,,D,Dennis Anderson,4
-Sherman,Union,INS,,D,Dennis Anderson,1
-Sherman,Voltaire,INS,,D,Dennis Anderson,13
-Sherman,Washington,INS,,D,Dennis Anderson,4
-Sherman,Kanorado,INS,,D,Dennis Anderson,10
-Sherman,Goodland W1,SR120,H120,R,Rick Billinger,390
-Sherman,Goodland W2,SR120,H120,R,Rick Billinger,196
-Sherman,Goodland W3,SR120,H120,R,Rick Billinger,217
-Sherman,Goodland W4,SR120,H120,R,Rick Billinger,388
-Sherman,Grant,SR120,H120,R,Rick Billinger,27
-Sherman,Iowa,SR120,H120,R,Rick Billinger,12
-Sherman,Itasca,SR120,H120,R,Rick Billinger,125
-Sherman,Lincoln,SR120,H120,R,Rick Billinger,32
-Sherman,Llanos,SR120,H120,R,Rick Billinger,22
-Sherman,Logan,SR120,H120,R,Rick Billinger,101
-Sherman,McPherson,SR120,H120,R,Rick Billinger,23
-Sherman,Shermanville,SR120,H120,R,Rick Billinger,11
-Sherman,Smoky,SR120,H120,R,Rick Billinger,28
-Sherman,State Line,SR120,H120,R,Rick Billinger,39
-Sherman,Union,SR120,H120,R,Rick Billinger,29
-Sherman,Voltaire,SR120,H120,R,Rick Billinger,162
-Sherman,Washington,SR120,H120,R,Rick Billinger,34
-Sherman,Kanorado,SR120,H120,R,Rick Billinger,31
-Sherman,Goodland W1,SR120,H120,wri,Write-ins,6
-Sherman,Goodland W2,SR120,H120,wri,Write-ins,1
-Sherman,Goodland W3,SR120,H120,wri,Write-ins,1
-Sherman,Goodland W4,SR120,H120,wri,Write-ins,1
-Sherman,Voltaire,SR120,H120,wri,Write-ins,2
-Sherman,Goodland W2,U.S. Senate,,wri,Jean Schodorf [wri],1
-Sherman,Goodland W4,U.S. Senate,,wri,Write-ins [wri],1
-Sherman,Itasca,U.S. House,1,wri,Garret Lane [wri],1
-Sherman,Voltaire,U.S. House,1,wri,Alan Wa Police [wri],1
-Sherman,Goodland W1,State Treasurer,,wri,Walter Young [wri],1
-Sherman,Goodland W1,Insurance Commissioner,,wri,Robert Luck [wri],1
-Sherman,Goodland W4,Insurance Commissioner,,wri,Robert Lamke [wri],1
+Sherman,Goodland W1,Attorney General,,R,Derek Schmidt,345
+Sherman,Goodland W2,Attorney General,,R,Derek Schmidt,164
+Sherman,Goodland W3,Attorney General,,R,Derek Schmidt,181
+Sherman,Goodland W4,Attorney General,,R,Derek Schmidt,329
+Sherman,Grant,Attorney General,,R,Derek Schmidt,24
+Sherman,Iowa,Attorney General,,R,Derek Schmidt,13
+Sherman,Itasca,Attorney General,,R,Derek Schmidt,104
+Sherman,Lincoln,Attorney General,,R,Derek Schmidt,26
+Sherman,Llanos,Attorney General,,R,Derek Schmidt,18
+Sherman,Logan,Attorney General,,R,Derek Schmidt,94
+Sherman,McPherson,Attorney General,,R,Derek Schmidt,21
+Sherman,Shermanville,Attorney General,,R,Derek Schmidt,11
+Sherman,Smoky,Attorney General,,R,Derek Schmidt,25
+Sherman,State Line,Attorney General,,R,Derek Schmidt,31
+Sherman,Union,Attorney General,,R,Derek Schmidt,28
+Sherman,Voltaire,Attorney General,,R,Derek Schmidt,155
+Sherman,Washington,Attorney General,,R,Derek Schmidt,32
+Sherman,Kanorado,Attorney General,,R,Derek Schmidt,24
+Sherman,Goodland W1,Attorney General,,D,A J Kotich,77
+Sherman,Goodland W2,Attorney General,,D,A J Kotich,40
+Sherman,Goodland W3,Attorney General,,D,A J Kotich,43
+Sherman,Goodland W4,Attorney General,,D,A J Kotich,69
+Sherman,Grant,Attorney General,,D,A J Kotich,7
+Sherman,Iowa,Attorney General,,D,A J Kotich,0
+Sherman,Itasca,Attorney General,,D,A J Kotich,23
+Sherman,Lincoln,Attorney General,,D,A J Kotich,11
+Sherman,Llanos,Attorney General,,D,A J Kotich,3
+Sherman,Logan,Attorney General,,D,A J Kotich,8
+Sherman,McPherson,Attorney General,,D,A J Kotich,2
+Sherman,Shermanville,Attorney General,,D,A J Kotich,0
+Sherman,Smoky,Attorney General,,D,A J Kotich,1
+Sherman,State Line,Attorney General,,D,A J Kotich,3
+Sherman,Union,Attorney General,,D,A J Kotich,1
+Sherman,Voltaire,Attorney General,,D,A J Kotich,18
+Sherman,Washington,Attorney General,,D,A J Kotich,2
+Sherman,Kanorado,Attorney General,,D,A J Kotich,9
+Sherman,Goodland W1,State Treasurer,,R,Ron Estes,338
+Sherman,Goodland W2,State Treasurer,,R,Ron Estes,167
+Sherman,Goodland W3,State Treasurer,,R,Ron Estes,184
+Sherman,Goodland W4,State Treasurer,,R,Ron Estes,342
+Sherman,Grant,State Treasurer,,R,Ron Estes,25
+Sherman,Iowa,State Treasurer,,R,Ron Estes,12
+Sherman,Itasca,State Treasurer,,R,Ron Estes,112
+Sherman,Lincoln,State Treasurer,,R,Ron Estes,28
+Sherman,Llanos,State Treasurer,,R,Ron Estes,19
+Sherman,Logan,State Treasurer,,R,Ron Estes,93
+Sherman,McPherson,State Treasurer,,R,Ron Estes,23
+Sherman,Shermanville,State Treasurer,,R,Ron Estes,10
+Sherman,Smoky,State Treasurer,,R,Ron Estes,26
+Sherman,State Line,State Treasurer,,R,Ron Estes,30
+Sherman,Union,State Treasurer,,R,Ron Estes,28
+Sherman,Voltaire,State Treasurer,,R,Ron Estes,165
+Sherman,Washington,State Treasurer,,R,Ron Estes,32
+Sherman,Kanorado,State Treasurer,,R,Ron Estes,27
+Sherman,Goodland W1,State Treasurer,,D,Carmen Alldritt,83
+Sherman,Goodland W2,State Treasurer,,D,Carmen Alldritt,35
+Sherman,Goodland W3,State Treasurer,,D,Carmen Alldritt,43
+Sherman,Goodland W4,State Treasurer,,D,Carmen Alldritt,59
+Sherman,Grant,State Treasurer,,D,Carmen Alldritt,6
+Sherman,Iowa,State Treasurer,,D,Carmen Alldritt,0
+Sherman,Itasca,State Treasurer,,D,Carmen Alldritt,16
+Sherman,Lincoln,State Treasurer,,D,Carmen Alldritt,10
+Sherman,Llanos,State Treasurer,,D,Carmen Alldritt,2
+Sherman,Logan,State Treasurer,,D,Carmen Alldritt,8
+Sherman,McPherson,State Treasurer,,D,Carmen Alldritt,1
+Sherman,Shermanville,State Treasurer,,D,Carmen Alldritt,1
+Sherman,Smoky,State Treasurer,,D,Carmen Alldritt,1
+Sherman,State Line,State Treasurer,,D,Carmen Alldritt,3
+Sherman,Union,State Treasurer,,D,Carmen Alldritt,1
+Sherman,Voltaire,State Treasurer,,D,Carmen Alldritt,12
+Sherman,Washington,State Treasurer,,D,Carmen Alldritt,3
+Sherman,Kanorado,State Treasurer,,D,Carmen Alldritt,8
+Sherman,Goodland W1,Insurance Commissioner,,R,Ron Selzer,326
+Sherman,Goodland W2,Insurance Commissioner,,R,Ron Selzer,156
+Sherman,Goodland W3,Insurance Commissioner,,R,Ron Selzer,172
+Sherman,Goodland W4,Insurance Commissioner,,R,Ron Selzer,312
+Sherman,Grant,Insurance Commissioner,,R,Ron Selzer,24
+Sherman,Iowa,Insurance Commissioner,,R,Ron Selzer,12
+Sherman,Itasca,Insurance Commissioner,,R,Ron Selzer,101
+Sherman,Lincoln,Insurance Commissioner,,R,Ron Selzer,27
+Sherman,Llanos,Insurance Commissioner,,R,Ron Selzer,19
+Sherman,Logan,Insurance Commissioner,,R,Ron Selzer,91
+Sherman,McPherson,Insurance Commissioner,,R,Ron Selzer,22
+Sherman,Shermanville,Insurance Commissioner,,R,Ron Selzer,11
+Sherman,Smoky,Insurance Commissioner,,R,Ron Selzer,24
+Sherman,State Line,Insurance Commissioner,,R,Ron Selzer,30
+Sherman,Union,Insurance Commissioner,,R,Ron Selzer,27
+Sherman,Voltaire,Insurance Commissioner,,R,Ron Selzer,155
+Sherman,Washington,Insurance Commissioner,,R,Ron Selzer,30
+Sherman,Kanorado,Insurance Commissioner,,R,Ron Selzer,23
+Sherman,Goodland W1,Insurance Commissioner,,D,Dennis Anderson,88
+Sherman,Goodland W2,Insurance Commissioner,,D,Dennis Anderson,42
+Sherman,Goodland W3,Insurance Commissioner,,D,Dennis Anderson,46
+Sherman,Goodland W4,Insurance Commissioner,,D,Dennis Anderson,81
+Sherman,Grant,Insurance Commissioner,,D,Dennis Anderson,5
+Sherman,Iowa,Insurance Commissioner,,D,Dennis Anderson,0
+Sherman,Itasca,Insurance Commissioner,,D,Dennis Anderson,25
+Sherman,Lincoln,Insurance Commissioner,,D,Dennis Anderson,11
+Sherman,Llanos,Insurance Commissioner,,D,Dennis Anderson,3
+Sherman,Logan,Insurance Commissioner,,D,Dennis Anderson,10
+Sherman,McPherson,Insurance Commissioner,,D,Dennis Anderson,2
+Sherman,Shermanville,Insurance Commissioner,,D,Dennis Anderson,0
+Sherman,Smoky,Insurance Commissioner,,D,Dennis Anderson,2
+Sherman,State Line,Insurance Commissioner,,D,Dennis Anderson,4
+Sherman,Union,Insurance Commissioner,,D,Dennis Anderson,1
+Sherman,Voltaire,Insurance Commissioner,,D,Dennis Anderson,13
+Sherman,Washington,Insurance Commissioner,,D,Dennis Anderson,4
+Sherman,Kanorado,Insurance Commissioner,,D,Dennis Anderson,10
+Sherman,Goodland W1,State House,120,R,Rick Billinger,390
+Sherman,Goodland W2,State House,120,R,Rick Billinger,196
+Sherman,Goodland W3,State House,120,R,Rick Billinger,217
+Sherman,Goodland W4,State House,120,R,Rick Billinger,388
+Sherman,Grant,State House,120,R,Rick Billinger,27
+Sherman,Iowa,State House,120,R,Rick Billinger,12
+Sherman,Itasca,State House,120,R,Rick Billinger,125
+Sherman,Lincoln,State House,120,R,Rick Billinger,32
+Sherman,Llanos,State House,120,R,Rick Billinger,22
+Sherman,Logan,State House,120,R,Rick Billinger,101
+Sherman,McPherson,State House,120,R,Rick Billinger,23
+Sherman,Shermanville,State House,120,R,Rick Billinger,11
+Sherman,Smoky,State House,120,R,Rick Billinger,28
+Sherman,State Line,State House,120,R,Rick Billinger,39
+Sherman,Union,State House,120,R,Rick Billinger,29
+Sherman,Voltaire,State House,120,R,Rick Billinger,162
+Sherman,Washington,State House,120,R,Rick Billinger,34
+Sherman,Kanorado,State House,120,R,Rick Billinger,31
+Sherman,Goodland W1,State House,120,,Write-ins,6
+Sherman,Goodland W2,State House,120,,Write-ins,1
+Sherman,Goodland W3,State House,120,,Write-ins,1
+Sherman,Goodland W4,State House,120,,Write-ins,1
+Sherman,Voltaire,State House,120,,Write-ins,2
+Sherman,Goodland W2,U.S. Senate,,,Jean Schodorf [wri],1
+Sherman,Goodland W4,U.S. Senate,,,Write-ins [wri],1
+Sherman,Itasca,U.S. House,1,,Garret Lane [wri],1
+Sherman,Voltaire,U.S. House,1,,Alan Wa Police [wri],1
+Sherman,Goodland W1,State Treasurer,,,Walter Young [wri],1
+Sherman,Goodland W1,Insurance Commissioner,,,Robert Luck [wri],1
+Sherman,Goodland W4,Insurance Commissioner,,,Robert Lamke [wri],1
