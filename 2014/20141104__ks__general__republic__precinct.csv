@@ -22,7 +22,7 @@ Republic,0020 Scandia,U.S. Senate,,R,Pat Roberts,107
 Republic,0021 Union,U.S. Senate,,R,Pat Roberts,11
 Republic,0022 Washington,U.S. Senate,,R,Pat Roberts,31
 Republic,0023 White Rock,U.S. Senate,,R,Pat Roberts,36
-REPUBLIC KS,REPUBLIC KS,U.S. Senate,,R,Pat Roberts,1421
+Republic,,U.S. Senate,,R,Pat Roberts,1421
 Republic,1st Ward,U.S. Senate,,I,Greg Orman,72
 Republic,2nd Ward,U.S. Senate,,I,Greg Orman,83
 Republic,3rd Ward,U.S. Senate,,I,Greg Orman,41
@@ -46,7 +46,7 @@ Republic,0020 Scandia,U.S. Senate,,I,Greg Orman,52
 Republic,0021 Union,U.S. Senate,,I,Greg Orman,6
 Republic,0022 Washington,U.S. Senate,,I,Greg Orman,4
 Republic,0023 White Rock,U.S. Senate,,I,Greg Orman,7
-REPUBLIC,,U.S. Senate,,I,Greg Orman,483
+Republic,,U.S. Senate,,I,Greg Orman,483
 Republic,1st Ward,U.S. Senate,,L,Randall Batson,15
 Republic,2nd Ward,U.S. Senate,,L,Randall Batson,16
 Republic,3rd Ward,U.S. Senate,,L,Randall Batson,10
@@ -70,7 +70,7 @@ Republic,0020 Scandia,U.S. Senate,,L,Randall Batson,7
 Republic,0021 Union,U.S. Senate,,L,Randall Batson,0
 Republic,0022 Washington,U.S. Senate,,L,Randall Batson,0
 Republic,0023 White Rock,U.S. Senate,,L,Randall Batson,1
-REPUBLIC,,U.S. Senate,,L,Randall Batson,96
+Republic,,U.S. Senate,,L,Randall Batson,96
 Republic,0006 Belleville,U.S. Senate,,,Write-ins,1
 Republic,0018 Richland,U.S. Senate,,,Write-ins,1
 Republic,1st Ward,U.S. House,1,D,James Sherow,77
@@ -96,7 +96,7 @@ Republic,0020 Scandia,U.S. House,1,D,James Sherow,56
 Republic,0021 Union,U.S. House,1,D,James Sherow,6
 Republic,0022 Washington,U.S. House,1,D,James Sherow,5
 Republic,0023 White Rock,U.S. House,1,D,James Sherow,11
-REPUBLIC KS,REPUBLIC KS,U.S. House,1,D,James Sherow,553
+Republic,,U.S. House,1,D,James Sherow,553
 Republic,1st Ward,U.S. House,1,R,Tim Huelskamp,193
 Republic,2nd Ward,U.S. House,1,R,Tim Huelskamp,196
 Republic,3rd Ward,U.S. House,1,R,Tim Huelskamp,122
@@ -120,11 +120,11 @@ Republic,0020 Scandia,U.S. House,1,R,Tim Huelskamp,108
 Republic,0021 Union,U.S. House,1,R,Tim Huelskamp,11
 Republic,0022 Washington,U.S. House,1,R,Tim Huelskamp,29
 Republic,0023 White Rock,U.S. House,1,R,Tim Huelskamp,33
-REPUBLIC,,U.S. House,1,R,Tim Huelskamp,1417
+Republic,,U.S. House,1,R,Tim Huelskamp,1417
 Republic,2nd Ward,U.S. House,1,,Write-ins,2
 Republic,0008 Courtland,U.S. House,1,,Write-ins,1
 Republic,0018 Richland,U.S. House,1,,Write-ins,2
-REPUBLIC KS,,U.S. House,1,,Write-ins,5
+Republic,,U.S. House,1,,Write-ins,5
 Republic,1st Ward,Governor,,R,Sam Brownback,170
 Republic,2nd Ward,Governor,,R,Sam Brownback,173
 Republic,3rd Ward,Governor,,R,Sam Brownback,102
@@ -148,7 +148,7 @@ Republic,0020 Scandia,Governor,,R,Sam Brownback,90
 Republic,0021 Union,Governor,,R,Sam Brownback,10
 Republic,0022 Washington,Governor,,R,Sam Brownback,32
 Republic,0023 White Rock,Governor,,R,Sam Brownback,33
-REPUBLIC,,Governor,,R,Sam Brownback,1290
+Republic,,Governor,,R,Sam Brownback,1290
 Republic,1st Ward,Governor,,D,Paul Davis,88
 Republic,2nd Ward,Governor,,D,Paul Davis,104
 Republic,3rd Ward,Governor,,D,Paul Davis,49
@@ -172,7 +172,7 @@ Republic,0020 Scandia,Governor,,D,Paul Davis,70
 Republic,0021 Union,Governor,,D,Paul Davis,8
 Republic,0022 Washington,Governor,,D,Paul Davis,4
 Republic,0023 White Rock,Governor,,D,Paul Davis,9
-REPUBLIC KS,REPUBLIC KS,Governor,,D,Paul Davis,615
+Republic,,Governor,,D,Paul Davis,615
 Republic,1st Ward,Governor,,L,Keen Umbehr,16
 Republic,2nd Ward,Governor,,L,Keen Umbehr,14
 Republic,3rd Ward,Governor,,L,Keen Umbehr,16
@@ -196,12 +196,12 @@ Republic,0020 Scandia,Governor,,L,Keen Umbehr,8
 Republic,0021 Union,Governor,,L,Keen Umbehr,0
 Republic,0022 Washington,Governor,,L,Keen Umbehr,0
 Republic,0023 White Rock,Governor,,L,Keen Umbehr,3
-REPUBLIC,,Governor,,L,Keen Umbehr,111
+Republic,,Governor,,L,Keen Umbehr,111
 Republic,0008 Courtland,Governor,,,Write-ins,1
 Republic,0011 Farmington,Governor,,,Write-ins,1
 Republic,0015 Liberty,Governor,,,Write-ins,1
 Republic,0018 Richland,Governor,,,Write-ins,2
-REPUBLIC,,Governor,,,Write-ins,5
+Republic,,Governor,,,Write-ins,5
 Republic,1st Ward,Secretary of State,,R,Kris Kobach,208
 Republic,2nd Ward,Secretary of State,,R,Kris Kobach,211
 Republic,3rd Ward,Secretary of State,,R,Kris Kobach,130
@@ -225,7 +225,7 @@ Republic,0020 Scandia,Secretary of State,,R,Kris Kobach,120
 Republic,0021 Union,Secretary of State,,R,Kris Kobach,11
 Republic,0022 Washington,Secretary of State,,R,Kris Kobach,30
 Republic,0023 White Rock,Secretary of State,,R,Kris Kobach,36
-REPUBLIC,REPUBLIC KS,Secretary of State,,R,Kris Kobach,1533
+Republic,,Secretary of State,,R,Kris Kobach,1533
 Republic,1st Ward,Secretary of State,,D,Jean Schodorf,57
 Republic,2nd Ward,Secretary of State,,D,Jean Schodorf,77
 Republic,3rd Ward,Secretary of State,,D,Jean Schodorf,36
@@ -249,7 +249,7 @@ Republic,0020 Scandia,Secretary of State,,D,Jean Schodorf,44
 Republic,0021 Union,Secretary of State,,D,Jean Schodorf,6
 Republic,0022 Washington,Secretary of State,,D,Jean Schodorf,5
 Republic,0023 White Rock,Secretary of State,,D,Jean Schodorf,8
-REPUBLIC,REPUBLIC KS,Secretary of State,,D,Jean Schodorf,440
+Republic,,Secretary of State,,D,Jean Schodorf,440
 Republic,0018 Richland,Secretary of State,,,Write-ins,1
 Republic,1st Ward,Attorney General,,R,Derek Schmidt,214
 Republic,2nd Ward,Attorney General,,R,Derek Schmidt,236
@@ -274,7 +274,7 @@ Republic,0020 Scandia,Attorney General,,R,Derek Schmidt,131
 Republic,0021 Union,Attorney General,,R,Derek Schmidt,15
 Republic,0022 Washington,Attorney General,,R,Derek Schmidt,29
 Republic,0023 White Rock,Attorney General,,R,Derek Schmidt,32
-REPUBLIC,,Attorney General,,R,Derek Schmidt,1584
+Republic,,Attorney General,,R,Derek Schmidt,1584
 Republic,1st Ward,Attorney General,,D,AJ Kotich,46
 Republic,2nd Ward,Attorney General,,D,AJ Kotich,47
 Republic,3rd Ward,Attorney General,,D,AJ Kotich,29
@@ -298,7 +298,7 @@ Republic,0020 Scandia,Attorney General,,D,AJ Kotich,31
 Republic,0021 Union,Attorney General,,D,AJ Kotich,3
 Republic,0022 Washington,Attorney General,,D,AJ Kotich,4
 Republic,0023 White Rock,Attorney General,,D,AJ Kotich,9
-REPUBLIC,,Attorney General,,D,AJ Kotich,342
+Republic,,Attorney General,,D,AJ Kotich,342
 Republic,0018 Richland,Attorney General,,,Write-ins,2
 Republic,0020 Scandia,Attorney General,,,Write-ins,1
 Republic,1st Ward,State Treasurer,,R,Ken Estes,222
@@ -324,7 +324,7 @@ Republic,0020 Scandia,State Treasurer,,R,Ken Estes,139
 Republic,0021 Union,State Treasurer,,R,Ken Estes,14
 Republic,0022 Washington,State Treasurer,,R,Ken Estes,31
 Republic,0023 White Rock,State Treasurer,,R,Ken Estes,37
-REPUBLIC,,State Treasurer,,R,Ken Estes,1635
+Republic,,State Treasurer,,R,Ken Estes,1635
 Republic,1st Ward,State Treasurer,,D,Carmen Alldritt,46
 Republic,2nd Ward,State Treasurer,,D,Carmen Alldritt,54
 Republic,3rd Ward,State Treasurer,,D,Carmen Alldritt,29
@@ -348,7 +348,7 @@ Republic,0020 Scandia,State Treasurer,,D,Carmen Alldritt,27
 Republic,0021 Union,State Treasurer,,D,Carmen Alldritt,4
 Republic,0022 Washington,State Treasurer,,D,Carmen Alldritt,3
 Republic,0023 White Rock,State Treasurer,,D,Carmen Alldritt,6
-REPUBLIC,,TREAS,,D,Carmen Alldritt,321
+Republic,,State Treasurer,,D,Carmen Alldritt,321
 Republic,0018 Richland,State Treasurer,,,Write-ins,1
 Republic,1st Ward,Insurance Commissioner,,R,Ken Selzer,206
 Republic,2nd Ward,Insurance Commissioner,,R,Ken Selzer,208
@@ -373,7 +373,7 @@ Republic,0020 Scandia,Insurance Commissioner,,R,Ken Selzer,123
 Republic,0021 Union,Insurance Commissioner,,R,Ken Selzer,13
 Republic,0022 Washington,Insurance Commissioner,,R,Ken Selzer,29
 Republic,0023 White Rock,Insurance Commissioner,,R,Ken Selzer,36
-REPUBLIC,,Insurance Commissioner,,R,Ken Selzer,1499
+Republic,,Insurance Commissioner,,R,Ken Selzer,1499
 Republic,1st Ward,Insurance Commissioner,,D,Dennis Anderson,54
 Republic,2nd Ward,Insurance Commissioner,,D,Dennis Anderson,75
 Republic,3rd Ward,Insurance Commissioner,,D,Dennis Anderson,38
@@ -397,7 +397,7 @@ Republic,0020 Scandia,Insurance Commissioner,,D,Dennis Anderson,39
 Republic,0021 Union,Insurance Commissioner,,D,Dennis Anderson,4
 Republic,0022 Washington,Insurance Commissioner,,D,Dennis Anderson,5
 Republic,0023 White Rock,Insurance Commissioner,,D,Dennis Anderson,7
-REPUBLIC,,Insurance Commissioner,,D,Dennis Anderson,421
+Republic,,Insurance Commissioner,,D,Dennis Anderson,421
 Republic,2nd Ward,Insurance Commissioner,,,Write-ins,1
 Republic,0009 Elk Creek,Insurance Commissioner,,,Write-ins,1
 Republic,0018 Richland,Insurance Commissioner,,,Write-ins,1

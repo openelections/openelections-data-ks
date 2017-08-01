@@ -54,11 +54,11 @@ Dickinson,Abilene W2,Secretary of State,,R,Kris Kobach,376
 Dickinson,Abilene W3,Secretary of State,,R,Kris Kobach,185
 Dickinson,Abilene W4P1,Secretary of State,,R,Kris Kobach,288
 Dickinson,Abilene W4P2,Secretary of State,,R,Kris Kobach,398
-Dickinson,Abilene W1,State House,H070,R,John E. Barker,244
-Dickinson,Abilene W2,State House,H070,R,John E. Barker,476
-Dickinson,Abilene W3,State House,H070,R,John E. Barker,230
-Dickinson,Abilene W4P1,State House,H070,R,John E. Barker,389
-Dickinson,Abilene W4P2,State House,H070,R,John E. Barker,500
+Dickinson,Abilene W1,State House,70,R,John E. Barker,244
+Dickinson,Abilene W2,State House,70,R,John E. Barker,476
+Dickinson,Abilene W3,State House,70,R,John E. Barker,230
+Dickinson,Abilene W4P1,State House,70,R,John E. Barker,389
+Dickinson,Abilene W4P2,State House,70,R,John E. Barker,500
 Dickinson,Abilene W1,State Treasurer,,D,Carmen Alldritt,83
 Dickinson,Abilene W2,State Treasurer,,D,Carmen Alldritt,142
 Dickinson,Abilene W3,State Treasurer,,D,Carmen Alldritt,70
@@ -403,52 +403,52 @@ Dickinson,Sherman,Secretary of State,,R,Kris Kobach,52
 Dickinson,Union,Secretary of State,,R,Kris Kobach,45
 Dickinson,Wheatland,Secretary of State,,R,Kris Kobach,45
 Dickinson,Willowdale,Secretary of State,,R,Kris Kobach,82
-Dickinson,Herington W2,State House,H068,R,Tom J Mosley,202
-Dickinson,Herington W1,State House,H068,R,Tom J Mosley,182
-Dickinson,Herington W3,State House,H068,R,Tom J Mosley,112
-Dickinson,Lyon 68,State House,H068,R,Tom J Mosley,18
-Dickinson,Lyon 68A,State House,H068,R,Tom J Mosley,5
-Dickinson,Noble,State House,H070,R,John E. Barker,516
-Dickinson,Lincoln,State House,H070,R,John E. Barker,452
-Dickinson,Grant,State House,H070,R,John E. Barker,335
-Dickinson,Center,State House,H070,R,John E. Barker,313
-Dickinson,Buckeye,State House,H070,R,John E. Barker,166
-Dickinson,Newbern,State House,H070,R,John E. Barker,160
-Dickinson,Hope,State House,H070,R,John E. Barker,124
-Dickinson,Hayes,State House,H070,R,John E. Barker,111
-Dickinson,Fragrant Hill,State House,H070,R,John E. Barker,107
-Dickinson,Liberty,State House,H070,R,John E. Barker,107
-Dickinson,Willowdale,State House,H070,R,John E. Barker,94
-Dickinson,Rinehart,State House,H070,R,John E. Barker,93
-Dickinson,Jefferson,State House,H070,R,John E. Barker,88
-Dickinson,Logan,State House,H070,R,John E. Barker,70
-Dickinson,Garfield,State House,H070,R,John E. Barker,65
-Dickinson,Flora,State House,H070,R,John E. Barker,56
-Dickinson,Ridge,State House,H070,R,John E. Barker,55
-Dickinson,Lyon 70,State House,H070,R,John E. Barker,54
-Dickinson,Union,State House,H070,R,John E. Barker,51
-Dickinson,Wheatland,State House,H070,R,John E. Barker,51
-Dickinson,Cheever,State House,H070,R,John E. Barker,50
-Dickinson,Sherman,State House,H070,R,John E. Barker,50
-Dickinson,Banner,State House,H070,R,John E. Barker,44
-Dickinson,Holland,State House,H070,R,John E. Barker,41
-Dickinson,Herington W2,State Senate,SD35,R,Richard Wilborn,187
-Dickinson,Herington W1,State Senate,SD35,R,Richard Wilborn,172
-Dickinson,Newbern,State Senate,SD35,R,Richard Wilborn,161
-Dickinson,Hope,State Senate,SD35,R,Richard Wilborn,117
-Dickinson,Herington W3,State Senate,SD35,R,Richard Wilborn,114
-Dickinson,Liberty,State Senate,SD35,R,Richard Wilborn,97
-Dickinson,Jefferson,State Senate,SD35,R,Richard Wilborn,79
-Dickinson,Garfield,State Senate,SD35,R,Richard Wilborn,69
-Dickinson,Logan,State Senate,SD35,R,Richard Wilborn,63
-Dickinson,Ridge,State Senate,SD35,R,Richard Wilborn,58
-Dickinson,Lyon 70,State Senate,SD35,R,Richard Wilborn,53
-Dickinson,Wheatland,State Senate,SD35,R,Richard Wilborn,51
-Dickinson,Union,State Senate,SD35,R,Richard Wilborn,48
-Dickinson,Banner,State Senate,SD35,R,Richard Wilborn,42
-Dickinson,Holland,State Senate,SD35,R,Richard Wilborn,40
-Dickinson,Lyon 68,State Senate,SD35,R,Richard Wilborn,17
-Dickinson,Lyon 68A,State Senate,SD35,R,Richard Wilborn,5
+Dickinson,Herington W2,State House,68,R,Tom J Mosley,202
+Dickinson,Herington W1,State House,68,R,Tom J Mosley,182
+Dickinson,Herington W3,State House,68,R,Tom J Mosley,112
+Dickinson,Lyon 68,State House,68,R,Tom J Mosley,18
+Dickinson,Lyon 68A,State House,68,R,Tom J Mosley,5
+Dickinson,Noble,State House,70,R,John E. Barker,516
+Dickinson,Lincoln,State House,70,R,John E. Barker,452
+Dickinson,Grant,State House,70,R,John E. Barker,335
+Dickinson,Center,State House,70,R,John E. Barker,313
+Dickinson,Buckeye,State House,70,R,John E. Barker,166
+Dickinson,Newbern,State House,70,R,John E. Barker,160
+Dickinson,Hope,State House,70,R,John E. Barker,124
+Dickinson,Hayes,State House,70,R,John E. Barker,111
+Dickinson,Fragrant Hill,State House,70,R,John E. Barker,107
+Dickinson,Liberty,State House,70,R,John E. Barker,107
+Dickinson,Willowdale,State House,70,R,John E. Barker,94
+Dickinson,Rinehart,State House,70,R,John E. Barker,93
+Dickinson,Jefferson,State House,70,R,John E. Barker,88
+Dickinson,Logan,State House,70,R,John E. Barker,70
+Dickinson,Garfield,State House,70,R,John E. Barker,65
+Dickinson,Flora,State House,70,R,John E. Barker,56
+Dickinson,Ridge,State House,70,R,John E. Barker,55
+Dickinson,Lyon 70,State House,70,R,John E. Barker,54
+Dickinson,Union,State House,70,R,John E. Barker,51
+Dickinson,Wheatland,State House,70,R,John E. Barker,51
+Dickinson,Cheever,State House,70,R,John E. Barker,50
+Dickinson,Sherman,State House,70,R,John E. Barker,50
+Dickinson,Banner,State House,70,R,John E. Barker,44
+Dickinson,Holland,State House,70,R,John E. Barker,41
+Dickinson,Herington W2,State Senate,35,R,Richard Wilborn,187
+Dickinson,Herington W1,State Senate,35,R,Richard Wilborn,172
+Dickinson,Newbern,State Senate,35,R,Richard Wilborn,161
+Dickinson,Hope,State Senate,35,R,Richard Wilborn,117
+Dickinson,Herington W3,State Senate,35,R,Richard Wilborn,114
+Dickinson,Liberty,State Senate,35,R,Richard Wilborn,97
+Dickinson,Jefferson,State Senate,35,R,Richard Wilborn,79
+Dickinson,Garfield,State Senate,35,R,Richard Wilborn,69
+Dickinson,Logan,State Senate,35,R,Richard Wilborn,63
+Dickinson,Ridge,State Senate,35,R,Richard Wilborn,58
+Dickinson,Lyon 70,State Senate,35,R,Richard Wilborn,53
+Dickinson,Wheatland,State Senate,35,R,Richard Wilborn,51
+Dickinson,Union,State Senate,35,R,Richard Wilborn,48
+Dickinson,Banner,State Senate,35,R,Richard Wilborn,42
+Dickinson,Holland,State Senate,35,R,Richard Wilborn,40
+Dickinson,Lyon 68,State Senate,35,R,Richard Wilborn,17
+Dickinson,Lyon 68A,State Senate,35,R,Richard Wilborn,5
 Dickinson,Banner,State Treasurer,,D,Carmen Alldritt,6
 Dickinson,Buckeye,State Treasurer,,D,Carmen Alldritt,23
 Dickinson,Center,State Treasurer,,D,Carmen Alldritt,62
