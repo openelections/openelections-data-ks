@@ -1,6 +1,4 @@
 county,precinct,office,district,party,candidate,votes
-McPherson,BATTLE HILL,President,,I,Stein - Baraka,
-McPherson,BONAVILLE,President,,I,Stein - Baraka,
 McPherson,CANTON,President,,I,Stein - Baraka,4
 McPherson,CASTLE,President,,I,Stein - Baraka,2
 McPherson,DELMORE,President,,I,Stein - Baraka,4
@@ -9,7 +7,6 @@ McPherson,GROVELAND,President,,I,Stein - Baraka,4
 McPherson,GYPSUM CREEK,President,,I,Stein - Baraka,2
 McPherson,HARPER,President,,I,Stein - Baraka,1
 McPherson,HAVES,President,,I,Stein - Baraka,3
-McPherson,JACKSON,President,,I,Stein - Baraka,
 McPherson,KING CITY,President,,I,Stein - Baraka,9
 McPherson,LITTLE VALLEY,President,,I,Stein - Baraka,1
 McPherson,LONE TREE,President,,I,Stein - Baraka,2
@@ -19,7 +16,6 @@ McPherson,MERIDIAN,President,,I,Stein - Baraka,4
 McPherson,MOUND,President,,I,Stein - Baraka,35
 McPherson,NEW GOTTLAND,President,,I,Stein - Baraka,3
 McPherson,SMOKY HILL,President,,I,Stein - Baraka,2
-McPherson,S SHARPS CREEK,President,,I,Stein - Baraka,
 McPherson,SPRING VALLEY,President,,I,Stein - Baraka,4
 McPherson,SUPERIOR,President,,I,Stein - Baraka,16
 McPherson,TURKEY CREEK,President,,I,Stein - Baraka,3
@@ -32,7 +28,6 @@ McPherson,McPHERSON - 1,President,,I,Stein - Baraka,71
 McPherson,McPHERSON - 2,President,,I,Stein - Baraka,18
 McPherson,McPHERSON - 3,President,,I,Stein - Baraka,17
 McPherson,McPHERSON - 4,President,,I,Stein - Baraka,34
-McPherson,Write-Ins,President,,I,Stein - Baraka,
 McPherson,TOTAL,President,,I,Stein - Baraka,295
 McPherson,BATTLE HILL,President,,R,Trump - Pence,37
 McPherson,BONAVILLE,President,,R,Trump - Pence,40
@@ -67,7 +62,6 @@ McPherson,McPHERSON - 1,President,,R,Trump - Pence,1910
 McPherson,McPHERSON - 2,President,,R,Trump - Pence,638
 McPherson,McPHERSON - 3,President,,R,Trump - Pence,364
 McPherson,McPHERSON - 4,President,,R,Trump - Pence,807
-McPherson,Write-Ins,President,,R,Trump - Pence,
 McPherson,TOTAL,President,,R,Trump - Pence,8549
 McPherson,BATTLE HILL,President,,D,Clinton - Kaine,14
 McPherson,BONAVILLE,President,,D,Clinton - Kaine,5
@@ -102,10 +96,7 @@ McPherson,McPHERSON - 1,President,,D,Clinton - Kaine,859
 McPherson,McPHERSON - 2,President,,D,Clinton - Kaine,231
 McPherson,McPHERSON - 3,President,,D,Clinton - Kaine,121
 McPherson,McPHERSON - 4,President,,D,Clinton - Kaine,272
-McPherson,Write-Ins,President,,D,Clinton - Kaine,
 McPherson,TOTAL,President,,D,Clinton - Kaine,"3,226"
-McPherson,BATTLE HILL,President,,L,Johnson - Weld,
-McPherson,BONAVILLE,President,,L,Johnson - Weld,
 McPherson,CANTON,President,,L,Johnson - Weld,13
 McPherson,CASTLE,President,,L,Johnson - Weld,5
 McPherson,DELMORE,President,,L,Johnson - Weld,4
@@ -137,42 +128,21 @@ McPherson,McPHERSON - 1,President,,L,Johnson - Weld,128
 McPherson,McPHERSON - 2,President,,L,Johnson - Weld,39
 McPherson,McPHERSON - 3,President,,L,Johnson - Weld,26
 McPherson,McPHERSON - 4,President,,L,Johnson - Weld,71
-McPherson,Write-Ins,President,,L,Johnson - Weld,
 McPherson,TOTAL,President,,L,Johnson - Weld,574
-McPherson,BATTLE HILL,President,,,McMullin - Johnson,
 McPherson,BONAVILLE,President,,,McMullin - Johnson,1
 McPherson,CANTON,President,,,McMullin - Johnson,1
-McPherson,CASTLE,President,,,McMullin - Johnson,
 McPherson,DELMORE,President,,,McMullin - Johnson,2
-McPherson,EMPIRE,President,,,McMullin - Johnson,
-McPherson,GROVELAND,President,,,McMullin - Johnson,
 McPherson,GYPSUM CREEK,President,,,McMullin - Johnson,2
-McPherson,HARPER,President,,,McMullin - Johnson,
-McPherson,HAVES,President,,,McMullin - Johnson,
-McPherson,JACKSON,President,,,McMullin - Johnson,
-McPherson,KING CITY,President,,,McMullin - Johnson,
-McPherson,LITTLE VALLEY,President,,,McMullin - Johnson,
-McPherson,LONE TREE,President,,,McMullin - Johnson,
 McPherson,MARQUETTE,President,,,McMullin - Johnson,3
-McPherson,MCPHERSON,President,,,McMullin - Johnson,
-McPherson,MERIDIAN,President,,,McMullin - Johnson,
-McPherson,MOUND,President,,,McMullin - Johnson,
-McPherson,NEW GOTTLAND,President,,,McMullin - Johnson,
 McPherson,SMOKY HILL,President,,,McMullin - Johnson,1
-McPherson,S SHARPS CREEK,President,,,McMullin - Johnson,
-McPherson,SPRING VALLEY,President,,,McMullin - Johnson,
 McPherson,SUPERIOR,President,,,McMullin - Johnson,2
-McPherson,TURKEY CREEK,President,,,McMullin - Johnson,
-McPherson,UNION,President,,,McMullin - Johnson,
 McPherson,LINDSBORG - 1,President,,,McMullin - Johnson,3
-McPherson,LINDSRORG - 2,President,,,McMullin - Johnson,
 McPherson,LINDSBORG - 3,President,,,McMullin - Johnson,4
 McPherson,LINDSBORG - 4,President,,,McMullin - Johnson,2
 McPherson,McPHERSON - 1,President,,,McMullin - Johnson,24
 McPherson,McPHERSON - 2,President,,,McMullin - Johnson,13
 McPherson,McPHERSON - 3,President,,,McMullin - Johnson,26
 McPherson,McPHERSON - 4,President,,,McMullin - Johnson,14
-McPherson,Write-Ins,President,,,McMullin - Johnson,
 McPherson,TOTAL,President,,,McMullin - Johnson,98
 McPherson,BATTLE HILL,U.S. Senate,,R,Jerry Moran,38
 McPherson,BONAVILLE,U.S. Senate,,R,Jerry Moran,39
@@ -207,7 +177,6 @@ McPherson,McPHERSON - 1,U.S. Senate,,R,Jerry Moran,2228
 McPherson,McPHERSON - 2,U.S. Senate,,R,Jerry Moran,713
 McPherson,McPHERSON - 3,U.S. Senate,,R,Jerry Moran,403
 McPherson,McPHERSON - 4,U.S. Senate,,R,Jerry Moran,905
-McPherson,Write-Ins,U.S. Senate,,R,Jerry Moran,
 McPherson,TOTAL,U.S. Senate,,R,Jerry Moran,9637
 McPherson,BATTLE HILL,U.S. Senate,,D,Patrick Wiesner,10
 McPherson,BONAVILLE,U.S. Senate,,D,Patrick Wiesner,3
@@ -242,7 +211,6 @@ McPherson,McPHERSON - 1,U.S. Senate,,D,Patrick Wiesner,655
 McPherson,McPHERSON - 2,U.S. Senate,,D,Patrick Wiesner,178
 McPherson,McPHERSON - 3,U.S. Senate,,D,Patrick Wiesner,101
 McPherson,McPHERSON - 4,U.S. Senate,,D,Patrick Wiesner,214
-McPherson,Write-Ins,U.S. Senate,,D,Patrick Wiesner,
 McPherson,TOTAL,U.S. Senate,,D,Patrick Wiesner,2527
 McPherson,BATTLE HILL,U.S. Senate,,L,Robert D. Garrard,3
 McPherson,BONAVILLE,U.S. Senate,,L,Robert D. Garrard,2
@@ -277,7 +245,6 @@ McPherson,McPHERSON - 1,U.S. Senate,,L,Robert D. Garrard,124
 McPherson,McPHERSON - 2,U.S. Senate,,L,Robert D. Garrard,44
 McPherson,McPHERSON - 3,U.S. Senate,,L,Robert D. Garrard,32
 McPherson,McPHERSON - 4,U.S. Senate,,L,Robert D. Garrard,68
-McPherson,Write-Ins,U.S. Senate,,L,Robert D. Garrard,
 McPherson,TOTAL,U.S. Senate,,L,Robert D. Garrard,613
 McPherson,BATTLE HILL,U.S. House,1,D,Alan LaPolice,16
 McPherson,BONAVILLE,U.S. House,1,D,Alan LaPolice,7
@@ -312,7 +279,6 @@ McPherson,McPHERSON - 1,U.S. House,1,D,Alan LaPolice,740
 McPherson,McPHERSON - 2,U.S. House,1,D,Alan LaPolice,206
 McPherson,McPHERSON - 3,U.S. House,1,D,Alan LaPolice,138
 McPherson,McPHERSON - 4,U.S. House,1,D,Alan LaPolice,257
-McPherson,Write-Ins,U.S. House,1,D,Alan LaPolice,
 McPherson,TOTAL,U.S. House,1,D,Alan LaPolice,"3,356"
 McPherson,BATTLE HILL,U.S. House,1,R,Roger Marshall,34
 McPherson,BONAVILLE,U.S. House,1,R,Roger Marshall,32
@@ -347,7 +313,6 @@ McPherson,McPHERSON - 1,U.S. House,1,R,Roger Marshall,1987
 McPherson,McPHERSON - 2,U.S. House,1,R,Roger Marshall,645
 McPherson,McPHERSON - 3,U.S. House,1,R,Roger Marshall,353
 McPherson,McPHERSON - 4,U.S. House,1,R,Roger Marshall,812
-McPherson,Write-Ins,U.S. House,1,R,Roger Marshall,
 McPherson,TOTAL,U.S. House,1,R,Roger Marshall,"8,338"
 McPherson,BATTLE HILL,U.S. House,1,L,Kerry Burt,1
 McPherson,BONAVILLE,U.S. House,1,L,Kerry Burt,2
@@ -382,7 +347,6 @@ McPherson,McPHERSON - 1,U.S. House,1,L,Kerry Burt,197
 McPherson,McPHERSON - 2,U.S. House,1,L,Kerry Burt,62
 McPherson,McPHERSON - 3,U.S. House,1,L,Kerry Burt,32
 McPherson,McPHERSON - 4,U.S. House,1,L,Kerry Burt,88
-McPherson,Write-Ins,U.S. House,1,L,Kerry Burt,
 McPherson,TOTAL,U.S. House,1,L,Kerry Burt,749
 McPherson,TOTAL,U.S. House,1,,Tim Huelskamp,74
 McPherson,BATTLE HILL,State Senate,35,R,Richard Wilborn,39
@@ -418,7 +382,6 @@ McPherson,McPHERSON - 1,State Senate,35,R,Richard Wilborn,2153
 McPherson,McPHERSON - 2,State Senate,35,R,Richard Wilborn,695
 McPherson,McPHERSON - 3,State Senate,35,R,Richard Wilborn,398
 McPherson,McPHERSON - 4,State Senate,35,R,Richard Wilborn,889
-McPherson,Write-Ins,State Senate,35,R,Richard Wilborn,
 McPherson,TOTAL,State Senate,35,R,Richard Wilborn,9319
 McPherson,BATTLE HILL,State Senate,35,D,Levi Morris,13
 McPherson,BONAVILLE,State Senate,35,D,Levi Morris,3
@@ -453,7 +416,6 @@ McPherson,McPHERSON - 1,State Senate,35,D,Levi Morris,822
 McPherson,McPHERSON - 2,State Senate,35,D,Levi Morris,235
 McPherson,McPHERSON - 3,State Senate,35,D,Levi Morris,135
 McPherson,McPHERSON - 4,State Senate,35,D,Levi Morris,284
-McPherson,Write-Ins,State Senate,35,D,Levi Morris,
 McPherson,TOTAL,State Senate,35,D,Levi Morris,3269
 McPherson,BATTLE HILL,State House,73,D,Terrance J. Krier,18
 McPherson,BONAVILLE,State House,73,D,Terrance J. Krier,7
@@ -471,24 +433,16 @@ McPherson,LITTLE VALLEY,State House,73,D,Terrance J. Krier,27
 McPherson,LONE TREE,State House,73,D,Terrance J. Krier,27
 McPherson,MARQUETTE,State House,73,D,Terrance J. Krier,108
 McPherson,MCPHERSON,State House,73,D,Terrance J. Krier,86
-McPherson,MERIDIAN,State House,73,D,Terrance J. Krier,
-McPherson,MOUND,State House,73,D,Terrance J. Krier,
 McPherson,NEW GOTTLAND,State House,73,D,Terrance J. Krier,52
-McPherson,SMOKY HILL,State House,73,D,Terrance J. Krier,
 McPherson,S SHARPS CREEK,State House,73,D,Terrance J. Krier,13
 McPherson,SPRING VALLEY,State House,73,D,Terrance J. Krier,26
 McPherson,SUPERIOR,State House,73,D,Terrance J. Krier,144
 McPherson,TURKEY CREEK,State House,73,D,Terrance J. Krier,30
 McPherson,UNION,State House,73,D,Terrance J. Krier,22
-McPherson,LINDSBORG - 1,State House,73,D,Terrance J. Krier,
-McPherson,LINDSRORG - 2,State House,73,D,Terrance J. Krier,
-McPherson,LINDSBORG - 3,State House,73,D,Terrance J. Krier,
-McPherson,LINDSBORG - 4,State House,73,D,Terrance J. Krier,
 McPherson,McPHERSON - 1,State House,73,D,Terrance J. Krier,1086
 McPherson,McPHERSON - 2,State House,73,D,Terrance J. Krier,303
 McPherson,McPHERSON - 3,State House,73,D,Terrance J. Krier,166
 McPherson,McPHERSON - 4,State House,73,D,Terrance J. Krier,387
-McPherson,Write-Ins,State House,73,D,Terrance J. Krier,
 McPherson,TOTAL,State House,73,D,Terrance J. Krier,2976
 McPherson,BATTLE HILL,State House,73,R,Les Mason,31
 McPherson,BONAVILLE,State House,73,R,Les Mason,36
@@ -506,24 +460,16 @@ McPherson,LITTLE VALLEY,State House,73,R,Les Mason,177
 McPherson,LONE TREE,State House,73,R,Les Mason,69
 McPherson,MARQUETTE,State House,73,R,Les Mason,246
 McPherson,MCPHERSON,State House,73,R,Les Mason,198
-McPherson,MERIDIAN,State House,73,R,Les Mason,
-McPherson,MOUND,State House,73,R,Les Mason,
 McPherson,NEW GOTTLAND,State House,73,R,Les Mason,199
-McPherson,SMOKY HILL,State House,73,R,Les Mason,
 McPherson,S SHARPS CREEK,State House,73,R,Les Mason,33
 McPherson,SPRING VALLEY,State House,73,R,Les Mason,118
 McPherson,SUPERIOR,State House,73,R,Les Mason,585
 McPherson,TURKEY CREEK,State House,73,R,Les Mason,106
 McPherson,UNION,State House,73,R,Les Mason,73
-McPherson,LINDSBORG - 1,State House,73,R,Les Mason,
-McPherson,LINDSRORG - 2,State House,73,R,Les Mason,
-McPherson,LINDSBORG - 3,State House,73,R,Les Mason,
-McPherson,LINDSBORG - 4,State House,73,R,Les Mason,
 McPherson,McPHERSON - 1,State House,73,R,Les Mason,1876
 McPherson,McPHERSON - 2,State House,73,R,Les Mason,620
 McPherson,McPHERSON - 3,State House,73,R,Les Mason,363
 McPherson,McPHERSON - 4,State House,73,R,Les Mason,780
-McPherson,Write-Ins,State House,73,R,Les Mason,
 McPherson,TOTAL,State House,73,R,Les Mason,6818
 McPherson,MERIDIAN,State House,74,R,Don Schroeder,116
 McPherson,MOUND,State House,74,R,Don Schroeder,716
