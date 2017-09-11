@@ -1,7 +1,6 @@
-﻿county,precinct,office,district,party,candidate,votes
+county,precinct,office,district,party,candidate,votes
 Pottawatomie,Belvue,President,,Rep,Trump/Pence,123
 Pottawatomie,Blue,President,,Rep,Trump/Pence,1073
-Pottawatomie,Manhattan W2P5,President,,Rep,Trump/Pence,
 Pottawatomie,Blue Valley,President,,Rep,Trump/Pence,122
 Pottawatomie,Center,President,,Rep,Trump/Pence,57
 Pottawatomie,Clear Creek,President,,Rep,Trump/Pence,52
@@ -34,7 +33,6 @@ Pottawatomie,Federal,President,,Rep,Trump/Pence,24
 Pottawatomie,Total,President,,Rep,Trump/Pence,7612
 Pottawatomie,Belvue,President,,Dem,Clinton/Kaine,25
 Pottawatomie,Blue,President,,Dem,Clinton/Kaine,511
-Pottawatomie,Manhattan W2P5,President,,Dem,Clinton/Kaine,
 Pottawatomie,Blue Valley,President,,Dem,Clinton/Kaine,37
 Pottawatomie,Center,President,,Dem,Clinton/Kaine,4
 Pottawatomie,Clear Creek,President,,Dem,Clinton/Kaine,15
@@ -100,7 +98,6 @@ Pottawatomie,Federal,President,,Lib,Johnson/Weld,2
 Pottawatomie,Total,President,,Lib,Johnson/Weld,543
 Pottawatomie,Belvue,President,,Ind,Stein/Baraka,3
 Pottawatomie,Blue,President,,Ind,Stein/Baraka,19
-Pottawatomie,Manhattan W2P5,President,,Ind,Stein/Baraka,
 Pottawatomie,Blue Valley,President,,Ind,Stein/Baraka,5
 Pottawatomie,Center,President,,Ind,Stein/Baraka,0
 Pottawatomie,Clear Creek,President,,Ind,Stein/Baraka,1
@@ -133,7 +130,6 @@ Pottawatomie,Federal,President,,Ind,Stein/Baraka,0
 Pottawatomie,Total,President,,Ind,Stein/Baraka,193
 Pottawatomie,Belvue,U.S. Senate,,Dem,Patrick Wiesner,20
 Pottawatomie,Blue,U.S. Senate,,Dem,Patrick Wiesner,401
-Pottawatomie,Manhattan W2P5,U.S. Senate,,Dem,Patrick Wiesner,
 Pottawatomie,Blue Valley,U.S. Senate,,Dem,Patrick Wiesner,30
 Pottawatomie,Center,U.S. Senate,,Dem,Patrick Wiesner,0
 Pottawatomie,Clear Creek,U.S. Senate,,Dem,Patrick Wiesner,7
@@ -199,7 +195,6 @@ Pottawatomie,Federal,U.S. Senate,,Rep,Jerry Moran,32
 Pottawatomie,Total,U.S. Senate,,Rep,Jerry Moran,8407
 Pottawatomie,Belvue,U.S. Senate,,Lib,Robert D. Garrard,9
 Pottawatomie,Blue,U.S. Senate,,Lib,Robert D. Garrard,75
-Pottawatomie,Manhattan W2P5,U.S. Senate,,Lib,Robert D. Garrard,
 Pottawatomie,Blue Valley,U.S. Senate,,Lib,Robert D. Garrard,4
 Pottawatomie,Center,U.S. Senate,,Lib,Robert D. Garrard,1
 Pottawatomie,Clear Creek,U.S. Senate,,Lib,Robert D. Garrard,5
@@ -265,7 +260,6 @@ Pottawatomie,Federal,U.S House,1,Rep,Roger Marshall,23
 Pottawatomie,Total,U.S House,1,Rep,Roger Marshall,7112
 Pottawatomie,Belvue,U.S House,1,Lib,Kerry Burt,12
 Pottawatomie,Blue,U.S House,1,Lib,Kerry Burt,131
-Pottawatomie,Manhattan W2P5,U.S House,1,Lib,Kerry Burt,
 Pottawatomie,Blue Valley,U.S House,1,Lib,Kerry Burt,3
 Pottawatomie,Center,U.S House,1,Lib,Kerry Burt,3
 Pottawatomie,Clear Creek,U.S House,1,Lib,Kerry Burt,3
@@ -298,7 +292,6 @@ Pottawatomie,Federal,U.S House,1,Lib,Kerry Burt,7
 Pottawatomie,Total,U.S House,1,Lib,Kerry Burt,687
 Pottawatomie,Belvue,U.S House,1,Ind,Alan LaPolice,29
 Pottawatomie,Blue,U.S House,1,Ind,Alan LaPolice,486
-Pottawatomie,Manhattan W2P5,U.S House,1,Ind,Alan LaPolice,
 Pottawatomie,Blue Valley,U.S House,1,Ind,Alan LaPolice,54
 Pottawatomie,Center,U.S House,1,Ind,Alan LaPolice,10
 Pottawatomie,Clear Creek,U.S House,1,Ind,Alan LaPolice,12
@@ -331,7 +324,6 @@ Pottawatomie,Federal,U.S House,1,Ind,Alan LaPolice,10
 Pottawatomie,Total,U.S House,1,Ind,Alan LaPolice,2268
 Pottawatomie,Belvue,State Senate,1,Dem,Jerry Henry,32
 Pottawatomie,Blue,State Senate,1,Dem,Jerry Henry,581
-Pottawatomie,Manhattan W2P5,State Senate,1,Dem,Jerry Henry,
 Pottawatomie,Blue Valley,State Senate,1,Dem,Jerry Henry,41
 Pottawatomie,Center,State Senate,1,Dem,Jerry Henry,5
 Pottawatomie,Clear Creek,State Senate,1,Dem,Jerry Henry,21
@@ -349,16 +341,9 @@ Pottawatomie,Sherman,State Senate,1,Dem,Jerry Henry,10
 Pottawatomie,Spring Creek,State Senate,1,Dem,Jerry Henry,11
 Pottawatomie,St. Clere,State Senate,1,Dem,Jerry Henry,10
 Pottawatomie,St. George 1,State Senate,1,Dem,Jerry Henry,9
-Pottawatomie,St. George 17,State Senate,1,Dem,Jerry Henry,
-Pottawatomie,St. Mary's City,State Senate,1,Dem,Jerry Henry,
-Pottawatomie,St. Mary's Township,State Senate,1,Dem,Jerry Henry,
 Pottawatomie,Union,State Senate,1,Dem,Jerry Henry,44
 Pottawatomie,Vienna,State Senate,1,Dem,Jerry Henry,12
-Pottawatomie,Wamego City 18,State Senate,1,Dem,Jerry Henry,
-Pottawatomie,Wamego City 17,State Senate,1,Dem,Jerry Henry,
 Pottawatomie,Wamego Twp 1,State Senate,1,Dem,Jerry Henry,1
-Pottawatomie,Wamego Twp 17,State Senate,1,Dem,Jerry Henry,
-Pottawatomie,Wamego Twp 18,State Senate,1,Dem,Jerry Henry,
 Pottawatomie,Provisionals,State Senate,1,Dem,Jerry Henry,13
 Pottawatomie,Federal,State Senate,1,Dem,Jerry Henry,7
 Pottawatomie,Total,State Senate,1,Dem,Jerry Henry,1367
@@ -382,16 +367,9 @@ Pottawatomie,Sherman,State Senate,1,Rep,Dennis D. Pyle,41
 Pottawatomie,Spring Creek,State Senate,1,Rep,Dennis D. Pyle,18
 Pottawatomie,St. Clere,State Senate,1,Rep,Dennis D. Pyle,19
 Pottawatomie,St. George 1,State Senate,1,Rep,Dennis D. Pyle,14
-Pottawatomie,St. George 17,State Senate,1,Rep,Dennis D. Pyle,
-Pottawatomie,St. Mary's City,State Senate,1,Rep,Dennis D. Pyle,
-Pottawatomie,St. Mary's Township,State Senate,1,Rep,Dennis D. Pyle,
 Pottawatomie,Union,State Senate,1,Rep,Dennis D. Pyle,85
 Pottawatomie,Vienna,State Senate,1,Rep,Dennis D. Pyle,43
-Pottawatomie,Wamego City 18,State Senate,1,Rep,Dennis D. Pyle,
-Pottawatomie,Wamego City 17,State Senate,1,Rep,Dennis D. Pyle,
 Pottawatomie,Wamego Twp 1,State Senate,1,Rep,Dennis D. Pyle,12
-Pottawatomie,Wamego Twp 17,State Senate,1,Rep,Dennis D. Pyle,
-Pottawatomie,Wamego Twp 18,State Senate,1,Rep,Dennis D. Pyle,
 Pottawatomie,Provisionals,State Senate,1,Rep,Dennis D. Pyle,27
 Pottawatomie,Federal,State Senate,1,Rep,Dennis D. Pyle,18
 Pottawatomie,Total,State Senate,1,Rep,Dennis D. Pyle,3374
@@ -492,10 +470,5 @@ Pottawatomie,Provisionals,State House,61,Rep,Francis Awerkamp,58
 Pottawatomie,Federal,State House,61,Rep,Francis Awerkamp,16
 Pottawatomie,Total,State House,61,Rep,Francis Awerkamp,3499
 Pottawatomie,Manhattan W2P5,State House,66,Dem,Sydney Carlin,1
-Pottawatomie,Provisionals,State House,66,Dem,Sydney Carlin,
-Pottawatomie,Federal,State House,66,Dem,Sydney Carlin,
 Pottawatomie,Total,State House,66,Dem,Sydney Carlin,1
-Pottawatomie,Manhattan W2P5,State House,66,Rep,Stanley Hoerman,
-Pottawatomie,Provisionals,State House,66,Rep,Stanley Hoerman,
-Pottawatomie,Federal,State House,66,Rep,Stanley Hoerman,
 Pottawatomie,Total,State House,66,Rep,Stanley Hoerman,0
