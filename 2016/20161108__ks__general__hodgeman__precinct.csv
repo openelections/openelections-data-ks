@@ -1,218 +1,577 @@
-county,precinct,office,district,party,candidate,votes
-Hodgeman,01 N Marena,President,,LBT,Gary Johnson,4
-Hodgeman,01 N Marena,President,,IND,Jill Stein,3
-Hodgeman,01 N Marena,President,,R,Donald Trump,133
-Hodgeman,01 N Marena,President,,D,Hillary Clinton,20
-Hodgeman,01 N Marena,U.S. Senate,,R,Jerry Moran,140
-Hodgeman,01 N Marena,U.S. Senate,,D,Patrick Wiesner,13
-Hodgeman,01 N Marena,U.S. Senate,,LBT,Robert D. Garrard,5
-Hodgeman,01 N Marena,U.S. Senate,,,Larry Salmans,2
-Hodgeman,01 N Marena,U.S. House,1,LBT,Kerry Burt,13
-Hodgeman,01 N Marena,U.S. House,1,IND,Alan LaPolice,36
-Hodgeman,01 N Marena,U.S. House,1,R,Roger Marshall,108
-Hodgeman,01 N Marena,U.S. House,1,write-in,Tim Huelskamp [R],1
-Hodgeman,01 N Marena,State Senate,33,R,Mary Jo Taylor,132
-Hodgeman,01 N Marena,State Senate,33,D,Matt Bristow,23
-Hodgeman,01 N Marena,State House,117,R,Leonard Mastroni,141
-Hodgeman,02 S Marena,President,,LBT,Gary Johnson,2
-Hodgeman,02 S Marena,President,,IND,Jill Stein,2
-Hodgeman,02 S Marena,President,,R,Donald Trump,68
-Hodgeman,02 S Marena,President,,D,Hillary Clinton,11
-Hodgeman,02 S Marena,U.S. Senate,,R,Jerry Moran,70
-Hodgeman,02 S Marena,U.S. Senate,,D,Patrick Wiesner,7
-Hodgeman,02 S Marena,U.S. Senate,,LBT,Robert D. Garrard,7
-Hodgeman,02 S Marena,U.S. House,1,LBT,Kerry Burt,5
-Hodgeman,02 S Marena,U.S. House,1,IND,Alan LaPolice,16
-Hodgeman,02 S Marena,U.S. House,1,R,Roger Marshall,61
-Hodgeman,02 S Marena,State Senate,33,R,Mary Jo Taylor,65
-Hodgeman,02 S Marena,State Senate,33,D,Matt Bristow,15
-Hodgeman,02 S Marena,State House,117,R,Leonard Mastroni,77
-Hodgeman,02 S Marena,State Senate,33,,Larry Salmans,1
-Hodgeman,03 Benton,President,,LBT,Gary Johnson,0
-Hodgeman,03 Benton,President,,IND,Jill Stein,0
-Hodgeman,03 Benton,President,,R,Donald Trump,27
-Hodgeman,03 Benton,President,,D,Hillary Clinton,3
-Hodgeman,03 Benton,U.S. Senate,,R,Jerry Moran,26
-Hodgeman,03 Benton,U.S. Senate,,D,Patrick Wiesner,3
-Hodgeman,03 Benton,U.S. Senate,,LBT,Robert D. Garrard,0
-Hodgeman,03 Benton,U.S. House,1,LBT,Kerry Burt,0
-Hodgeman,03 Benton,U.S. House,1,IND,Alan LaPolice,4
-Hodgeman,03 Benton,U.S. House,1,R,Roger Marshall,23
-Hodgeman,03 Benton,State Senate,38,R,Bud Estes,29
-Hodgeman,03 Benton,State Senate,38,D,Miguel Rodriguez,0
-Hodgeman,03 Benton,State House,117,R,Leonard Mastroni,26
-Hodgeman,04 S Hallet,President,,LBT,Gary Johnson,1
-Hodgeman,04 S Hallet,President,,IND,Jill Stein,0
-Hodgeman,04 S Hallet,President,,R,Donald Trump,19
-Hodgeman,04 S Hallet,President,,D,Hillary Clinton,0
-Hodgeman,04 S Hallet,U.S. Senate,,R,Jerry Moran,18
-Hodgeman,04 S Hallet,U.S. Senate,,D,Patrick Wiesner,0
-Hodgeman,04 S Hallet,U.S. Senate,,LBT,Robert D. Garrard,1
-Hodgeman,04 S Hallet,U.S. House,1,LBT,Kerry Burt,1
-Hodgeman,04 S Hallet,U.S. House,1,IND,Alan LaPolice,6
-Hodgeman,04 S Hallet,U.S. House,1,R,Roger Marshall,11
-Hodgeman,04 S Hallet,State Senate,38,R,Bud Estes,17
-Hodgeman,04 S Hallet,State Senate,38,D,Miguel Rodriguez,1
-Hodgeman,04 S Hallet,State House,117,R,Leonard Mastroni,18
-Hodgeman,05 N Hallet,President,,LBT,Gary Johnson,0
-Hodgeman,05 N Hallet,President,,IND,Jill Stein,0
-Hodgeman,05 N Hallet,President,,R,Donald Trump,7
-Hodgeman,05 N Hallet,President,,D,Hillary Clinton,0
-Hodgeman,05 N Hallet,U.S. Senate,,R,Jerry Moran,6
-Hodgeman,05 N Hallet,U.S. Senate,,D,Patrick Wiesner,1
-Hodgeman,05 N Hallet,U.S. Senate,,LBT,Robert D. Garrard,0
-Hodgeman,05 N Hallet,U.S. House,1,LBT,Kerry Burt,1
-Hodgeman,05 N Hallet,U.S. House,1,IND,Alan LaPolice,3
-Hodgeman,05 N Hallet,U.S. House,1,R,Roger Marshall,2
-Hodgeman,05 N Hallet,State Senate,33,R,Mary Jo Taylor,4
-Hodgeman,05 N Hallet,State Senate,33,D,Matt Bristow,3
-Hodgeman,05 N Hallet,State House,117,R,Leonard Mastroni,6
-Hodgeman,06 N Roscoe,President,,LBT,Gary Johnson,0
-Hodgeman,06 N Roscoe,President,,IND,Jill Stein,0
-Hodgeman,06 N Roscoe,President,,R,Donald Trump,27
-Hodgeman,06 N Roscoe,President,,D,Hillary Clinton,1
-Hodgeman,06 N Roscoe,U.S. Senate,,R,Jerry Moran,25
-Hodgeman,06 N Roscoe,U.S. Senate,,D,Patrick Wiesner,1
-Hodgeman,06 N Roscoe,U.S. Senate,,LBT,Robert D. Garrard,1
-Hodgeman,06 N Roscoe,U.S. House,1,LBT,Kerry Burt,0
-Hodgeman,06 N Roscoe,U.S. House,1,IND,Alan LaPolice,4
-Hodgeman,06 N Roscoe,U.S. House,1,R,Roger Marshall,23
-Hodgeman,06 N Roscoe,State Senate,33,R,Mary Jo Taylor,22
-Hodgeman,06 N Roscoe,State Senate,33,D,Matt Bristow,3
-Hodgeman,06 N Roscoe,State House,117,R,Leonard Mastroni,14
-Hodgeman,07 S Roscoe,President,,LBT,Gary Johnson,1
-Hodgeman,07 S Roscoe,President,,IND,Jill Stein,0
-Hodgeman,07 S Roscoe,President,,R,Donald Trump,29
-Hodgeman,07 S Roscoe,President,,D,Hillary Clinton,4
-Hodgeman,07 S Roscoe,U.S. Senate,,R,Jerry Moran,31
-Hodgeman,07 S Roscoe,U.S. Senate,,D,Patrick Wiesner,3
-Hodgeman,07 S Roscoe,U.S. Senate,,LBT,Robert D. Garrard,0
-Hodgeman,07 S Roscoe,U.S. House,1,LBT,Kerry Burt,2
-Hodgeman,07 S Roscoe,U.S. House,1,IND,Alan LaPolice,3
-Hodgeman,07 S Roscoe,U.S. House,1,R,Roger Marshall,27
-Hodgeman,07 S Roscoe,U.S. House,1,,Tim Huelskamp [R],1
-Hodgeman,07 S Roscoe,State Senate,38,R,Bud Estes,30
-Hodgeman,07 S Roscoe,State Senate,38,D,Miguel Rodriguez,3
-Hodgeman,07 S Roscoe,State House,117,R,Leonard Mastroni,26
-Hodgeman,08 E Sawlog,President,,LBT,Gary Johnson,0
-Hodgeman,08 E Sawlog,President,,IND,Jill Stein,0
-Hodgeman,08 E Sawlog,President,,R,Donald Trump,18
-Hodgeman,08 E Sawlog,President,,D,Hillary Clinton,3
-Hodgeman,08 E Sawlog,U.S. Senate,,R,Jerry Moran,18
-Hodgeman,08 E Sawlog,U.S. Senate,,D,Patrick Wiesner,3
-Hodgeman,08 E Sawlog,U.S. Senate,,LBT,Robert D. Garrard,1
-Hodgeman,08 E Sawlog,U.S. House,1,LBT,Kerry Burt,2
-Hodgeman,08 E Sawlog,U.S. House,1,IND,Alan LaPolice,3
-Hodgeman,08 E Sawlog,U.S. House,1,R,Roger Marshall,15
-Hodgeman,08 E Sawlog,State Senate,38,R,Bud Estes,17
-Hodgeman,08 E Sawlog,State Senate,38,D,Miguel Rodriguez,3
-Hodgeman,08 E Sawlog,State House,117,R,Leonard Mastroni,15
-Hodgeman,09 Sterling,President,,LBT,Gary Johnson,1
-Hodgeman,09 Sterling,President,,IND,Jill Stein,1
-Hodgeman,09 Sterling,President,,R,Donald Trump,52
-Hodgeman,09 Sterling,President,,D,Hillary Clinton,5
-Hodgeman,09 Sterling,U.S. Senate,,R,Jerry Moran,57
-Hodgeman,09 Sterling,U.S. Senate,,D,Patrick Wiesner,6
-Hodgeman,09 Sterling,U.S. Senate,,LBT,Robert D. Garrard,1
-Hodgeman,09 Sterling,U.S. House,1,LBT,Kerry Burt,1
-Hodgeman,09 Sterling,U.S. House,1,IND,Alan LaPolice,11
-Hodgeman,09 Sterling,U.S. House,1,R,Roger Marshall,50
-Hodgeman,09 Sterling,State Senate,38,R,Bud Estes,54
-Hodgeman,09 Sterling,State Senate,38,D,Miguel Rodriguez,7
-Hodgeman,09 Sterling,State House,117,R,Leonard Mastroni,51
-Hodgeman,09 Sterling,State House,117,,Dorthy Ziesch,1
-Hodgeman,09 Sterling,State House,117,,Denny Burke,1
-Hodgeman,10 Valley,President,,LBT,Gary Johnson,1
-Hodgeman,10 Valley,President,,IND,Jill Stein,1
-Hodgeman,10 Valley,President,,R,Donald Trump,23
-Hodgeman,10 Valley,President,,D,Hillary Clinton,3
-Hodgeman,10 Valley,U.S. Senate,,R,Jerry Moran,26
-Hodgeman,10 Valley,U.S. Senate,,D,Patrick Wiesner,1
-Hodgeman,10 Valley,U.S. Senate,,LBT,Robert D. Garrard,0
-Hodgeman,10 Valley,U.S. House,1,LBT,Kerry Burt,0
-Hodgeman,10 Valley,U.S. House,1,IND,Alan LaPolice,6
-Hodgeman,10 Valley,U.S. House,1,R,Roger Marshall,18
-Hodgeman,10 Valley,U.S. House,1,,Tim Huelskamp [R],1
-Hodgeman,10 Valley,State Senate,33,R,Mary Jo Taylor,21
-Hodgeman,10 Valley,State Senate,33,D,Matt Bristow,5
-Hodgeman,10 Valley,State House,117,R,Leonard Mastroni,23
-Hodgeman,11 W Sawlog,President,,LBT,Gary Johnson,0
-Hodgeman,11 W Sawlog,President,,IND,Jill Stein,0
-Hodgeman,11 W Sawlog,President,,R,Donald Trump,32
-Hodgeman,11 W Sawlog,President,,D,Hillary Clinton,1
-Hodgeman,11 W Sawlog,U.S. Senate,,R,Jerry Moran,29
-Hodgeman,11 W Sawlog,U.S. Senate,,D,Patrick Wiesner,2
-Hodgeman,11 W Sawlog,U.S. Senate,,LBT,Robert D. Garrard,1
-Hodgeman,11 W Sawlog,U.S. House,1,LBT,Kerry Burt,0
-Hodgeman,11 W Sawlog,U.S. House,1,IND,Alan LaPolice,9
-Hodgeman,11 W Sawlog,U.S. House,1,R,Roger Marshall,21
-Hodgeman,11 W Sawlog,State Senate,38,R,Bud Estes,29
-Hodgeman,11 W Sawlog,State Senate,38,D,Miguel Rodriguez,2
-Hodgeman,11 W Sawlog,State House,117,R,Leonard Mastroni,23
-Hodgeman,12 City of Jetmore N,President,,LBT,Gary Johnson,7
-Hodgeman,12 City of Jetmore N,President,,IND,Jill Stein,7
-Hodgeman,12 City of Jetmore N,President,,R,Donald Trump,146
-Hodgeman,12 City of Jetmore N,President,,D,Hillary Clinton,24
-Hodgeman,12 City of Jetmore N,U.S. Senate,,R,Jerry Moran,159
-Hodgeman,12 City of Jetmore N,U.S. Senate,,D,Patrick Wiesner,15
-Hodgeman,12 City of Jetmore N,U.S. Senate,,LBT,Robert D. Garrard,11
-Hodgeman,12 City of Jetmore N,U.S. House,1,LBT,Kerry Burt,11
-Hodgeman,12 City of Jetmore N,U.S. House,1,IND,Alan LaPolice,27
-Hodgeman,12 City of Jetmore N,U.S. House,1,R,Roger Marshall,140
-Hodgeman,12 City of Jetmore N,U.S. House,1,,Tim Huelskamp [R],1
-Hodgeman,12 City of Jetmore N,State Senate,33,R,Mary Jo Taylor,140
-Hodgeman,12 City of Jetmore N,State Senate,33,D,Matt Bristow,35
-Hodgeman,12 City of Jetmore N,State House,117,R,Leonard Mastroni,154
-Hodgeman,13 City of Jetmore S,President,,LBT,Gary Johnson,2
-Hodgeman,13 City of Jetmore S,President,,IND,Jill Stein,2
-Hodgeman,13 City of Jetmore S,President,,R,Donald Trump,143
-Hodgeman,13 City of Jetmore S,President,,D,Hillary Clinton,34
-Hodgeman,13 City of Jetmore S,U.S. Senate,,R,Jerry Moran,154
-Hodgeman,13 City of Jetmore S,U.S. Senate,,D,Patrick Wiesner,16
-Hodgeman,13 City of Jetmore S,U.S. Senate,,LBT,Robert D. Garrard,7
-Hodgeman,13 City of Jetmore S,U.S. House,1,LBT,Kerry Burt,9
-Hodgeman,13 City of Jetmore S,U.S. House,1,IND,Alan LaPolice,31
-Hodgeman,13 City of Jetmore S,U.S. House,1,R,Roger Marshall,133
-Hodgeman,13 City of Jetmore S,State Senate,33,R,Mary Jo Taylor,122
-Hodgeman,13 City of Jetmore S,State Senate,33,D,Matt Bristow,44
-Hodgeman,13 City of Jetmore S,State House,117,R,Leonard Mastroni,144
-Hodgeman,14 City of Jetmore NWSW,President,,LBT,Gary Johnson,1
-Hodgeman,14 City of Jetmore NWSW,President,,IND,Jill Stein,0
-Hodgeman,14 City of Jetmore NWSW,President,,R,Donald Trump,79
-Hodgeman,14 City of Jetmore NWSW,President,,D,Hillary Clinton,7
-Hodgeman,14 City of Jetmore NWSW,U.S. Senate,,R,Jerry Moran,77
-Hodgeman,14 City of Jetmore NWSW,U.S. Senate,,D,Patrick Wiesner,7
-Hodgeman,14 City of Jetmore NWSW,U.S. Senate,,LBT,Robert D. Garrard,3
-Hodgeman,14 City of Jetmore NWSW,U.S. House,1,LBT,Kerry Burt,2
-Hodgeman,14 City of Jetmore NWSW,U.S. House,1,IND,Alan LaPolice,20
-Hodgeman,14 City of Jetmore NWSW,U.S. House,1,R,Roger Marshall,60
-Hodgeman,14 City of Jetmore NWSW,State Senate,33,R,Mary Jo Taylor,61
-Hodgeman,14 City of Jetmore NWSW,State Senate,33,D,Matt Bristow,18
-Hodgeman,14 City of Jetmore NWSW,State House,117,R,Leonard Mastroni,67
-Hodgeman,15 SE Center,President,,LBT,Gary Johnson,0
-Hodgeman,15 SE Center,President,,IND,Jill Stein,1
-Hodgeman,15 SE Center,President,,R,Donald Trump,16
-Hodgeman,15 SE Center,President,,D,Hillary Clinton,2
-Hodgeman,15 SE Center,U.S. Senate,,R,Jerry Moran,19
-Hodgeman,15 SE Center,U.S. Senate,,D,Patrick Wiesner,0
-Hodgeman,15 SE Center,U.S. Senate,,LBT,Robert D. Garrard,0
-Hodgeman,15 SE Center,U.S. House,1,LBT,Kerry Burt,1
-Hodgeman,15 SE Center,U.S. House,1,IND,Alan LaPolice,2
-Hodgeman,15 SE Center,U.S. House,1,R,Roger Marshall,13
-Hodgeman,15 SE Center,State Senate,33,R,Mary Jo Taylor,10
-Hodgeman,15 SE Center,State Senate,33,D,Matt Bristow,6
-Hodgeman,15 SE Center,State House,117,R,Leonard Mastroni,17
-Hodgeman,16 N Center,President,,LBT,Gary Johnson,1
-Hodgeman,16 N Center,President,,IND,Jill Stein,0
-Hodgeman,16 N Center,President,,R,Donald Trump,36
-Hodgeman,16 N Center,President,,D,Hillary Clinton,6
-Hodgeman,16 N Center,U.S. Senate,,R,Jerry Moran,34
-Hodgeman,16 N Center,U.S. Senate,,D,Patrick Wiesner,5
-Hodgeman,16 N Center,U.S. Senate,,LBT,Robert D. Garrard,2
-Hodgeman,16 N Center,U.S. House,1,LBT,Kerry Burt,1
-Hodgeman,16 N Center,U.S. House,1,IND,Alan LaPolice,9
-Hodgeman,16 N Center,U.S. House,1,R,Roger Marshall,25
-Hodgeman,16 N Center,State Senate,33,R,Mary Jo Taylor,33
-Hodgeman,16 N Center,State Senate,33,D,Matt Bristow,5
-Hodgeman,16 N Center,State House,117,R,Leonard Mastroni,32
-Hodgeman,16 N Center,U.S. House,1,,Tim Huelskamp [R],1
+county,precinct,office,district,party,candidate,votes,vtd
+HODGEMAN,Benton Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",26,000010
+HODGEMAN,North Hallet,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",6,000040
+HODGEMAN,North Roscoe,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",14,000050
+HODGEMAN,South Hallet,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",18,000080
+HODGEMAN,South Roscoe,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",26,000090
+HODGEMAN,Sterling Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",51,000100
+HODGEMAN,Valley Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",23,000110
+HODGEMAN,North Marena,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",141,150010
+HODGEMAN,South Marena,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",77,150020
+HODGEMAN,East Sawlog,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",15,150030
+HODGEMAN,West Sawlog,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",23,150040
+HODGEMAN,City of Jetmore - North,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",154,150050
+HODGEMAN,City of Jetmore - South,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",144,150060
+HODGEMAN,City of Jetmore - NW / SW Center,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",67,150070
+HODGEMAN,Southeast Center,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",17,150080
+HODGEMAN,North Center,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",32,150090
+HODGEMAN,Benton Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",0,000010
+HODGEMAN,Benton Township,Kansas Senate,38,Republican,"Estes, Bud",29,000010
+HODGEMAN,North Hallet,Kansas Senate,33,Democratic,"Bristow, Matt",3,000040
+HODGEMAN,North Hallet,Kansas Senate,33,Republican,"Taylor, Mary Jo",4,000040
+HODGEMAN,North Roscoe,Kansas Senate,33,Democratic,"Bristow, Matt",3,000050
+HODGEMAN,North Roscoe,Kansas Senate,33,Republican,"Taylor, Mary Jo",22,000050
+HODGEMAN,South Hallet,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",1,000080
+HODGEMAN,South Hallet,Kansas Senate,38,Republican,"Estes, Bud",17,000080
+HODGEMAN,South Roscoe,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",3,000090
+HODGEMAN,South Roscoe,Kansas Senate,38,Republican,"Estes, Bud",30,000090
+HODGEMAN,Sterling Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",7,000100
+HODGEMAN,Sterling Township,Kansas Senate,38,Republican,"Estes, Bud",54,000100
+HODGEMAN,Valley Township,Kansas Senate,33,Democratic,"Bristow, Matt",5,000110
+HODGEMAN,Valley Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",21,000110
+HODGEMAN,North Marena,Kansas Senate,33,Democratic,"Bristow, Matt",23,150010
+HODGEMAN,North Marena,Kansas Senate,33,Republican,"Taylor, Mary Jo",132,150010
+HODGEMAN,South Marena,Kansas Senate,33,Democratic,"Bristow, Matt",15,150020
+HODGEMAN,South Marena,Kansas Senate,33,Republican,"Taylor, Mary Jo",65,150020
+HODGEMAN,East Sawlog,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",3,150030
+HODGEMAN,East Sawlog,Kansas Senate,38,Republican,"Estes, Bud",17,150030
+HODGEMAN,West Sawlog,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",2,150040
+HODGEMAN,West Sawlog,Kansas Senate,38,Republican,"Estes, Bud",29,150040
+HODGEMAN,City of Jetmore - North,Kansas Senate,33,Democratic,"Bristow, Matt",35,150050
+HODGEMAN,City of Jetmore - North,Kansas Senate,33,Republican,"Taylor, Mary Jo",140,150050
+HODGEMAN,City of Jetmore - South,Kansas Senate,33,Democratic,"Bristow, Matt",44,150060
+HODGEMAN,City of Jetmore - South,Kansas Senate,33,Republican,"Taylor, Mary Jo",122,150060
+HODGEMAN,City of Jetmore - NW / SW Center,Kansas Senate,33,Democratic,"Bristow, Matt",18,150070
+HODGEMAN,City of Jetmore - NW / SW Center,Kansas Senate,33,Republican,"Taylor, Mary Jo",61,150070
+HODGEMAN,Southeast Center,Kansas Senate,33,Democratic,"Bristow, Matt",6,150080
+HODGEMAN,Southeast Center,Kansas Senate,33,Republican,"Taylor, Mary Jo",10,150080
+HODGEMAN,North Center,Kansas Senate,33,Democratic,"Bristow, Matt",5,150090
+HODGEMAN,North Center,Kansas Senate,33,Republican,"Taylor, Mary Jo",33,150090
+HODGEMAN,Benton Township,President / Vice President,,independent,"Stein, Jill",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+HODGEMAN,Benton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+HODGEMAN,Benton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000010
+HODGEMAN,Benton Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+HODGEMAN,Benton Township,President / Vice President,,Republican,"Trump, Donald J.",27,000010
+HODGEMAN,North Hallet,President / Vice President,,independent,"Stein, Jill",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Hedges, James A",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"McMullin, Evan",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Perry, Darryl",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Smith, Mike",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Sood, Ajay",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+HODGEMAN,North Hallet,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+HODGEMAN,North Hallet,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000040
+HODGEMAN,North Hallet,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+HODGEMAN,North Hallet,President / Vice President,,Republican,"Trump, Donald J.",7,000040
+HODGEMAN,North Roscoe,President / Vice President,,independent,"Stein, Jill",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Hedges, James A",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"McMullin, Evan",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Perry, Darryl",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Smith, Mike",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Sood, Ajay",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000050
+HODGEMAN,North Roscoe,President / Vice President,,Libertarian,"Johnson, Gary",0,000050
+HODGEMAN,North Roscoe,President / Vice President,,Republican,"Trump, Donald J.",27,000050
+HODGEMAN,South Hallet,President / Vice President,,independent,"Stein, Jill",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Hedges, James A",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"McMullin, Evan",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Perry, Darryl",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Smith, Mike",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Sood, Ajay",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+HODGEMAN,South Hallet,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+HODGEMAN,South Hallet,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000080
+HODGEMAN,South Hallet,President / Vice President,,Libertarian,"Johnson, Gary",1,000080
+HODGEMAN,South Hallet,President / Vice President,,Republican,"Trump, Donald J.",19,000080
+HODGEMAN,South Roscoe,President / Vice President,,independent,"Stein, Jill",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Hedges, James A",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"McMullin, Evan",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Perry, Darryl",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Smith, Mike",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Sood, Ajay",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+HODGEMAN,South Roscoe,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000090
+HODGEMAN,South Roscoe,President / Vice President,,Libertarian,"Johnson, Gary",1,000090
+HODGEMAN,South Roscoe,President / Vice President,,Republican,"Trump, Donald J.",29,000090
+HODGEMAN,Sterling Township,President / Vice President,,independent,"Stein, Jill",1,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+HODGEMAN,Sterling Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000100
+HODGEMAN,Sterling Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+HODGEMAN,Sterling Township,President / Vice President,,Republican,"Trump, Donald J.",52,000100
+HODGEMAN,Valley Township,President / Vice President,,independent,"Stein, Jill",1,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+HODGEMAN,Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+HODGEMAN,Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000110
+HODGEMAN,Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000110
+HODGEMAN,Valley Township,President / Vice President,,Republican,"Trump, Donald J.",23,000110
+HODGEMAN,North Marena,President / Vice President,,independent,"Stein, Jill",3,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Basiago, Andrew D.",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Castle, Darrell L",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Giordani, Rocky",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Hedges, James A",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Hoefling, Tom",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Kahn, Lynn",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"La Riva, Gloria",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Levinson, Michael S.",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Maturen, Michael A",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"McMullin, Evan",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Moorehead, Monica G.",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Perry, Darryl",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Schriner, Joe C",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Smith, Mike",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Sood, Ajay",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Sterling, Shawna",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Valdivia, Anthony J",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150010
+HODGEMAN,North Marena,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150010
+HODGEMAN,North Marena,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,150010
+HODGEMAN,North Marena,President / Vice President,,Libertarian,"Johnson, Gary",4,150010
+HODGEMAN,North Marena,President / Vice President,,Republican,"Trump, Donald J.",133,150010
+HODGEMAN,South Marena,President / Vice President,,independent,"Stein, Jill",2,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Basiago, Andrew D.",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Castle, Darrell L",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Giordani, Rocky",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Hedges, James A",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Hoefling, Tom",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Kahn, Lynn",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"La Riva, Gloria",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Levinson, Michael S.",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Maturen, Michael A",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"McMullin, Evan",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Moorehead, Monica G.",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Perry, Darryl",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Schriner, Joe C",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Smith, Mike",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Sood, Ajay",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Sterling, Shawna",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Valdivia, Anthony J",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150020
+HODGEMAN,South Marena,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150020
+HODGEMAN,South Marena,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,150020
+HODGEMAN,South Marena,President / Vice President,,Libertarian,"Johnson, Gary",2,150020
+HODGEMAN,South Marena,President / Vice President,,Republican,"Trump, Donald J.",68,150020
+HODGEMAN,East Sawlog,President / Vice President,,independent,"Stein, Jill",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Basiago, Andrew D.",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Castle, Darrell L",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Giordani, Rocky",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Hedges, James A",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Hoefling, Tom",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Kahn, Lynn",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"La Riva, Gloria",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Levinson, Michael S.",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Maturen, Michael A",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"McMullin, Evan",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Moorehead, Monica G.",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Perry, Darryl",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Schriner, Joe C",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Smith, Mike",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Sood, Ajay",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Sterling, Shawna",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Valdivia, Anthony J",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,150030
+HODGEMAN,East Sawlog,President / Vice President,,Libertarian,"Johnson, Gary",0,150030
+HODGEMAN,East Sawlog,President / Vice President,,Republican,"Trump, Donald J.",18,150030
+HODGEMAN,West Sawlog,President / Vice President,,independent,"Stein, Jill",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Basiago, Andrew D.",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Castle, Darrell L",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Giordani, Rocky",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Hedges, James A",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Hoefling, Tom",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Kahn, Lynn",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"La Riva, Gloria",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Levinson, Michael S.",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Maturen, Michael A",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"McMullin, Evan",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Moorehead, Monica G.",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Perry, Darryl",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Schriner, Joe C",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Smith, Mike",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Sood, Ajay",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Sterling, Shawna",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Valdivia, Anthony J",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,150040
+HODGEMAN,West Sawlog,President / Vice President,,Libertarian,"Johnson, Gary",0,150040
+HODGEMAN,West Sawlog,President / Vice President,,Republican,"Trump, Donald J.",32,150040
+HODGEMAN,City of Jetmore - North,President / Vice President,,independent,"Stein, Jill",7,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Basiago, Andrew D.",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Castle, Darrell L",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Giordani, Rocky",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Hedges, James A",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Hoefling, Tom",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Kahn, Lynn",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"La Riva, Gloria",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Levinson, Michael S.",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Maturen, Michael A",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"McMullin, Evan",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Moorehead, Monica G.",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Perry, Darryl",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Schriner, Joe C",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Smith, Mike",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Sood, Ajay",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Sterling, Shawna",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Valdivia, Anthony J",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,Democratic,"Clinton, Hillary Rodham",24,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,Libertarian,"Johnson, Gary",7,150050
+HODGEMAN,City of Jetmore - North,President / Vice President,,Republican,"Trump, Donald J.",146,150050
+HODGEMAN,City of Jetmore - South,President / Vice President,,independent,"Stein, Jill",2,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Basiago, Andrew D.",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Castle, Darrell L",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Giordani, Rocky",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Hedges, James A",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Hoefling, Tom",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Kahn, Lynn",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"La Riva, Gloria",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Levinson, Michael S.",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Maturen, Michael A",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"McMullin, Evan",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Moorehead, Monica G.",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Perry, Darryl",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Schriner, Joe C",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Smith, Mike",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Sood, Ajay",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Sterling, Shawna",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Valdivia, Anthony J",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,Libertarian,"Johnson, Gary",2,150060
+HODGEMAN,City of Jetmore - South,President / Vice President,,Republican,"Trump, Donald J.",143,150060
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,independent,"Stein, Jill",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Basiago, Andrew D.",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Castle, Darrell L",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Giordani, Rocky",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Hedges, James A",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Hoefling, Tom",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Kahn, Lynn",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"La Riva, Gloria",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Levinson, Michael S.",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Maturen, Michael A",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"McMullin, Evan",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Moorehead, Monica G.",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Perry, Darryl",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Schriner, Joe C",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Smith, Mike",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Sood, Ajay",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Sterling, Shawna",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Valdivia, Anthony J",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,Libertarian,"Johnson, Gary",1,150070
+HODGEMAN,City of Jetmore - NW / SW Center,President / Vice President,,Republican,"Trump, Donald J.",79,150070
+HODGEMAN,Southeast Center,President / Vice President,,independent,"Stein, Jill",1,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Basiago, Andrew D.",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Castle, Darrell L",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Giordani, Rocky",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Hedges, James A",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Hoefling, Tom",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Kahn, Lynn",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"La Riva, Gloria",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Levinson, Michael S.",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Maturen, Michael A",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"McMullin, Evan",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Moorehead, Monica G.",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Perry, Darryl",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Schriner, Joe C",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Smith, Mike",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Sood, Ajay",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Sterling, Shawna",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Valdivia, Anthony J",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,150080
+HODGEMAN,Southeast Center,President / Vice President,,Libertarian,"Johnson, Gary",0,150080
+HODGEMAN,Southeast Center,President / Vice President,,Republican,"Trump, Donald J.",16,150080
+HODGEMAN,North Center,President / Vice President,,independent,"Stein, Jill",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Basiago, Andrew D.",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Castle, Darrell L",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Giordani, Rocky",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Hedges, James A",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Hoefling, Tom",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Kahn, Lynn",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"La Riva, Gloria",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Levinson, Michael S.",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Maturen, Michael A",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"McMullin, Evan",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Moorehead, Monica G.",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Perry, Darryl",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Schoenke, Marshall R.",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Schriner, Joe C",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Smith, Mike",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Sood, Ajay",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Sterling, Shawna",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Valdivia, Anthony J",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,150090
+HODGEMAN,North Center,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,150090
+HODGEMAN,North Center,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,150090
+HODGEMAN,North Center,President / Vice President,,Libertarian,"Johnson, Gary",1,150090
+HODGEMAN,North Center,President / Vice President,,Republican,"Trump, Donald J.",36,150090
+HODGEMAN,Benton Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000010
+HODGEMAN,Benton Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+HODGEMAN,Benton Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000010
+HODGEMAN,Benton Township,United States House of Representatives,1,Republican,"Marshall, Roger",23,000010
+HODGEMAN,North Hallet,United States House of Representatives,1,independent,"LaPolice, Alan",3,000040
+HODGEMAN,North Hallet,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+HODGEMAN,North Hallet,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000040
+HODGEMAN,North Hallet,United States House of Representatives,1,Republican,"Marshall, Roger",2,000040
+HODGEMAN,North Roscoe,United States House of Representatives,1,independent,"LaPolice, Alan",4,000050
+HODGEMAN,North Roscoe,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+HODGEMAN,North Roscoe,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000050
+HODGEMAN,North Roscoe,United States House of Representatives,1,Republican,"Marshall, Roger",23,000050
+HODGEMAN,South Hallet,United States House of Representatives,1,independent,"LaPolice, Alan",6,000080
+HODGEMAN,South Hallet,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+HODGEMAN,South Hallet,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000080
+HODGEMAN,South Hallet,United States House of Representatives,1,Republican,"Marshall, Roger",11,000080
+HODGEMAN,South Roscoe,United States House of Representatives,1,independent,"LaPolice, Alan",3,000090
+HODGEMAN,South Roscoe,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000090
+HODGEMAN,South Roscoe,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000090
+HODGEMAN,South Roscoe,United States House of Representatives,1,Republican,"Marshall, Roger",27,000090
+HODGEMAN,Sterling Township,United States House of Representatives,1,independent,"LaPolice, Alan",11,000100
+HODGEMAN,Sterling Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+HODGEMAN,Sterling Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000100
+HODGEMAN,Sterling Township,United States House of Representatives,1,Republican,"Marshall, Roger",50,000100
+HODGEMAN,Valley Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000110
+HODGEMAN,Valley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000110
+HODGEMAN,Valley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000110
+HODGEMAN,Valley Township,United States House of Representatives,1,Republican,"Marshall, Roger",18,000110
+HODGEMAN,North Marena,United States House of Representatives,1,independent,"LaPolice, Alan",36,150010
+HODGEMAN,North Marena,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,150010
+HODGEMAN,North Marena,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,150010
+HODGEMAN,North Marena,United States House of Representatives,1,Republican,"Marshall, Roger",108,150010
+HODGEMAN,South Marena,United States House of Representatives,1,independent,"LaPolice, Alan",16,150020
+HODGEMAN,South Marena,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150020
+HODGEMAN,South Marena,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,150020
+HODGEMAN,South Marena,United States House of Representatives,1,Republican,"Marshall, Roger",61,150020
+HODGEMAN,East Sawlog,United States House of Representatives,1,independent,"LaPolice, Alan",3,150030
+HODGEMAN,East Sawlog,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150030
+HODGEMAN,East Sawlog,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,150030
+HODGEMAN,East Sawlog,United States House of Representatives,1,Republican,"Marshall, Roger",15,150030
+HODGEMAN,West Sawlog,United States House of Representatives,1,independent,"LaPolice, Alan",9,150040
+HODGEMAN,West Sawlog,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150040
+HODGEMAN,West Sawlog,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,150040
+HODGEMAN,West Sawlog,United States House of Representatives,1,Republican,"Marshall, Roger",21,150040
+HODGEMAN,City of Jetmore - North,United States House of Representatives,1,independent,"LaPolice, Alan",27,150050
+HODGEMAN,City of Jetmore - North,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,150050
+HODGEMAN,City of Jetmore - North,United States House of Representatives,1,Libertarian,"Burt, Kerry",11,150050
+HODGEMAN,City of Jetmore - North,United States House of Representatives,1,Republican,"Marshall, Roger",140,150050
+HODGEMAN,City of Jetmore - South,United States House of Representatives,1,independent,"LaPolice, Alan",31,150060
+HODGEMAN,City of Jetmore - South,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150060
+HODGEMAN,City of Jetmore - South,United States House of Representatives,1,Libertarian,"Burt, Kerry",9,150060
+HODGEMAN,City of Jetmore - South,United States House of Representatives,1,Republican,"Marshall, Roger",133,150060
+HODGEMAN,City of Jetmore - NW / SW Center,United States House of Representatives,1,independent,"LaPolice, Alan",20,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States House of Representatives,1,Republican,"Marshall, Roger",60,150070
+HODGEMAN,Southeast Center,United States House of Representatives,1,independent,"LaPolice, Alan",2,150080
+HODGEMAN,Southeast Center,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,150080
+HODGEMAN,Southeast Center,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,150080
+HODGEMAN,Southeast Center,United States House of Representatives,1,Republican,"Marshall, Roger",13,150080
+HODGEMAN,North Center,United States House of Representatives,1,independent,"LaPolice, Alan",9,150090
+HODGEMAN,North Center,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,150090
+HODGEMAN,North Center,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,150090
+HODGEMAN,North Center,United States House of Representatives,1,Republican,"Marshall, Roger",25,150090
+HODGEMAN,Benton Township,United States Senate,,write - in,"Smith, DJ",0,000010
+HODGEMAN,Benton Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000010
+HODGEMAN,Benton Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+HODGEMAN,Benton Township,United States Senate,,Republican,"Moran, Jerry",26,000010
+HODGEMAN,North Hallet,United States Senate,,write - in,"Smith, DJ",0,000040
+HODGEMAN,North Hallet,United States Senate,,Democratic,"Wiesner, Patrick",1,000040
+HODGEMAN,North Hallet,United States Senate,,Libertarian,"Garrard, Robert D.",0,000040
+HODGEMAN,North Hallet,United States Senate,,Republican,"Moran, Jerry",6,000040
+HODGEMAN,North Roscoe,United States Senate,,write - in,"Smith, DJ",0,000050
+HODGEMAN,North Roscoe,United States Senate,,Democratic,"Wiesner, Patrick",1,000050
+HODGEMAN,North Roscoe,United States Senate,,Libertarian,"Garrard, Robert D.",1,000050
+HODGEMAN,North Roscoe,United States Senate,,Republican,"Moran, Jerry",25,000050
+HODGEMAN,South Hallet,United States Senate,,write - in,"Smith, DJ",0,000080
+HODGEMAN,South Hallet,United States Senate,,Democratic,"Wiesner, Patrick",0,000080
+HODGEMAN,South Hallet,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+HODGEMAN,South Hallet,United States Senate,,Republican,"Moran, Jerry",18,000080
+HODGEMAN,South Roscoe,United States Senate,,write - in,"Smith, DJ",0,000090
+HODGEMAN,South Roscoe,United States Senate,,Democratic,"Wiesner, Patrick",3,000090
+HODGEMAN,South Roscoe,United States Senate,,Libertarian,"Garrard, Robert D.",0,000090
+HODGEMAN,South Roscoe,United States Senate,,Republican,"Moran, Jerry",31,000090
+HODGEMAN,Sterling Township,United States Senate,,write - in,"Smith, DJ",0,000100
+HODGEMAN,Sterling Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000100
+HODGEMAN,Sterling Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000100
+HODGEMAN,Sterling Township,United States Senate,,Republican,"Moran, Jerry",57,000100
+HODGEMAN,Valley Township,United States Senate,,write - in,"Smith, DJ",0,000110
+HODGEMAN,Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000110
+HODGEMAN,Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000110
+HODGEMAN,Valley Township,United States Senate,,Republican,"Moran, Jerry",26,000110
+HODGEMAN,North Marena,United States Senate,,write - in,"Smith, DJ",0,150010
+HODGEMAN,North Marena,United States Senate,,Democratic,"Wiesner, Patrick",13,150010
+HODGEMAN,North Marena,United States Senate,,Libertarian,"Garrard, Robert D.",5,150010
+HODGEMAN,North Marena,United States Senate,,Republican,"Moran, Jerry",140,150010
+HODGEMAN,South Marena,United States Senate,,write - in,"Smith, DJ",0,150020
+HODGEMAN,South Marena,United States Senate,,Democratic,"Wiesner, Patrick",7,150020
+HODGEMAN,South Marena,United States Senate,,Libertarian,"Garrard, Robert D.",7,150020
+HODGEMAN,South Marena,United States Senate,,Republican,"Moran, Jerry",70,150020
+HODGEMAN,East Sawlog,United States Senate,,write - in,"Smith, DJ",0,150030
+HODGEMAN,East Sawlog,United States Senate,,Democratic,"Wiesner, Patrick",3,150030
+HODGEMAN,East Sawlog,United States Senate,,Libertarian,"Garrard, Robert D.",1,150030
+HODGEMAN,East Sawlog,United States Senate,,Republican,"Moran, Jerry",18,150030
+HODGEMAN,West Sawlog,United States Senate,,write - in,"Smith, DJ",0,150040
+HODGEMAN,West Sawlog,United States Senate,,Democratic,"Wiesner, Patrick",2,150040
+HODGEMAN,West Sawlog,United States Senate,,Libertarian,"Garrard, Robert D.",1,150040
+HODGEMAN,West Sawlog,United States Senate,,Republican,"Moran, Jerry",29,150040
+HODGEMAN,City of Jetmore - North,United States Senate,,write - in,"Smith, DJ",0,150050
+HODGEMAN,City of Jetmore - North,United States Senate,,Democratic,"Wiesner, Patrick",15,150050
+HODGEMAN,City of Jetmore - North,United States Senate,,Libertarian,"Garrard, Robert D.",11,150050
+HODGEMAN,City of Jetmore - North,United States Senate,,Republican,"Moran, Jerry",159,150050
+HODGEMAN,City of Jetmore - South,United States Senate,,write - in,"Smith, DJ",0,150060
+HODGEMAN,City of Jetmore - South,United States Senate,,Democratic,"Wiesner, Patrick",16,150060
+HODGEMAN,City of Jetmore - South,United States Senate,,Libertarian,"Garrard, Robert D.",7,150060
+HODGEMAN,City of Jetmore - South,United States Senate,,Republican,"Moran, Jerry",154,150060
+HODGEMAN,City of Jetmore - NW / SW Center,United States Senate,,write - in,"Smith, DJ",0,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States Senate,,Democratic,"Wiesner, Patrick",7,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States Senate,,Libertarian,"Garrard, Robert D.",3,150070
+HODGEMAN,City of Jetmore - NW / SW Center,United States Senate,,Republican,"Moran, Jerry",77,150070
+HODGEMAN,Southeast Center,United States Senate,,write - in,"Smith, DJ",0,150080
+HODGEMAN,Southeast Center,United States Senate,,Democratic,"Wiesner, Patrick",0,150080
+HODGEMAN,Southeast Center,United States Senate,,Libertarian,"Garrard, Robert D.",0,150080
+HODGEMAN,Southeast Center,United States Senate,,Republican,"Moran, Jerry",19,150080
+HODGEMAN,North Center,United States Senate,,write - in,"Smith, DJ",0,150090
+HODGEMAN,North Center,United States Senate,,Democratic,"Wiesner, Patrick",5,150090
+HODGEMAN,North Center,United States Senate,,Libertarian,"Garrard, Robert D.",2,150090
+HODGEMAN,North Center,United States Senate,,Republican,"Moran, Jerry",34,150090

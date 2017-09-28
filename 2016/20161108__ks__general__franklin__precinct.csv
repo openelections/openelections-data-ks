@@ -1,439 +1,952 @@
-county,precinct,office,district,candidate,party,votes
-Franklin,0001 1ST PREC,President,,Gary Johnson,LBT,19
-Franklin,0001 1ST PREC,President,,Jill Stein,IND,7
-Franklin,0001 1ST PREC,President,,Donald Trump,REP,268
-Franklin,0001 1ST PREC,President,,Hillary Clinton,DEM,117
-Franklin,0001 1ST PREC,President,,Write-ins,,7
-Franklin,0001 1ST PREC,U.S. Senate,,Jerry Moran,REP,268
-Franklin,0001 1ST PREC,U.S. Senate,,Patrick Wiesner,DEM,108
-Franklin,0001 1ST PREC,U.S. Senate,,Robert Garrard,LBT,27
-Franklin,0001 1ST PREC,U.S. Senate,,Write-ins,,3
-Franklin,0001 1ST PREC,U.S. House,2,James Bales,LBT,19
-Franklin,0001 1ST PREC,U.S. House,2,Lynn Jenkins,REP,255
-Franklin,0001 1ST PREC,U.S. House,2,Britani Potter,DEM,139
-Franklin,0001 1ST PREC,U.S. House,2,Write-ins,,1
-Franklin,0001 1ST PREC,State Senate,16,Caryn Tyson,REP,224
-Franklin,0001 1ST PREC,State Senate,16,Christopher Johnston,DEM,134
-Franklin,0001 1ST PREC,State Senate,16,Write-ins,,40
-Franklin,0001 1ST PREC,State House,59,Blaine Finch,REP,362
-Franklin,0001 1ST PREC,State House,59,Write-ins,,13
-Franklin,0002 2ND PREC,President,,Gary Johnson,LBT,19
-Franklin,0002 2ND PREC,President,,Jill Stein,IND,16
-Franklin,0002 2ND PREC,President,,Donald Trump,REP,312
-Franklin,0002 2ND PREC,President,,Hillary Clinton,DEM,132
-Franklin,0002 2ND PREC,President,,Write-ins,,10
-Franklin,0002 2ND PREC,U.S. Senate,,Jerry Moran,REP,295
-Franklin,0002 2ND PREC,U.S. Senate,,Patrick Wiesner,DEM,140
-Franklin,0002 2ND PREC,U.S. Senate,,Robert Garrard,LBT,42
-Franklin,0002 2ND PREC,U.S. Senate,,Write-ins,,1
-Franklin,0002 2ND PREC,U.S. House,2,James Bales,LBT,32
-Franklin,0002 2ND PREC,U.S. House,2,Lynn Jenkins,REP,283
-Franklin,0002 2ND PREC,U.S. House,2,Britani Potter,DEM,155
-Franklin,0002 2ND PREC,U.S. House,2,Write-ins,,7
-Franklin,0002 2ND PREC,State Senate,16,Caryn Tyson,REP,262
-Franklin,0002 2ND PREC,State Senate,16,Christopher Johnston,DEM,148
-Franklin,0002 2ND PREC,State Senate,16,Write-ins,,63
-Franklin,0002 2ND PREC,State House,59,Blaine Finch,REP,430
-Franklin,0002 2ND PREC,State House,59,Write-ins,,12
-Franklin,0003 3RD PREC,President,,Gary Johnson,LBT,15
-Franklin,0003 3RD PREC,President,,Jill Stein,IND,6
-Franklin,0003 3RD PREC,President,,Donald Trump,REP,160
-Franklin,0003 3RD PREC,President,,Hillary Clinton,DEM,85
-Franklin,0003 3RD PREC,President,,Write-ins,,3
-Franklin,0003 3RD PREC,U.S. Senate,,Jerry Moran,REP,159
-Franklin,0003 3RD PREC,U.S. Senate,,Patrick Wiesner,DEM,80
-Franklin,0003 3RD PREC,U.S. Senate,,Robert Garrard,LBT,18
-Franklin,0003 3RD PREC,U.S. Senate,,Write-ins,,2
-Franklin,0003 3RD PREC,U.S. House,2,James Bales,LBT,11
-Franklin,0003 3RD PREC,U.S. House,2,Lynn Jenkins,REP,156
-Franklin,0003 3RD PREC,U.S. House,2,Britani Potter,DEM,96
-Franklin,0003 3RD PREC,U.S. House,2,Write-ins,,2
-Franklin,0003 3RD PREC,State Senate,16,Caryn Tyson,REP,141
-Franklin,0003 3RD PREC,State Senate,16,Christopher Johnston,DEM,99
-Franklin,0003 3RD PREC,State Senate,16,Write-ins,,22
-Franklin,0003 3RD PREC,State House,59,Blaine Finch,REP,234
-Franklin,0003 3RD PREC,State House,59,Write-ins,,6
-Franklin,0004 4TH PREC,President,,Gary Johnson,LBT,68
-Franklin,0004 4TH PREC,President,,Jill Stein,IND,40
-Franklin,0004 4TH PREC,President,,Donald Trump,REP,591
-Franklin,0004 4TH PREC,President,,Hillary Clinton,DEM,321
-Franklin,0004 4TH PREC,President,,Write-ins,,15
-Franklin,0004 4TH PREC,U.S. Senate,,Jerry Moran,REP,644
-Franklin,0004 4TH PREC,U.S. Senate,,Patrick Wiesner,DEM,300
-Franklin,0004 4TH PREC,U.S. Senate,,Robert Garrard,LBT,75
-Franklin,0004 4TH PREC,U.S. Senate,,Write-ins,,2
-Franklin,0004 4TH PREC,U.S. House,2,James Bales,LBT,63
-Franklin,0004 4TH PREC,U.S. House,2,Lynn Jenkins,REP,607
-Franklin,0004 4TH PREC,U.S. House,2,Britani Potter,DEM,337
-Franklin,0004 4TH PREC,U.S. House,2,Write-ins,,11
-Franklin,0004 4TH PREC,State Senate,16,Caryn Tyson,REP,549
-Franklin,0004 4TH PREC,State Senate,16,Christopher Johnston,DEM,308
-Franklin,0004 4TH PREC,State Senate,16,Write-ins,,132
-Franklin,0004 4TH PREC,State House,59,Blaine Finch,REP,916
-Franklin,0004 4TH PREC,State House,59,Write-ins,,25
-Franklin,0006 6TH PREC,President,,Gary Johnson,LBT,23
-Franklin,0006 6TH PREC,President,,Jill Stein,IND,11
-Franklin,0006 6TH PREC,President,,Donald Trump,REP,210
-Franklin,0006 6TH PREC,President,,Hillary Clinton,DEM,119
-Franklin,0006 6TH PREC,President,,Write-ins,,5
-Franklin,0006 6TH PREC,U.S. Senate,,Jerry Moran,REP,225
-Franklin,0006 6TH PREC,U.S. Senate,,Patrick Wiesner,DEM,116
-Franklin,0006 6TH PREC,U.S. Senate,,Robert Garrard,LBT,21
-Franklin,0006 6TH PREC,U.S. Senate,,Write-ins,,3
-Franklin,0006 6TH PREC,U.S. House,2,James Bales,LBT,24
-Franklin,0006 6TH PREC,U.S. House,2,Lynn Jenkins,REP,219
-Franklin,0006 6TH PREC,U.S. House,2,Britani Potter,DEM,120
-Franklin,0006 6TH PREC,U.S. House,2,Write-ins,,1
-Franklin,0006 6TH PREC,State Senate,16,Caryn Tyson,REP,175
-Franklin,0006 6TH PREC,State Senate,16,Christopher Johnston,DEM,103
-Franklin,0006 6TH PREC,State Senate,16,Write-ins,,72
-Franklin,0006 6TH PREC,State House,59,Blaine Finch,REP,330
-Franklin,0006 6TH PREC,State House,59,Write-ins,,7
-Franklin,0007 7TH PREC,President,,Gary Johnson,LBT,44
-Franklin,0007 7TH PREC,President,,Jill Stein,IND,25
-Franklin,0007 7TH PREC,President,,Donald Trump,REP,493
-Franklin,0007 7TH PREC,President,,Hillary Clinton,DEM,302
-Franklin,0007 7TH PREC,President,,Write-ins,,24
-Franklin,0007 7TH PREC,U.S. Senate,,Jerry Moran,REP,517
-Franklin,0007 7TH PREC,U.S. Senate,,Patrick Wiesner,DEM,268
-Franklin,0007 7TH PREC,U.S. Senate,,Robert Garrard,LBT,71
-Franklin,0007 7TH PREC,U.S. Senate,,Write-ins,,3
-Franklin,0007 7TH PREC,U.S. House,2,James Bales,LBT,55
-Franklin,0007 7TH PREC,U.S. House,2,Lynn Jenkins,REP,460
-Franklin,0007 7TH PREC,U.S. House,2,Britani Potter,DEM,337
-Franklin,0007 7TH PREC,U.S. House,2,Write-ins,,8
-Franklin,0007 7TH PREC,State Senate,16,Caryn Tyson,REP,419
-Franklin,0007 7TH PREC,State Senate,16,Christopher Johnston,DEM,312
-Franklin,0007 7TH PREC,State Senate,16,Write-ins,,115
-Franklin,0007 7TH PREC,State House,59,Blaine Finch,REP,757
-Franklin,0007 7TH PREC,State House,59,Write-ins,,24
-Franklin,0008 8TH PREC,President,,Gary Johnson,LBT,47
-Franklin,0008 8TH PREC,President,,Jill Stein,IND,21
-Franklin,0008 8TH PREC,President,,Donald Trump,REP,674
-Franklin,0008 8TH PREC,President,,Hillary Clinton,DEM,363
-Franklin,0008 8TH PREC,President,,Write-ins,,23
-Franklin,0008 8TH PREC,U.S. Senate,,Jerry Moran,REP,712
-Franklin,0008 8TH PREC,U.S. Senate,,Patrick Wiesner,DEM,330
-Franklin,0008 8TH PREC,U.S. Senate,,Robert Garrard,LBT,62
-Franklin,0008 8TH PREC,U.S. Senate,,Write-ins,,8
-Franklin,0008 8TH PREC,U.S. House,2,James Bales,LBT,48
-Franklin,0008 8TH PREC,U.S. House,2,Lynn Jenkins,REP,668
-Franklin,0008 8TH PREC,U.S. House,2,Britani Potter,DEM,391
-Franklin,0008 8TH PREC,U.S. House,2,Write-ins,,7
-Franklin,0008 8TH PREC,State Senate,16,Caryn Tyson,REP,574
-Franklin,0008 8TH PREC,State Senate,16,Christopher Johnston,DEM,304
-Franklin,0008 8TH PREC,State Senate,16,Write-ins,,200
-Franklin,0008 8TH PREC,State House,59,Blaine Finch,REP,988
-Franklin,0008 8TH PREC,State House,59,Write-ins,,32
-Franklin,0009 Appanoose twp,President,,Gary Johnson,LBT,9
-Franklin,0009 Appanoose twp,President,,Jill Stein,IND,3
-Franklin,0009 Appanoose twp,President,,Donald Trump,REP,93
-Franklin,0009 Appanoose twp,President,,Hillary Clinton,DEM,32
-Franklin,0009 Appanoose twp,President,,Write-ins,,3
-Franklin,0009 Appanoose twp,U.S. Senate,,Jerry Moran,REP,101
-Franklin,0009 Appanoose twp,U.S. Senate,,Patrick Wiesner,DEM,29
-Franklin,0009 Appanoose twp,U.S. Senate,,Robert Garrard,LBT,11
-Franklin,0009 Appanoose twp,U.S. Senate,,Write-ins,,0
-Franklin,0009 Appanoose twp,U.S. House,2,James Bales,LBT,14
-Franklin,0009 Appanoose twp,U.S. House,2,Lynn Jenkins,REP,94
-Franklin,0009 Appanoose twp,U.S. House,2,Britani Potter,DEM,31
-Franklin,0009 Appanoose twp,U.S. House,2,Write-ins,,1
-Franklin,0009 Appanoose twp,State Senate,16,Caryn Tyson,REP,84
-Franklin,0009 Appanoose twp,State Senate,16,Christopher Johnston,DEM,37
-Franklin,0009 Appanoose twp,State Senate,16,Write-ins,,14
-Franklin,0009 Appanoose twp,State House,59,Blaine Finch,REP,120
-Franklin,0009 Appanoose twp,State House,59,Write-ins,,2
-Franklin,0010 N Centropolis twp,President,,Gary Johnson,LBT,14
-Franklin,0010 N Centropolis twp,President,,Jill Stein,IND,5
-Franklin,0010 N Centropolis twp,President,,Donald Trump,REP,164
-Franklin,0010 N Centropolis twp,President,,Hillary Clinton,DEM,34
-Franklin,0010 N Centropolis twp,President,,Write-ins,,6
-Franklin,0010 N Centropolis twp,U.S. Senate,,Jerry Moran,REP,164
-Franklin,0010 N Centropolis twp,U.S. Senate,,Patrick Wiesner,DEM,39
-Franklin,0010 N Centropolis twp,U.S. Senate,,Robert Garrard,LBT,15
-Franklin,0010 N Centropolis twp,U.S. Senate,,Write-ins,,0
-Franklin,0010 N Centropolis twp,U.S. House,2,James Bales,LBT,14
-Franklin,0010 N Centropolis twp,U.S. House,2,Lynn Jenkins,REP,153
-Franklin,0010 N Centropolis twp,U.S. House,2,Britani Potter,DEM,51
-Franklin,0010 N Centropolis twp,U.S. House,2,Write-ins,,0
-Franklin,0010 N Centropolis twp,State Senate,16,Caryn Tyson,REP,158
-Franklin,0010 N Centropolis twp,State Senate,16,Christopher Johnston,DEM,44
-Franklin,0010 N Centropolis twp,State Senate,16,Write-ins,,12
-Franklin,0010 N Centropolis twp,State House,59,Blaine Finch,REP,186
-Franklin,0010 N Centropolis twp,State House,59,Write-ins,,4
-Franklin,0011 S Centropolis twp,President,,Gary Johnson,LBT,9
-Franklin,0011 S Centropolis twp,President,,Jill Stein,IND,5
-Franklin,0011 S Centropolis twp,President,,Donald Trump,REP,181
-Franklin,0011 S Centropolis twp,President,,Hillary Clinton,DEM,52
-Franklin,0011 S Centropolis twp,President,,Write-ins,,4
-Franklin,0011 S Centropolis twp,U.S. Senate,,Jerry Moran,REP,184
-Franklin,0011 S Centropolis twp,U.S. Senate,,Patrick Wiesner,DEM,46
-Franklin,0011 S Centropolis twp,U.S. Senate,,Robert Garrard,LBT,18
-Franklin,0011 S Centropolis twp,U.S. Senate,,Write-ins,,1
-Franklin,0011 S Centropolis twp,U.S. House,2,James Bales,LBT,19
-Franklin,0011 S Centropolis twp,U.S. House,2,Lynn Jenkins,REP,187
-Franklin,0011 S Centropolis twp,U.S. House,2,Britani Potter,DEM,43
-Franklin,0011 S Centropolis twp,U.S. House,2,Write-ins,,0
-Franklin,0011 S Centropolis twp,State Senate,16,Caryn Tyson,REP,178
-Franklin,0011 S Centropolis twp,State Senate,16,Christopher Johnston,DEM,54
-Franklin,0011 S Centropolis twp,State Senate,16,Write-ins,,14
-Franklin,0011 S Centropolis twp,State House,59,Blaine Finch,REP,219
-Franklin,0011 S Centropolis twp,State House,59,Write-ins,,8
-Franklin,0012 Cutler twp/Rantoul C,President,,Gary Johnson,LBT,20
-Franklin,0012 Cutler twp/Rantoul C,President,,Jill Stein,IND,7
-Franklin,0012 Cutler twp/Rantoul C,President,,Donald Trump,REP,286
-Franklin,0012 Cutler twp/Rantoul C,President,,Hillary Clinton,DEM,82
-Franklin,0012 Cutler twp/Rantoul C,President,,Write-ins,,6
-Franklin,0012 Cutler twp/Rantoul C,U.S. Senate,,Jerry Moran,REP,290
-Franklin,0012 Cutler twp/Rantoul C,U.S. Senate,,Patrick Wiesner,DEM,79
-Franklin,0012 Cutler twp/Rantoul C,U.S. Senate,,Robert Garrard,LBT,20
-Franklin,0012 Cutler twp/Rantoul C,U.S. Senate,,Write-ins,,2
-Franklin,0012 Cutler twp/Rantoul C,U.S. House,2,James Bales,LBT,24
-Franklin,0012 Cutler twp/Rantoul C,U.S. House,2,Lynn Jenkins,REP,297
-Franklin,0012 Cutler twp/Rantoul C,U.S. House,2,Britani Potter,DEM,69
-Franklin,0012 Cutler twp/Rantoul C,U.S. House,2,Write-ins,,2
-Franklin,0012 Cutler twp/Rantoul C,State Senate,16,Caryn Tyson,REP,264
-Franklin,0012 Cutler twp/Rantoul C,State Senate,16,Christopher Johnston,DEM,88
-Franklin,0012 Cutler twp/Rantoul C,State Senate,16,Write-ins,,29
-Franklin,0012 Cutler twp/Rantoul C,State House,5,Doug Walker,DEM,125
-Franklin,0012 Cutler twp/Rantoul C,State House,5,Kevin Jones,REP,259
-Franklin,0012 Cutler twp/Rantoul C,State House,5,Write-ins,,5
-Franklin,0013 Franklin twp,President,,Gary Johnson,LBT,69
-Franklin,0013 Franklin twp,President,,Jill Stein,IND,30
-Franklin,0013 Franklin twp,President,,Donald Trump,REP,881
-Franklin,0013 Franklin twp,President,,Hillary Clinton,DEM,351
-Franklin,0013 Franklin twp,President,,Write-ins,,18
-Franklin,0013 Franklin twp,U.S. Senate,,Jerry Moran,REP,864
-Franklin,0013 Franklin twp,U.S. Senate,,Patrick Wiesner,DEM,345
-Franklin,0013 Franklin twp,U.S. Senate,,Robert Garrard,LBT,126
-Franklin,0013 Franklin twp,U.S. Senate,,Write-ins,,1
-Franklin,0013 Franklin twp,U.S. House,2,James Bales,LBT,91
-Franklin,0013 Franklin twp,U.S. House,2,Lynn Jenkins,REP,892
-Franklin,0013 Franklin twp,U.S. House,2,Britani Potter,DEM,346
-Franklin,0013 Franklin twp,U.S. House,2,Write-ins,,0
-Franklin,0013 Franklin twp,State Senate,16,Caryn Tyson,REP,827
-Franklin,0013 Franklin twp,State Senate,16,Christopher Johnston,DEM,429
-Franklin,0013 Franklin twp,State Senate,16,Write-ins,,54
-Franklin,0013 Franklin twp,State House,5,Doug Walker,DEM,535
-Franklin,0013 Franklin twp,State House,5,Kevin Jones,REP,809
-Franklin,0013 Franklin twp,State House,5,Write-ins,,3
-Franklin,0014 Greenwood twp,President,,Gary Johnson,LBT,7
-Franklin,0014 Greenwood twp,President,,Jill Stein,IND,1
-Franklin,0014 Greenwood twp,President,,Donald Trump,REP,176
-Franklin,0014 Greenwood twp,President,,Hillary Clinton,DEM,38
-Franklin,0014 Greenwood twp,President,,Write-ins,,2
-Franklin,0014 Greenwood twp,U.S. Senate,,Jerry Moran,REP,171
-Franklin,0014 Greenwood twp,U.S. Senate,,Patrick Wiesner,DEM,44
-Franklin,0014 Greenwood twp,U.S. Senate,,Robert Garrard,LBT,9
-Franklin,0014 Greenwood twp,U.S. Senate,,Write-ins,,0
-Franklin,0014 Greenwood twp,U.S. House,2,James Bales,LBT,8
-Franklin,0014 Greenwood twp,U.S. House,2,Lynn Jenkins,REP,172
-Franklin,0014 Greenwood twp,U.S. House,2,Britani Potter,DEM,43
-Franklin,0014 Greenwood twp,U.S. House,2,Write-ins,,0
-Franklin,0014 Greenwood twp,State Senate,16,Caryn Tyson,REP,151
-Franklin,0014 Greenwood twp,State Senate,16,Christopher Johnston,DEM,45
-Franklin,0014 Greenwood twp,State Senate,16,Write-ins,,25
-Franklin,0014 Greenwood twp,State House,59,Blaine Finch,REP,203
-Franklin,0014 Greenwood twp,State House,59,Write-ins,,6
-Franklin,0015 Harrison twp,President,,Gary Johnson,LBT,11
-Franklin,0015 Harrison twp,President,,Jill Stein,IND,6
-Franklin,0015 Harrison twp,President,,Donald Trump,REP,214
-Franklin,0015 Harrison twp,President,,Hillary Clinton,DEM,46
-Franklin,0015 Harrison twp,President,,Write-ins,,6
-Franklin,0015 Harrison twp,U.S. Senate,,Jerry Moran,REP,225
-Franklin,0015 Harrison twp,U.S. Senate,,Patrick Wiesner,DEM,48
-Franklin,0015 Harrison twp,U.S. Senate,,Robert Garrard,LBT,7
-Franklin,0015 Harrison twp,U.S. Senate,,Write-ins,,0
-Franklin,0015 Harrison twp,U.S. House,2,James Bales,LBT,9
-Franklin,0015 Harrison twp,U.S. House,2,Lynn Jenkins,REP,220
-Franklin,0015 Harrison twp,U.S. House,2,Britani Potter,DEM,50
-Franklin,0015 Harrison twp,U.S. House,2,Write-ins,,1
-Franklin,0015 Harrison twp,State Senate,16,Caryn Tyson,REP,200
-Franklin,0015 Harrison twp,State Senate,16,Christopher Johnston,DEM,52
-Franklin,0015 Harrison twp,State Senate,16,Write-ins,,23
-Franklin,0015 Harrison twp,State House,59,Blaine Finch,REP,256
-Franklin,0015 Harrison twp,State House,59,Write-ins,,2
-Franklin,0016 Hayes twp,President,,Gary Johnson,LBT,16
-Franklin,0016 Hayes twp,President,,Jill Stein,IND,2
-Franklin,0016 Hayes twp,President,,Donald Trump,REP,144
-Franklin,0016 Hayes twp,President,,Hillary Clinton,DEM,62
-Franklin,0016 Hayes twp,President,,Write-ins,,4
-Franklin,0016 Hayes twp,U.S. Senate,,Jerry Moran,REP,165
-Franklin,0016 Hayes twp,U.S. Senate,,Patrick Wiesner,DEM,46
-Franklin,0016 Hayes twp,U.S. Senate,,Robert Garrard,LBT,12
-Franklin,0016 Hayes twp,U.S. Senate,,Write-ins,,1
-Franklin,0016 Hayes twp,U.S. House,2,James Bales,LBT,14
-Franklin,0016 Hayes twp,U.S. House,2,Lynn Jenkins,REP,168
-Franklin,0016 Hayes twp,U.S. House,2,Britani Potter,DEM,43
-Franklin,0016 Hayes twp,U.S. House,2,Write-ins,,0
-Franklin,0016 Hayes twp,State Senate,16,Caryn Tyson,REP,144
-Franklin,0016 Hayes twp,State Senate,16,Christopher Johnston,DEM,50
-Franklin,0016 Hayes twp,State Senate,16,Write-ins,,25
-Franklin,0016 Hayes twp,State House,59,Blaine Finch,REP,203
-Franklin,0016 Hayes twp,State House,59,Write-ins,,2
-Franklin,0017 Homewood twp,President,,Gary Johnson,LBT,18
-Franklin,0017 Homewood twp,President,,Jill Stein,IND,6
-Franklin,0017 Homewood twp,President,,Donald Trump,REP,180
-Franklin,0017 Homewood twp,President,,Hillary Clinton,DEM,83
-Franklin,0017 Homewood twp,President,,Write-ins,,4
-Franklin,0017 Homewood twp,U.S. Senate,,Jerry Moran,REP,195
-Franklin,0017 Homewood twp,U.S. Senate,,Patrick Wiesner,DEM,80
-Franklin,0017 Homewood twp,U.S. Senate,,Robert Garrard,LBT,10
-Franklin,0017 Homewood twp,U.S. Senate,,Write-ins,,0
-Franklin,0017 Homewood twp,U.S. House,2,James Bales,LBT,15
-Franklin,0017 Homewood twp,U.S. House,2,Lynn Jenkins,REP,177
-Franklin,0017 Homewood twp,U.S. House,2,Britani Potter,DEM,95
-Franklin,0017 Homewood twp,U.S. House,2,Write-ins,,0
-Franklin,0017 Homewood twp,State Senate,16,Caryn Tyson,REP,170
-Franklin,0017 Homewood twp,State Senate,16,Christopher Johnston,DEM,91
-Franklin,0017 Homewood twp,State Senate,16,Write-ins,,21
-Franklin,0017 Homewood twp,State House,59,Blaine Finch,REP,268
-Franklin,0017 Homewood twp,State House,59,Write-ins,,2
-Franklin,0018 Lincoln twp,President,,Gary Johnson,LBT,20
-Franklin,0018 Lincoln twp,President,,Jill Stein,IND,11
-Franklin,0018 Lincoln twp,President,,Donald Trump,REP,359
-Franklin,0018 Lincoln twp,President,,Hillary Clinton,DEM,123
-Franklin,0018 Lincoln twp,President,,Write-ins,,7
-Franklin,0018 Lincoln twp,U.S. Senate,,Jerry Moran,REP,375
-Franklin,0018 Lincoln twp,U.S. Senate,,Patrick Wiesner,DEM,108
-Franklin,0018 Lincoln twp,U.S. Senate,,Robert Garrard,LBT,27
-Franklin,0018 Lincoln twp,U.S. Senate,,Write-ins,,1
-Franklin,0018 Lincoln twp,U.S. House,2,James Bales,LBT,28
-Franklin,0018 Lincoln twp,U.S. House,2,Lynn Jenkins,REP,363
-Franklin,0018 Lincoln twp,U.S. House,2,Britani Potter,DEM,120
-Franklin,0018 Lincoln twp,U.S. House,2,Write-ins,,3
-Franklin,0018 Lincoln twp,State Senate,16,Caryn Tyson,REP,307
-Franklin,0018 Lincoln twp,State Senate,16,Christopher Johnston,DEM,126
-Franklin,0018 Lincoln twp,State Senate,16,Write-ins,,64
-Franklin,0018 Lincoln twp,State House,59,Blaine Finch,REP,457
-Franklin,0018 Lincoln twp,State House,59,Write-ins,,8
-Franklin,0019 Ohio twp/Princeton,President,,Gary Johnson,LBT,16
-Franklin,0019 Ohio twp/Princeton,President,,Jill Stein,IND,15
-Franklin,0019 Ohio twp/Princeton,President,,Donald Trump,REP,280
-Franklin,0019 Ohio twp/Princeton,President,,Hillary Clinton,DEM,90
-Franklin,0019 Ohio twp/Princeton,President,,Write-ins,,2
-Franklin,0019 Ohio twp/Princeton,U.S. Senate,,Jerry Moran,REP,296
-Franklin,0019 Ohio twp/Princeton,U.S. Senate,,Patrick Wiesner,DEM,80
-Franklin,0019 Ohio twp/Princeton,U.S. Senate,,Robert Garrard,LBT,22
-Franklin,0019 Ohio twp/Princeton,U.S. Senate,,Write-ins,,1
-Franklin,0019 Ohio twp/Princeton,U.S. House,2,James Bales,LBT,22
-Franklin,0019 Ohio twp/Princeton,U.S. House,2,Lynn Jenkins,REP,290
-Franklin,0019 Ohio twp/Princeton,U.S. House,2,Britani Potter,DEM,93
-Franklin,0019 Ohio twp/Princeton,U.S. House,2,Write-ins,,0
-Franklin,0019 Ohio twp/Princeton,State Senate,16,Caryn Tyson,REP,254
-Franklin,0019 Ohio twp/Princeton,State Senate,16,Christopher Johnston,DEM,84
-Franklin,0019 Ohio twp/Princeton,State Senate,16,Write-ins,,54
-Franklin,0019 Ohio twp/Princeton,State House,5,Doug Walker,DEM,137
-Franklin,0019 Ohio twp/Princeton,State House,5,Kevin Jones,REP,260
-Franklin,0019 Ohio twp/Princeton,State House,5,Write-ins,,2
-Franklin,0020 Ottawa twp,President,,Gary Johnson,LBT,23
-Franklin,0020 Ottawa twp,President,,Jill Stein,IND,9
-Franklin,0020 Ottawa twp,President,,Donald Trump,REP,316
-Franklin,0020 Ottawa twp,President,,Hillary Clinton,DEM,93
-Franklin,0020 Ottawa twp,President,,Write-ins,,3
-Franklin,0020 Ottawa twp,U.S. Senate,,Jerry Moran,REP,335
-Franklin,0020 Ottawa twp,U.S. Senate,,Patrick Wiesner,DEM,75
-Franklin,0020 Ottawa twp,U.S. Senate,,Robert Garrard,LBT,23
-Franklin,0020 Ottawa twp,U.S. Senate,,Write-ins,,0
-Franklin,0020 Ottawa twp,U.S. House,2,James Bales,LBT,10
-Franklin,0020 Ottawa twp,U.S. House,2,Lynn Jenkins,REP,319
-Franklin,0020 Ottawa twp,U.S. House,2,Britani Potter,DEM,106
-Franklin,0020 Ottawa twp,U.S. House,2,Write-ins,,0
-Franklin,0020 Ottawa twp,State Senate,16,Caryn Tyson,REP,290
-Franklin,0020 Ottawa twp,State Senate,16,Christopher Johnston,DEM,98
-Franklin,0020 Ottawa twp,State Senate,16,Write-ins,,41
-Franklin,0020 Ottawa twp,State House,59,Blaine Finch,REP,396
-Franklin,0020 Ottawa twp,State House,59,Write-ins,,5
-Franklin,0021 Peoria twp,President,,Gary Johnson,LBT,32
-Franklin,0021 Peoria twp,President,,Jill Stein,IND,5
-Franklin,0021 Peoria twp,President,,Donald Trump,REP,250
-Franklin,0021 Peoria twp,President,,Hillary Clinton,DEM,67
-Franklin,0021 Peoria twp,President,,Write-ins,,6
-Franklin,0021 Peoria twp,U.S. Senate,,Jerry Moran,REP,256
-Franklin,0021 Peoria twp,U.S. Senate,,Patrick Wiesner,DEM,70
-Franklin,0021 Peoria twp,U.S. Senate,,Robert Garrard,LBT,28
-Franklin,0021 Peoria twp,U.S. Senate,,Write-ins,,0
-Franklin,0021 Peoria twp,U.S. House,2,James Bales,LBT,17
-Franklin,0021 Peoria twp,U.S. House,2,Lynn Jenkins,REP,254
-Franklin,0021 Peoria twp,U.S. House,2,Britani Potter,DEM,82
-Franklin,0021 Peoria twp,U.S. House,2,Write-ins,,0
-Franklin,0021 Peoria twp,State Senate,16,Caryn Tyson,REP,245
-Franklin,0021 Peoria twp,State Senate,16,Christopher Johnston,DEM,76
-Franklin,0021 Peoria twp,State Senate,16,Write-ins,,23
-Franklin,0021 Peoria twp,State House,5,Doug Walker,DEM,106
-Franklin,0021 Peoria twp,State House,5,Kevin Jones,REP,244
-Franklin,0021 Peoria twp,State House,5,Write-ins,,1
-Franklin,0022 Pomona twp/Pomona City,President,,Gary Johnson,LBT,22
-Franklin,0022 Pomona twp/Pomona City,President,,Jill Stein,IND,11
-Franklin,0022 Pomona twp/Pomona City,President,,Donald Trump,REP,312
-Franklin,0022 Pomona twp/Pomona City,President,,Hillary Clinton,DEM,91
-Franklin,0022 Pomona twp/Pomona City,President,,Write-ins,,3
-Franklin,0022 Pomona twp/Pomona City,U.S. Senate,,Jerry Moran,REP,311
-Franklin,0022 Pomona twp/Pomona City,U.S. Senate,,Patrick Wiesner,DEM,97
-Franklin,0022 Pomona twp/Pomona City,U.S. Senate,,Robert Garrard,LBT,21
-Franklin,0022 Pomona twp/Pomona City,U.S. Senate,,Write-ins,,0
-Franklin,0022 Pomona twp/Pomona City,U.S. House,2,James Bales,LBT,23
-Franklin,0022 Pomona twp/Pomona City,U.S. House,2,Lynn Jenkins,REP,306
-Franklin,0022 Pomona twp/Pomona City,U.S. House,2,Britani Potter,DEM,104
-Franklin,0022 Pomona twp/Pomona City,U.S. House,2,Write-ins,,1
-Franklin,0022 Pomona twp/Pomona City,State Senate,16,Caryn Tyson,REP,274
-Franklin,0022 Pomona twp/Pomona City,State Senate,16,Christopher Johnston,DEM,99
-Franklin,0022 Pomona twp/Pomona City,State Senate,16,Write-ins,,53
-Franklin,0022 Pomona twp/Pomona City,State House,59,Blaine Finch,REP,405
-Franklin,0022 Pomona twp/Pomona City,State House,59,Write-ins,,5
-Franklin,0023 Pottawatomie twp/Lane,President,,Gary Johnson,LBT,11
-Franklin,0023 Pottawatomie twp/Lane,President,,Jill Stein,IND,5
-Franklin,0023 Pottawatomie twp/Lane,President,,Donald Trump,REP,212
-Franklin,0023 Pottawatomie twp/Lane,President,,Hillary Clinton,DEM,65
-Franklin,0023 Pottawatomie twp/Lane,President,,Write-ins,,1
-Franklin,0023 Pottawatomie twp/Lane,U.S. Senate,,Jerry Moran,REP,211
-Franklin,0023 Pottawatomie twp/Lane,U.S. Senate,,Patrick Wiesner,DEM,62
-Franklin,0023 Pottawatomie twp/Lane,U.S. Senate,,Robert Garrard,LBT,17
-Franklin,0023 Pottawatomie twp/Lane,U.S. Senate,,Write-ins,,1
-Franklin,0023 Pottawatomie twp/Lane,U.S. House,2,James Bales,LBT,6
-Franklin,0023 Pottawatomie twp/Lane,U.S. House,2,Lynn Jenkins,REP,210
-Franklin,0023 Pottawatomie twp/Lane,U.S. House,2,Britani Potter,DEM,73
-Franklin,0023 Pottawatomie twp/Lane,U.S. House,2,Write-ins,,0
-Franklin,0023 Pottawatomie twp/Lane,State Senate,16,Caryn Tyson,REP,211
-Franklin,0023 Pottawatomie twp/Lane,State Senate,16,Christopher Johnston,DEM,68
-Franklin,0023 Pottawatomie twp/Lane,State Senate,16,Write-ins,,9
-Franklin,0023 Pottawatomie twp/Lane,State House,5,Doug Walker,DEM,107
-Franklin,0023 Pottawatomie twp/Lane,State House,5,Kevin Jones,REP,183
-Franklin,0023 Pottawatomie twp/Lane,State House,5,Write-ins,,0
-Franklin,0024 Richmond twp/Richmond,President,,Gary Johnson,LBT,22
-Franklin,0024 Richmond twp/Richmond,President,,Jill Stein,IND,8
-Franklin,0024 Richmond twp/Richmond,President,,Donald Trump,REP,242
-Franklin,0024 Richmond twp/Richmond,President,,Hillary Clinton,DEM,81
-Franklin,0024 Richmond twp/Richmond,President,,Write-ins,,5
-Franklin,0024 Richmond twp/Richmond,U.S. Senate,,Jerry Moran,REP,240
-Franklin,0024 Richmond twp/Richmond,U.S. Senate,,Patrick Wiesner,DEM,80
-Franklin,0024 Richmond twp/Richmond,U.S. Senate,,Robert Garrard,LBT,32
-Franklin,0024 Richmond twp/Richmond,U.S. Senate,,Write-ins,,0
-Franklin,0024 Richmond twp/Richmond,U.S. House,2,James Bales,LBT,21
-Franklin,0024 Richmond twp/Richmond,U.S. House,2,Lynn Jenkins,REP,245
-Franklin,0024 Richmond twp/Richmond,U.S. House,2,Britani Potter,DEM,89
-Franklin,0024 Richmond twp/Richmond,U.S. House,2,Write-ins,,0
-Franklin,0024 Richmond twp/Richmond,State Senate,16,Caryn Tyson,REP,223
-Franklin,0024 Richmond twp/Richmond,State Senate,16,Christopher Johnston,DEM,87
-Franklin,0024 Richmond twp/Richmond,State Senate,16,Write-ins,,38
-Franklin,0024 Richmond twp/Richmond,State House,5,Doug Walker,DEM,135
-Franklin,0024 Richmond twp/Richmond,State House,5,Kevin Jones,REP,218
-Franklin,0024 Richmond twp/Richmond,State House,5,Write-ins,,1
-Franklin,0025 Williamsburg twp/Williamsburg,President,,Gary Johnson,LBT,14
-Franklin,0025 Williamsburg twp/Williamsburg,President,,Jill Stein,IND,10
-Franklin,0025 Williamsburg twp/Williamsburg,President,,Donald Trump,REP,187
-Franklin,0025 Williamsburg twp/Williamsburg,President,,Hillary Clinton,DEM,63
-Franklin,0025 Williamsburg twp/Williamsburg,President,,Write-ins,,5
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. Senate,,Jerry Moran,REP,191
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. Senate,,Patrick Wiesner,DEM,65
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. Senate,,Robert Garrard,LBT,19
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. Senate,,Write-ins,,1
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. House,2,James Bales,LBT,18
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. House,2,Lynn Jenkins,REP,175
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. House,2,Britani Potter,DEM,80
-Franklin,0025 Williamsburg twp/Williamsburg,U.S. House,2,Write-ins,,1
-Franklin,0025 Williamsburg twp/Williamsburg,State Senate,16,Caryn Tyson,REP,169
-Franklin,0025 Williamsburg twp/Williamsburg,State Senate,16,Christopher Johnston,DEM,76
-Franklin,0025 Williamsburg twp/Williamsburg,State Senate,16,Write-ins,,26
-Franklin,0025 Williamsburg twp/Williamsburg,State House,59,Blaine Finch,REP,243
-Franklin,0025 Williamsburg twp/Williamsburg,State House,59,Write-ins,,5
+county,precinct,office,district,party,candidate,votes,vtd
+FRANKLIN,Appanoose Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",120,000010
+FRANKLIN,Centropolis North Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",186,000020
+FRANKLIN,Centropolis South Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",219,000030
+FRANKLIN,Cutler Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",125,000040
+FRANKLIN,Cutler Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",259,000040
+FRANKLIN,Franklin Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",535,000050
+FRANKLIN,Franklin Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",809,000050
+FRANKLIN,Greenwood Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",203,000060
+FRANKLIN,Harrison Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",256,000070
+FRANKLIN,Hayes Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",203,000080
+FRANKLIN,Homewood Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",268,000090
+FRANKLIN,Lincoln Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",457,000100
+FRANKLIN,Ohio Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",137,000110
+FRANKLIN,Ohio Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",260,000110
+FRANKLIN,Ottawa Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",396,00012A
+FRANKLIN,Ottawa Precinct 1,Kansas House of Representatives,59,Republican,"Finch, Blaine",362,00013A
+FRANKLIN,Ottawa Precinct 1 Exclave (A),Kansas House of Representatives,59,Republican,"Finch, Blaine",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (B),Kansas House of Representatives,59,Republican,"Finch, Blaine",0,00013C
+FRANKLIN,Ottawa Precinct 2,Kansas House of Representatives,59,Republican,"Finch, Blaine",430,000140
+FRANKLIN,Ottawa Precinct 3,Kansas House of Representatives,59,Republican,"Finch, Blaine",234,000150
+FRANKLIN,Ottawa Precinct 6,Kansas House of Representatives,59,Republican,"Finch, Blaine",330,000180
+FRANKLIN,Ottawa Precinct 7,Kansas House of Representatives,59,Republican,"Finch, Blaine",757,000190
+FRANKLIN,Ottawa Precinct 8,Kansas House of Representatives,59,Republican,"Finch, Blaine",988,00020A
+FRANKLIN,Peoria Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",106,000210
+FRANKLIN,Peoria Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",244,000210
+FRANKLIN,Pomona Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",405,000220
+FRANKLIN,Pottawatomie Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",107,000230
+FRANKLIN,Pottawatomie Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",183,000230
+FRANKLIN,Richmond Township,Kansas House of Representatives,5,Democratic,"Walker, Doug",135,000240
+FRANKLIN,Richmond Township,Kansas House of Representatives,5,Republican,"Jones, Kevin",218,000240
+FRANKLIN,Williamsburg Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",243,000250
+FRANKLIN,Ottawa Precinct 4,Kansas House of Representatives,59,Republican,"Finch, Blaine",916,140010
+FRANKLIN,Ottawa Exclave Airport,Kansas House of Representatives,59,Republican,"Finch, Blaine",0,900010
+FRANKLIN,Appanoose Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",37,000010
+FRANKLIN,Appanoose Township,Kansas Senate,12,Republican,"Tyson, Caryn",84,000010
+FRANKLIN,Centropolis North Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",44,000020
+FRANKLIN,Centropolis North Township,Kansas Senate,12,Republican,"Tyson, Caryn",158,000020
+FRANKLIN,Centropolis South Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",54,000030
+FRANKLIN,Centropolis South Township,Kansas Senate,12,Republican,"Tyson, Caryn",178,000030
+FRANKLIN,Cutler Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",88,000040
+FRANKLIN,Cutler Township,Kansas Senate,12,Republican,"Tyson, Caryn",264,000040
+FRANKLIN,Franklin Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",429,000050
+FRANKLIN,Franklin Township,Kansas Senate,12,Republican,"Tyson, Caryn",827,000050
+FRANKLIN,Greenwood Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",45,000060
+FRANKLIN,Greenwood Township,Kansas Senate,12,Republican,"Tyson, Caryn",151,000060
+FRANKLIN,Harrison Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",52,000070
+FRANKLIN,Harrison Township,Kansas Senate,12,Republican,"Tyson, Caryn",200,000070
+FRANKLIN,Hayes Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",50,000080
+FRANKLIN,Hayes Township,Kansas Senate,12,Republican,"Tyson, Caryn",144,000080
+FRANKLIN,Homewood Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",91,000090
+FRANKLIN,Homewood Township,Kansas Senate,12,Republican,"Tyson, Caryn",170,000090
+FRANKLIN,Lincoln Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",126,000100
+FRANKLIN,Lincoln Township,Kansas Senate,12,Republican,"Tyson, Caryn",307,000100
+FRANKLIN,Ohio Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",84,000110
+FRANKLIN,Ohio Township,Kansas Senate,12,Republican,"Tyson, Caryn",254,000110
+FRANKLIN,Ottawa Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",98,00012A
+FRANKLIN,Ottawa Township,Kansas Senate,12,Republican,"Tyson, Caryn",290,00012A
+FRANKLIN,Ottawa Precinct 1,Kansas Senate,12,Democratic,"Johnston, Christopher B.",134,00013A
+FRANKLIN,Ottawa Precinct 1,Kansas Senate,12,Republican,"Tyson, Caryn",224,00013A
+FRANKLIN,Ottawa Precinct 1 Exclave (A),Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),Kansas Senate,12,Republican,"Tyson, Caryn",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (B),Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),Kansas Senate,12,Republican,"Tyson, Caryn",0,00013C
+FRANKLIN,Ottawa Precinct 2,Kansas Senate,12,Democratic,"Johnston, Christopher B.",148,000140
+FRANKLIN,Ottawa Precinct 2,Kansas Senate,12,Republican,"Tyson, Caryn",262,000140
+FRANKLIN,Ottawa Precinct 3,Kansas Senate,12,Democratic,"Johnston, Christopher B.",99,000150
+FRANKLIN,Ottawa Precinct 3,Kansas Senate,12,Republican,"Tyson, Caryn",141,000150
+FRANKLIN,Ottawa Precinct 6,Kansas Senate,12,Democratic,"Johnston, Christopher B.",103,000180
+FRANKLIN,Ottawa Precinct 6,Kansas Senate,12,Republican,"Tyson, Caryn",175,000180
+FRANKLIN,Ottawa Precinct 7,Kansas Senate,12,Democratic,"Johnston, Christopher B.",312,000190
+FRANKLIN,Ottawa Precinct 7,Kansas Senate,12,Republican,"Tyson, Caryn",419,000190
+FRANKLIN,Ottawa Precinct 8,Kansas Senate,12,Democratic,"Johnston, Christopher B.",304,00020A
+FRANKLIN,Ottawa Precinct 8,Kansas Senate,12,Republican,"Tyson, Caryn",574,00020A
+FRANKLIN,Peoria Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",76,000210
+FRANKLIN,Peoria Township,Kansas Senate,12,Republican,"Tyson, Caryn",245,000210
+FRANKLIN,Pomona Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",99,000220
+FRANKLIN,Pomona Township,Kansas Senate,12,Republican,"Tyson, Caryn",274,000220
+FRANKLIN,Pottawatomie Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",68,000230
+FRANKLIN,Pottawatomie Township,Kansas Senate,12,Republican,"Tyson, Caryn",211,000230
+FRANKLIN,Richmond Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",87,000240
+FRANKLIN,Richmond Township,Kansas Senate,12,Republican,"Tyson, Caryn",223,000240
+FRANKLIN,Williamsburg Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",76,000250
+FRANKLIN,Williamsburg Township,Kansas Senate,12,Republican,"Tyson, Caryn",169,000250
+FRANKLIN,Ottawa Precinct 4,Kansas Senate,12,Democratic,"Johnston, Christopher B.",308,140010
+FRANKLIN,Ottawa Precinct 4,Kansas Senate,12,Republican,"Tyson, Caryn",549,140010
+FRANKLIN,Ottawa Exclave Airport,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,900010
+FRANKLIN,Ottawa Exclave Airport,Kansas Senate,12,Republican,"Tyson, Caryn",0,900010
+FRANKLIN,Appanoose Township,President / Vice President,,independent,"Stein, Jill",3,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"McMullin, Evan",2,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+FRANKLIN,Appanoose Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",32,000010
+FRANKLIN,Appanoose Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000010
+FRANKLIN,Appanoose Township,President / Vice President,,Republican,"Trump, Donald J.",93,000010
+FRANKLIN,Centropolis North Township,President / Vice President,,independent,"Stein, Jill",5,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Castle, Darrell L",1,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"McMullin, Evan",3,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,Libertarian,"Johnson, Gary",14,000020
+FRANKLIN,Centropolis North Township,President / Vice President,,Republican,"Trump, Donald J.",164,000020
+FRANKLIN,Centropolis South Township,President / Vice President,,independent,"Stein, Jill",5,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"McMullin, Evan",2,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",52,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000030
+FRANKLIN,Centropolis South Township,President / Vice President,,Republican,"Trump, Donald J.",181,000030
+FRANKLIN,Cutler Township,President / Vice President,,independent,"Stein, Jill",7,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"McMullin, Evan",4,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+FRANKLIN,Cutler Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",82,000040
+FRANKLIN,Cutler Township,President / Vice President,,Libertarian,"Johnson, Gary",20,000040
+FRANKLIN,Cutler Township,President / Vice President,,Republican,"Trump, Donald J.",286,000040
+FRANKLIN,Franklin Township,President / Vice President,,independent,"Stein, Jill",30,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"McMullin, Evan",5,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+FRANKLIN,Franklin Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",351,000050
+FRANKLIN,Franklin Township,President / Vice President,,Libertarian,"Johnson, Gary",69,000050
+FRANKLIN,Franklin Township,President / Vice President,,Republican,"Trump, Donald J.",881,000050
+FRANKLIN,Greenwood Township,President / Vice President,,independent,"Stein, Jill",1,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"McMullin, Evan",1,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+FRANKLIN,Greenwood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000060
+FRANKLIN,Greenwood Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000060
+FRANKLIN,Greenwood Township,President / Vice President,,Republican,"Trump, Donald J.",176,000060
+FRANKLIN,Harrison Township,President / Vice President,,independent,"Stein, Jill",6,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Castle, Darrell L",2,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+FRANKLIN,Harrison Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",46,000070
+FRANKLIN,Harrison Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000070
+FRANKLIN,Harrison Township,President / Vice President,,Republican,"Trump, Donald J.",214,000070
+FRANKLIN,Hayes Township,President / Vice President,,independent,"Stein, Jill",2,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+FRANKLIN,Hayes Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",62,000080
+FRANKLIN,Hayes Township,President / Vice President,,Libertarian,"Johnson, Gary",16,000080
+FRANKLIN,Hayes Township,President / Vice President,,Republican,"Trump, Donald J.",144,000080
+FRANKLIN,Homewood Township,President / Vice President,,independent,"Stein, Jill",6,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"McMullin, Evan",2,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+FRANKLIN,Homewood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",83,000090
+FRANKLIN,Homewood Township,President / Vice President,,Libertarian,"Johnson, Gary",18,000090
+FRANKLIN,Homewood Township,President / Vice President,,Republican,"Trump, Donald J.",180,000090
+FRANKLIN,Lincoln Township,President / Vice President,,independent,"Stein, Jill",11,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",1,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+FRANKLIN,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",123,000100
+FRANKLIN,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",20,000100
+FRANKLIN,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",359,000100
+FRANKLIN,Ohio Township,President / Vice President,,independent,"Stein, Jill",15,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+FRANKLIN,Ohio Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",90,000110
+FRANKLIN,Ohio Township,President / Vice President,,Libertarian,"Johnson, Gary",16,000110
+FRANKLIN,Ohio Township,President / Vice President,,Republican,"Trump, Donald J.",280,000110
+FRANKLIN,Ottawa Township,President / Vice President,,independent,"Stein, Jill",9,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Castle, Darrell L",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Giordani, Rocky",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Hedges, James A",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Hoefling, Tom",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Kahn, Lynn",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"La Riva, Gloria",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Maturen, Michael A",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"McMullin, Evan",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Perry, Darryl",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Schriner, Joe C",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Smith, Mike",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Sood, Ajay",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Sterling, Shawna",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",93,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,Libertarian,"Johnson, Gary",23,00012A
+FRANKLIN,Ottawa Township,President / Vice President,,Republican,"Trump, Donald J.",316,00012A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,independent,"Stein, Jill",7,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",117,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",19,00013A
+FRANKLIN,Ottawa Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",268,00013A
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,independent,"Stein, Jill",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Basiago, Andrew D.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Castle, Darrell L",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Giordani, Rocky",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Hedges, James A",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Hoefling, Tom",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Kahn, Lynn",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"La Riva, Gloria",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Levinson, Michael S.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Maturen, Michael A",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"McMullin, Evan",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Moorehead, Monica G.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Perry, Darryl",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Schoenke, Marshall R.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Schriner, Joe C",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Smith, Mike",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Sood, Ajay",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Sterling, Shawna",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Valdivia, Anthony J",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,Libertarian,"Johnson, Gary",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),President / Vice President,,Republican,"Trump, Donald J.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,independent,"Stein, Jill",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Basiago, Andrew D.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Castle, Darrell L",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Giordani, Rocky",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Hedges, James A",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Hoefling, Tom",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Kahn, Lynn",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"La Riva, Gloria",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Levinson, Michael S.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Maturen, Michael A",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"McMullin, Evan",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Moorehead, Monica G.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Perry, Darryl",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Schoenke, Marshall R.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Schriner, Joe C",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Smith, Mike",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Sood, Ajay",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Sterling, Shawna",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Valdivia, Anthony J",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,Libertarian,"Johnson, Gary",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),President / Vice President,,Republican,"Trump, Donald J.",0,00013C
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,independent,"Stein, Jill",16,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"McMullin, Evan",6,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",132,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",19,000140
+FRANKLIN,Ottawa Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",312,000140
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,independent,"Stein, Jill",6,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"McMullin, Evan",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",85,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",15,000150
+FRANKLIN,Ottawa Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",160,000150
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,independent,"Stein, Jill",11,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Hedges, James A",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"McMullin, Evan",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Perry, Darryl",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Smith, Mike",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Sood, Ajay",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,Democratic,"Clinton, Hillary Rodham",119,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,Libertarian,"Johnson, Gary",23,000180
+FRANKLIN,Ottawa Precinct 6,President / Vice President,,Republican,"Trump, Donald J.",210,000180
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,independent,"Stein, Jill",25,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Hedges, James A",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"McMullin, Evan",9,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Perry, Darryl",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Smith, Mike",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Sood, Ajay",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,Democratic,"Clinton, Hillary Rodham",302,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,Libertarian,"Johnson, Gary",44,000190
+FRANKLIN,Ottawa Precinct 7,President / Vice President,,Republican,"Trump, Donald J.",493,000190
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,independent,"Stein, Jill",21,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Castle, Darrell L",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Giordani, Rocky",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Hedges, James A",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Hoefling, Tom",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Kahn, Lynn",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"La Riva, Gloria",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Levinson, Michael S.",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Maturen, Michael A",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"McMullin, Evan",6,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Perry, Darryl",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Schriner, Joe C",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Smith, Mike",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Sood, Ajay",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Sterling, Shawna",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,Democratic,"Clinton, Hillary Rodham",363,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,Libertarian,"Johnson, Gary",47,00020A
+FRANKLIN,Ottawa Precinct 8,President / Vice President,,Republican,"Trump, Donald J.",674,00020A
+FRANKLIN,Peoria Township,President / Vice President,,independent,"Stein, Jill",5,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Castle, Darrell L",2,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"McMullin, Evan",2,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+FRANKLIN,Peoria Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",67,000210
+FRANKLIN,Peoria Township,President / Vice President,,Libertarian,"Johnson, Gary",32,000210
+FRANKLIN,Peoria Township,President / Vice President,,Republican,"Trump, Donald J.",250,000210
+FRANKLIN,Pomona Township,President / Vice President,,independent,"Stein, Jill",11,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+FRANKLIN,Pomona Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",91,000220
+FRANKLIN,Pomona Township,President / Vice President,,Libertarian,"Johnson, Gary",22,000220
+FRANKLIN,Pomona Township,President / Vice President,,Republican,"Trump, Donald J.",312,000220
+FRANKLIN,Pottawatomie Township,President / Vice President,,independent,"Stein, Jill",5,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",65,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000230
+FRANKLIN,Pottawatomie Township,President / Vice President,,Republican,"Trump, Donald J.",212,000230
+FRANKLIN,Richmond Township,President / Vice President,,independent,"Stein, Jill",8,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+FRANKLIN,Richmond Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",81,000240
+FRANKLIN,Richmond Township,President / Vice President,,Libertarian,"Johnson, Gary",22,000240
+FRANKLIN,Richmond Township,President / Vice President,,Republican,"Trump, Donald J.",242,000240
+FRANKLIN,Williamsburg Township,President / Vice President,,independent,"Stein, Jill",10,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Hedges, James A",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"McMullin, Evan",1,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Perry, Darryl",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Smith, Mike",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Sood, Ajay",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",63,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,Libertarian,"Johnson, Gary",14,000250
+FRANKLIN,Williamsburg Township,President / Vice President,,Republican,"Trump, Donald J.",187,000250
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,independent,"Stein, Jill",40,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"McMullin, Evan",6,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",321,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",68,140010
+FRANKLIN,Ottawa Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",591,140010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,independent,"Stein, Jill",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Hedges, James A",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"McMullin, Evan",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Perry, Darryl",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Smith, Mike",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Sood, Ajay",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+FRANKLIN,Ottawa Exclave Airport,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+FRANKLIN,Appanoose Township,United States House of Representatives,2,Democratic,"Potter, Britani",31,000010
+FRANKLIN,Appanoose Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000010
+FRANKLIN,Appanoose Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",94,000010
+FRANKLIN,Centropolis North Township,United States House of Representatives,2,Democratic,"Potter, Britani",51,000020
+FRANKLIN,Centropolis North Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000020
+FRANKLIN,Centropolis North Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",153,000020
+FRANKLIN,Centropolis South Township,United States House of Representatives,2,Democratic,"Potter, Britani",43,000030
+FRANKLIN,Centropolis South Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",19,000030
+FRANKLIN,Centropolis South Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",187,000030
+FRANKLIN,Cutler Township,United States House of Representatives,2,Democratic,"Potter, Britani",69,000040
+FRANKLIN,Cutler Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",24,000040
+FRANKLIN,Cutler Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",297,000040
+FRANKLIN,Franklin Township,United States House of Representatives,2,Democratic,"Potter, Britani",346,000050
+FRANKLIN,Franklin Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",91,000050
+FRANKLIN,Franklin Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",892,000050
+FRANKLIN,Greenwood Township,United States House of Representatives,2,Democratic,"Potter, Britani",43,000060
+FRANKLIN,Greenwood Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000060
+FRANKLIN,Greenwood Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",172,000060
+FRANKLIN,Harrison Township,United States House of Representatives,2,Democratic,"Potter, Britani",50,000070
+FRANKLIN,Harrison Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000070
+FRANKLIN,Harrison Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",220,000070
+FRANKLIN,Hayes Township,United States House of Representatives,2,Democratic,"Potter, Britani",43,000080
+FRANKLIN,Hayes Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000080
+FRANKLIN,Hayes Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",168,000080
+FRANKLIN,Homewood Township,United States House of Representatives,2,Democratic,"Potter, Britani",95,000090
+FRANKLIN,Homewood Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000090
+FRANKLIN,Homewood Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",177,000090
+FRANKLIN,Lincoln Township,United States House of Representatives,2,Democratic,"Potter, Britani",120,000100
+FRANKLIN,Lincoln Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",28,000100
+FRANKLIN,Lincoln Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",363,000100
+FRANKLIN,Ohio Township,United States House of Representatives,2,Democratic,"Potter, Britani",93,000110
+FRANKLIN,Ohio Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",22,000110
+FRANKLIN,Ohio Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",290,000110
+FRANKLIN,Ottawa Township,United States House of Representatives,2,Democratic,"Potter, Britani",106,00012A
+FRANKLIN,Ottawa Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,00012A
+FRANKLIN,Ottawa Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",319,00012A
+FRANKLIN,Ottawa Precinct 1,United States House of Representatives,2,Democratic,"Potter, Britani",139,00013A
+FRANKLIN,Ottawa Precinct 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",19,00013A
+FRANKLIN,Ottawa Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",255,00013A
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States House of Representatives,2,Democratic,"Potter, Britani",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States House of Representatives,2,Democratic,"Potter, Britani",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00013C
+FRANKLIN,Ottawa Precinct 2,United States House of Representatives,2,Democratic,"Potter, Britani",155,000140
+FRANKLIN,Ottawa Precinct 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",32,000140
+FRANKLIN,Ottawa Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",283,000140
+FRANKLIN,Ottawa Precinct 3,United States House of Representatives,2,Democratic,"Potter, Britani",96,000150
+FRANKLIN,Ottawa Precinct 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",11,000150
+FRANKLIN,Ottawa Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",156,000150
+FRANKLIN,Ottawa Precinct 6,United States House of Representatives,2,Democratic,"Potter, Britani",120,000180
+FRANKLIN,Ottawa Precinct 6,United States House of Representatives,2,Libertarian,"Bales, James Houston",24,000180
+FRANKLIN,Ottawa Precinct 6,United States House of Representatives,2,Republican,"Jenkins, Lynn",219,000180
+FRANKLIN,Ottawa Precinct 7,United States House of Representatives,2,Democratic,"Potter, Britani",337,000190
+FRANKLIN,Ottawa Precinct 7,United States House of Representatives,2,Libertarian,"Bales, James Houston",55,000190
+FRANKLIN,Ottawa Precinct 7,United States House of Representatives,2,Republican,"Jenkins, Lynn",460,000190
+FRANKLIN,Ottawa Precinct 8,United States House of Representatives,2,Democratic,"Potter, Britani",391,00020A
+FRANKLIN,Ottawa Precinct 8,United States House of Representatives,2,Libertarian,"Bales, James Houston",48,00020A
+FRANKLIN,Ottawa Precinct 8,United States House of Representatives,2,Republican,"Jenkins, Lynn",668,00020A
+FRANKLIN,Peoria Township,United States House of Representatives,2,Democratic,"Potter, Britani",82,000210
+FRANKLIN,Peoria Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",17,000210
+FRANKLIN,Peoria Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",254,000210
+FRANKLIN,Pomona Township,United States House of Representatives,2,Democratic,"Potter, Britani",104,000220
+FRANKLIN,Pomona Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",23,000220
+FRANKLIN,Pomona Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",306,000220
+FRANKLIN,Pottawatomie Township,United States House of Representatives,2,Democratic,"Potter, Britani",73,000230
+FRANKLIN,Pottawatomie Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000230
+FRANKLIN,Pottawatomie Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",210,000230
+FRANKLIN,Richmond Township,United States House of Representatives,2,Democratic,"Potter, Britani",89,000240
+FRANKLIN,Richmond Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",21,000240
+FRANKLIN,Richmond Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",245,000240
+FRANKLIN,Williamsburg Township,United States House of Representatives,2,Democratic,"Potter, Britani",80,000250
+FRANKLIN,Williamsburg Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",18,000250
+FRANKLIN,Williamsburg Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",175,000250
+FRANKLIN,Ottawa Precinct 4,United States House of Representatives,2,Democratic,"Potter, Britani",337,140010
+FRANKLIN,Ottawa Precinct 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",63,140010
+FRANKLIN,Ottawa Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",607,140010
+FRANKLIN,Ottawa Exclave Airport,United States House of Representatives,2,Democratic,"Potter, Britani",0,900010
+FRANKLIN,Ottawa Exclave Airport,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900010
+FRANKLIN,Ottawa Exclave Airport,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+FRANKLIN,Appanoose Township,United States Senate,,write - in,"Smith, DJ",0,000010
+FRANKLIN,Appanoose Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000010
+FRANKLIN,Appanoose Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000010
+FRANKLIN,Appanoose Township,United States Senate,,Republican,"Moran, Jerry",101,000010
+FRANKLIN,Centropolis North Township,United States Senate,,write - in,"Smith, DJ",0,000020
+FRANKLIN,Centropolis North Township,United States Senate,,Democratic,"Wiesner, Patrick",39,000020
+FRANKLIN,Centropolis North Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000020
+FRANKLIN,Centropolis North Township,United States Senate,,Republican,"Moran, Jerry",164,000020
+FRANKLIN,Centropolis South Township,United States Senate,,write - in,"Smith, DJ",0,000030
+FRANKLIN,Centropolis South Township,United States Senate,,Democratic,"Wiesner, Patrick",46,000030
+FRANKLIN,Centropolis South Township,United States Senate,,Libertarian,"Garrard, Robert D.",18,000030
+FRANKLIN,Centropolis South Township,United States Senate,,Republican,"Moran, Jerry",184,000030
+FRANKLIN,Cutler Township,United States Senate,,write - in,"Smith, DJ",0,000040
+FRANKLIN,Cutler Township,United States Senate,,Democratic,"Wiesner, Patrick",79,000040
+FRANKLIN,Cutler Township,United States Senate,,Libertarian,"Garrard, Robert D.",20,000040
+FRANKLIN,Cutler Township,United States Senate,,Republican,"Moran, Jerry",290,000040
+FRANKLIN,Franklin Township,United States Senate,,write - in,"Smith, DJ",0,000050
+FRANKLIN,Franklin Township,United States Senate,,Democratic,"Wiesner, Patrick",345,000050
+FRANKLIN,Franklin Township,United States Senate,,Libertarian,"Garrard, Robert D.",126,000050
+FRANKLIN,Franklin Township,United States Senate,,Republican,"Moran, Jerry",864,000050
+FRANKLIN,Greenwood Township,United States Senate,,write - in,"Smith, DJ",0,000060
+FRANKLIN,Greenwood Township,United States Senate,,Democratic,"Wiesner, Patrick",44,000060
+FRANKLIN,Greenwood Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000060
+FRANKLIN,Greenwood Township,United States Senate,,Republican,"Moran, Jerry",171,000060
+FRANKLIN,Harrison Township,United States Senate,,write - in,"Smith, DJ",0,000070
+FRANKLIN,Harrison Township,United States Senate,,Democratic,"Wiesner, Patrick",48,000070
+FRANKLIN,Harrison Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000070
+FRANKLIN,Harrison Township,United States Senate,,Republican,"Moran, Jerry",225,000070
+FRANKLIN,Hayes Township,United States Senate,,write - in,"Smith, DJ",0,000080
+FRANKLIN,Hayes Township,United States Senate,,Democratic,"Wiesner, Patrick",46,000080
+FRANKLIN,Hayes Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000080
+FRANKLIN,Hayes Township,United States Senate,,Republican,"Moran, Jerry",165,000080
+FRANKLIN,Homewood Township,United States Senate,,write - in,"Smith, DJ",0,000090
+FRANKLIN,Homewood Township,United States Senate,,Democratic,"Wiesner, Patrick",80,000090
+FRANKLIN,Homewood Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000090
+FRANKLIN,Homewood Township,United States Senate,,Republican,"Moran, Jerry",195,000090
+FRANKLIN,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000100
+FRANKLIN,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",108,000100
+FRANKLIN,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",27,000100
+FRANKLIN,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",375,000100
+FRANKLIN,Ohio Township,United States Senate,,write - in,"Smith, DJ",0,000110
+FRANKLIN,Ohio Township,United States Senate,,Democratic,"Wiesner, Patrick",80,000110
+FRANKLIN,Ohio Township,United States Senate,,Libertarian,"Garrard, Robert D.",22,000110
+FRANKLIN,Ohio Township,United States Senate,,Republican,"Moran, Jerry",296,000110
+FRANKLIN,Ottawa Township,United States Senate,,write - in,"Smith, DJ",0,00012A
+FRANKLIN,Ottawa Township,United States Senate,,Democratic,"Wiesner, Patrick",75,00012A
+FRANKLIN,Ottawa Township,United States Senate,,Libertarian,"Garrard, Robert D.",23,00012A
+FRANKLIN,Ottawa Township,United States Senate,,Republican,"Moran, Jerry",335,00012A
+FRANKLIN,Ottawa Precinct 1,United States Senate,,write - in,"Smith, DJ",0,00013A
+FRANKLIN,Ottawa Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",108,00013A
+FRANKLIN,Ottawa Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",27,00013A
+FRANKLIN,Ottawa Precinct 1,United States Senate,,Republican,"Moran, Jerry",268,00013A
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States Senate,,write - in,"Smith, DJ",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States Senate,,Democratic,"Wiesner, Patrick",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States Senate,,Libertarian,"Garrard, Robert D.",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (A),United States Senate,,Republican,"Moran, Jerry",0,00013B
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States Senate,,write - in,"Smith, DJ",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States Senate,,Democratic,"Wiesner, Patrick",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States Senate,,Libertarian,"Garrard, Robert D.",0,00013C
+FRANKLIN,Ottawa Precinct 1 Exclave (B),United States Senate,,Republican,"Moran, Jerry",0,00013C
+FRANKLIN,Ottawa Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000140
+FRANKLIN,Ottawa Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",140,000140
+FRANKLIN,Ottawa Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",42,000140
+FRANKLIN,Ottawa Precinct 2,United States Senate,,Republican,"Moran, Jerry",295,000140
+FRANKLIN,Ottawa Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000150
+FRANKLIN,Ottawa Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",80,000150
+FRANKLIN,Ottawa Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",18,000150
+FRANKLIN,Ottawa Precinct 3,United States Senate,,Republican,"Moran, Jerry",159,000150
+FRANKLIN,Ottawa Precinct 6,United States Senate,,write - in,"Smith, DJ",0,000180
+FRANKLIN,Ottawa Precinct 6,United States Senate,,Democratic,"Wiesner, Patrick",116,000180
+FRANKLIN,Ottawa Precinct 6,United States Senate,,Libertarian,"Garrard, Robert D.",21,000180
+FRANKLIN,Ottawa Precinct 6,United States Senate,,Republican,"Moran, Jerry",225,000180
+FRANKLIN,Ottawa Precinct 7,United States Senate,,write - in,"Smith, DJ",0,000190
+FRANKLIN,Ottawa Precinct 7,United States Senate,,Democratic,"Wiesner, Patrick",268,000190
+FRANKLIN,Ottawa Precinct 7,United States Senate,,Libertarian,"Garrard, Robert D.",71,000190
+FRANKLIN,Ottawa Precinct 7,United States Senate,,Republican,"Moran, Jerry",517,000190
+FRANKLIN,Ottawa Precinct 8,United States Senate,,write - in,"Smith, DJ",0,00020A
+FRANKLIN,Ottawa Precinct 8,United States Senate,,Democratic,"Wiesner, Patrick",330,00020A
+FRANKLIN,Ottawa Precinct 8,United States Senate,,Libertarian,"Garrard, Robert D.",62,00020A
+FRANKLIN,Ottawa Precinct 8,United States Senate,,Republican,"Moran, Jerry",712,00020A
+FRANKLIN,Peoria Township,United States Senate,,write - in,"Smith, DJ",0,000210
+FRANKLIN,Peoria Township,United States Senate,,Democratic,"Wiesner, Patrick",70,000210
+FRANKLIN,Peoria Township,United States Senate,,Libertarian,"Garrard, Robert D.",28,000210
+FRANKLIN,Peoria Township,United States Senate,,Republican,"Moran, Jerry",256,000210
+FRANKLIN,Pomona Township,United States Senate,,write - in,"Smith, DJ",0,000220
+FRANKLIN,Pomona Township,United States Senate,,Democratic,"Wiesner, Patrick",97,000220
+FRANKLIN,Pomona Township,United States Senate,,Libertarian,"Garrard, Robert D.",21,000220
+FRANKLIN,Pomona Township,United States Senate,,Republican,"Moran, Jerry",311,000220
+FRANKLIN,Pottawatomie Township,United States Senate,,write - in,"Smith, DJ",1,000230
+FRANKLIN,Pottawatomie Township,United States Senate,,Democratic,"Wiesner, Patrick",62,000230
+FRANKLIN,Pottawatomie Township,United States Senate,,Libertarian,"Garrard, Robert D.",17,000230
+FRANKLIN,Pottawatomie Township,United States Senate,,Republican,"Moran, Jerry",211,000230
+FRANKLIN,Richmond Township,United States Senate,,write - in,"Smith, DJ",0,000240
+FRANKLIN,Richmond Township,United States Senate,,Democratic,"Wiesner, Patrick",80,000240
+FRANKLIN,Richmond Township,United States Senate,,Libertarian,"Garrard, Robert D.",32,000240
+FRANKLIN,Richmond Township,United States Senate,,Republican,"Moran, Jerry",240,000240
+FRANKLIN,Williamsburg Township,United States Senate,,write - in,"Smith, DJ",0,000250
+FRANKLIN,Williamsburg Township,United States Senate,,Democratic,"Wiesner, Patrick",65,000250
+FRANKLIN,Williamsburg Township,United States Senate,,Libertarian,"Garrard, Robert D.",19,000250
+FRANKLIN,Williamsburg Township,United States Senate,,Republican,"Moran, Jerry",191,000250
+FRANKLIN,Ottawa Precinct 4,United States Senate,,write - in,"Smith, DJ",0,140010
+FRANKLIN,Ottawa Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",300,140010
+FRANKLIN,Ottawa Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",75,140010
+FRANKLIN,Ottawa Precinct 4,United States Senate,,Republican,"Moran, Jerry",644,140010
+FRANKLIN,Ottawa Exclave Airport,United States Senate,,write - in,"Smith, DJ",0,900010
+FRANKLIN,Ottawa Exclave Airport,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+FRANKLIN,Ottawa Exclave Airport,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+FRANKLIN,Ottawa Exclave Airport,United States Senate,,Republican,"Moran, Jerry",0,900010

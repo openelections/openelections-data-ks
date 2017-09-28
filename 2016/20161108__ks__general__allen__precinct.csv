@@ -1,396 +1,1005 @@
-county,precinct,office,district,party,candidate,votes
-Allen,0001 Carlyle Twp,President,,DEM,Clinton/Kaine,35
-Allen,0001 Carlyle Twp,President,,LIB,Johnson/Weld,4
-Allen,0001 Carlyle Twp,President,,IND,Stein/Baraka,3
-Allen,0001 Carlyle Twp,President,,REP,Trump/Pence,112
-Allen,0001 Carlyle Twp,President,,,WRITE-IN,3
-Allen,0001 Carlyle Twp,U.S. Senate,,LIB,Robert D. Garrard,5
-Allen,0001 Carlyle Twp,U.S. Senate,,REP,Jerry Moran,128
-Allen,0001 Carlyle Twp,U.S. Senate,,DEM,Patrick Wiesner,25
-Allen,0001 Carlyle Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0001 Carlyle Twp,U.S. House,2,LIB,James Houston Bales,5
-Allen,0001 Carlyle Twp,U.S. House,2,REP,Lynn Jenkins,125
-Allen,0001 Carlyle Twp,U.S. House,2,DEM,Britani Potter,27
-Allen,0001 Carlyle Twp,U.S. House,2,,WRITE-IN,0
-Allen,0001 Carlyle Twp,State Senate,12,DEM,Christopher B. Johnston,20
-Allen,0001 Carlyle Twp,State Senate,12,REP,Caryn Tyson,108
-Allen,0001 Carlyle Twp,State Senate,12,,WRITE-IN,25
-Allen,0001 Carlyle Twp,State House,9,LIB,Patrick McMurray,21
-Allen,0001 Carlyle Twp,State House,9,REP,Kent L. Thompson,133
-Allen,0001 Carlyle Twp,State House,9,,WRITE-IN,1
-Allen,0002 Cottage Grove Twp,President,,DEM,Clinton/Kaine,19
-Allen,0002 Cottage Grove Twp,President,,LIB,Johnson/Weld,0
-Allen,0002 Cottage Grove Twp,President,,IND,Stein/Baraka,0
-Allen,0002 Cottage Grove Twp,President,,REP,Trump/Pence,110
-Allen,0002 Cottage Grove Twp,President,,,WRITE-IN,1
-Allen,0002 Cottage Grove Twp,U.S. Senate,,LIB,Robert D. Garrard,4
-Allen,0002 Cottage Grove Twp,U.S. Senate,,REP,Jerry Moran,110
-Allen,0002 Cottage Grove Twp,U.S. Senate,,DEM,Patrick Wiesner,14
-Allen,0002 Cottage Grove Twp,U.S. Senate,,,WRITE-IN,1
-Allen,0002 Cottage Grove Twp,U.S. House,2,LIB,James Houston Bales,8
-Allen,0002 Cottage Grove Twp,U.S. House,2,REP,Lynn Jenkins,107
-Allen,0002 Cottage Grove Twp,U.S. House,2,DEM,Britani Potter,14
-Allen,0002 Cottage Grove Twp,U.S. House,2,,WRITE-IN,0
-Allen,0002 Cottage Grove Twp,State Senate,12,DEM,Christopher B. Johnston,21
-Allen,0002 Cottage Grove Twp,State Senate,12,REP,Caryn Tyson,104
-Allen,0002 Cottage Grove Twp,State Senate,12,,WRITE-IN,2
-Allen,0002 Cottage Grove Twp,State House,9,LIB,Patrick McMurray,17
-Allen,0002 Cottage Grove Twp,State House,9,REP,Kent L. Thompson,111
-Allen,0002 Cottage Grove Twp,State House,9,,WRITE-IN,0
-Allen,0003 Deer Creek Twp,President,,DEM,Clinton/Kaine,9
-Allen,0003 Deer Creek Twp,President,,LIB,Johnson/Weld,1
-Allen,0003 Deer Creek Twp,President,,IND,Stein/Baraka,1
-Allen,0003 Deer Creek Twp,President,,REP,Trump/Pence,46
-Allen,0003 Deer Creek Twp,President,,,WRITE-IN,1
-Allen,0003 Deer Creek Twp,U.S. Senate,,LIB,Robert D. Garrard,8
-Allen,0003 Deer Creek Twp,U.S. Senate,,REP,Jerry Moran,46
-Allen,0003 Deer Creek Twp,U.S. Senate,,DEM,Patrick Wiesner,8
-Allen,0003 Deer Creek Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0003 Deer Creek Twp,U.S. House,2,LIB,James Houston Bales,3
-Allen,0003 Deer Creek Twp,U.S. House,2,REP,Lynn Jenkins,45
-Allen,0003 Deer Creek Twp,U.S. House,2,DEM,Britani Potter,11
-Allen,0003 Deer Creek Twp,U.S. House,2,,WRITE-IN,2
-Allen,0003 Deer Creek Twp,State Senate,12,DEM,Christopher B. Johnston,9
-Allen,0003 Deer Creek Twp,State Senate,12,REP,Caryn Tyson,38
-Allen,0003 Deer Creek Twp,State Senate,12,,WRITE-IN,12
-Allen,0003 Deer Creek Twp,State House,9,LIB,Patrick McMurray,13
-Allen,0003 Deer Creek Twp,State House,9,REP,Kent L. Thompson,49
-Allen,0003 Deer Creek Twp,State House,9,,WRITE-IN,1
-Allen,0004 E Elm Twp,President,,DEM,Clinton/Kaine,58
-Allen,0004 E Elm Twp,President,,LIB,Johnson/Weld,13
-Allen,0004 E Elm Twp,President,,IND,Stein/Baraka,4
-Allen,0004 E Elm Twp,President,,REP,Trump/Pence,197
-Allen,0004 E Elm Twp,President,,,WRITE-IN,5
-Allen,0004 E Elm Twp,U.S. Senate,,LIB,Robert D. Garrard,13
-Allen,0004 E Elm Twp,U.S. Senate,,REP,Jerry Moran,199
-Allen,0004 E Elm Twp,U.S. Senate,,DEM,Patrick Wiesner,54
-Allen,0004 E Elm Twp,U.S. Senate,,,WRITE-IN,2
-Allen,0004 E Elm Twp,U.S. House,2,LIB,James Houston Bales,15
-Allen,0004 E Elm Twp,U.S. House,2,REP,Lynn Jenkins,196
-Allen,0004 E Elm Twp,U.S. House,2,DEM,Britani Potter,57
-Allen,0004 E Elm Twp,U.S. House,2,,WRITE-IN,3
-Allen,0004 E Elm Twp,State Senate,12,DEM,Christopher B. Johnston,54
-Allen,0004 E Elm Twp,State Senate,12,REP,Caryn Tyson,174
-Allen,0004 E Elm Twp,State Senate,12,,WRITE-IN,33
-Allen,0004 E Elm Twp,State House,9,LIB,Patrick McMurray,46
-Allen,0004 E Elm Twp,State House,9,REP,Kent L. Thompson,225
-Allen,0004 E Elm Twp,State House,9,,WRITE-IN,0
-Allen,0005 W Elm Twp,President,,DEM,Clinton/Kaine,124
-Allen,0005 W Elm Twp,President,,LIB,Johnson/Weld,22
-Allen,0005 W Elm Twp,President,,IND,Stein/Baraka,8
-Allen,0005 W Elm Twp,President,,REP,Trump/Pence,351
-Allen,0005 W Elm Twp,President,,,WRITE-IN,4
-Allen,0005 W Elm Twp,U.S. Senate,,LIB,Robert D. Garrard,31
-Allen,0005 W Elm Twp,U.S. Senate,,REP,Jerry Moran,367
-Allen,0005 W Elm Twp,U.S. Senate,,DEM,Patrick Wiesner,98
-Allen,0005 W Elm Twp,U.S. Senate,,,WRITE-IN,2
-Allen,0005 W Elm Twp,U.S. House,2,LIB,James Houston Bales,21
-Allen,0005 W Elm Twp,U.S. House,2,REP,Lynn Jenkins,359
-Allen,0005 W Elm Twp,U.S. House,2,DEM,Britani Potter,116
-Allen,0005 W Elm Twp,U.S. House,2,,WRITE-IN,3
-Allen,0005 W Elm Twp,State Senate,12,DEM,Christopher B. Johnston,86
-Allen,0005 W Elm Twp,State Senate,12,REP,Caryn Tyson,304
-Allen,0005 W Elm Twp,State Senate,12,,WRITE-IN,97
-Allen,0005 W Elm Twp,State House,9,LIB,Patrick McMurray,102
-Allen,0005 W Elm Twp,State House,9,REP,Kent L. Thompson,397
-Allen,0005 W Elm Twp,State House,9,,WRITE-IN,0
-Allen,0006 N Elsmore Twp,President,,DEM,Clinton/Kaine,23
-Allen,0006 N Elsmore Twp,President,,LIB,Johnson/Weld,6
-Allen,0006 N Elsmore Twp,President,,IND,Stein/Baraka,0
-Allen,0006 N Elsmore Twp,President,,REP,Trump/Pence,63
-Allen,0006 N Elsmore Twp,President,,,WRITE-IN,1
-Allen,0006 N Elsmore Twp,U.S. Senate,,LIB,Robert D. Garrard,7
-Allen,0006 N Elsmore Twp,U.S. Senate,,REP,Jerry Moran,77
-Allen,0006 N Elsmore Twp,U.S. Senate,,DEM,Patrick Wiesner,10
-Allen,0006 N Elsmore Twp,U.S. Senate,,,WRITE-IN,1
-Allen,0006 N Elsmore Twp,U.S. House,2,LIB,James Houston Bales,4
-Allen,0006 N Elsmore Twp,U.S. House,2,REP,Lynn Jenkins,73
-Allen,0006 N Elsmore Twp,U.S. House,2,DEM,Britani Potter,15
-Allen,0006 N Elsmore Twp,U.S. House,2,,WRITE-IN,1
-Allen,0006 N Elsmore Twp,State Senate,12,DEM,Christopher B. Johnston,14
-Allen,0006 N Elsmore Twp,State Senate,12,REP,Caryn Tyson,75
-Allen,0006 N Elsmore Twp,State Senate,12,,WRITE-IN,5
-Allen,0006 N Elsmore Twp,State House,2,DEM,Adam J. Lusker Sr,52
-Allen,0006 N Elsmore Twp,State House,2,,WRITE-IN,3
-Allen,0007 S Elsmore Twp,President,,DEM,Clinton/Kaine,19
-Allen,0007 S Elsmore Twp,President,,LIB,Johnson/Weld,0
-Allen,0007 S Elsmore Twp,President,,IND,Stein/Baraka,1
-Allen,0007 S Elsmore Twp,President,,REP,Trump/Pence,47
-Allen,0007 S Elsmore Twp,President,,,WRITE-IN,5
-Allen,0007 S Elsmore Twp,U.S. Senate,,LIB,Robert D. Garrard,1
-Allen,0007 S Elsmore Twp,U.S. Senate,,REP,Jerry Moran,56
-Allen,0007 S Elsmore Twp,U.S. Senate,,DEM,Patrick Wiesner,13
-Allen,0007 S Elsmore Twp,U.S. Senate,,,WRITE-IN,2
-Allen,0007 S Elsmore Twp,U.S. House,2,LIB,James Houston Bales,2
-Allen,0007 S Elsmore Twp,U.S. House,2,REP,Lynn Jenkins,51
-Allen,0007 S Elsmore Twp,U.S. House,2,DEM,Britani Potter,18
-Allen,0007 S Elsmore Twp,U.S. House,2,,WRITE-IN,0
-Allen,0007 S Elsmore Twp,State Senate,12,DEM,Christopher B. Johnston,16
-Allen,0007 S Elsmore Twp,State Senate,12,REP,Caryn Tyson,48
-Allen,0007 S Elsmore Twp,State Senate,12,,WRITE-IN,6
-Allen,0007 S Elsmore Twp,State House,2,DEM,Adam J. Lusker Sr,42
-Allen,0007 S Elsmore Twp,State House,2,,WRITE-IN,2
-Allen,0008 Geneva Twp,President,,DEM,Clinton/Kaine,10
-Allen,0008 Geneva Twp,President,,LIB,Johnson/Weld,2
-Allen,0008 Geneva Twp,President,,IND,Stein/Baraka,2
-Allen,0008 Geneva Twp,President,,REP,Trump/Pence,44
-Allen,0008 Geneva Twp,President,,,WRITE-IN,0
-Allen,0008 Geneva Twp,U.S. Senate,,LIB,Robert D. Garrard,5
-Allen,0008 Geneva Twp,U.S. Senate,,REP,Jerry Moran,43
-Allen,0008 Geneva Twp,U.S. Senate,,DEM,Patrick Wiesner,10
-Allen,0008 Geneva Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0008 Geneva Twp,U.S. House,2,LIB,James Houston Bales,4
-Allen,0008 Geneva Twp,U.S. House,2,REP,Lynn Jenkins,45
-Allen,0008 Geneva Twp,U.S. House,2,DEM,Britani Potter,8
-Allen,0008 Geneva Twp,U.S. House,2,,WRITE-IN,1
-Allen,0008 Geneva Twp,State Senate,12,DEM,Christopher B. Johnston,9
-Allen,0008 Geneva Twp,State Senate,12,REP,Caryn Tyson,40
-Allen,0008 Geneva Twp,State Senate,12,,WRITE-IN,8
-Allen,0008 Geneva Twp,State House,9,LIB,Patrick McMurray,13
-Allen,0008 Geneva Twp,State House,9,REP,Kent L. Thompson,44
-Allen,0008 Geneva Twp,State House,9,,WRITE-IN,0
-Allen,0009 Humboldt Twp,President,,DEM,Clinton/Kaine,27
-Allen,0009 Humboldt Twp,President,,LIB,Johnson/Weld,3
-Allen,0009 Humboldt Twp,President,,IND,Stein/Baraka,3
-Allen,0009 Humboldt Twp,President,,REP,Trump/Pence,106
-Allen,0009 Humboldt Twp,President,,,WRITE-IN,0
-Allen,0009 Humboldt Twp,U.S. Senate,,LIB,Robert D. Garrard,5
-Allen,0009 Humboldt Twp,U.S. Senate,,REP,Jerry Moran,112
-Allen,0009 Humboldt Twp,U.S. Senate,,DEM,Patrick Wiesner,19
-Allen,0009 Humboldt Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0009 Humboldt Twp,U.S. House,2,LIB,James Houston Bales,8
-Allen,0009 Humboldt Twp,U.S. House,2,REP,Lynn Jenkins,107
-Allen,0009 Humboldt Twp,U.S. House,2,DEM,Britani Potter,21
-Allen,0009 Humboldt Twp,U.S. House,2,,WRITE-IN,0
-Allen,0009 Humboldt Twp,State Senate,12,DEM,Christopher B. Johnston,23
-Allen,0009 Humboldt Twp,State Senate,12,REP,Caryn Tyson,97
-Allen,0009 Humboldt Twp,State Senate,12,,WRITE-IN,10
-Allen,0009 Humboldt Twp,State House,9,LIB,Patrick McMurray,19
-Allen,0009 Humboldt Twp,State House,9,REP,Kent L. Thompson,113
-Allen,0009 Humboldt Twp,State House,9,,WRITE-IN,0
-Allen,0010 N Iola Twp,President,,DEM,Clinton/Kaine,24
-Allen,0010 N Iola Twp,President,,LIB,Johnson/Weld,7
-Allen,0010 N Iola Twp,President,,IND,Stein/Baraka,3
-Allen,0010 N Iola Twp,President,,REP,Trump/Pence,101
-Allen,0010 N Iola Twp,President,,,WRITE-IN,3
-Allen,0010 N Iola Twp,U.S. Senate,,LIB,Robert D. Garrard,12
-Allen,0010 N Iola Twp,U.S. Senate,,REP,Jerry Moran,96
-Allen,0010 N Iola Twp,U.S. Senate,,DEM,Patrick Wiesner,28
-Allen,0010 N Iola Twp,U.S. Senate,,,WRITE-IN,1
-Allen,0010 N Iola Twp,U.S. House,2,LIB,James Houston Bales,13
-Allen,0010 N Iola Twp,U.S. House,2,REP,Lynn Jenkins,102
-Allen,0010 N Iola Twp,U.S. House,2,DEM,Britani Potter,20
-Allen,0010 N Iola Twp,U.S. House,2,,WRITE-IN,1
-Allen,0010 N Iola Twp,State Senate,12,DEM,Christopher B. Johnston,24
-Allen,0010 N Iola Twp,State Senate,12,REP,Caryn Tyson,93
-Allen,0010 N Iola Twp,State Senate,12,,WRITE-IN,18
-Allen,0010 N Iola Twp,State House,9,LIB,Patrick McMurray,25
-Allen,0010 N Iola Twp,State House,9,REP,Kent L. Thompson,110
-Allen,0010 N Iola Twp,State House,9,,WRITE-IN,1
-Allen,0011 S Iola Twp,President,,DEM,Clinton/Kaine,67
-Allen,0011 S Iola Twp,President,,LIB,Johnson/Weld,5
-Allen,0011 S Iola Twp,President,,IND,Stein/Baraka,7
-Allen,0011 S Iola Twp,President,,REP,Trump/Pence,197
-Allen,0011 S Iola Twp,President,,,WRITE-IN,3
-Allen,0011 S Iola Twp,U.S. Senate,,LIB,Robert D. Garrard,9
-Allen,0011 S Iola Twp,U.S. Senate,,REP,Jerry Moran,207
-Allen,0011 S Iola Twp,U.S. Senate,,DEM,Patrick Wiesner,54
-Allen,0011 S Iola Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0011 S Iola Twp,U.S. House,2,LIB,James Houston Bales,7
-Allen,0011 S Iola Twp,U.S. House,2,REP,Lynn Jenkins,200
-Allen,0011 S Iola Twp,U.S. House,2,DEM,Britani Potter,60
-Allen,0011 S Iola Twp,U.S. House,2,,WRITE-IN,3
-Allen,0011 S Iola Twp,State Senate,12,DEM,Christopher B. Johnston,47
-Allen,0011 S Iola Twp,State Senate,12,REP,Caryn Tyson,171
-Allen,0011 S Iola Twp,State Senate,12,,WRITE-IN,47
-Allen,0011 S Iola Twp,State House,9,LIB,Patrick McMurray,40
-Allen,0011 S Iola Twp,State House,9,REP,Kent L. Thompson,232
-Allen,0011 S Iola Twp,State House,9,,WRITE-IN,0
-Allen,0012 Logan Twp,President,,DEM,Clinton/Kaine,29
-Allen,0012 Logan Twp,President,,LIB,Johnson/Weld,5
-Allen,0012 Logan Twp,President,,IND,Stein/Baraka,0
-Allen,0012 Logan Twp,President,,REP,Trump/Pence,81
-Allen,0012 Logan Twp,President,,,WRITE-IN,1
-Allen,0012 Logan Twp,U.S. Senate,,LIB,Robert D. Garrard,8
-Allen,0012 Logan Twp,U.S. Senate,,REP,Jerry Moran,85
-Allen,0012 Logan Twp,U.S. Senate,,DEM,Patrick Wiesner,17
-Allen,0012 Logan Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0012 Logan Twp,U.S. House,2,LIB,James Houston Bales,7
-Allen,0012 Logan Twp,U.S. House,2,REP,Lynn Jenkins,88
-Allen,0012 Logan Twp,U.S. House,2,DEM,Britani Potter,18
-Allen,0012 Logan Twp,U.S. House,2,,WRITE-IN,0
-Allen,0012 Logan Twp,State Senate,12,DEM,Christopher B. Johnston,18
-Allen,0012 Logan Twp,State Senate,12,REP,Caryn Tyson,86
-Allen,0012 Logan Twp,State Senate,12,,WRITE-IN,6
-Allen,0012 Logan Twp,State House,9,LIB,Patrick McMurray,33
-Allen,0012 Logan Twp,State House,9,REP,Kent L. Thompson,75
-Allen,0012 Logan Twp,State House,9,,WRITE-IN,0
-Allen,0013 Marmaton Twp,President,,DEM,Clinton/Kaine,82
-Allen,0013 Marmaton Twp,President,,LIB,Johnson/Weld,11
-Allen,0013 Marmaton Twp,President,,IND,Stein/Baraka,5
-Allen,0013 Marmaton Twp,President,,REP,Trump/Pence,265
-Allen,0013 Marmaton Twp,President,,,WRITE-IN,3
-Allen,0013 Marmaton Twp,U.S. Senate,,LIB,Robert D. Garrard,22
-Allen,0013 Marmaton Twp,U.S. Senate,,REP,Jerry Moran,270
-Allen,0013 Marmaton Twp,U.S. Senate,,DEM,Patrick Wiesner,70
-Allen,0013 Marmaton Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0013 Marmaton Twp,U.S. House,2,LIB,James Houston Bales,30
-Allen,0013 Marmaton Twp,U.S. House,2,REP,Lynn Jenkins,253
-Allen,0013 Marmaton Twp,U.S. House,2,DEM,Britani Potter,73
-Allen,0013 Marmaton Twp,U.S. House,2,,WRITE-IN,2
-Allen,0013 Marmaton Twp,State Senate,12,DEM,Christopher B. Johnston,48
-Allen,0013 Marmaton Twp,State Senate,12,REP,Caryn Tyson,198
-Allen,0013 Marmaton Twp,State Senate,12,,WRITE-IN,98
-Allen,0013 Marmaton Twp,State House,2,DEM,Adam J. Lusker Sr,253
-Allen,0013 Marmaton Twp,State House,2,,WRITE-IN,10
-Allen,0014 Osage Twp,President,,DEM,Clinton/Kaine,27
-Allen,0014 Osage Twp,President,,LIB,Johnson/Weld,7
-Allen,0014 Osage Twp,President,,IND,Stein/Baraka,1
-Allen,0014 Osage Twp,President,,REP,Trump/Pence,91
-Allen,0014 Osage Twp,President,,,WRITE-IN,0
-Allen,0014 Osage Twp,U.S. Senate,,LIB,Robert D. Garrard,3
-Allen,0014 Osage Twp,U.S. Senate,,REP,Jerry Moran,96
-Allen,0014 Osage Twp,U.S. Senate,,DEM,Patrick Wiesner,24
-Allen,0014 Osage Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0014 Osage Twp,U.S. House,2,LIB,James Houston Bales,2
-Allen,0014 Osage Twp,U.S. House,2,REP,Lynn Jenkins,90
-Allen,0014 Osage Twp,U.S. House,2,DEM,Britani Potter,29
-Allen,0014 Osage Twp,U.S. House,2,,WRITE-IN,3
-Allen,0014 Osage Twp,State Senate,12,DEM,Christopher B. Johnston,21
-Allen,0014 Osage Twp,State Senate,12,REP,Caryn Tyson,82
-Allen,0014 Osage Twp,State Senate,12,,WRITE-IN,18
-Allen,0014 Osage Twp,State House,2,DEM,Adam J. Lusker Sr,81
-Allen,0014 Osage Twp,State House,2,,WRITE-IN,5
-Allen,0015 Salem Twp,President,,DEM,Clinton/Kaine,28
-Allen,0015 Salem Twp,President,,LIB,Johnson/Weld,8
-Allen,0015 Salem Twp,President,,IND,Stein/Baraka,5
-Allen,0015 Salem Twp,President,,REP,Trump/Pence,87
-Allen,0015 Salem Twp,President,,,WRITE-IN,1
-Allen,0015 Salem Twp,U.S. Senate,,LIB,Robert D. Garrard,7
-Allen,0015 Salem Twp,U.S. Senate,,REP,Jerry Moran,89
-Allen,0015 Salem Twp,U.S. Senate,,DEM,Patrick Wiesner,35
-Allen,0015 Salem Twp,U.S. Senate,,,WRITE-IN,0
-Allen,0015 Salem Twp,U.S. House,2,LIB,James Houston Bales,8
-Allen,0015 Salem Twp,U.S. House,2,REP,Lynn Jenkins,94
-Allen,0015 Salem Twp,U.S. House,2,DEM,Britani Potter,31
-Allen,0015 Salem Twp,U.S. House,2,,WRITE-IN,0
-Allen,0015 Salem Twp,State Senate,12,DEM,Christopher B. Johnston,32
-Allen,0015 Salem Twp,State Senate,12,REP,Caryn Tyson,86
-Allen,0015 Salem Twp,State Senate,12,,WRITE-IN,10
-Allen,0015 Salem Twp,State House,9,LIB,Patrick McMurray,21
-Allen,0015 Salem Twp,State House,9,REP,Kent L. Thompson,106
-Allen,0015 Salem Twp,State House,9,,WRITE-IN,0
-Allen,0016 Humboldt Wd 1,President,,DEM,Clinton/Kaine,114
-Allen,0016 Humboldt Wd 1,President,,LIB,Johnson/Weld,19
-Allen,0016 Humboldt Wd 1,President,,IND,Stein/Baraka,13
-Allen,0016 Humboldt Wd 1,President,,REP,Trump/Pence,212
-Allen,0016 Humboldt Wd 1,President,,,WRITE-IN,5
-Allen,0016 Humboldt Wd 1,U.S. Senate,,LIB,Robert D. Garrard,30
-Allen,0016 Humboldt Wd 1,U.S. Senate,,REP,Jerry Moran,226
-Allen,0016 Humboldt Wd 1,U.S. Senate,,DEM,Patrick Wiesner,102
-Allen,0016 Humboldt Wd 1,U.S. Senate,,,WRITE-IN,0
-Allen,0016 Humboldt Wd 1,U.S. House,2,LIB,James Houston Bales,20
-Allen,0016 Humboldt Wd 1,U.S. House,2,REP,Lynn Jenkins,230
-Allen,0016 Humboldt Wd 1,U.S. House,2,DEM,Britani Potter,106
-Allen,0016 Humboldt Wd 1,U.S. House,2,,WRITE-IN,0
-Allen,0016 Humboldt Wd 1,State Senate,12,DEM,Christopher B. Johnston,119
-Allen,0016 Humboldt Wd 1,State Senate,12,REP,Caryn Tyson,204
-Allen,0016 Humboldt Wd 1,State Senate,12,,WRITE-IN,25
-Allen,0016 Humboldt Wd 1,State House,9,LIB,Patrick McMurray,90
-Allen,0016 Humboldt Wd 1,State House,9,REP,Kent L. Thompson,256
-Allen,0016 Humboldt Wd 1,State House,9,,WRITE-IN,1
-Allen,0017 Humboldt Wd 2,President,,DEM,Clinton/Kaine,122
-Allen,0017 Humboldt Wd 2,President,,LIB,Johnson/Weld,17
-Allen,0017 Humboldt Wd 2,President,,IND,Stein/Baraka,13
-Allen,0017 Humboldt Wd 2,President,,REP,Trump/Pence,253
-Allen,0017 Humboldt Wd 2,President,,,WRITE-IN,4
-Allen,0017 Humboldt Wd 2,U.S. Senate,,LIB,Robert D. Garrard,22
-Allen,0017 Humboldt Wd 2,U.S. Senate,,REP,Jerry Moran,294
-Allen,0017 Humboldt Wd 2,U.S. Senate,,DEM,Patrick Wiesner,93
-Allen,0017 Humboldt Wd 2,U.S. Senate,,,WRITE-IN,0
-Allen,0017 Humboldt Wd 2,U.S. House,2,LIB,James Houston Bales,21
-Allen,0017 Humboldt Wd 2,U.S. House,2,REP,Lynn Jenkins,295
-Allen,0017 Humboldt Wd 2,U.S. House,2,DEM,Britani Potter,90
-Allen,0017 Humboldt Wd 2,U.S. House,2,,WRITE-IN,1
-Allen,0017 Humboldt Wd 2,State Senate,12,DEM,Christopher B. Johnston,104
-Allen,0017 Humboldt Wd 2,State Senate,12,REP,Caryn Tyson,258
-Allen,0017 Humboldt Wd 2,State Senate,12,,WRITE-IN,43
-Allen,0017 Humboldt Wd 2,State House,9,LIB,Patrick McMurray,77
-Allen,0017 Humboldt Wd 2,State House,9,REP,Kent L. Thompson,327
-Allen,0017 Humboldt Wd 2,State House,9,,WRITE-IN,1
-Allen,0018 Iola Wd 1,President,,DEM,Clinton/Kaine,145
-Allen,0018 Iola Wd 1,President,,LIB,Johnson/Weld,34
-Allen,0018 Iola Wd 1,President,,IND,Stein/Baraka,10
-Allen,0018 Iola Wd 1,President,,REP,Trump/Pence,282
-Allen,0018 Iola Wd 1,President,,,WRITE-IN,5
-Allen,0018 Iola Wd 1,U.S. Senate,,LIB,Robert D. Garrard,28
-Allen,0018 Iola Wd 1,U.S. Senate,,REP,Jerry Moran,328
-Allen,0018 Iola Wd 1,U.S. Senate,,DEM,Patrick Wiesner,111
-Allen,0018 Iola Wd 1,U.S. Senate,,,WRITE-IN,0
-Allen,0018 Iola Wd 1,U.S. House,2,LIB,James Houston Bales,26
-Allen,0018 Iola Wd 1,U.S. House,2,REP,Lynn Jenkins,323
-Allen,0018 Iola Wd 1,U.S. House,2,DEM,Britani Potter,112
-Allen,0018 Iola Wd 1,U.S. House,2,,WRITE-IN,3
-Allen,0018 Iola Wd 1,State Senate,12,DEM,Christopher B. Johnston,92
-Allen,0018 Iola Wd 1,State Senate,12,REP,Caryn Tyson,282
-Allen,0018 Iola Wd 1,State Senate,12,,WRITE-IN,82
-Allen,0018 Iola Wd 1,State House,9,LIB,Patrick McMurray,89
-Allen,0018 Iola Wd 1,State House,9,REP,Kent L. Thompson,368
-Allen,0018 Iola Wd 1,State House,9,,WRITE-IN,1
-Allen,0019 Iola Wd 2,President,,DEM,Clinton/Kaine,153
-Allen,0019 Iola Wd 2,President,,LIB,Johnson/Weld,20
-Allen,0019 Iola Wd 2,President,,IND,Stein/Baraka,13
-Allen,0019 Iola Wd 2,President,,REP,Trump/Pence,379
-Allen,0019 Iola Wd 2,President,,,WRITE-IN,10
-Allen,0019 Iola Wd 2,U.S. Senate,,LIB,Robert D. Garrard,28
-Allen,0019 Iola Wd 2,U.S. Senate,,REP,Jerry Moran,418
-Allen,0019 Iola Wd 2,U.S. Senate,,DEM,Patrick Wiesner,119
-Allen,0019 Iola Wd 2,U.S. Senate,,,WRITE-IN,1
-Allen,0019 Iola Wd 2,U.S. House,2,LIB,James Houston Bales,23
-Allen,0019 Iola Wd 2,U.S. House,2,REP,Lynn Jenkins,417
-Allen,0019 Iola Wd 2,U.S. House,2,DEM,Britani Potter,131
-Allen,0019 Iola Wd 2,U.S. House,2,,WRITE-IN,1
-Allen,0019 Iola Wd 2,State Senate,12,DEM,Christopher B. Johnston,98
-Allen,0019 Iola Wd 2,State Senate,12,REP,Caryn Tyson,356
-Allen,0019 Iola Wd 2,State Senate,12,,WRITE-IN,103
-Allen,0019 Iola Wd 2,State House,9,LIB,Patrick McMurray,90
-Allen,0019 Iola Wd 2,State House,9,REP,Kent L. Thompson,471
-Allen,0019 Iola Wd 2,State House,9,,WRITE-IN,3
-Allen,0020 Iola Wd 3,President,,DEM,Clinton/Kaine,169
-Allen,0020 Iola Wd 3,President,,LIB,Johnson/Weld,23
-Allen,0020 Iola Wd 3,President,,IND,Stein/Baraka,15
-Allen,0020 Iola Wd 3,President,,REP,Trump/Pence,293
-Allen,0020 Iola Wd 3,President,,,WRITE-IN,12
-Allen,0020 Iola Wd 3,U.S. Senate,,LIB,Robert D. Garrard,37
-Allen,0020 Iola Wd 3,U.S. Senate,,REP,Jerry Moran,307
-Allen,0020 Iola Wd 3,U.S. Senate,,DEM,Patrick Wiesner,147
-Allen,0020 Iola Wd 3,U.S. Senate,,,WRITE-IN,6
-Allen,0020 Iola Wd 3,U.S. House,2,LIB,James Houston Bales,35
-Allen,0020 Iola Wd 3,U.S. House,2,REP,Lynn Jenkins,317
-Allen,0020 Iola Wd 3,U.S. House,2,DEM,Britani Potter,150
-Allen,0020 Iola Wd 3,U.S. House,2,,WRITE-IN,3
-Allen,0020 Iola Wd 3,State Senate,12,DEM,Christopher B. Johnston,118
-Allen,0020 Iola Wd 3,State Senate,12,REP,Caryn Tyson,271
-Allen,0020 Iola Wd 3,State Senate,12,,WRITE-IN,100
-Allen,0020 Iola Wd 3,State House,9,LIB,Patrick McMurray,121
-Allen,0020 Iola Wd 3,State House,9,REP,Kent L. Thompson,381
-Allen,0020 Iola Wd 3,State House,9,,WRITE-IN,1
-Allen,0021 Iola Wd 4,President,,DEM,Clinton/Kaine,149
-Allen,0021 Iola Wd 4,President,,LIB,Johnson/Weld,22
-Allen,0021 Iola Wd 4,President,,IND,Stein/Baraka,14
-Allen,0021 Iola Wd 4,President,,REP,Trump/Pence,334
-Allen,0021 Iola Wd 4,President,,,WRITE-IN,8
-Allen,0021 Iola Wd 4,U.S. Senate,,LIB,Robert D. Garrard,36
-Allen,0021 Iola Wd 4,U.S. Senate,,REP,Jerry Moran,335
-Allen,0021 Iola Wd 4,U.S. Senate,,DEM,Patrick Wiesner,141
-Allen,0021 Iola Wd 4,U.S. Senate,,,WRITE-IN,3
-Allen,0021 Iola Wd 4,U.S. House,2,LIB,James Houston Bales,36
-Allen,0021 Iola Wd 4,U.S. House,2,REP,Lynn Jenkins,347
-Allen,0021 Iola Wd 4,U.S. House,2,DEM,Britani Potter,132
-Allen,0021 Iola Wd 4,U.S. House,2,,WRITE-IN,4
-Allen,0021 Iola Wd 4,State Senate,12,DEM,Christopher B. Johnston,106
-Allen,0021 Iola Wd 4,State Senate,12,REP,Caryn Tyson,298
-Allen,0021 Iola Wd 4,State Senate,12,,WRITE-IN,93
-Allen,0021 Iola Wd 4,State House,9,LIB,Patrick McMurray,117
-Allen,0021 Iola Wd 4,State House,9,REP,Kent L. Thompson,396
-Allen,0021 Iola Wd 4,State House,9,,WRITE-IN,1
+county,precinct,office,district,party,candidate,votes,vtd
+ALLEN,Carlyle Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",21,000010
+ALLEN,Carlyle Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",133,000010
+ALLEN,Cottage Grove Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",17,000020
+ALLEN,Cottage Grove Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",111,000020
+ALLEN,Deer Creek Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",13,000030
+ALLEN,Deer Creek Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",49,000030
+ALLEN,East Elm,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",46,000040
+ALLEN,East Elm,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",225,000040
+ALLEN,Geneva Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",13,000050
+ALLEN,Geneva Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",44,000050
+ALLEN,Humboldt Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",19,00006A
+ALLEN,Humboldt Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",113,00006A
+ALLEN,Humboldt Township Rural Enclave,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00006B
+ALLEN,Humboldt Township Rural Enclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00006B
+ALLEN,Humboldt Township Split,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00006C
+ALLEN,Humboldt Township Split,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00006C
+ALLEN,Humboldt Ward 1,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",90,000070
+ALLEN,Humboldt Ward 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",256,000070
+ALLEN,Humboldt Ward 2,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",77,000080
+ALLEN,Humboldt Ward 2,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",327,000080
+ALLEN,Iola Ward 1,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",89,000090
+ALLEN,Iola Ward 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",368,000090
+ALLEN,Iola Ward 2,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",90,00010A
+ALLEN,Iola Ward 2,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",471,00010A
+ALLEN,Iola Ward 2 Exclave,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00010B
+ALLEN,Iola Ward 2 Exclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00010B
+ALLEN,Iola Ward 3,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",121,000110
+ALLEN,Iola Ward 3,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",381,000110
+ALLEN,Iola Ward 4,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",117,000120
+ALLEN,Iola Ward 4,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",396,000120
+ALLEN,Marmaton Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",253,000140
+ALLEN,North Elsmore,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",52,000150
+ALLEN,North Iola Part A,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",25,00016A
+ALLEN,North Iola Part A,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",110,00016A
+ALLEN,North Iola Part A Rural Enclave,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00016B
+ALLEN,North Iola Part A Rural Enclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00016B
+ALLEN,North Iola Part B,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00016C
+ALLEN,North Iola Part B,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00016C
+ALLEN,Osage Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",81,000170
+ALLEN,Salem Township,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",21,000180
+ALLEN,Salem Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",106,000180
+ALLEN,South Elsmore,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",42,000190
+ALLEN,South Iola,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",40,00020A
+ALLEN,South Iola,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",232,00020A
+ALLEN,South Iola Enclave,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,00020B
+ALLEN,South Iola Enclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00020B
+ALLEN,West Elm,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",102,000210
+ALLEN,West Elm,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",397,000210
+ALLEN,Logan Township S12,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",33,120020
+ALLEN,Logan Township S12,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",75,120020
+ALLEN,Logan Township S15,Kansas House of Representatives,9,Libertarian,"McMurray, Patrick",0,120030
+ALLEN,Logan Township S15,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,120030
+ALLEN,Carlyle Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",20,000010
+ALLEN,Carlyle Township,Kansas Senate,12,Republican,"Tyson, Caryn",108,000010
+ALLEN,Cottage Grove Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",21,000020
+ALLEN,Cottage Grove Township,Kansas Senate,12,Republican,"Tyson, Caryn",104,000020
+ALLEN,Deer Creek Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",9,000030
+ALLEN,Deer Creek Township,Kansas Senate,12,Republican,"Tyson, Caryn",38,000030
+ALLEN,East Elm,Kansas Senate,12,Democratic,"Johnston, Christopher B.",54,000040
+ALLEN,East Elm,Kansas Senate,12,Republican,"Tyson, Caryn",174,000040
+ALLEN,Geneva Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",9,000050
+ALLEN,Geneva Township,Kansas Senate,12,Republican,"Tyson, Caryn",40,000050
+ALLEN,Humboldt Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",23,00006A
+ALLEN,Humboldt Township,Kansas Senate,12,Republican,"Tyson, Caryn",97,00006A
+ALLEN,Humboldt Township Rural Enclave,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,Kansas Senate,12,Republican,"Tyson, Caryn",0,00006B
+ALLEN,Humboldt Township Split,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00006C
+ALLEN,Humboldt Township Split,Kansas Senate,12,Republican,"Tyson, Caryn",0,00006C
+ALLEN,Humboldt Ward 1,Kansas Senate,12,Democratic,"Johnston, Christopher B.",119,000070
+ALLEN,Humboldt Ward 1,Kansas Senate,12,Republican,"Tyson, Caryn",204,000070
+ALLEN,Humboldt Ward 2,Kansas Senate,12,Democratic,"Johnston, Christopher B.",104,000080
+ALLEN,Humboldt Ward 2,Kansas Senate,12,Republican,"Tyson, Caryn",258,000080
+ALLEN,Iola Ward 1,Kansas Senate,12,Democratic,"Johnston, Christopher B.",92,000090
+ALLEN,Iola Ward 1,Kansas Senate,12,Republican,"Tyson, Caryn",282,000090
+ALLEN,Iola Ward 2,Kansas Senate,12,Democratic,"Johnston, Christopher B.",98,00010A
+ALLEN,Iola Ward 2,Kansas Senate,12,Republican,"Tyson, Caryn",356,00010A
+ALLEN,Iola Ward 2 Exclave,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00010B
+ALLEN,Iola Ward 2 Exclave,Kansas Senate,12,Republican,"Tyson, Caryn",0,00010B
+ALLEN,Iola Ward 3,Kansas Senate,12,Democratic,"Johnston, Christopher B.",118,000110
+ALLEN,Iola Ward 3,Kansas Senate,12,Republican,"Tyson, Caryn",271,000110
+ALLEN,Iola Ward 4,Kansas Senate,12,Democratic,"Johnston, Christopher B.",106,000120
+ALLEN,Iola Ward 4,Kansas Senate,12,Republican,"Tyson, Caryn",298,000120
+ALLEN,Marmaton Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",48,000140
+ALLEN,Marmaton Township,Kansas Senate,12,Republican,"Tyson, Caryn",198,000140
+ALLEN,North Elsmore,Kansas Senate,12,Democratic,"Johnston, Christopher B.",14,000150
+ALLEN,North Elsmore,Kansas Senate,12,Republican,"Tyson, Caryn",75,000150
+ALLEN,North Iola Part A,Kansas Senate,12,Democratic,"Johnston, Christopher B.",24,00016A
+ALLEN,North Iola Part A,Kansas Senate,12,Republican,"Tyson, Caryn",93,00016A
+ALLEN,North Iola Part A Rural Enclave,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,Kansas Senate,12,Republican,"Tyson, Caryn",0,00016B
+ALLEN,North Iola Part B,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00016C
+ALLEN,North Iola Part B,Kansas Senate,12,Republican,"Tyson, Caryn",0,00016C
+ALLEN,Osage Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",21,000170
+ALLEN,Osage Township,Kansas Senate,12,Republican,"Tyson, Caryn",82,000170
+ALLEN,Salem Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",32,000180
+ALLEN,Salem Township,Kansas Senate,12,Republican,"Tyson, Caryn",86,000180
+ALLEN,South Elsmore,Kansas Senate,12,Democratic,"Johnston, Christopher B.",16,000190
+ALLEN,South Elsmore,Kansas Senate,12,Republican,"Tyson, Caryn",48,000190
+ALLEN,South Iola,Kansas Senate,12,Democratic,"Johnston, Christopher B.",47,00020A
+ALLEN,South Iola,Kansas Senate,12,Republican,"Tyson, Caryn",171,00020A
+ALLEN,South Iola Enclave,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00020B
+ALLEN,South Iola Enclave,Kansas Senate,12,Republican,"Tyson, Caryn",0,00020B
+ALLEN,West Elm,Kansas Senate,12,Democratic,"Johnston, Christopher B.",86,000210
+ALLEN,West Elm,Kansas Senate,12,Republican,"Tyson, Caryn",304,000210
+ALLEN,Logan Township S12,Kansas Senate,12,Democratic,"Johnston, Christopher B.",18,120020
+ALLEN,Logan Township S12,Kansas Senate,12,Republican,"Tyson, Caryn",86,120020
+ALLEN,Logan Township S15,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,120030
+ALLEN,Logan Township S15,Kansas Senate,15,Republican,"Goddard, Dan",0,120030
+ALLEN,Carlyle Township,President / Vice President,,independent,"Stein, Jill",3,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+ALLEN,Carlyle Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+ALLEN,Carlyle Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000010
+ALLEN,Carlyle Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000010
+ALLEN,Carlyle Township,President / Vice President,,Republican,"Trump, Donald J.",112,000010
+ALLEN,Cottage Grove Township,President / Vice President,,independent,"Stein, Jill",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"McMullin, Evan",1,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000020
+ALLEN,Cottage Grove Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+ALLEN,Cottage Grove Township,President / Vice President,,Republican,"Trump, Donald J.",110,000020
+ALLEN,Deer Creek Township,President / Vice President,,independent,"Stein, Jill",1,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+ALLEN,Deer Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000030
+ALLEN,Deer Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000030
+ALLEN,Deer Creek Township,President / Vice President,,Republican,"Trump, Donald J.",46,000030
+ALLEN,East Elm,President / Vice President,,independent,"Stein, Jill",4,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Hedges, James A",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"McMullin, Evan",2,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Perry, Darryl",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Smith, Mike",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Sood, Ajay",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+ALLEN,East Elm,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+ALLEN,East Elm,President / Vice President,,Democratic,"Clinton, Hillary Rodham",58,000040
+ALLEN,East Elm,President / Vice President,,Libertarian,"Johnson, Gary",13,000040
+ALLEN,East Elm,President / Vice President,,Republican,"Trump, Donald J.",197,000040
+ALLEN,Geneva Township,President / Vice President,,independent,"Stein, Jill",2,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+ALLEN,Geneva Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+ALLEN,Geneva Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000050
+ALLEN,Geneva Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000050
+ALLEN,Geneva Township,President / Vice President,,Republican,"Trump, Donald J.",44,000050
+ALLEN,Humboldt Township,President / Vice President,,independent,"Stein, Jill",3,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Castle, Darrell L",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Giordani, Rocky",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Hedges, James A",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Hoefling, Tom",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Kahn, Lynn",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"La Riva, Gloria",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Maturen, Michael A",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"McMullin, Evan",2,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Perry, Darryl",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Schriner, Joe C",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Smith, Mike",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Sood, Ajay",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Sterling, Shawna",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006A
+ALLEN,Humboldt Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,00006A
+ALLEN,Humboldt Township,President / Vice President,,Libertarian,"Johnson, Gary",3,00006A
+ALLEN,Humboldt Township,President / Vice President,,Republican,"Trump, Donald J.",106,00006A
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,independent,"Stein, Jill",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Hedges, James A",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Smith, Mike",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00006B
+ALLEN,Humboldt Township Rural Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00006B
+ALLEN,Humboldt Township Split,President / Vice President,,independent,"Stein, Jill",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Castle, Darrell L",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Giordani, Rocky",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Hedges, James A",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Hoefling, Tom",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Kahn, Lynn",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"La Riva, Gloria",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Levinson, Michael S.",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Maturen, Michael A",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"McMullin, Evan",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Perry, Darryl",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Schriner, Joe C",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Smith, Mike",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Sood, Ajay",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Sterling, Shawna",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,Libertarian,"Johnson, Gary",0,00006C
+ALLEN,Humboldt Township Split,President / Vice President,,Republican,"Trump, Donald J.",0,00006C
+ALLEN,Humboldt Ward 1,President / Vice President,,independent,"Stein, Jill",13,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"McMullin, Evan",3,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",114,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",19,000070
+ALLEN,Humboldt Ward 1,President / Vice President,,Republican,"Trump, Donald J.",212,000070
+ALLEN,Humboldt Ward 2,President / Vice President,,independent,"Stein, Jill",13,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"McMullin, Evan",2,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",122,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",17,000080
+ALLEN,Humboldt Ward 2,President / Vice President,,Republican,"Trump, Donald J.",253,000080
+ALLEN,Iola Ward 1,President / Vice President,,independent,"Stein, Jill",10,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Castle, Darrell L",1,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+ALLEN,Iola Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",145,000090
+ALLEN,Iola Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",34,000090
+ALLEN,Iola Ward 1,President / Vice President,,Republican,"Trump, Donald J.",282,000090
+ALLEN,Iola Ward 2,President / Vice President,,independent,"Stein, Jill",13,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00010A
+ALLEN,Iola Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",153,00010A
+ALLEN,Iola Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",20,00010A
+ALLEN,Iola Ward 2,President / Vice President,,Republican,"Trump, Donald J.",379,00010A
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00010B
+ALLEN,Iola Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00010B
+ALLEN,Iola Ward 3,President / Vice President,,independent,"Stein, Jill",15,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"McMullin, Evan",3,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+ALLEN,Iola Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",169,000110
+ALLEN,Iola Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",23,000110
+ALLEN,Iola Ward 3,President / Vice President,,Republican,"Trump, Donald J.",293,000110
+ALLEN,Iola Ward 4,President / Vice President,,independent,"Stein, Jill",14,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"McMullin, Evan",2,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+ALLEN,Iola Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",149,000120
+ALLEN,Iola Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",22,000120
+ALLEN,Iola Ward 4,President / Vice President,,Republican,"Trump, Donald J.",334,000120
+ALLEN,Marmaton Township,President / Vice President,,independent,"Stein, Jill",5,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+ALLEN,Marmaton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+ALLEN,Marmaton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",82,000140
+ALLEN,Marmaton Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000140
+ALLEN,Marmaton Township,President / Vice President,,Republican,"Trump, Donald J.",265,000140
+ALLEN,North Elsmore,President / Vice President,,independent,"Stein, Jill",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Hedges, James A",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"McMullin, Evan",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Perry, Darryl",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Smith, Mike",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Sood, Ajay",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+ALLEN,North Elsmore,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+ALLEN,North Elsmore,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000150
+ALLEN,North Elsmore,President / Vice President,,Libertarian,"Johnson, Gary",6,000150
+ALLEN,North Elsmore,President / Vice President,,Republican,"Trump, Donald J.",63,000150
+ALLEN,North Iola Part A,President / Vice President,,independent,"Stein, Jill",3,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Castle, Darrell L",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Giordani, Rocky",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Hedges, James A",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Hoefling, Tom",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Kahn, Lynn",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"La Riva, Gloria",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Maturen, Michael A",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"McMullin, Evan",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Perry, Darryl",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Schriner, Joe C",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Smith, Mike",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Sood, Ajay",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Sterling, Shawna",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016A
+ALLEN,North Iola Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",24,00016A
+ALLEN,North Iola Part A,President / Vice President,,Libertarian,"Johnson, Gary",7,00016A
+ALLEN,North Iola Part A,President / Vice President,,Republican,"Trump, Donald J.",101,00016A
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,independent,"Stein, Jill",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Hedges, James A",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Smith, Mike",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00016B
+ALLEN,North Iola Part A Rural Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00016B
+ALLEN,North Iola Part B,President / Vice President,,independent,"Stein, Jill",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Castle, Darrell L",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Giordani, Rocky",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Hedges, James A",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Hoefling, Tom",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Kahn, Lynn",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"La Riva, Gloria",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Levinson, Michael S.",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Maturen, Michael A",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"McMullin, Evan",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Perry, Darryl",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Schriner, Joe C",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Smith, Mike",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Sood, Ajay",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Sterling, Shawna",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,Libertarian,"Johnson, Gary",0,00016C
+ALLEN,North Iola Part B,President / Vice President,,Republican,"Trump, Donald J.",0,00016C
+ALLEN,Osage Township,President / Vice President,,independent,"Stein, Jill",1,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+ALLEN,Osage Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+ALLEN,Osage Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000170
+ALLEN,Osage Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000170
+ALLEN,Osage Township,President / Vice President,,Republican,"Trump, Donald J.",91,000170
+ALLEN,Salem Township,President / Vice President,,independent,"Stein, Jill",5,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+ALLEN,Salem Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+ALLEN,Salem Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",28,000180
+ALLEN,Salem Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000180
+ALLEN,Salem Township,President / Vice President,,Republican,"Trump, Donald J.",87,000180
+ALLEN,South Elsmore,President / Vice President,,independent,"Stein, Jill",1,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Hedges, James A",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"McMullin, Evan",2,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Perry, Darryl",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Smith, Mike",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Sood, Ajay",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+ALLEN,South Elsmore,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+ALLEN,South Elsmore,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000190
+ALLEN,South Elsmore,President / Vice President,,Libertarian,"Johnson, Gary",0,000190
+ALLEN,South Elsmore,President / Vice President,,Republican,"Trump, Donald J.",47,000190
+ALLEN,South Iola,President / Vice President,,independent,"Stein, Jill",7,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Castle, Darrell L",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Giordani, Rocky",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Hedges, James A",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Hoefling, Tom",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Kahn, Lynn",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"La Riva, Gloria",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Levinson, Michael S.",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Maturen, Michael A",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"McMullin, Evan",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Perry, Darryl",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Schriner, Joe C",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Smith, Mike",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Sood, Ajay",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Sterling, Shawna",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020A
+ALLEN,South Iola,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020A
+ALLEN,South Iola,President / Vice President,,Democratic,"Clinton, Hillary Rodham",67,00020A
+ALLEN,South Iola,President / Vice President,,Libertarian,"Johnson, Gary",5,00020A
+ALLEN,South Iola,President / Vice President,,Republican,"Trump, Donald J.",197,00020A
+ALLEN,South Iola Enclave,President / Vice President,,independent,"Stein, Jill",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Hedges, James A",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Smith, Mike",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00020B
+ALLEN,South Iola Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00020B
+ALLEN,West Elm,President / Vice President,,independent,"Stein, Jill",8,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Hedges, James A",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"McMullin, Evan",2,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Perry, Darryl",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Smith, Mike",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Sood, Ajay",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+ALLEN,West Elm,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+ALLEN,West Elm,President / Vice President,,Democratic,"Clinton, Hillary Rodham",124,000210
+ALLEN,West Elm,President / Vice President,,Libertarian,"Johnson, Gary",22,000210
+ALLEN,West Elm,President / Vice President,,Republican,"Trump, Donald J.",351,000210
+ALLEN,Logan Township S12,President / Vice President,,independent,"Stein, Jill",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Castle, Darrell L",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Hedges, James A",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"McMullin, Evan",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Perry, Darryl",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Smith, Mike",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Sood, Ajay",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+ALLEN,Logan Township S12,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+ALLEN,Logan Township S12,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,120020
+ALLEN,Logan Township S12,President / Vice President,,Libertarian,"Johnson, Gary",5,120020
+ALLEN,Logan Township S12,President / Vice President,,Republican,"Trump, Donald J.",81,120020
+ALLEN,Logan Township S15,President / Vice President,,independent,"Stein, Jill",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Hedges, James A",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"McMullin, Evan",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Perry, Darryl",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Smith, Mike",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Sood, Ajay",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+ALLEN,Logan Township S15,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+ALLEN,Logan Township S15,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120030
+ALLEN,Logan Township S15,President / Vice President,,Libertarian,"Johnson, Gary",0,120030
+ALLEN,Logan Township S15,President / Vice President,,Republican,"Trump, Donald J.",0,120030
+ALLEN,Carlyle Township,United States House of Representatives,2,Democratic,"Potter, Britani",27,000010
+ALLEN,Carlyle Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000010
+ALLEN,Carlyle Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",125,000010
+ALLEN,Cottage Grove Township,United States House of Representatives,2,Democratic,"Potter, Britani",14,000020
+ALLEN,Cottage Grove Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000020
+ALLEN,Cottage Grove Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",107,000020
+ALLEN,Deer Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",11,000030
+ALLEN,Deer Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000030
+ALLEN,Deer Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",45,000030
+ALLEN,East Elm,United States House of Representatives,2,Democratic,"Potter, Britani",57,000040
+ALLEN,East Elm,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000040
+ALLEN,East Elm,United States House of Representatives,2,Republican,"Jenkins, Lynn",196,000040
+ALLEN,Geneva Township,United States House of Representatives,2,Democratic,"Potter, Britani",8,000050
+ALLEN,Geneva Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000050
+ALLEN,Geneva Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",45,000050
+ALLEN,Humboldt Township,United States House of Representatives,2,Democratic,"Potter, Britani",21,00006A
+ALLEN,Humboldt Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,00006A
+ALLEN,Humboldt Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",107,00006A
+ALLEN,Humboldt Township Rural Enclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00006B
+ALLEN,Humboldt Township Rural Enclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00006B
+ALLEN,Humboldt Township Rural Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00006B
+ALLEN,Humboldt Township Split,United States House of Representatives,2,Democratic,"Potter, Britani",0,00006C
+ALLEN,Humboldt Township Split,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00006C
+ALLEN,Humboldt Township Split,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00006C
+ALLEN,Humboldt Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",106,000070
+ALLEN,Humboldt Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",20,000070
+ALLEN,Humboldt Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",230,000070
+ALLEN,Humboldt Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",90,000080
+ALLEN,Humboldt Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",21,000080
+ALLEN,Humboldt Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",295,000080
+ALLEN,Iola Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",112,000090
+ALLEN,Iola Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",26,000090
+ALLEN,Iola Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",323,000090
+ALLEN,Iola Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",131,00010A
+ALLEN,Iola Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",23,00010A
+ALLEN,Iola Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",417,00010A
+ALLEN,Iola Ward 2 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00010B
+ALLEN,Iola Ward 2 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00010B
+ALLEN,Iola Ward 2 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00010B
+ALLEN,Iola Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",150,000110
+ALLEN,Iola Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",35,000110
+ALLEN,Iola Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",317,000110
+ALLEN,Iola Ward 4,United States House of Representatives,2,Democratic,"Potter, Britani",132,000120
+ALLEN,Iola Ward 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",36,000120
+ALLEN,Iola Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",347,000120
+ALLEN,Marmaton Township,United States House of Representatives,2,Democratic,"Potter, Britani",73,000140
+ALLEN,Marmaton Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",30,000140
+ALLEN,Marmaton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",253,000140
+ALLEN,North Elsmore,United States House of Representatives,2,Democratic,"Potter, Britani",15,000150
+ALLEN,North Elsmore,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000150
+ALLEN,North Elsmore,United States House of Representatives,2,Republican,"Jenkins, Lynn",73,000150
+ALLEN,North Iola Part A,United States House of Representatives,2,Democratic,"Potter, Britani",20,00016A
+ALLEN,North Iola Part A,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,00016A
+ALLEN,North Iola Part A,United States House of Representatives,2,Republican,"Jenkins, Lynn",102,00016A
+ALLEN,North Iola Part A Rural Enclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00016B
+ALLEN,North Iola Part A Rural Enclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00016B
+ALLEN,North Iola Part A Rural Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00016B
+ALLEN,North Iola Part B,United States House of Representatives,2,Democratic,"Potter, Britani",0,00016C
+ALLEN,North Iola Part B,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00016C
+ALLEN,North Iola Part B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00016C
+ALLEN,Osage Township,United States House of Representatives,2,Democratic,"Potter, Britani",29,000170
+ALLEN,Osage Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000170
+ALLEN,Osage Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",90,000170
+ALLEN,Salem Township,United States House of Representatives,2,Democratic,"Potter, Britani",31,000180
+ALLEN,Salem Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000180
+ALLEN,Salem Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",94,000180
+ALLEN,South Elsmore,United States House of Representatives,2,Democratic,"Potter, Britani",18,000190
+ALLEN,South Elsmore,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000190
+ALLEN,South Elsmore,United States House of Representatives,2,Republican,"Jenkins, Lynn",51,000190
+ALLEN,South Iola,United States House of Representatives,2,Democratic,"Potter, Britani",60,00020A
+ALLEN,South Iola,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,00020A
+ALLEN,South Iola,United States House of Representatives,2,Republican,"Jenkins, Lynn",200,00020A
+ALLEN,South Iola Enclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00020B
+ALLEN,South Iola Enclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00020B
+ALLEN,South Iola Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00020B
+ALLEN,West Elm,United States House of Representatives,2,Democratic,"Potter, Britani",116,000210
+ALLEN,West Elm,United States House of Representatives,2,Libertarian,"Bales, James Houston",21,000210
+ALLEN,West Elm,United States House of Representatives,2,Republican,"Jenkins, Lynn",359,000210
+ALLEN,Logan Township S12,United States House of Representatives,2,Democratic,"Potter, Britani",18,120020
+ALLEN,Logan Township S12,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,120020
+ALLEN,Logan Township S12,United States House of Representatives,2,Republican,"Jenkins, Lynn",88,120020
+ALLEN,Logan Township S15,United States House of Representatives,2,Democratic,"Potter, Britani",0,120030
+ALLEN,Logan Township S15,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,120030
+ALLEN,Logan Township S15,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120030
+ALLEN,Carlyle Township,United States Senate,,write - in,"Smith, DJ",0,000010
+ALLEN,Carlyle Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000010
+ALLEN,Carlyle Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000010
+ALLEN,Carlyle Township,United States Senate,,Republican,"Moran, Jerry",128,000010
+ALLEN,Cottage Grove Township,United States Senate,,write - in,"Smith, DJ",0,000020
+ALLEN,Cottage Grove Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000020
+ALLEN,Cottage Grove Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000020
+ALLEN,Cottage Grove Township,United States Senate,,Republican,"Moran, Jerry",110,000020
+ALLEN,Deer Creek Township,United States Senate,,write - in,"Smith, DJ",0,000030
+ALLEN,Deer Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000030
+ALLEN,Deer Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000030
+ALLEN,Deer Creek Township,United States Senate,,Republican,"Moran, Jerry",46,000030
+ALLEN,East Elm,United States Senate,,write - in,"Smith, DJ",0,000040
+ALLEN,East Elm,United States Senate,,Democratic,"Wiesner, Patrick",54,000040
+ALLEN,East Elm,United States Senate,,Libertarian,"Garrard, Robert D.",13,000040
+ALLEN,East Elm,United States Senate,,Republican,"Moran, Jerry",199,000040
+ALLEN,Geneva Township,United States Senate,,write - in,"Smith, DJ",0,000050
+ALLEN,Geneva Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000050
+ALLEN,Geneva Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000050
+ALLEN,Geneva Township,United States Senate,,Republican,"Moran, Jerry",43,000050
+ALLEN,Humboldt Township,United States Senate,,write - in,"Smith, DJ",0,00006A
+ALLEN,Humboldt Township,United States Senate,,Democratic,"Wiesner, Patrick",19,00006A
+ALLEN,Humboldt Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,00006A
+ALLEN,Humboldt Township,United States Senate,,Republican,"Moran, Jerry",112,00006A
+ALLEN,Humboldt Township Rural Enclave,United States Senate,,write - in,"Smith, DJ",0,00006B
+ALLEN,Humboldt Township Rural Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00006B
+ALLEN,Humboldt Township Rural Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00006B
+ALLEN,Humboldt Township Rural Enclave,United States Senate,,Republican,"Moran, Jerry",0,00006B
+ALLEN,Humboldt Township Split,United States Senate,,write - in,"Smith, DJ",0,00006C
+ALLEN,Humboldt Township Split,United States Senate,,Democratic,"Wiesner, Patrick",0,00006C
+ALLEN,Humboldt Township Split,United States Senate,,Libertarian,"Garrard, Robert D.",0,00006C
+ALLEN,Humboldt Township Split,United States Senate,,Republican,"Moran, Jerry",0,00006C
+ALLEN,Humboldt Ward 1,United States Senate,,write - in,"Smith, DJ",0,000070
+ALLEN,Humboldt Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",102,000070
+ALLEN,Humboldt Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",30,000070
+ALLEN,Humboldt Ward 1,United States Senate,,Republican,"Moran, Jerry",226,000070
+ALLEN,Humboldt Ward 2,United States Senate,,write - in,"Smith, DJ",0,000080
+ALLEN,Humboldt Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",93,000080
+ALLEN,Humboldt Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",22,000080
+ALLEN,Humboldt Ward 2,United States Senate,,Republican,"Moran, Jerry",294,000080
+ALLEN,Iola Ward 1,United States Senate,,write - in,"Smith, DJ",0,000090
+ALLEN,Iola Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",111,000090
+ALLEN,Iola Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",28,000090
+ALLEN,Iola Ward 1,United States Senate,,Republican,"Moran, Jerry",328,000090
+ALLEN,Iola Ward 2,United States Senate,,write - in,"Smith, DJ",0,00010A
+ALLEN,Iola Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",119,00010A
+ALLEN,Iola Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",28,00010A
+ALLEN,Iola Ward 2,United States Senate,,Republican,"Moran, Jerry",418,00010A
+ALLEN,Iola Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00010B
+ALLEN,Iola Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00010B
+ALLEN,Iola Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00010B
+ALLEN,Iola Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00010B
+ALLEN,Iola Ward 3,United States Senate,,write - in,"Smith, DJ",0,000110
+ALLEN,Iola Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",147,000110
+ALLEN,Iola Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",37,000110
+ALLEN,Iola Ward 3,United States Senate,,Republican,"Moran, Jerry",307,000110
+ALLEN,Iola Ward 4,United States Senate,,write - in,"Smith, DJ",0,000120
+ALLEN,Iola Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",141,000120
+ALLEN,Iola Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",36,000120
+ALLEN,Iola Ward 4,United States Senate,,Republican,"Moran, Jerry",335,000120
+ALLEN,Marmaton Township,United States Senate,,write - in,"Smith, DJ",0,000140
+ALLEN,Marmaton Township,United States Senate,,Democratic,"Wiesner, Patrick",70,000140
+ALLEN,Marmaton Township,United States Senate,,Libertarian,"Garrard, Robert D.",22,000140
+ALLEN,Marmaton Township,United States Senate,,Republican,"Moran, Jerry",270,000140
+ALLEN,North Elsmore,United States Senate,,write - in,"Smith, DJ",0,000150
+ALLEN,North Elsmore,United States Senate,,Democratic,"Wiesner, Patrick",10,000150
+ALLEN,North Elsmore,United States Senate,,Libertarian,"Garrard, Robert D.",7,000150
+ALLEN,North Elsmore,United States Senate,,Republican,"Moran, Jerry",77,000150
+ALLEN,North Iola Part A,United States Senate,,write - in,"Smith, DJ",0,00016A
+ALLEN,North Iola Part A,United States Senate,,Democratic,"Wiesner, Patrick",28,00016A
+ALLEN,North Iola Part A,United States Senate,,Libertarian,"Garrard, Robert D.",12,00016A
+ALLEN,North Iola Part A,United States Senate,,Republican,"Moran, Jerry",96,00016A
+ALLEN,North Iola Part A Rural Enclave,United States Senate,,write - in,"Smith, DJ",0,00016B
+ALLEN,North Iola Part A Rural Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00016B
+ALLEN,North Iola Part A Rural Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00016B
+ALLEN,North Iola Part A Rural Enclave,United States Senate,,Republican,"Moran, Jerry",0,00016B
+ALLEN,North Iola Part B,United States Senate,,write - in,"Smith, DJ",0,00016C
+ALLEN,North Iola Part B,United States Senate,,Democratic,"Wiesner, Patrick",0,00016C
+ALLEN,North Iola Part B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00016C
+ALLEN,North Iola Part B,United States Senate,,Republican,"Moran, Jerry",0,00016C
+ALLEN,Osage Township,United States Senate,,write - in,"Smith, DJ",0,000170
+ALLEN,Osage Township,United States Senate,,Democratic,"Wiesner, Patrick",24,000170
+ALLEN,Osage Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000170
+ALLEN,Osage Township,United States Senate,,Republican,"Moran, Jerry",96,000170
+ALLEN,Salem Township,United States Senate,,write - in,"Smith, DJ",0,000180
+ALLEN,Salem Township,United States Senate,,Democratic,"Wiesner, Patrick",35,000180
+ALLEN,Salem Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000180
+ALLEN,Salem Township,United States Senate,,Republican,"Moran, Jerry",89,000180
+ALLEN,South Elsmore,United States Senate,,write - in,"Smith, DJ",0,000190
+ALLEN,South Elsmore,United States Senate,,Democratic,"Wiesner, Patrick",13,000190
+ALLEN,South Elsmore,United States Senate,,Libertarian,"Garrard, Robert D.",1,000190
+ALLEN,South Elsmore,United States Senate,,Republican,"Moran, Jerry",56,000190
+ALLEN,South Iola,United States Senate,,write - in,"Smith, DJ",0,00020A
+ALLEN,South Iola,United States Senate,,Democratic,"Wiesner, Patrick",54,00020A
+ALLEN,South Iola,United States Senate,,Libertarian,"Garrard, Robert D.",9,00020A
+ALLEN,South Iola,United States Senate,,Republican,"Moran, Jerry",207,00020A
+ALLEN,South Iola Enclave,United States Senate,,write - in,"Smith, DJ",0,00020B
+ALLEN,South Iola Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00020B
+ALLEN,South Iola Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00020B
+ALLEN,South Iola Enclave,United States Senate,,Republican,"Moran, Jerry",0,00020B
+ALLEN,West Elm,United States Senate,,write - in,"Smith, DJ",0,000210
+ALLEN,West Elm,United States Senate,,Democratic,"Wiesner, Patrick",98,000210
+ALLEN,West Elm,United States Senate,,Libertarian,"Garrard, Robert D.",31,000210
+ALLEN,West Elm,United States Senate,,Republican,"Moran, Jerry",367,000210
+ALLEN,Logan Township S12,United States Senate,,write - in,"Smith, DJ",0,120020
+ALLEN,Logan Township S12,United States Senate,,Democratic,"Wiesner, Patrick",17,120020
+ALLEN,Logan Township S12,United States Senate,,Libertarian,"Garrard, Robert D.",8,120020
+ALLEN,Logan Township S12,United States Senate,,Republican,"Moran, Jerry",85,120020
+ALLEN,Logan Township S15,United States Senate,,write - in,"Smith, DJ",0,120030
+ALLEN,Logan Township S15,United States Senate,,Democratic,"Wiesner, Patrick",0,120030
+ALLEN,Logan Township S15,United States Senate,,Libertarian,"Garrard, Robert D.",0,120030
+ALLEN,Logan Township S15,United States Senate,,Republican,"Moran, Jerry",0,120030

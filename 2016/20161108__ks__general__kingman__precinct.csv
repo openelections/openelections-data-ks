@@ -1,441 +1,1081 @@
-county,precinct,office,district,party,candidate,votes,,,,,,,,,,,
-Kingman,Allen,President,,IND,Stein/Baraka,6,,,,,,,,,,,
-Kingman,Belmont,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Bennett,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,Canton,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Chikaskia,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Dale,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Dresden,President,,IND,Stein/Baraka,8,,,,,,,,,,,
-Kingman,Eagle,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,Eureka,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Evan,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,Galesburg,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Hoosier,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,Kingman,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Liberty,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Ninnescah,President,,IND,Stein/Baraka,4,,,,,,,,,,,
-Kingman,Peters,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Richland,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Rochester,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,Rural,President,,IND,Stein/Baraka,3,,,,,,,,,,,
-Kingman,Union,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Valley,President,,IND,Stein/Baraka,0,,,,,,,,,,,
-Kingman,Vinita,President,,IND,Stein/Baraka,2,,,,,,,,,,,
-Kingman,White,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,White #3,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,President,,IND,Stein/Baraka,5,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,President,,IND,Stein/Baraka,12,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,President,,IND,Stein/Baraka,4,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,President,,IND,Stein/Baraka,8,,,,,,,,,,,
-Kingman,Totals,President,,IND,Stein/Baraka,68,,,,,,,,,,,
-Kingman,Provisionals,President,,IND,Stein/Baraka,1,,,,,,,,,,,
-Kingman,Grand Total,President,,IND,Stein/Baraka,69,,,,,,,,,,,
-Kingman,Allen,President,,REP,Trump/Pence,38,,,,,,,,,,,
-Kingman,Belmont,President,,REP,Trump/Pence,19,,,,,,,,,,,
-Kingman,Bennett,President,,REP,Trump/Pence,207,,,,,,,,,,,
-Kingman,Canton,President,,REP,Trump/Pence,42,,,,,,,,,,,
-Kingman,Chikaskia,President,,REP,Trump/Pence,35,,,,,,,,,,,
-Kingman,Dale,President,,REP,Trump/Pence,58,,,,,,,,,,,
-Kingman,Dresden,President,,REP,Trump/Pence,122,,,,,,,,,,,
-Kingman,Eagle,President,,REP,Trump/Pence,38,,,,,,,,,,,
-Kingman,Eureka,President,,REP,Trump/Pence,48,,,,,,,,,,,
-Kingman,Evan,President,,REP,Trump/Pence,217,,,,,,,,,,,
-Kingman,Galesburg,President,,REP,Trump/Pence,96,,,,,,,,,,,
-Kingman,Hoosier,President,,REP,Trump/Pence,51,,,,,,,,,,,
-Kingman,Kingman,President,,REP,Trump/Pence,45,,,,,,,,,,,
-Kingman,Liberty,President,,REP,Trump/Pence,42,,,,,,,,,,,
-Kingman,Ninnescah,President,,REP,Trump/Pence,123,,,,,,,,,,,
-Kingman,Peters,President,,REP,Trump/Pence,44,,,,,,,,,,,
-Kingman,Richland,President,,REP,Trump/Pence,46,,,,,,,,,,,
-Kingman,Rochester,President,,REP,Trump/Pence,53,,,,,,,,,,,
-Kingman,Rural,President,,REP,Trump/Pence,97,,,,,,,,,,,
-Kingman,Union,President,,REP,Trump/Pence,23,,,,,,,,,,,
-Kingman,Valley,President,,REP,Trump/Pence,41,,,,,,,,,,,
-Kingman,Vinita,President,,REP,Trump/Pence,95,,,,,,,,,,,
-Kingman,White,President,,REP,Trump/Pence,85,,,,,,,,,,,
-Kingman,White #3,President,,REP,Trump/Pence,41,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,President,,REP,Trump/Pence,216,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,President,,REP,Trump/Pence,302,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,President,,REP,Trump/Pence,128,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,President,,REP,Trump/Pence,155,,,,,,,,,,,
-Kingman,Totals,President,,REP,Trump/Pence,2507,,,,,,,,,,,
-Kingman,Provisionals,President,,REP,Trump/Pence,23,,,,,,,,,,,
-Kingman,Grand Total,President,,REP,Trump/Pence,2530,,,,,,,,,,,
-Kingman,Allen,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Belmont,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Bennett,President,,DEM,Clinton/Kaine,62,,,,,,,,,,,
-Kingman,Canton,President,,DEM,Clinton/Kaine,4,,,,,,,,,,,
-Kingman,Chikaskia,President,,DEM,Clinton/Kaine,8,,,,,,,,,,,
-Kingman,Dale,President,,DEM,Clinton/Kaine,14,,,,,,,,,,,
-Kingman,Dresden,President,,DEM,Clinton/Kaine,32,,,,,,,,,,,
-Kingman,Eagle,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Eureka,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Evan,President,,DEM,Clinton/Kaine,27,,,,,,,,,,,
-Kingman,Galesburg,President,,DEM,Clinton/Kaine,13,,,,,,,,,,,
-Kingman,Hoosier,President,,DEM,Clinton/Kaine,13,,,,,,,,,,,
-Kingman,Kingman,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Liberty,President,,DEM,Clinton/Kaine,6,,,,,,,,,,,
-Kingman,Ninnescah,President,,DEM,Clinton/Kaine,11,,,,,,,,,,,
-Kingman,Peters,President,,DEM,Clinton/Kaine,4,,,,,,,,,,,
-Kingman,Richland,President,,DEM,Clinton/Kaine,3,,,,,,,,,,,
-Kingman,Rochester,President,,DEM,Clinton/Kaine,15,,,,,,,,,,,
-Kingman,Rural,President,,DEM,Clinton/Kaine,27,,,,,,,,,,,
-Kingman,Union,President,,DEM,Clinton/Kaine,8,,,,,,,,,,,
-Kingman,Valley,President,,DEM,Clinton/Kaine,11,,,,,,,,,,,
-Kingman,Vinita,President,,DEM,Clinton/Kaine,22,,,,,,,,,,,
-Kingman,White,President,,DEM,Clinton/Kaine,15,,,,,,,,,,,
-Kingman,White #3,President,,DEM,Clinton/Kaine,9,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,President,,DEM,Clinton/Kaine,81,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,President,,DEM,Clinton/Kaine,114,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,President,,DEM,Clinton/Kaine,32,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,President,,DEM,Clinton/Kaine,38,,,,,,,,,,,
-Kingman,Totals,President,,DEM,Clinton/Kaine,594,,,,,,,,,,,
-Kingman,Provisionals,President,,DEM,Clinton/Kaine,5,,,,,,,,,,,
-Kingman,Grand Total,President,,DEM,Clinton/Kaine,599,,,,,,,,,,,
-Kingman,Allen,President,,LIB,Johnson/Weld,2,,,,,,,,,,,
-Kingman,Belmont,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Bennett,President,,LIB,Johnson/Weld,7,,,,,,,,,,,
-Kingman,Canton,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Chikaskia,President,,LIB,Johnson/Weld,2,,,,,,,,,,,
-Kingman,Dale,President,,LIB,Johnson/Weld,1,,,,,,,,,,,
-Kingman,Dresden,President,,LIB,Johnson/Weld,3,,,,,,,,,,,
-Kingman,Eagle,President,,LIB,Johnson/Weld,5,,,,,,,,,,,
-Kingman,Eureka,President,,LIB,Johnson/Weld,4,,,,,,,,,,,
-Kingman,Evan,President,,LIB,Johnson/Weld,10,,,,,,,,,,,
-Kingman,Galesburg,President,,LIB,Johnson/Weld,5,,,,,,,,,,,
-Kingman,Hoosier,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Kingman,President,,LIB,Johnson/Weld,2,,,,,,,,,,,
-Kingman,Liberty,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Ninnescah,President,,LIB,Johnson/Weld,6,,,,,,,,,,,
-Kingman,Peters,President,,LIB,Johnson/Weld,1,,,,,,,,,,,
-Kingman,Richland,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Rochester,President,,LIB,Johnson/Weld,8,,,,,,,,,,,
-Kingman,Rural,President,,LIB,Johnson/Weld,3,,,,,,,,,,,
-Kingman,Union,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Valley,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,Vinita,President,,LIB,Johnson/Weld,1,,,,,,,,,,,
-Kingman,White,President,,LIB,Johnson/Weld,0,,,,,,,,,,,
-Kingman,White #3,President,,LIB,Johnson/Weld,2,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,President,,LIB,Johnson/Weld,12,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,President,,LIB,Johnson/Weld,22,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,President,,LIB,Johnson/Weld,4,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,President,,LIB,Johnson/Weld,12,,,,,,,,,,,
-Kingman,Totals,President,,LIB,Johnson/Weld,112,,,,,,,,,,,
-Kingman,Provisionals,President,,LIB,Johnson/Weld,2,,,,,,,,,,,
-Kingman,Grand Total,President,,LIB,Johnson/Weld,114,,,,,,,,,,,
-Kingman,Allen,U.S. Senate,,REP,Jerry Moran,37,,,,,,,,,,,
-Kingman,Belmont,U.S. Senate,,REP,Jerry Moran,19,,,,,,,,,,,
-Kingman,Bennett,U.S. Senate,,REP,Jerry Moran,210,,,,,,,,,,,
-Kingman,Canton,U.S. Senate,,REP,Jerry Moran,44,,,,,,,,,,,
-Kingman,Chikaskia,U.S. Senate,,REP,Jerry Moran,41,,,,,,,,,,,
-Kingman,Dale,U.S. Senate,,REP,Jerry Moran,62,,,,,,,,,,,
-Kingman,Dresden,U.S. Senate,,REP,Jerry Moran,127,,,,,,,,,,,
-Kingman,Eagle,U.S. Senate,,REP,Jerry Moran,43,,,,,,,,,,,
-Kingman,Eureka,U.S. Senate,,REP,Jerry Moran,48,,,,,,,,,,,
-Kingman,Evan,U.S. Senate,,REP,Jerry Moran,226,,,,,,,,,,,
-Kingman,Galesburg,U.S. Senate,,REP,Jerry Moran,92,,,,,,,,,,,
-Kingman,Hoosier,U.S. Senate,,REP,Jerry Moran,56,,,,,,,,,,,
-Kingman,Kingman,U.S. Senate,,REP,Jerry Moran,42,,,,,,,,,,,
-Kingman,Liberty,U.S. Senate,,REP,Jerry Moran,40,,,,,,,,,,,
-Kingman,Ninnescah,U.S. Senate,,REP,Jerry Moran,134,,,,,,,,,,,
-Kingman,Peters,U.S. Senate,,REP,Jerry Moran,43,,,,,,,,,,,
-Kingman,Richland,U.S. Senate,,REP,Jerry Moran,46,,,,,,,,,,,
-Kingman,Rochester,U.S. Senate,,REP,Jerry Moran,59,,,,,,,,,,,
-Kingman,Rural,U.S. Senate,,REP,Jerry Moran,96,,,,,,,,,,,
-Kingman,Union,U.S. Senate,,REP,Jerry Moran,27,,,,,,,,,,,
-Kingman,Valley,U.S. Senate,,REP,Jerry Moran,42,,,,,,,,,,,
-Kingman,Vinita,U.S. Senate,,REP,Jerry Moran,98,,,,,,,,,,,
-Kingman,White,U.S. Senate,,REP,Jerry Moran,87,,,,,,,,,,,
-Kingman,White #3,U.S. Senate,,REP,Jerry Moran,47,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. Senate,,REP,Jerry Moran,248,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. Senate,,REP,Jerry Moran,332,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. Senate,,REP,Jerry Moran,132,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. Senate,,REP,Jerry Moran,162,,,,,,,,,,,
-Kingman,Totals,U.S. Senate,,REP,Jerry Moran,2640,,,,,,,,,,,
-Kingman,Provisionals,U.S. Senate,,REP,Jerry Moran,21,,,,,,,,,,,
-Kingman,Grand Total,U.S. Senate,,REP,Jerry Moran,2661,,,,,,,,,,,
-Kingman,Allen,U.S. Senate,,DEM,Patrick Wiesner,9,,,,,,,,,,,
-Kingman,Belmont,U.S. Senate,,DEM,Patrick Wiesner,6,,,,,,,,,,,
-Kingman,Bennett,U.S. Senate,,DEM,Patrick Wiesner,52,,,,,,,,,,,
-Kingman,Canton,U.S. Senate,,DEM,Patrick Wiesner,1,,,,,,,,,,,
-Kingman,Chikaskia,U.S. Senate,,DEM,Patrick Wiesner,9,,,,,,,,,,,
-Kingman,Dale,U.S. Senate,,DEM,Patrick Wiesner,10,,,,,,,,,,,
-Kingman,Dresden,U.S. Senate,,DEM,Patrick Wiesner,31,,,,,,,,,,,
-Kingman,Eagle,U.S. Senate,,DEM,Patrick Wiesner,4,,,,,,,,,,,
-Kingman,Eureka,U.S. Senate,,DEM,Patrick Wiesner,4,,,,,,,,,,,
-Kingman,Evan,U.S. Senate,,DEM,Patrick Wiesner,24,,,,,,,,,,,
-Kingman,Galesburg,U.S. Senate,,DEM,Patrick Wiesner,17,,,,,,,,,,,
-Kingman,Hoosier,U.S. Senate,,DEM,Patrick Wiesner,5,,,,,,,,,,,
-Kingman,Kingman,U.S. Senate,,DEM,Patrick Wiesner,4,,,,,,,,,,,
-Kingman,Liberty,U.S. Senate,,DEM,Patrick Wiesner,4,,,,,,,,,,,
-Kingman,Ninnescah,U.S. Senate,,DEM,Patrick Wiesner,6,,,,,,,,,,,
-Kingman,Peters,U.S. Senate,,DEM,Patrick Wiesner,7,,,,,,,,,,,
-Kingman,Richland,U.S. Senate,,DEM,Patrick Wiesner,1,,,,,,,,,,,
-Kingman,Rochester,U.S. Senate,,DEM,Patrick Wiesner,20,,,,,,,,,,,
-Kingman,Rural,U.S. Senate,,DEM,Patrick Wiesner,25,,,,,,,,,,,
-Kingman,Union,U.S. Senate,,DEM,Patrick Wiesner,5,,,,,,,,,,,
-Kingman,Valley,U.S. Senate,,DEM,Patrick Wiesner,8,,,,,,,,,,,
-Kingman,Vinita,U.S. Senate,,DEM,Patrick Wiesner,19,,,,,,,,,,,
-Kingman,White,U.S. Senate,,DEM,Patrick Wiesner,9,,,,,,,,,,,
-Kingman,White #3,U.S. Senate,,DEM,Patrick Wiesner,6,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. Senate,,DEM,Patrick Wiesner,51,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. Senate,,DEM,Patrick Wiesner,88,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. Senate,,DEM,Patrick Wiesner,23,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. Senate,,DEM,Patrick Wiesner,36,,,,,,,,,,,
-Kingman,Totals,U.S. Senate,,DEM,Patrick Wiesner,484,,,,,,,,,,,
-Kingman,Provisionals,U.S. Senate,,DEM,Patrick Wiesner,6,,,,,,,,,,,
-Kingman,Grand Total,U.S. Senate,,DEM,Patrick Wiesner,490,,,,,,,,,,,
-Kingman,Allen,U.S. Senate,,LIB,Robert D. Garrard,6,,,,,,,,,,,
-Kingman,Belmont,U.S. Senate,,LIB,Robert D. Garrard,0,,,,,,,,,,,
-Kingman,Bennett,U.S. Senate,,LIB,Robert D. Garrard,21,,,,,,,,,,,
-Kingman,Canton,U.S. Senate,,LIB,Robert D. Garrard,0,,,,,,,,,,,
-Kingman,Chikaskia,U.S. Senate,,LIB,Robert D. Garrard,1,,,,,,,,,,,
-Kingman,Dale,U.S. Senate,,LIB,Robert D. Garrard,5,,,,,,,,,,,
-Kingman,Dresden,U.S. Senate,,LIB,Robert D. Garrard,12,,,,,,,,,,,
-Kingman,Eagle,U.S. Senate,,LIB,Robert D. Garrard,4,,,,,,,,,,,
-Kingman,Eureka,U.S. Senate,,LIB,Robert D. Garrard,5,,,,,,,,,,,
-Kingman,Evan,U.S. Senate,,LIB,Robert D. Garrard,15,,,,,,,,,,,
-Kingman,Galesburg,U.S. Senate,,LIB,Robert D. Garrard,8,,,,,,,,,,,
-Kingman,Hoosier,U.S. Senate,,LIB,Robert D. Garrard,8,,,,,,,,,,,
-Kingman,Kingman,U.S. Senate,,LIB,Robert D. Garrard,4,,,,,,,,,,,
-Kingman,Liberty,U.S. Senate,,LIB,Robert D. Garrard,6,,,,,,,,,,,
-Kingman,Ninnescah,U.S. Senate,,LIB,Robert D. Garrard,3,,,,,,,,,,,
-Kingman,Peters,U.S. Senate,,LIB,Robert D. Garrard,0,,,,,,,,,,,
-Kingman,Richland,U.S. Senate,,LIB,Robert D. Garrard,3,,,,,,,,,,,
-Kingman,Rochester,U.S. Senate,,LIB,Robert D. Garrard,3,,,,,,,,,,,
-Kingman,Rural,U.S. Senate,,LIB,Robert D. Garrard,9,,,,,,,,,,,
-Kingman,Union,U.S. Senate,,LIB,Robert D. Garrard,1,,,,,,,,,,,
-Kingman,Valley,U.S. Senate,,LIB,Robert D. Garrard,1,,,,,,,,,,,
-Kingman,Vinita,U.S. Senate,,LIB,Robert D. Garrard,2,,,,,,,,,,,
-Kingman,White,U.S. Senate,,LIB,Robert D. Garrard,2,,,,,,,,,,,
-Kingman,White #3,U.S. Senate,,LIB,Robert D. Garrard,1,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. Senate,,LIB,Robert D. Garrard,12,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. Senate,,LIB,Robert D. Garrard,24,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. Senate,,LIB,Robert D. Garrard,7,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. Senate,,LIB,Robert D. Garrard,19,,,,,,,,,,,
-Kingman,Totals,U.S. Senate,,LIB,Robert D. Garrard,182,,,,,,,,,,,
-Kingman,Provisionals,U.S. Senate,,LIB,Robert D. Garrard,4,,,,,,,,,,,
-Kingman,Grand Total,U.S. Senate,,LIB,Robert D. Garrard,186,,,,,,,,,,,
-Kingman,Allen,U.S. House,4,DEM,Daniel B. Giroux,8,,,,,,,,,,,
-Kingman,Belmont,U.S. House,4,DEM,Daniel B. Giroux,3,,,,,,,,,,,
-Kingman,Bennett,U.S. House,4,DEM,Daniel B. Giroux,52,,,,,,,,,,,
-Kingman,Canton,U.S. House,4,DEM,Daniel B. Giroux,3,,,,,,,,,,,
-Kingman,Chikaskia,U.S. House,4,DEM,Daniel B. Giroux,11,,,,,,,,,,,
-Kingman,Dale,U.S. House,4,DEM,Daniel B. Giroux,13,,,,,,,,,,,
-Kingman,Dresden,U.S. House,4,DEM,Daniel B. Giroux,37,,,,,,,,,,,
-Kingman,Eagle,U.S. House,4,DEM,Daniel B. Giroux,6,,,,,,,,,,,
-Kingman,Eureka,U.S. House,4,DEM,Daniel B. Giroux,3,,,,,,,,,,,
-Kingman,Evan,U.S. House,4,DEM,Daniel B. Giroux,31,,,,,,,,,,,
-Kingman,Galesburg,U.S. House,4,DEM,Daniel B. Giroux,16,,,,,,,,,,,
-Kingman,Hoosier,U.S. House,4,DEM,Daniel B. Giroux,8,,,,,,,,,,,
-Kingman,Kingman,U.S. House,4,DEM,Daniel B. Giroux,4,,,,,,,,,,,
-Kingman,Liberty,U.S. House,4,DEM,Daniel B. Giroux,4,,,,,,,,,,,
-Kingman,Ninnescah,U.S. House,4,DEM,Daniel B. Giroux,13,,,,,,,,,,,
-Kingman,Peters,U.S. House,4,DEM,Daniel B. Giroux,5,,,,,,,,,,,
-Kingman,Richland,U.S. House,4,DEM,Daniel B. Giroux,1,,,,,,,,,,,
-Kingman,Rochester,U.S. House,4,DEM,Daniel B. Giroux,13,,,,,,,,,,,
-Kingman,Rural,U.S. House,4,DEM,Daniel B. Giroux,32,,,,,,,,,,,
-Kingman,Union,U.S. House,4,DEM,Daniel B. Giroux,5,,,,,,,,,,,
-Kingman,Valley,U.S. House,4,DEM,Daniel B. Giroux,13,,,,,,,,,,,
-Kingman,Vinita,U.S. House,4,DEM,Daniel B. Giroux,23,,,,,,,,,,,
-Kingman,White,U.S. House,4,DEM,Daniel B. Giroux,21,,,,,,,,,,,
-Kingman,White #3,U.S. House,4,DEM,Daniel B. Giroux,14,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. House,4,DEM,Daniel B. Giroux,74,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. House,4,DEM,Daniel B. Giroux,100,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. House,4,DEM,Daniel B. Giroux,33,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. House,4,DEM,Daniel B. Giroux,45,,,,,,,,,,,
-Kingman,Totals,U.S. House,4,DEM,Daniel B. Giroux,591,,,,,,,,,,,
-Kingman,Provisionals,U.S. House,4,DEM,Daniel B. Giroux,4,,,,,,,,,,,
-Kingman,Grand Total,U.S. House,4,DEM,Daniel B. Giroux,595,,,,,,,,,,,
-Kingman,Allen,U.S. House,4,REP,Michael Pompeo,32,,,,,,,,,,,
-Kingman,Belmont,U.S. House,4,REP,Michael Pompeo,20,,,,,,,,,,,
-Kingman,Bennett,U.S. House,4,REP,Michael Pompeo,192,,,,,,,,,,,
-Kingman,Canton,U.S. House,4,REP,Michael Pompeo,39,,,,,,,,,,,
-Kingman,Chikaskia,U.S. House,4,REP,Michael Pompeo,35,,,,,,,,,,,
-Kingman,Dale,U.S. House,4,REP,Michael Pompeo,56,,,,,,,,,,,
-Kingman,Dresden,U.S. House,4,REP,Michael Pompeo,112,,,,,,,,,,,
-Kingman,Eagle,U.S. House,4,REP,Michael Pompeo,38,,,,,,,,,,,
-Kingman,Eureka,U.S. House,4,REP,Michael Pompeo,46,,,,,,,,,,,
-Kingman,Evan,U.S. House,4,REP,Michael Pompeo,208,,,,,,,,,,,
-Kingman,Galesburg,U.S. House,4,REP,Michael Pompeo,88,,,,,,,,,,,
-Kingman,Hoosier,U.S. House,4,REP,Michael Pompeo,55,,,,,,,,,,,
-Kingman,Kingman,U.S. House,4,REP,Michael Pompeo,37,,,,,,,,,,,
-Kingman,Liberty,U.S. House,4,REP,Michael Pompeo,35,,,,,,,,,,,
-Kingman,Ninnescah,U.S. House,4,REP,Michael Pompeo,122,,,,,,,,,,,
-Kingman,Peters,U.S. House,4,REP,Michael Pompeo,36,,,,,,,,,,,
-Kingman,Richland,U.S. House,4,REP,Michael Pompeo,43,,,,,,,,,,,
-Kingman,Rochester,U.S. House,4,REP,Michael Pompeo,52,,,,,,,,,,,
-Kingman,Rural,U.S. House,4,REP,Michael Pompeo,79,,,,,,,,,,,
-Kingman,Union,U.S. House,4,REP,Michael Pompeo,24,,,,,,,,,,,
-Kingman,Valley,U.S. House,4,REP,Michael Pompeo,35,,,,,,,,,,,
-Kingman,Vinita,U.S. House,4,REP,Michael Pompeo,81,,,,,,,,,,,
-Kingman,White,U.S. House,4,REP,Michael Pompeo,71,,,,,,,,,,,
-Kingman,White #3,U.S. House,4,REP,Michael Pompeo,34,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. House,4,REP,Michael Pompeo,216,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. House,4,REP,Michael Pompeo,298,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. House,4,REP,Michael Pompeo,118,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. House,4,REP,Michael Pompeo,151,,,,,,,,,,,
-Kingman,Totals,U.S. House,4,REP,Michael Pompeo,2353,,,,,,,,,,,
-Kingman,Provisionals,U.S. House,4,REP,Michael Pompeo,21,,,,,,,,,,,
-Kingman,Grand Total,U.S. House,4,REP,Michael Pompeo,2374,,,,,,,,,,,
-Kingman,Allen,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Belmont,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Bennett,U.S. House,4,LIB,Gorden J. Bakken,10,,,,,,,,,,,
-Kingman,Canton,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Chikaskia,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Dale,U.S. House,4,LIB,Gorden J. Bakken,2,,,,,,,,,,,
-Kingman,Dresden,U.S. House,4,LIB,Gorden J. Bakken,2,,,,,,,,,,,
-Kingman,Eagle,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Eureka,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Evan,U.S. House,4,LIB,Gorden J. Bakken,5,,,,,,,,,,,
-Kingman,Galesburg,U.S. House,4,LIB,Gorden J. Bakken,5,,,,,,,,,,,
-Kingman,Hoosier,U.S. House,4,LIB,Gorden J. Bakken,4,,,,,,,,,,,
-Kingman,Kingman,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Liberty,U.S. House,4,LIB,Gorden J. Bakken,2,,,,,,,,,,,
-Kingman,Ninnescah,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Peters,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Richland,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Rochester,U.S. House,4,LIB,Gorden J. Bakken,3,,,,,,,,,,,
-Kingman,Rural,U.S. House,4,LIB,Gorden J. Bakken,2,,,,,,,,,,,
-Kingman,Union,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Valley,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Vinita,U.S. House,4,LIB,Gorden J. Bakken,4,,,,,,,,,,,
-Kingman,White,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,White #3,U.S. House,4,LIB,Gorden J. Bakken,1,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. House,4,LIB,Gorden J. Bakken,5,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. House,4,LIB,Gorden J. Bakken,8,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. House,4,LIB,Gorden J. Bakken,3,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. House,4,LIB,Gorden J. Bakken,4,,,,,,,,,,,
-Kingman,Totals,U.S. House,4,LIB,Gorden J. Bakken,67,,,,,,,,,,,
-Kingman,Provisionals,U.S. House,4,LIB,Gorden J. Bakken,0,,,,,,,,,,,
-Kingman,Grand Total,U.S. House,4,LIB,Gorden J. Bakken,67,,,,,,,,,,,
-Kingman,Allen,U.S. House,4,IND,Miranda Allen,12,,,,,,,,,,,
-Kingman,Belmont,U.S. House,4,IND,Miranda Allen,2,,,,,,,,,,,
-Kingman,Bennett,U.S. House,4,IND,Miranda Allen,31,,,,,,,,,,,
-Kingman,Canton,U.S. House,4,IND,Miranda Allen,2,,,,,,,,,,,
-Kingman,Chikaskia,U.S. House,4,IND,Miranda Allen,3,,,,,,,,,,,
-Kingman,Dale,U.S. House,4,IND,Miranda Allen,6,,,,,,,,,,,
-Kingman,Dresden,U.S. House,4,IND,Miranda Allen,17,,,,,,,,,,,
-Kingman,Eagle,U.S. House,4,IND,Miranda Allen,6,,,,,,,,,,,
-Kingman,Eureka,U.S. House,4,IND,Miranda Allen,6,,,,,,,,,,,
-Kingman,Evan,U.S. House,4,IND,Miranda Allen,19,,,,,,,,,,,
-Kingman,Galesburg,U.S. House,4,IND,Miranda Allen,8,,,,,,,,,,,
-Kingman,Hoosier,U.S. House,4,IND,Miranda Allen,3,,,,,,,,,,,
-Kingman,Kingman,U.S. House,4,IND,Miranda Allen,8,,,,,,,,,,,
-Kingman,Liberty,U.S. House,4,IND,Miranda Allen,9,,,,,,,,,,,
-Kingman,Ninnescah,U.S. House,4,IND,Miranda Allen,7,,,,,,,,,,,
-Kingman,Peters,U.S. House,4,IND,Miranda Allen,8,,,,,,,,,,,
-Kingman,Richland,U.S. House,4,IND,Miranda Allen,5,,,,,,,,,,,
-Kingman,Rochester,U.S. House,4,IND,Miranda Allen,15,,,,,,,,,,,
-Kingman,Rural,U.S. House,4,IND,Miranda Allen,15,,,,,,,,,,,
-Kingman,Union,U.S. House,4,IND,Miranda Allen,3,,,,,,,,,,,
-Kingman,Valley,U.S. House,4,IND,Miranda Allen,3,,,,,,,,,,,
-Kingman,Vinita,U.S. House,4,IND,Miranda Allen,11,,,,,,,,,,,
-Kingman,White,U.S. House,4,IND,Miranda Allen,9,,,,,,,,,,,
-Kingman,White #3,U.S. House,4,IND,Miranda Allen,5,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,U.S. House,4,IND,Miranda Allen,15,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,U.S. House,4,IND,Miranda Allen,39,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,U.S. House,4,IND,Miranda Allen,11,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,U.S. House,4,IND,Miranda Allen,17,,,,,,,,,,,
-Kingman,Totals,U.S. House,4,IND,Miranda Allen,295,,,,,,,,,,,
-Kingman,Provisionals,U.S. House,4,IND,Miranda Allen,5,,,,,,,,,,,
-Kingman,Grand Total,U.S. House,4,IND,Miranda Allen,300,,,,,,,,,,,
-Kingman,Allen,State Senate,32,REP,Larry W. Alley,39,,,,,,,,,,,
-Kingman,Belmont,State Senate,32,REP,Larry W. Alley,14,,,,,,,,,,,
-Kingman,Bennett,State Senate,32,REP,Larry W. Alley,191,,,,,,,,,,,
-Kingman,Canton,State Senate,32,REP,Larry W. Alley,38,,,,,,,,,,,
-Kingman,Chikaskia,State Senate,32,REP,Larry W. Alley,33,,,,,,,,,,,
-Kingman,Eagle,State Senate,32,REP,Larry W. Alley,38,,,,,,,,,,,
-Kingman,Kingman,State Senate,32,REP,Larry W. Alley,33,,,,,,,,,,,
-Kingman,Liberty,State Senate,32,REP,Larry W. Alley,36,,,,,,,,,,,
-Kingman,Peters,State Senate,32,REP,Larry W. Alley,40,,,,,,,,,,,
-Kingman,Richland,State Senate,32,REP,Larry W. Alley,41,,,,,,,,,,,
-Kingman,Rochester,State Senate,32,REP,Larry W. Alley,55,,,,,,,,,,,
-Kingman,Valley,State Senate,32,REP,Larry W. Alley,35,,,,,,,,,,,
-Kingman,Totals,State Senate,32,REP,Larry W. Alley,593,,,,,,,,,,,
-Kingman,Provisionals,State Senate,32,REP,Larry W. Alley,2,,,,,,,,,,,
-Kingman,Grand Total,State Senate,32,REP,Larry W. Alley,595,,,,,,,,,,,
-Kingman,Allen,State Senate,32,DEM,Don Shimkus,11,,,,,,,,,,,
-Kingman,Belmont,State Senate,32,DEM,Don Shimkus,9,,,,,,,,,,,
-Kingman,Bennett,State Senate,32,DEM,Don Shimkus,81,,,,,,,,,,,
-Kingman,Canton,State Senate,32,DEM,Don Shimkus,5,,,,,,,,,,,
-Kingman,Chikaskia,State Senate,32,DEM,Don Shimkus,13,,,,,,,,,,,
-Kingman,Eagle,State Senate,32,DEM,Don Shimkus,9,,,,,,,,,,,
-Kingman,Kingman,State Senate,32,DEM,Don Shimkus,10,,,,,,,,,,,
-Kingman,Liberty,State Senate,32,DEM,Don Shimkus,13,,,,,,,,,,,
-Kingman,Peters,State Senate,32,DEM,Don Shimkus,7,,,,,,,,,,,
-Kingman,Richland,State Senate,32,DEM,Don Shimkus,6,,,,,,,,,,,
-Kingman,Rochester,State Senate,32,DEM,Don Shimkus,24,,,,,,,,,,,
-Kingman,Valley,State Senate,32,DEM,Don Shimkus,11,,,,,,,,,,,
-Kingman,Totals,State Senate,32,DEM,Don Shimkus,199,,,,,,,,,,,
-Kingman,Provisionals,State Senate,32,DEM,Don Shimkus,2,,,,,,,,,,,
-Kingman,Grand Total,State Senate,32,DEM,Don Shimkus,201,,,,,,,,,,,
-Kingman,Dale,State Senate,34,REP,Edward E. Berger,60,,,,,,,,,,,
-Kingman,Dresden,State Senate,34,REP,Edward E. Berger,131,,,,,,,,,,,
-Kingman,Eureka,State Senate,34,REP,Edward E. Berger,49,,,,,,,,,,,
-Kingman,Evan,State Senate,34,REP,Edward E. Berger,218,,,,,,,,,,,
-Kingman,Galesburg,State Senate,34,REP,Edward E. Berger,89,,,,,,,,,,,
-Kingman,Hoosier,State Senate,34,REP,Edward E. Berger,63,,,,,,,,,,,
-Kingman,Ninnescah,State Senate,34,REP,Edward E. Berger,128,,,,,,,,,,,
-Kingman,Rural,State Senate,34,REP,Edward E. Berger,101,,,,,,,,,,,
-Kingman,Union,State Senate,34,REP,Edward E. Berger,22,,,,,,,,,,,
-Kingman,Vinita,State Senate,34,REP,Edward E. Berger,92,,,,,,,,,,,
-Kingman,White,State Senate,34,REP,Edward E. Berger,76,,,,,,,,,,,
-Kingman,White #3,State Senate,34,REP,Edward E. Berger,45,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,State Senate,34,REP,Edward E. Berger,248,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,State Senate,34,REP,Edward E. Berger,343,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,State Senate,34,REP,Edward E. Berger,127,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,State Senate,34,REP,Edward E. Berger,161,,,,,,,,,,,
-Kingman,Totals,State Senate,34,REP,Edward E. Berger,1953,,,,,,,,,,,
-Kingman,Provisionals,State Senate,34,REP,Edward E. Berger,18,,,,,,,,,,,
-Kingman,Grand Total,State Senate,34,REP,Edward E. Berger,1971,,,,,,,,,,,
-Kingman,Dale,State Senate,34,DEM,Homer L. Gilson,13,,,,,,,,,,,
-Kingman,Dresden,State Senate,34,DEM,Homer L. Gilson,35,,,,,,,,,,,
-Kingman,Eureka,State Senate,34,DEM,Homer L. Gilson,7,,,,,,,,,,,
-Kingman,Evan,State Senate,34,DEM,Homer L. Gilson,34,,,,,,,,,,,
-Kingman,Galesburg,State Senate,34,DEM,Homer L. Gilson,13,,,,,,,,,,,
-Kingman,Hoosier,State Senate,34,DEM,Homer L. Gilson,6,,,,,,,,,,,
-Kingman,Ninnescah,State Senate,34,DEM,Homer L. Gilson,13,,,,,,,,,,,
-Kingman,Rural,State Senate,34,DEM,Homer L. Gilson,23,,,,,,,,,,,
-Kingman,Union,State Senate,34,DEM,Homer L. Gilson,6,,,,,,,,,,,
-Kingman,Vinita,State Senate,34,DEM,Homer L. Gilson,20,,,,,,,,,,,
-Kingman,White,State Senate,34,DEM,Homer L. Gilson,15,,,,,,,,,,,
-Kingman,White #3,State Senate,34,DEM,Homer L. Gilson,5,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,State Senate,34,DEM,Homer L. Gilson,55,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,State Senate,34,DEM,Homer L. Gilson,86,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,State Senate,34,DEM,Homer L. Gilson,28,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,State Senate,34,DEM,Homer L. Gilson,42,,,,,,,,,,,
-Kingman,Totals,State Senate,34,DEM,Homer L. Gilson,401,,,,,,,,,,,
-Kingman,Provisionals,State Senate,34,DEM,Homer L. Gilson,5,,,,,,,,,,,
-Kingman,Grand Total,State Senate,34,DEM,Homer L. Gilson,406,,,,,,,,,,,
-Kingman,Allen,State House,114,REP,Jack Thimesch,49,,,,,,,,,,,
-Kingman,Belmont,State House,114,REP,Jack Thimesch,21,,,,,,,,,,,
-Kingman,Bennett,State House,114,REP,Jack Thimesch,249,,,,,,,,,,,
-Kingman,Canton,State House,114,REP,Jack Thimesch,43,,,,,,,,,,,
-Kingman,Chikaskia,State House,114,REP,Jack Thimesch,47,,,,,,,,,,,
-Kingman,Dale,State House,114,REP,Jack Thimesch,66,,,,,,,,,,,
-Kingman,Dresden,State House,114,REP,Jack Thimesch,136,,,,,,,,,,,
-Kingman,Eagle,State House,114,REP,Jack Thimesch,48,,,,,,,,,,,
-Kingman,Eureka,State House,114,REP,Jack Thimesch,54,,,,,,,,,,,
-Kingman,Evan,State House,114,REP,Jack Thimesch,239,,,,,,,,,,,
-Kingman,Galesburg,State House,114,REP,Jack Thimesch,105,,,,,,,,,,,
-Kingman,Hoosier,State House,114,REP,Jack Thimesch,57,,,,,,,,,,,
-Kingman,Kingman,State House,114,REP,Jack Thimesch,36,,,,,,,,,,,
-Kingman,Liberty,State House,114,REP,Jack Thimesch,39,,,,,,,,,,,
-Kingman,Ninnescah,State House,114,REP,Jack Thimesch,125,,,,,,,,,,,
-Kingman,Peters,State House,114,REP,Jack Thimesch,46,,,,,,,,,,,
-Kingman,Richland,State House,114,REP,Jack Thimesch,40,,,,,,,,,,,
-Kingman,Rochester,State House,114,REP,Jack Thimesch,69,,,,,,,,,,,
-Kingman,Rural,State House,114,REP,Jack Thimesch,101,,,,,,,,,,,
-Kingman,Union,State House,114,REP,Jack Thimesch,31,,,,,,,,,,,
-Kingman,Valley,State House,114,REP,Jack Thimesch,46,,,,,,,,,,,
-Kingman,Vinita,State House,114,REP,Jack Thimesch,100,,,,,,,,,,,
-Kingman,White,State House,114,REP,Jack Thimesch,89,,,,,,,,,,,
-Kingman,White #3,State House,114,REP,Jack Thimesch,50,,,,,,,,,,,
-Kingman,Kingman City 1st Ward,State House,114,REP,Jack Thimesch,277,,,,,,,,,,,
-Kingman,Kingman City 2nd Ward,State House,114,REP,Jack Thimesch,381,,,,,,,,,,,
-Kingman,Kingman City 3rd Ward,State House,114,REP,Jack Thimesch,145,,,,,,,,,,,
-Kingman,Kingman City 4th Ward,State House,114,REP,Jack Thimesch,198,,,,,,,,,,,
-Kingman,Totals,State House,114,REP,Jack Thimesch,2887,,,,,,,,,,,
-Kingman,Provisionals,State House,114,REP,Jack Thimesch,26,,,,,,,,,,,
-Kingman,Grand Total,State House,114,REP,Jack Thimesch,2913,,,,,,,,,,,
+county,precinct,office,district,party,candidate,votes,vtd
+KINGMAN,Allen Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",49,000010
+KINGMAN,Belmont Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",21,000020
+KINGMAN,Bennett Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",249,000030
+KINGMAN,Canton Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",43,000040
+KINGMAN,Chikaskia Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",47,000050
+KINGMAN,Dale Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",66,000060
+KINGMAN,Dresden Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",136,000070
+KINGMAN,Eagle Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",48,000080
+KINGMAN,Eureka Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",54,000090
+KINGMAN,Evan Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",239,000100
+KINGMAN,Galesburg Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",105,000110
+KINGMAN,Hoosier Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",57,000120
+KINGMAN,Kingman Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",36,000130
+KINGMAN,Kingman Ward 1,Kansas House of Representatives,114,Republican,"Thimesch, Jack",277,00014A
+KINGMAN,Kingman Ward 1 Exclave,Kansas House of Representatives,114,Republican,"Thimesch, Jack",0,00014B
+KINGMAN,Kingman Ward 2,Kansas House of Representatives,114,Republican,"Thimesch, Jack",407,000150
+KINGMAN,Kingman Ward 3,Kansas House of Representatives,114,Republican,"Thimesch, Jack",145,000160
+KINGMAN,Kingman Ward 4,Kansas House of Representatives,114,Republican,"Thimesch, Jack",198,000170
+KINGMAN,Liberty Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",39,000180
+KINGMAN,Ninnescah Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",125,000190
+KINGMAN,Peters Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",46,000200
+KINGMAN,Richland Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",40,000210
+KINGMAN,Rochester Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",69,000220
+KINGMAN,Rural Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",101,000230
+KINGMAN,Union Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",31,000240
+KINGMAN,Valley Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",46,000250
+KINGMAN,Vinita Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",100,000260
+KINGMAN,White Township Part A,Kansas House of Representatives,114,Republican,"Thimesch, Jack",89,00027A
+KINGMAN,White Township Part A Enclave,Kansas House of Representatives,114,Republican,"Thimesch, Jack",0,00027B
+KINGMAN,White Township Part B,Kansas House of Representatives,114,Republican,"Thimesch, Jack",50,00027C
+KINGMAN,Allen Township,Kansas Senate,32,Democratic,"Shimkus, Don",11,000010
+KINGMAN,Allen Township,Kansas Senate,32,Republican,"Alley, Larry W.",39,000010
+KINGMAN,Belmont Township,Kansas Senate,32,Democratic,"Shimkus, Don",9,000020
+KINGMAN,Belmont Township,Kansas Senate,32,Republican,"Alley, Larry W.",14,000020
+KINGMAN,Bennett Township,Kansas Senate,32,Democratic,"Shimkus, Don",83,000030
+KINGMAN,Bennett Township,Kansas Senate,32,Republican,"Alley, Larry W.",193,000030
+KINGMAN,Canton Township,Kansas Senate,32,Democratic,"Shimkus, Don",5,000040
+KINGMAN,Canton Township,Kansas Senate,32,Republican,"Alley, Larry W.",38,000040
+KINGMAN,Chikaskia Township,Kansas Senate,32,Democratic,"Shimkus, Don",13,000050
+KINGMAN,Chikaskia Township,Kansas Senate,32,Republican,"Alley, Larry W.",33,000050
+KINGMAN,Dale Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",13,000060
+KINGMAN,Dale Township,Kansas Senate,34,Republican,"Berger, Edward E.",60,000060
+KINGMAN,Dresden Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",35,000070
+KINGMAN,Dresden Township,Kansas Senate,34,Republican,"Berger, Edward E.",131,000070
+KINGMAN,Eagle Township,Kansas Senate,32,Democratic,"Shimkus, Don",9,000080
+KINGMAN,Eagle Township,Kansas Senate,32,Republican,"Alley, Larry W.",38,000080
+KINGMAN,Eureka Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",7,000090
+KINGMAN,Eureka Township,Kansas Senate,34,Republican,"Berger, Edward E.",49,000090
+KINGMAN,Evan Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",34,000100
+KINGMAN,Evan Township,Kansas Senate,34,Republican,"Berger, Edward E.",218,000100
+KINGMAN,Galesburg Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",13,000110
+KINGMAN,Galesburg Township,Kansas Senate,34,Republican,"Berger, Edward E.",89,000110
+KINGMAN,Hoosier Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",6,000120
+KINGMAN,Hoosier Township,Kansas Senate,34,Republican,"Berger, Edward E.",63,000120
+KINGMAN,Kingman Township,Kansas Senate,32,Democratic,"Shimkus, Don",10,000130
+KINGMAN,Kingman Township,Kansas Senate,32,Republican,"Alley, Larry W.",33,000130
+KINGMAN,Kingman Ward 1,Kansas Senate,34,Democratic,"Gilson, Homer L.",55,00014A
+KINGMAN,Kingman Ward 1,Kansas Senate,34,Republican,"Berger, Edward E.",248,00014A
+KINGMAN,Kingman Ward 1 Exclave,Kansas Senate,34,Democratic,"Gilson, Homer L.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,Kansas Senate,34,Republican,"Berger, Edward E.",0,00014B
+KINGMAN,Kingman Ward 2,Kansas Senate,34,Democratic,"Gilson, Homer L.",91,000150
+KINGMAN,Kingman Ward 2,Kansas Senate,34,Republican,"Berger, Edward E.",361,000150
+KINGMAN,Kingman Ward 3,Kansas Senate,34,Democratic,"Gilson, Homer L.",28,000160
+KINGMAN,Kingman Ward 3,Kansas Senate,34,Republican,"Berger, Edward E.",127,000160
+KINGMAN,Kingman Ward 4,Kansas Senate,34,Democratic,"Gilson, Homer L.",42,000170
+KINGMAN,Kingman Ward 4,Kansas Senate,34,Republican,"Berger, Edward E.",161,000170
+KINGMAN,Liberty Township,Kansas Senate,32,Democratic,"Shimkus, Don",13,000180
+KINGMAN,Liberty Township,Kansas Senate,32,Republican,"Alley, Larry W.",36,000180
+KINGMAN,Ninnescah Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",13,000190
+KINGMAN,Ninnescah Township,Kansas Senate,34,Republican,"Berger, Edward E.",128,000190
+KINGMAN,Peters Township,Kansas Senate,32,Democratic,"Shimkus, Don",7,000200
+KINGMAN,Peters Township,Kansas Senate,32,Republican,"Alley, Larry W.",40,000200
+KINGMAN,Richland Township,Kansas Senate,32,Democratic,"Shimkus, Don",6,000210
+KINGMAN,Richland Township,Kansas Senate,32,Republican,"Alley, Larry W.",41,000210
+KINGMAN,Rochester Township,Kansas Senate,32,Democratic,"Shimkus, Don",24,000220
+KINGMAN,Rochester Township,Kansas Senate,32,Republican,"Alley, Larry W.",55,000220
+KINGMAN,Rural Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",23,000230
+KINGMAN,Rural Township,Kansas Senate,34,Republican,"Berger, Edward E.",101,000230
+KINGMAN,Union Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",6,000240
+KINGMAN,Union Township,Kansas Senate,34,Republican,"Berger, Edward E.",22,000240
+KINGMAN,Valley Township,Kansas Senate,32,Democratic,"Shimkus, Don",11,000250
+KINGMAN,Valley Township,Kansas Senate,32,Republican,"Alley, Larry W.",35,000250
+KINGMAN,Vinita Township,Kansas Senate,34,Democratic,"Gilson, Homer L.",20,000260
+KINGMAN,Vinita Township,Kansas Senate,34,Republican,"Berger, Edward E.",92,000260
+KINGMAN,White Township Part A,Kansas Senate,34,Democratic,"Gilson, Homer L.",15,00027A
+KINGMAN,White Township Part A,Kansas Senate,34,Republican,"Berger, Edward E.",76,00027A
+KINGMAN,White Township Part A Enclave,Kansas Senate,34,Democratic,"Gilson, Homer L.",0,00027B
+KINGMAN,White Township Part A Enclave,Kansas Senate,34,Republican,"Berger, Edward E.",0,00027B
+KINGMAN,White Township Part B,Kansas Senate,34,Democratic,"Gilson, Homer L.",5,00027C
+KINGMAN,White Township Part B,Kansas Senate,34,Republican,"Berger, Edward E.",45,00027C
+KINGMAN,Allen Township,President / Vice President,,independent,"Stein, Jill",6,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+KINGMAN,Allen Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+KINGMAN,Allen Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000010
+KINGMAN,Allen Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000010
+KINGMAN,Allen Township,President / Vice President,,Republican,"Trump, Donald J.",38,000010
+KINGMAN,Belmont Township,President / Vice President,,independent,"Stein, Jill",1,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+KINGMAN,Belmont Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+KINGMAN,Belmont Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000020
+KINGMAN,Belmont Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+KINGMAN,Belmont Township,President / Vice President,,Republican,"Trump, Donald J.",19,000020
+KINGMAN,Bennett Township,President / Vice President,,independent,"Stein, Jill",2,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+KINGMAN,Bennett Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+KINGMAN,Bennett Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",62,000030
+KINGMAN,Bennett Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000030
+KINGMAN,Bennett Township,President / Vice President,,Republican,"Trump, Donald J.",207,000030
+KINGMAN,Canton Township,President / Vice President,,independent,"Stein, Jill",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+KINGMAN,Canton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+KINGMAN,Canton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000040
+KINGMAN,Canton Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+KINGMAN,Canton Township,President / Vice President,,Republican,"Trump, Donald J.",42,000040
+KINGMAN,Chikaskia Township,President / Vice President,,independent,"Stein, Jill",1,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+KINGMAN,Chikaskia Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000050
+KINGMAN,Chikaskia Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000050
+KINGMAN,Chikaskia Township,President / Vice President,,Republican,"Trump, Donald J.",35,000050
+KINGMAN,Dale Township,President / Vice President,,independent,"Stein, Jill",1,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+KINGMAN,Dale Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+KINGMAN,Dale Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,000060
+KINGMAN,Dale Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000060
+KINGMAN,Dale Township,President / Vice President,,Republican,"Trump, Donald J.",58,000060
+KINGMAN,Dresden Township,President / Vice President,,independent,"Stein, Jill",8,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+KINGMAN,Dresden Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+KINGMAN,Dresden Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",32,000070
+KINGMAN,Dresden Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000070
+KINGMAN,Dresden Township,President / Vice President,,Republican,"Trump, Donald J.",122,000070
+KINGMAN,Eagle Township,President / Vice President,,independent,"Stein, Jill",2,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+KINGMAN,Eagle Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+KINGMAN,Eagle Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000080
+KINGMAN,Eagle Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000080
+KINGMAN,Eagle Township,President / Vice President,,Republican,"Trump, Donald J.",38,000080
+KINGMAN,Eureka Township,President / Vice President,,independent,"Stein, Jill",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+KINGMAN,Eureka Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+KINGMAN,Eureka Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000090
+KINGMAN,Eureka Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000090
+KINGMAN,Eureka Township,President / Vice President,,Republican,"Trump, Donald J.",48,000090
+KINGMAN,Evan Township,President / Vice President,,independent,"Stein, Jill",2,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+KINGMAN,Evan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+KINGMAN,Evan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000100
+KINGMAN,Evan Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000100
+KINGMAN,Evan Township,President / Vice President,,Republican,"Trump, Donald J.",217,000100
+KINGMAN,Galesburg Township,President / Vice President,,independent,"Stein, Jill",1,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+KINGMAN,Galesburg Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000110
+KINGMAN,Galesburg Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000110
+KINGMAN,Galesburg Township,President / Vice President,,Republican,"Trump, Donald J.",96,000110
+KINGMAN,Hoosier Township,President / Vice President,,independent,"Stein, Jill",2,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000120
+KINGMAN,Hoosier Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+KINGMAN,Hoosier Township,President / Vice President,,Republican,"Trump, Donald J.",51,000120
+KINGMAN,Kingman Township,President / Vice President,,independent,"Stein, Jill",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+KINGMAN,Kingman Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+KINGMAN,Kingman Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000130
+KINGMAN,Kingman Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000130
+KINGMAN,Kingman Township,President / Vice President,,Republican,"Trump, Donald J.",45,000130
+KINGMAN,Kingman Ward 1,President / Vice President,,independent,"Stein, Jill",5,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Castle, Darrell L",1,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Hedges, James A",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Maturen, Michael A",1,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"McMullin, Evan",3,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Smith, Mike",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",81,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",12,00014A
+KINGMAN,Kingman Ward 1,President / Vice President,,Republican,"Trump, Donald J.",216,00014A
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,independent,"Stein, Jill",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00014B
+KINGMAN,Kingman Ward 2,President / Vice President,,independent,"Stein, Jill",13,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"McMullin, Evan",10,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",119,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",24,000150
+KINGMAN,Kingman Ward 2,President / Vice President,,Republican,"Trump, Donald J.",325,000150
+KINGMAN,Kingman Ward 3,President / Vice President,,independent,"Stein, Jill",4,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"McMullin, Evan",5,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",32,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",4,000160
+KINGMAN,Kingman Ward 3,President / Vice President,,Republican,"Trump, Donald J.",128,000160
+KINGMAN,Kingman Ward 4,President / Vice President,,independent,"Stein, Jill",8,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"McMullin, Evan",2,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",12,000170
+KINGMAN,Kingman Ward 4,President / Vice President,,Republican,"Trump, Donald J.",155,000170
+KINGMAN,Liberty Township,President / Vice President,,independent,"Stein, Jill",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+KINGMAN,Liberty Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+KINGMAN,Liberty Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000180
+KINGMAN,Liberty Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000180
+KINGMAN,Liberty Township,President / Vice President,,Republican,"Trump, Donald J.",42,000180
+KINGMAN,Ninnescah Township,President / Vice President,,independent,"Stein, Jill",4,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+KINGMAN,Ninnescah Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000190
+KINGMAN,Ninnescah Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000190
+KINGMAN,Ninnescah Township,President / Vice President,,Republican,"Trump, Donald J.",123,000190
+KINGMAN,Peters Township,President / Vice President,,independent,"Stein, Jill",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"McMullin, Evan",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+KINGMAN,Peters Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+KINGMAN,Peters Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000200
+KINGMAN,Peters Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000200
+KINGMAN,Peters Township,President / Vice President,,Republican,"Trump, Donald J.",44,000200
+KINGMAN,Richland Township,President / Vice President,,independent,"Stein, Jill",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+KINGMAN,Richland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+KINGMAN,Richland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000210
+KINGMAN,Richland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000210
+KINGMAN,Richland Township,President / Vice President,,Republican,"Trump, Donald J.",46,000210
+KINGMAN,Rochester Township,President / Vice President,,independent,"Stein, Jill",2,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+KINGMAN,Rochester Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+KINGMAN,Rochester Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,000220
+KINGMAN,Rochester Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000220
+KINGMAN,Rochester Township,President / Vice President,,Republican,"Trump, Donald J.",53,000220
+KINGMAN,Rural Township,President / Vice President,,independent,"Stein, Jill",3,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+KINGMAN,Rural Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+KINGMAN,Rural Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000230
+KINGMAN,Rural Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000230
+KINGMAN,Rural Township,President / Vice President,,Republican,"Trump, Donald J.",97,000230
+KINGMAN,Union Township,President / Vice President,,independent,"Stein, Jill",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+KINGMAN,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+KINGMAN,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000240
+KINGMAN,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000240
+KINGMAN,Union Township,President / Vice President,,Republican,"Trump, Donald J.",23,000240
+KINGMAN,Valley Township,President / Vice President,,independent,"Stein, Jill",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+KINGMAN,Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+KINGMAN,Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000250
+KINGMAN,Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000250
+KINGMAN,Valley Township,President / Vice President,,Republican,"Trump, Donald J.",41,000250
+KINGMAN,Vinita Township,President / Vice President,,independent,"Stein, Jill",2,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Hedges, James A",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"McMullin, Evan",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Perry, Darryl",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Smith, Mike",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Sood, Ajay",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+KINGMAN,Vinita Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+KINGMAN,Vinita Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",22,000260
+KINGMAN,Vinita Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000260
+KINGMAN,Vinita Township,President / Vice President,,Republican,"Trump, Donald J.",95,000260
+KINGMAN,White Township Part A,President / Vice President,,independent,"Stein, Jill",1,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Castle, Darrell L",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Giordani, Rocky",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Hedges, James A",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Hoefling, Tom",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Kahn, Lynn",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"La Riva, Gloria",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Maturen, Michael A",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"McMullin, Evan",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Perry, Darryl",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Schriner, Joe C",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Smith, Mike",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Sood, Ajay",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Sterling, Shawna",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,00027A
+KINGMAN,White Township Part A,President / Vice President,,Libertarian,"Johnson, Gary",0,00027A
+KINGMAN,White Township Part A,President / Vice President,,Republican,"Trump, Donald J.",85,00027A
+KINGMAN,White Township Part A Enclave,President / Vice President,,independent,"Stein, Jill",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Hedges, James A",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Smith, Mike",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00027B
+KINGMAN,White Township Part A Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00027B
+KINGMAN,White Township Part B,President / Vice President,,independent,"Stein, Jill",1,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Castle, Darrell L",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Giordani, Rocky",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Hedges, James A",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Hoefling, Tom",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Kahn, Lynn",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"La Riva, Gloria",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Levinson, Michael S.",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Maturen, Michael A",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"McMullin, Evan",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Perry, Darryl",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Schriner, Joe C",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Smith, Mike",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Sood, Ajay",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Sterling, Shawna",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00027C
+KINGMAN,White Township Part B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,00027C
+KINGMAN,White Township Part B,President / Vice President,,Libertarian,"Johnson, Gary",2,00027C
+KINGMAN,White Township Part B,President / Vice President,,Republican,"Trump, Donald J.",41,00027C
+KINGMAN,Allen Township,United States House of Representatives,4,independent,"Allen, Miranda",12,000010
+KINGMAN,Allen Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000010
+KINGMAN,Allen Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000010
+KINGMAN,Allen Township,United States House of Representatives,4,Republican,"Pompeo, Michael",32,000010
+KINGMAN,Belmont Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000020
+KINGMAN,Belmont Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",3,000020
+KINGMAN,Belmont Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000020
+KINGMAN,Belmont Township,United States House of Representatives,4,Republican,"Pompeo, Michael",20,000020
+KINGMAN,Bennett Township,United States House of Representatives,4,independent,"Allen, Miranda",31,000030
+KINGMAN,Bennett Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",52,000030
+KINGMAN,Bennett Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",10,000030
+KINGMAN,Bennett Township,United States House of Representatives,4,Republican,"Pompeo, Michael",192,000030
+KINGMAN,Canton Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000040
+KINGMAN,Canton Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",3,000040
+KINGMAN,Canton Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000040
+KINGMAN,Canton Township,United States House of Representatives,4,Republican,"Pompeo, Michael",39,000040
+KINGMAN,Chikaskia Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000050
+KINGMAN,Chikaskia Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",11,000050
+KINGMAN,Chikaskia Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000050
+KINGMAN,Chikaskia Township,United States House of Representatives,4,Republican,"Pompeo, Michael",35,000050
+KINGMAN,Dale Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000060
+KINGMAN,Dale Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000060
+KINGMAN,Dale Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000060
+KINGMAN,Dale Township,United States House of Representatives,4,Republican,"Pompeo, Michael",56,000060
+KINGMAN,Dresden Township,United States House of Representatives,4,independent,"Allen, Miranda",17,000070
+KINGMAN,Dresden Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",37,000070
+KINGMAN,Dresden Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000070
+KINGMAN,Dresden Township,United States House of Representatives,4,Republican,"Pompeo, Michael",112,000070
+KINGMAN,Eagle Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000080
+KINGMAN,Eagle Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",6,000080
+KINGMAN,Eagle Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000080
+KINGMAN,Eagle Township,United States House of Representatives,4,Republican,"Pompeo, Michael",38,000080
+KINGMAN,Eureka Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000090
+KINGMAN,Eureka Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",3,000090
+KINGMAN,Eureka Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000090
+KINGMAN,Eureka Township,United States House of Representatives,4,Republican,"Pompeo, Michael",46,000090
+KINGMAN,Evan Township,United States House of Representatives,4,independent,"Allen, Miranda",19,000100
+KINGMAN,Evan Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",31,000100
+KINGMAN,Evan Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000100
+KINGMAN,Evan Township,United States House of Representatives,4,Republican,"Pompeo, Michael",208,000100
+KINGMAN,Galesburg Township,United States House of Representatives,4,independent,"Allen, Miranda",8,000110
+KINGMAN,Galesburg Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",16,000110
+KINGMAN,Galesburg Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000110
+KINGMAN,Galesburg Township,United States House of Representatives,4,Republican,"Pompeo, Michael",88,000110
+KINGMAN,Hoosier Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000120
+KINGMAN,Hoosier Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000120
+KINGMAN,Hoosier Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",4,000120
+KINGMAN,Hoosier Township,United States House of Representatives,4,Republican,"Pompeo, Michael",55,000120
+KINGMAN,Kingman Township,United States House of Representatives,4,independent,"Allen, Miranda",8,000130
+KINGMAN,Kingman Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000130
+KINGMAN,Kingman Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000130
+KINGMAN,Kingman Township,United States House of Representatives,4,Republican,"Pompeo, Michael",37,000130
+KINGMAN,Kingman Ward 1,United States House of Representatives,4,independent,"Allen, Miranda",15,00014A
+KINGMAN,Kingman Ward 1,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",74,00014A
+KINGMAN,Kingman Ward 1,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,00014A
+KINGMAN,Kingman Ward 1,United States House of Representatives,4,Republican,"Pompeo, Michael",216,00014A
+KINGMAN,Kingman Ward 1 Exclave,United States House of Representatives,4,independent,"Allen, Miranda",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States House of Representatives,4,Republican,"Pompeo, Michael",0,00014B
+KINGMAN,Kingman Ward 2,United States House of Representatives,4,independent,"Allen, Miranda",44,000150
+KINGMAN,Kingman Ward 2,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",104,000150
+KINGMAN,Kingman Ward 2,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",8,000150
+KINGMAN,Kingman Ward 2,United States House of Representatives,4,Republican,"Pompeo, Michael",319,000150
+KINGMAN,Kingman Ward 3,United States House of Representatives,4,independent,"Allen, Miranda",11,000160
+KINGMAN,Kingman Ward 3,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",33,000160
+KINGMAN,Kingman Ward 3,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000160
+KINGMAN,Kingman Ward 3,United States House of Representatives,4,Republican,"Pompeo, Michael",118,000160
+KINGMAN,Kingman Ward 4,United States House of Representatives,4,independent,"Allen, Miranda",17,000170
+KINGMAN,Kingman Ward 4,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",45,000170
+KINGMAN,Kingman Ward 4,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",4,000170
+KINGMAN,Kingman Ward 4,United States House of Representatives,4,Republican,"Pompeo, Michael",151,000170
+KINGMAN,Liberty Township,United States House of Representatives,4,independent,"Allen, Miranda",9,000180
+KINGMAN,Liberty Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000180
+KINGMAN,Liberty Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000180
+KINGMAN,Liberty Township,United States House of Representatives,4,Republican,"Pompeo, Michael",35,000180
+KINGMAN,Ninnescah Township,United States House of Representatives,4,independent,"Allen, Miranda",7,000190
+KINGMAN,Ninnescah Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000190
+KINGMAN,Ninnescah Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000190
+KINGMAN,Ninnescah Township,United States House of Representatives,4,Republican,"Pompeo, Michael",122,000190
+KINGMAN,Peters Township,United States House of Representatives,4,independent,"Allen, Miranda",8,000200
+KINGMAN,Peters Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",5,000200
+KINGMAN,Peters Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000200
+KINGMAN,Peters Township,United States House of Representatives,4,Republican,"Pompeo, Michael",36,000200
+KINGMAN,Richland Township,United States House of Representatives,4,independent,"Allen, Miranda",5,000210
+KINGMAN,Richland Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000210
+KINGMAN,Richland Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000210
+KINGMAN,Richland Township,United States House of Representatives,4,Republican,"Pompeo, Michael",43,000210
+KINGMAN,Rochester Township,United States House of Representatives,4,independent,"Allen, Miranda",15,000220
+KINGMAN,Rochester Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000220
+KINGMAN,Rochester Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000220
+KINGMAN,Rochester Township,United States House of Representatives,4,Republican,"Pompeo, Michael",52,000220
+KINGMAN,Rural Township,United States House of Representatives,4,independent,"Allen, Miranda",15,000230
+KINGMAN,Rural Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",32,000230
+KINGMAN,Rural Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000230
+KINGMAN,Rural Township,United States House of Representatives,4,Republican,"Pompeo, Michael",79,000230
+KINGMAN,Union Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000240
+KINGMAN,Union Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",5,000240
+KINGMAN,Union Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000240
+KINGMAN,Union Township,United States House of Representatives,4,Republican,"Pompeo, Michael",24,000240
+KINGMAN,Valley Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000250
+KINGMAN,Valley Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000250
+KINGMAN,Valley Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000250
+KINGMAN,Valley Township,United States House of Representatives,4,Republican,"Pompeo, Michael",35,000250
+KINGMAN,Vinita Township,United States House of Representatives,4,independent,"Allen, Miranda",11,000260
+KINGMAN,Vinita Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",23,000260
+KINGMAN,Vinita Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",4,000260
+KINGMAN,Vinita Township,United States House of Representatives,4,Republican,"Pompeo, Michael",81,000260
+KINGMAN,White Township Part A,United States House of Representatives,4,independent,"Allen, Miranda",9,00027A
+KINGMAN,White Township Part A,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",21,00027A
+KINGMAN,White Township Part A,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,00027A
+KINGMAN,White Township Part A,United States House of Representatives,4,Republican,"Pompeo, Michael",71,00027A
+KINGMAN,White Township Part A Enclave,United States House of Representatives,4,independent,"Allen, Miranda",0,00027B
+KINGMAN,White Township Part A Enclave,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,00027B
+KINGMAN,White Township Part A Enclave,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,00027B
+KINGMAN,White Township Part A Enclave,United States House of Representatives,4,Republican,"Pompeo, Michael",0,00027B
+KINGMAN,White Township Part B,United States House of Representatives,4,independent,"Allen, Miranda",5,00027C
+KINGMAN,White Township Part B,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",14,00027C
+KINGMAN,White Township Part B,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,00027C
+KINGMAN,White Township Part B,United States House of Representatives,4,Republican,"Pompeo, Michael",34,00027C
+KINGMAN,Allen Township,United States Senate,,write - in,"Smith, DJ",0,000010
+KINGMAN,Allen Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000010
+KINGMAN,Allen Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000010
+KINGMAN,Allen Township,United States Senate,,Republican,"Moran, Jerry",37,000010
+KINGMAN,Belmont Township,United States Senate,,write - in,"Smith, DJ",0,000020
+KINGMAN,Belmont Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000020
+KINGMAN,Belmont Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000020
+KINGMAN,Belmont Township,United States Senate,,Republican,"Moran, Jerry",19,000020
+KINGMAN,Bennett Township,United States Senate,,write - in,"Smith, DJ",0,000030
+KINGMAN,Bennett Township,United States Senate,,Democratic,"Wiesner, Patrick",52,000030
+KINGMAN,Bennett Township,United States Senate,,Libertarian,"Garrard, Robert D.",21,000030
+KINGMAN,Bennett Township,United States Senate,,Republican,"Moran, Jerry",210,000030
+KINGMAN,Canton Township,United States Senate,,write - in,"Smith, DJ",0,000040
+KINGMAN,Canton Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000040
+KINGMAN,Canton Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000040
+KINGMAN,Canton Township,United States Senate,,Republican,"Moran, Jerry",44,000040
+KINGMAN,Chikaskia Township,United States Senate,,write - in,"Smith, DJ",0,000050
+KINGMAN,Chikaskia Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000050
+KINGMAN,Chikaskia Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000050
+KINGMAN,Chikaskia Township,United States Senate,,Republican,"Moran, Jerry",41,000050
+KINGMAN,Dale Township,United States Senate,,write - in,"Smith, DJ",0,000060
+KINGMAN,Dale Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000060
+KINGMAN,Dale Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000060
+KINGMAN,Dale Township,United States Senate,,Republican,"Moran, Jerry",62,000060
+KINGMAN,Dresden Township,United States Senate,,write - in,"Smith, DJ",0,000070
+KINGMAN,Dresden Township,United States Senate,,Democratic,"Wiesner, Patrick",31,000070
+KINGMAN,Dresden Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000070
+KINGMAN,Dresden Township,United States Senate,,Republican,"Moran, Jerry",127,000070
+KINGMAN,Eagle Township,United States Senate,,write - in,"Smith, DJ",0,000080
+KINGMAN,Eagle Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000080
+KINGMAN,Eagle Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000080
+KINGMAN,Eagle Township,United States Senate,,Republican,"Moran, Jerry",43,000080
+KINGMAN,Eureka Township,United States Senate,,write - in,"Smith, DJ",0,000090
+KINGMAN,Eureka Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000090
+KINGMAN,Eureka Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000090
+KINGMAN,Eureka Township,United States Senate,,Republican,"Moran, Jerry",48,000090
+KINGMAN,Evan Township,United States Senate,,write - in,"Smith, DJ",0,000100
+KINGMAN,Evan Township,United States Senate,,Democratic,"Wiesner, Patrick",24,000100
+KINGMAN,Evan Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000100
+KINGMAN,Evan Township,United States Senate,,Republican,"Moran, Jerry",226,000100
+KINGMAN,Galesburg Township,United States Senate,,write - in,"Smith, DJ",0,000110
+KINGMAN,Galesburg Township,United States Senate,,Democratic,"Wiesner, Patrick",17,000110
+KINGMAN,Galesburg Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000110
+KINGMAN,Galesburg Township,United States Senate,,Republican,"Moran, Jerry",92,000110
+KINGMAN,Hoosier Township,United States Senate,,write - in,"Smith, DJ",0,000120
+KINGMAN,Hoosier Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000120
+KINGMAN,Hoosier Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000120
+KINGMAN,Hoosier Township,United States Senate,,Republican,"Moran, Jerry",56,000120
+KINGMAN,Kingman Township,United States Senate,,write - in,"Smith, DJ",0,000130
+KINGMAN,Kingman Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000130
+KINGMAN,Kingman Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000130
+KINGMAN,Kingman Township,United States Senate,,Republican,"Moran, Jerry",42,000130
+KINGMAN,Kingman Ward 1,United States Senate,,write - in,"Smith, DJ",0,00014A
+KINGMAN,Kingman Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",51,00014A
+KINGMAN,Kingman Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",12,00014A
+KINGMAN,Kingman Ward 1,United States Senate,,Republican,"Moran, Jerry",248,00014A
+KINGMAN,Kingman Ward 1 Exclave,United States Senate,,write - in,"Smith, DJ",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00014B
+KINGMAN,Kingman Ward 1 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00014B
+KINGMAN,Kingman Ward 2,United States Senate,,write - in,"Smith, DJ",0,000150
+KINGMAN,Kingman Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",94,000150
+KINGMAN,Kingman Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",28,000150
+KINGMAN,Kingman Ward 2,United States Senate,,Republican,"Moran, Jerry",353,000150
+KINGMAN,Kingman Ward 3,United States Senate,,write - in,"Smith, DJ",0,000160
+KINGMAN,Kingman Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",23,000160
+KINGMAN,Kingman Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",7,000160
+KINGMAN,Kingman Ward 3,United States Senate,,Republican,"Moran, Jerry",132,000160
+KINGMAN,Kingman Ward 4,United States Senate,,write - in,"Smith, DJ",0,000170
+KINGMAN,Kingman Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",36,000170
+KINGMAN,Kingman Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",19,000170
+KINGMAN,Kingman Ward 4,United States Senate,,Republican,"Moran, Jerry",162,000170
+KINGMAN,Liberty Township,United States Senate,,write - in,"Smith, DJ",0,000180
+KINGMAN,Liberty Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000180
+KINGMAN,Liberty Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000180
+KINGMAN,Liberty Township,United States Senate,,Republican,"Moran, Jerry",40,000180
+KINGMAN,Ninnescah Township,United States Senate,,write - in,"Smith, DJ",0,000190
+KINGMAN,Ninnescah Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000190
+KINGMAN,Ninnescah Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000190
+KINGMAN,Ninnescah Township,United States Senate,,Republican,"Moran, Jerry",134,000190
+KINGMAN,Peters Township,United States Senate,,write - in,"Smith, DJ",0,000200
+KINGMAN,Peters Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000200
+KINGMAN,Peters Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000200
+KINGMAN,Peters Township,United States Senate,,Republican,"Moran, Jerry",43,000200
+KINGMAN,Richland Township,United States Senate,,write - in,"Smith, DJ",0,000210
+KINGMAN,Richland Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000210
+KINGMAN,Richland Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000210
+KINGMAN,Richland Township,United States Senate,,Republican,"Moran, Jerry",46,000210
+KINGMAN,Rochester Township,United States Senate,,write - in,"Smith, DJ",0,000220
+KINGMAN,Rochester Township,United States Senate,,Democratic,"Wiesner, Patrick",20,000220
+KINGMAN,Rochester Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000220
+KINGMAN,Rochester Township,United States Senate,,Republican,"Moran, Jerry",59,000220
+KINGMAN,Rural Township,United States Senate,,write - in,"Smith, DJ",0,000230
+KINGMAN,Rural Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000230
+KINGMAN,Rural Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000230
+KINGMAN,Rural Township,United States Senate,,Republican,"Moran, Jerry",96,000230
+KINGMAN,Union Township,United States Senate,,write - in,"Smith, DJ",0,000240
+KINGMAN,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000240
+KINGMAN,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000240
+KINGMAN,Union Township,United States Senate,,Republican,"Moran, Jerry",27,000240
+KINGMAN,Valley Township,United States Senate,,write - in,"Smith, DJ",0,000250
+KINGMAN,Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000250
+KINGMAN,Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000250
+KINGMAN,Valley Township,United States Senate,,Republican,"Moran, Jerry",42,000250
+KINGMAN,Vinita Township,United States Senate,,write - in,"Smith, DJ",0,000260
+KINGMAN,Vinita Township,United States Senate,,Democratic,"Wiesner, Patrick",19,000260
+KINGMAN,Vinita Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000260
+KINGMAN,Vinita Township,United States Senate,,Republican,"Moran, Jerry",98,000260
+KINGMAN,White Township Part A,United States Senate,,write - in,"Smith, DJ",0,00027A
+KINGMAN,White Township Part A,United States Senate,,Democratic,"Wiesner, Patrick",9,00027A
+KINGMAN,White Township Part A,United States Senate,,Libertarian,"Garrard, Robert D.",2,00027A
+KINGMAN,White Township Part A,United States Senate,,Republican,"Moran, Jerry",87,00027A
+KINGMAN,White Township Part A Enclave,United States Senate,,write - in,"Smith, DJ",0,00027B
+KINGMAN,White Township Part A Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00027B
+KINGMAN,White Township Part A Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00027B
+KINGMAN,White Township Part A Enclave,United States Senate,,Republican,"Moran, Jerry",0,00027B
+KINGMAN,White Township Part B,United States Senate,,write - in,"Smith, DJ",0,00027C
+KINGMAN,White Township Part B,United States Senate,,Democratic,"Wiesner, Patrick",6,00027C
+KINGMAN,White Township Part B,United States Senate,,Libertarian,"Garrard, Robert D.",1,00027C
+KINGMAN,White Township Part B,United States Senate,,Republican,"Moran, Jerry",47,00027C

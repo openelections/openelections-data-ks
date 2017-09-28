@@ -1,580 +1,1679 @@
-county,precinct,office,district,party,candidate,votes
-Sumner,Wellington 2,President,,R,Donald J. Trump,1217
-Sumner,Belle Plaine twp H79,President,,R,Donald J. Trump,968
-Sumner,Wellington 1,President,,R,Donald J. Trump,641
-Sumner,Oxford twp,President,,R,Donald J. Trump,411
-Sumner,Conway,President,,R,Donald J. Trump,355
-Sumner,Gore H79,President,,R,Donald J. Trump,301
-Sumner,London,President,,R,Donald J. Trump,271
-Sumner,Springdale,President,,R,Donald J. Trump,213
-Sumner,Caldwell City W2,President,,R,Donald J. Trump,210
-Sumner,Mulvane City,President,,R,Donald J. Trump,207
-Sumner,Dixon,President,,R,Donald J. Trump,205
-Sumner,South Haven twp,President,,R,Donald J. Trump,196
-Sumner,Walton,President,,R,Donald J. Trump,132
-Sumner,Eden,President,,R,Donald J. Trump,130
-Sumner,Avon,President,,R,Donald J. Trump,117
-Sumner,Harmon,President,,R,Donald J. Trump,115
-Sumner,Seventy-Six,President,,R,Donald J. Trump,112
-Sumner,Caldwell City W1,President,,R,Donald J. Trump,110
-Sumner,Wellington twp H116,President,,R,Donald J. Trump,102
-Sumner,Osborne,President,,R,Donald J. Trump,98
-Sumner,Creek,President,,R,Donald J. Trump,79
-Sumner,Palestine,President,,R,Donald J. Trump,75
-Sumner,Gore H82,President,,R,Donald J. Trump,74
-Sumner,Illinois,President,,R,Donald J. Trump,74
-Sumner,Wellington twp H80,President,,R,Donald J. Trump,62
-Sumner,Guelph,President,,R,Donald J. Trump,60
-Sumner,Falls,President,,R,Donald J. Trump,56
-Sumner,Downs,President,,R,Donald J. Trump,55
-Sumner,Ryan,President,,R,Donald J. Trump,52
-Sumner,Jackson,President,,R,Donald J. Trump,50
-Sumner,Valverde,President,,R,Donald J. Trump,50
-Sumner,Caldwell twp,President,,R,Donald J. Trump,47
-Sumner,Sumner,President,,R,Donald J. Trump,44
-Sumner,Greene,President,,R,Donald J. Trump,30
-Sumner,Chikaskia,President,,R,Donald J. Trump,25
-Sumner,Bluff,President,,R,Donald J. Trump,20
-Sumner,Morris,President,,R,Donald J. Trump,11
-Sumner,Mulvane City H79,President,,R,Donald J. Trump,5
-Sumner,Belle Plaine twp H82,President,,R,Donald J. Trump,4
-Sumner,Wellington 2,President,,IND,Jill Stein,65
-Sumner,Belle Plaine twp H79,President,,IND,Jill Stein,34
-Sumner,Wellington 1,President,,IND,Jill Stein,19
-Sumner,Conway,President,,IND,Jill Stein,11
-Sumner,Oxford twp,President,,IND,Jill Stein,11
-Sumner,Gore H79,President,,IND,Jill Stein,7
-Sumner,Dixon,President,,IND,Jill Stein,5
-Sumner,London,President,,IND,Jill Stein,5
-Sumner,Walton,President,,IND,Jill Stein,5
-Sumner,Eden,President,,IND,Jill Stein,4
-Sumner,Caldwell City W2,President,,IND,Jill Stein,4
-Sumner,Mulvane City,President,,IND,Jill Stein,4
-Sumner,Palestine,President,,IND,Jill Stein,3
-Sumner,Springdale,President,,IND,Jill Stein,3
-Sumner,Avon,President,,IND,Jill Stein,2
-Sumner,Gore H82,President,,IND,Jill Stein,2
-Sumner,Harmon,President,,IND,Jill Stein,2
-Sumner,Osborne,President,,IND,Jill Stein,2
-Sumner,South Haven twp,President,,IND,Jill Stein,2
-Sumner,Sumner,President,,IND,Jill Stein,2
-Sumner,Valverde,President,,IND,Jill Stein,2
-Sumner,Bluff,President,,IND,Jill Stein,1
-Sumner,Caldwell twp,President,,IND,Jill Stein,1
-Sumner,Chikaskia,President,,IND,Jill Stein,1
-Sumner,Creek,President,,IND,Jill Stein,1
-Sumner,Downs,President,,IND,Jill Stein,1
-Sumner,Falls,President,,IND,Jill Stein,1
-Sumner,Guelph,President,,IND,Jill Stein,1
-Sumner,Illinois,President,,IND,Jill Stein,1
-Sumner,Ryan,President,,IND,Jill Stein,1
-Sumner,Seventy-Six,President,,IND,Jill Stein,1
-Sumner,Caldwell City W1,President,,IND,Jill Stein,1
-Sumner,Belle Plaine twp H82,President,,IND,Jill Stein,0
-Sumner,Greene,President,,IND,Jill Stein,0
-Sumner,Jackson,President,,IND,Jill Stein,0
-Sumner,Morris,President,,IND,Jill Stein,0
-Sumner,Wellington twp H80,President,,IND,Jill Stein,0
-Sumner,Wellington twp H116,President,,IND,Jill Stein,0
-Sumner,Mulvane City H79,President,,IND,Jill Stein,0
-Sumner,Wellington 2,U.S. Senate,,LBT,Robert D. Garrard,128
-Sumner,Belle Plaine twp H79,U.S. Senate,,LBT,Robert D. Garrard,98
-Sumner,Wellington 1,U.S. Senate,,LBT,Robert D. Garrard,80
-Sumner,Oxford twp,U.S. Senate,,LBT,Robert D. Garrard,43
-Sumner,Conway,U.S. Senate,,LBT,Robert D. Garrard,36
-Sumner,Gore H79,U.S. Senate,,LBT,Robert D. Garrard,31
-Sumner,London,U.S. Senate,,LBT,Robert D. Garrard,28
-Sumner,Walton,U.S. Senate,,LBT,Robert D. Garrard,18
-Sumner,South Haven twp,U.S. Senate,,LBT,Robert D. Garrard,17
-Sumner,Mulvane City,U.S. Senate,,LBT,Robert D. Garrard,17
-Sumner,Caldwell City W2,U.S. Senate,,LBT,Robert D. Garrard,16
-Sumner,Dixon,U.S. Senate,,LBT,Robert D. Garrard,13
-Sumner,Springdale,U.S. Senate,,LBT,Robert D. Garrard,13
-Sumner,Gore H82,U.S. Senate,,LBT,Robert D. Garrard,12
-Sumner,Avon,U.S. Senate,,LBT,Robert D. Garrard,11
-Sumner,Caldwell City W1,U.S. Senate,,LBT,Robert D. Garrard,11
-Sumner,Seventy-Six,U.S. Senate,,LBT,Robert D. Garrard,10
-Sumner,Wellington twp H80,U.S. Senate,,LBT,Robert D. Garrard,10
-Sumner,Eden,U.S. Senate,,LBT,Robert D. Garrard,9
-Sumner,Harmon,U.S. Senate,,LBT,Robert D. Garrard,9
-Sumner,Valverde,U.S. Senate,,LBT,Robert D. Garrard,8
-Sumner,Jackson,U.S. Senate,,LBT,Robert D. Garrard,7
-Sumner,Palestine,U.S. Senate,,LBT,Robert D. Garrard,6
-Sumner,Wellington twp H116,U.S. Senate,,LBT,Robert D. Garrard,6
-Sumner,Osborne,U.S. Senate,,LBT,Robert D. Garrard,5
-Sumner,Creek,U.S. Senate,,LBT,Robert D. Garrard,4
-Sumner,Guelph,U.S. Senate,,LBT,Robert D. Garrard,4
-Sumner,Ryan,U.S. Senate,,LBT,Robert D. Garrard,4
-Sumner,Chikaskia,U.S. Senate,,LBT,Robert D. Garrard,3
-Sumner,Downs,U.S. Senate,,LBT,Robert D. Garrard,3
-Sumner,Illinois,U.S. Senate,,LBT,Robert D. Garrard,3
-Sumner,Sumner,U.S. Senate,,LBT,Robert D. Garrard,3
-Sumner,Falls,U.S. Senate,,LBT,Robert D. Garrard,2
-Sumner,Bluff,U.S. Senate,,LBT,Robert D. Garrard,1
-Sumner,Greene,U.S. Senate,,LBT,Robert D. Garrard,1
-Sumner,Belle Plaine twp H82,U.S. Senate,,LBT,Robert D. Garrard,0
-Sumner,Caldwell twp,U.S. Senate,,LBT,Robert D. Garrard,0
-Sumner,Morris,U.S. Senate,,LBT,Robert D. Garrard,0
-Sumner,Mulvane City H79,U.S. Senate,,LBT,Robert D. Garrard,0
-Sumner,Mulvane City,State House,82,R,Pete DeGraaf,153
-Sumner,Gore H82,State House,82,R,Pete DeGraaf,56
-Sumner,Belle Plaine twp H82,State House,82,R,Pete DeGraaf,4
-Sumner,Wellington 2,U.S. Senate,,D,Patrick Wiesner,504
-Sumner,Wellington 1,U.S. Senate,,D,Patrick Wiesner,329
-Sumner,Belle Plaine twp H79,U.S. Senate,,D,Patrick Wiesner,287
-Sumner,Oxford twp,U.S. Senate,,D,Patrick Wiesner,136
-Sumner,Conway,U.S. Senate,,D,Patrick Wiesner,93
-Sumner,Gore H79,U.S. Senate,,D,Patrick Wiesner,67
-Sumner,Mulvane City,U.S. Senate,,D,Patrick Wiesner,64
-Sumner,Caldwell City W2,U.S. Senate,,D,Patrick Wiesner,62
-Sumner,Springdale,U.S. Senate,,D,Patrick Wiesner,53
-Sumner,London,U.S. Senate,,D,Patrick Wiesner,45
-Sumner,Caldwell City W1,U.S. Senate,,D,Patrick Wiesner,44
-Sumner,South Haven twp,U.S. Senate,,D,Patrick Wiesner,43
-Sumner,Dixon,U.S. Senate,,D,Patrick Wiesner,41
-Sumner,Wellington twp H116,U.S. Senate,,D,Patrick Wiesner,36
-Sumner,Avon,U.S. Senate,,D,Patrick Wiesner,32
-Sumner,Osborne,U.S. Senate,,D,Patrick Wiesner,29
-Sumner,Eden,U.S. Senate,,D,Patrick Wiesner,26
-Sumner,Harmon,U.S. Senate,,D,Patrick Wiesner,23
-Sumner,Palestine,U.S. Senate,,D,Patrick Wiesner,23
-Sumner,Gore H82,U.S. Senate,,D,Patrick Wiesner,22
-Sumner,Caldwell twp,U.S. Senate,,D,Patrick Wiesner,17
-Sumner,Creek,U.S. Senate,,D,Patrick Wiesner,16
-Sumner,Walton,U.S. Senate,,D,Patrick Wiesner,16
-Sumner,Ryan,U.S. Senate,,D,Patrick Wiesner,14
-Sumner,Wellington twp H80,U.S. Senate,,D,Patrick Wiesner,14
-Sumner,Falls,U.S. Senate,,D,Patrick Wiesner,13
-Sumner,Guelph,U.S. Senate,,D,Patrick Wiesner,13
-Sumner,Sumner,U.S. Senate,,D,Patrick Wiesner,12
-Sumner,Downs,U.S. Senate,,D,Patrick Wiesner,11
-Sumner,Jackson,U.S. Senate,,D,Patrick Wiesner,9
-Sumner,Seventy-Six,U.S. Senate,,D,Patrick Wiesner,9
-Sumner,Illinois,U.S. Senate,,D,Patrick Wiesner,7
-Sumner,Greene,U.S. Senate,,D,Patrick Wiesner,4
-Sumner,Bluff,U.S. Senate,,D,Patrick Wiesner,3
-Sumner,Chikaskia,U.S. Senate,,D,Patrick Wiesner,3
-Sumner,Belle Plaine twp H82,U.S. Senate,,D,Patrick Wiesner,2
-Sumner,Valverde,U.S. Senate,,D,Patrick Wiesner,2
-Sumner,Morris,U.S. Senate,,D,Patrick Wiesner,0
-Sumner,Mulvane City H79,U.S. Senate,,D,Patrick Wiesner,0
-Sumner,Wellington 2,U.S. House,4,IND,Miranda Allen,258
-Sumner,Wellington 1,U.S. House,4,IND,Miranda Allen,139
-Sumner,Belle Plaine twp H79,U.S. House,4,IND,Miranda Allen,109
-Sumner,Oxford twp,U.S. House,4,IND,Miranda Allen,70
-Sumner,Conway,U.S. House,4,IND,Miranda Allen,42
-Sumner,Gore H79,U.S. House,4,IND,Miranda Allen,37
-Sumner,South Haven twp,U.S. House,4,IND,Miranda Allen,33
-Sumner,Walton,U.S. House,4,IND,Miranda Allen,27
-Sumner,Caldwell City W2,U.S. House,4,IND,Miranda Allen,26
-Sumner,Dixon,U.S. House,4,IND,Miranda Allen,25
-Sumner,London,U.S. House,4,IND,Miranda Allen,19
-Sumner,Springdale,U.S. House,4,IND,Miranda Allen,18
-Sumner,Mulvane City,U.S. House,4,IND,Miranda Allen,16
-Sumner,Wellington twp H116,U.S. House,4,IND,Miranda Allen,15
-Sumner,Avon,U.S. House,4,IND,Miranda Allen,14
-Sumner,Eden,U.S. House,4,IND,Miranda Allen,13
-Sumner,Harmon,U.S. House,4,IND,Miranda Allen,12
-Sumner,Osborne,U.S. House,4,IND,Miranda Allen,12
-Sumner,Sumner,U.S. House,4,IND,Miranda Allen,12
-Sumner,Wellington twp H80,U.S. House,4,IND,Miranda Allen,12
-Sumner,Falls,U.S. House,4,IND,Miranda Allen,11
-Sumner,Palestine,U.S. House,4,IND,Miranda Allen,10
-Sumner,Caldwell City W1,U.S. House,4,IND,Miranda Allen,10
-Sumner,Seventy-Six,U.S. House,4,IND,Miranda Allen,9
-Sumner,Downs,U.S. House,4,IND,Miranda Allen,8
-Sumner,Guelph,U.S. House,4,IND,Miranda Allen,8
-Sumner,Caldwell twp,U.S. House,4,IND,Miranda Allen,7
-Sumner,Ryan,U.S. House,4,IND,Miranda Allen,7
-Sumner,Illinois,U.S. House,4,IND,Miranda Allen,6
-Sumner,Jackson,U.S. House,4,IND,Miranda Allen,6
-Sumner,Valverde,U.S. House,4,IND,Miranda Allen,6
-Sumner,Chikaskia,U.S. House,4,IND,Miranda Allen,5
-Sumner,Gore H82,U.S. House,4,IND,Miranda Allen,5
-Sumner,Greene,U.S. House,4,IND,Miranda Allen,5
-Sumner,Creek,U.S. House,4,IND,Miranda Allen,4
-Sumner,Bluff,U.S. House,4,IND,Miranda Allen,3
-Sumner,Morris,U.S. House,4,IND,Miranda Allen,1
-Sumner,Belle Plaine twp H82,U.S. House,4,IND,Miranda Allen,0
-Sumner,Mulvane City H79,U.S. House,4,IND,Miranda Allen,0
-Sumner,Wellington 1,State House,80,D,Michelle Schiltz,452
-Sumner,Caldwell City W2,State House,80,D,Michelle Schiltz,181
-Sumner,Caldwell City W1,State House,80,D,Michelle Schiltz,133
-Sumner,South Haven twp,State House,80,D,Michelle Schiltz,90
-Sumner,Avon,State House,80,D,Michelle Schiltz,55
-Sumner,Caldwell twp,State House,80,D,Michelle Schiltz,45
-Sumner,Falls,State House,80,D,Michelle Schiltz,38
-Sumner,Walton,State House,80,D,Michelle Schiltz,38
-Sumner,Wellington twp H80,State House,80,D,Michelle Schiltz,24
-Sumner,Downs,State House,80,D,Michelle Schiltz,22
-Sumner,Bluff,State House,80,D,Michelle Schiltz,20
-Sumner,Jackson,State House,80,D,Michelle Schiltz,19
-Sumner,Guelph,State House,80,D,Michelle Schiltz,17
-Sumner,Chikaskia,State House,80,D,Michelle Schiltz,12
-Sumner,Valverde,State House,80,D,Michelle Schiltz,11
-Sumner,Greene,State House,80,D,Michelle Schiltz,9
-Sumner,Morris,State House,80,D,Michelle Schiltz,6
-Sumner,Wellington 2,U.S. House,4,R,Michael Pompeo,1101
-Sumner,Belle Plaine twp H79,U.S. House,4,R,Michael Pompeo,912
-Sumner,Wellington 1,U.S. House,4,R,Michael Pompeo,570
-Sumner,Oxford twp,U.S. House,4,R,Michael Pompeo,367
-Sumner,Conway,U.S. House,4,R,Michael Pompeo,320
-Sumner,Gore H79,U.S. House,4,R,Michael Pompeo,275
-Sumner,London,U.S. House,4,R,Michael Pompeo,249
-Sumner,Springdale,U.S. House,4,R,Michael Pompeo,204
-Sumner,Mulvane City,U.S. House,4,R,Michael Pompeo,191
-Sumner,Caldwell City W2,U.S. House,4,R,Michael Pompeo,188
-Sumner,Dixon,U.S. House,4,R,Michael Pompeo,182
-Sumner,South Haven twp,U.S. House,4,R,Michael Pompeo,179
-Sumner,Eden,U.S. House,4,R,Michael Pompeo,126
-Sumner,Walton,U.S. House,4,R,Michael Pompeo,115
-Sumner,Harmon,U.S. House,4,R,Michael Pompeo,112
-Sumner,Caldwell City W1,U.S. House,4,R,Michael Pompeo,108
-Sumner,Avon,U.S. House,4,R,Michael Pompeo,106
-Sumner,Seventy-Six,U.S. House,4,R,Michael Pompeo,99
-Sumner,Wellington twp H116,U.S. House,4,R,Michael Pompeo,95
-Sumner,Osborne,U.S. House,4,R,Michael Pompeo,89
-Sumner,Creek,U.S. House,4,R,Michael Pompeo,74
-Sumner,Gore H82,U.S. House,4,R,Michael Pompeo,74
-Sumner,Palestine,U.S. House,4,R,Michael Pompeo,73
-Sumner,Illinois,U.S. House,4,R,Michael Pompeo,63
-Sumner,Guelph,U.S. House,4,R,Michael Pompeo,53
-Sumner,Ryan,U.S. House,4,R,Michael Pompeo,53
-Sumner,Jackson,U.S. House,4,R,Michael Pompeo,51
-Sumner,Wellington twp H80,U.S. House,4,R,Michael Pompeo,51
-Sumner,Falls,U.S. House,4,R,Michael Pompeo,49
-Sumner,Downs,U.S. House,4,R,Michael Pompeo,46
-Sumner,Caldwell twp,U.S. House,4,R,Michael Pompeo,44
-Sumner,Sumner,U.S. House,4,R,Michael Pompeo,41
-Sumner,Valverde,U.S. House,4,R,Michael Pompeo,41
-Sumner,Chikaskia,U.S. House,4,R,Michael Pompeo,25
-Sumner,Greene,U.S. House,4,R,Michael Pompeo,22
-Sumner,Bluff,U.S. House,4,R,Michael Pompeo,21
-Sumner,Morris,U.S. House,4,R,Michael Pompeo,12
-Sumner,Mulvane City H79,U.S. House,4,R,Michael Pompeo,6
-Sumner,Belle Plaine twp H82,U.S. House,4,R,Michael Pompeo,4
-Sumner,Belle Plaine twp H79,State Senate,32,R,Larry W. Alley,892
-Sumner,Wellington 2,State Senate,32,R,Larry W. Alley,885
-Sumner,Wellington 1,State Senate,32,R,Larry W. Alley,492
-Sumner,Conway,State Senate,32,R,Larry W. Alley,325
-Sumner,Gore H79,State Senate,32,R,Larry W. Alley,281
-Sumner,Oxford twp,State Senate,32,R,Larry W. Alley,263
-Sumner,London,State Senate,32,R,Larry W. Alley,254
-Sumner,Mulvane City,State Senate,32,R,Larry W. Alley,192
-Sumner,Springdale,State Senate,32,R,Larry W. Alley,189
-Sumner,Dixon,State Senate,32,R,Larry W. Alley,171
-Sumner,Caldwell City W2,State Senate,32,R,Larry W. Alley,151
-Sumner,South Haven twp,State Senate,32,R,Larry W. Alley,123
-Sumner,Eden,State Senate,32,R,Larry W. Alley,121
-Sumner,Harmon,State Senate,32,R,Larry W. Alley,94
-Sumner,Avon,State Senate,32,R,Larry W. Alley,93
-Sumner,Seventy-Six,State Senate,32,R,Larry W. Alley,91
-Sumner,Walton,State Senate,32,R,Larry W. Alley,86
-Sumner,Gore H82,State Senate,32,R,Larry W. Alley,76
-Sumner,Osborne,State Senate,32,R,Larry W. Alley,76
-Sumner,Wellington twp H116,State Senate,32,R,Larry W. Alley,74
-Sumner,Caldwell City W1,State Senate,32,R,Larry W. Alley,73
-Sumner,Creek,State Senate,32,R,Larry W. Alley,70
-Sumner,Illinois,State Senate,32,R,Larry W. Alley,69
-Sumner,Palestine,State Senate,32,R,Larry W. Alley,66
-Sumner,Ryan,State Senate,32,R,Larry W. Alley,49
-Sumner,Wellington twp H80,State Senate,32,R,Larry W. Alley,46
-Sumner,Guelph,State Senate,32,R,Larry W. Alley,45
-Sumner,Sumner,State Senate,32,R,Larry W. Alley,42
-Sumner,Downs,State Senate,32,R,Larry W. Alley,40
-Sumner,Caldwell twp,State Senate,32,R,Larry W. Alley,39
-Sumner,Falls,State Senate,32,R,Larry W. Alley,38
-Sumner,Jackson,State Senate,32,R,Larry W. Alley,37
-Sumner,Valverde,State Senate,32,R,Larry W. Alley,34
-Sumner,Chikaskia,State Senate,32,R,Larry W. Alley,23
-Sumner,Greene,State Senate,32,R,Larry W. Alley,17
-Sumner,Bluff,State Senate,32,R,Larry W. Alley,13
-Sumner,Morris,State Senate,32,R,Larry W. Alley,9
-Sumner,Belle Plaine twp H82,State Senate,32,R,Larry W. Alley,4
-Sumner,Mulvane City H79,State Senate,32,R,Larry W. Alley,4
-Sumner,Wellington 2,State House,116,R,Kyle D. Hoffman,658
-Sumner,Conway,State House,116,R,Kyle D. Hoffman,293
-Sumner,London,State House,116,R,Kyle D. Hoffman,242
-Sumner,Springdale,State House,116,R,Kyle D. Hoffman,164
-Sumner,Dixon,State House,116,R,Kyle D. Hoffman,152
-Sumner,Eden,State House,116,R,Kyle D. Hoffman,120
-Sumner,Seventy-Six,State House,116,R,Kyle D. Hoffman,82
-Sumner,Creek,State House,116,R,Kyle D. Hoffman,65
-Sumner,Illinois,State House,116,R,Kyle D. Hoffman,65
-Sumner,Wellington twp H116,State House,116,R,Kyle D. Hoffman,63
-Sumner,Osborne,State House,116,R,Kyle D. Hoffman,58
-Sumner,Ryan,State House,116,R,Kyle D. Hoffman,43
-Sumner,Sumner,State House,116,R,Kyle D. Hoffman,39
-Sumner,Wellington 2,State House,116,D,Jolene E. Roitman,1173
-Sumner,Conway,State House,116,D,Jolene E. Roitman,166
-Sumner,Springdale,State House,116,D,Jolene E. Roitman,104
-Sumner,Dixon,State House,116,D,Jolene E. Roitman,94
-Sumner,London,State House,116,D,Jolene E. Roitman,85
-Sumner,Wellington twp H116,State House,116,D,Jolene E. Roitman,74
-Sumner,Osborne,State House,116,D,Jolene E. Roitman,69
-Sumner,Eden,State House,116,D,Jolene E. Roitman,39
-Sumner,Seventy-Six,State House,116,D,Jolene E. Roitman,37
-Sumner,Creek,State House,116,D,Jolene E. Roitman,26
-Sumner,Ryan,State House,116,D,Jolene E. Roitman,25
-Sumner,Sumner,State House,116,D,Jolene E. Roitman,24
-Sumner,Illinois,State House,116,D,Jolene E. Roitman,20
-Sumner,Wellington 2,President,,LBT,Gary Johnson,82
-Sumner,Belle Plaine twp H79,President,,LBT,Gary Johnson,62
-Sumner,Wellington 1,President,,LBT,Gary Johnson,52
-Sumner,Oxford twp,President,,LBT,Gary Johnson,31
-Sumner,Conway,President,,LBT,Gary Johnson,20
-Sumner,Gore H79,President,,LBT,Gary Johnson,18
-Sumner,London,President,,LBT,Gary Johnson,15
-Sumner,Springdale,President,,LBT,Gary Johnson,13
-Sumner,Eden,President,,LBT,Gary Johnson,10
-Sumner,Mulvane City,President,,LBT,Gary Johnson,10
-Sumner,Caldwell City W1,President,,LBT,Gary Johnson,9
-Sumner,Gore H82,President,,LBT,Gary Johnson,8
-Sumner,Jackson,President,,LBT,Gary Johnson,8
-Sumner,South Haven twp,President,,LBT,Gary Johnson,8
-Sumner,Walton,President,,LBT,Gary Johnson,7
-Sumner,Caldwell City W2,President,,LBT,Gary Johnson,7
-Sumner,Avon,President,,LBT,Gary Johnson,6
-Sumner,Dixon,President,,LBT,Gary Johnson,6
-Sumner,Creek,President,,LBT,Gary Johnson,5
-Sumner,Harmon,President,,LBT,Gary Johnson,5
-Sumner,Osborne,President,,LBT,Gary Johnson,5
-Sumner,Palestine,President,,LBT,Gary Johnson,5
-Sumner,Wellington twp H116,President,,LBT,Gary Johnson,4
-Sumner,Caldwell twp,President,,LBT,Gary Johnson,3
-Sumner,Guelph,President,,LBT,Gary Johnson,3
-Sumner,Illinois,President,,LBT,Gary Johnson,3
-Sumner,Wellington twp H80,President,,LBT,Gary Johnson,3
-Sumner,Falls,President,,LBT,Gary Johnson,2
-Sumner,Ryan,President,,LBT,Gary Johnson,2
-Sumner,Seventy-Six,President,,LBT,Gary Johnson,2
-Sumner,Sumner,President,,LBT,Gary Johnson,2
-Sumner,Valverde,President,,LBT,Gary Johnson,2
-Sumner,Bluff,President,,LBT,Gary Johnson,1
-Sumner,Greene,President,,LBT,Gary Johnson,1
-Sumner,Belle Plaine twp H82,President,,LBT,Gary Johnson,0
-Sumner,Chikaskia,President,,LBT,Gary Johnson,0
-Sumner,Downs,President,,LBT,Gary Johnson,0
-Sumner,Morris,President,,LBT,Gary Johnson,0
-Sumner,Mulvane City H79,President,,LBT,Gary Johnson,0
-Sumner,Wellington 2,U.S. Senate,,R,Jerry Moran,1214
-Sumner,Belle Plaine twp H79,U.S. Senate,,R,Jerry Moran,957
-Sumner,Wellington 1,U.S. Senate,,R,Jerry Moran,619
-Sumner,Oxford twp,U.S. Senate,,R,Jerry Moran,391
-Sumner,Conway,U.S. Senate,,R,Jerry Moran,339
-Sumner,Gore H79,U.S. Senate,,R,Jerry Moran,293
-Sumner,London,U.S. Senate,,R,Jerry Moran,262
-Sumner,Springdale,U.S. Senate,,R,Jerry Moran,211
-Sumner,Caldwell City W2,U.S. Senate,,R,Jerry Moran,205
-Sumner,Mulvane City,U.S. Senate,,R,Jerry Moran,203
-Sumner,Dixon,U.S. Senate,,R,Jerry Moran,193
-Sumner,South Haven twp,U.S. Senate,,R,Jerry Moran,185
-Sumner,Eden,U.S. Senate,,R,Jerry Moran,132
-Sumner,Walton,U.S. Senate,,R,Jerry Moran,126
-Sumner,Harmon,U.S. Senate,,R,Jerry Moran,118
-Sumner,Caldwell City W1,U.S. Senate,,R,Jerry Moran,114
-Sumner,Avon,U.S. Senate,,R,Jerry Moran,113
-Sumner,Seventy-Six,U.S. Senate,,R,Jerry Moran,101
-Sumner,Wellington twp H116,U.S. Senate,,R,Jerry Moran,96
-Sumner,Osborne,U.S. Senate,,R,Jerry Moran,94
-Sumner,Gore H82,U.S. Senate,,R,Jerry Moran,75
-Sumner,Illinois,U.S. Senate,,R,Jerry Moran,74
-Sumner,Palestine,U.S. Senate,,R,Jerry Moran,73
-Sumner,Creek,U.S. Senate,,R,Jerry Moran,70
-Sumner,Guelph,U.S. Senate,,R,Jerry Moran,55
-Sumner,Falls,U.S. Senate,,R,Jerry Moran,54
-Sumner,Jackson,U.S. Senate,,R,Jerry Moran,53
-Sumner,Wellington twp H80,U.S. Senate,,R,Jerry Moran,53
-Sumner,Caldwell twp,U.S. Senate,,R,Jerry Moran,52
-Sumner,Valverde,U.S. Senate,,R,Jerry Moran,51
-Sumner,Ryan,U.S. Senate,,R,Jerry Moran,50
-Sumner,Sumner,U.S. Senate,,R,Jerry Moran,50
-Sumner,Downs,U.S. Senate,,R,Jerry Moran,49
-Sumner,Greene,U.S. Senate,,R,Jerry Moran,27
-Sumner,Chikaskia,U.S. Senate,,R,Jerry Moran,25
-Sumner,Bluff,U.S. Senate,,R,Jerry Moran,24
-Sumner,Morris,U.S. Senate,,R,Jerry Moran,14
-Sumner,Mulvane City H79,U.S. Senate,,R,Jerry Moran,6
-Sumner,Belle Plaine twp H82,U.S. Senate,,R,Jerry Moran,4
-Sumner,Wellington 2,U.S. House,4,LBT,Gorden J. Bakken,61
-Sumner,Belle Plaine twp H79,U.S. House,4,LBT,Gorden J. Bakken,54
-Sumner,Wellington 1,U.S. House,4,LBT,Gorden J. Bakken,35
-Sumner,London,U.S. House,4,LBT,Gorden J. Bakken,20
-Sumner,Oxford twp,U.S. House,4,LBT,Gorden J. Bakken,16
-Sumner,Gore H79,U.S. House,4,LBT,Gorden J. Bakken,15
-Sumner,Conway,U.S. House,4,LBT,Gorden J. Bakken,13
-Sumner,Mulvane City,U.S. House,4,LBT,Gorden J. Bakken,10
-Sumner,Caldwell City W2,U.S. House,4,LBT,Gorden J. Bakken,8
-Sumner,Gore H82,U.S. House,4,LBT,Gorden J. Bakken,7
-Sumner,Walton,U.S. House,4,LBT,Gorden J. Bakken,7
-Sumner,Valverde,U.S. House,4,LBT,Gorden J. Bakken,6
-Sumner,Eden,U.S. House,4,LBT,Gorden J. Bakken,5
-Sumner,Illinois,U.S. House,4,LBT,Gorden J. Bakken,5
-Sumner,South Haven twp,U.S. House,4,LBT,Gorden J. Bakken,5
-Sumner,Wellington twp H80,U.S. House,4,LBT,Gorden J. Bakken,5
-Sumner,Avon,U.S. House,4,LBT,Gorden J. Bakken,4
-Sumner,Harmon,U.S. House,4,LBT,Gorden J. Bakken,3
-Sumner,Jackson,U.S. House,4,LBT,Gorden J. Bakken,3
-Sumner,Wellington twp H116,U.S. House,4,LBT,Gorden J. Bakken,3
-Sumner,Caldwell City W1,U.S. House,4,LBT,Gorden J. Bakken,3
-Sumner,Dixon,U.S. House,4,LBT,Gorden J. Bakken,2
-Sumner,Osborne,U.S. House,4,LBT,Gorden J. Bakken,2
-Sumner,Palestine,U.S. House,4,LBT,Gorden J. Bakken,2
-Sumner,Springdale,U.S. House,4,LBT,Gorden J. Bakken,2
-Sumner,Caldwell twp,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Downs,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Falls,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Greene,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Ryan,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Seventy-Six,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Sumner,U.S. House,4,LBT,Gorden J. Bakken,1
-Sumner,Belle Plaine twp H82,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Bluff,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Chikaskia,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Creek,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Guelph,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Morris,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Mulvane City H79,U.S. House,4,LBT,Gorden J. Bakken,0
-Sumner,Belle Plaine twp H79,State House 79,79,D,Ed Trimmer,1009
-Sumner,Oxford twp,State House 79,79,D,Ed Trimmer,431
-Sumner,Gore H79,State House 79,79,D,Ed Trimmer,282
-Sumner,Harmon,State House 79,79,D,Ed Trimmer,100
-Sumner,Palestine,State House 79,79,D,Ed Trimmer,72
-Sumner,Mulvane City H79,State House 79,79,D,Ed Trimmer,5
-Sumner,Wellington 2,State Senate,32,D,Don Shimkus,944
-Sumner,Wellington 1,State Senate,32,D,Don Shimkus,533
-Sumner,Belle Plaine twp H79,State Senate,32,D,Don Shimkus,426
-Sumner,Oxford twp,State Senate,32,D,Don Shimkus,322
-Sumner,Conway,State Senate,32,D,Don Shimkus,135
-Sumner,Caldwell City W2,State Senate,32,D,Don Shimkus,122
-Sumner,South Haven twp,State Senate,32,D,Don Shimkus,121
-Sumner,Caldwell City W1,State Senate,32,D,Don Shimkus,95
-Sumner,Gore H79,State Senate,32,D,Don Shimkus,94
-Sumner,Springdale,State Senate,32,D,Don Shimkus,82
-Sumner,Mulvane City,State Senate,32,D,Don Shimkus,81
-Sumner,Walton,State Senate,32,D,Don Shimkus,76
-Sumner,Dixon,State Senate,32,D,Don Shimkus,75
-Sumner,London,State Senate,32,D,Don Shimkus,69
-Sumner,Wellington twp H116,State Senate,32,D,Don Shimkus,64
-Sumner,Avon,State Senate,32,D,Don Shimkus,62
-Sumner,Harmon,State Senate,32,D,Don Shimkus,54
-Sumner,Osborne,State Senate,32,D,Don Shimkus,49
-Sumner,Eden,State Senate,32,D,Don Shimkus,39
-Sumner,Palestine,State Senate,32,D,Don Shimkus,36
-Sumner,Gore H82,State Senate,32,D,Don Shimkus,31
-Sumner,Caldwell twp,State Senate,32,D,Don Shimkus,30
-Sumner,Falls,State Senate,32,D,Don Shimkus,29
-Sumner,Jackson,State Senate,32,D,Don Shimkus,29
-Sumner,Seventy-Six,State Senate,32,D,Don Shimkus,28
-Sumner,Guelph,State Senate,32,D,Don Shimkus,27
-Sumner,Wellington twp H80,State Senate,32,D,Don Shimkus,26
-Sumner,Valverde,State Senate,32,D,Don Shimkus,25
-Sumner,Sumner,State Senate,32,D,Don Shimkus,21
-Sumner,Creek,State Senate,32,D,Don Shimkus,20
-Sumner,Ryan,State Senate,32,D,Don Shimkus,20
-Sumner,Downs,State Senate,32,D,Don Shimkus,18
-Sumner,Greene,State Senate,32,D,Don Shimkus,16
-Sumner,Bluff,State Senate,32,D,Don Shimkus,14
-Sumner,Illinois,State Senate,32,D,Don Shimkus,14
-Sumner,Chikaskia,State Senate,32,D,Don Shimkus,7
-Sumner,Morris,State Senate,32,D,Don Shimkus,5
-Sumner,Belle Plaine twp H82,State Senate,32,D,Don Shimkus,2
-Sumner,Mulvane City H79,State Senate,32,D,Don Shimkus,1
-Sumner,Mulvane City,State House 82,82,D,Dannette Harris,126
-Sumner,Gore H82,State House 82,82,D,Dannette Harris,55
-Sumner,Belle Plaine twp H82,State House 82,82,D,Dannette Harris,2
-Sumner,Wellington 2,U.S. House,4,D,Daniel B. Giroux,426
-Sumner,Wellington 1,U.S. House,4,D,Daniel B. Giroux,281
-Sumner,Belle Plaine twp H79,U.S. House,4,D,Daniel B. Giroux,271
-Sumner,Oxford twp,U.S. House,4,D,Daniel B. Giroux,120
-Sumner,Conway,U.S. House,4,D,Daniel B. Giroux,93
-Sumner,Mulvane City,U.S. House,4,D,Daniel B. Giroux,66
-Sumner,Gore H79,U.S. House,4,D,Daniel B. Giroux,63
-Sumner,Caldwell City W2,U.S. House,4,D,Daniel B. Giroux,62
-Sumner,Springdale,U.S. House,4,D,Daniel B. Giroux,51
-Sumner,Caldwell City W1,U.S. House,4,D,Daniel B. Giroux,51
-Sumner,London,U.S. House,4,D,Daniel B. Giroux,45
-Sumner,Dixon,U.S. House,4,D,Daniel B. Giroux,43
-Sumner,Avon,U.S. House,4,D,Daniel B. Giroux,33
-Sumner,South Haven twp,U.S. House,4,D,Daniel B. Giroux,30
-Sumner,Wellington twp H116,U.S. House,4,D,Daniel B. Giroux,25
-Sumner,Eden,U.S. House,4,D,Daniel B. Giroux,23
-Sumner,Gore H82,U.S. House,4,D,Daniel B. Giroux,23
-Sumner,Harmon,U.S. House,4,D,Daniel B. Giroux,23
-Sumner,Osborne,U.S. House,4,D,Daniel B. Giroux,23
-Sumner,Palestine,U.S. House,4,D,Daniel B. Giroux,18
-Sumner,Caldwell twp,U.S. House,4,D,Daniel B. Giroux,16
-Sumner,Walton,U.S. House,4,D,Daniel B. Giroux,16
-Sumner,Seventy-Six,U.S. House,4,D,Daniel B. Giroux,14
-Sumner,Creek,U.S. House,4,D,Daniel B. Giroux,13
-Sumner,Illinois,U.S. House,4,D,Daniel B. Giroux,12
-Sumner,Guelph,U.S. House,4,D,Daniel B. Giroux,11
-Sumner,Sumner,U.S. House,4,D,Daniel B. Giroux,11
-Sumner,Jackson,U.S. House,4,D,Daniel B. Giroux,9
-Sumner,Wellington twp H80,U.S. House,4,D,Daniel B. Giroux,9
-Sumner,Downs,U.S. House,4,D,Daniel B. Giroux,8
-Sumner,Falls,U.S. House,4,D,Daniel B. Giroux,8
-Sumner,Ryan,U.S. House,4,D,Daniel B. Giroux,8
-Sumner,Valverde,U.S. House,4,D,Daniel B. Giroux,6
-Sumner,Bluff,U.S. House,4,D,Daniel B. Giroux,4
-Sumner,Greene,U.S. House,4,D,Daniel B. Giroux,4
-Sumner,Belle Plaine twp H82,U.S. House,4,D,Daniel B. Giroux,2
-Sumner,Chikaskia,U.S. House,4,D,Daniel B. Giroux,1
-Sumner,Morris,U.S. House,4,D,Daniel B. Giroux,1
-Sumner,Mulvane City H79,U.S. House,4,D,Daniel B. Giroux,0
-Sumner,Wellington 2,President,,D,Hillary Clinton,485
-Sumner,Wellington 1,President,,D,Hillary Clinton,325
-Sumner,Belle Plaine twp H79,President,,D,Hillary Clinton,283
-Sumner,Oxford twp,President,,D,Hillary Clinton,123
-Sumner,Conway,President,,D,Hillary Clinton,88
-Sumner,Mulvane City,President,,D,Hillary Clinton,68
-Sumner,Gore H79,President,,D,Hillary Clinton,66
-Sumner,Springdale,President,,D,Hillary Clinton,57
-Sumner,Caldwell City W2,President,,D,Hillary Clinton,57
-Sumner,Caldwell City W1,President,,D,Hillary Clinton,53
-Sumner,London,President,,D,Hillary Clinton,49
-Sumner,South Haven twp,President,,D,Hillary Clinton,38
-Sumner,Dixon,President,,D,Hillary Clinton,35
-Sumner,Wellington twp H116,President,,D,Hillary Clinton,34
-Sumner,Avon,President,,D,Hillary Clinton,31
-Sumner,Harmon,President,,D,Hillary Clinton,27
-Sumner,Eden,President,,D,Hillary Clinton,25
-Sumner,Gore H82,President,,D,Hillary Clinton,23
-Sumner,Osborne,President,,D,Hillary Clinton,23
-Sumner,Palestine,President,,D,Hillary Clinton,20
-Sumner,Walton,President,,D,Hillary Clinton,20
-Sumner,Caldwell twp,President,,D,Hillary Clinton,17
-Sumner,Sumner,President,,D,Hillary Clinton,15
-Sumner,Ryan,President,,D,Hillary Clinton,13
-Sumner,Falls,President,,D,Hillary Clinton,11
-Sumner,Jackson,President,,D,Hillary Clinton,11
-Sumner,Creek,President,,D,Hillary Clinton,10
-Sumner,Downs,President,,D,Hillary Clinton,9
-Sumner,Wellington twp H80,President,,D,Hillary Clinton,9
-Sumner,Guelph,President,,D,Hillary Clinton,8
-Sumner,Seventy-Six,President,,D,Hillary Clinton,8
-Sumner,Valverde,President,,D,Hillary Clinton,8
-Sumner,Illinois,President,,D,Hillary Clinton,7
-Sumner,Bluff,President,,D,Hillary Clinton,6
-Sumner,Chikaskia,President,,D,Hillary Clinton,5
-Sumner,Greene,President,,D,Hillary Clinton,3
-Sumner,Morris,President,,D,Hillary Clinton,3
-Sumner,Belle Plaine twp H82,President,,D,Hillary Clinton,2
-Sumner,Mulvane City H79,President,,D,Hillary Clinton,1
-Sumner,Wellington 1,State House,80,R,Anita Judd-Jenkins,555
-Sumner,South Haven twp,State House,80,R,Anita Judd-Jenkins,151
-Sumner,Walton,State House,80,R,Anita Judd-Jenkins,101
-Sumner,Avon,State House,80,R,Anita Judd-Jenkins,99
-Sumner,Caldwell City W2,State House,80,R,Anita Judd-Jenkins,98
-Sumner,Guelph,State House,80,R,Anita Judd-Jenkins,49
-Sumner,Valverde,State House,80,R,Anita Judd-Jenkins,48
-Sumner,Jackson,State House,80,R,Anita Judd-Jenkins,47
-Sumner,Wellington twp H80,State House,80,R,Anita Judd-Jenkins,46
-Sumner,Caldwell City W1,State House,80,R,Anita Judd-Jenkins,38
-Sumner,Downs,State House,80,R,Anita Judd-Jenkins,32
-Sumner,Falls,State House,80,R,Anita Judd-Jenkins,28
-Sumner,Caldwell twp,State House,80,R,Anita Judd-Jenkins,23
-Sumner,Greene,State House,80,R,Anita Judd-Jenkins,21
-Sumner,Chikaskia,State House,80,R,Anita Judd-Jenkins,16
-Sumner,Bluff,State House,80,R,Anita Judd-Jenkins,7
-Sumner,Morris,State House,80,R,Anita Judd-Jenkins,7
+county,precinct,office,district,party,candidate,votes,vtd
+SUMNER,Avon Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",1,000010
+SUMNER,Avon Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",55,000010
+SUMNER,Avon Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",99,000010
+SUMNER,Bluff Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000030
+SUMNER,Bluff Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",20,000030
+SUMNER,Bluff Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",7,000030
+SUMNER,Caldwell City Ward 1,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000040
+SUMNER,Caldwell City Ward 1,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",133,000040
+SUMNER,Caldwell City Ward 1,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",38,000040
+SUMNER,Caldwell City Ward 2,Kansas House of Representatives,80,write - in,"Kelley, Kasha",3,000050
+SUMNER,Caldwell City Ward 2,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",181,000050
+SUMNER,Caldwell City Ward 2,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",98,000050
+SUMNER,Caldwell Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",1,000060
+SUMNER,Caldwell Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",45,000060
+SUMNER,Caldwell Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",23,000060
+SUMNER,Chikaskia Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",1,000070
+SUMNER,Chikaskia Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",12,000070
+SUMNER,Chikaskia Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",16,000070
+SUMNER,Conway Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",166,000080
+SUMNER,Conway Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",293,000080
+SUMNER,Creek Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",26,000090
+SUMNER,Creek Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",65,000090
+SUMNER,Dixon Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",94,000100
+SUMNER,Dixon Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",152,000100
+SUMNER,Downs Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",1,000110
+SUMNER,Downs Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",22,000110
+SUMNER,Downs Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",32,000110
+SUMNER,Eden Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",39,000120
+SUMNER,Eden Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",120,000120
+SUMNER,Falls Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",2,000130
+SUMNER,Falls Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",38,000130
+SUMNER,Falls Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",28,000130
+SUMNER,Greene Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000150
+SUMNER,Greene Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",9,000150
+SUMNER,Greene Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",21,000150
+SUMNER,Guelph Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",2,000160
+SUMNER,Guelph Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",17,000160
+SUMNER,Guelph Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",49,000160
+SUMNER,Harmon Township,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",100,000170
+SUMNER,Illinois Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",20,000180
+SUMNER,Illinois Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",65,000180
+SUMNER,Jackson Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000190
+SUMNER,Jackson Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",19,000190
+SUMNER,Jackson Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",47,000190
+SUMNER,London Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",85,000200
+SUMNER,London Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",242,000200
+SUMNER,Morris Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000210
+SUMNER,Morris Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",6,000210
+SUMNER,Morris Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",7,000210
+SUMNER,Mulvane City,Kansas House of Representatives,82,Democratic,"Harris, Danette",126,000220
+SUMNER,Mulvane City,Kansas House of Representatives,82,Republican,"DeGraaf, Pete",153,000220
+SUMNER,Osborne Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",69,000230
+SUMNER,Osborne Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",58,000230
+SUMNER,Oxford Township,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",431,000240
+SUMNER,Palestine Township,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",72,000250
+SUMNER,Ryan Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",25,000260
+SUMNER,Ryan Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",43,000260
+SUMNER,South Haven Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",2,000280
+SUMNER,South Haven Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",90,000280
+SUMNER,South Haven Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",151,000280
+SUMNER,Springdale Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",104,000290
+SUMNER,Springdale Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",164,000290
+SUMNER,Sumner Township,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",24,000300
+SUMNER,Sumner Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",39,000300
+SUMNER,Valverde Township,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,000310
+SUMNER,Valverde Township,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",11,000310
+SUMNER,Valverde Township,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",48,000310
+SUMNER,Walton Precinct,Kansas House of Representatives,80,write - in,"Kelley, Kasha",22,000320
+SUMNER,Walton Precinct,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",38,000320
+SUMNER,Walton Precinct,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",101,000320
+SUMNER,Belle Plaine Township H79,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",1009,120020
+SUMNER,Belle Plaine Township H82,Kansas House of Representatives,82,Democratic,"Harris, Danette",2,120030
+SUMNER,Belle Plaine Township H82,Kansas House of Representatives,82,Republican,"DeGraaf, Pete",4,120030
+SUMNER,Gore Township H79,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",282,120040
+SUMNER,Gore Township H82,Kansas House of Representatives,82,Democratic,"Harris, Danette",55,120050
+SUMNER,Gore Township H82,Kansas House of Representatives,82,Republican,"DeGraaf, Pete",56,120050
+SUMNER,Seventy - Six Township H116,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",37,120060
+SUMNER,Seventy - Six Township H116,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",82,120060
+SUMNER,Seventy - Six Township H80,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,120070
+SUMNER,Seventy - Six Township H80,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",0,120070
+SUMNER,Seventy - Six Township H80,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",0,120070
+SUMNER,Wellington Township H116,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",74,120120
+SUMNER,Wellington Township H116,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",63,120120
+SUMNER,Wellington Township H80 A,Kansas House of Representatives,80,write - in,"Kelley, Kasha",0,12013A
+SUMNER,Wellington Township H80 A,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",0,12013A
+SUMNER,Wellington Township H80 A,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",0,12013A
+SUMNER,Wellington Township H80,Kansas House of Representatives,80,write - in,"Kelley, Kasha",5,120130
+SUMNER,Wellington Township H80,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",24,120130
+SUMNER,Wellington Township H80,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",46,120130
+SUMNER,Wellington City Precinct 1,Kansas House of Representatives,80,write - in,"Kelley, Kasha",8,130010
+SUMNER,Wellington City Precinct 1,Kansas House of Representatives,80,Democratic,"Schiltz, Michelle",452,130010
+SUMNER,Wellington City Precinct 1,Kansas House of Representatives,80,Republican,"Judd-Jenkins, Anita",555,130010
+SUMNER,Wellington City Precinct 2,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",1173,130020
+SUMNER,Wellington City Precinct 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",658,130020
+SUMNER,Wellington City Airport,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",0,900020
+SUMNER,Wellington City Airport,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900020
+SUMNER,Wellington Lake Exclave,Kansas House of Representatives,116,Democratic,"Roitman, Jolene E.",0,900030
+SUMNER,Wellington Lake Exclave,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900030
+SUMNER,Gore Township Enclave,Kansas House of Representatives,82,Democratic,"Harris, Danette",0,900040
+SUMNER,Gore Township Enclave,Kansas House of Representatives,82,Republican,"DeGraaf, Pete",0,900040
+SUMNER,Mulvane City Exclave A,Kansas House of Representatives,82,Democratic,"Harris, Danette",0,900050
+SUMNER,Mulvane City Exclave A,Kansas House of Representatives,82,Republican,"DeGraaf, Pete",0,900050
+SUMNER,Mulvane City Exclave B,Kansas House of Representatives,79,Democratic,"Trimmer, Ed",5,900060
+SUMNER,Avon Township,Kansas Senate,32,Democratic,"Shimkus, Don",62,000010
+SUMNER,Avon Township,Kansas Senate,32,Republican,"Alley, Larry W.",93,000010
+SUMNER,Bluff Township,Kansas Senate,32,Democratic,"Shimkus, Don",14,000030
+SUMNER,Bluff Township,Kansas Senate,32,Republican,"Alley, Larry W.",13,000030
+SUMNER,Caldwell City Ward 1,Kansas Senate,32,Democratic,"Shimkus, Don",95,000040
+SUMNER,Caldwell City Ward 1,Kansas Senate,32,Republican,"Alley, Larry W.",73,000040
+SUMNER,Caldwell City Ward 2,Kansas Senate,32,Democratic,"Shimkus, Don",122,000050
+SUMNER,Caldwell City Ward 2,Kansas Senate,32,Republican,"Alley, Larry W.",151,000050
+SUMNER,Caldwell Township,Kansas Senate,32,Democratic,"Shimkus, Don",30,000060
+SUMNER,Caldwell Township,Kansas Senate,32,Republican,"Alley, Larry W.",39,000060
+SUMNER,Chikaskia Township,Kansas Senate,32,Democratic,"Shimkus, Don",7,000070
+SUMNER,Chikaskia Township,Kansas Senate,32,Republican,"Alley, Larry W.",23,000070
+SUMNER,Conway Township,Kansas Senate,32,Democratic,"Shimkus, Don",135,000080
+SUMNER,Conway Township,Kansas Senate,32,Republican,"Alley, Larry W.",325,000080
+SUMNER,Creek Township,Kansas Senate,32,Democratic,"Shimkus, Don",20,000090
+SUMNER,Creek Township,Kansas Senate,32,Republican,"Alley, Larry W.",70,000090
+SUMNER,Dixon Township,Kansas Senate,32,Democratic,"Shimkus, Don",75,000100
+SUMNER,Dixon Township,Kansas Senate,32,Republican,"Alley, Larry W.",171,000100
+SUMNER,Downs Township,Kansas Senate,32,Democratic,"Shimkus, Don",18,000110
+SUMNER,Downs Township,Kansas Senate,32,Republican,"Alley, Larry W.",40,000110
+SUMNER,Eden Township,Kansas Senate,32,Democratic,"Shimkus, Don",39,000120
+SUMNER,Eden Township,Kansas Senate,32,Republican,"Alley, Larry W.",121,000120
+SUMNER,Falls Township,Kansas Senate,32,Democratic,"Shimkus, Don",29,000130
+SUMNER,Falls Township,Kansas Senate,32,Republican,"Alley, Larry W.",38,000130
+SUMNER,Greene Township,Kansas Senate,32,Democratic,"Shimkus, Don",16,000150
+SUMNER,Greene Township,Kansas Senate,32,Republican,"Alley, Larry W.",17,000150
+SUMNER,Guelph Township,Kansas Senate,32,Democratic,"Shimkus, Don",27,000160
+SUMNER,Guelph Township,Kansas Senate,32,Republican,"Alley, Larry W.",45,000160
+SUMNER,Harmon Township,Kansas Senate,32,Democratic,"Shimkus, Don",54,000170
+SUMNER,Harmon Township,Kansas Senate,32,Republican,"Alley, Larry W.",94,000170
+SUMNER,Illinois Township,Kansas Senate,32,Democratic,"Shimkus, Don",14,000180
+SUMNER,Illinois Township,Kansas Senate,32,Republican,"Alley, Larry W.",69,000180
+SUMNER,Jackson Township,Kansas Senate,32,Democratic,"Shimkus, Don",29,000190
+SUMNER,Jackson Township,Kansas Senate,32,Republican,"Alley, Larry W.",37,000190
+SUMNER,London Township,Kansas Senate,32,Democratic,"Shimkus, Don",69,000200
+SUMNER,London Township,Kansas Senate,32,Republican,"Alley, Larry W.",254,000200
+SUMNER,Morris Township,Kansas Senate,32,Democratic,"Shimkus, Don",5,000210
+SUMNER,Morris Township,Kansas Senate,32,Republican,"Alley, Larry W.",9,000210
+SUMNER,Mulvane City,Kansas Senate,32,Democratic,"Shimkus, Don",81,000220
+SUMNER,Mulvane City,Kansas Senate,32,Republican,"Alley, Larry W.",192,000220
+SUMNER,Osborne Township,Kansas Senate,32,Democratic,"Shimkus, Don",49,000230
+SUMNER,Osborne Township,Kansas Senate,32,Republican,"Alley, Larry W.",76,000230
+SUMNER,Oxford Township,Kansas Senate,32,Democratic,"Shimkus, Don",322,000240
+SUMNER,Oxford Township,Kansas Senate,32,Republican,"Alley, Larry W.",263,000240
+SUMNER,Palestine Township,Kansas Senate,32,Democratic,"Shimkus, Don",36,000250
+SUMNER,Palestine Township,Kansas Senate,32,Republican,"Alley, Larry W.",66,000250
+SUMNER,Ryan Township,Kansas Senate,32,Democratic,"Shimkus, Don",20,000260
+SUMNER,Ryan Township,Kansas Senate,32,Republican,"Alley, Larry W.",49,000260
+SUMNER,South Haven Township,Kansas Senate,32,Democratic,"Shimkus, Don",121,000280
+SUMNER,South Haven Township,Kansas Senate,32,Republican,"Alley, Larry W.",123,000280
+SUMNER,Springdale Township,Kansas Senate,32,Democratic,"Shimkus, Don",82,000290
+SUMNER,Springdale Township,Kansas Senate,32,Republican,"Alley, Larry W.",189,000290
+SUMNER,Sumner Township,Kansas Senate,32,Democratic,"Shimkus, Don",21,000300
+SUMNER,Sumner Township,Kansas Senate,32,Republican,"Alley, Larry W.",42,000300
+SUMNER,Valverde Township,Kansas Senate,32,Democratic,"Shimkus, Don",25,000310
+SUMNER,Valverde Township,Kansas Senate,32,Republican,"Alley, Larry W.",34,000310
+SUMNER,Walton Precinct,Kansas Senate,32,Democratic,"Shimkus, Don",76,000320
+SUMNER,Walton Precinct,Kansas Senate,32,Republican,"Alley, Larry W.",86,000320
+SUMNER,Belle Plaine Township H79,Kansas Senate,32,Democratic,"Shimkus, Don",426,120020
+SUMNER,Belle Plaine Township H79,Kansas Senate,32,Republican,"Alley, Larry W.",892,120020
+SUMNER,Belle Plaine Township H82,Kansas Senate,32,Democratic,"Shimkus, Don",2,120030
+SUMNER,Belle Plaine Township H82,Kansas Senate,32,Republican,"Alley, Larry W.",4,120030
+SUMNER,Gore Township H79,Kansas Senate,32,Democratic,"Shimkus, Don",94,120040
+SUMNER,Gore Township H79,Kansas Senate,32,Republican,"Alley, Larry W.",281,120040
+SUMNER,Gore Township H82,Kansas Senate,32,Democratic,"Shimkus, Don",31,120050
+SUMNER,Gore Township H82,Kansas Senate,32,Republican,"Alley, Larry W.",76,120050
+SUMNER,Seventy - Six Township H116,Kansas Senate,32,Democratic,"Shimkus, Don",28,120060
+SUMNER,Seventy - Six Township H116,Kansas Senate,32,Republican,"Alley, Larry W.",91,120060
+SUMNER,Seventy - Six Township H80,Kansas Senate,32,Democratic,"Shimkus, Don",0,120070
+SUMNER,Seventy - Six Township H80,Kansas Senate,32,Republican,"Alley, Larry W.",0,120070
+SUMNER,Wellington Township H116,Kansas Senate,32,Democratic,"Shimkus, Don",64,120120
+SUMNER,Wellington Township H116,Kansas Senate,32,Republican,"Alley, Larry W.",74,120120
+SUMNER,Wellington Township H80 A,Kansas Senate,32,Democratic,"Shimkus, Don",0,12013A
+SUMNER,Wellington Township H80 A,Kansas Senate,32,Republican,"Alley, Larry W.",0,12013A
+SUMNER,Wellington Township H80,Kansas Senate,32,Democratic,"Shimkus, Don",26,120130
+SUMNER,Wellington Township H80,Kansas Senate,32,Republican,"Alley, Larry W.",46,120130
+SUMNER,Wellington City Precinct 1,Kansas Senate,32,Democratic,"Shimkus, Don",533,130010
+SUMNER,Wellington City Precinct 1,Kansas Senate,32,Republican,"Alley, Larry W.",492,130010
+SUMNER,Wellington City Precinct 2,Kansas Senate,32,Democratic,"Shimkus, Don",944,130020
+SUMNER,Wellington City Precinct 2,Kansas Senate,32,Republican,"Alley, Larry W.",885,130020
+SUMNER,Wellington City Airport,Kansas Senate,32,Democratic,"Shimkus, Don",0,900020
+SUMNER,Wellington City Airport,Kansas Senate,32,Republican,"Alley, Larry W.",0,900020
+SUMNER,Wellington Lake Exclave,Kansas Senate,32,Democratic,"Shimkus, Don",0,900030
+SUMNER,Wellington Lake Exclave,Kansas Senate,32,Republican,"Alley, Larry W.",0,900030
+SUMNER,Gore Township Enclave,Kansas Senate,32,Democratic,"Shimkus, Don",0,900040
+SUMNER,Gore Township Enclave,Kansas Senate,32,Republican,"Alley, Larry W.",0,900040
+SUMNER,Mulvane City Exclave A,Kansas Senate,32,Democratic,"Shimkus, Don",0,900050
+SUMNER,Mulvane City Exclave A,Kansas Senate,32,Republican,"Alley, Larry W.",0,900050
+SUMNER,Mulvane City Exclave B,Kansas Senate,32,Democratic,"Shimkus, Don",1,900060
+SUMNER,Mulvane City Exclave B,Kansas Senate,32,Republican,"Alley, Larry W.",4,900060
+SUMNER,Avon Township,President / Vice President,,independent,"Stein, Jill",2,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"McMullin, Evan",3,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+SUMNER,Avon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+SUMNER,Avon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",31,000010
+SUMNER,Avon Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000010
+SUMNER,Avon Township,President / Vice President,,Republican,"Trump, Donald J.",117,000010
+SUMNER,Bluff Township,President / Vice President,,independent,"Stein, Jill",1,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+SUMNER,Bluff Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+SUMNER,Bluff Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000030
+SUMNER,Bluff Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000030
+SUMNER,Bluff Township,President / Vice President,,Republican,"Trump, Donald J.",20,000030
+SUMNER,Caldwell City Ward 1,President / Vice President,,independent,"Stein, Jill",1,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",53,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",9,000040
+SUMNER,Caldwell City Ward 1,President / Vice President,,Republican,"Trump, Donald J.",110,000040
+SUMNER,Caldwell City Ward 2,President / Vice President,,independent,"Stein, Jill",4,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"McMullin, Evan",3,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",57,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,000050
+SUMNER,Caldwell City Ward 2,President / Vice President,,Republican,"Trump, Donald J.",210,000050
+SUMNER,Caldwell Township,President / Vice President,,independent,"Stein, Jill",1,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"McMullin, Evan",1,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+SUMNER,Caldwell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+SUMNER,Caldwell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000060
+SUMNER,Caldwell Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000060
+SUMNER,Caldwell Township,President / Vice President,,Republican,"Trump, Donald J.",47,000060
+SUMNER,Chikaskia Township,President / Vice President,,independent,"Stein, Jill",1,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000070
+SUMNER,Chikaskia Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
+SUMNER,Chikaskia Township,President / Vice President,,Republican,"Trump, Donald J.",25,000070
+SUMNER,Conway Township,President / Vice President,,independent,"Stein, Jill",11,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Maturen, Michael A",1,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+SUMNER,Conway Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+SUMNER,Conway Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",88,000080
+SUMNER,Conway Township,President / Vice President,,Libertarian,"Johnson, Gary",20,000080
+SUMNER,Conway Township,President / Vice President,,Republican,"Trump, Donald J.",355,000080
+SUMNER,Creek Township,President / Vice President,,independent,"Stein, Jill",1,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+SUMNER,Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+SUMNER,Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000090
+SUMNER,Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000090
+SUMNER,Creek Township,President / Vice President,,Republican,"Trump, Donald J.",79,000090
+SUMNER,Dixon Township,President / Vice President,,independent,"Stein, Jill",5,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Castle, Darrell L",2,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+SUMNER,Dixon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+SUMNER,Dixon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000100
+SUMNER,Dixon Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000100
+SUMNER,Dixon Township,President / Vice President,,Republican,"Trump, Donald J.",205,000100
+SUMNER,Downs Township,President / Vice President,,independent,"Stein, Jill",1,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+SUMNER,Downs Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+SUMNER,Downs Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000110
+SUMNER,Downs Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
+SUMNER,Downs Township,President / Vice President,,Republican,"Trump, Donald J.",55,000110
+SUMNER,Eden Township,President / Vice President,,independent,"Stein, Jill",4,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"McMullin, Evan",1,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+SUMNER,Eden Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+SUMNER,Eden Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",25,000120
+SUMNER,Eden Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000120
+SUMNER,Eden Township,President / Vice President,,Republican,"Trump, Donald J.",130,000120
+SUMNER,Falls Township,President / Vice President,,independent,"Stein, Jill",1,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+SUMNER,Falls Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+SUMNER,Falls Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000130
+SUMNER,Falls Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000130
+SUMNER,Falls Township,President / Vice President,,Republican,"Trump, Donald J.",56,000130
+SUMNER,Greene Township,President / Vice President,,independent,"Stein, Jill",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+SUMNER,Greene Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+SUMNER,Greene Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000150
+SUMNER,Greene Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000150
+SUMNER,Greene Township,President / Vice President,,Republican,"Trump, Donald J.",30,000150
+SUMNER,Guelph Township,President / Vice President,,independent,"Stein, Jill",1,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+SUMNER,Guelph Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+SUMNER,Guelph Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000160
+SUMNER,Guelph Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000160
+SUMNER,Guelph Township,President / Vice President,,Republican,"Trump, Donald J.",60,000160
+SUMNER,Harmon Township,President / Vice President,,independent,"Stein, Jill",2,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"McMullin, Evan",1,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+SUMNER,Harmon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+SUMNER,Harmon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000170
+SUMNER,Harmon Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000170
+SUMNER,Harmon Township,President / Vice President,,Republican,"Trump, Donald J.",115,000170
+SUMNER,Illinois Township,President / Vice President,,independent,"Stein, Jill",1,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+SUMNER,Illinois Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+SUMNER,Illinois Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000180
+SUMNER,Illinois Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000180
+SUMNER,Illinois Township,President / Vice President,,Republican,"Trump, Donald J.",74,000180
+SUMNER,Jackson Township,President / Vice President,,independent,"Stein, Jill",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+SUMNER,Jackson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+SUMNER,Jackson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000190
+SUMNER,Jackson Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000190
+SUMNER,Jackson Township,President / Vice President,,Republican,"Trump, Donald J.",50,000190
+SUMNER,London Township,President / Vice President,,independent,"Stein, Jill",5,000200
+SUMNER,London Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"McMullin, Evan",2,000200
+SUMNER,London Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+SUMNER,London Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+SUMNER,London Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",49,000200
+SUMNER,London Township,President / Vice President,,Libertarian,"Johnson, Gary",15,000200
+SUMNER,London Township,President / Vice President,,Republican,"Trump, Donald J.",271,000200
+SUMNER,Morris Township,President / Vice President,,independent,"Stein, Jill",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+SUMNER,Morris Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+SUMNER,Morris Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000210
+SUMNER,Morris Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000210
+SUMNER,Morris Township,President / Vice President,,Republican,"Trump, Donald J.",11,000210
+SUMNER,Mulvane City,President / Vice President,,independent,"Stein, Jill",4,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Hedges, James A",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"McMullin, Evan",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Perry, Darryl",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Smith, Mike",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Sood, Ajay",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+SUMNER,Mulvane City,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+SUMNER,Mulvane City,President / Vice President,,Democratic,"Clinton, Hillary Rodham",68,000220
+SUMNER,Mulvane City,President / Vice President,,Libertarian,"Johnson, Gary",10,000220
+SUMNER,Mulvane City,President / Vice President,,Republican,"Trump, Donald J.",207,000220
+SUMNER,Osborne Township,President / Vice President,,independent,"Stein, Jill",2,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+SUMNER,Osborne Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+SUMNER,Osborne Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000230
+SUMNER,Osborne Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000230
+SUMNER,Osborne Township,President / Vice President,,Republican,"Trump, Donald J.",98,000230
+SUMNER,Oxford Township,President / Vice President,,independent,"Stein, Jill",11,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Castle, Darrell L",1,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Hoefling, Tom",2,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"McMullin, Evan",1,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+SUMNER,Oxford Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+SUMNER,Oxford Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",123,000240
+SUMNER,Oxford Township,President / Vice President,,Libertarian,"Johnson, Gary",31,000240
+SUMNER,Oxford Township,President / Vice President,,Republican,"Trump, Donald J.",411,000240
+SUMNER,Palestine Township,President / Vice President,,independent,"Stein, Jill",3,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Hedges, James A",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"McMullin, Evan",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Perry, Darryl",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Smith, Mike",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Sood, Ajay",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+SUMNER,Palestine Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+SUMNER,Palestine Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000250
+SUMNER,Palestine Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000250
+SUMNER,Palestine Township,President / Vice President,,Republican,"Trump, Donald J.",75,000250
+SUMNER,Ryan Township,President / Vice President,,independent,"Stein, Jill",1,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Hedges, James A",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"McMullin, Evan",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Perry, Darryl",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Smith, Mike",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Sood, Ajay",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+SUMNER,Ryan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+SUMNER,Ryan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000260
+SUMNER,Ryan Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000260
+SUMNER,Ryan Township,President / Vice President,,Republican,"Trump, Donald J.",52,000260
+SUMNER,South Haven Township,President / Vice President,,independent,"Stein, Jill",2,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Castle, Darrell L",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Giordani, Rocky",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Hedges, James A",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Kahn, Lynn",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"La Riva, Gloria",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Maturen, Michael A",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"McMullin, Evan",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Perry, Darryl",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Schriner, Joe C",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Smith, Mike",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Sood, Ajay",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Sterling, Shawna",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000280
+SUMNER,South Haven Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000280
+SUMNER,South Haven Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000280
+SUMNER,South Haven Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000280
+SUMNER,South Haven Township,President / Vice President,,Republican,"Trump, Donald J.",196,000280
+SUMNER,Springdale Township,President / Vice President,,independent,"Stein, Jill",3,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Castle, Darrell L",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Giordani, Rocky",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Hedges, James A",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Kahn, Lynn",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"La Riva, Gloria",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Maturen, Michael A",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"McMullin, Evan",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Perry, Darryl",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Schriner, Joe C",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Smith, Mike",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Sood, Ajay",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Sterling, Shawna",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000290
+SUMNER,Springdale Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000290
+SUMNER,Springdale Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",57,000290
+SUMNER,Springdale Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000290
+SUMNER,Springdale Township,President / Vice President,,Republican,"Trump, Donald J.",213,000290
+SUMNER,Sumner Township,President / Vice President,,independent,"Stein, Jill",2,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Castle, Darrell L",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Giordani, Rocky",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Hedges, James A",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Kahn, Lynn",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"La Riva, Gloria",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Maturen, Michael A",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"McMullin, Evan",1,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Perry, Darryl",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Schriner, Joe C",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Smith, Mike",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Sood, Ajay",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Sterling, Shawna",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000300
+SUMNER,Sumner Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000300
+SUMNER,Sumner Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,000300
+SUMNER,Sumner Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000300
+SUMNER,Sumner Township,President / Vice President,,Republican,"Trump, Donald J.",44,000300
+SUMNER,Valverde Township,President / Vice President,,independent,"Stein, Jill",2,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Castle, Darrell L",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Giordani, Rocky",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Hedges, James A",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Kahn, Lynn",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"La Riva, Gloria",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Maturen, Michael A",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"McMullin, Evan",1,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Perry, Darryl",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Schriner, Joe C",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Smith, Mike",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Sood, Ajay",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Sterling, Shawna",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000310
+SUMNER,Valverde Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000310
+SUMNER,Valverde Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000310
+SUMNER,Valverde Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000310
+SUMNER,Valverde Township,President / Vice President,,Republican,"Trump, Donald J.",50,000310
+SUMNER,Walton Precinct,President / Vice President,,independent,"Stein, Jill",5,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Basiago, Andrew D.",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Castle, Darrell L",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Giordani, Rocky",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Hedges, James A",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Kahn, Lynn",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"La Riva, Gloria",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Levinson, Michael S.",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Maturen, Michael A",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"McMullin, Evan",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Moorehead, Monica G.",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Perry, Darryl",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Schriner, Joe C",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Smith, Mike",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Sood, Ajay",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Sterling, Shawna",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Valdivia, Anthony J",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000320
+SUMNER,Walton Precinct,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000320
+SUMNER,Walton Precinct,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000320
+SUMNER,Walton Precinct,President / Vice President,,Libertarian,"Johnson, Gary",7,000320
+SUMNER,Walton Precinct,President / Vice President,,Republican,"Trump, Donald J.",132,000320
+SUMNER,Belle Plaine Township H79,President / Vice President,,independent,"Stein, Jill",34,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Castle, Darrell L",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Hedges, James A",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"McMullin, Evan",3,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Perry, Darryl",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Smith, Mike",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Sood, Ajay",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,Democratic,"Clinton, Hillary Rodham",283,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,Libertarian,"Johnson, Gary",62,120020
+SUMNER,Belle Plaine Township H79,President / Vice President,,Republican,"Trump, Donald J.",968,120020
+SUMNER,Belle Plaine Township H82,President / Vice President,,independent,"Stein, Jill",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Hedges, James A",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"McMullin, Evan",1,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Perry, Darryl",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Smith, Mike",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Sood, Ajay",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,Libertarian,"Johnson, Gary",0,120030
+SUMNER,Belle Plaine Township H82,President / Vice President,,Republican,"Trump, Donald J.",4,120030
+SUMNER,Gore Township H79,President / Vice President,,independent,"Stein, Jill",7,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Basiago, Andrew D.",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Castle, Darrell L",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Giordani, Rocky",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Hedges, James A",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Kahn, Lynn",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"La Riva, Gloria",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Levinson, Michael S.",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Maturen, Michael A",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"McMullin, Evan",2,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Moorehead, Monica G.",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Perry, Darryl",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Schriner, Joe C",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Smith, Mike",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Sood, Ajay",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Sterling, Shawna",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Valdivia, Anthony J",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120040
+SUMNER,Gore Township H79,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120040
+SUMNER,Gore Township H79,President / Vice President,,Democratic,"Clinton, Hillary Rodham",66,120040
+SUMNER,Gore Township H79,President / Vice President,,Libertarian,"Johnson, Gary",18,120040
+SUMNER,Gore Township H79,President / Vice President,,Republican,"Trump, Donald J.",301,120040
+SUMNER,Gore Township H82,President / Vice President,,independent,"Stein, Jill",2,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Basiago, Andrew D.",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Castle, Darrell L",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Giordani, Rocky",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Hedges, James A",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Kahn, Lynn",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"La Riva, Gloria",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Levinson, Michael S.",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Maturen, Michael A",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"McMullin, Evan",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Moorehead, Monica G.",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Perry, Darryl",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Schriner, Joe C",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Smith, Mike",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Sood, Ajay",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Sterling, Shawna",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Valdivia, Anthony J",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120050
+SUMNER,Gore Township H82,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120050
+SUMNER,Gore Township H82,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,120050
+SUMNER,Gore Township H82,President / Vice President,,Libertarian,"Johnson, Gary",8,120050
+SUMNER,Gore Township H82,President / Vice President,,Republican,"Trump, Donald J.",74,120050
+SUMNER,Seventy - Six Township H116,President / Vice President,,independent,"Stein, Jill",1,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Basiago, Andrew D.",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Castle, Darrell L",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Giordani, Rocky",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Hedges, James A",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Hoefling, Tom",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Kahn, Lynn",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"La Riva, Gloria",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Levinson, Michael S.",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Maturen, Michael A",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"McMullin, Evan",2,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Moorehead, Monica G.",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Perry, Darryl",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Schriner, Joe C",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Smith, Mike",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Sood, Ajay",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Sterling, Shawna",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Valdivia, Anthony J",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,Libertarian,"Johnson, Gary",2,120060
+SUMNER,Seventy - Six Township H116,President / Vice President,,Republican,"Trump, Donald J.",112,120060
+SUMNER,Seventy - Six Township H80,President / Vice President,,independent,"Stein, Jill",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Basiago, Andrew D.",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Castle, Darrell L",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Giordani, Rocky",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Hedges, James A",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Hoefling, Tom",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Kahn, Lynn",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"La Riva, Gloria",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Levinson, Michael S.",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Maturen, Michael A",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"McMullin, Evan",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Moorehead, Monica G.",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Perry, Darryl",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Schriner, Joe C",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Smith, Mike",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Sood, Ajay",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Sterling, Shawna",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Valdivia, Anthony J",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,Libertarian,"Johnson, Gary",0,120070
+SUMNER,Seventy - Six Township H80,President / Vice President,,Republican,"Trump, Donald J.",0,120070
+SUMNER,Wellington Township H116,President / Vice President,,independent,"Stein, Jill",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Basiago, Andrew D.",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Castle, Darrell L",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Giordani, Rocky",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Hedges, James A",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Hoefling, Tom",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Kahn, Lynn",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"La Riva, Gloria",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Levinson, Michael S.",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Maturen, Michael A",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"McMullin, Evan",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Moorehead, Monica G.",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Perry, Darryl",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Schriner, Joe C",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Smith, Mike",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Sood, Ajay",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Sterling, Shawna",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Valdivia, Anthony J",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120120
+SUMNER,Wellington Township H116,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,120120
+SUMNER,Wellington Township H116,President / Vice President,,Libertarian,"Johnson, Gary",4,120120
+SUMNER,Wellington Township H116,President / Vice President,,Republican,"Trump, Donald J.",102,120120
+SUMNER,Wellington Township H80 A,President / Vice President,,independent,"Stein, Jill",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Basiago, Andrew D.",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Castle, Darrell L",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Giordani, Rocky",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Hedges, James A",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Hoefling, Tom",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Kahn, Lynn",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"La Riva, Gloria",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Levinson, Michael S.",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Maturen, Michael A",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"McMullin, Evan",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Moorehead, Monica G.",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Perry, Darryl",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Schriner, Joe C",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Smith, Mike",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Sood, Ajay",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Sterling, Shawna",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Valdivia, Anthony J",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,Libertarian,"Johnson, Gary",0,12013A
+SUMNER,Wellington Township H80 A,President / Vice President,,Republican,"Trump, Donald J.",0,12013A
+SUMNER,Wellington Township H80,President / Vice President,,independent,"Stein, Jill",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Basiago, Andrew D.",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Castle, Darrell L",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Giordani, Rocky",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Hedges, James A",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Hoefling, Tom",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Kahn, Lynn",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"La Riva, Gloria",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Levinson, Michael S.",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Maturen, Michael A",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"McMullin, Evan",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Moorehead, Monica G.",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Perry, Darryl",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Schriner, Joe C",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Smith, Mike",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Sood, Ajay",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Sterling, Shawna",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Valdivia, Anthony J",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120130
+SUMNER,Wellington Township H80,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,120130
+SUMNER,Wellington Township H80,President / Vice President,,Libertarian,"Johnson, Gary",3,120130
+SUMNER,Wellington Township H80,President / Vice President,,Republican,"Trump, Donald J.",62,120130
+SUMNER,Wellington City Precinct 1,President / Vice President,,independent,"Stein, Jill",19,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"McMullin, Evan",1,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",325,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",52,130010
+SUMNER,Wellington City Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",641,130010
+SUMNER,Wellington City Precinct 2,President / Vice President,,independent,"Stein, Jill",65,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",2,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"McMullin, Evan",6,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",485,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",82,130020
+SUMNER,Wellington City Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",1217,130020
+SUMNER,Wellington City Airport,President / Vice President,,independent,"Stein, Jill",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Hedges, James A",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"McMullin, Evan",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Perry, Darryl",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Smith, Mike",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Sood, Ajay",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+SUMNER,Wellington City Airport,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+SUMNER,Wellington Lake Exclave,President / Vice President,,independent,"Stein, Jill",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Hedges, James A",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Smith, Mike",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+SUMNER,Wellington Lake Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900030
+SUMNER,Gore Township Enclave,President / Vice President,,independent,"Stein, Jill",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Hedges, James A",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"McMullin, Evan",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Perry, Darryl",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Smith, Mike",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Sood, Ajay",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900040
+SUMNER,Gore Township Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,900040
+SUMNER,Mulvane City Exclave A,President / Vice President,,independent,"Stein, Jill",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Castle, Darrell L",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Giordani, Rocky",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Hedges, James A",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Kahn, Lynn",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"La Riva, Gloria",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Maturen, Michael A",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"McMullin, Evan",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Perry, Darryl",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Schriner, Joe C",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Smith, Mike",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Sood, Ajay",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Sterling, Shawna",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,900050
+SUMNER,Mulvane City Exclave A,President / Vice President,,Republican,"Trump, Donald J.",0,900050
+SUMNER,Mulvane City Exclave B,President / Vice President,,independent,"Stein, Jill",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Basiago, Andrew D.",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Castle, Darrell L",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Giordani, Rocky",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Hedges, James A",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Kahn, Lynn",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"La Riva, Gloria",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Levinson, Michael S.",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Maturen, Michael A",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"McMullin, Evan",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Moorehead, Monica G.",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Perry, Darryl",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Schriner, Joe C",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Smith, Mike",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Sood, Ajay",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Sterling, Shawna",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Valdivia, Anthony J",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,900060
+SUMNER,Mulvane City Exclave B,President / Vice President,,Republican,"Trump, Donald J.",5,900060
+SUMNER,Avon Township,United States House of Representatives,4,independent,"Allen, Miranda",14,000010
+SUMNER,Avon Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",33,000010
+SUMNER,Avon Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",4,000010
+SUMNER,Avon Township,United States House of Representatives,4,Republican,"Pompeo, Michael",106,000010
+SUMNER,Bluff Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000030
+SUMNER,Bluff Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000030
+SUMNER,Bluff Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000030
+SUMNER,Bluff Township,United States House of Representatives,4,Republican,"Pompeo, Michael",21,000030
+SUMNER,Caldwell City Ward 1,United States House of Representatives,4,independent,"Allen, Miranda",10,000040
+SUMNER,Caldwell City Ward 1,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",51,000040
+SUMNER,Caldwell City Ward 1,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000040
+SUMNER,Caldwell City Ward 1,United States House of Representatives,4,Republican,"Pompeo, Michael",108,000040
+SUMNER,Caldwell City Ward 2,United States House of Representatives,4,independent,"Allen, Miranda",26,000050
+SUMNER,Caldwell City Ward 2,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",62,000050
+SUMNER,Caldwell City Ward 2,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",8,000050
+SUMNER,Caldwell City Ward 2,United States House of Representatives,4,Republican,"Pompeo, Michael",188,000050
+SUMNER,Caldwell Township,United States House of Representatives,4,independent,"Allen, Miranda",7,000060
+SUMNER,Caldwell Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",16,000060
+SUMNER,Caldwell Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000060
+SUMNER,Caldwell Township,United States House of Representatives,4,Republican,"Pompeo, Michael",44,000060
+SUMNER,Chikaskia Township,United States House of Representatives,4,independent,"Allen, Miranda",5,000070
+SUMNER,Chikaskia Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000070
+SUMNER,Chikaskia Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000070
+SUMNER,Chikaskia Township,United States House of Representatives,4,Republican,"Pompeo, Michael",25,000070
+SUMNER,Conway Township,United States House of Representatives,4,independent,"Allen, Miranda",42,000080
+SUMNER,Conway Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",93,000080
+SUMNER,Conway Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",13,000080
+SUMNER,Conway Township,United States House of Representatives,4,Republican,"Pompeo, Michael",320,000080
+SUMNER,Creek Township,United States House of Representatives,4,independent,"Allen, Miranda",4,000090
+SUMNER,Creek Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000090
+SUMNER,Creek Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000090
+SUMNER,Creek Township,United States House of Representatives,4,Republican,"Pompeo, Michael",74,000090
+SUMNER,Dixon Township,United States House of Representatives,4,independent,"Allen, Miranda",25,000100
+SUMNER,Dixon Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",43,000100
+SUMNER,Dixon Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000100
+SUMNER,Dixon Township,United States House of Representatives,4,Republican,"Pompeo, Michael",182,000100
+SUMNER,Downs Township,United States House of Representatives,4,independent,"Allen, Miranda",8,000110
+SUMNER,Downs Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000110
+SUMNER,Downs Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000110
+SUMNER,Downs Township,United States House of Representatives,4,Republican,"Pompeo, Michael",46,000110
+SUMNER,Eden Township,United States House of Representatives,4,independent,"Allen, Miranda",13,000120
+SUMNER,Eden Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",23,000120
+SUMNER,Eden Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000120
+SUMNER,Eden Township,United States House of Representatives,4,Republican,"Pompeo, Michael",126,000120
+SUMNER,Falls Township,United States House of Representatives,4,independent,"Allen, Miranda",11,000130
+SUMNER,Falls Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000130
+SUMNER,Falls Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000130
+SUMNER,Falls Township,United States House of Representatives,4,Republican,"Pompeo, Michael",49,000130
+SUMNER,Greene Township,United States House of Representatives,4,independent,"Allen, Miranda",5,000150
+SUMNER,Greene Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000150
+SUMNER,Greene Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000150
+SUMNER,Greene Township,United States House of Representatives,4,Republican,"Pompeo, Michael",22,000150
+SUMNER,Guelph Township,United States House of Representatives,4,independent,"Allen, Miranda",8,000160
+SUMNER,Guelph Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",11,000160
+SUMNER,Guelph Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000160
+SUMNER,Guelph Township,United States House of Representatives,4,Republican,"Pompeo, Michael",53,000160
+SUMNER,Harmon Township,United States House of Representatives,4,independent,"Allen, Miranda",12,000170
+SUMNER,Harmon Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",23,000170
+SUMNER,Harmon Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000170
+SUMNER,Harmon Township,United States House of Representatives,4,Republican,"Pompeo, Michael",112,000170
+SUMNER,Illinois Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000180
+SUMNER,Illinois Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",12,000180
+SUMNER,Illinois Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000180
+SUMNER,Illinois Township,United States House of Representatives,4,Republican,"Pompeo, Michael",63,000180
+SUMNER,Jackson Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000190
+SUMNER,Jackson Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",9,000190
+SUMNER,Jackson Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000190
+SUMNER,Jackson Township,United States House of Representatives,4,Republican,"Pompeo, Michael",51,000190
+SUMNER,London Township,United States House of Representatives,4,independent,"Allen, Miranda",19,000200
+SUMNER,London Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",45,000200
+SUMNER,London Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",20,000200
+SUMNER,London Township,United States House of Representatives,4,Republican,"Pompeo, Michael",249,000200
+SUMNER,Morris Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000210
+SUMNER,Morris Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000210
+SUMNER,Morris Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000210
+SUMNER,Morris Township,United States House of Representatives,4,Republican,"Pompeo, Michael",12,000210
+SUMNER,Mulvane City,United States House of Representatives,4,independent,"Allen, Miranda",16,000220
+SUMNER,Mulvane City,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",66,000220
+SUMNER,Mulvane City,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",10,000220
+SUMNER,Mulvane City,United States House of Representatives,4,Republican,"Pompeo, Michael",191,000220
+SUMNER,Osborne Township,United States House of Representatives,4,independent,"Allen, Miranda",12,000230
+SUMNER,Osborne Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",23,000230
+SUMNER,Osborne Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000230
+SUMNER,Osborne Township,United States House of Representatives,4,Republican,"Pompeo, Michael",89,000230
+SUMNER,Oxford Township,United States House of Representatives,4,independent,"Allen, Miranda",70,000240
+SUMNER,Oxford Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",120,000240
+SUMNER,Oxford Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",16,000240
+SUMNER,Oxford Township,United States House of Representatives,4,Republican,"Pompeo, Michael",367,000240
+SUMNER,Palestine Township,United States House of Representatives,4,independent,"Allen, Miranda",10,000250
+SUMNER,Palestine Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",18,000250
+SUMNER,Palestine Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000250
+SUMNER,Palestine Township,United States House of Representatives,4,Republican,"Pompeo, Michael",73,000250
+SUMNER,Ryan Township,United States House of Representatives,4,independent,"Allen, Miranda",7,000260
+SUMNER,Ryan Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000260
+SUMNER,Ryan Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000260
+SUMNER,Ryan Township,United States House of Representatives,4,Republican,"Pompeo, Michael",53,000260
+SUMNER,South Haven Township,United States House of Representatives,4,independent,"Allen, Miranda",33,000280
+SUMNER,South Haven Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",30,000280
+SUMNER,South Haven Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000280
+SUMNER,South Haven Township,United States House of Representatives,4,Republican,"Pompeo, Michael",179,000280
+SUMNER,Springdale Township,United States House of Representatives,4,independent,"Allen, Miranda",18,000290
+SUMNER,Springdale Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",51,000290
+SUMNER,Springdale Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000290
+SUMNER,Springdale Township,United States House of Representatives,4,Republican,"Pompeo, Michael",204,000290
+SUMNER,Sumner Township,United States House of Representatives,4,independent,"Allen, Miranda",12,000300
+SUMNER,Sumner Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",11,000300
+SUMNER,Sumner Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000300
+SUMNER,Sumner Township,United States House of Representatives,4,Republican,"Pompeo, Michael",41,000300
+SUMNER,Valverde Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000310
+SUMNER,Valverde Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",6,000310
+SUMNER,Valverde Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",6,000310
+SUMNER,Valverde Township,United States House of Representatives,4,Republican,"Pompeo, Michael",41,000310
+SUMNER,Walton Precinct,United States House of Representatives,4,independent,"Allen, Miranda",27,000320
+SUMNER,Walton Precinct,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",16,000320
+SUMNER,Walton Precinct,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",7,000320
+SUMNER,Walton Precinct,United States House of Representatives,4,Republican,"Pompeo, Michael",115,000320
+SUMNER,Belle Plaine Township H79,United States House of Representatives,4,independent,"Allen, Miranda",109,120020
+SUMNER,Belle Plaine Township H79,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",271,120020
+SUMNER,Belle Plaine Township H79,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",54,120020
+SUMNER,Belle Plaine Township H79,United States House of Representatives,4,Republican,"Pompeo, Michael",912,120020
+SUMNER,Belle Plaine Township H82,United States House of Representatives,4,independent,"Allen, Miranda",0,120030
+SUMNER,Belle Plaine Township H82,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",2,120030
+SUMNER,Belle Plaine Township H82,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,120030
+SUMNER,Belle Plaine Township H82,United States House of Representatives,4,Republican,"Pompeo, Michael",4,120030
+SUMNER,Gore Township H79,United States House of Representatives,4,independent,"Allen, Miranda",37,120040
+SUMNER,Gore Township H79,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",63,120040
+SUMNER,Gore Township H79,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",15,120040
+SUMNER,Gore Township H79,United States House of Representatives,4,Republican,"Pompeo, Michael",275,120040
+SUMNER,Gore Township H82,United States House of Representatives,4,independent,"Allen, Miranda",5,120050
+SUMNER,Gore Township H82,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",23,120050
+SUMNER,Gore Township H82,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",7,120050
+SUMNER,Gore Township H82,United States House of Representatives,4,Republican,"Pompeo, Michael",74,120050
+SUMNER,Seventy - Six Township H116,United States House of Representatives,4,independent,"Allen, Miranda",9,120060
+SUMNER,Seventy - Six Township H116,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",14,120060
+SUMNER,Seventy - Six Township H116,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,120060
+SUMNER,Seventy - Six Township H116,United States House of Representatives,4,Republican,"Pompeo, Michael",99,120060
+SUMNER,Seventy - Six Township H80,United States House of Representatives,4,independent,"Allen, Miranda",0,120070
+SUMNER,Seventy - Six Township H80,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,120070
+SUMNER,Seventy - Six Township H80,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,120070
+SUMNER,Seventy - Six Township H80,United States House of Representatives,4,Republican,"Pompeo, Michael",0,120070
+SUMNER,Wellington Township H116,United States House of Representatives,4,independent,"Allen, Miranda",15,120120
+SUMNER,Wellington Township H116,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",25,120120
+SUMNER,Wellington Township H116,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,120120
+SUMNER,Wellington Township H116,United States House of Representatives,4,Republican,"Pompeo, Michael",95,120120
+SUMNER,Wellington Township H80 A,United States House of Representatives,4,independent,"Allen, Miranda",0,12013A
+SUMNER,Wellington Township H80 A,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,12013A
+SUMNER,Wellington Township H80 A,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,12013A
+SUMNER,Wellington Township H80 A,United States House of Representatives,4,Republican,"Pompeo, Michael",0,12013A
+SUMNER,Wellington Township H80,United States House of Representatives,4,independent,"Allen, Miranda",12,120130
+SUMNER,Wellington Township H80,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",9,120130
+SUMNER,Wellington Township H80,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,120130
+SUMNER,Wellington Township H80,United States House of Representatives,4,Republican,"Pompeo, Michael",51,120130
+SUMNER,Wellington City Precinct 1,United States House of Representatives,4,independent,"Allen, Miranda",139,130010
+SUMNER,Wellington City Precinct 1,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",281,130010
+SUMNER,Wellington City Precinct 1,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",35,130010
+SUMNER,Wellington City Precinct 1,United States House of Representatives,4,Republican,"Pompeo, Michael",570,130010
+SUMNER,Wellington City Precinct 2,United States House of Representatives,4,independent,"Allen, Miranda",258,130020
+SUMNER,Wellington City Precinct 2,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",426,130020
+SUMNER,Wellington City Precinct 2,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",61,130020
+SUMNER,Wellington City Precinct 2,United States House of Representatives,4,Republican,"Pompeo, Michael",1101,130020
+SUMNER,Wellington City Airport,United States House of Representatives,4,independent,"Allen, Miranda",0,900020
+SUMNER,Wellington City Airport,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,900020
+SUMNER,Wellington City Airport,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,900020
+SUMNER,Wellington City Airport,United States House of Representatives,4,Republican,"Pompeo, Michael",0,900020
+SUMNER,Wellington Lake Exclave,United States House of Representatives,4,independent,"Allen, Miranda",0,900030
+SUMNER,Wellington Lake Exclave,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,900030
+SUMNER,Wellington Lake Exclave,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,900030
+SUMNER,Wellington Lake Exclave,United States House of Representatives,4,Republican,"Pompeo, Michael",0,900030
+SUMNER,Gore Township Enclave,United States House of Representatives,4,independent,"Allen, Miranda",0,900040
+SUMNER,Gore Township Enclave,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,900040
+SUMNER,Gore Township Enclave,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,900040
+SUMNER,Gore Township Enclave,United States House of Representatives,4,Republican,"Pompeo, Michael",0,900040
+SUMNER,Mulvane City Exclave A,United States House of Representatives,4,independent,"Allen, Miranda",0,900050
+SUMNER,Mulvane City Exclave A,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,900050
+SUMNER,Mulvane City Exclave A,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,900050
+SUMNER,Mulvane City Exclave A,United States House of Representatives,4,Republican,"Pompeo, Michael",0,900050
+SUMNER,Mulvane City Exclave B,United States House of Representatives,4,independent,"Allen, Miranda",0,900060
+SUMNER,Mulvane City Exclave B,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,900060
+SUMNER,Mulvane City Exclave B,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,900060
+SUMNER,Mulvane City Exclave B,United States House of Representatives,4,Republican,"Pompeo, Michael",6,900060
+SUMNER,Avon Township,United States Senate,,write - in,"Smith, DJ",0,000010
+SUMNER,Avon Township,United States Senate,,Democratic,"Wiesner, Patrick",32,000010
+SUMNER,Avon Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000010
+SUMNER,Avon Township,United States Senate,,Republican,"Moran, Jerry",113,000010
+SUMNER,Bluff Township,United States Senate,,write - in,"Smith, DJ",0,000030
+SUMNER,Bluff Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000030
+SUMNER,Bluff Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+SUMNER,Bluff Township,United States Senate,,Republican,"Moran, Jerry",24,000030
+SUMNER,Caldwell City Ward 1,United States Senate,,write - in,"Smith, DJ",0,000040
+SUMNER,Caldwell City Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",44,000040
+SUMNER,Caldwell City Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",11,000040
+SUMNER,Caldwell City Ward 1,United States Senate,,Republican,"Moran, Jerry",114,000040
+SUMNER,Caldwell City Ward 2,United States Senate,,write - in,"Smith, DJ",0,000050
+SUMNER,Caldwell City Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",62,000050
+SUMNER,Caldwell City Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",16,000050
+SUMNER,Caldwell City Ward 2,United States Senate,,Republican,"Moran, Jerry",205,000050
+SUMNER,Caldwell Township,United States Senate,,write - in,"Smith, DJ",0,000060
+SUMNER,Caldwell Township,United States Senate,,Democratic,"Wiesner, Patrick",17,000060
+SUMNER,Caldwell Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000060
+SUMNER,Caldwell Township,United States Senate,,Republican,"Moran, Jerry",52,000060
+SUMNER,Chikaskia Township,United States Senate,,write - in,"Smith, DJ",0,000070
+SUMNER,Chikaskia Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000070
+SUMNER,Chikaskia Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000070
+SUMNER,Chikaskia Township,United States Senate,,Republican,"Moran, Jerry",25,000070
+SUMNER,Conway Township,United States Senate,,write - in,"Smith, DJ",0,000080
+SUMNER,Conway Township,United States Senate,,Democratic,"Wiesner, Patrick",93,000080
+SUMNER,Conway Township,United States Senate,,Libertarian,"Garrard, Robert D.",36,000080
+SUMNER,Conway Township,United States Senate,,Republican,"Moran, Jerry",339,000080
+SUMNER,Creek Township,United States Senate,,write - in,"Smith, DJ",0,000090
+SUMNER,Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000090
+SUMNER,Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000090
+SUMNER,Creek Township,United States Senate,,Republican,"Moran, Jerry",70,000090
+SUMNER,Dixon Township,United States Senate,,write - in,"Smith, DJ",0,000100
+SUMNER,Dixon Township,United States Senate,,Democratic,"Wiesner, Patrick",41,000100
+SUMNER,Dixon Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000100
+SUMNER,Dixon Township,United States Senate,,Republican,"Moran, Jerry",193,000100
+SUMNER,Downs Township,United States Senate,,write - in,"Smith, DJ",0,000110
+SUMNER,Downs Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000110
+SUMNER,Downs Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000110
+SUMNER,Downs Township,United States Senate,,Republican,"Moran, Jerry",49,000110
+SUMNER,Eden Township,United States Senate,,write - in,"Smith, DJ",0,000120
+SUMNER,Eden Township,United States Senate,,Democratic,"Wiesner, Patrick",26,000120
+SUMNER,Eden Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000120
+SUMNER,Eden Township,United States Senate,,Republican,"Moran, Jerry",132,000120
+SUMNER,Falls Township,United States Senate,,write - in,"Smith, DJ",0,000130
+SUMNER,Falls Township,United States Senate,,Democratic,"Wiesner, Patrick",13,000130
+SUMNER,Falls Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000130
+SUMNER,Falls Township,United States Senate,,Republican,"Moran, Jerry",54,000130
+SUMNER,Greene Township,United States Senate,,write - in,"Smith, DJ",0,000150
+SUMNER,Greene Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000150
+SUMNER,Greene Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000150
+SUMNER,Greene Township,United States Senate,,Republican,"Moran, Jerry",27,000150
+SUMNER,Guelph Township,United States Senate,,write - in,"Smith, DJ",0,000160
+SUMNER,Guelph Township,United States Senate,,Democratic,"Wiesner, Patrick",13,000160
+SUMNER,Guelph Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000160
+SUMNER,Guelph Township,United States Senate,,Republican,"Moran, Jerry",55,000160
+SUMNER,Harmon Township,United States Senate,,write - in,"Smith, DJ",0,000170
+SUMNER,Harmon Township,United States Senate,,Democratic,"Wiesner, Patrick",23,000170
+SUMNER,Harmon Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000170
+SUMNER,Harmon Township,United States Senate,,Republican,"Moran, Jerry",118,000170
+SUMNER,Illinois Township,United States Senate,,write - in,"Smith, DJ",0,000180
+SUMNER,Illinois Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000180
+SUMNER,Illinois Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000180
+SUMNER,Illinois Township,United States Senate,,Republican,"Moran, Jerry",74,000180
+SUMNER,Jackson Township,United States Senate,,write - in,"Smith, DJ",0,000190
+SUMNER,Jackson Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000190
+SUMNER,Jackson Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000190
+SUMNER,Jackson Township,United States Senate,,Republican,"Moran, Jerry",53,000190
+SUMNER,London Township,United States Senate,,write - in,"Smith, DJ",0,000200
+SUMNER,London Township,United States Senate,,Democratic,"Wiesner, Patrick",45,000200
+SUMNER,London Township,United States Senate,,Libertarian,"Garrard, Robert D.",28,000200
+SUMNER,London Township,United States Senate,,Republican,"Moran, Jerry",262,000200
+SUMNER,Morris Township,United States Senate,,write - in,"Smith, DJ",0,000210
+SUMNER,Morris Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000210
+SUMNER,Morris Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000210
+SUMNER,Morris Township,United States Senate,,Republican,"Moran, Jerry",14,000210
+SUMNER,Mulvane City,United States Senate,,write - in,"Smith, DJ",0,000220
+SUMNER,Mulvane City,United States Senate,,Democratic,"Wiesner, Patrick",64,000220
+SUMNER,Mulvane City,United States Senate,,Libertarian,"Garrard, Robert D.",17,000220
+SUMNER,Mulvane City,United States Senate,,Republican,"Moran, Jerry",203,000220
+SUMNER,Osborne Township,United States Senate,,write - in,"Smith, DJ",0,000230
+SUMNER,Osborne Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000230
+SUMNER,Osborne Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000230
+SUMNER,Osborne Township,United States Senate,,Republican,"Moran, Jerry",94,000230
+SUMNER,Oxford Township,United States Senate,,write - in,"Smith, DJ",0,000240
+SUMNER,Oxford Township,United States Senate,,Democratic,"Wiesner, Patrick",136,000240
+SUMNER,Oxford Township,United States Senate,,Libertarian,"Garrard, Robert D.",43,000240
+SUMNER,Oxford Township,United States Senate,,Republican,"Moran, Jerry",391,000240
+SUMNER,Palestine Township,United States Senate,,write - in,"Smith, DJ",0,000250
+SUMNER,Palestine Township,United States Senate,,Democratic,"Wiesner, Patrick",23,000250
+SUMNER,Palestine Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000250
+SUMNER,Palestine Township,United States Senate,,Republican,"Moran, Jerry",73,000250
+SUMNER,Ryan Township,United States Senate,,write - in,"Smith, DJ",0,000260
+SUMNER,Ryan Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000260
+SUMNER,Ryan Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000260
+SUMNER,Ryan Township,United States Senate,,Republican,"Moran, Jerry",50,000260
+SUMNER,South Haven Township,United States Senate,,write - in,"Smith, DJ",0,000280
+SUMNER,South Haven Township,United States Senate,,Democratic,"Wiesner, Patrick",43,000280
+SUMNER,South Haven Township,United States Senate,,Libertarian,"Garrard, Robert D.",17,000280
+SUMNER,South Haven Township,United States Senate,,Republican,"Moran, Jerry",185,000280
+SUMNER,Springdale Township,United States Senate,,write - in,"Smith, DJ",0,000290
+SUMNER,Springdale Township,United States Senate,,Democratic,"Wiesner, Patrick",53,000290
+SUMNER,Springdale Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000290
+SUMNER,Springdale Township,United States Senate,,Republican,"Moran, Jerry",211,000290
+SUMNER,Sumner Township,United States Senate,,write - in,"Smith, DJ",0,000300
+SUMNER,Sumner Township,United States Senate,,Democratic,"Wiesner, Patrick",12,000300
+SUMNER,Sumner Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000300
+SUMNER,Sumner Township,United States Senate,,Republican,"Moran, Jerry",50,000300
+SUMNER,Valverde Township,United States Senate,,write - in,"Smith, DJ",0,000310
+SUMNER,Valverde Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000310
+SUMNER,Valverde Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000310
+SUMNER,Valverde Township,United States Senate,,Republican,"Moran, Jerry",51,000310
+SUMNER,Walton Precinct,United States Senate,,write - in,"Smith, DJ",0,000320
+SUMNER,Walton Precinct,United States Senate,,Democratic,"Wiesner, Patrick",16,000320
+SUMNER,Walton Precinct,United States Senate,,Libertarian,"Garrard, Robert D.",18,000320
+SUMNER,Walton Precinct,United States Senate,,Republican,"Moran, Jerry",126,000320
+SUMNER,Belle Plaine Township H79,United States Senate,,write - in,"Smith, DJ",0,120020
+SUMNER,Belle Plaine Township H79,United States Senate,,Democratic,"Wiesner, Patrick",287,120020
+SUMNER,Belle Plaine Township H79,United States Senate,,Libertarian,"Garrard, Robert D.",98,120020
+SUMNER,Belle Plaine Township H79,United States Senate,,Republican,"Moran, Jerry",957,120020
+SUMNER,Belle Plaine Township H82,United States Senate,,write - in,"Smith, DJ",0,120030
+SUMNER,Belle Plaine Township H82,United States Senate,,Democratic,"Wiesner, Patrick",2,120030
+SUMNER,Belle Plaine Township H82,United States Senate,,Libertarian,"Garrard, Robert D.",0,120030
+SUMNER,Belle Plaine Township H82,United States Senate,,Republican,"Moran, Jerry",4,120030
+SUMNER,Gore Township H79,United States Senate,,write - in,"Smith, DJ",0,120040
+SUMNER,Gore Township H79,United States Senate,,Democratic,"Wiesner, Patrick",67,120040
+SUMNER,Gore Township H79,United States Senate,,Libertarian,"Garrard, Robert D.",31,120040
+SUMNER,Gore Township H79,United States Senate,,Republican,"Moran, Jerry",293,120040
+SUMNER,Gore Township H82,United States Senate,,write - in,"Smith, DJ",0,120050
+SUMNER,Gore Township H82,United States Senate,,Democratic,"Wiesner, Patrick",22,120050
+SUMNER,Gore Township H82,United States Senate,,Libertarian,"Garrard, Robert D.",12,120050
+SUMNER,Gore Township H82,United States Senate,,Republican,"Moran, Jerry",75,120050
+SUMNER,Seventy - Six Township H116,United States Senate,,write - in,"Smith, DJ",0,120060
+SUMNER,Seventy - Six Township H116,United States Senate,,Democratic,"Wiesner, Patrick",9,120060
+SUMNER,Seventy - Six Township H116,United States Senate,,Libertarian,"Garrard, Robert D.",10,120060
+SUMNER,Seventy - Six Township H116,United States Senate,,Republican,"Moran, Jerry",101,120060
+SUMNER,Seventy - Six Township H80,United States Senate,,write - in,"Smith, DJ",0,120070
+SUMNER,Seventy - Six Township H80,United States Senate,,Democratic,"Wiesner, Patrick",0,120070
+SUMNER,Seventy - Six Township H80,United States Senate,,Libertarian,"Garrard, Robert D.",0,120070
+SUMNER,Seventy - Six Township H80,United States Senate,,Republican,"Moran, Jerry",0,120070
+SUMNER,Wellington Township H116,United States Senate,,write - in,"Smith, DJ",0,120120
+SUMNER,Wellington Township H116,United States Senate,,Democratic,"Wiesner, Patrick",36,120120
+SUMNER,Wellington Township H116,United States Senate,,Libertarian,"Garrard, Robert D.",6,120120
+SUMNER,Wellington Township H116,United States Senate,,Republican,"Moran, Jerry",96,120120
+SUMNER,Wellington Township H80 A,United States Senate,,write - in,"Smith, DJ",0,12013A
+SUMNER,Wellington Township H80 A,United States Senate,,Democratic,"Wiesner, Patrick",0,12013A
+SUMNER,Wellington Township H80 A,United States Senate,,Libertarian,"Garrard, Robert D.",0,12013A
+SUMNER,Wellington Township H80 A,United States Senate,,Republican,"Moran, Jerry",0,12013A
+SUMNER,Wellington Township H80,United States Senate,,write - in,"Smith, DJ",0,120130
+SUMNER,Wellington Township H80,United States Senate,,Democratic,"Wiesner, Patrick",14,120130
+SUMNER,Wellington Township H80,United States Senate,,Libertarian,"Garrard, Robert D.",10,120130
+SUMNER,Wellington Township H80,United States Senate,,Republican,"Moran, Jerry",53,120130
+SUMNER,Wellington City Precinct 1,United States Senate,,write - in,"Smith, DJ",0,130010
+SUMNER,Wellington City Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",329,130010
+SUMNER,Wellington City Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",80,130010
+SUMNER,Wellington City Precinct 1,United States Senate,,Republican,"Moran, Jerry",619,130010
+SUMNER,Wellington City Precinct 2,United States Senate,,write - in,"Smith, DJ",0,130020
+SUMNER,Wellington City Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",504,130020
+SUMNER,Wellington City Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",128,130020
+SUMNER,Wellington City Precinct 2,United States Senate,,Republican,"Moran, Jerry",1214,130020
+SUMNER,Wellington City Airport,United States Senate,,write - in,"Smith, DJ",0,900020
+SUMNER,Wellington City Airport,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+SUMNER,Wellington City Airport,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+SUMNER,Wellington City Airport,United States Senate,,Republican,"Moran, Jerry",0,900020
+SUMNER,Wellington Lake Exclave,United States Senate,,write - in,"Smith, DJ",0,900030
+SUMNER,Wellington Lake Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900030
+SUMNER,Wellington Lake Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900030
+SUMNER,Wellington Lake Exclave,United States Senate,,Republican,"Moran, Jerry",0,900030
+SUMNER,Gore Township Enclave,United States Senate,,write - in,"Smith, DJ",0,900040
+SUMNER,Gore Township Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900040
+SUMNER,Gore Township Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900040
+SUMNER,Gore Township Enclave,United States Senate,,Republican,"Moran, Jerry",0,900040
+SUMNER,Mulvane City Exclave A,United States Senate,,write - in,"Smith, DJ",0,900050
+SUMNER,Mulvane City Exclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,900050
+SUMNER,Mulvane City Exclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,900050
+SUMNER,Mulvane City Exclave A,United States Senate,,Republican,"Moran, Jerry",0,900050
+SUMNER,Mulvane City Exclave B,United States Senate,,write - in,"Smith, DJ",0,900060
+SUMNER,Mulvane City Exclave B,United States Senate,,Democratic,"Wiesner, Patrick",0,900060
+SUMNER,Mulvane City Exclave B,United States Senate,,Libertarian,"Garrard, Robert D.",0,900060
+SUMNER,Mulvane City Exclave B,United States Senate,,Republican,"Moran, Jerry",6,900060

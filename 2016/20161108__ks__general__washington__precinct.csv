@@ -1,504 +1,1074 @@
-county,precinct,office,district,party,candidate,votes
-Washington,0006 Farmington,President,,,Castle and Bradley,2
-Washington,0001 Barnes,President,,DEM,Clinton and Kaine,13
-Washington,0002 Brantford,President,,DEM,Clinton and Kaine,2
-Washington,0003 Charleston,President,,DEM,Clinton and Kaine,5
-Washington,0004 Clifton,President,,DEM,Clinton and Kaine,32
-Washington,0005 Coleman,President,,DEM,Clinton and Kaine,4
-Washington,0006 Farmington,President,,DEM,Clinton and Kaine,13
-Washington,0007 Franklin,President,,DEM,Clinton and Kaine,6
-Washington,0008 Grant,President,,DEM,Clinton and Kaine,1
-Washington,0009 Greenleaf,President,,DEM,Clinton and Kaine,25
-Washington,0010 Haddam,President,,DEM,Clinton and Kaine,21
-Washington,0011 Hanover,President,,DEM,Clinton and Kaine,50
-Washington,0012 Highland,President,,DEM,Clinton and Kaine,0
-Washington,0013 Independence,President,,DEM,Clinton and Kaine,7
-Washington,0014 Kimeo,President,,DEM,Clinton and Kaine,10
-Washington,0015 Lincoln,President,,DEM,Clinton and Kaine,0
-Washington,0016 Linn,President,,DEM,Clinton and Kaine,26
-Washington,0017 Little Blue,President,,DEM,Clinton and Kaine,9
-Washington,0018 Logan,President,,DEM,Clinton and Kaine,7
-Washington,0019 Lowe,President,,DEM,Clinton and Kaine,4
-Washington,0020 Mill Creek,President,,DEM,Clinton and Kaine,17
-Washington,0021 Sheridan,President,,DEM,Clinton and Kaine,5
-Washington,0022 Sherman,President,,DEM,Clinton and Kaine,9
-Washington,0023 Strawberry,President,,DEM,Clinton and Kaine,4
-Washington,0024 Union,President,,DEM,Clinton and Kaine,4
-Washington,0025 Washington,President,,DEM,Clinton and Kaine,8
-Washington,0026 Washington City,President,,DEM,Clinton and Kaine,105
-Washington,0001 Barnes,President,,LBT,Johnson and Weld,3
-Washington,0002 Brantford,President,,LBT,Johnson and Weld,0
-Washington,0003 Charleston,President,,LBT,Johnson and Weld,1
-Washington,0004 Clifton,President,,LBT,Johnson and Weld,2
-Washington,0005 Coleman,President,,LBT,Johnson and Weld,0
-Washington,0006 Farmington,President,,LBT,Johnson and Weld,6
-Washington,0007 Franklin,President,,LBT,Johnson and Weld,1
-Washington,0008 Grant,President,,LBT,Johnson and Weld,0
-Washington,0009 Greenleaf,President,,LBT,Johnson and Weld,5
-Washington,0010 Haddam,President,,LBT,Johnson and Weld,2
-Washington,0011 Hanover,President,,LBT,Johnson and Weld,11
-Washington,0012 Highland,President,,LBT,Johnson and Weld,0
-Washington,0013 Independence,President,,LBT,Johnson and Weld,4
-Washington,0014 Kimeo,President,,LBT,Johnson and Weld,0
-Washington,0015 Lincoln,President,,LBT,Johnson and Weld,2
-Washington,0016 Linn,President,,LBT,Johnson and Weld,12
-Washington,0017 Little Blue,President,,LBT,Johnson and Weld,3
-Washington,0018 Logan,President,,LBT,Johnson and Weld,6
-Washington,0019 Lowe,President,,LBT,Johnson and Weld,2
-Washington,0020 Mill Creek,President,,LBT,Johnson and Weld,5
-Washington,0021 Sheridan,President,,LBT,Johnson and Weld,1
-Washington,0022 Sherman,President,,LBT,Johnson and Weld,12
-Washington,0023 Strawberry,President,,LBT,Johnson and Weld,6
-Washington,0024 Union,President,,LBT,Johnson and Weld,2
-Washington,0025 Washington,President,,LBT,Johnson and Weld,6
-Washington,0026 Washington City,President,,LBT,Johnson and Weld,32
-Washington,0009 Greenleaf,President,,,McMullin and Johnson,1
-Washington,0020 Mill Creek,President,,,McMullin and Johnson,1
-Washington,0023 Strawberry,President,,,McMullin and Johnson,6
-Washington,0026 Washington City,President,,,McMullin and Johnson,2
-Washington,0004 Clifton,President,,,McMullin and Johnson,1
-Washington,0010 Haddam,President,,,McMullin and Johnson,2
-Washington,0001 Barnes,President,,IND,Stein and Baraka,1
-Washington,0002 Brantford,President,,IND,Stein and Baraka,0
-Washington,0003 Charleston,President,,IND,Stein and Baraka,0
-Washington,0004 Clifton,President,,IND,Stein and Baraka,4
-Washington,0005 Coleman,President,,IND,Stein and Baraka,1
-Washington,0006 Farmington,President,,IND,Stein and Baraka,1
-Washington,0007 Franklin,President,,IND,Stein and Baraka,0
-Washington,0008 Grant,President,,IND,Stein and Baraka,0
-Washington,0009 Greenleaf,President,,IND,Stein and Baraka,3
-Washington,0010 Haddam,President,,IND,Stein and Baraka,4
-Washington,0011 Hanover,President,,IND,Stein and Baraka,7
-Washington,0012 Highland,President,,IND,Stein and Baraka,0
-Washington,0013 Independence,President,,IND,Stein and Baraka,0
-Washington,0014 Kimeo,President,,IND,Stein and Baraka,0
-Washington,0015 Lincoln,President,,IND,Stein and Baraka,0
-Washington,0016 Linn,President,,IND,Stein and Baraka,2
-Washington,0017 Little Blue,President,,IND,Stein and Baraka,0
-Washington,0018 Logan,President,,IND,Stein and Baraka,1
-Washington,0019 Lowe,President,,IND,Stein and Baraka,0
-Washington,0020 Mill Creek,President,,IND,Stein and Baraka,2
-Washington,0021 Sheridan,President,,IND,Stein and Baraka,0
-Washington,0022 Sherman,President,,IND,Stein and Baraka,2
-Washington,0023 Strawberry,President,,IND,Stein and Baraka,2
-Washington,0024 Union,President,,IND,Stein and Baraka,2
-Washington,0025 Washington,President,,IND,Stein and Baraka,2
-Washington,0026 Washington City,President,,IND,Stein and Baraka,11
-Washington,0001 Barnes,President,,REP,Trump and Pence,70
-Washington,0002 Brantford,President,,REP,Trump and Pence,37
-Washington,0003 Charleston,President,,REP,Trump and Pence,28
-Washington,0004 Clifton,President,,REP,Trump and Pence,156
-Washington,0005 Coleman,President,,REP,Trump and Pence,27
-Washington,0006 Farmington,President,,REP,Trump and Pence,60
-Washington,0007 Franklin,President,,REP,Trump and Pence,56
-Washington,0008 Grant,President,,REP,Trump and Pence,17
-Washington,0009 Greenleaf,President,,REP,Trump and Pence,104
-Washington,0010 Haddam,President,,REP,Trump and Pence,56
-Washington,0011 Hanover,President,,REP,Trump and Pence,348
-Washington,0012 Highland,President,,REP,Trump and Pence,13
-Washington,0013 Independence,President,,REP,Trump and Pence,49
-Washington,0014 Kimeo,President,,REP,Trump and Pence,29
-Washington,0015 Lincoln,President,,REP,Trump and Pence,26
-Washington,0016 Linn,President,,REP,Trump and Pence,193
-Washington,0017 Little Blue,President,,REP,Trump and Pence,25
-Washington,0018 Logan,President,,REP,Trump and Pence,50
-Washington,0019 Lowe,President,,REP,Trump and Pence,28
-Washington,0020 Mill Creek,President,,REP,Trump and Pence,87
-Washington,0021 Sheridan,President,,REP,Trump and Pence,42
-Washington,0022 Sherman,President,,REP,Trump and Pence,123
-Washington,0023 Strawberry,President,,REP,Trump and Pence,43
-Washington,0024 Union,President,,REP,Trump and Pence,34
-Washington,0025 Washington,President,,REP,Trump and Pence,103
-Washington,0026 Washington City,President,,REP,Trump and Pence,390
-Washington,0001 Barnes,President,,,Write-ins,0
-Washington,0002 Brantford,President,,,Write-ins,0
-Washington,0003 Charleston,President,,,Write-ins,0
-Washington,0004 Clifton,President,,,Write-ins,1
-Washington,0005 Coleman,President,,,Write-ins,0
-Washington,0006 Farmington,President,,,Write-ins,2
-Washington,0007 Franklin,President,,,Write-ins,0
-Washington,0008 Grant,President,,,Write-ins,0
-Washington,0009 Greenleaf,President,,,Write-ins,4
-Washington,0010 Haddam,President,,,Write-ins,4
-Washington,0011 Hanover,President,,,Write-ins,1
-Washington,0012 Highland,President,,,Write-ins,0
-Washington,0013 Independence,President,,,Write-ins,1
-Washington,0014 Kimeo,President,,,Write-ins,0
-Washington,0015 Lincoln,President,,,Write-ins,0
-Washington,0016 Linn,President,,,Write-ins,2
-Washington,0017 Little Blue,President,,,Write-ins,0
-Washington,0018 Logan,President,,,Write-ins,0
-Washington,0019 Lowe,President,,,Write-ins,0
-Washington,0020 Mill Creek,President,,,Write-ins,1
-Washington,0021 Sheridan,President,,,Write-ins,0
-Washington,0022 Sherman,President,,,Write-ins,1
-Washington,0023 Strawberry,President,,,Write-ins,6
-Washington,0024 Union,President,,,Write-ins,0
-Washington,0025 Washington,President,,,Write-ins,0
-Washington,0026 Washington City,President,,,Write-ins,4
-Washington,0001 Barnes,State House,106,REP,Clay Aurand,43
-Washington,0002 Brantford,State House,106,REP,Clay Aurand,30
-Washington,0003 Charleston,State House,106,REP,Clay Aurand,23
-Washington,0004 Clifton,State House,106,REP,Clay Aurand,134
-Washington,0005 Coleman,State House,106,REP,Clay Aurand,18
-Washington,0006 Farmington,State House,106,REP,Clay Aurand,57
-Washington,0007 Franklin,State House,106,REP,Clay Aurand,37
-Washington,0008 Grant,State House,106,REP,Clay Aurand,17
-Washington,0009 Greenleaf,State House,106,REP,Clay Aurand,89
-Washington,0010 Haddam,State House,106,REP,Clay Aurand,46
-Washington,0011 Hanover,State House,106,REP,Clay Aurand,170
-Washington,0012 Highland,State House,106,REP,Clay Aurand,10
-Washington,0013 Independence,State House,106,REP,Clay Aurand,36
-Washington,0014 Kimeo,State House,106,REP,Clay Aurand,22
-Washington,0015 Lincoln,State House,106,REP,Clay Aurand,17
-Washington,0016 Linn,State House,106,REP,Clay Aurand,154
-Washington,0017 Little Blue,State House,106,REP,Clay Aurand,16
-Washington,0018 Logan,State House,106,REP,Clay Aurand,34
-Washington,0019 Lowe,State House,106,REP,Clay Aurand,20
-Washington,0020 Mill Creek,State House,106,REP,Clay Aurand,62
-Washington,0021 Sheridan,State House,106,REP,Clay Aurand,37
-Washington,0022 Sherman,State House,106,REP,Clay Aurand,107
-Washington,0023 Strawberry,State House,106,REP,Clay Aurand,38
-Washington,0024 Union,State House,106,REP,Clay Aurand,24
-Washington,0025 Washington,State House,106,REP,Clay Aurand,91
-Washington,0026 Washington City,State House,106,REP,Clay Aurand,284
-Washington,0001 Barnes,State House,106,DEM,Todd Frye,45
-Washington,0002 Brantford,State House,106,DEM,Todd Frye,10
-Washington,0003 Charleston,State House,106,DEM,Todd Frye,10
-Washington,0004 Clifton,State House,106,DEM,Todd Frye,59
-Washington,0005 Coleman,State House,106,DEM,Todd Frye,12
-Washington,0006 Farmington,State House,106,DEM,Todd Frye,25
-Washington,0007 Franklin,State House,106,DEM,Todd Frye,24
-Washington,0008 Grant,State House,106,DEM,Todd Frye,1
-Washington,0009 Greenleaf,State House,106,DEM,Todd Frye,50
-Washington,0010 Haddam,State House,106,DEM,Todd Frye,39
-Washington,0011 Hanover,State House,106,DEM,Todd Frye,231
-Washington,0012 Highland,State House,106,DEM,Todd Frye,3
-Washington,0013 Independence,State House,106,DEM,Todd Frye,24
-Washington,0014 Kimeo,State House,106,DEM,Todd Frye,16
-Washington,0015 Lincoln,State House,106,DEM,Todd Frye,10
-Washington,0016 Linn,State House,106,DEM,Todd Frye,75
-Washington,0017 Little Blue,State House,106,DEM,Todd Frye,22
-Washington,0018 Logan,State House,106,DEM,Todd Frye,29
-Washington,0019 Lowe,State House,106,DEM,Todd Frye,12
-Washington,0020 Mill Creek,State House,106,DEM,Todd Frye,50
-Washington,0021 Sheridan,State House,106,DEM,Todd Frye,11
-Washington,0022 Sherman,State House,106,DEM,Todd Frye,38
-Washington,0023 Strawberry,State House,106,DEM,Todd Frye,22
-Washington,0024 Union,State House,106,DEM,Todd Frye,17
-Washington,0025 Washington,State House,106,DEM,Todd Frye,25
-Washington,0026 Washington City,State House,106,DEM,Todd Frye,245
-Washington,0001 Barnes,State House,106,,Write-ins,0
-Washington,0002 Brantford,State House,106,,Write-ins,0
-Washington,0003 Charleston,State House,106,,Write-ins,1
-Washington,0004 Clifton,State House,106,,Write-ins,1
-Washington,0005 Coleman,State House,106,,Write-ins,0
-Washington,0006 Farmington,State House,106,,Write-ins,0
-Washington,0007 Franklin,State House,106,,Write-ins,0
-Washington,0008 Grant,State House,106,,Write-ins,0
-Washington,0009 Greenleaf,State House,106,,Write-ins,0
-Washington,0010 Haddam,State House,106,,Write-ins,0
-Washington,0011 Hanover,State House,106,,Write-ins,0
-Washington,0012 Highland,State House,106,,Write-ins,0
-Washington,0013 Independence,State House,106,,Write-ins,0
-Washington,0014 Kimeo,State House,106,,Write-ins,0
-Washington,0015 Lincoln,State House,106,,Write-ins,0
-Washington,0016 Linn,State House,106,,Write-ins,1
-Washington,0017 Little Blue,State House,106,,Write-ins,0
-Washington,0018 Logan,State House,106,,Write-ins,0
-Washington,0019 Lowe,State House,106,,Write-ins,0
-Washington,0020 Mill Creek,State House,106,,Write-ins,1
-Washington,0021 Sheridan,State House,106,,Write-ins,0
-Washington,0022 Sherman,State House,106,,Write-ins,0
-Washington,0023 Strawberry,State House,106,,Write-ins,0
-Washington,0024 Union,State House,106,,Write-ins,0
-Washington,0025 Washington,State House,106,,Write-ins,2
-Washington,0026 Washington City,State House,106,,Write-ins,0
-Washington,0001 Barnes,State Senate,36,DEM,Brian Angevine,15
-Washington,0002 Brantford,State Senate,36,DEM,Brian Angevine,5
-Washington,0003 Charleston,State Senate,36,DEM,Brian Angevine,4
-Washington,0004 Clifton,State Senate,36,DEM,Brian Angevine,32
-Washington,0005 Coleman,State Senate,36,DEM,Brian Angevine,4
-Washington,0006 Farmington,State Senate,36,DEM,Brian Angevine,10
-Washington,0007 Franklin,State Senate,36,DEM,Brian Angevine,15
-Washington,0008 Grant,State Senate,36,DEM,Brian Angevine,3
-Washington,0009 Greenleaf,State Senate,36,DEM,Brian Angevine,23
-Washington,0010 Haddam,State Senate,36,DEM,Brian Angevine,27
-Washington,0011 Hanover,State Senate,36,DEM,Brian Angevine,64
-Washington,0012 Highland,State Senate,36,DEM,Brian Angevine,0
-Washington,0013 Independence,State Senate,36,DEM,Brian Angevine,7
-Washington,0014 Kimeo,State Senate,36,DEM,Brian Angevine,5
-Washington,0015 Lincoln,State Senate,36,DEM,Brian Angevine,2
-Washington,0016 Linn,State Senate,36,DEM,Brian Angevine,26
-Washington,0017 Little Blue,State Senate,36,DEM,Brian Angevine,10
-Washington,0018 Logan,State Senate,36,DEM,Brian Angevine,10
-Washington,0019 Lowe,State Senate,36,DEM,Brian Angevine,1
-Washington,0020 Mill Creek,State Senate,36,DEM,Brian Angevine,21
-Washington,0021 Sheridan,State Senate,36,DEM,Brian Angevine,6
-Washington,0022 Sherman,State Senate,36,DEM,Brian Angevine,8
-Washington,0023 Strawberry,State Senate,36,DEM,Brian Angevine,6
-Washington,0024 Union,State Senate,36,DEM,Brian Angevine,12
-Washington,0025 Washington,State Senate,36,DEM,Brian Angevine,10
-Washington,0026 Washington City,State Senate,36,DEM,Brian Angevine,104
-Washington,0001 Barnes,State Senate,36,REP,Elaine Bowers,70
-Washington,0002 Brantford,State Senate,36,REP,Elaine Bowers,35
-Washington,0003 Charleston,State Senate,36,REP,Elaine Bowers,29
-Washington,0004 Clifton,State Senate,36,REP,Elaine Bowers,164
-Washington,0005 Coleman,State Senate,36,REP,Elaine Bowers,27
-Washington,0006 Farmington,State Senate,36,REP,Elaine Bowers,68
-Washington,0007 Franklin,State Senate,36,REP,Elaine Bowers,45
-Washington,0008 Grant,State Senate,36,REP,Elaine Bowers,15
-Washington,0009 Greenleaf,State Senate,36,REP,Elaine Bowers,115
-Washington,0010 Haddam,State Senate,36,REP,Elaine Bowers,54
-Washington,0011 Hanover,State Senate,36,REP,Elaine Bowers,337
-Washington,0012 Highland,State Senate,36,REP,Elaine Bowers,13
-Washington,0013 Independence,State Senate,36,REP,Elaine Bowers,52
-Washington,0014 Kimeo,State Senate,36,REP,Elaine Bowers,31
-Washington,0015 Lincoln,State Senate,36,REP,Elaine Bowers,26
-Washington,0016 Linn,State Senate,36,REP,Elaine Bowers,198
-Washington,0017 Little Blue,State Senate,36,REP,Elaine Bowers,25
-Washington,0018 Logan,State Senate,36,REP,Elaine Bowers,51
-Washington,0019 Lowe,State Senate,36,REP,Elaine Bowers,29
-Washington,0020 Mill Creek,State Senate,36,REP,Elaine Bowers,88
-Washington,0021 Sheridan,State Senate,36,REP,Elaine Bowers,41
-Washington,0022 Sherman,State Senate,36,REP,Elaine Bowers,133
-Washington,0023 Strawberry,State Senate,36,REP,Elaine Bowers,54
-Washington,0024 Union,State Senate,36,REP,Elaine Bowers,29
-Washington,0025 Washington,State Senate,36,REP,Elaine Bowers,107
-Washington,0026 Washington City,State Senate,36,REP,Elaine Bowers,418
-Washington,0001 Barnes,State Senate,36,,Write-ins,0
-Washington,0002 Brantford,State Senate,36,,Write-ins,0
-Washington,0003 Charleston,State Senate,36,,Write-ins,0
-Washington,0004 Clifton,State Senate,36,,Write-ins,0
-Washington,0005 Coleman,State Senate,36,,Write-ins,0
-Washington,0006 Farmington,State Senate,36,,Write-ins,0
-Washington,0007 Franklin,State Senate,36,,Write-ins,0
-Washington,0008 Grant,State Senate,36,,Write-ins,0
-Washington,0009 Greenleaf,State Senate,36,,Write-ins,0
-Washington,0010 Haddam,State Senate,36,,Write-ins,0
-Washington,0011 Hanover,State Senate,36,,Write-ins,0
-Washington,0012 Highland,State Senate,36,,Write-ins,0
-Washington,0013 Independence,State Senate,36,,Write-ins,0
-Washington,0014 Kimeo,State Senate,36,,Write-ins,0
-Washington,0015 Lincoln,State Senate,36,,Write-ins,0
-Washington,0016 Linn,State Senate,36,,Write-ins,0
-Washington,0017 Little Blue,State Senate,36,,Write-ins,0
-Washington,0018 Logan,State Senate,36,,Write-ins,0
-Washington,0019 Lowe,State Senate,36,,Write-ins,0
-Washington,0020 Mill Creek,State Senate,36,,Write-ins,0
-Washington,0021 Sheridan,State Senate,36,,Write-ins,1
-Washington,0022 Sherman,State Senate,36,,Write-ins,0
-Washington,0023 Strawberry,State Senate,36,,Write-ins,0
-Washington,0024 Union,State Senate,36,,Write-ins,0
-Washington,0025 Washington,State Senate,36,,Write-ins,0
-Washington,0026 Washington City,State Senate,36,,Write-ins,2
-Washington,0001 Barnes,U.S. House,1,IND,Alan LaPolice,29
-Washington,0002 Brantford,U.S. House,1,IND,Alan LaPolice,21
-Washington,0003 Charleston,U.S. House,1,IND,Alan LaPolice,10
-Washington,0004 Clifton,U.S. House,1,IND,Alan LaPolice,137
-Washington,0005 Coleman,U.S. House,1,IND,Alan LaPolice,10
-Washington,0006 Farmington,U.S. House,1,IND,Alan LaPolice,23
-Washington,0007 Franklin,U.S. House,1,IND,Alan LaPolice,14
-Washington,0008 Grant,U.S. House,1,IND,Alan LaPolice,6
-Washington,0009 Greenleaf,U.S. House,1,IND,Alan LaPolice,51
-Washington,0010 Haddam,U.S. House,1,IND,Alan LaPolice,38
-Washington,0011 Hanover,U.S. House,1,IND,Alan LaPolice,102
-Washington,0012 Highland,U.S. House,1,IND,Alan LaPolice,5
-Washington,0013 Independence,U.S. House,1,IND,Alan LaPolice,11
-Washington,0014 Kimeo,U.S. House,1,IND,Alan LaPolice,15
-Washington,0015 Lincoln,U.S. House,1,IND,Alan LaPolice,4
-Washington,0016 Linn,U.S. House,1,IND,Alan LaPolice,79
-Washington,0017 Little Blue,U.S. House,1,IND,Alan LaPolice,16
-Washington,0018 Logan,U.S. House,1,IND,Alan LaPolice,21
-Washington,0019 Lowe,U.S. House,1,IND,Alan LaPolice,4
-Washington,0020 Mill Creek,U.S. House,1,IND,Alan LaPolice,31
-Washington,0021 Sheridan,U.S. House,1,IND,Alan LaPolice,24
-Washington,0022 Sherman,U.S. House,1,IND,Alan LaPolice,54
-Washington,0023 Strawberry,U.S. House,1,IND,Alan LaPolice,21
-Washington,0024 Union,U.S. House,1,IND,Alan LaPolice,6
-Washington,0025 Washington,U.S. House,1,IND,Alan LaPolice,28
-Washington,0026 Washington City,U.S. House,1,IND,Alan LaPolice,178
-Washington,0001 Barnes,U.S. House,1,LBT,Kerry Burt,1
-Washington,0002 Brantford,U.S. House,1,LBT,Kerry Burt,0
-Washington,0003 Charleston,U.S. House,1,LBT,Kerry Burt,1
-Washington,0004 Clifton,U.S. House,1,LBT,Kerry Burt,0
-Washington,0005 Coleman,U.S. House,1,LBT,Kerry Burt,0
-Washington,0006 Farmington,U.S. House,1,LBT,Kerry Burt,4
-Washington,0007 Franklin,U.S. House,1,LBT,Kerry Burt,3
-Washington,0008 Grant,U.S. House,1,LBT,Kerry Burt,0
-Washington,0009 Greenleaf,U.S. House,1,LBT,Kerry Burt,1
-Washington,0010 Haddam,U.S. House,1,LBT,Kerry Burt,3
-Washington,0011 Hanover,U.S. House,1,LBT,Kerry Burt,12
-Washington,0012 Highland,U.S. House,1,LBT,Kerry Burt,1
-Washington,0013 Independence,U.S. House,1,LBT,Kerry Burt,0
-Washington,0014 Kimeo,U.S. House,1,LBT,Kerry Burt,0
-Washington,0015 Lincoln,U.S. House,1,LBT,Kerry Burt,1
-Washington,0016 Linn,U.S. House,1,LBT,Kerry Burt,5
-Washington,0017 Little Blue,U.S. House,1,LBT,Kerry Burt,3
-Washington,0018 Logan,U.S. House,1,LBT,Kerry Burt,0
-Washington,0019 Lowe,U.S. House,1,LBT,Kerry Burt,2
-Washington,0020 Mill Creek,U.S. House,1,LBT,Kerry Burt,5
-Washington,0021 Sheridan,U.S. House,1,LBT,Kerry Burt,0
-Washington,0022 Sherman,U.S. House,1,LBT,Kerry Burt,1
-Washington,0023 Strawberry,U.S. House,1,LBT,Kerry Burt,1
-Washington,0024 Union,U.S. House,1,LBT,Kerry Burt,2
-Washington,0025 Washington,U.S. House,1,LBT,Kerry Burt,2
-Washington,0026 Washington City,U.S. House,1,LBT,Kerry Burt,23
-Washington,0001 Barnes,U.S. House,1,REP,Roger Marshall,58
-Washington,0002 Brantford,U.S. House,1,REP,Roger Marshall,18
-Washington,0003 Charleston,U.S. House,1,REP,Roger Marshall,21
-Washington,0004 Clifton,U.S. House,1,REP,Roger Marshall,56
-Washington,0005 Coleman,U.S. House,1,REP,Roger Marshall,20
-Washington,0006 Farmington,U.S. House,1,REP,Roger Marshall,51
-Washington,0007 Franklin,U.S. House,1,REP,Roger Marshall,42
-Washington,0008 Grant,U.S. House,1,REP,Roger Marshall,12
-Washington,0009 Greenleaf,U.S. House,1,REP,Roger Marshall,86
-Washington,0010 Haddam,U.S. House,1,REP,Roger Marshall,40
-Washington,0011 Hanover,U.S. House,1,REP,Roger Marshall,282
-Washington,0012 Highland,U.S. House,1,REP,Roger Marshall,7
-Washington,0013 Independence,U.S. House,1,REP,Roger Marshall,50
-Washington,0014 Kimeo,U.S. House,1,REP,Roger Marshall,22
-Washington,0015 Lincoln,U.S. House,1,REP,Roger Marshall,23
-Washington,0016 Linn,U.S. House,1,REP,Roger Marshall,145
-Washington,0017 Little Blue,U.S. House,1,REP,Roger Marshall,18
-Washington,0018 Logan,U.S. House,1,REP,Roger Marshall,42
-Washington,0019 Lowe,U.S. House,1,REP,Roger Marshall,23
-Washington,0020 Mill Creek,U.S. House,1,REP,Roger Marshall,73
-Washington,0021 Sheridan,U.S. House,1,REP,Roger Marshall,25
-Washington,0022 Sherman,U.S. House,1,REP,Roger Marshall,88
-Washington,0023 Strawberry,U.S. House,1,REP,Roger Marshall,40
-Washington,0024 Union,U.S. House,1,REP,Roger Marshall,31
-Washington,0025 Washington,U.S. House,1,REP,Roger Marshall,87
-Washington,0026 Washington City,U.S. House,1,REP,Roger Marshall,325
-Washington,0004 Clifton,U.S. House,1,,Tim Huelskamp,3
-Washington,0011 Hanover,U.S. House,1,,Tim Huelskamp,2
-Washington,0001 Barnes,U.S. House,1,,Write-ins,0
-Washington,0002 Brantford,U.S. House,1,,Write-ins,0
-Washington,0003 Charleston,U.S. House,1,,Write-ins,0
-Washington,0004 Clifton,U.S. House,1,,Write-ins,4
-Washington,0005 Coleman,U.S. House,1,,Write-ins,0
-Washington,0006 Farmington,U.S. House,1,,Write-ins,0
-Washington,0007 Franklin,U.S. House,1,,Write-ins,0
-Washington,0008 Grant,U.S. House,1,,Write-ins,0
-Washington,0009 Greenleaf,U.S. House,1,,Write-ins,1
-Washington,0010 Haddam,U.S. House,1,,Write-ins,0
-Washington,0011 Hanover,U.S. House,1,,Write-ins,4
-Washington,0012 Highland,U.S. House,1,,Write-ins,0
-Washington,0013 Independence,U.S. House,1,,Write-ins,0
-Washington,0014 Kimeo,U.S. House,1,,Write-ins,1
-Washington,0015 Lincoln,U.S. House,1,,Write-ins,0
-Washington,0016 Linn,U.S. House,1,,Write-ins,0
-Washington,0017 Little Blue,U.S. House,1,,Write-ins,0
-Washington,0018 Logan,U.S. House,1,,Write-ins,1
-Washington,0019 Lowe,U.S. House,1,,Write-ins,0
-Washington,0020 Mill Creek,U.S. House,1,,Write-ins,0
-Washington,0021 Sheridan,U.S. House,1,,Write-ins,0
-Washington,0022 Sherman,U.S. House,1,,Write-ins,0
-Washington,0023 Strawberry,U.S. House,1,,Write-ins,0
-Washington,0024 Union,U.S. House,1,,Write-ins,0
-Washington,0025 Washington,U.S. House,1,,Write-ins,0
-Washington,0026 Washington City,U.S. House,1,,Write-ins,2
-Washington,0001 Barnes,U.S. Senate,,REP,Jerry Moran,75
-Washington,0002 Brantford,U.S. Senate,,REP,Jerry Moran,37
-Washington,0003 Charleston,U.S. Senate,,REP,Jerry Moran,30
-Washington,0004 Clifton,U.S. Senate,,REP,Jerry Moran,158
-Washington,0005 Coleman,U.S. Senate,,REP,Jerry Moran,27
-Washington,0006 Farmington,U.S. Senate,,REP,Jerry Moran,64
-Washington,0007 Franklin,U.S. Senate,,REP,Jerry Moran,48
-Washington,0008 Grant,U.S. Senate,,REP,Jerry Moran,15
-Washington,0009 Greenleaf,U.S. Senate,,REP,Jerry Moran,115
-Washington,0010 Haddam,U.S. Senate,,REP,Jerry Moran,69
-Washington,0011 Hanover,U.S. Senate,,REP,Jerry Moran,356
-Washington,0012 Highland,U.S. Senate,,REP,Jerry Moran,12
-Washington,0013 Independence,U.S. Senate,,REP,Jerry Moran,54
-Washington,0014 Kimeo,U.S. Senate,,REP,Jerry Moran,34
-Washington,0015 Lincoln,U.S. Senate,,REP,Jerry Moran,26
-Washington,0016 Linn,U.S. Senate,,REP,Jerry Moran,208
-Washington,0017 Little Blue,U.S. Senate,,REP,Jerry Moran,30
-Washington,0018 Logan,U.S. Senate,,REP,Jerry Moran,54
-Washington,0019 Lowe,U.S. Senate,,REP,Jerry Moran,30
-Washington,0020 Mill Creek,U.S. Senate,,REP,Jerry Moran,101
-Washington,0021 Sheridan,U.S. Senate,,REP,Jerry Moran,44
-Washington,0022 Sherman,U.S. Senate,,REP,Jerry Moran,134
-Washington,0023 Strawberry,U.S. Senate,,REP,Jerry Moran,51
-Washington,0024 Union,U.S. Senate,,REP,Jerry Moran,34
-Washington,0025 Washington,U.S. Senate,,REP,Jerry Moran,111
-Washington,0026 Washington City,U.S. Senate,,REP,Jerry Moran,424
-Washington,0001 Barnes,U.S. Senate,,DEM,Patrick Wiesner,10
-Washington,0002 Brantford,U.S. Senate,,DEM,Patrick Wiesner,3
-Washington,0003 Charleston,U.S. Senate,,DEM,Patrick Wiesner,4
-Washington,0004 Clifton,U.S. Senate,,DEM,Patrick Wiesner,26
-Washington,0005 Coleman,U.S. Senate,,DEM,Patrick Wiesner,2
-Washington,0006 Farmington,U.S. Senate,,DEM,Patrick Wiesner,9
-Washington,0007 Franklin,U.S. Senate,,DEM,Patrick Wiesner,8
-Washington,0008 Grant,U.S. Senate,,DEM,Patrick Wiesner,2
-Washington,0009 Greenleaf,U.S. Senate,,DEM,Patrick Wiesner,18
-Washington,0010 Haddam,U.S. Senate,,DEM,Patrick Wiesner,9
-Washington,0011 Hanover,U.S. Senate,,DEM,Patrick Wiesner,46
-Washington,0012 Highland,U.S. Senate,,DEM,Patrick Wiesner,1
-Washington,0013 Independence,U.S. Senate,,DEM,Patrick Wiesner,5
-Washington,0014 Kimeo,U.S. Senate,,DEM,Patrick Wiesner,2
-Washington,0015 Lincoln,U.S. Senate,,DEM,Patrick Wiesner,0
-Washington,0016 Linn,U.S. Senate,,DEM,Patrick Wiesner,16
-Washington,0017 Little Blue,U.S. Senate,,DEM,Patrick Wiesner,8
-Washington,0018 Logan,U.S. Senate,,DEM,Patrick Wiesner,8
-Washington,0019 Lowe,U.S. Senate,,DEM,Patrick Wiesner,1
-Washington,0020 Mill Creek,U.S. Senate,,DEM,Patrick Wiesner,7
-Washington,0021 Sheridan,U.S. Senate,,DEM,Patrick Wiesner,4
-Washington,0022 Sherman,U.S. Senate,,DEM,Patrick Wiesner,8
-Washington,0023 Strawberry,U.S. Senate,,DEM,Patrick Wiesner,6
-Washington,0024 Union,U.S. Senate,,DEM,Patrick Wiesner,6
-Washington,0025 Washington,U.S. Senate,,DEM,Patrick Wiesner,5
-Washington,0026 Washington City,U.S. Senate,,DEM,Patrick Wiesner,71
-Washington,0001 Barnes,U.S. Senate,,LBT,Robert Garrard,2
-Washington,0002 Brantford,U.S. Senate,,LBT,Robert Garrard,0
-Washington,0003 Charleston,U.S. Senate,,LBT,Robert Garrard,0
-Washington,0004 Clifton,U.S. Senate,,LBT,Robert Garrard,9
-Washington,0005 Coleman,U.S. Senate,,LBT,Robert Garrard,2
-Washington,0006 Farmington,U.S. Senate,,LBT,Robert Garrard,6
-Washington,0007 Franklin,U.S. Senate,,LBT,Robert Garrard,4
-Washington,0008 Grant,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0009 Greenleaf,U.S. Senate,,LBT,Robert Garrard,9
-Washington,0010 Haddam,U.S. Senate,,LBT,Robert Garrard,5
-Washington,0011 Hanover,U.S. Senate,,LBT,Robert Garrard,12
-Washington,0012 Highland,U.S. Senate,,LBT,Robert Garrard,0
-Washington,0013 Independence,U.S. Senate,,LBT,Robert Garrard,3
-Washington,0014 Kimeo,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0015 Lincoln,U.S. Senate,,LBT,Robert Garrard,2
-Washington,0016 Linn,U.S. Senate,,LBT,Robert Garrard,9
-Washington,0017 Little Blue,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0018 Logan,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0019 Lowe,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0020 Mill Creek,U.S. Senate,,LBT,Robert Garrard,4
-Washington,0021 Sheridan,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0022 Sherman,U.S. Senate,,LBT,Robert Garrard,2
-Washington,0023 Strawberry,U.S. Senate,,LBT,Robert Garrard,3
-Washington,0024 Union,U.S. Senate,,LBT,Robert Garrard,3
-Washington,0025 Washington,U.S. Senate,,LBT,Robert Garrard,1
-Washington,0026 Washington City,U.S. Senate,,LBT,Robert Garrard,28
-Washington,0001 Barnes,U.S. Senate,,,Write-ins,0
-Washington,0002 Brantford,U.S. Senate,,,Write-ins,0
-Washington,0003 Charleston,U.S. Senate,,,Write-ins,0
-Washington,0004 Clifton,U.S. Senate,,,Write-ins,0
-Washington,0005 Coleman,U.S. Senate,,,Write-ins,0
-Washington,0006 Farmington,U.S. Senate,,,Write-ins,0
-Washington,0007 Franklin,U.S. Senate,,,Write-ins,0
-Washington,0008 Grant,U.S. Senate,,,Write-ins,0
-Washington,0009 Greenleaf,U.S. Senate,,,Write-ins,0
-Washington,0010 Haddam,U.S. Senate,,,Write-ins,0
-Washington,0011 Hanover,U.S. Senate,,,Write-ins,2
-Washington,0012 Highland,U.S. Senate,,,Write-ins,0
-Washington,0013 Independence,U.S. Senate,,,Write-ins,0
-Washington,0014 Kimeo,U.S. Senate,,,Write-ins,0
-Washington,0015 Lincoln,U.S. Senate,,,Write-ins,0
-Washington,0016 Linn,U.S. Senate,,,Write-ins,3
-Washington,0017 Little Blue,U.S. Senate,,,Write-ins,0
-Washington,0018 Logan,U.S. Senate,,,Write-ins,0
-Washington,0019 Lowe,U.S. Senate,,,Write-ins,0
-Washington,0020 Mill Creek,U.S. Senate,,,Write-ins,1
-Washington,0021 Sheridan,U.S. Senate,,,Write-ins,0
-Washington,0022 Sherman,U.S. Senate,,,Write-ins,1
-Washington,0023 Strawberry,U.S. Senate,,,Write-ins,0
-Washington,0024 Union,U.S. Senate,,,Write-ins,0
-Washington,0025 Washington,U.S. Senate,,,Write-ins,1
-Washington,0026 Washington City,U.S. Senate,,,Write-ins,4
+county,precinct,office,district,party,candidate,votes,vtd
+WASHINGTON,Barnes Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",45,000010
+WASHINGTON,Barnes Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",43,000010
+WASHINGTON,Brantford Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",10,000020
+WASHINGTON,Brantford Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",30,000020
+WASHINGTON,Charleston Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",10,000030
+WASHINGTON,Charleston Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",23,000030
+WASHINGTON,Clifton Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",59,000040
+WASHINGTON,Clifton Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",134,000040
+WASHINGTON,Coleman Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",12,000050
+WASHINGTON,Coleman Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",18,000050
+WASHINGTON,Farmington Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",25,000060
+WASHINGTON,Farmington Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",57,000060
+WASHINGTON,Franklin Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",24,000070
+WASHINGTON,Franklin Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",37,000070
+WASHINGTON,Grant Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",1,000080
+WASHINGTON,Grant Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",17,000080
+WASHINGTON,Greenleaf Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",50,000090
+WASHINGTON,Greenleaf Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",89,000090
+WASHINGTON,Haddam Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",39,000100
+WASHINGTON,Haddam Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",46,000100
+WASHINGTON,Hanover Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",231,000110
+WASHINGTON,Hanover Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",170,000110
+WASHINGTON,Highland Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",3,000120
+WASHINGTON,Highland Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",10,000120
+WASHINGTON,Independence Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",24,000130
+WASHINGTON,Independence Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",36,000130
+WASHINGTON,Kimeo Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",16,000140
+WASHINGTON,Kimeo Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",22,000140
+WASHINGTON,Lincoln Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",10,000150
+WASHINGTON,Lincoln Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",17,000150
+WASHINGTON,Linn Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",75,000160
+WASHINGTON,Linn Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",154,000160
+WASHINGTON,Little Blue Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",22,000170
+WASHINGTON,Little Blue Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",16,000170
+WASHINGTON,Logan Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",29,000180
+WASHINGTON,Logan Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",34,000180
+WASHINGTON,Lowe Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",12,000190
+WASHINGTON,Lowe Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",20,000190
+WASHINGTON,Mill Creek Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",50,000200
+WASHINGTON,Mill Creek Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",62,000200
+WASHINGTON,Sheridan Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",11,000210
+WASHINGTON,Sheridan Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",37,000210
+WASHINGTON,Sherman Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",38,000220
+WASHINGTON,Sherman Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",107,000220
+WASHINGTON,Strawberry Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",22,000230
+WASHINGTON,Strawberry Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",38,000230
+WASHINGTON,Union Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",17,000240
+WASHINGTON,Union Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",24,000240
+WASHINGTON,Washington Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",25,00025A
+WASHINGTON,Washington Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",91,00025A
+WASHINGTON,Washington Township Rural Enclave,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00025B
+WASHINGTON,Washington City,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",245,00026A
+WASHINGTON,Washington City,Kansas House of Representatives,106,Republican,"Aurand, Clay",284,00026A
+WASHINGTON,Washington City Exclave,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00026B
+WASHINGTON,Washington City Exclave,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00026B
+WASHINGTON,Washington Township Rural Enclave B,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,900010
+WASHINGTON,Barnes Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",15,000010
+WASHINGTON,Barnes Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",70,000010
+WASHINGTON,Brantford Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",5,000020
+WASHINGTON,Brantford Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",35,000020
+WASHINGTON,Charleston Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",4,000030
+WASHINGTON,Charleston Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",29,000030
+WASHINGTON,Clifton Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",32,000040
+WASHINGTON,Clifton Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",164,000040
+WASHINGTON,Coleman Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",4,000050
+WASHINGTON,Coleman Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",27,000050
+WASHINGTON,Farmington Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",10,000060
+WASHINGTON,Farmington Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",68,000060
+WASHINGTON,Franklin Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",15,000070
+WASHINGTON,Franklin Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",45,000070
+WASHINGTON,Grant Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",3,000080
+WASHINGTON,Grant Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",15,000080
+WASHINGTON,Greenleaf Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",23,000090
+WASHINGTON,Greenleaf Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",115,000090
+WASHINGTON,Haddam Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",27,000100
+WASHINGTON,Haddam Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",54,000100
+WASHINGTON,Hanover Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",64,000110
+WASHINGTON,Hanover Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",337,000110
+WASHINGTON,Highland Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,000120
+WASHINGTON,Highland Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",13,000120
+WASHINGTON,Independence Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000130
+WASHINGTON,Independence Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",52,000130
+WASHINGTON,Kimeo Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",5,000140
+WASHINGTON,Kimeo Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",31,000140
+WASHINGTON,Lincoln Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",2,000150
+WASHINGTON,Lincoln Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",26,000150
+WASHINGTON,Linn Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",26,000160
+WASHINGTON,Linn Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",198,000160
+WASHINGTON,Little Blue Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",10,000170
+WASHINGTON,Little Blue Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",25,000170
+WASHINGTON,Logan Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",10,000180
+WASHINGTON,Logan Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",51,000180
+WASHINGTON,Lowe Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",1,000190
+WASHINGTON,Lowe Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",29,000190
+WASHINGTON,Mill Creek Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",21,000200
+WASHINGTON,Mill Creek Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",88,000200
+WASHINGTON,Sheridan Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",6,000210
+WASHINGTON,Sheridan Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",41,000210
+WASHINGTON,Sherman Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",8,000220
+WASHINGTON,Sherman Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",133,000220
+WASHINGTON,Strawberry Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",6,000230
+WASHINGTON,Strawberry Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",54,000230
+WASHINGTON,Union Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",12,000240
+WASHINGTON,Union Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",29,000240
+WASHINGTON,Washington Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",10,00025A
+WASHINGTON,Washington Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",107,00025A
+WASHINGTON,Washington Township Rural Enclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00025B
+WASHINGTON,Washington City,Kansas Senate,36,Democratic,"Angevine, Brian G.",104,00026A
+WASHINGTON,Washington City,Kansas Senate,36,Republican,"Bowers, Elaine S.",418,00026A
+WASHINGTON,Washington City Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00026B
+WASHINGTON,Washington City Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00026B
+WASHINGTON,Washington Township Rural Enclave B,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,900010
+WASHINGTON,Barnes Township,President / Vice President,,independent,"Stein, Jill",1,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+WASHINGTON,Barnes Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000010
+WASHINGTON,Barnes Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000010
+WASHINGTON,Barnes Township,President / Vice President,,Republican,"Trump, Donald J.",70,000010
+WASHINGTON,Brantford Township,President / Vice President,,independent,"Stein, Jill",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000020
+WASHINGTON,Brantford Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+WASHINGTON,Brantford Township,President / Vice President,,Republican,"Trump, Donald J.",37,000020
+WASHINGTON,Charleston Township,President / Vice President,,independent,"Stein, Jill",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+WASHINGTON,Charleston Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000030
+WASHINGTON,Charleston Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000030
+WASHINGTON,Charleston Township,President / Vice President,,Republican,"Trump, Donald J.",28,000030
+WASHINGTON,Clifton Township,President / Vice President,,independent,"Stein, Jill",4,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"McMullin, Evan",1,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+WASHINGTON,Clifton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",32,000040
+WASHINGTON,Clifton Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000040
+WASHINGTON,Clifton Township,President / Vice President,,Republican,"Trump, Donald J.",156,000040
+WASHINGTON,Coleman Township,President / Vice President,,independent,"Stein, Jill",1,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000050
+WASHINGTON,Coleman Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000050
+WASHINGTON,Coleman Township,President / Vice President,,Republican,"Trump, Donald J.",27,000050
+WASHINGTON,Farmington Township,President / Vice President,,independent,"Stein, Jill",1,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Castle, Darrell L",2,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+WASHINGTON,Farmington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000060
+WASHINGTON,Farmington Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000060
+WASHINGTON,Farmington Township,President / Vice President,,Republican,"Trump, Donald J.",60,000060
+WASHINGTON,Franklin Township,President / Vice President,,independent,"Stein, Jill",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+WASHINGTON,Franklin Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000070
+WASHINGTON,Franklin Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000070
+WASHINGTON,Franklin Township,President / Vice President,,Republican,"Trump, Donald J.",56,000070
+WASHINGTON,Grant Township,President / Vice President,,independent,"Stein, Jill",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+WASHINGTON,Grant Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+WASHINGTON,Grant Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000080
+WASHINGTON,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+WASHINGTON,Grant Township,President / Vice President,,Republican,"Trump, Donald J.",17,000080
+WASHINGTON,Greenleaf Township,President / Vice President,,independent,"Stein, Jill",3,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"McMullin, Evan",1,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",25,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000090
+WASHINGTON,Greenleaf Township,President / Vice President,,Republican,"Trump, Donald J.",104,000090
+WASHINGTON,Haddam Township,President / Vice President,,independent,"Stein, Jill",4,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"McMullin, Evan",2,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+WASHINGTON,Haddam Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",21,000100
+WASHINGTON,Haddam Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000100
+WASHINGTON,Haddam Township,President / Vice President,,Republican,"Trump, Donald J.",56,000100
+WASHINGTON,Hanover Township,President / Vice President,,independent,"Stein, Jill",7,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+WASHINGTON,Hanover Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",50,000110
+WASHINGTON,Hanover Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000110
+WASHINGTON,Hanover Township,President / Vice President,,Republican,"Trump, Donald J.",348,000110
+WASHINGTON,Highland Township,President / Vice President,,independent,"Stein, Jill",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+WASHINGTON,Highland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+WASHINGTON,Highland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000120
+WASHINGTON,Highland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+WASHINGTON,Highland Township,President / Vice President,,Republican,"Trump, Donald J.",13,000120
+WASHINGTON,Independence Township,President / Vice President,,independent,"Stein, Jill",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+WASHINGTON,Independence Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+WASHINGTON,Independence Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000130
+WASHINGTON,Independence Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000130
+WASHINGTON,Independence Township,President / Vice President,,Republican,"Trump, Donald J.",49,000130
+WASHINGTON,Kimeo Township,President / Vice President,,independent,"Stein, Jill",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000140
+WASHINGTON,Kimeo Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000140
+WASHINGTON,Kimeo Township,President / Vice President,,Republican,"Trump, Donald J.",29,000140
+WASHINGTON,Lincoln Township,President / Vice President,,independent,"Stein, Jill",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000150
+WASHINGTON,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000150
+WASHINGTON,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",26,000150
+WASHINGTON,Linn Township,President / Vice President,,independent,"Stein, Jill",2,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+WASHINGTON,Linn Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+WASHINGTON,Linn Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000160
+WASHINGTON,Linn Township,President / Vice President,,Libertarian,"Johnson, Gary",12,000160
+WASHINGTON,Linn Township,President / Vice President,,Republican,"Trump, Donald J.",193,000160
+WASHINGTON,Little Blue Township,President / Vice President,,independent,"Stein, Jill",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+WASHINGTON,Little Blue Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000170
+WASHINGTON,Little Blue Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000170
+WASHINGTON,Little Blue Township,President / Vice President,,Republican,"Trump, Donald J.",25,000170
+WASHINGTON,Logan Township,President / Vice President,,independent,"Stein, Jill",1,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+WASHINGTON,Logan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+WASHINGTON,Logan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000180
+WASHINGTON,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000180
+WASHINGTON,Logan Township,President / Vice President,,Republican,"Trump, Donald J.",50,000180
+WASHINGTON,Lowe Township,President / Vice President,,independent,"Stein, Jill",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+WASHINGTON,Lowe Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000190
+WASHINGTON,Lowe Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000190
+WASHINGTON,Lowe Township,President / Vice President,,Republican,"Trump, Donald J.",28,000190
+WASHINGTON,Mill Creek Township,President / Vice President,,independent,"Stein, Jill",2,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"McMullin, Evan",1,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000200
+WASHINGTON,Mill Creek Township,President / Vice President,,Republican,"Trump, Donald J.",87,000200
+WASHINGTON,Sheridan Township,President / Vice President,,independent,"Stein, Jill",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+WASHINGTON,Sheridan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000210
+WASHINGTON,Sheridan Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000210
+WASHINGTON,Sheridan Township,President / Vice President,,Republican,"Trump, Donald J.",42,000210
+WASHINGTON,Sherman Township,President / Vice President,,independent,"Stein, Jill",2,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+WASHINGTON,Sherman Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000220
+WASHINGTON,Sherman Township,President / Vice President,,Libertarian,"Johnson, Gary",12,000220
+WASHINGTON,Sherman Township,President / Vice President,,Republican,"Trump, Donald J.",123,000220
+WASHINGTON,Strawberry Township,President / Vice President,,independent,"Stein, Jill",2,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"McMullin, Evan",6,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+WASHINGTON,Strawberry Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000230
+WASHINGTON,Strawberry Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000230
+WASHINGTON,Strawberry Township,President / Vice President,,Republican,"Trump, Donald J.",43,000230
+WASHINGTON,Union Township,President / Vice President,,independent,"Stein, Jill",2,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+WASHINGTON,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+WASHINGTON,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000240
+WASHINGTON,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000240
+WASHINGTON,Union Township,President / Vice President,,Republican,"Trump, Donald J.",34,000240
+WASHINGTON,Washington Township,President / Vice President,,independent,"Stein, Jill",2,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Castle, Darrell L",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Giordani, Rocky",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Hedges, James A",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Hoefling, Tom",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Kahn, Lynn",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"La Riva, Gloria",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Maturen, Michael A",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"McMullin, Evan",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Perry, Darryl",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Schriner, Joe C",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Smith, Mike",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Sood, Ajay",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Sterling, Shawna",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00025A
+WASHINGTON,Washington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,00025A
+WASHINGTON,Washington Township,President / Vice President,,Libertarian,"Johnson, Gary",6,00025A
+WASHINGTON,Washington Township,President / Vice President,,Republican,"Trump, Donald J.",103,00025A
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,independent,"Stein, Jill",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Hedges, James A",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Smith, Mike",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00025B
+WASHINGTON,Washington Township Rural Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00025B
+WASHINGTON,Washington City,President / Vice President,,independent,"Stein, Jill",11,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Basiago, Andrew D.",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Castle, Darrell L",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Giordani, Rocky",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Hedges, James A",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Hoefling, Tom",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Kahn, Lynn",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"La Riva, Gloria",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Levinson, Michael S.",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Maturen, Michael A",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"McMullin, Evan",2,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Moorehead, Monica G.",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Perry, Darryl",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Schriner, Joe C",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Smith, Mike",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Sood, Ajay",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Sterling, Shawna",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Valdivia, Anthony J",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00026A
+WASHINGTON,Washington City,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00026A
+WASHINGTON,Washington City,President / Vice President,,Democratic,"Clinton, Hillary Rodham",105,00026A
+WASHINGTON,Washington City,President / Vice President,,Libertarian,"Johnson, Gary",32,00026A
+WASHINGTON,Washington City,President / Vice President,,Republican,"Trump, Donald J.",390,00026A
+WASHINGTON,Washington City Exclave,President / Vice President,,independent,"Stein, Jill",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Hedges, James A",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Smith, Mike",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00026B
+WASHINGTON,Washington City Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00026B
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,independent,"Stein, Jill",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Hedges, James A",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"McMullin, Evan",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Perry, Darryl",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Smith, Mike",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Sood, Ajay",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+WASHINGTON,Washington Township Rural Enclave B,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+WASHINGTON,Barnes Township,United States House of Representatives,1,independent,"LaPolice, Alan",29,000010
+WASHINGTON,Barnes Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+WASHINGTON,Barnes Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000010
+WASHINGTON,Barnes Township,United States House of Representatives,1,Republican,"Marshall, Roger",58,000010
+WASHINGTON,Brantford Township,United States House of Representatives,1,independent,"LaPolice, Alan",21,000020
+WASHINGTON,Brantford Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+WASHINGTON,Brantford Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000020
+WASHINGTON,Brantford Township,United States House of Representatives,1,Republican,"Marshall, Roger",18,000020
+WASHINGTON,Charleston Township,United States House of Representatives,1,independent,"LaPolice, Alan",10,000030
+WASHINGTON,Charleston Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+WASHINGTON,Charleston Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000030
+WASHINGTON,Charleston Township,United States House of Representatives,1,Republican,"Marshall, Roger",21,000030
+WASHINGTON,Clifton Township,United States House of Representatives,1,independent,"LaPolice, Alan",137,000040
+WASHINGTON,Clifton Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",3,000040
+WASHINGTON,Clifton Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000040
+WASHINGTON,Clifton Township,United States House of Representatives,1,Republican,"Marshall, Roger",56,000040
+WASHINGTON,Coleman Township,United States House of Representatives,1,independent,"LaPolice, Alan",10,000050
+WASHINGTON,Coleman Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+WASHINGTON,Coleman Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000050
+WASHINGTON,Coleman Township,United States House of Representatives,1,Republican,"Marshall, Roger",20,000050
+WASHINGTON,Farmington Township,United States House of Representatives,1,independent,"LaPolice, Alan",23,000060
+WASHINGTON,Farmington Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+WASHINGTON,Farmington Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000060
+WASHINGTON,Farmington Township,United States House of Representatives,1,Republican,"Marshall, Roger",51,000060
+WASHINGTON,Franklin Township,United States House of Representatives,1,independent,"LaPolice, Alan",14,000070
+WASHINGTON,Franklin Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+WASHINGTON,Franklin Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000070
+WASHINGTON,Franklin Township,United States House of Representatives,1,Republican,"Marshall, Roger",42,000070
+WASHINGTON,Grant Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000080
+WASHINGTON,Grant Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+WASHINGTON,Grant Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000080
+WASHINGTON,Grant Township,United States House of Representatives,1,Republican,"Marshall, Roger",12,000080
+WASHINGTON,Greenleaf Township,United States House of Representatives,1,independent,"LaPolice, Alan",51,000090
+WASHINGTON,Greenleaf Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+WASHINGTON,Greenleaf Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000090
+WASHINGTON,Greenleaf Township,United States House of Representatives,1,Republican,"Marshall, Roger",86,000090
+WASHINGTON,Haddam Township,United States House of Representatives,1,independent,"LaPolice, Alan",38,000100
+WASHINGTON,Haddam Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+WASHINGTON,Haddam Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000100
+WASHINGTON,Haddam Township,United States House of Representatives,1,Republican,"Marshall, Roger",40,000100
+WASHINGTON,Hanover Township,United States House of Representatives,1,independent,"LaPolice, Alan",102,000110
+WASHINGTON,Hanover Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000110
+WASHINGTON,Hanover Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",12,000110
+WASHINGTON,Hanover Township,United States House of Representatives,1,Republican,"Marshall, Roger",282,000110
+WASHINGTON,Highland Township,United States House of Representatives,1,independent,"LaPolice, Alan",5,000120
+WASHINGTON,Highland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+WASHINGTON,Highland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000120
+WASHINGTON,Highland Township,United States House of Representatives,1,Republican,"Marshall, Roger",7,000120
+WASHINGTON,Independence Township,United States House of Representatives,1,independent,"LaPolice, Alan",11,000130
+WASHINGTON,Independence Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+WASHINGTON,Independence Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000130
+WASHINGTON,Independence Township,United States House of Representatives,1,Republican,"Marshall, Roger",50,000130
+WASHINGTON,Kimeo Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000140
+WASHINGTON,Kimeo Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+WASHINGTON,Kimeo Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000140
+WASHINGTON,Kimeo Township,United States House of Representatives,1,Republican,"Marshall, Roger",22,000140
+WASHINGTON,Lincoln Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000150
+WASHINGTON,Lincoln Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+WASHINGTON,Lincoln Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000150
+WASHINGTON,Lincoln Township,United States House of Representatives,1,Republican,"Marshall, Roger",23,000150
+WASHINGTON,Linn Township,United States House of Representatives,1,independent,"LaPolice, Alan",79,000160
+WASHINGTON,Linn Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+WASHINGTON,Linn Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000160
+WASHINGTON,Linn Township,United States House of Representatives,1,Republican,"Marshall, Roger",145,000160
+WASHINGTON,Little Blue Township,United States House of Representatives,1,independent,"LaPolice, Alan",16,000170
+WASHINGTON,Little Blue Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+WASHINGTON,Little Blue Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000170
+WASHINGTON,Little Blue Township,United States House of Representatives,1,Republican,"Marshall, Roger",18,000170
+WASHINGTON,Logan Township,United States House of Representatives,1,independent,"LaPolice, Alan",21,000180
+WASHINGTON,Logan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000180
+WASHINGTON,Logan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000180
+WASHINGTON,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",42,000180
+WASHINGTON,Lowe Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000190
+WASHINGTON,Lowe Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000190
+WASHINGTON,Lowe Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000190
+WASHINGTON,Lowe Township,United States House of Representatives,1,Republican,"Marshall, Roger",23,000190
+WASHINGTON,Mill Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",31,000200
+WASHINGTON,Mill Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+WASHINGTON,Mill Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000200
+WASHINGTON,Mill Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",73,000200
+WASHINGTON,Sheridan Township,United States House of Representatives,1,independent,"LaPolice, Alan",24,000210
+WASHINGTON,Sheridan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000210
+WASHINGTON,Sheridan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000210
+WASHINGTON,Sheridan Township,United States House of Representatives,1,Republican,"Marshall, Roger",25,000210
+WASHINGTON,Sherman Township,United States House of Representatives,1,independent,"LaPolice, Alan",54,000220
+WASHINGTON,Sherman Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000220
+WASHINGTON,Sherman Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000220
+WASHINGTON,Sherman Township,United States House of Representatives,1,Republican,"Marshall, Roger",88,000220
+WASHINGTON,Strawberry Township,United States House of Representatives,1,independent,"LaPolice, Alan",21,000230
+WASHINGTON,Strawberry Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000230
+WASHINGTON,Strawberry Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000230
+WASHINGTON,Strawberry Township,United States House of Representatives,1,Republican,"Marshall, Roger",40,000230
+WASHINGTON,Union Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000240
+WASHINGTON,Union Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000240
+WASHINGTON,Union Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000240
+WASHINGTON,Union Township,United States House of Representatives,1,Republican,"Marshall, Roger",31,000240
+WASHINGTON,Washington Township,United States House of Representatives,1,independent,"LaPolice, Alan",28,00025A
+WASHINGTON,Washington Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00025A
+WASHINGTON,Washington Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,00025A
+WASHINGTON,Washington Township,United States House of Representatives,1,Republican,"Marshall, Roger",87,00025A
+WASHINGTON,Washington Township Rural Enclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00025B
+WASHINGTON,Washington City,United States House of Representatives,1,independent,"LaPolice, Alan",178,00026A
+WASHINGTON,Washington City,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00026A
+WASHINGTON,Washington City,United States House of Representatives,1,Libertarian,"Burt, Kerry",23,00026A
+WASHINGTON,Washington City,United States House of Representatives,1,Republican,"Marshall, Roger",325,00026A
+WASHINGTON,Washington City Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00026B
+WASHINGTON,Washington City Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00026B
+WASHINGTON,Washington City Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00026B
+WASHINGTON,Washington City Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00026B
+WASHINGTON,Washington Township Rural Enclave B,United States House of Representatives,1,independent,"LaPolice, Alan",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States House of Representatives,1,Republican,"Marshall, Roger",0,900010
+WASHINGTON,Barnes Township,United States Senate,,write - in,"Smith, DJ",0,000010
+WASHINGTON,Barnes Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000010
+WASHINGTON,Barnes Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000010
+WASHINGTON,Barnes Township,United States Senate,,Republican,"Moran, Jerry",75,000010
+WASHINGTON,Brantford Township,United States Senate,,write - in,"Smith, DJ",0,000020
+WASHINGTON,Brantford Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000020
+WASHINGTON,Brantford Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000020
+WASHINGTON,Brantford Township,United States Senate,,Republican,"Moran, Jerry",37,000020
+WASHINGTON,Charleston Township,United States Senate,,write - in,"Smith, DJ",0,000030
+WASHINGTON,Charleston Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000030
+WASHINGTON,Charleston Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000030
+WASHINGTON,Charleston Township,United States Senate,,Republican,"Moran, Jerry",30,000030
+WASHINGTON,Clifton Township,United States Senate,,write - in,"Smith, DJ",0,000040
+WASHINGTON,Clifton Township,United States Senate,,Democratic,"Wiesner, Patrick",26,000040
+WASHINGTON,Clifton Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000040
+WASHINGTON,Clifton Township,United States Senate,,Republican,"Moran, Jerry",158,000040
+WASHINGTON,Coleman Township,United States Senate,,write - in,"Smith, DJ",0,000050
+WASHINGTON,Coleman Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000050
+WASHINGTON,Coleman Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000050
+WASHINGTON,Coleman Township,United States Senate,,Republican,"Moran, Jerry",27,000050
+WASHINGTON,Farmington Township,United States Senate,,write - in,"Smith, DJ",0,000060
+WASHINGTON,Farmington Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000060
+WASHINGTON,Farmington Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000060
+WASHINGTON,Farmington Township,United States Senate,,Republican,"Moran, Jerry",64,000060
+WASHINGTON,Franklin Township,United States Senate,,write - in,"Smith, DJ",0,000070
+WASHINGTON,Franklin Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000070
+WASHINGTON,Franklin Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000070
+WASHINGTON,Franklin Township,United States Senate,,Republican,"Moran, Jerry",48,000070
+WASHINGTON,Grant Township,United States Senate,,write - in,"Smith, DJ",0,000080
+WASHINGTON,Grant Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000080
+WASHINGTON,Grant Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+WASHINGTON,Grant Township,United States Senate,,Republican,"Moran, Jerry",15,000080
+WASHINGTON,Greenleaf Township,United States Senate,,write - in,"Smith, DJ",0,000090
+WASHINGTON,Greenleaf Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000090
+WASHINGTON,Greenleaf Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000090
+WASHINGTON,Greenleaf Township,United States Senate,,Republican,"Moran, Jerry",115,000090
+WASHINGTON,Haddam Township,United States Senate,,write - in,"Smith, DJ",0,000100
+WASHINGTON,Haddam Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000100
+WASHINGTON,Haddam Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000100
+WASHINGTON,Haddam Township,United States Senate,,Republican,"Moran, Jerry",69,000100
+WASHINGTON,Hanover Township,United States Senate,,write - in,"Smith, DJ",0,000110
+WASHINGTON,Hanover Township,United States Senate,,Democratic,"Wiesner, Patrick",46,000110
+WASHINGTON,Hanover Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000110
+WASHINGTON,Hanover Township,United States Senate,,Republican,"Moran, Jerry",356,000110
+WASHINGTON,Highland Township,United States Senate,,write - in,"Smith, DJ",0,000120
+WASHINGTON,Highland Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000120
+WASHINGTON,Highland Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000120
+WASHINGTON,Highland Township,United States Senate,,Republican,"Moran, Jerry",12,000120
+WASHINGTON,Independence Township,United States Senate,,write - in,"Smith, DJ",0,000130
+WASHINGTON,Independence Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000130
+WASHINGTON,Independence Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000130
+WASHINGTON,Independence Township,United States Senate,,Republican,"Moran, Jerry",54,000130
+WASHINGTON,Kimeo Township,United States Senate,,write - in,"Smith, DJ",0,000140
+WASHINGTON,Kimeo Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000140
+WASHINGTON,Kimeo Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000140
+WASHINGTON,Kimeo Township,United States Senate,,Republican,"Moran, Jerry",34,000140
+WASHINGTON,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000150
+WASHINGTON,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000150
+WASHINGTON,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000150
+WASHINGTON,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",26,000150
+WASHINGTON,Linn Township,United States Senate,,write - in,"Smith, DJ",0,000160
+WASHINGTON,Linn Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000160
+WASHINGTON,Linn Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000160
+WASHINGTON,Linn Township,United States Senate,,Republican,"Moran, Jerry",208,000160
+WASHINGTON,Little Blue Township,United States Senate,,write - in,"Smith, DJ",0,000170
+WASHINGTON,Little Blue Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000170
+WASHINGTON,Little Blue Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000170
+WASHINGTON,Little Blue Township,United States Senate,,Republican,"Moran, Jerry",30,000170
+WASHINGTON,Logan Township,United States Senate,,write - in,"Smith, DJ",0,000180
+WASHINGTON,Logan Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000180
+WASHINGTON,Logan Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000180
+WASHINGTON,Logan Township,United States Senate,,Republican,"Moran, Jerry",54,000180
+WASHINGTON,Lowe Township,United States Senate,,write - in,"Smith, DJ",0,000190
+WASHINGTON,Lowe Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000190
+WASHINGTON,Lowe Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000190
+WASHINGTON,Lowe Township,United States Senate,,Republican,"Moran, Jerry",30,000190
+WASHINGTON,Mill Creek Township,United States Senate,,write - in,"Smith, DJ",0,000200
+WASHINGTON,Mill Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000200
+WASHINGTON,Mill Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000200
+WASHINGTON,Mill Creek Township,United States Senate,,Republican,"Moran, Jerry",101,000200
+WASHINGTON,Sheridan Township,United States Senate,,write - in,"Smith, DJ",0,000210
+WASHINGTON,Sheridan Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000210
+WASHINGTON,Sheridan Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000210
+WASHINGTON,Sheridan Township,United States Senate,,Republican,"Moran, Jerry",44,000210
+WASHINGTON,Sherman Township,United States Senate,,write - in,"Smith, DJ",0,000220
+WASHINGTON,Sherman Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000220
+WASHINGTON,Sherman Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000220
+WASHINGTON,Sherman Township,United States Senate,,Republican,"Moran, Jerry",134,000220
+WASHINGTON,Strawberry Township,United States Senate,,write - in,"Smith, DJ",0,000230
+WASHINGTON,Strawberry Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000230
+WASHINGTON,Strawberry Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000230
+WASHINGTON,Strawberry Township,United States Senate,,Republican,"Moran, Jerry",51,000230
+WASHINGTON,Union Township,United States Senate,,write - in,"Smith, DJ",0,000240
+WASHINGTON,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000240
+WASHINGTON,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000240
+WASHINGTON,Union Township,United States Senate,,Republican,"Moran, Jerry",34,000240
+WASHINGTON,Washington Township,United States Senate,,write - in,"Smith, DJ",0,00025A
+WASHINGTON,Washington Township,United States Senate,,Democratic,"Wiesner, Patrick",5,00025A
+WASHINGTON,Washington Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,00025A
+WASHINGTON,Washington Township,United States Senate,,Republican,"Moran, Jerry",111,00025A
+WASHINGTON,Washington Township Rural Enclave,United States Senate,,write - in,"Smith, DJ",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00025B
+WASHINGTON,Washington Township Rural Enclave,United States Senate,,Republican,"Moran, Jerry",0,00025B
+WASHINGTON,Washington City,United States Senate,,write - in,"Smith, DJ",0,00026A
+WASHINGTON,Washington City,United States Senate,,Democratic,"Wiesner, Patrick",71,00026A
+WASHINGTON,Washington City,United States Senate,,Libertarian,"Garrard, Robert D.",28,00026A
+WASHINGTON,Washington City,United States Senate,,Republican,"Moran, Jerry",424,00026A
+WASHINGTON,Washington City Exclave,United States Senate,,write - in,"Smith, DJ",0,00026B
+WASHINGTON,Washington City Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00026B
+WASHINGTON,Washington City Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00026B
+WASHINGTON,Washington City Exclave,United States Senate,,Republican,"Moran, Jerry",0,00026B
+WASHINGTON,Washington Township Rural Enclave B,United States Senate,,write - in,"Smith, DJ",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+WASHINGTON,Washington Township Rural Enclave B,United States Senate,,Republican,"Moran, Jerry",0,900010

@@ -1,469 +1,1220 @@
-county,precinct,office,district,party,candidate,votes
-McPherson,CANTON,President,,I,Stein - Baraka,4
-McPherson,CASTLE,President,,I,Stein - Baraka,2
-McPherson,DELMORE,President,,I,Stein - Baraka,4
-McPherson,EMPIRE,President,,I,Stein - Baraka,7
-McPherson,GROVELAND,President,,I,Stein - Baraka,4
-McPherson,GYPSUM CREEK,President,,I,Stein - Baraka,2
-McPherson,HARPER,President,,I,Stein - Baraka,1
-McPherson,HAVES,President,,I,Stein - Baraka,3
-McPherson,KING CITY,President,,I,Stein - Baraka,9
-McPherson,LITTLE VALLEY,President,,I,Stein - Baraka,1
-McPherson,LONE TREE,President,,I,Stein - Baraka,2
-McPherson,MARQUETTE,President,,I,Stein - Baraka,9
-McPherson,MCPHERSON,President,,I,Stein - Baraka,3
-McPherson,MERIDIAN,President,,I,Stein - Baraka,4
-McPherson,MOUND,President,,I,Stein - Baraka,35
-McPherson,NEW GOTTLAND,President,,I,Stein - Baraka,3
-McPherson,SMOKY HILL,President,,I,Stein - Baraka,2
-McPherson,SPRING VALLEY,President,,I,Stein - Baraka,4
-McPherson,SUPERIOR,President,,I,Stein - Baraka,16
-McPherson,TURKEY CREEK,President,,I,Stein - Baraka,3
-McPherson,UNION,President,,I,Stein - Baraka,1
-McPherson,LINDSBORG - 1,President,,I,Stein - Baraka,10
-McPherson,LINDSRORG - 2,President,,I,Stein - Baraka,12
-McPherson,LINDSBORG - 3,President,,I,Stein - Baraka,6
-McPherson,LINDSBORG - 4,President,,I,Stein - Baraka,8
-McPherson,McPHERSON - 1,President,,I,Stein - Baraka,71
-McPherson,McPHERSON - 2,President,,I,Stein - Baraka,18
-McPherson,McPHERSON - 3,President,,I,Stein - Baraka,17
-McPherson,McPHERSON - 4,President,,I,Stein - Baraka,34
-McPherson,BATTLE HILL,President,,R,Trump - Pence,37
-McPherson,BONAVILLE,President,,R,Trump - Pence,40
-McPherson,CANTON,President,,R,Trump - Pence,296
-McPherson,CASTLE,President,,R,Trump - Pence,55
-McPherson,DELMORE,President,,R,Trump - Pence,64
-McPherson,EMPIRE,President,,R,Trump - Pence,409
-McPherson,GROVELAND,President,,R,Trump - Pence,73
-McPherson,GYPSUM CREEK,President,,R,Trump - Pence,70
-McPherson,HARPER,President,,R,Trump - Pence,65
-McPherson,HAVES,President,,R,Trump - Pence,95
-McPherson,JACKSON,President,,R,Trump - Pence,71
-McPherson,KING CITY,President,,R,Trump - Pence,197
-McPherson,LITTLE VALLEY,President,,R,Trump - Pence,171
-McPherson,LONE TREE,President,,R,Trump - Pence,64
-McPherson,MARQUETTE,President,,R,Trump - Pence,250
-McPherson,MCPHERSON,President,,R,Trump - Pence,204
-McPherson,MERIDIAN,President,,R,Trump - Pence,81
-McPherson,MOUND,President,,R,Trump - Pence,533
-McPherson,NEW GOTTLAND,President,,R,Trump - Pence,209
-McPherson,SMOKY HILL,President,,R,Trump - Pence,124
-McPherson,S SHARPS CREEK,President,,R,Trump - Pence,41
-McPherson,SPRING VALLEY,President,,R,Trump - Pence,113
-McPherson,SUPERIOR,President,,R,Trump - Pence,577
-McPherson,TURKEY CREEK,President,,R,Trump - Pence,105
-McPherson,UNION,President,,R,Trump - Pence,71
-McPherson,LINDSBORG - 1,President,,R,Trump - Pence,178
-McPherson,LINDSRORG - 2,President,,R,Trump - Pence,241
-McPherson,LINDSBORG - 3,President,,R,Trump - Pence,188
-McPherson,LINDSBORG - 4,President,,R,Trump - Pence,208
-McPherson,McPHERSON - 1,President,,R,Trump - Pence,1910
-McPherson,McPHERSON - 2,President,,R,Trump - Pence,638
-McPherson,McPHERSON - 3,President,,R,Trump - Pence,364
-McPherson,McPHERSON - 4,President,,R,Trump - Pence,807
-McPherson,BATTLE HILL,President,,D,Clinton - Kaine,14
-McPherson,BONAVILLE,President,,D,Clinton - Kaine,5
-McPherson,CANTON,President,,D,Clinton - Kaine,70
-McPherson,CASTLE,President,,D,Clinton - Kaine,19
-McPherson,DELMORE,President,,D,Clinton - Kaine,12
-McPherson,EMPIRE,President,,D,Clinton - Kaine,74
-McPherson,GROVELAND,President,,D,Clinton - Kaine,18
-McPherson,GYPSUM CREEK,President,,D,Clinton - Kaine,16
-McPherson,HARPER,President,,D,Clinton - Kaine,10
-McPherson,HAVES,President,,D,Clinton - Kaine,20
-McPherson,JACKSON,President,,D,Clinton - Kaine,23
-McPherson,KING CITY,President,,D,Clinton - Kaine,56
-McPherson,LITTLE VALLEY,President,,D,Clinton - Kaine,30
-McPherson,LONE TREE,President,,D,Clinton - Kaine,27
-McPherson,MARQUETTE,President,,D,Clinton - Kaine,83
-McPherson,MCPHERSON,President,,D,Clinton - Kaine,66
-McPherson,MERIDIAN,President,,D,Clinton - Kaine,29
-McPherson,MOUND,President,,D,Clinton - Kaine,238
-McPherson,NEW GOTTLAND,President,,D,Clinton - Kaine,44
-McPherson,SMOKY HILL,President,,D,Clinton - Kaine,42
-McPherson,S SHARPS CREEK,President,,D,Clinton - Kaine,4
-McPherson,SPRING VALLEY,President,,D,Clinton - Kaine,22
-McPherson,SUPERIOR,President,,D,Clinton - Kaine,110
-McPherson,TURKEY CREEK,President,,D,Clinton - Kaine,30
-McPherson,UNION,President,,D,Clinton - Kaine,17
-McPherson,LINDSBORG - 1,President,,D,Clinton - Kaine,140
-McPherson,LINDSRORG - 2,President,,D,Clinton - Kaine,209
-McPherson,LINDSBORG - 3,President,,D,Clinton - Kaine,161
-McPherson,LINDSBORG - 4,President,,D,Clinton - Kaine,154
-McPherson,McPHERSON - 1,President,,D,Clinton - Kaine,859
-McPherson,McPHERSON - 2,President,,D,Clinton - Kaine,231
-McPherson,McPHERSON - 3,President,,D,Clinton - Kaine,121
-McPherson,McPHERSON - 4,President,,D,Clinton - Kaine,272
-McPherson,CANTON,President,,L,Johnson - Weld,13
-McPherson,CASTLE,President,,L,Johnson - Weld,5
-McPherson,DELMORE,President,,L,Johnson - Weld,4
-McPherson,EMPIRE,President,,L,Johnson - Weld,27
-McPherson,GROVELAND,President,,L,Johnson - Weld,2
-McPherson,GYPSUM CREEK,President,,L,Johnson - Weld,4
-McPherson,HARPER,President,,L,Johnson - Weld,5
-McPherson,HAVES,President,,L,Johnson - Weld,1
-McPherson,JACKSON,President,,L,Johnson - Weld,6
-McPherson,KING CITY,President,,L,Johnson - Weld,16
-McPherson,LITTLE VALLEY,President,,L,Johnson - Weld,9
-McPherson,LONE TREE,President,,L,Johnson - Weld,5
-McPherson,MARQUETTE,President,,L,Johnson - Weld,18
-McPherson,MCPHERSON,President,,L,Johnson - Weld,9
-McPherson,MERIDIAN,President,,L,Johnson - Weld,11
-McPherson,MOUND,President,,L,Johnson - Weld,36
-McPherson,NEW GOTTLAND,President,,L,Johnson - Weld,6
-McPherson,SMOKY HILL,President,,L,Johnson - Weld,9
-McPherson,S SHARPS CREEK,President,,L,Johnson - Weld,1
-McPherson,SPRING VALLEY,President,,L,Johnson - Weld,7
-McPherson,SUPERIOR,President,,L,Johnson - Weld,30
-McPherson,TURKEY CREEK,President,,L,Johnson - Weld,5
-McPherson,UNION,President,,L,Johnson - Weld,7
-McPherson,LINDSBORG - 1,President,,L,Johnson - Weld,12
-McPherson,LINDSRORG - 2,President,,L,Johnson - Weld,27
-McPherson,LINDSBORG - 3,President,,L,Johnson - Weld,16
-McPherson,LINDSBORG - 4,President,,L,Johnson - Weld,19
-McPherson,McPHERSON - 1,President,,L,Johnson - Weld,128
-McPherson,McPHERSON - 2,President,,L,Johnson - Weld,39
-McPherson,McPHERSON - 3,President,,L,Johnson - Weld,26
-McPherson,McPHERSON - 4,President,,L,Johnson - Weld,71
-McPherson,BONAVILLE,President,,,McMullin - Johnson,1
-McPherson,CANTON,President,,,McMullin - Johnson,1
-McPherson,DELMORE,President,,,McMullin - Johnson,2
-McPherson,GYPSUM CREEK,President,,,McMullin - Johnson,2
-McPherson,MARQUETTE,President,,,McMullin - Johnson,3
-McPherson,SMOKY HILL,President,,,McMullin - Johnson,1
-McPherson,SUPERIOR,President,,,McMullin - Johnson,2
-McPherson,LINDSBORG - 1,President,,,McMullin - Johnson,3
-McPherson,LINDSBORG - 3,President,,,McMullin - Johnson,4
-McPherson,LINDSBORG - 4,President,,,McMullin - Johnson,2
-McPherson,McPHERSON - 1,President,,,McMullin - Johnson,24
-McPherson,McPHERSON - 2,President,,,McMullin - Johnson,13
-McPherson,McPHERSON - 3,President,,,McMullin - Johnson,26
-McPherson,McPHERSON - 4,President,,,McMullin - Johnson,14
-McPherson,BATTLE HILL,U.S. Senate,,R,Jerry Moran,38
-McPherson,BONAVILLE,U.S. Senate,,R,Jerry Moran,39
-McPherson,CANTON,U.S. Senate,,R,Jerry Moran,304
-McPherson,CASTLE,U.S. Senate,,R,Jerry Moran,57
-McPherson,DELMORE,U.S. Senate,,R,Jerry Moran,69
-McPherson,EMPIRE,U.S. Senate,,R,Jerry Moran,422
-McPherson,GROVELAND,U.S. Senate,,R,Jerry Moran,79
-McPherson,GYPSUM CREEK,U.S. Senate,,R,Jerry Moran,79
-McPherson,HARPER,U.S. Senate,,R,Jerry Moran,65
-McPherson,HAVES,U.S. Senate,,R,Jerry Moran,98
-McPherson,JACKSON,U.S. Senate,,R,Jerry Moran,81
-McPherson,KING CITY,U.S. Senate,,R,Jerry Moran,224
-McPherson,LITTLE VALLEY,U.S. Senate,,R,Jerry Moran,185
-McPherson,LONE TREE,U.S. Senate,,R,Jerry Moran,76
-McPherson,MARQUETTE,U.S. Senate,,R,Jerry Moran,260
-McPherson,MCPHERSON,U.S. Senate,,R,Jerry Moran,220
-McPherson,MERIDIAN,U.S. Senate,,R,Jerry Moran,106
-McPherson,MOUND,U.S. Senate,,R,Jerry Moran,625
-McPherson,NEW GOTTLAND,U.S. Senate,,R,Jerry Moran,219
-McPherson,SMOKY HILL,U.S. Senate,,R,Jerry Moran,142
-McPherson,S SHARPS CREEK,U.S. Senate,,R,Jerry Moran,37
-McPherson,SPRING VALLEY,U.S. Senate,,R,Jerry Moran,130
-McPherson,SUPERIOR,U.S. Senate,,R,Jerry Moran,620
-McPherson,TURKEY CREEK,U.S. Senate,,R,Jerry Moran,112
-McPherson,UNION,U.S. Senate,,R,Jerry Moran,80
-McPherson,LINDSBORG - 1,U.S. Senate,,R,Jerry Moran,223
-McPherson,LINDSRORG - 2,U.S. Senate,,R,Jerry Moran,314
-McPherson,LINDSBORG - 3,U.S. Senate,,R,Jerry Moran,252
-McPherson,LINDSBORG - 4,U.S. Senate,,R,Jerry Moran,232
-McPherson,McPHERSON - 1,U.S. Senate,,R,Jerry Moran,2228
-McPherson,McPHERSON - 2,U.S. Senate,,R,Jerry Moran,713
-McPherson,McPHERSON - 3,U.S. Senate,,R,Jerry Moran,403
-McPherson,McPHERSON - 4,U.S. Senate,,R,Jerry Moran,905
-McPherson,BATTLE HILL,U.S. Senate,,D,Patrick Wiesner,10
-McPherson,BONAVILLE,U.S. Senate,,D,Patrick Wiesner,3
-McPherson,CANTON,U.S. Senate,,D,Patrick Wiesner,59
-McPherson,CASTLE,U.S. Senate,,D,Patrick Wiesner,18
-McPherson,DELMORE,U.S. Senate,,D,Patrick Wiesner,13
-McPherson,EMPIRE,U.S. Senate,,D,Patrick Wiesner,62
-McPherson,GROVELAND,U.S. Senate,,D,Patrick Wiesner,15
-McPherson,GYPSUM CREEK,U.S. Senate,,D,Patrick Wiesner,12
-McPherson,HARPER,U.S. Senate,,D,Patrick Wiesner,8
-McPherson,HAVES,U.S. Senate,,D,Patrick Wiesner,14
-McPherson,JACKSON,U.S. Senate,,D,Patrick Wiesner,18
-McPherson,KING CITY,U.S. Senate,,D,Patrick Wiesner,42
-McPherson,LITTLE VALLEY,U.S. Senate,,D,Patrick Wiesner,21
-McPherson,LONE TREE,U.S. Senate,,D,Patrick Wiesner,21
-McPherson,MARQUETTE,U.S. Senate,,D,Patrick Wiesner,83
-McPherson,MCPHERSON,U.S. Senate,,D,Patrick Wiesner,49
-McPherson,MERIDIAN,U.S. Senate,,D,Patrick Wiesner,18
-McPherson,MOUND,U.S. Senate,,D,Patrick Wiesner,185
-McPherson,NEW GOTTLAND,U.S. Senate,,D,Patrick Wiesner,29
-McPherson,SMOKY HILL,U.S. Senate,,D,Patrick Wiesner,35
-McPherson,S SHARPS CREEK,U.S. Senate,,D,Patrick Wiesner,5
-McPherson,SPRING VALLEY,U.S. Senate,,D,Patrick Wiesner,11
-McPherson,SUPERIOR,U.S. Senate,,D,Patrick Wiesner,91
-McPherson,TURKEY CREEK,U.S. Senate,,D,Patrick Wiesner,26
-McPherson,UNION,U.S. Senate,,D,Patrick Wiesner,10
-McPherson,LINDSBORG - 1,U.S. Senate,,D,Patrick Wiesner,113
-McPherson,LINDSRORG - 2,U.S. Senate,,D,Patrick Wiesner,161
-McPherson,LINDSBORG - 3,U.S. Senate,,D,Patrick Wiesner,112
-McPherson,LINDSBORG - 4,U.S. Senate,,D,Patrick Wiesner,135
-McPherson,McPHERSON - 1,U.S. Senate,,D,Patrick Wiesner,655
-McPherson,McPHERSON - 2,U.S. Senate,,D,Patrick Wiesner,178
-McPherson,McPHERSON - 3,U.S. Senate,,D,Patrick Wiesner,101
-McPherson,McPHERSON - 4,U.S. Senate,,D,Patrick Wiesner,214
-McPherson,BATTLE HILL,U.S. Senate,,L,Robert D. Garrard,3
-McPherson,BONAVILLE,U.S. Senate,,L,Robert D. Garrard,2
-McPherson,CANTON,U.S. Senate,,L,Robert D. Garrard,18
-McPherson,CASTLE,U.S. Senate,,L,Robert D. Garrard,6
-McPherson,DELMORE,U.S. Senate,,L,Robert D. Garrard,4
-McPherson,EMPIRE,U.S. Senate,,L,Robert D. Garrard,29
-McPherson,GROVELAND,U.S. Senate,,L,Robert D. Garrard,3
-McPherson,GYPSUM CREEK,U.S. Senate,,L,Robert D. Garrard,3
-McPherson,HARPER,U.S. Senate,,L,Robert D. Garrard,7
-McPherson,HAVES,U.S. Senate,,L,Robert D. Garrard,6
-McPherson,JACKSON,U.S. Senate,,L,Robert D. Garrard,3
-McPherson,KING CITY,U.S. Senate,,L,Robert D. Garrard,15
-McPherson,LITTLE VALLEY,U.S. Senate,,L,Robert D. Garrard,7
-McPherson,LONE TREE,U.S. Senate,,L,Robert D. Garrard,4
-McPherson,MARQUETTE,U.S. Senate,,L,Robert D. Garrard,18
-McPherson,MCPHERSON,U.S. Senate,,L,Robert D. Garrard,20
-McPherson,MERIDIAN,U.S. Senate,,L,Robert D. Garrard,5
-McPherson,MOUND,U.S. Senate,,L,Robert D. Garrard,41
-McPherson,NEW GOTTLAND,U.S. Senate,,L,Robert D. Garrard,13
-McPherson,SMOKY HILL,U.S. Senate,,L,Robert D. Garrard,6
-McPherson,S SHARPS CREEK,U.S. Senate,,L,Robert D. Garrard,4
-McPherson,SPRING VALLEY,U.S. Senate,,L,Robert D. Garrard,7
-McPherson,SUPERIOR,U.S. Senate,,L,Robert D. Garrard,34
-McPherson,TURKEY CREEK,U.S. Senate,,L,Robert D. Garrard,3
-McPherson,UNION,U.S. Senate,,L,Robert D. Garrard,5
-McPherson,LINDSBORG - 1,U.S. Senate,,L,Robert D. Garrard,10
-McPherson,LINDSRORG - 2,U.S. Senate,,L,Robert D. Garrard,19
-McPherson,LINDSBORG - 3,U.S. Senate,,L,Robert D. Garrard,22
-McPherson,LINDSBORG - 4,U.S. Senate,,L,Robert D. Garrard,28
-McPherson,McPHERSON - 1,U.S. Senate,,L,Robert D. Garrard,124
-McPherson,McPHERSON - 2,U.S. Senate,,L,Robert D. Garrard,44
-McPherson,McPHERSON - 3,U.S. Senate,,L,Robert D. Garrard,32
-McPherson,McPHERSON - 4,U.S. Senate,,L,Robert D. Garrard,68
-McPherson,BATTLE HILL,U.S. House,1,D,Alan LaPolice,16
-McPherson,BONAVILLE,U.S. House,1,D,Alan LaPolice,7
-McPherson,CANTON,U.S. House,1,D,Alan LaPolice,86
-McPherson,CASTLE,U.S. House,1,D,Alan LaPolice,19
-McPherson,DELMORE,U.S. House,1,D,Alan LaPolice,25
-McPherson,EMPIRE,U.S. House,1,D,Alan LaPolice,115
-McPherson,GROVELAND,U.S. House,1,D,Alan LaPolice,20
-McPherson,GYPSUM CREEK,U.S. House,1,D,Alan LaPolice,19
-McPherson,HARPER,U.S. House,1,D,Alan LaPolice,23
-McPherson,HAVES,U.S. House,1,D,Alan LaPolice,33
-McPherson,JACKSON,U.S. House,1,D,Alan LaPolice,26
-McPherson,KING CITY,U.S. House,1,D,Alan LaPolice,70
-McPherson,LITTLE VALLEY,U.S. House,1,D,Alan LaPolice,39
-McPherson,LONE TREE,U.S. House,1,D,Alan LaPolice,24
-McPherson,MARQUETTE,U.S. House,1,D,Alan LaPolice,119
-McPherson,MCPHERSON,U.S. House,1,D,Alan LaPolice,74
-McPherson,MERIDIAN,U.S. House,1,D,Alan LaPolice,37
-McPherson,MOUND,U.S. House,1,D,Alan LaPolice,222
-McPherson,NEW GOTTLAND,U.S. House,1,D,Alan LaPolice,58
-McPherson,SMOKY HILL,U.S. House,1,D,Alan LaPolice,57
-McPherson,S SHARPS CREEK,U.S. House,1,D,Alan LaPolice,9
-McPherson,SPRING VALLEY,U.S. House,1,D,Alan LaPolice,27
-McPherson,SUPERIOR,U.S. House,1,D,Alan LaPolice,131
-McPherson,TURKEY CREEK,U.S. House,1,D,Alan LaPolice,27
-McPherson,UNION,U.S. House,1,D,Alan LaPolice,25
-McPherson,LINDSBORG - 1,U.S. House,1,D,Alan LaPolice,161
-McPherson,LINDSRORG - 2,U.S. House,1,D,Alan LaPolice,216
-McPherson,LINDSBORG - 3,U.S. House,1,D,Alan LaPolice,149
-McPherson,LINDSBORG - 4,U.S. House,1,D,Alan LaPolice,181
-McPherson,McPHERSON - 1,U.S. House,1,D,Alan LaPolice,740
-McPherson,McPHERSON - 2,U.S. House,1,D,Alan LaPolice,206
-McPherson,McPHERSON - 3,U.S. House,1,D,Alan LaPolice,138
-McPherson,McPHERSON - 4,U.S. House,1,D,Alan LaPolice,257
-McPherson,BATTLE HILL,U.S. House,1,R,Roger Marshall,34
-McPherson,BONAVILLE,U.S. House,1,R,Roger Marshall,32
-McPherson,CANTON,U.S. House,1,R,Roger Marshall,269
-McPherson,CASTLE,U.S. House,1,R,Roger Marshall,51
-McPherson,DELMORE,U.S. House,1,R,Roger Marshall,58
-McPherson,EMPIRE,U.S. House,1,R,Roger Marshall,360
-McPherson,GROVELAND,U.S. House,1,R,Roger Marshall,75
-McPherson,GYPSUM CREEK,U.S. House,1,R,Roger Marshall,70
-McPherson,HARPER,U.S. House,1,R,Roger Marshall,49
-McPherson,HAVES,U.S. House,1,R,Roger Marshall,75
-McPherson,JACKSON,U.S. House,1,R,Roger Marshall,70
-McPherson,KING CITY,U.S. House,1,R,Roger Marshall,183
-McPherson,LITTLE VALLEY,U.S. House,1,R,Roger Marshall,153
-McPherson,LONE TREE,U.S. House,1,R,Roger Marshall,67
-McPherson,MARQUETTE,U.S. House,1,R,Roger Marshall,223
-McPherson,MCPHERSON,U.S. House,1,R,Roger Marshall,187
-McPherson,MERIDIAN,U.S. House,1,R,Roger Marshall,82
-McPherson,MOUND,U.S. House,1,R,Roger Marshall,540
-McPherson,NEW GOTTLAND,U.S. House,1,R,Roger Marshall,190
-McPherson,SMOKY HILL,U.S. House,1,R,Roger Marshall,113
-McPherson,S SHARPS CREEK,U.S. House,1,R,Roger Marshall,33
-McPherson,SPRING VALLEY,U.S. House,1,R,Roger Marshall,115
-McPherson,SUPERIOR,U.S. House,1,R,Roger Marshall,561
-McPherson,TURKEY CREEK,U.S. House,1,R,Roger Marshall,100
-McPherson,UNION,U.S. House,1,R,Roger Marshall,69
-McPherson,LINDSBORG - 1,U.S. House,1,R,Roger Marshall,170
-McPherson,LINDSRORG - 2,U.S. House,1,R,Roger Marshall,241
-McPherson,LINDSBORG - 3,U.S. House,1,R,Roger Marshall,198
-McPherson,LINDSBORG - 4,U.S. House,1,R,Roger Marshall,173
-McPherson,McPHERSON - 1,U.S. House,1,R,Roger Marshall,1987
-McPherson,McPHERSON - 2,U.S. House,1,R,Roger Marshall,645
-McPherson,McPHERSON - 3,U.S. House,1,R,Roger Marshall,353
-McPherson,McPHERSON - 4,U.S. House,1,R,Roger Marshall,812
-McPherson,BATTLE HILL,U.S. House,1,L,Kerry Burt,1
-McPherson,BONAVILLE,U.S. House,1,L,Kerry Burt,2
-McPherson,CANTON,U.S. House,1,L,Kerry Burt,18
-McPherson,CASTLE,U.S. House,1,L,Kerry Burt,11
-McPherson,DELMORE,U.S. House,1,L,Kerry Burt,2
-McPherson,EMPIRE,U.S. House,1,L,Kerry Burt,27
-McPherson,GROVELAND,U.S. House,1,L,Kerry Burt,2
-McPherson,GYPSUM CREEK,U.S. House,1,L,Kerry Burt,4
-McPherson,HARPER,U.S. House,1,L,Kerry Burt,4
-McPherson,HAVES,U.S. House,1,L,Kerry Burt,5
-McPherson,JACKSON,U.S. House,1,L,Kerry Burt,4
-McPherson,KING CITY,U.S. House,1,L,Kerry Burt,12
-McPherson,LITTLE VALLEY,U.S. House,1,L,Kerry Burt,16
-McPherson,LONE TREE,U.S. House,1,L,Kerry Burt,3
-McPherson,MARQUETTE,U.S. House,1,L,Kerry Burt,18
-McPherson,MCPHERSON,U.S. House,1,L,Kerry Burt,15
-McPherson,MERIDIAN,U.S. House,1,L,Kerry Burt,3
-McPherson,MOUND,U.S. House,1,L,Kerry Burt,56
-McPherson,NEW GOTTLAND,U.S. House,1,L,Kerry Burt,5
-McPherson,SMOKY HILL,U.S. House,1,L,Kerry Burt,6
-McPherson,S SHARPS CREEK,U.S. House,1,L,Kerry Burt,3
-McPherson,SPRING VALLEY,U.S. House,1,L,Kerry Burt,4
-McPherson,SUPERIOR,U.S. House,1,L,Kerry Burt,43
-McPherson,TURKEY CREEK,U.S. House,1,L,Kerry Burt,7
-McPherson,UNION,U.S. House,1,L,Kerry Burt,1
-McPherson,LINDSBORG - 1,U.S. House,1,L,Kerry Burt,11
-McPherson,LINDSRORG - 2,U.S. House,1,L,Kerry Burt,22
-McPherson,LINDSBORG - 3,U.S. House,1,L,Kerry Burt,31
-McPherson,LINDSBORG - 4,U.S. House,1,L,Kerry Burt,34
-McPherson,McPHERSON - 1,U.S. House,1,L,Kerry Burt,197
-McPherson,McPHERSON - 2,U.S. House,1,L,Kerry Burt,62
-McPherson,McPHERSON - 3,U.S. House,1,L,Kerry Burt,32
-McPherson,McPHERSON - 4,U.S. House,1,L,Kerry Burt,88
-McPherson,BATTLE HILL,State Senate,35,R,Richard Wilborn,39
-McPherson,BONAVILLE,State Senate,35,R,Richard Wilborn,41
-McPherson,CANTON,State Senate,35,R,Richard Wilborn,296
-McPherson,CASTLE,State Senate,35,R,Richard Wilborn,57
-McPherson,DELMORE,State Senate,35,R,Richard Wilborn,66
-McPherson,EMPIRE,State Senate,35,R,Richard Wilborn,409
-McPherson,GROVELAND,State Senate,35,R,Richard Wilborn,80
-McPherson,GYPSUM CREEK,State Senate,35,R,Richard Wilborn,73
-McPherson,HARPER,State Senate,35,R,Richard Wilborn,69
-McPherson,HAVES,State Senate,35,R,Richard Wilborn,88
-McPherson,JACKSON,State Senate,35,R,Richard Wilborn,72
-McPherson,KING CITY,State Senate,35,R,Richard Wilborn,217
-McPherson,LITTLE VALLEY,State Senate,35,R,Richard Wilborn,178
-McPherson,LONE TREE,State Senate,35,R,Richard Wilborn,73
-McPherson,MARQUETTE,State Senate,35,R,Richard Wilborn,258
-McPherson,MCPHERSON,State Senate,35,R,Richard Wilborn,211
-McPherson,MERIDIAN,State Senate,35,R,Richard Wilborn,104
-McPherson,MOUND,State Senate,35,R,Richard Wilborn,579
-McPherson,NEW GOTTLAND,State Senate,35,R,Richard Wilborn,223
-McPherson,SMOKY HILL,State Senate,35,R,Richard Wilborn,134
-McPherson,S SHARPS CREEK,State Senate,35,R,Richard Wilborn,39
-McPherson,SPRING VALLEY,State Senate,35,R,Richard Wilborn,122
-McPherson,SUPERIOR,State Senate,35,R,Richard Wilborn,620
-McPherson,TURKEY CREEK,State Senate,35,R,Richard Wilborn,110
-McPherson,UNION,State Senate,35,R,Richard Wilborn,75
-McPherson,LINDSBORG - 1,State Senate,35,R,Richard Wilborn,209
-McPherson,LINDSRORG - 2,State Senate,35,R,Richard Wilborn,278
-McPherson,LINDSBORG - 3,State Senate,35,R,Richard Wilborn,231
-McPherson,LINDSBORG - 4,State Senate,35,R,Richard Wilborn,233
-McPherson,McPHERSON - 1,State Senate,35,R,Richard Wilborn,2153
-McPherson,McPHERSON - 2,State Senate,35,R,Richard Wilborn,695
-McPherson,McPHERSON - 3,State Senate,35,R,Richard Wilborn,398
-McPherson,McPHERSON - 4,State Senate,35,R,Richard Wilborn,889
-McPherson,BATTLE HILL,State Senate,35,D,Levi Morris,13
-McPherson,BONAVILLE,State Senate,35,D,Levi Morris,3
-McPherson,CANTON,State Senate,35,D,Levi Morris,81
-McPherson,CASTLE,State Senate,35,D,Levi Morris,23
-McPherson,DELMORE,State Senate,35,D,Levi Morris,16
-McPherson,EMPIRE,State Senate,35,D,Levi Morris,89
-McPherson,GROVELAND,State Senate,35,D,Levi Morris,17
-McPherson,GYPSUM CREEK,State Senate,35,D,Levi Morris,19
-McPherson,HARPER,State Senate,35,D,Levi Morris,11
-McPherson,HAVES,State Senate,35,D,Levi Morris,28
-McPherson,JACKSON,State Senate,35,D,Levi Morris,29
-McPherson,KING CITY,State Senate,35,D,Levi Morris,56
-McPherson,LITTLE VALLEY,State Senate,35,D,Levi Morris,29
-McPherson,LONE TREE,State Senate,35,D,Levi Morris,23
-McPherson,MARQUETTE,State Senate,35,D,Levi Morris,103
-McPherson,MCPHERSON,State Senate,35,D,Levi Morris,72
-McPherson,MERIDIAN,State Senate,35,D,Levi Morris,20
-McPherson,MOUND,State Senate,35,D,Levi Morris,242
-McPherson,NEW GOTTLAND,State Senate,35,D,Levi Morris,35
-McPherson,SMOKY HILL,State Senate,35,D,Levi Morris,46
-McPherson,S SHARPS CREEK,State Senate,35,D,Levi Morris,6
-McPherson,SPRING VALLEY,State Senate,35,D,Levi Morris,25
-McPherson,SUPERIOR,State Senate,35,D,Levi Morris,121
-McPherson,TURKEY CREEK,State Senate,35,D,Levi Morris,30
-McPherson,UNION,State Senate,35,D,Levi Morris,21
-McPherson,LINDSBORG - 1,State Senate,35,D,Levi Morris,130
-McPherson,LINDSRORG - 2,State Senate,35,D,Levi Morris,208
-McPherson,LINDSBORG - 3,State Senate,35,D,Levi Morris,145
-McPherson,LINDSBORG - 4,State Senate,35,D,Levi Morris,152
-McPherson,McPHERSON - 1,State Senate,35,D,Levi Morris,822
-McPherson,McPHERSON - 2,State Senate,35,D,Levi Morris,235
-McPherson,McPHERSON - 3,State Senate,35,D,Levi Morris,135
-McPherson,McPHERSON - 4,State Senate,35,D,Levi Morris,284
-McPherson,BATTLE HILL,State House,73,D,Terrance J. Krier,18
-McPherson,BONAVILLE,State House,73,D,Terrance J. Krier,7
-McPherson,CANTON,State House,73,D,Terrance J. Krier,110
-McPherson,CASTLE,State House,73,D,Terrance J. Krier,23
-McPherson,DELMORE,State House,73,D,Terrance J. Krier,21
-McPherson,EMPIRE,State House,73,D,Terrance J. Krier,130
-McPherson,GROVELAND,State House,73,D,Terrance J. Krier,21
-McPherson,GYPSUM CREEK,State House,73,D,Terrance J. Krier,17
-McPherson,HARPER,State House,73,D,Terrance J. Krier,15
-McPherson,HAVES,State House,73,D,Terrance J. Krier,26
-McPherson,JACKSON,State House,73,D,Terrance J. Krier,35
-McPherson,KING CITY,State House,73,D,Terrance J. Krier,76
-McPherson,LITTLE VALLEY,State House,73,D,Terrance J. Krier,27
-McPherson,LONE TREE,State House,73,D,Terrance J. Krier,27
-McPherson,MARQUETTE,State House,73,D,Terrance J. Krier,108
-McPherson,MCPHERSON,State House,73,D,Terrance J. Krier,86
-McPherson,NEW GOTTLAND,State House,73,D,Terrance J. Krier,52
-McPherson,S SHARPS CREEK,State House,73,D,Terrance J. Krier,13
-McPherson,SPRING VALLEY,State House,73,D,Terrance J. Krier,26
-McPherson,SUPERIOR,State House,73,D,Terrance J. Krier,144
-McPherson,TURKEY CREEK,State House,73,D,Terrance J. Krier,30
-McPherson,UNION,State House,73,D,Terrance J. Krier,22
-McPherson,McPHERSON - 1,State House,73,D,Terrance J. Krier,1086
-McPherson,McPHERSON - 2,State House,73,D,Terrance J. Krier,303
-McPherson,McPHERSON - 3,State House,73,D,Terrance J. Krier,166
-McPherson,McPHERSON - 4,State House,73,D,Terrance J. Krier,387
-McPherson,BATTLE HILL,State House,73,R,Les Mason,31
-McPherson,BONAVILLE,State House,73,R,Les Mason,36
-McPherson,CANTON,State House,73,R,Les Mason,259
-McPherson,CASTLE,State House,73,R,Les Mason,58
-McPherson,DELMORE,State House,73,R,Les Mason,62
-McPherson,EMPIRE,State House,73,R,Les Mason,369
-McPherson,GROVELAND,State House,73,R,Les Mason,73
-McPherson,GYPSUM CREEK,State House,73,R,Les Mason,76
-McPherson,HARPER,State House,73,R,Les Mason,61
-McPherson,HAVES,State House,73,R,Les Mason,88
-McPherson,JACKSON,State House,73,R,Les Mason,65
-McPherson,KING CITY,State House,73,R,Les Mason,197
-McPherson,LITTLE VALLEY,State House,73,R,Les Mason,177
-McPherson,LONE TREE,State House,73,R,Les Mason,69
-McPherson,MARQUETTE,State House,73,R,Les Mason,246
-McPherson,MCPHERSON,State House,73,R,Les Mason,198
-McPherson,NEW GOTTLAND,State House,73,R,Les Mason,199
-McPherson,S SHARPS CREEK,State House,73,R,Les Mason,33
-McPherson,SPRING VALLEY,State House,73,R,Les Mason,118
-McPherson,SUPERIOR,State House,73,R,Les Mason,585
-McPherson,TURKEY CREEK,State House,73,R,Les Mason,106
-McPherson,UNION,State House,73,R,Les Mason,73
-McPherson,McPHERSON - 1,State House,73,R,Les Mason,1876
-McPherson,McPHERSON - 2,State House,73,R,Les Mason,620
-McPherson,McPHERSON - 3,State House,73,R,Les Mason,363
-McPherson,McPHERSON - 4,State House,73,R,Les Mason,780
-McPherson,MERIDIAN,State House,74,R,Don Schroeder,116
-McPherson,MOUND,State House,74,R,Don Schroeder,716
-McPherson,SMOKY HILL,State House,108,R,Steven Johnson,125
-McPherson,LINDSBORG - 1,State House,108,R,Steven Johnson,168
-McPherson,LINDSRORG - 2,State House,108,R,Steven Johnson,231
-McPherson,LINDSBORG - 3,State House,108,R,Steven Johnson,187
-McPherson,LINDSBORG - 4,State House,108,R,Steven Johnson,195
-McPherson,SMOKY HILL,State House,108,D,Kelley Menke,57
-McPherson,LINDSBORG - 1,State House,108,D,Kelley Menke,176
-McPherson,LINDSRORG - 2,State House,108,D,Kelley Menke,261
-McPherson,LINDSBORG - 3,State House,108,D,Kelley Menke,194
-McPherson,LINDSBORG - 4,State House,108,D,Kelley Menke,201
+county,precinct,office,district,party,candidate,votes,vtd
+MCPHERSON,Battle Hill Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",18,000010
+MCPHERSON,Battle Hill Township,Kansas House of Representatives,73,Republican,"Mason, Les",31,000010
+MCPHERSON,Bonaville Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",7,000020
+MCPHERSON,Bonaville Township,Kansas House of Representatives,73,Republican,"Mason, Les",36,000020
+MCPHERSON,Canton Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",110,000030
+MCPHERSON,Canton Township,Kansas House of Representatives,73,Republican,"Mason, Les",259,000030
+MCPHERSON,Castle Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",23,000040
+MCPHERSON,Castle Township,Kansas House of Representatives,73,Republican,"Mason, Les",58,000040
+MCPHERSON,Delmore Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",21,000050
+MCPHERSON,Delmore Township,Kansas House of Representatives,73,Republican,"Mason, Les",62,000050
+MCPHERSON,Empire Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",130,000060
+MCPHERSON,Empire Township,Kansas House of Representatives,73,Republican,"Mason, Les",369,000060
+MCPHERSON,Groveland Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",21,000070
+MCPHERSON,Groveland Township,Kansas House of Representatives,73,Republican,"Mason, Les",73,000070
+MCPHERSON,Gypsum Creek Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",17,000080
+MCPHERSON,Gypsum Creek Township,Kansas House of Representatives,73,Republican,"Mason, Les",76,000080
+MCPHERSON,Harper Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",15,000090
+MCPHERSON,Harper Township,Kansas House of Representatives,73,Republican,"Mason, Les",61,000090
+MCPHERSON,Hayes Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",26,000100
+MCPHERSON,Hayes Township,Kansas House of Representatives,73,Republican,"Mason, Les",88,000100
+MCPHERSON,Jackson Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",35,000110
+MCPHERSON,Jackson Township,Kansas House of Representatives,73,Republican,"Mason, Les",65,000110
+MCPHERSON,King City Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",76,000120
+MCPHERSON,King City Township,Kansas House of Representatives,73,Republican,"Mason, Les",197,000120
+MCPHERSON,Lindsborg Ward 1,Kansas House of Representatives,108,Democratic,"Menke, Kelley",176,000130
+MCPHERSON,Lindsborg Ward 1,Kansas House of Representatives,108,Republican,"Johnson, Steven",168,000130
+MCPHERSON,Lindsborg Ward 2,Kansas House of Representatives,108,Democratic,"Menke, Kelley",261,000140
+MCPHERSON,Lindsborg Ward 2,Kansas House of Representatives,108,Republican,"Johnson, Steven",231,000140
+MCPHERSON,Lindsborg Ward 3,Kansas House of Representatives,108,Democratic,"Menke, Kelley",194,000150
+MCPHERSON,Lindsborg Ward 3,Kansas House of Representatives,108,Republican,"Johnson, Steven",187,000150
+MCPHERSON,Lindsborg Ward 4,Kansas House of Representatives,108,Democratic,"Menke, Kelley",201,000160
+MCPHERSON,Lindsborg Ward 4,Kansas House of Representatives,108,Republican,"Johnson, Steven",195,000160
+MCPHERSON,Little Valley Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",27,000170
+MCPHERSON,Little Valley Township,Kansas House of Representatives,73,Republican,"Mason, Les",177,000170
+MCPHERSON,Lone Tree Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",27,000180
+MCPHERSON,Lone Tree Township,Kansas House of Representatives,73,Republican,"Mason, Les",69,000180
+MCPHERSON,Marquette Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",108,000190
+MCPHERSON,Marquette Township,Kansas House of Representatives,73,Republican,"Mason, Les",246,000190
+MCPHERSON,McPherson Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",86,000200
+MCPHERSON,McPherson Township,Kansas House of Representatives,73,Republican,"Mason, Les",198,000200
+MCPHERSON,Meridian Township,Kansas House of Representatives,74,Republican,"Schroeder, Don",116,000290
+MCPHERSON,Mound Township,Kansas House of Representatives,74,Republican,"Schroeder, Don",716,000300
+MCPHERSON,New Gottland Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",52,000310
+MCPHERSON,New Gottland Township,Kansas House of Representatives,73,Republican,"Mason, Les",199,000310
+MCPHERSON,Smoky Hill Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",57,000320
+MCPHERSON,Smoky Hill Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",125,000320
+MCPHERSON,South Sharps Creek Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",13,000330
+MCPHERSON,South Sharps Creek Township,Kansas House of Representatives,73,Republican,"Mason, Les",33,000330
+MCPHERSON,Spring Valley Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",26,000340
+MCPHERSON,Spring Valley Township,Kansas House of Representatives,73,Republican,"Mason, Les",118,000340
+MCPHERSON,Superior Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",144,000350
+MCPHERSON,Superior Township,Kansas House of Representatives,73,Republican,"Mason, Les",585,000350
+MCPHERSON,Turkey Creek Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",30,000360
+MCPHERSON,Turkey Creek Township,Kansas House of Representatives,73,Republican,"Mason, Les",106,000360
+MCPHERSON,Union Township,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",22,000370
+MCPHERSON,Union Township,Kansas House of Representatives,73,Republican,"Mason, Les",73,000370
+MCPHERSON,McPherson Ward 2,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",303,900020
+MCPHERSON,McPherson Ward 2,Kansas House of Representatives,73,Republican,"Mason, Les",620,900020
+MCPHERSON,McPherson Ward 3 Part A,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",166,900030
+MCPHERSON,McPherson Ward 3 Part A,Kansas House of Representatives,73,Republican,"Mason, Les",363,900030
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",387,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,Kansas House of Representatives,73,Republican,"Mason, Les",780,900040
+MCPHERSON,McPherson Ward 1 Exclave,Kansas House of Representatives,73,Democratic,"Krier, Terrance J.",1086,900050
+MCPHERSON,McPherson Ward 1 Exclave,Kansas House of Representatives,73,Republican,"Mason, Les",1876,900050
+MCPHERSON,Battle Hill Township,Kansas Senate,35,Democratic,"Morris, Levi",13,000010
+MCPHERSON,Battle Hill Township,Kansas Senate,35,Republican,"Wilborn, Richard",39,000010
+MCPHERSON,Bonaville Township,Kansas Senate,35,Democratic,"Morris, Levi",3,000020
+MCPHERSON,Bonaville Township,Kansas Senate,35,Republican,"Wilborn, Richard",41,000020
+MCPHERSON,Canton Township,Kansas Senate,35,Democratic,"Morris, Levi",81,000030
+MCPHERSON,Canton Township,Kansas Senate,35,Republican,"Wilborn, Richard",296,000030
+MCPHERSON,Castle Township,Kansas Senate,35,Democratic,"Morris, Levi",23,000040
+MCPHERSON,Castle Township,Kansas Senate,35,Republican,"Wilborn, Richard",57,000040
+MCPHERSON,Delmore Township,Kansas Senate,35,Democratic,"Morris, Levi",16,000050
+MCPHERSON,Delmore Township,Kansas Senate,35,Republican,"Wilborn, Richard",66,000050
+MCPHERSON,Empire Township,Kansas Senate,35,Democratic,"Morris, Levi",89,000060
+MCPHERSON,Empire Township,Kansas Senate,35,Republican,"Wilborn, Richard",409,000060
+MCPHERSON,Groveland Township,Kansas Senate,35,Democratic,"Morris, Levi",17,000070
+MCPHERSON,Groveland Township,Kansas Senate,35,Republican,"Wilborn, Richard",80,000070
+MCPHERSON,Gypsum Creek Township,Kansas Senate,35,Democratic,"Morris, Levi",19,000080
+MCPHERSON,Gypsum Creek Township,Kansas Senate,35,Republican,"Wilborn, Richard",73,000080
+MCPHERSON,Harper Township,Kansas Senate,35,Democratic,"Morris, Levi",11,000090
+MCPHERSON,Harper Township,Kansas Senate,35,Republican,"Wilborn, Richard",69,000090
+MCPHERSON,Hayes Township,Kansas Senate,35,Democratic,"Morris, Levi",28,000100
+MCPHERSON,Hayes Township,Kansas Senate,35,Republican,"Wilborn, Richard",88,000100
+MCPHERSON,Jackson Township,Kansas Senate,35,Democratic,"Morris, Levi",29,000110
+MCPHERSON,Jackson Township,Kansas Senate,35,Republican,"Wilborn, Richard",72,000110
+MCPHERSON,King City Township,Kansas Senate,35,Democratic,"Morris, Levi",56,000120
+MCPHERSON,King City Township,Kansas Senate,35,Republican,"Wilborn, Richard",217,000120
+MCPHERSON,Lindsborg Ward 1,Kansas Senate,35,Democratic,"Morris, Levi",130,000130
+MCPHERSON,Lindsborg Ward 1,Kansas Senate,35,Republican,"Wilborn, Richard",209,000130
+MCPHERSON,Lindsborg Ward 2,Kansas Senate,35,Democratic,"Morris, Levi",208,000140
+MCPHERSON,Lindsborg Ward 2,Kansas Senate,35,Republican,"Wilborn, Richard",278,000140
+MCPHERSON,Lindsborg Ward 3,Kansas Senate,35,Democratic,"Morris, Levi",145,000150
+MCPHERSON,Lindsborg Ward 3,Kansas Senate,35,Republican,"Wilborn, Richard",231,000150
+MCPHERSON,Lindsborg Ward 4,Kansas Senate,35,Democratic,"Morris, Levi",152,000160
+MCPHERSON,Lindsborg Ward 4,Kansas Senate,35,Republican,"Wilborn, Richard",233,000160
+MCPHERSON,Little Valley Township,Kansas Senate,35,Democratic,"Morris, Levi",29,000170
+MCPHERSON,Little Valley Township,Kansas Senate,35,Republican,"Wilborn, Richard",178,000170
+MCPHERSON,Lone Tree Township,Kansas Senate,35,Democratic,"Morris, Levi",23,000180
+MCPHERSON,Lone Tree Township,Kansas Senate,35,Republican,"Wilborn, Richard",73,000180
+MCPHERSON,Marquette Township,Kansas Senate,35,Democratic,"Morris, Levi",103,000190
+MCPHERSON,Marquette Township,Kansas Senate,35,Republican,"Wilborn, Richard",258,000190
+MCPHERSON,McPherson Township,Kansas Senate,35,Democratic,"Morris, Levi",72,000200
+MCPHERSON,McPherson Township,Kansas Senate,35,Republican,"Wilborn, Richard",211,000200
+MCPHERSON,Meridian Township,Kansas Senate,35,Democratic,"Morris, Levi",20,000290
+MCPHERSON,Meridian Township,Kansas Senate,35,Republican,"Wilborn, Richard",104,000290
+MCPHERSON,Mound Township,Kansas Senate,35,Democratic,"Morris, Levi",242,000300
+MCPHERSON,Mound Township,Kansas Senate,35,Republican,"Wilborn, Richard",579,000300
+MCPHERSON,New Gottland Township,Kansas Senate,35,Democratic,"Morris, Levi",35,000310
+MCPHERSON,New Gottland Township,Kansas Senate,35,Republican,"Wilborn, Richard",223,000310
+MCPHERSON,Smoky Hill Township,Kansas Senate,35,Democratic,"Morris, Levi",46,000320
+MCPHERSON,Smoky Hill Township,Kansas Senate,35,Republican,"Wilborn, Richard",134,000320
+MCPHERSON,South Sharps Creek Township,Kansas Senate,35,Democratic,"Morris, Levi",6,000330
+MCPHERSON,South Sharps Creek Township,Kansas Senate,35,Republican,"Wilborn, Richard",39,000330
+MCPHERSON,Spring Valley Township,Kansas Senate,35,Democratic,"Morris, Levi",25,000340
+MCPHERSON,Spring Valley Township,Kansas Senate,35,Republican,"Wilborn, Richard",122,000340
+MCPHERSON,Superior Township,Kansas Senate,35,Democratic,"Morris, Levi",121,000350
+MCPHERSON,Superior Township,Kansas Senate,35,Republican,"Wilborn, Richard",620,000350
+MCPHERSON,Turkey Creek Township,Kansas Senate,35,Democratic,"Morris, Levi",30,000360
+MCPHERSON,Turkey Creek Township,Kansas Senate,35,Republican,"Wilborn, Richard",110,000360
+MCPHERSON,Union Township,Kansas Senate,35,Democratic,"Morris, Levi",21,000370
+MCPHERSON,Union Township,Kansas Senate,35,Republican,"Wilborn, Richard",75,000370
+MCPHERSON,McPherson Ward 2,Kansas Senate,35,Democratic,"Morris, Levi",235,900020
+MCPHERSON,McPherson Ward 2,Kansas Senate,35,Republican,"Wilborn, Richard",695,900020
+MCPHERSON,McPherson Ward 3 Part A,Kansas Senate,35,Democratic,"Morris, Levi",135,900030
+MCPHERSON,McPherson Ward 3 Part A,Kansas Senate,35,Republican,"Wilborn, Richard",398,900030
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,Kansas Senate,35,Democratic,"Morris, Levi",284,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,Kansas Senate,35,Republican,"Wilborn, Richard",889,900040
+MCPHERSON,McPherson Ward 1 Exclave,Kansas Senate,35,Democratic,"Morris, Levi",822,900050
+MCPHERSON,McPherson Ward 1 Exclave,Kansas Senate,35,Republican,"Wilborn, Richard",2153,900050
+MCPHERSON,Battle Hill Township,President / Vice President,,independent,"Stein, Jill",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+MCPHERSON,Battle Hill Township,President / Vice President,,Republican,"Trump, Donald J.",37,000010
+MCPHERSON,Bonaville Township,President / Vice President,,independent,"Stein, Jill",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"McMullin, Evan",1,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000020
+MCPHERSON,Bonaville Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+MCPHERSON,Bonaville Township,President / Vice President,,Republican,"Trump, Donald J.",40,000020
+MCPHERSON,Canton Township,President / Vice President,,independent,"Stein, Jill",4,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"McMullin, Evan",1,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+MCPHERSON,Canton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+MCPHERSON,Canton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",70,000030
+MCPHERSON,Canton Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000030
+MCPHERSON,Canton Township,President / Vice President,,Republican,"Trump, Donald J.",296,000030
+MCPHERSON,Castle Township,President / Vice President,,independent,"Stein, Jill",2,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+MCPHERSON,Castle Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+MCPHERSON,Castle Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000040
+MCPHERSON,Castle Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000040
+MCPHERSON,Castle Township,President / Vice President,,Republican,"Trump, Donald J.",55,000040
+MCPHERSON,Delmore Township,President / Vice President,,independent,"Stein, Jill",4,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"McMullin, Evan",2,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+MCPHERSON,Delmore Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000050
+MCPHERSON,Delmore Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000050
+MCPHERSON,Delmore Township,President / Vice President,,Republican,"Trump, Donald J.",64,000050
+MCPHERSON,Empire Township,President / Vice President,,independent,"Stein, Jill",7,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+MCPHERSON,Empire Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+MCPHERSON,Empire Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",74,000060
+MCPHERSON,Empire Township,President / Vice President,,Libertarian,"Johnson, Gary",27,000060
+MCPHERSON,Empire Township,President / Vice President,,Republican,"Trump, Donald J.",409,000060
+MCPHERSON,Groveland Township,President / Vice President,,independent,"Stein, Jill",4,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+MCPHERSON,Groveland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000070
+MCPHERSON,Groveland Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000070
+MCPHERSON,Groveland Township,President / Vice President,,Republican,"Trump, Donald J.",73,000070
+MCPHERSON,Gypsum Creek Township,President / Vice President,,independent,"Stein, Jill",2,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"McMullin, Evan",2,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",16,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000080
+MCPHERSON,Gypsum Creek Township,President / Vice President,,Republican,"Trump, Donald J.",70,000080
+MCPHERSON,Harper Township,President / Vice President,,independent,"Stein, Jill",1,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+MCPHERSON,Harper Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+MCPHERSON,Harper Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000090
+MCPHERSON,Harper Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000090
+MCPHERSON,Harper Township,President / Vice President,,Republican,"Trump, Donald J.",65,000090
+MCPHERSON,Hayes Township,President / Vice President,,independent,"Stein, Jill",3,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+MCPHERSON,Hayes Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000100
+MCPHERSON,Hayes Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+MCPHERSON,Hayes Township,President / Vice President,,Republican,"Trump, Donald J.",95,000100
+MCPHERSON,Jackson Township,President / Vice President,,independent,"Stein, Jill",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+MCPHERSON,Jackson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000110
+MCPHERSON,Jackson Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000110
+MCPHERSON,Jackson Township,President / Vice President,,Republican,"Trump, Donald J.",71,000110
+MCPHERSON,King City Township,President / Vice President,,independent,"Stein, Jill",9,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+MCPHERSON,King City Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+MCPHERSON,King City Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",56,000120
+MCPHERSON,King City Township,President / Vice President,,Libertarian,"Johnson, Gary",16,000120
+MCPHERSON,King City Township,President / Vice President,,Republican,"Trump, Donald J.",197,000120
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,independent,"Stein, Jill",10,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"McMullin, Evan",3,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",140,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",12,000130
+MCPHERSON,Lindsborg Ward 1,President / Vice President,,Republican,"Trump, Donald J.",178,000130
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,independent,"Stein, Jill",12,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",209,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",27,000140
+MCPHERSON,Lindsborg Ward 2,President / Vice President,,Republican,"Trump, Donald J.",241,000140
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,independent,"Stein, Jill",6,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"McMullin, Evan",4,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",161,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",16,000150
+MCPHERSON,Lindsborg Ward 3,President / Vice President,,Republican,"Trump, Donald J.",188,000150
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,independent,"Stein, Jill",8,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"McMullin, Evan",2,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",154,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",19,000160
+MCPHERSON,Lindsborg Ward 4,President / Vice President,,Republican,"Trump, Donald J.",208,000160
+MCPHERSON,Little Valley Township,President / Vice President,,independent,"Stein, Jill",1,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+MCPHERSON,Little Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",30,000170
+MCPHERSON,Little Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000170
+MCPHERSON,Little Valley Township,President / Vice President,,Republican,"Trump, Donald J.",171,000170
+MCPHERSON,Lone Tree Township,President / Vice President,,independent,"Stein, Jill",2,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000180
+MCPHERSON,Lone Tree Township,President / Vice President,,Republican,"Trump, Donald J.",64,000180
+MCPHERSON,Marquette Township,President / Vice President,,independent,"Stein, Jill",9,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"McMullin, Evan",3,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+MCPHERSON,Marquette Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",83,000190
+MCPHERSON,Marquette Township,President / Vice President,,Libertarian,"Johnson, Gary",18,000190
+MCPHERSON,Marquette Township,President / Vice President,,Republican,"Trump, Donald J.",250,000190
+MCPHERSON,McPherson Township,President / Vice President,,independent,"Stein, Jill",3,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"McMullin, Evan",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+MCPHERSON,McPherson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",66,000200
+MCPHERSON,McPherson Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000200
+MCPHERSON,McPherson Township,President / Vice President,,Republican,"Trump, Donald J.",204,000200
+MCPHERSON,Meridian Township,President / Vice President,,independent,"Stein, Jill",4,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Castle, Darrell L",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Giordani, Rocky",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Hedges, James A",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Kahn, Lynn",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"La Riva, Gloria",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Maturen, Michael A",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"McMullin, Evan",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Perry, Darryl",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Schriner, Joe C",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Smith, Mike",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Sood, Ajay",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Sterling, Shawna",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000290
+MCPHERSON,Meridian Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000290
+MCPHERSON,Meridian Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000290
+MCPHERSON,Meridian Township,President / Vice President,,Republican,"Trump, Donald J.",81,000290
+MCPHERSON,Mound Township,President / Vice President,,independent,"Stein, Jill",35,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Castle, Darrell L",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Giordani, Rocky",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Hedges, James A",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Kahn, Lynn",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"La Riva, Gloria",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Maturen, Michael A",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"McMullin, Evan",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Perry, Darryl",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Schriner, Joe C",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Smith, Mike",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Sood, Ajay",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Sterling, Shawna",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000300
+MCPHERSON,Mound Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000300
+MCPHERSON,Mound Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",238,000300
+MCPHERSON,Mound Township,President / Vice President,,Libertarian,"Johnson, Gary",36,000300
+MCPHERSON,Mound Township,President / Vice President,,Republican,"Trump, Donald J.",533,000300
+MCPHERSON,New Gottland Township,President / Vice President,,independent,"Stein, Jill",3,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Hedges, James A",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"McMullin, Evan",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Perry, Darryl",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Smith, Mike",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Sood, Ajay",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000310
+MCPHERSON,New Gottland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",44,000310
+MCPHERSON,New Gottland Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000310
+MCPHERSON,New Gottland Township,President / Vice President,,Republican,"Trump, Donald J.",209,000310
+MCPHERSON,Smoky Hill Township,President / Vice President,,independent,"Stein, Jill",2,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Castle, Darrell L",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Giordani, Rocky",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Hedges, James A",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Kahn, Lynn",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"La Riva, Gloria",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Maturen, Michael A",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"McMullin, Evan",1,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Perry, Darryl",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Schriner, Joe C",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Smith, Mike",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Sood, Ajay",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Sterling, Shawna",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",42,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000320
+MCPHERSON,Smoky Hill Township,President / Vice President,,Republican,"Trump, Donald J.",124,000320
+MCPHERSON,South Sharps Creek Township,President / Vice President,,independent,"Stein, Jill",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000330
+MCPHERSON,South Sharps Creek Township,President / Vice President,,Republican,"Trump, Donald J.",41,000330
+MCPHERSON,Spring Valley Township,President / Vice President,,independent,"Stein, Jill",4,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",22,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000340
+MCPHERSON,Spring Valley Township,President / Vice President,,Republican,"Trump, Donald J.",113,000340
+MCPHERSON,Superior Township,President / Vice President,,independent,"Stein, Jill",16,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Castle, Darrell L",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Giordani, Rocky",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Hedges, James A",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Hoefling, Tom",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Kahn, Lynn",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"La Riva, Gloria",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Maturen, Michael A",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"McMullin, Evan",2,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Perry, Darryl",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Schriner, Joe C",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Smith, Mike",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Sood, Ajay",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Sterling, Shawna",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000350
+MCPHERSON,Superior Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000350
+MCPHERSON,Superior Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",110,000350
+MCPHERSON,Superior Township,President / Vice President,,Libertarian,"Johnson, Gary",30,000350
+MCPHERSON,Superior Township,President / Vice President,,Republican,"Trump, Donald J.",577,000350
+MCPHERSON,Turkey Creek Township,President / Vice President,,independent,"Stein, Jill",3,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",30,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000360
+MCPHERSON,Turkey Creek Township,President / Vice President,,Republican,"Trump, Donald J.",105,000360
+MCPHERSON,Union Township,President / Vice President,,independent,"Stein, Jill",1,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000370
+MCPHERSON,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000370
+MCPHERSON,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000370
+MCPHERSON,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000370
+MCPHERSON,Union Township,President / Vice President,,Republican,"Trump, Donald J.",71,000370
+MCPHERSON,McPherson Ward 2,President / Vice President,,independent,"Stein, Jill",18,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Hedges, James A",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"McMullin, Evan",13,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Smith, Mike",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",231,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",39,900020
+MCPHERSON,McPherson Ward 2,President / Vice President,,Republican,"Trump, Donald J.",638,900020
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,independent,"Stein, Jill",17,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Hedges, James A",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"McMullin, Evan",26,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Perry, Darryl",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Smith, Mike",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Sood, Ajay",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",121,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,Libertarian,"Johnson, Gary",26,900030
+MCPHERSON,McPherson Ward 3 Part A,President / Vice President,,Republican,"Trump, Donald J.",364,900030
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,independent,"Stein, Jill",34,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Castle, Darrell L",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Giordani, Rocky",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Hedges, James A",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Hoefling, Tom",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Kahn, Lynn",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"La Riva, Gloria",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Maturen, Michael A",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"McMullin, Evan",14,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Perry, Darryl",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Schriner, Joe C",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Smith, Mike",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Sood, Ajay",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Sterling, Shawna",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",272,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,Libertarian,"Johnson, Gary",71,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,President / Vice President,,Republican,"Trump, Donald J.",807,900040
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,independent,"Stein, Jill",71,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Hedges, James A",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"McMullin, Evan",24,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Smith, Mike",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",859,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",128,900050
+MCPHERSON,McPherson Ward 1 Exclave,President / Vice President,,Republican,"Trump, Donald J.",1910,900050
+MCPHERSON,Battle Hill Township,United States House of Representatives,1,independent,"LaPolice, Alan",16,000010
+MCPHERSON,Battle Hill Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+MCPHERSON,Battle Hill Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000010
+MCPHERSON,Battle Hill Township,United States House of Representatives,1,Republican,"Marshall, Roger",34,000010
+MCPHERSON,Bonaville Township,United States House of Representatives,1,independent,"LaPolice, Alan",7,000020
+MCPHERSON,Bonaville Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+MCPHERSON,Bonaville Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000020
+MCPHERSON,Bonaville Township,United States House of Representatives,1,Republican,"Marshall, Roger",32,000020
+MCPHERSON,Canton Township,United States House of Representatives,1,independent,"LaPolice, Alan",86,000030
+MCPHERSON,Canton Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+MCPHERSON,Canton Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",18,000030
+MCPHERSON,Canton Township,United States House of Representatives,1,Republican,"Marshall, Roger",269,000030
+MCPHERSON,Castle Township,United States House of Representatives,1,independent,"LaPolice, Alan",19,000040
+MCPHERSON,Castle Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+MCPHERSON,Castle Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",11,000040
+MCPHERSON,Castle Township,United States House of Representatives,1,Republican,"Marshall, Roger",51,000040
+MCPHERSON,Delmore Township,United States House of Representatives,1,independent,"LaPolice, Alan",25,000050
+MCPHERSON,Delmore Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+MCPHERSON,Delmore Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000050
+MCPHERSON,Delmore Township,United States House of Representatives,1,Republican,"Marshall, Roger",58,000050
+MCPHERSON,Empire Township,United States House of Representatives,1,independent,"LaPolice, Alan",115,000060
+MCPHERSON,Empire Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+MCPHERSON,Empire Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",27,000060
+MCPHERSON,Empire Township,United States House of Representatives,1,Republican,"Marshall, Roger",360,000060
+MCPHERSON,Groveland Township,United States House of Representatives,1,independent,"LaPolice, Alan",20,000070
+MCPHERSON,Groveland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+MCPHERSON,Groveland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000070
+MCPHERSON,Groveland Township,United States House of Representatives,1,Republican,"Marshall, Roger",75,000070
+MCPHERSON,Gypsum Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",19,000080
+MCPHERSON,Gypsum Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+MCPHERSON,Gypsum Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000080
+MCPHERSON,Gypsum Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",70,000080
+MCPHERSON,Harper Township,United States House of Representatives,1,independent,"LaPolice, Alan",23,000090
+MCPHERSON,Harper Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+MCPHERSON,Harper Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000090
+MCPHERSON,Harper Township,United States House of Representatives,1,Republican,"Marshall, Roger",49,000090
+MCPHERSON,Hayes Township,United States House of Representatives,1,independent,"LaPolice, Alan",33,000100
+MCPHERSON,Hayes Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+MCPHERSON,Hayes Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000100
+MCPHERSON,Hayes Township,United States House of Representatives,1,Republican,"Marshall, Roger",75,000100
+MCPHERSON,Jackson Township,United States House of Representatives,1,independent,"LaPolice, Alan",26,000110
+MCPHERSON,Jackson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000110
+MCPHERSON,Jackson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000110
+MCPHERSON,Jackson Township,United States House of Representatives,1,Republican,"Marshall, Roger",70,000110
+MCPHERSON,King City Township,United States House of Representatives,1,independent,"LaPolice, Alan",70,000120
+MCPHERSON,King City Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+MCPHERSON,King City Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",12,000120
+MCPHERSON,King City Township,United States House of Representatives,1,Republican,"Marshall, Roger",183,000120
+MCPHERSON,Lindsborg Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",161,000130
+MCPHERSON,Lindsborg Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+MCPHERSON,Lindsborg Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",11,000130
+MCPHERSON,Lindsborg Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",170,000130
+MCPHERSON,Lindsborg Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",216,000140
+MCPHERSON,Lindsborg Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+MCPHERSON,Lindsborg Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",22,000140
+MCPHERSON,Lindsborg Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",241,000140
+MCPHERSON,Lindsborg Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",149,000150
+MCPHERSON,Lindsborg Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+MCPHERSON,Lindsborg Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",31,000150
+MCPHERSON,Lindsborg Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",198,000150
+MCPHERSON,Lindsborg Ward 4,United States House of Representatives,1,independent,"LaPolice, Alan",181,000160
+MCPHERSON,Lindsborg Ward 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+MCPHERSON,Lindsborg Ward 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",34,000160
+MCPHERSON,Lindsborg Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",173,000160
+MCPHERSON,Little Valley Township,United States House of Representatives,1,independent,"LaPolice, Alan",39,000170
+MCPHERSON,Little Valley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+MCPHERSON,Little Valley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",16,000170
+MCPHERSON,Little Valley Township,United States House of Representatives,1,Republican,"Marshall, Roger",153,000170
+MCPHERSON,Lone Tree Township,United States House of Representatives,1,independent,"LaPolice, Alan",24,000180
+MCPHERSON,Lone Tree Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000180
+MCPHERSON,Lone Tree Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000180
+MCPHERSON,Lone Tree Township,United States House of Representatives,1,Republican,"Marshall, Roger",67,000180
+MCPHERSON,Marquette Township,United States House of Representatives,1,independent,"LaPolice, Alan",119,000190
+MCPHERSON,Marquette Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000190
+MCPHERSON,Marquette Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",18,000190
+MCPHERSON,Marquette Township,United States House of Representatives,1,Republican,"Marshall, Roger",223,000190
+MCPHERSON,McPherson Township,United States House of Representatives,1,independent,"LaPolice, Alan",74,000200
+MCPHERSON,McPherson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+MCPHERSON,McPherson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",15,000200
+MCPHERSON,McPherson Township,United States House of Representatives,1,Republican,"Marshall, Roger",187,000200
+MCPHERSON,Meridian Township,United States House of Representatives,1,independent,"LaPolice, Alan",37,000290
+MCPHERSON,Meridian Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000290
+MCPHERSON,Meridian Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000290
+MCPHERSON,Meridian Township,United States House of Representatives,1,Republican,"Marshall, Roger",82,000290
+MCPHERSON,Mound Township,United States House of Representatives,1,independent,"LaPolice, Alan",222,000300
+MCPHERSON,Mound Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000300
+MCPHERSON,Mound Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",56,000300
+MCPHERSON,Mound Township,United States House of Representatives,1,Republican,"Marshall, Roger",540,000300
+MCPHERSON,New Gottland Township,United States House of Representatives,1,independent,"LaPolice, Alan",58,000310
+MCPHERSON,New Gottland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000310
+MCPHERSON,New Gottland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000310
+MCPHERSON,New Gottland Township,United States House of Representatives,1,Republican,"Marshall, Roger",190,000310
+MCPHERSON,Smoky Hill Township,United States House of Representatives,1,independent,"LaPolice, Alan",57,000320
+MCPHERSON,Smoky Hill Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000320
+MCPHERSON,Smoky Hill Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000320
+MCPHERSON,Smoky Hill Township,United States House of Representatives,1,Republican,"Marshall, Roger",113,000320
+MCPHERSON,South Sharps Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",9,000330
+MCPHERSON,South Sharps Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000330
+MCPHERSON,South Sharps Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000330
+MCPHERSON,South Sharps Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000330
+MCPHERSON,Spring Valley Township,United States House of Representatives,1,independent,"LaPolice, Alan",27,000340
+MCPHERSON,Spring Valley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000340
+MCPHERSON,Spring Valley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000340
+MCPHERSON,Spring Valley Township,United States House of Representatives,1,Republican,"Marshall, Roger",115,000340
+MCPHERSON,Superior Township,United States House of Representatives,1,independent,"LaPolice, Alan",131,000350
+MCPHERSON,Superior Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000350
+MCPHERSON,Superior Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",43,000350
+MCPHERSON,Superior Township,United States House of Representatives,1,Republican,"Marshall, Roger",561,000350
+MCPHERSON,Turkey Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",27,000360
+MCPHERSON,Turkey Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000360
+MCPHERSON,Turkey Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000360
+MCPHERSON,Turkey Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",100,000360
+MCPHERSON,Union Township,United States House of Representatives,1,independent,"LaPolice, Alan",25,000370
+MCPHERSON,Union Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000370
+MCPHERSON,Union Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000370
+MCPHERSON,Union Township,United States House of Representatives,1,Republican,"Marshall, Roger",69,000370
+MCPHERSON,McPherson Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",206,900020
+MCPHERSON,McPherson Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900020
+MCPHERSON,McPherson Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",62,900020
+MCPHERSON,McPherson Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",645,900020
+MCPHERSON,McPherson Ward 3 Part A,United States House of Representatives,1,independent,"LaPolice, Alan",138,900030
+MCPHERSON,McPherson Ward 3 Part A,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900030
+MCPHERSON,McPherson Ward 3 Part A,United States House of Representatives,1,Libertarian,"Burt, Kerry",32,900030
+MCPHERSON,McPherson Ward 3 Part A,United States House of Representatives,1,Republican,"Marshall, Roger",353,900030
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States House of Representatives,1,independent,"LaPolice, Alan",257,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States House of Representatives,1,Libertarian,"Burt, Kerry",88,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States House of Representatives,1,Republican,"Marshall, Roger",812,900040
+MCPHERSON,McPherson Ward 1 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",740,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",74,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",197,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",1987,900050
+MCPHERSON,Battle Hill Township,United States Senate,,write - in,"Smith, DJ",0,000010
+MCPHERSON,Battle Hill Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000010
+MCPHERSON,Battle Hill Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000010
+MCPHERSON,Battle Hill Township,United States Senate,,Republican,"Moran, Jerry",38,000010
+MCPHERSON,Bonaville Township,United States Senate,,write - in,"Smith, DJ",0,000020
+MCPHERSON,Bonaville Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000020
+MCPHERSON,Bonaville Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000020
+MCPHERSON,Bonaville Township,United States Senate,,Republican,"Moran, Jerry",39,000020
+MCPHERSON,Canton Township,United States Senate,,write - in,"Smith, DJ",0,000030
+MCPHERSON,Canton Township,United States Senate,,Democratic,"Wiesner, Patrick",59,000030
+MCPHERSON,Canton Township,United States Senate,,Libertarian,"Garrard, Robert D.",18,000030
+MCPHERSON,Canton Township,United States Senate,,Republican,"Moran, Jerry",304,000030
+MCPHERSON,Castle Township,United States Senate,,write - in,"Smith, DJ",0,000040
+MCPHERSON,Castle Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000040
+MCPHERSON,Castle Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000040
+MCPHERSON,Castle Township,United States Senate,,Republican,"Moran, Jerry",57,000040
+MCPHERSON,Delmore Township,United States Senate,,write - in,"Smith, DJ",0,000050
+MCPHERSON,Delmore Township,United States Senate,,Democratic,"Wiesner, Patrick",13,000050
+MCPHERSON,Delmore Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000050
+MCPHERSON,Delmore Township,United States Senate,,Republican,"Moran, Jerry",69,000050
+MCPHERSON,Empire Township,United States Senate,,write - in,"Smith, DJ",0,000060
+MCPHERSON,Empire Township,United States Senate,,Democratic,"Wiesner, Patrick",62,000060
+MCPHERSON,Empire Township,United States Senate,,Libertarian,"Garrard, Robert D.",29,000060
+MCPHERSON,Empire Township,United States Senate,,Republican,"Moran, Jerry",422,000060
+MCPHERSON,Groveland Township,United States Senate,,write - in,"Smith, DJ",0,000070
+MCPHERSON,Groveland Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000070
+MCPHERSON,Groveland Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000070
+MCPHERSON,Groveland Township,United States Senate,,Republican,"Moran, Jerry",79,000070
+MCPHERSON,Gypsum Creek Township,United States Senate,,write - in,"Smith, DJ",0,000080
+MCPHERSON,Gypsum Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",12,000080
+MCPHERSON,Gypsum Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000080
+MCPHERSON,Gypsum Creek Township,United States Senate,,Republican,"Moran, Jerry",79,000080
+MCPHERSON,Harper Township,United States Senate,,write - in,"Smith, DJ",0,000090
+MCPHERSON,Harper Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000090
+MCPHERSON,Harper Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000090
+MCPHERSON,Harper Township,United States Senate,,Republican,"Moran, Jerry",65,000090
+MCPHERSON,Hayes Township,United States Senate,,write - in,"Smith, DJ",0,000100
+MCPHERSON,Hayes Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000100
+MCPHERSON,Hayes Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000100
+MCPHERSON,Hayes Township,United States Senate,,Republican,"Moran, Jerry",98,000100
+MCPHERSON,Jackson Township,United States Senate,,write - in,"Smith, DJ",0,000110
+MCPHERSON,Jackson Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000110
+MCPHERSON,Jackson Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000110
+MCPHERSON,Jackson Township,United States Senate,,Republican,"Moran, Jerry",81,000110
+MCPHERSON,King City Township,United States Senate,,write - in,"Smith, DJ",0,000120
+MCPHERSON,King City Township,United States Senate,,Democratic,"Wiesner, Patrick",42,000120
+MCPHERSON,King City Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000120
+MCPHERSON,King City Township,United States Senate,,Republican,"Moran, Jerry",224,000120
+MCPHERSON,Lindsborg Ward 1,United States Senate,,write - in,"Smith, DJ",0,000130
+MCPHERSON,Lindsborg Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",113,000130
+MCPHERSON,Lindsborg Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",10,000130
+MCPHERSON,Lindsborg Ward 1,United States Senate,,Republican,"Moran, Jerry",223,000130
+MCPHERSON,Lindsborg Ward 2,United States Senate,,write - in,"Smith, DJ",0,000140
+MCPHERSON,Lindsborg Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",161,000140
+MCPHERSON,Lindsborg Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",19,000140
+MCPHERSON,Lindsborg Ward 2,United States Senate,,Republican,"Moran, Jerry",314,000140
+MCPHERSON,Lindsborg Ward 3,United States Senate,,write - in,"Smith, DJ",0,000150
+MCPHERSON,Lindsborg Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",112,000150
+MCPHERSON,Lindsborg Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",22,000150
+MCPHERSON,Lindsborg Ward 3,United States Senate,,Republican,"Moran, Jerry",252,000150
+MCPHERSON,Lindsborg Ward 4,United States Senate,,write - in,"Smith, DJ",0,000160
+MCPHERSON,Lindsborg Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",135,000160
+MCPHERSON,Lindsborg Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",28,000160
+MCPHERSON,Lindsborg Ward 4,United States Senate,,Republican,"Moran, Jerry",232,000160
+MCPHERSON,Little Valley Township,United States Senate,,write - in,"Smith, DJ",0,000170
+MCPHERSON,Little Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",21,000170
+MCPHERSON,Little Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000170
+MCPHERSON,Little Valley Township,United States Senate,,Republican,"Moran, Jerry",185,000170
+MCPHERSON,Lone Tree Township,United States Senate,,write - in,"Smith, DJ",0,000180
+MCPHERSON,Lone Tree Township,United States Senate,,Democratic,"Wiesner, Patrick",21,000180
+MCPHERSON,Lone Tree Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000180
+MCPHERSON,Lone Tree Township,United States Senate,,Republican,"Moran, Jerry",76,000180
+MCPHERSON,Marquette Township,United States Senate,,write - in,"Smith, DJ",0,000190
+MCPHERSON,Marquette Township,United States Senate,,Democratic,"Wiesner, Patrick",83,000190
+MCPHERSON,Marquette Township,United States Senate,,Libertarian,"Garrard, Robert D.",18,000190
+MCPHERSON,Marquette Township,United States Senate,,Republican,"Moran, Jerry",260,000190
+MCPHERSON,McPherson Township,United States Senate,,write - in,"Smith, DJ",0,000200
+MCPHERSON,McPherson Township,United States Senate,,Democratic,"Wiesner, Patrick",49,000200
+MCPHERSON,McPherson Township,United States Senate,,Libertarian,"Garrard, Robert D.",20,000200
+MCPHERSON,McPherson Township,United States Senate,,Republican,"Moran, Jerry",220,000200
+MCPHERSON,Meridian Township,United States Senate,,write - in,"Smith, DJ",0,000290
+MCPHERSON,Meridian Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000290
+MCPHERSON,Meridian Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000290
+MCPHERSON,Meridian Township,United States Senate,,Republican,"Moran, Jerry",106,000290
+MCPHERSON,Mound Township,United States Senate,,write - in,"Smith, DJ",0,000300
+MCPHERSON,Mound Township,United States Senate,,Democratic,"Wiesner, Patrick",185,000300
+MCPHERSON,Mound Township,United States Senate,,Libertarian,"Garrard, Robert D.",41,000300
+MCPHERSON,Mound Township,United States Senate,,Republican,"Moran, Jerry",625,000300
+MCPHERSON,New Gottland Township,United States Senate,,write - in,"Smith, DJ",0,000310
+MCPHERSON,New Gottland Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000310
+MCPHERSON,New Gottland Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000310
+MCPHERSON,New Gottland Township,United States Senate,,Republican,"Moran, Jerry",219,000310
+MCPHERSON,Smoky Hill Township,United States Senate,,write - in,"Smith, DJ",0,000320
+MCPHERSON,Smoky Hill Township,United States Senate,,Democratic,"Wiesner, Patrick",35,000320
+MCPHERSON,Smoky Hill Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000320
+MCPHERSON,Smoky Hill Township,United States Senate,,Republican,"Moran, Jerry",142,000320
+MCPHERSON,South Sharps Creek Township,United States Senate,,write - in,"Smith, DJ",0,000330
+MCPHERSON,South Sharps Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000330
+MCPHERSON,South Sharps Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000330
+MCPHERSON,South Sharps Creek Township,United States Senate,,Republican,"Moran, Jerry",37,000330
+MCPHERSON,Spring Valley Township,United States Senate,,write - in,"Smith, DJ",0,000340
+MCPHERSON,Spring Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000340
+MCPHERSON,Spring Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000340
+MCPHERSON,Spring Valley Township,United States Senate,,Republican,"Moran, Jerry",130,000340
+MCPHERSON,Superior Township,United States Senate,,write - in,"Smith, DJ",0,000350
+MCPHERSON,Superior Township,United States Senate,,Democratic,"Wiesner, Patrick",91,000350
+MCPHERSON,Superior Township,United States Senate,,Libertarian,"Garrard, Robert D.",34,000350
+MCPHERSON,Superior Township,United States Senate,,Republican,"Moran, Jerry",620,000350
+MCPHERSON,Turkey Creek Township,United States Senate,,write - in,"Smith, DJ",0,000360
+MCPHERSON,Turkey Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",26,000360
+MCPHERSON,Turkey Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000360
+MCPHERSON,Turkey Creek Township,United States Senate,,Republican,"Moran, Jerry",112,000360
+MCPHERSON,Union Township,United States Senate,,write - in,"Smith, DJ",0,000370
+MCPHERSON,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000370
+MCPHERSON,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000370
+MCPHERSON,Union Township,United States Senate,,Republican,"Moran, Jerry",80,000370
+MCPHERSON,McPherson Ward 2,United States Senate,,write - in,"Smith, DJ",0,900020
+MCPHERSON,McPherson Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",178,900020
+MCPHERSON,McPherson Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",44,900020
+MCPHERSON,McPherson Ward 2,United States Senate,,Republican,"Moran, Jerry",713,900020
+MCPHERSON,McPherson Ward 3 Part A,United States Senate,,write - in,"Smith, DJ",0,900030
+MCPHERSON,McPherson Ward 3 Part A,United States Senate,,Democratic,"Wiesner, Patrick",101,900030
+MCPHERSON,McPherson Ward 3 Part A,United States Senate,,Libertarian,"Garrard, Robert D.",32,900030
+MCPHERSON,McPherson Ward 3 Part A,United States Senate,,Republican,"Moran, Jerry",403,900030
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States Senate,,write - in,"Smith, DJ",0,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States Senate,,Democratic,"Wiesner, Patrick",214,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States Senate,,Libertarian,"Garrard, Robert D.",68,900040
+MCPHERSON,McPherson Ward 4 Precinct 1 Part A,United States Senate,,Republican,"Moran, Jerry",905,900040
+MCPHERSON,McPherson Ward 1 Exclave,United States Senate,,write - in,"Smith, DJ",0,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",655,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",124,900050
+MCPHERSON,McPherson Ward 1 Exclave,United States Senate,,Republican,"Moran, Jerry",2228,900050

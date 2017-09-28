@@ -1,121 +1,325 @@
-county,precinct,office,district,party,candidate,votes
-Meade,Cimarron,President,,REP,Trump/Pence,24
-Meade,Cimarron,President,,DEM,Clinton/Kaine,6
-Meade,Cimarron,President,,LIB,Johnson/Weld,0
-Meade,Cimarron,President,,IND,Stein/Baraka,0
-Meade,Cimarron,U.S. Senate,,REP,Jerry Moran,25
-Meade,Cimarron,U.S. Senate,,DEM,Patrick Wiesner,3
-Meade,Cimarron,U.S. Senate,,LIB,Robert D. Garrard,1
-Meade,Cimarron,U.S. House,1,REP,Roger Marshall,20
-Meade,Cimarron,U.S. House,1,IND,Alan LaPolice,7
-Meade,Cimarron,U.S. House,1,LIB,Kerry Burt,1
-Meade,Cimarron,U.S. House,1,,Tim Huelskamp,1
-Meade,Cimarron,State Senate,38,REP,Bud Estes,24
-Meade,Cimarron,State Senate,38,DEM,Miguel Angel Rodriguez,7
-Meade,Cimarron,State House,115,REP,Boyd Orr,26
-Meade,Crooked Creek,President,,REP,Trump/Pence,44
-Meade,Crooked Creek,President,,DEM,Clinton/Kaine,4
-Meade,Crooked Creek,President,,LIB,Johnson/Weld,2
-Meade,Crooked Creek,President,,IND,Stein/Baraka,0
-Meade,Crooked Creek,President,,,Evan McMullin,2
-Meade,Crooked Creek,President,,,Darrell Castle,1
-Meade,Crooked Creek,U.S. Senate,,REP,Jerry Moran,49
-Meade,Crooked Creek,U.S. Senate,,DEM,Patrick Wiesner,3
-Meade,Crooked Creek,U.S. Senate,,LIB,Robert D. Garrard,1
-Meade,Crooked Creek,U.S. House,1,REP,Roger Marshall,32
-Meade,Crooked Creek,U.S. House,1,IND,Alan LaPolice,13
-Meade,Crooked Creek,U.S. House,1,LIB,Kerry Burt,1
-Meade,Crooked Creek,U.S. House,1,,Tim Huelskamp,5
-Meade,Crooked Creek,State Senate,38,REP,Bud Estes,47
-Meade,Crooked Creek,State Senate,38,DEM,Miguel Angel Rodriguez,4
-Meade,Crooked Creek,State House,115,REP,Boyd Orr,49
-Meade,Fowler,President,,REP,Trump/Pence,221
-Meade,Fowler,President,,DEM,Clinton/Kaine,38
-Meade,Fowler,President,,LIB,Johnson/Weld,4
-Meade,Fowler,President,,IND,Stein/Baraka,2
-Meade,Fowler,President,,,Evan McMullin,1
-Meade,Fowler,U.S. Senate,,REP,Jerry Moran,225
-Meade,Fowler,U.S. Senate,,DEM,Patrick Wiesner,28
-Meade,Fowler,U.S. Senate,,LIB,Robert D. Garrard,9
-Meade,Fowler,U.S. House,1,REP,Roger Marshall,155
-Meade,Fowler,U.S. House,1,IND,Alan LaPolice,72
-Meade,Fowler,U.S. House,1,LIB,Kerry Burt,18
-Meade,Fowler,U.S. House,1,,Tim Huelskamp,5
-Meade,Fowler,State Senate,38,REP,Bud Estes,220
-Meade,Fowler,State Senate,38,DEM,Miguel Angel Rodriguez,36
-Meade,Fowler,State House,115,REP,Boyd Orr,253
-Meade,Logan,President,,REP,Trump/Pence,48
-Meade,Logan,President,,DEM,Clinton/Kaine,6
-Meade,Logan,President,,LIB,Johnson/Weld,4
-Meade,Logan,President,,IND,Stein/Baraka,0
-Meade,Logan,U.S. Senate,,REP,Jerry Moran,51
-Meade,Logan,U.S. Senate,,DEM,Patrick Wiesner,6
-Meade,Logan,U.S. Senate,,LIB,Robert D. Garrard,2
-Meade,Logan,U.S. House,1,REP,Roger Marshall,36
-Meade,Logan,U.S. House,1,IND,Alan LaPolice,12
-Meade,Logan,U.S. House,1,LIB,Kerry Burt,7
-Meade,Logan,U.S. House,1,,Tim Huelskamp,2
-Meade,Logan,State Senate,38,REP,Bud Estes,49
-Meade,Logan,State Senate,38,DEM,Miguel Angel Rodriguez,8
-Meade,Logan,State House,115,REP,Boyd Orr,49
-Meade,Meade Center,President,,REP,Trump/Pence,716
-Meade,Meade Center,President,,DEM,Clinton/Kaine,90
-Meade,Meade Center,President,,LIB,Johnson/Weld,31
-Meade,Meade Center,President,,IND,Stein/Baraka,9
-Meade,Meade Center,President,,,Evan McMullin,4
-Meade,Meade Center,President,,,Tom Hoefling,4
-Meade,Meade Center,U.S. Senate,,REP,Jerry Moran,753
-Meade,Meade Center,U.S. Senate,,DEM,Patrick Wiesner,65
-Meade,Meade Center,U.S. Senate,,LIB,Robert D. Garrard,37
-Meade,Meade Center,U.S. House,1,REP,Roger Marshall,647
-Meade,Meade Center,U.S. House,1,IND,Alan LaPolice,142
-Meade,Meade Center,U.S. House,1,LIB,Kerry Burt,44
-Meade,Meade Center,U.S. House,1,,Tim Huelskamp,12
-Meade,Meade Center,State Senate,38,REP,Bud Estes,740
-Meade,Meade Center,State Senate,38,DEM,Miguel Angel Rodriguez,102
-Meade,Meade Center,State House,115,REP,Boyd Orr,776
-Meade,Meade Center,State House,115,,Bart Fischer,1
-Meade,Meade Center,State House,115,,Dale Weber,1
-Meade,Meade Center,State House,115,,Tim Huelskamp,2
-Meade,Meade Center,State House,115,,Ron Rykeman,1
-Meade,Meade Center,State House,115,,Brian Lutters,1
-Meade,Mertilla,President,,REP,Trump/Pence,38
-Meade,Mertilla,President,,DEM,Clinton/Kaine,8
-Meade,Mertilla,President,,LIB,Johnson/Weld,2
-Meade,Mertilla,President,,IND,Stein/Baraka,2
-Meade,Mertilla,U.S. Senate,,REP,Jerry Moran,45
-Meade,Mertilla,U.S. Senate,,DEM,Patrick Wiesner,3
-Meade,Mertilla,U.S. Senate,,LIB,Robert D. Garrard,1
-Meade,Mertilla,U.S. House,1,REP,Roger Marshall,36
-Meade,Mertilla,U.S. House,1,IND,Alan LaPolice,11
-Meade,Mertilla,U.S. House,1,LIB,Kerry Burt,1
-Meade,Mertilla,State Senate,38,REP,Bud Estes,46
-Meade,Mertilla,State Senate,38,DEM,Miguel Angel Rodriguez,3
-Meade,Mertilla,State House,115,REP,Boyd Orr,47
-Meade,Odee,President,,REP,Trump/Pence,14
-Meade,Odee,President,,DEM,Clinton/Kaine,1
-Meade,Odee,President,,LIB,Johnson/Weld,0
-Meade,Odee,President,,IND,Stein/Baraka,1
-Meade,Odee,U.S. Senate,,REP,Jerry Moran,15
-Meade,Odee,U.S. Senate,,DEM,Patrick Wiesner,0
-Meade,Odee,U.S. Senate,,LIB,Robert D. Garrard,0
-Meade,Odee,U.S. House,1,REP,Roger Marshall,7
-Meade,Odee,U.S. House,1,IND,Alan LaPolice,8
-Meade,Odee,U.S. House,1,LIB,Kerry Burt,0
-Meade,Odee,State Senate,38,REP,Bud Estes,14
-Meade,Odee,State Senate,38,DEM,Miguel Angel Rodriguez,1
-Meade,Odee,State House,115,REP,Boyd Orr,14
-Meade,Sand Creek,President,,REP,Trump/Pence,20
-Meade,Sand Creek,President,,DEM,Clinton/Kaine,0
-Meade,Sand Creek,President,,LIB,Johnson/Weld,0
-Meade,Sand Creek,President,,IND,Stein/Baraka,0
-Meade,Sand Creek,U.S. Senate,,REP,Jerry Moran,20
-Meade,Sand Creek,U.S. Senate,,DEM,Patrick Wiesner,0
-Meade,Sand Creek,U.S. Senate,,LIB,Robert D. Garrard,0
-Meade,Sand Creek,U.S. House,1,REP,Roger Marshall,14
-Meade,Sand Creek,U.S. House,1,IND,Alan LaPolice,4
-Meade,Sand Creek,U.S. House,1,LIB,Kerry Burt,0
-Meade,Sand Creek,U.S. House,1,,Tim Huelskamp,2
-Meade,Sand Creek,State Senate,38,REP,Bud Estes,20
-Meade,Sand Creek,State Senate,38,DEM,Miguel Angel Rodriguez,0
-Meade,Sand Creek,State House,115,REP,Boyd Orr,20
+county,precinct,office,district,party,candidate,votes,vtd
+MEADE,Cimarron Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",26,000010
+MEADE,Crooked Creek Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",49,000020
+MEADE,Fowler Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",253,000030
+MEADE,Logan Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",49,000040
+MEADE,Meade Center Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",776,000050
+MEADE,Mertilla Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",47,000060
+MEADE,Odee Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",14,000070
+MEADE,Sand Creek Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",20,000080
+MEADE,West Plains Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",346,000090
+MEADE,Cimarron Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",7,000010
+MEADE,Cimarron Township,Kansas Senate,38,Republican,"Estes, Bud",24,000010
+MEADE,Crooked Creek Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",4,000020
+MEADE,Crooked Creek Township,Kansas Senate,38,Republican,"Estes, Bud",47,000020
+MEADE,Fowler Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",36,000030
+MEADE,Fowler Township,Kansas Senate,38,Republican,"Estes, Bud",220,000030
+MEADE,Logan Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",8,000040
+MEADE,Logan Township,Kansas Senate,38,Republican,"Estes, Bud",49,000040
+MEADE,Meade Center Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",102,000050
+MEADE,Meade Center Township,Kansas Senate,38,Republican,"Estes, Bud",740,000050
+MEADE,Mertilla Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",3,000060
+MEADE,Mertilla Township,Kansas Senate,38,Republican,"Estes, Bud",46,000060
+MEADE,Odee Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",1,000070
+MEADE,Odee Township,Kansas Senate,38,Republican,"Estes, Bud",14,000070
+MEADE,Sand Creek Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",0,000080
+MEADE,Sand Creek Township,Kansas Senate,38,Republican,"Estes, Bud",20,000080
+MEADE,West Plains Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",72,000090
+MEADE,West Plains Township,Kansas Senate,38,Republican,"Estes, Bud",291,000090
+MEADE,Cimarron Township,President / Vice President,,independent,"Stein, Jill",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+MEADE,Cimarron Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+MEADE,Cimarron Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000010
+MEADE,Cimarron Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+MEADE,Cimarron Township,President / Vice President,,Republican,"Trump, Donald J.",24,000010
+MEADE,Crooked Creek Township,President / Vice President,,independent,"Stein, Jill",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Castle, Darrell L",1,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"McMullin, Evan",2,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+MEADE,Crooked Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000020
+MEADE,Crooked Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000020
+MEADE,Crooked Creek Township,President / Vice President,,Republican,"Trump, Donald J.",44,000020
+MEADE,Fowler Township,President / Vice President,,independent,"Stein, Jill",2,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"McMullin, Evan",1,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+MEADE,Fowler Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+MEADE,Fowler Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000030
+MEADE,Fowler Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000030
+MEADE,Fowler Township,President / Vice President,,Republican,"Trump, Donald J.",221,000030
+MEADE,Logan Township,President / Vice President,,independent,"Stein, Jill",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+MEADE,Logan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+MEADE,Logan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000040
+MEADE,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000040
+MEADE,Logan Township,President / Vice President,,Republican,"Trump, Donald J.",48,000040
+MEADE,Meade Center Township,President / Vice President,,independent,"Stein, Jill",9,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Hoefling, Tom",4,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"McMullin, Evan",4,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+MEADE,Meade Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+MEADE,Meade Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",90,000050
+MEADE,Meade Center Township,President / Vice President,,Libertarian,"Johnson, Gary",31,000050
+MEADE,Meade Center Township,President / Vice President,,Republican,"Trump, Donald J.",716,000050
+MEADE,Mertilla Township,President / Vice President,,independent,"Stein, Jill",2,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+MEADE,Mertilla Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+MEADE,Mertilla Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000060
+MEADE,Mertilla Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000060
+MEADE,Mertilla Township,President / Vice President,,Republican,"Trump, Donald J.",38,000060
+MEADE,Odee Township,President / Vice President,,independent,"Stein, Jill",1,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+MEADE,Odee Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+MEADE,Odee Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000070
+MEADE,Odee Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
+MEADE,Odee Township,President / Vice President,,Republican,"Trump, Donald J.",14,000070
+MEADE,Sand Creek Township,President / Vice President,,independent,"Stein, Jill",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+MEADE,Sand Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+MEADE,Sand Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000080
+MEADE,Sand Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+MEADE,Sand Creek Township,President / Vice President,,Republican,"Trump, Donald J.",20,000080
+MEADE,West Plains Township,President / Vice President,,independent,"Stein, Jill",4,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"McMullin, Evan",3,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+MEADE,West Plains Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+MEADE,West Plains Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",57,000090
+MEADE,West Plains Township,President / Vice President,,Libertarian,"Johnson, Gary",19,000090
+MEADE,West Plains Township,President / Vice President,,Republican,"Trump, Donald J.",290,000090
+MEADE,Cimarron Township,United States House of Representatives,1,independent,"LaPolice, Alan",7,000010
+MEADE,Cimarron Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000010
+MEADE,Cimarron Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000010
+MEADE,Cimarron Township,United States House of Representatives,1,Republican,"Marshall, Roger",20,000010
+MEADE,Crooked Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",13,000020
+MEADE,Crooked Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",5,000020
+MEADE,Crooked Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000020
+MEADE,Crooked Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",32,000020
+MEADE,Fowler Township,United States House of Representatives,1,independent,"LaPolice, Alan",72,000030
+MEADE,Fowler Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",5,000030
+MEADE,Fowler Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",18,000030
+MEADE,Fowler Township,United States House of Representatives,1,Republican,"Marshall, Roger",155,000030
+MEADE,Logan Township,United States House of Representatives,1,independent,"LaPolice, Alan",12,000040
+MEADE,Logan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000040
+MEADE,Logan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000040
+MEADE,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",36,000040
+MEADE,Meade Center Township,United States House of Representatives,1,independent,"LaPolice, Alan",142,000050
+MEADE,Meade Center Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",12,000050
+MEADE,Meade Center Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",44,000050
+MEADE,Meade Center Township,United States House of Representatives,1,Republican,"Marshall, Roger",647,000050
+MEADE,Mertilla Township,United States House of Representatives,1,independent,"LaPolice, Alan",11,000060
+MEADE,Mertilla Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+MEADE,Mertilla Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000060
+MEADE,Mertilla Township,United States House of Representatives,1,Republican,"Marshall, Roger",36,000060
+MEADE,Odee Township,United States House of Representatives,1,independent,"LaPolice, Alan",8,000070
+MEADE,Odee Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+MEADE,Odee Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000070
+MEADE,Odee Township,United States House of Representatives,1,Republican,"Marshall, Roger",7,000070
+MEADE,Sand Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000080
+MEADE,Sand Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000080
+MEADE,Sand Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000080
+MEADE,Sand Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",14,000080
+MEADE,West Plains Township,United States House of Representatives,1,independent,"LaPolice, Alan",70,000090
+MEADE,West Plains Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+MEADE,West Plains Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",28,000090
+MEADE,West Plains Township,United States House of Representatives,1,Republican,"Marshall, Roger",265,000090
+MEADE,Cimarron Township,United States Senate,,write - in,"Smith, DJ",0,000010
+MEADE,Cimarron Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000010
+MEADE,Cimarron Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000010
+MEADE,Cimarron Township,United States Senate,,Republican,"Moran, Jerry",25,000010
+MEADE,Crooked Creek Township,United States Senate,,write - in,"Smith, DJ",0,000020
+MEADE,Crooked Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000020
+MEADE,Crooked Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000020
+MEADE,Crooked Creek Township,United States Senate,,Republican,"Moran, Jerry",49,000020
+MEADE,Fowler Township,United States Senate,,write - in,"Smith, DJ",0,000030
+MEADE,Fowler Township,United States Senate,,Democratic,"Wiesner, Patrick",28,000030
+MEADE,Fowler Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000030
+MEADE,Fowler Township,United States Senate,,Republican,"Moran, Jerry",225,000030
+MEADE,Logan Township,United States Senate,,write - in,"Smith, DJ",0,000040
+MEADE,Logan Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000040
+MEADE,Logan Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000040
+MEADE,Logan Township,United States Senate,,Republican,"Moran, Jerry",51,000040
+MEADE,Meade Center Township,United States Senate,,write - in,"Smith, DJ",0,000050
+MEADE,Meade Center Township,United States Senate,,Democratic,"Wiesner, Patrick",65,000050
+MEADE,Meade Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",37,000050
+MEADE,Meade Center Township,United States Senate,,Republican,"Moran, Jerry",753,000050
+MEADE,Mertilla Township,United States Senate,,write - in,"Smith, DJ",0,000060
+MEADE,Mertilla Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000060
+MEADE,Mertilla Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000060
+MEADE,Mertilla Township,United States Senate,,Republican,"Moran, Jerry",45,000060
+MEADE,Odee Township,United States Senate,,write - in,"Smith, DJ",0,000070
+MEADE,Odee Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000070
+MEADE,Odee Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000070
+MEADE,Odee Township,United States Senate,,Republican,"Moran, Jerry",15,000070
+MEADE,Sand Creek Township,United States Senate,,write - in,"Smith, DJ",0,000080
+MEADE,Sand Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000080
+MEADE,Sand Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000080
+MEADE,Sand Creek Township,United States Senate,,Republican,"Moran, Jerry",20,000080
+MEADE,West Plains Township,United States Senate,,write - in,"Smith, DJ",0,000090
+MEADE,West Plains Township,United States Senate,,Democratic,"Wiesner, Patrick",50,000090
+MEADE,West Plains Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000090
+MEADE,West Plains Township,United States Senate,,Republican,"Moran, Jerry",308,000090

@@ -1,702 +1,1611 @@
-county,precinct,office,district,candidate,party,votes
-Labette,Parsons W1D1,President,,Stein/Baraka,I,19
-Labette,Parsons W1D1,President,,Trump/Pence,R,169
-Labette,Parsons W1D1,President,,Clinton/Kaine,D,103
-Labette,Parsons W1D1,President,,Johnson/Weld,L,15
-Labette,Parsons W1D1,President,,Castle/Bradley,,1
-Labette,Parsons W1D1,President,,Write-ins,,5
-Labette,Parsons W1D1,U.S. Senate,,Jerry  Moran,R,191
-Labette,Parsons W1D1,U.S. Senate,,Patrick  Wiesner,D,102
-Labette,Parsons W1D1,U.S. Senate,,Robert  D  Garrard,L,12
-Labette,Parsons W1D1,U.S. Senate,,Write-ins,,1
-Labette,Parsons W1D1,U.S. House,2,Lynn  Jenkins,R,207
-Labette,Parsons W1D1,U.S. House,2,Britani  Potter,D,88
-Labette,Parsons W1D1,U.S. House,2,James Bales,L,12
-Labette,Parsons W1D1,U.S. House,2,Write-ins,,1
-Labette,Parsons W1D1,State Senate,15,Chuck  Schmidt,D,124
-Labette,Parsons W1D1,State Senate,15,Dan  Goddard,R,181
-Labette,Parsons W1D1,State Senate,15,Write-ins,,1
-Labette,Parsons W1D1,State House,7,Richard Proehl,R,277
-Labette,Parsons W1D1,State House,7,Write-ins,,3
-Labette,Parsons W1D2,President,,Stein/Baraka,I,2
-Labette,Parsons W1D2,President,,Trump/Pence,R,88
-Labette,Parsons W1D2,President,,Clinton/Kaine,D,56
-Labette,Parsons W1D2,President,,Johnson/Weld,L,6
-Labette,Parsons W1D2,President,,Write-ins,,2
-Labette,Parsons W1D2,U.S. Senate,,Jerry  Moran,R,80
-Labette,Parsons W1D2,U.S. Senate,,Patrick  Wiesner,D,57
-Labette,Parsons W1D2,U.S. Senate,,Robert  D  Garrard,L,12
-Labette,Parsons W1D2,U.S. Senate,,Write-ins,,1
-Labette,Parsons W1D2,U.S. House,2,Lynn  Jenkins,R,95
-Labette,Parsons W1D2,U.S. House,2,Britani  Potter,D,48
-Labette,Parsons W1D2,U.S. House,2,James Bales,L,10
-Labette,Parsons W1D2,U.S. House,2,Write-ins,,1
-Labette,Parsons W1D2,State Senate,15,Chuck  Schmidt,D,66
-Labette,Parsons W1D2,State Senate,15,Dan  Goddard,R,86
-Labette,Parsons W1D2,State Senate,15,Write-ins,,1
-Labette,Parsons W1D2,State House,7,Richard Proehl,R,129
-Labette,Parsons W1D2,State House,7,Write-ins,,9
-Labette,Parsons W1D3,President,,Stein/Baraka,I,2
-Labette,Parsons W1D3,President,,Trump/Pence,R,66
-Labette,Parsons W1D3,President,,Clinton/Kaine,D,52
-Labette,Parsons W1D3,President,,Johnson/Weld,L,4
-Labette,Parsons W1D3,President,,Write-ins,,1
-Labette,Parsons W1D3,U.S. Senate,,Jerry  Moran,R,51
-Labette,Parsons W1D3,U.S. Senate,,Patrick  Wiesner,D,60
-Labette,Parsons W1D3,U.S. Senate,,Robert  D  Garrard,L,7
-Labette,Parsons W1D3,U.S. House,2,Lynn  Jenkins,R,66
-Labette,Parsons W1D3,U.S. House,2,Britani  Potter,D,48
-Labette,Parsons W1D3,U.S. House,2,James Bales,L,7
-Labette,Parsons W1D3,State Senate,15,Chuck  Schmidt,D,58
-Labette,Parsons W1D3,State Senate,15,Dan  Goddard,R,63
-Labette,Parsons W1D3,State House,7,Richard Proehl,R,100
-Labette,Parsons W1D3,State House,7,Write-ins,,5
-Labette,Parsons W2D1,President,,Stein/Baraka,I,2
-Labette,Parsons W2D1,President,,Trump/Pence,R,55
-Labette,Parsons W2D1,President,,Clinton/Kaine,D,34
-Labette,Parsons W2D1,President,,Johnson/Weld,L,4
-Labette,Parsons W2D1,President,,Write-ins,,1
-Labette,Parsons W2D1,U.S. Senate,,Jerry  Moran,R,55
-Labette,Parsons W2D1,U.S. Senate,,Patrick  Wiesner,D,37
-Labette,Parsons W2D1,U.S. Senate,,Robert  D  Garrard,L,6
-Labette,Parsons W2D1,U.S. House,2,Lynn  Jenkins,R,61
-Labette,Parsons W2D1,U.S. House,2,Britani  Potter,D,29
-Labette,Parsons W2D1,U.S. House,2,James Bales,L,7
-Labette,Parsons W2D1,State Senate,15,Chuck  Schmidt,D,42
-Labette,Parsons W2D1,State Senate,15,Dan  Goddard,R,54
-Labette,Parsons W2D1,State House,7,Richard Proehl,R,86
-Labette,Parsons W2D1,State House,7,Write-ins,,3
-Labette,Parsons W2D2,President,,Stein/Baraka,I,7
-Labette,Parsons W2D2,President,,Trump/Pence,R,108
-Labette,Parsons W2D2,President,,Clinton/Kaine,D,124
-Labette,Parsons W2D2,President,,Johnson/Weld,L,21
-Labette,Parsons W2D2,President,,Write-ins,,6
-Labette,Parsons W2D2,US  Senate,,Jerry  Moran,R,123
-Labette,Parsons W2D2,US  Senate,,Patrick  Wiesner,D,121
-Labette,Parsons W2D2,US  Senate,,Robert  D  Garrard,L,23
-Labette,Parsons W2D2,US  Senate,,Write-ins,,0
-Labette,Parsons W2D2,U.S. House,2,Lynn  Jenkins,R,129
-Labette,Parsons W2D2,U.S. House,2,Britani  Potter,D,129
-Labette,Parsons W2D2,U.S. House,2,James Bales,L,13
-Labette,Parsons W2D2,U.S. House,2,Write-ins,,0
-Labette,Parsons W2D2,State Senate,15,Chuck  Schmidt,D,132
-Labette,Parsons W2D2,State Senate,15,Dan  Goddard,R,135
-Labette,Parsons W2D2,State Senate,15,Write-ins,,0
-Labette,Parsons W2D2,State House,7,Richard Proehl,R,237
-Labette,Parsons W2D2,State House,7,Write-ins,,6
-Labette,Parsons W2D3,President,,Stein/Baraka,I,5
-Labette,Parsons W2D3,President,,Trump/Pence,R,125
-Labette,Parsons W2D3,President,,Clinton/Kaine,D,137
-Labette,Parsons W2D3,President,,Johnson/Weld,L,17
-Labette,Parsons W2D3,President,,Write-ins,,9
-Labette,Parsons W2D3,U.S. Senate,,Jerry  Moran,R,152
-Labette,Parsons W2D3,U.S. Senate,,Patrick  Wiesner,D,117
-Labette,Parsons W2D3,U.S. Senate,,Robert  D  Garrard,L,22
-Labette,Parsons W2D3,U.S. Senate,,Write-ins,,2
-Labette,Parsons W2D3,U.S. House,2,Lynn  Jenkins,R,181
-Labette,Parsons W2D3,U.S. House,2,Britani  Potter,D,103
-Labette,Parsons W2D3,U.S. House,2,James Bales,L,9
-Labette,Parsons W2D3,U.S. House,2,Write-ins,,0
-Labette,Parsons W2D3,State Senate,15,Chuck  Schmidt,D,132
-Labette,Parsons W2D3,State Senate,15,Dan  Goddard,R,163
-Labette,Parsons W2D3,State Senate,15,Write-ins,,1
-Labette,Parsons W2D3,State House,7,Richard Proehl,R,252
-Labette,Parsons W2D3,State House,7,Write-ins,,5
-Labette,Parsons W3D1,President,,Stein/Baraka,I,1
-Labette,Parsons W3D1,President,,Trump/Pence,R,79
-Labette,Parsons W3D1,President,,Clinton/Kaine,D,43
-Labette,Parsons W3D1,President,,Johnson/Weld,L,4
-Labette,Parsons W3D1,President,,Write-ins,,3
-Labette,Parsons W3D1,U.S. Senate,,Jerry  Moran,R,75
-Labette,Parsons W3D1,U.S. Senate,,Patrick  Wiesner,D,41
-Labette,Parsons W3D1,U.S. Senate,,Robert  D  Garrard,L,10
-Labette,Parsons W3D1,U.S. Senate,,Write-ins,,1
-Labette,Parsons W3D1,U.S. House,2,Lynn  Jenkins,R,78
-Labette,Parsons W3D1,U.S. House,2,Britani  Potter,D,39
-Labette,Parsons W3D1,U.S. House,2,James Bales,L,6
-Labette,Parsons W3D1,U.S. House,2,Write-ins,,2
-Labette,Parsons W3D1,State Senate,15,Chuck  Schmidt,D,44
-Labette,Parsons W3D1,State Senate,15,Dan  Goddard,R,80
-Labette,Parsons W3D1,State Senate,15,Write-ins,,1
-Labette,Parsons W3D1,State House,7,Richard Proehl,R,112
-Labette,Parsons W3D1,State House,7,Write-ins,,5
-Labette,Parsons W3D2,President,,Stein/Baraka,I,6
-Labette,Parsons W3D2,President,,Trump/Pence,R,176
-Labette,Parsons W3D2,President,,Clinton/Kaine,D,136
-Labette,Parsons W3D2,President,,Johnson/Weld,L,19
-Labette,Parsons W3D2,President,,Castle/Bradley,,1
-Labette,Parsons W3D2,President,,Write-ins,,10
-Labette,Parsons W3D2,U.S. Senate,,Jerry  Moran,R,185
-Labette,Parsons W3D2,U.S. Senate,,Patrick  Wiesner,D,147
-Labette,Parsons W3D2,U.S. Senate,,Robert  D  Garrard,L,16
-Labette,Parsons W3D2,U.S. Senate,,Write-ins,,1
-Labette,Parsons W3D2,U.S. House,2,Lynn  Jenkins,R,201
-Labette,Parsons W3D2,U.S. House,2,Britani  Potter,D,135
-Labette,Parsons W3D2,U.S. House,2,James Bales,L,14
-Labette,Parsons W3D2,U.S. House,2,Write-ins,,0
-Labette,Parsons W3D2,State Senate,15,Chuck  Schmidt,D,177
-Labette,Parsons W3D2,State Senate,15,Dan  Goddard,R,169
-Labette,Parsons W3D2,State Senate,15,Write-ins,,0
-Labette,Parsons W3D2,State House,7,Richard Proehl,R,281
-Labette,Parsons W3D2,State House,7,Write-ins,,17
-Labette,Parsons W3D3,President,,Stein/Baraka,I,6
-Labette,Parsons W3D3,President,,Trump/Pence,R,146
-Labette,Parsons W3D3,President,,Clinton/Kaine,D,119
-Labette,Parsons W3D3,President,,Johnson/Weld,L,9
-Labette,Parsons W3D3,President,,Write-ins,,6
-Labette,Parsons W3D3,U.S. Senate,,Jerry  Moran,R,155
-Labette,Parsons W3D3,U.S. Senate,,Patrick  Wiesner,D,105
-Labette,Parsons W3D3,U.S. Senate,,Robert  D  Garrard,L,19
-Labette,Parsons W3D3,U.S. Senate,,Write-ins,,1
-Labette,Parsons W3D3,U.S. House,2,Lynn  Jenkins,R,159
-Labette,Parsons W3D3,U.S. House,2,Britani  Potter,D,107
-Labette,Parsons W3D3,U.S. House,2,James Bales,L,19
-Labette,Parsons W3D3,U.S. House,2,Write-ins,,0
-Labette,Parsons W3D3,State Senate,15,Chuck  Schmidt,D,127
-Labette,Parsons W3D3,State Senate,15,Dan  Goddard,R,155
-Labette,Parsons W3D3,State Senate,15,Write-ins,,2
-Labette,Parsons W3D3,State House,7,Richard Proehl,R,233
-Labette,Parsons W3D3,State House,7,Write-ins,,8
-Labette,Parsons W3D4,President,,Stein/Baraka,I,5
-Labette,Parsons W3D4,President,,Trump/Pence,R,235
-Labette,Parsons W3D4,President,,Clinton/Kaine,D,154
-Labette,Parsons W3D4,President,,Johnson/Weld,L,9
-Labette,Parsons W3D4,President,,McMullin/Johnson,,3
-Labette,Parsons W3D4,President,,Write-ins,,3
-Labette,Parsons W3D4,U.S. Senate,,Jerry  Moran,R,228
-Labette,Parsons W3D4,U.S. Senate,,Patrick  Wiesner,D,157
-Labette,Parsons W3D4,U.S. Senate,,Robert  D  Garrard,L,17
-Labette,Parsons W3D4,U.S. Senate,,Write-ins,,0
-Labette,Parsons W3D4,U.S. House,2,Lynn  Jenkins,R,242
-Labette,Parsons W3D4,U.S. House,2,Britani  Potter,D,145
-Labette,Parsons W3D4,U.S. House,2,James Bales,L,17
-Labette,Parsons W3D4,U.S. House,2,Write-ins,,0
-Labette,Parsons W3D4,State Senate,15,Chuck  Schmidt,D,191
-Labette,Parsons W3D4,State Senate,15,Dan  Goddard,R,207
-Labette,Parsons W3D4,State Senate,15,Write-ins,,2
-Labette,Parsons W3D4,State House,7,Richard Proehl,R,334
-Labette,Parsons W3D4,State House,7,Write-ins,,11
-Labette,Parsons W4D1,President,,Stein/Baraka,I,1
-Labette,Parsons W4D1,President,,Trump/Pence,R,101
-Labette,Parsons W4D1,President,,Clinton/Kaine,D,60
-Labette,Parsons W4D1,President,,Johnson/Weld,L,6
-Labette,Parsons W4D1,President,,Write-ins,,2
-Labette,Parsons W4D1,U.S. Senate,,Jerry  Moran,R,100
-Labette,Parsons W4D1,U.S. Senate,,Patrick  Wiesner,D,60
-Labette,Parsons W4D1,U.S. Senate,,Robert  D  Garrard,L,8
-Labette,Parsons W4D1,U.S. Senate,,Write-ins,,1
-Labette,Parsons W4D1,U.S. House,2,Lynn  Jenkins,R,102
-Labette,Parsons W4D1,U.S. House,2,Britani  Potter,D,60
-Labette,Parsons W4D1,U.S. House,2,James Bales,L,10
-Labette,Parsons W4D1,U.S. House,2,Write-ins,,0
-Labette,Parsons W4D1,State Senate,15,Chuck  Schmidt,D,63
-Labette,Parsons W4D1,State Senate,15,Dan  Goddard,R,107
-Labette,Parsons W4D1,State Senate,15,Write-ins,,1
-Labette,Parsons W4D1,State House,7,Richard Proehl,R,147
-Labette,Parsons W4D1,State House,7,Write-ins,,6
-Labette,Parsons W4D2,President,,Stein/Baraka,I,8
-Labette,Parsons W4D2,President,,Trump/Pence,R,126
-Labette,Parsons W4D2,President,,Clinton/Kaine,D,76
-Labette,Parsons W4D2,President,,Johnson/Weld,L,16
-Labette,Parsons W4D2,President,,McMullin/Johnson,,2
-Labette,Parsons W4D2,President,,Write-ins,,1
-Labette,Parsons W4D2,U.S. Senate,,Jerry  Moran,R,112
-Labette,Parsons W4D2,U.S. Senate,,Patrick  Wiesner,D,90
-Labette,Parsons W4D2,U.S. Senate,,Robert  D  Garrard,L,19
-Labette,Parsons W4D2,U.S. Senate,,Write-ins,,1
-Labette,Parsons W4D2,U.S. House,2,Lynn  Jenkins,R,123
-Labette,Parsons W4D2,U.S. House,2,Britani  Potter,D,80
-Labette,Parsons W4D2,U.S. House,2,James Bales,L,17
-Labette,Parsons W4D2,U.S. House,2,Write-ins,,1
-Labette,Parsons W4D2,State Senate,15,Chuck  Schmidt,D,99
-Labette,Parsons W4D2,State Senate,15,Dan  Goddard,R,124
-Labette,Parsons W4D2,State Senate,15,Write-ins,,1
-Labette,Parsons W4D2,State House,7,Richard Proehl,R,191
-Labette,Parsons W4D2,State House,7,Write-ins,,9
-Labette,Parsons W4D3,President,,Stein/Baraka,I,3
-Labette,Parsons W4D3,President,,Trump/Pence,R,101
-Labette,Parsons W4D3,President,,Clinton/Kaine,D,82
-Labette,Parsons W4D3,President,,Johnson/Weld,L,5
-Labette,Parsons W4D3,President,,Write-ins,,2
-Labette,Parsons W4D3,U.S. Senate,,Jerry  Moran,R,102
-Labette,Parsons W4D3,U.S. Senate,,Patrick  Wiesner,D,70
-Labette,Parsons W4D3,U.S. Senate,,Robert  D  Garrard,L,15
-Labette,Parsons W4D3,U.S. Senate,,Write-ins,,0
-Labette,Parsons W4D3,U.S. House,2,Lynn  Jenkins,R,108
-Labette,Parsons W4D3,U.S. House,2,Britani  Potter,D,69
-Labette,Parsons W4D3,U.S. House,2,James Bales,L,11
-Labette,Parsons W4D3,U.S. House,2,Write-ins,,0
-Labette,Parsons W4D3,State Senate,15,Chuck  Schmidt,D,81
-Labette,Parsons W4D3,State Senate,15,Dan  Goddard,R,106
-Labette,Parsons W4D3,State Senate,15,Write-ins,,0
-Labette,Parsons W4D3,State House,7,Richard Proehl,R,159
-Labette,Parsons W4D3,State House,7,Write-ins,,7
-Labette,Parsons W4D4,President,,Stein/Baraka,I,6
-Labette,Parsons W4D4,President,,Trump/Pence,R,170
-Labette,Parsons W4D4,President,,Clinton/Kaine,D,91
-Labette,Parsons W4D4,President,,Johnson/Weld,L,10
-Labette,Parsons W4D4,President,,Write-ins,,4
-Labette,Parsons W4D4,U.S. Senate,,Jerry  Moran,R,182
-Labette,Parsons W4D4,U.S. Senate,,Patrick  Wiesner,D,88
-Labette,Parsons W4D4,U.S. Senate,,Robert  D  Garrard,L,13
-Labette,Parsons W4D4,U.S. Senate,,Write-ins,,0
-Labette,Parsons W4D4,U.S. House,2,Lynn  Jenkins,R,198
-Labette,Parsons W4D4,U.S. House,2,Britani  Potter,D,76
-Labette,Parsons W4D4,U.S. House,2,James Bales,L,7
-Labette,Parsons W4D4,U.S. House,2,Write-ins,,0
-Labette,Parsons W4D4,State Senate,15,Chuck  Schmidt,D,116
-Labette,Parsons W4D4,State Senate,15,Dan  Goddard,R,169
-Labette,Parsons W4D4,State Senate,15,Write-ins,,1
-Labette,Parsons W4D4,State House,7,Richard Proehl,R,250
-Labette,Parsons W4D4,State House,7,Write-ins,,3
-Labette,Chetopa W1,President,,Stein/Baraka,I,2
-Labette,Chetopa W1,President,,Trump/Pence,R,63
-Labette,Chetopa W1,President,,Clinton/Kaine,D,38
-Labette,Chetopa W1,President,,Johnson/Weld,L,5
-Labette,Chetopa W1,President,,Write-ins,,2
-Labette,Chetopa W1,U.S. Senate,,Jerry  Moran,R,58
-Labette,Chetopa W1,U.S. Senate,,Patrick  Wiesner,D,44
-Labette,Chetopa W1,U.S. Senate,,Robert  D  Garrard,L,1
-Labette,Chetopa W1,U.S. Senate,,Write-ins,,0
-Labette,Chetopa W1,U.S. House,2,Lynn  Jenkins,R,72
-Labette,Chetopa W1,U.S. House,2,Britani  Potter,D,32
-Labette,Chetopa W1,U.S. House,2,James Bales,L,3
-Labette,Chetopa W1,U.S. House,2,Write-ins,,0
-Labette,Chetopa W1,State Senate,13,Jake  LaTumer,R,59
-Labette,Chetopa W1,State Senate,13,Lynn  D  Grant,D,46
-Labette,Chetopa W1,State Senate,13,Write-ins,,1
-Labette,Chetopa W1,State House,1,Michael Houser,R,99
-Labette,Chetopa W1,State House,1,Write-ins,,0
-Labette,Chetopa W2,President,,Stein/Baraka,I,2
-Labette,Chetopa W2,President,,Trump/Pence,R,80
-Labette,Chetopa W2,President,,Clinton/Kaine,D,28
-Labette,Chetopa W2,President,,Johnson/Weld,L,7
-Labette,Chetopa W2,President,,Write-ins,,2
-Labette,Chetopa W2,U.S. Senate,,Jerry  Moran,R,73
-Labette,Chetopa W2,U.S. Senate,,Patrick  Wiesner,D,33
-Labette,Chetopa W2,U.S. Senate,,Robert  D  Garrard,L,6
-Labette,Chetopa W2,U.S. House,2,Lynn  Jenkins,R,82
-Labette,Chetopa W2,U.S. House,2,Britani  Potter,D,23
-Labette,Chetopa W2,U.S. House,2,James Bales,L,9
-Labette,Chetopa W2,State Senate,13,Jake  LaTumer,R,60
-Labette,Chetopa W2,State Senate,13,Lynn  D  Grant,D,55
-Labette,Chetopa W2,State Senate,13,Write-ins,,1
-Labette,Chetopa W2,State House,1,Michael Houser,R,90
-Labette,Chetopa W2,State House,1,Write-ins,,4
-Labette,Chetopa W3,President,,Stein/Baraka,I,3
-Labette,Chetopa W3,President,,Trump/Pence,R,111
-Labette,Chetopa W3,President,,Clinton/Kaine,D,29
-Labette,Chetopa W3,President,,Johnson/Weld,L,5
-Labette,Chetopa W3,U.S. Senate,,Jerry  Moran,R,95
-Labette,Chetopa W3,U.S. Senate,,Patrick  Wiesner,D,35
-Labette,Chetopa W3,U.S. Senate,,Robert  D  Garrard,L,9
-Labette,Chetopa W3,U.S. House,2,Lynn  Jenkins,R,101
-Labette,Chetopa W3,U.S. House,2,Britani  Potter,D,30
-Labette,Chetopa W3,U.S. House,2,James Bales,L,9
-Labette,Chetopa W3,State Senate,13,Jake  LaTumer,R,85
-Labette,Chetopa W3,State Senate,13,Lynn  D  Grant,D,58
-Labette,Chetopa W3,State House,1,Michael Houser,R,114
-Labette,Chetopa W3,State House,1,Write-ins,,5
-Labette,Oswego 1,President,,Stein/Baraka,I,4
-Labette,Oswego 1,President,,Trump/Pence,R,179
-Labette,Oswego 1,President,,Clinton/Kaine,D,56
-Labette,Oswego 1,President,,Johnson/Weld,L,9
-Labette,Oswego 1,President,,Write-ins,,1
-Labette,Oswego 1,U.S. Senate,,Jerry  Moran,R,164
-Labette,Oswego 1,U.S. Senate,,Patrick  Wiesner,D,56
-Labette,Oswego 1,U.S. Senate,,Robert  D  Garrard,L,24
-Labette,Oswego 1,U.S. House,2,Lynn  Jenkins,R,186
-Labette,Oswego 1,U.S. House,2,Britani  Potter,D,52
-Labette,Oswego 1,U.S. House,2,James Bales,L,12
-Labette,Oswego 1,State Senate,15,Chuck  Schmidt,D,78
-Labette,Oswego 1,State Senate,15,Dan  Goddard,R,169
-Labette,Oswego 1,State House,7,Richard Proehl,R,205
-Labette,Oswego 1,State House,7,Write-ins,,9
-Labette,Oswego W2,President,,Stein/Baraka,I,3
-Labette,Oswego W2,President,,Trump/Pence,R,177
-Labette,Oswego W2,President,,Clinton/Kaine,D,53
-Labette,Oswego W2,President,,Johnson/Weld,L,7
-Labette,Oswego W2,President,,McMullin/Johnson,,1
-Labette,Oswego W2,President,,Write-ins,,4
-Labette,Oswego W2,U.S. Senate,,Jerry  Moran,R,158
-Labette,Oswego W2,U.S. Senate,,Patrick  Wiesner,D,51
-Labette,Oswego W2,U.S. Senate,,Robert  D  Garrard,L,21
-Labette,Oswego W2,U.S. House,2,Lynn  Jenkins,R,176
-Labette,Oswego W2,U.S. House,2,Britani  Potter,D,47
-Labette,Oswego W2,U.S. House,2,James Bales,L,15
-Labette,Oswego W2,State Senate,15,Chuck  Schmidt,D,104
-Labette,Oswego W2,State Senate,15,Dan  Goddard,R,137
-Labette,Oswego W2,State House,7,Richard Proehl,R,210
-Labette,Oswego W2,State House,7,Write-ins,,4
-Labette,Oswego W3,President,,Stein/Baraka,I,3
-Labette,Oswego W3,President,,Trump/Pence,R,127
-Labette,Oswego W3,President,,Clinton/Kaine,D,47
-Labette,Oswego W3,President,,Johnson/Weld,L,10
-Labette,Oswego W3,President,,Write-ins,,3
-Labette,Oswego W3,U.S. Senate,,Jerry  Moran,R,125
-Labette,Oswego W3,U.S. Senate,,Patrick  Wiesner,D,39
-Labette,Oswego W3,U.S. Senate,,Robert  D  Garrard,L,17
-Labette,Oswego W3,U.S. House,2,Lynn  Jenkins,R,131
-Labette,Oswego W3,U.S. House,2,Britani  Potter,D,44
-Labette,Oswego W3,U.S. House,2,James Bales,L,8
-Labette,Oswego W3,State Senate,15,Chuck  Schmidt,D,72
-Labette,Oswego W3,State Senate,15,Dan  Goddard,R,106
-Labette,Oswego W3,State Senate,15,Write-ins,,1
-Labette,Oswego W3,State House,7,Richard Proehl,R,159
-Labette,Oswego W3,State House,7,Write-ins,,4
-Labette,Canada,President,,Stein/Baraka,I,2
-Labette,Canada,President,,Trump/Pence,R,99
-Labette,Canada,President,,Clinton/Kaine,D,15
-Labette,Canada,President,,Johnson/Weld,L,1
-Labette,Canada,U.S. Senate,,Jerry  Moran,R,90
-Labette,Canada,U.S. Senate,,Patrick  Wiesner,D,19
-Labette,Canada,U.S. Senate,,Robert  D  Garrard,L,7
-Labette,Canada,U.S. Senate,,Write-ins,,1
-Labette,Canada,U.S. House,2,Lynn  Jenkins,R,90
-Labette,Canada,U.S. House,2,Britani  Potter,D,22
-Labette,Canada,U.S. House,2,James Bales,L,3
-Labette,Canada,U.S. House,2,Write-ins,,1
-Labette,Canada,State Senate,15,Chuck  Schmidt,D,31
-Labette,Canada,State Senate,15,Dan  Goddard,R,85
-Labette,Canada,State Senate,15,Write-ins,,1
-Labette,Canada,State House,7,Richard Proehl,R,109
-Labette,Canada,State House,7,Write-ins,,3
-Labette,Elm Grove,President,,Stein/Baraka,I,10
-Labette,Elm Grove,President,,Trump/Pence,R,311
-Labette,Elm Grove,President,,Clinton/Kaine,D,54
-Labette,Elm Grove,President,,Johnson/Weld,L,9
-Labette,Elm Grove,President,,Write-ins,,6
-Labette,Elm Grove,U.S. Senate,,Jerry  Moran,R,304
-Labette,Elm Grove,U.S. Senate,,Patrick  Wiesner,D,59
-Labette,Elm Grove,U.S. Senate,,Robert  D  Garrard,L,22
-Labette,Elm Grove,U.S. House,2,Lynn  Jenkins,R,323
-Labette,Elm Grove,U.S. House,2,Britani  Potter,D,48
-Labette,Elm Grove,U.S. House,2,James Bales,L,14
-Labette,Elm Grove,U.S. House,2,Write-ins,,1
-Labette,Elm Grove,State Senate,15,Chuck  Schmidt,D,102
-Labette,Elm Grove,State Senate,15,Dan  Goddard,R,282
-Labette,Elm Grove,State Senate,15,Write-ins,,1
-Labette,Elm Grove,State House,7,Richard Proehl,R,326
-Labette,Elm Grove,State House,7,Write-ins,,9
-Labette,Fairview,President,,Stein/Baraka,I,2
-Labette,Fairview,President,,Trump/Pence,R,84
-Labette,Fairview,President,,Clinton/Kaine,D,12
-Labette,Fairview,President,,Johnson/Weld,L,4
-Labette,Fairview,U.S. Senate,,Jerry  Moran,R,81
-Labette,Fairview,U.S. Senate,,Patrick  Wiesner,D,15
-Labette,Fairview,U.S. Senate,,Robert  D  Garrard,L,2
-Labette,Fairview,U.S. House,2,Lynn  Jenkins,R,80
-Labette,Fairview,U.S. House,2,Britani  Potter,D,18
-Labette,Fairview,U.S. House,2,James Bales,L,2
-Labette,Fairview,State Senate,15,Chuck  Schmidt,D,29
-Labette,Fairview,State Senate,15,Dan  Goddard,R,68
-Labette,Fairview,State House,7,Richard Proehl,R,83
-Labette,Hackberry,President,,Stein/Baraka,I,3
-Labette,Hackberry,President,,Trump/Pence,R,122
-Labette,Hackberry,President,,Clinton/Kaine,D,24
-Labette,Hackberry,President,,Johnson/Weld,L,5
-Labette,Hackberry,President,,Write-ins,,3
-Labette,Hackberry,U.S. Senate,,Jerry  Moran,R,126
-Labette,Hackberry,U.S. Senate,,Patrick  Wiesner,D,22
-Labette,Hackberry,U.S. Senate,,Robert  D  Garrard,L,8
-Labette,Hackberry,U.S. House,2,Lynn  Jenkins,R,126
-Labette,Hackberry,U.S. House,2,Britani  Potter,D,23
-Labette,Hackberry,U.S. House,2,James Bales,L,8
-Labette,Hackberry,State Senate,15,Chuck  Schmidt,D,32
-Labette,Hackberry,State Senate,15,Dan  Goddard,R,117
-Labette,Hackberry,State House,7,Richard Proehl,R,119
-Labette,Hackberry,State House,7,Write-ins,,4
-Labette,Howard,President,,Stein/Baraka,I,2
-Labette,Howard,President,,Trump/Pence,R,133
-Labette,Howard,President,,Clinton/Kaine,D,29
-Labette,Howard,President,,Johnson/Weld,L,4
-Labette,Howard,President,,Write-ins,,3
-Labette,Howard,U.S. Senate,,Jerry  Moran,R,125
-Labette,Howard,U.S. Senate,,Patrick  Wiesner,D,33
-Labette,Howard,U.S. Senate,,Robert  D  Garrard,L,11
-Labette,Howard,U.S. House,2,Lynn  Jenkins,R,135
-Labette,Howard,U.S. House,2,Britani  Potter,D,29
-Labette,Howard,U.S. House,2,James Bales,L,6
-Labette,Howard,State Senate,15,Chuck  Schmidt,D,52
-Labette,Howard,State Senate,15,Dan  Goddard,R,116
-Labette,Howard,State House,7,Richard Proehl,R,139
-Labette,Howard,State House,7,Write-ins,,1
-Labette,Labette,President,,Stein/Baraka,I,5
-Labette,Labette,President,,Trump/Pence,R,157
-Labette,Labette,President,,Clinton/Kaine,D,26
-Labette,Labette,President,,Johnson/Weld,L,3
-Labette,Labette,President,,Castle/Bradley,,4
-Labette,Labette,President,,Write-ins,,4
-Labette,Labette,U.S. Senate,,Jerry  Moran,R,155
-Labette,Labette,U.S. Senate,,Patrick  Wiesner,D,34
-Labette,Labette,U.S. Senate,,Robert  D  Garrard,L,11
-Labette,Labette,U.S. Senate,,Write-ins,,1
-Labette,Labette,U.S. House,2,Lynn  Jenkins,R,165
-Labette,Labette,U.S. House,2,Britani  Potter,D,25
-Labette,Labette,U.S. House,2,James Bales,L,6
-Labette,Labette,State Senate,15,Chuck  Schmidt,D,50
-Labette,Labette,State Senate,15,Dan  Goddard,R,146
-Labette,Labette,State Senate,15,Write-ins,,1
-Labette,Labette,State House,7,Richard Proehl,R,173
-Labette,Labette,State House,7,Write-ins,,5
-Labette,Liberty,President,,Stein/Baraka,I,4
-Labette,Liberty,President,,Trump/Pence,R,141
-Labette,Liberty,President,,Clinton/Kaine,D,38
-Labette,Liberty,President,,Johnson/Weld,L,7
-Labette,Liberty,President,,McMullin/Johnson,,1
-Labette,Liberty,President,,Write-ins,,4
-Labette,Liberty,U.S. Senate,,Jerry  Moran,R,136
-Labette,Liberty,U.S. Senate,,Patrick  Wiesner,D,39
-Labette,Liberty,U.S. Senate,,Robert  D  Garrard,L,15
-Labette,Liberty,U.S. House,2,Lynn  Jenkins,R,140
-Labette,Liberty,U.S. House,2,Britani  Potter,D,39
-Labette,Liberty,U.S. House,2,James Bales,L,12
-Labette,Liberty,State Senate,15,Chuck  Schmidt,D,59
-Labette,Liberty,State Senate,15,Dan  Goddard,R,131
-Labette,Liberty,State House,7,Richard Proehl,R,172
-Labette,Liberty,State House,7,Write-ins,,1
-Labette,Montana,President,,Stein/Baraka,I,1
-Labette,Montana,President,,Trump/Pence,R,69
-Labette,Montana,President,,Clinton/Kaine,D,10
-Labette,Montana,U.S. Senate,,Jerry  Moran,R,64
-Labette,Montana,U.S. Senate,,Patrick  Wiesner,D,12
-Labette,Montana,U.S. Senate,,Robert  D  Garrard,L,2
-Labette,Montana,U.S. House,2,Lynn  Jenkins,R,66
-Labette,Montana,U.S. House,2,Britani  Potter,D,11
-Labette,Montana,U.S. House,2,James Bales,L,1
-Labette,Montana,State Senate,15,Chuck  Schmidt,D,20
-Labette,Montana,State Senate,15,Dan  Goddard,R,58
-Labette,Montana,State House,7,Richard Proehl,R,62
-Labette,Montana,State House,7,Write-ins,,2
-Labette,Mound Valley,President,,Stein/Baraka,I,10
-Labette,Mound Valley,President,,Trump/Pence,R,271
-Labette,Mound Valley,President,,Clinton/Kaine,D,43
-Labette,Mound Valley,President,,Johnson/Weld,L,10
-Labette,Mound Valley,President,,Write-ins,,4
-Labette,Mound Valley,U.S. Senate,,Jerry  Moran,R,254
-Labette,Mound Valley,U.S. Senate,,Patrick  Wiesner,D,55
-Labette,Mound Valley,U.S. Senate,,Robert  D  Garrard,L,29
-Labette,Mound Valley,U.S. House,2,Lynn  Jenkins,R,253
-Labette,Mound Valley,U.S. House,2,Britani  Potter,D,66
-Labette,Mound Valley,U.S. House,2,James Bales,L,18
-Labette,Mound Valley,State Senate,15,Chuck  Schmidt,D,110
-Labette,Mound Valley,State Senate,15,Dan  Goddard,R,225
-Labette,Mound Valley,State Senate,15,Write-ins,,1
-Labette,Mound Valley,State House,7,Richard Proehl,R,295
-Labette,Mound Valley,State House,7,Write-ins,,6
-Labette,Mt Pleasant,President,,Stein/Baraka,I,14
-Labette,Mt Pleasant,President,,Trump/Pence,R,414
-Labette,Mt Pleasant,President,,Clinton/Kaine,D,117
-Labette,Mt Pleasant,President,,Johnson/Weld,L,29
-Labette,Mt Pleasant,President,,Write-ins,,5
-Labette,Mt Pleasant,U.S. Senate,,Jerry  Moran,R,410
-Labette,Mt Pleasant,U.S. Senate,,Patrick  Wiesner,D,124
-Labette,Mt Pleasant,U.S. Senate,,Robert  D  Garrard,L,32
-Labette,Mt Pleasant,U.S. Senate,,Write-ins,,1
-Labette,Mt Pleasant,U.S. House,2,Lynn  Jenkins,R,445
-Labette,Mt Pleasant,U.S. House,2,Britani  Potter,D,105
-Labette,Mt Pleasant,U.S. House,2,James Bales,L,22
-Labette,Mt Pleasant,U.S. House,2,Write-ins,,2
-Labette,Mt Pleasant,State Senate,15,Chuck  Schmidt,D,229
-Labette,Mt Pleasant,State Senate,15,Dan  Goddard,R,335
-Labette,Mt Pleasant,State Senate,15,Write-ins,,1
-Labette,Mt Pleasant,State House,7,Richard Proehl,R,484
-Labette,Mt Pleasant,State House,7,Write-ins,,21
-Labette,Neosho,President,,Stein/Baraka,I,0
-Labette,Neosho,President,,Trump/Pence,R,57
-Labette,Neosho,President,,Clinton/Kaine,D,28
-Labette,Neosho,President,,Johnson/Weld,L,1
-Labette,Neosho,President,,Write-ins,,1
-Labette,Neosho,U.S. Senate,,Jerry  Moran,R,44
-Labette,Neosho,U.S. Senate,,Patrick  Wiesner,D,34
-Labette,Neosho,U.S. Senate,,Robert  D  Garrard,L,3
-Labette,Neosho,U.S. House,2,Lynn  Jenkins,R,53
-Labette,Neosho,U.S. House,2,Britani  Potter,D,24
-Labette,Neosho,U.S. House,2,James Bales,L,6
-Labette,Neosho,State Senate,15,Chuck  Schmidt,D,41
-Labette,Neosho,State Senate,15,Dan  Goddard,R,39
-Labette,Neosho,State Senate,15,Write-ins,,1
-Labette,Neosho,State House,7,Richard Proehl,R,69
-Labette,Neosho,State House,7,Write-ins,,2
-Labette,North,President,,Stein/Baraka,I,8
-Labette,North,President,,Trump/Pence,R,212
-Labette,North,President,,Clinton/Kaine,D,89
-Labette,North,President,,Johnson/Weld,L,10
-Labette,North,President,,Write-ins,,9
-Labette,North,U.S. Senate,,Jerry  Moran,R,207
-Labette,North,U.S. Senate,,Patrick  Wiesner,D,82
-Labette,North,U.S. Senate,,Robert  D  Garrard,L,21
-Labette,North,U.S. House,2,Lynn  Jenkins,R,226
-Labette,North,U.S. House,2,Britani  Potter,D,73
-Labette,North,U.S. House,2,James Bales,L,12
-Labette,North,State Senate,15,Chuck  Schmidt,D,110
-Labette,North,State Senate,15,Dan  Goddard,R,200
-Labette,North,State Senate,15,Write-ins,,1
-Labette,North,State House,7,Richard Proehl,R,258
-Labette,North,State House,7,Write-ins,,8
-Labette,Osage,President,,Stein/Baraka,I,8
-Labette,Osage,President,,Trump/Pence,R,234
-Labette,Osage,President,,Clinton/Kaine,D,70
-Labette,Osage,President,,Johnson/Weld,L,7
-Labette,Osage,President,,Write-ins,,5
-Labette,Osage,U.S. Senate,,Jerry  Moran,R,220
-Labette,Osage,U.S. Senate,,Patrick  Wiesner,D,70
-Labette,Osage,U.S. Senate,,Robert  D  Garrard,L,22
-Labette,Osage,U.S. House,2,Lynn  Jenkins,R,242
-Labette,Osage,U.S. House,2,Britani  Potter,D,60
-Labette,Osage,U.S. House,2,James Bales,L,14
-Labette,Osage,State Senate,13,Jake  LaTumer,R,15
-Labette,Osage,State Senate,13,Lynn  D  Grant,D,12
-Labette,Osage,State Senate,15,Chuck  Schmidt,D,96
-Labette,Osage,State Senate,15,Dan  Goddard,R,217
-Labette,Osage,State Senate,15,Write-ins,,2
-Labette,Osage,State House,7,Richard Proehl,R,113
-Labette,Osage,State House,7,Write-ins,,5
-Labette,Oswego,President,,Stein/Baraka,I,1
-Labette,Oswego,President,,Trump/Pence,R,97
-Labette,Oswego,President,,Clinton/Kaine,D,22
-Labette,Oswego,President,,Johnson/Weld,L,3
-Labette,Oswego,President,,McMullin/Johnson,,3
-Labette,Oswego,President,,Hoefing/Schulin,,1
-Labette,Oswego,President,,Write-ins,,1
-Labette,Oswego,U.S. Senate,,Jerry  Moran,R,98
-Labette,Oswego,U.S. Senate,,Patrick  Wiesner,D,20
-Labette,Oswego,U.S. Senate,,Robert  D  Garrard,L,6
-Labette,Oswego,U.S. House,2,Lynn  Jenkins,R,100
-Labette,Oswego,U.S. House,2,Britani  Potter,D,20
-Labette,Oswego,U.S. House,2,James Bales,L,6
-Labette,Oswego,State Senate,13,Jake  LaTumer,R,46
-Labette,Oswego,State Senate,13,Lynn  D  Grant,D,35
-Labette,Oswego,State Senate,15,Chuck  Schmidt,D,26
-Labette,Oswego,State Senate,15,Dan  Goddard,R,98
-Labette,Richland 1A,President,,Stein/Baraka,I,1
-Labette,Richland 1A,President,,Trump/Pence,R,20
-Labette,Richland 1A,President,,Clinton/Kaine,D,5
-Labette,Richland 1A,President,,Johnson/Weld,L,1
-Labette,Richland 1A,U.S. Senate,,Jerry  Moran,R,19
-Labette,Richland 1A,U.S. Senate,,Patrick  Wiesner,D,7
-Labette,Richland 1A,U.S. Senate,,Robert  D  Garrard,L,2
-Labette,Richland 1A,U.S. House,2,Lynn  Jenkins,R,25
-Labette,Richland 1A,U.S. House,2,Britani  Potter,D,3
-Labette,Richland 1A,U.S. House,2,James Bales,L,1
-Labette,Richland 1A,State Senate,13,Jake  LaTumer,R,15
-Labette,Richland 1A,State Senate,13,Lynn  D  Grant,D,12
-Labette,Richland 1A,State House,1,Michael Houser,R,24
-Labette,Richland 1A,State House,1,Write-ins,,0
-Labette,Richland H007,President,,Stein/Baraka,I,2
-Labette,Richland H007,President,,Trump/Pence,R,54
-Labette,Richland H007,President,,Clinton/Kaine,D,23
-Labette,Richland H007,President,,Johnson/Weld,L,2
-Labette,Richland H007,U.S. Senate,,Jerry  Moran,R,53
-Labette,Richland H007,U.S. Senate,,Patrick  Wiesner,D,22
-Labette,Richland H007,U.S. Senate,,Robert  D  Garrard,L,5
-Labette,Richland H007,U.S. House,2,Lynn  Jenkins,R,60
-Labette,Richland H007,U.S. House,2,Britani  Potter,D,18
-Labette,Richland H007,U.S. House,2,James Bales,L,2
-Labette,Richland H007,State Senate,13,Jake  LaTumer,R,46
-Labette,Richland H007,State Senate,13,Lynn  D  Grant,D,35
-Labette,Richland H007,State Senate,13,Write-ins,,0
-Labette,Richland H007,State House,7,Richard Proehl,R,70
-Labette,Richland H007,State House,7,Write-ins,,1
-Labette,Richland 1B,President,,Stein/Baraka,I,1
-Labette,Richland 1B,President,,Trump/Pence,R,16
-Labette,Richland 1B,President,,Clinton/Kaine,D,4
-Labette,Richland 1B,U.S. Senate,,Jerry  Moran,R,16
-Labette,Richland 1B,U.S. Senate,,Patrick  Wiesner,D,2
-Labette,Richland 1B,U.S. Senate,,Robert  D  Garrard,L,1
-Labette,Richland 1B,U.S. House,2,Lynn  Jenkins,R,17
-Labette,Richland 1B,U.S. House,2,Britani  Potter,D,1
-Labette,Richland 1B,U.S. House,2,James Bales,L,1
-Labette,Richland 1B,State Senate,13,Jake  LaTumer,R,11
-Labette,Richland 1B,State Senate,13,Lynn  D  Grant,D,7
-Labette,Richland 1B,State House,1,Michael Houser,R,17
-Labette,Richland 1B,State House,1,Write-ins,,1
-Labette,Walton,President,,Stein/Baraka,I,3
-Labette,Walton,President,,Trump/Pence,R,264
-Labette,Walton,President,,Clinton/Kaine,D,110
-Labette,Walton,President,,Johnson/Weld,L,7
-Labette,Walton,President,,Write-ins,,2
-Labette,Walton,U.S. Senate,,Jerry  Moran,R,251
-Labette,Walton,U.S. Senate,,Patrick  Wiesner,D,104
-Labette,Walton,U.S. Senate,,Robert  D  Garrard,L,20
-Labette,Walton,U.S. Senate,,Write-ins,,2
-Labette,Walton,U.S. House,2,Lynn  Jenkins,R,274
-Labette,Walton,U.S. House,2,Britani  Potter,D,92
-Labette,Walton,U.S. House,2,James Bales,L,14
-Labette,Walton,U.S. House,2,Write-ins,,1
-Labette,Walton,State Senate,15,Chuck  Schmidt,D,122
-Labette,Walton,State Senate,15,Dan  Goddard,R,257
-Labette,Walton,State Senate,15,Write-ins,,1
-Labette,Walton,State House,7,Richard Proehl,R,326
-Labette,Walton,State House,7,Write-ins,,14
-Labette,Hand Count,President,,Stein/Baraka,I,3
-Labette,Hand Count,President,,Trump/Pence,R,19
-Labette,Hand Count,President,,Clinton/Kaine,D,14
-Labette,Hand Count,President,,Johnson/Weld,L,3
-Labette,Hand Count,President,,Write-ins,,0
-Labette,Hand Count,U.S. Senate,,Jerry  Moran,R,21
-Labette,Hand Count,U.S. Senate,,Patrick  Wiesner,D,12
-Labette,Hand Count,U.S. Senate,,Robert  D  Garrard,L,3
-Labette,Hand Count,U.S. Senate,,Write-ins,,0
-Labette,Hand Count,U.S. House,2,Lynn  Jenkins,R,26
-Labette,Hand Count,U.S. House,2,Britani  Potter,D,9
-Labette,Hand Count,U.S. House,2,James Bales,L,2
-Labette,Hand Count,U.S. House,2,Write-ins,,0
-Labette,Hand Count,State Senate,13,Jake  LaTumer,R,2
-Labette,Hand Count,State Senate,13,Lynn  D  Grant,D,1
-Labette,Hand Count,State Senate,13,Write-ins,,0
-Labette,Hand Count,State Senate,15,Chuck  Schmidt,D,12
-Labette,Hand Count,State Senate,15,Dan  Goddard,R,20
-Labette,Hand Count,State Senate,15,Write-ins,,0
-Labette,Hand Count,State House,1,Michael Houser,R,3
-Labette,Hand Count,State House,1,Write-ins,,0
-Labette,Hand Count,State House,7,Richard Proehl,R,22
-Labette,Hand Count,State House,7,Write-ins,,1
-Labette,Provisional,President,,Stein/Baraka,I,1
-Labette,Provisional,President,,Trump/Pence,R,84
-Labette,Provisional,President,,Clinton/Kaine,D,43
-Labette,Provisional,President,,Johnson/Weld,L,4
-Labette,Provisional,President,,Write-ins,,2
-Labette,Provisional,U.S. Senate,,Jerry  Moran,R,74
-Labette,Provisional,U.S. Senate,,Patrick  Wiesner,D,44
-Labette,Provisional,U.S. Senate,,Robert  D  Garrard,L,9
-Labette,Provisional,U.S. Senate,,Write-ins,,1
-Labette,Provisional,U.S. House,2,Lynn  Jenkins,R,78
-Labette,Provisional,U.S. House,2,Britani  Potter,D,38
-Labette,Provisional,U.S. House,2,James Bales,L,8
-Labette,Provisional,U.S. House,2,Write-ins,,1
-Labette,Provisional,State Senate,13,Jake  LaTumer,R,1
-Labette,Provisional,State Senate,13,Lynn  D  Grant,D,1
-Labette,Provisional,State Senate,15,Chuck  Schmidt,D,46
-Labette,Provisional,State Senate,15,Dan  Goddard,R,79
-Labette,Provisional,State Senate,15,Write-ins,,1
-Labette,Provisional,State House,1,Michael Houser,R,1
-Labette,Provisional,State House,1,Write-ins,,1
-Labette,Provisional,State House,7,Richard Proehl,R,115
-Labette,Provisional,State House,7,Write-ins,,1
-Labette,LABETTE KS,President,,Stein/Baraka,I,166
-Labette,LABETTE KS,President,,Trump/Pence,R,5335
-Labette,LABETTE KS,President,,Clinton/Kaine,D,2291
-Labette,LABETTE KS,President,,Johnson/Weld,L,298
-Labette,LABETTE KS,President,,Darrell Castle,,6
-Labette,LABETTE KS,President,,Evan McMullin,,10
-Labette,LABETTE KS,President,,Tom Hoefling,,1
-Labette,LABETTE KS,President,,Write-ins,,111
-Labette,LABETTE KS,U.S. Senate,,Jerry  Moran,R,5212
-Labette,LABETTE KS,U.S. Senate,,Patrick  Wiesner,D,2319
-Labette,LABETTE KS,U.S. Senate,,Robert  D  Garrard,L,508
-Labette,LABETTE KS,U.S. Senate,,Write-ins,,15
-Labette,LABETTE KS,U.S. House,2,Lynn  Jenkins,R,5622
-Labette,LABETTE KS,U.S. House,2,Britani  Potter,D,2103
-Labette,LABETTE KS,U.S. House,2,James Bales,L,373
-Labette,LABETTE KS,U.S. House,2,Write-ins,,11
-Labette,LABETTE KS,State Senate,13,Jake  LaTumer,R,279
-Labette,LABETTE KS,State Senate,13,Lynn  D  Grant,D,215
-Labette,LABETTE KS,State Senate,13,Write-ins,,2
-Labette,LABETTE KS,State Senate,15,Chuck  Schmidt,D,2873
-Labette,LABETTE KS,State Senate,15,Dan  Goddard,R,4679
-Labette,LABETTE KS,State Senate,15,Write-ins,,23
-Labette,LABETTE KS,State House,1,Michael Houser,R,348
-Labette,LABETTE KS,State House,1,Write-ins,,11
-Labette,LABETTE KS,State House,7,Richard Proehl,R,6573
-Labette,LABETTE KS,State House,7,Write-ins,,198
+county,precinct,office,district,party,candidate,votes,vtd
+LABETTE,Altamont City Part A,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00001A
+LABETTE,Canada Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",109,000020
+LABETTE,Chetopa Ward 1,Kansas House of Representatives,1,Republican,"Houser, Michael",100,000030
+LABETTE,Chetopa Ward 2,Kansas House of Representatives,1,Republican,"Houser, Michael",91,000040
+LABETTE,Chetopa Ward 3,Kansas House of Representatives,1,Republican,"Houser, Michael",115,000050
+LABETTE,Elm Grove Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",332,000060
+LABETTE,Fairview Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",83,000070
+LABETTE,Hackberry Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",120,000080
+LABETTE,Howard Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",141,000090
+LABETTE,Labette Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",173,000100
+LABETTE,Liberty Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",174,000110
+LABETTE,Montana Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",62,000120
+LABETTE,Mound Valley Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",299,000130
+LABETTE,Mount Pleasant Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",494,000140
+LABETTE,Neosho Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",69,000150
+LABETTE,North Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",262,00016A
+LABETTE,North Township Enclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00016B
+LABETTE,Oswego City Ward 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",212,000180
+LABETTE,Oswego City Ward 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",213,00019A
+LABETTE,Oswego City Ward 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",161,000200
+LABETTE,Oswego Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",115,000210
+LABETTE,Parsons Ward 1 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",294,000220
+LABETTE,Parsons Ward 1 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",130,000230
+LABETTE,Parsons Ward 1 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",103,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",93,000250
+LABETTE,Parsons Ward 2 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",239,000260
+LABETTE,Parsons Ward 2 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",261,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",114,000280
+LABETTE,Parsons Ward 3 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",285,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",238,000300
+LABETTE,Parsons Ward 3 Precinct 4,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",341,000310
+LABETTE,Parsons Ward 4 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",149,000320
+LABETTE,Parsons Ward 4 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",197,000330
+LABETTE,Parsons Ward 4 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",171,000340
+LABETTE,Parsons Ward 4 Precinct 4,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",255,000350
+LABETTE,Walton Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",330,000370
+LABETTE,Osage Township S14,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,120020
+LABETTE,Osage Township S15,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",284,120030
+LABETTE,Richland Township H1 A,Kansas House of Representatives,1,Republican,"Houser, Michael",25,12004A
+LABETTE,Richland Township H1 B,Kansas House of Representatives,1,Republican,"Houser, Michael",17,12004B
+LABETTE,Richland Township H1,Kansas House of Representatives,1,Republican,"Houser, Michael",0,120040
+LABETTE,Richland Township H7,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",70,120050
+LABETTE,Oswego City Ward 1 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,900010
+LABETTE,Altamont City Part A,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,00001A
+LABETTE,Altamont City Part A,Kansas Senate,15,Republican,"Goddard, Dan",0,00001A
+LABETTE,Canada Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",31,000020
+LABETTE,Canada Township,Kansas Senate,15,Republican,"Goddard, Dan",85,000020
+LABETTE,Chetopa Ward 1,Kansas Senate,13,Democratic,"Grant, Lynn D.",46,000030
+LABETTE,Chetopa Ward 1,Kansas Senate,13,Republican,"LaTurner, Jake",60,000030
+LABETTE,Chetopa Ward 2,Kansas Senate,13,Democratic,"Grant, Lynn D.",55,000040
+LABETTE,Chetopa Ward 2,Kansas Senate,13,Republican,"LaTurner, Jake",61,000040
+LABETTE,Chetopa Ward 3,Kansas Senate,13,Democratic,"Grant, Lynn D.",60,000050
+LABETTE,Chetopa Ward 3,Kansas Senate,13,Republican,"LaTurner, Jake",85,000050
+LABETTE,Elm Grove Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",105,000060
+LABETTE,Elm Grove Township,Kansas Senate,15,Republican,"Goddard, Dan",285,000060
+LABETTE,Fairview Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",29,000070
+LABETTE,Fairview Township,Kansas Senate,15,Republican,"Goddard, Dan",68,000070
+LABETTE,Hackberry Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",32,000080
+LABETTE,Hackberry Township,Kansas Senate,15,Republican,"Goddard, Dan",118,000080
+LABETTE,Howard Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",52,000090
+LABETTE,Howard Township,Kansas Senate,15,Republican,"Goddard, Dan",118,000090
+LABETTE,Labette Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",50,000100
+LABETTE,Labette Township,Kansas Senate,15,Republican,"Goddard, Dan",147,000100
+LABETTE,Liberty Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",59,000110
+LABETTE,Liberty Township,Kansas Senate,15,Republican,"Goddard, Dan",133,000110
+LABETTE,Montana Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",20,000120
+LABETTE,Montana Township,Kansas Senate,15,Republican,"Goddard, Dan",58,000120
+LABETTE,Mound Valley Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",114,000130
+LABETTE,Mound Valley Township,Kansas Senate,15,Republican,"Goddard, Dan",226,000130
+LABETTE,Mount Pleasant Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",232,000140
+LABETTE,Mount Pleasant Township,Kansas Senate,15,Republican,"Goddard, Dan",342,000140
+LABETTE,Neosho Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",41,000150
+LABETTE,Neosho Township,Kansas Senate,15,Republican,"Goddard, Dan",39,000150
+LABETTE,North Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",112,00016A
+LABETTE,North Township,Kansas Senate,15,Republican,"Goddard, Dan",203,00016A
+LABETTE,North Township Enclave,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,00016B
+LABETTE,North Township Enclave,Kansas Senate,15,Republican,"Goddard, Dan",0,00016B
+LABETTE,Oswego City Ward 1,Kansas Senate,15,Democratic,"Schmidt, Chuck",81,000180
+LABETTE,Oswego City Ward 1,Kansas Senate,15,Republican,"Goddard, Dan",175,000180
+LABETTE,Oswego City Ward 2,Kansas Senate,15,Democratic,"Schmidt, Chuck",106,00019A
+LABETTE,Oswego City Ward 2,Kansas Senate,15,Republican,"Goddard, Dan",139,00019A
+LABETTE,Oswego City Ward 3,Kansas Senate,15,Democratic,"Schmidt, Chuck",73,000200
+LABETTE,Oswego City Ward 3,Kansas Senate,15,Republican,"Goddard, Dan",107,000200
+LABETTE,Oswego Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",27,000210
+LABETTE,Oswego Township,Kansas Senate,15,Republican,"Goddard, Dan",100,000210
+LABETTE,Parsons Ward 1 Precinct 1,Kansas Senate,15,Democratic,"Schmidt, Chuck",129,000220
+LABETTE,Parsons Ward 1 Precinct 1,Kansas Senate,15,Republican,"Goddard, Dan",196,000220
+LABETTE,Parsons Ward 1 Precinct 2,Kansas Senate,15,Democratic,"Schmidt, Chuck",69,000230
+LABETTE,Parsons Ward 1 Precinct 2,Kansas Senate,15,Republican,"Goddard, Dan",89,000230
+LABETTE,Parsons Ward 1 Precinct 3,Kansas Senate,15,Democratic,"Schmidt, Chuck",59,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Kansas Senate,15,Republican,"Goddard, Dan",65,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Kansas Senate,15,Republican,"Goddard, Dan",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Kansas Senate,15,Democratic,"Schmidt, Chuck",45,000250
+LABETTE,Parsons Ward 2 Precinct 1,Kansas Senate,15,Republican,"Goddard, Dan",58,000250
+LABETTE,Parsons Ward 2 Precinct 2,Kansas Senate,15,Democratic,"Schmidt, Chuck",134,000260
+LABETTE,Parsons Ward 2 Precinct 2,Kansas Senate,15,Republican,"Goddard, Dan",136,000260
+LABETTE,Parsons Ward 2 Precinct 3,Kansas Senate,15,Democratic,"Schmidt, Chuck",137,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Kansas Senate,15,Republican,"Goddard, Dan",167,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Kansas Senate,15,Republican,"Goddard, Dan",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Kansas Senate,15,Democratic,"Schmidt, Chuck",45,000280
+LABETTE,Parsons Ward 3 Precinct 1,Kansas Senate,15,Republican,"Goddard, Dan",83,000280
+LABETTE,Parsons Ward 3 Precinct 2,Kansas Senate,15,Democratic,"Schmidt, Chuck",179,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Kansas Senate,15,Republican,"Goddard, Dan",172,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Kansas Senate,15,Republican,"Goddard, Dan",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Kansas Senate,15,Democratic,"Schmidt, Chuck",128,000300
+LABETTE,Parsons Ward 3 Precinct 3,Kansas Senate,15,Republican,"Goddard, Dan",159,000300
+LABETTE,Parsons Ward 3 Precinct 4,Kansas Senate,15,Democratic,"Schmidt, Chuck",193,000310
+LABETTE,Parsons Ward 3 Precinct 4,Kansas Senate,15,Republican,"Goddard, Dan",213,000310
+LABETTE,Parsons Ward 4 Precinct 1,Kansas Senate,15,Democratic,"Schmidt, Chuck",64,000320
+LABETTE,Parsons Ward 4 Precinct 1,Kansas Senate,15,Republican,"Goddard, Dan",109,000320
+LABETTE,Parsons Ward 4 Precinct 2,Kansas Senate,15,Democratic,"Schmidt, Chuck",101,000330
+LABETTE,Parsons Ward 4 Precinct 2,Kansas Senate,15,Republican,"Goddard, Dan",128,000330
+LABETTE,Parsons Ward 4 Precinct 3,Kansas Senate,15,Democratic,"Schmidt, Chuck",88,000340
+LABETTE,Parsons Ward 4 Precinct 3,Kansas Senate,15,Republican,"Goddard, Dan",113,000340
+LABETTE,Parsons Ward 4 Precinct 4,Kansas Senate,15,Democratic,"Schmidt, Chuck",118,000350
+LABETTE,Parsons Ward 4 Precinct 4,Kansas Senate,15,Republican,"Goddard, Dan",169,000350
+LABETTE,Walton Township,Kansas Senate,15,Democratic,"Schmidt, Chuck",123,000370
+LABETTE,Walton Township,Kansas Senate,15,Republican,"Goddard, Dan",260,000370
+LABETTE,Osage Township S14,Kansas Senate,14,Democratic,"Pringle, Mark",0,120020
+LABETTE,Osage Township S14,Kansas Senate,14,Republican,"Givens, Bruce",0,120020
+LABETTE,Osage Township S15,Kansas Senate,15,Democratic,"Schmidt, Chuck",97,120030
+LABETTE,Osage Township S15,Kansas Senate,15,Republican,"Goddard, Dan",219,120030
+LABETTE,Richland Township H1 A,Kansas Senate,13,Democratic,"Grant, Lynn D.",12,12004A
+LABETTE,Richland Township H1 A,Kansas Senate,13,Republican,"LaTurner, Jake",16,12004A
+LABETTE,Richland Township H1 B,Kansas Senate,13,Democratic,"Grant, Lynn D.",7,12004B
+LABETTE,Richland Township H1 B,Kansas Senate,13,Republican,"LaTurner, Jake",11,12004B
+LABETTE,Richland Township H1,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,120040
+LABETTE,Richland Township H1,Kansas Senate,13,Republican,"LaTurner, Jake",0,120040
+LABETTE,Richland Township H7,Kansas Senate,13,Democratic,"Grant, Lynn D.",35,120050
+LABETTE,Richland Township H7,Kansas Senate,13,Republican,"LaTurner, Jake",46,120050
+LABETTE,Oswego City Ward 1 Exclave,Kansas Senate,15,Democratic,"Schmidt, Chuck",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Kansas Senate,15,Republican,"Goddard, Dan",0,900010
+LABETTE,Altamont City Part A,President / Vice President,,independent,"Stein, Jill",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Castle, Darrell L",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Giordani, Rocky",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Hedges, James A",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Hoefling, Tom",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Kahn, Lynn",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"La Riva, Gloria",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Maturen, Michael A",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"McMullin, Evan",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Perry, Darryl",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Schriner, Joe C",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Smith, Mike",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Sood, Ajay",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Sterling, Shawna",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,Libertarian,"Johnson, Gary",0,00001A
+LABETTE,Altamont City Part A,President / Vice President,,Republican,"Trump, Donald J.",0,00001A
+LABETTE,Canada Township,President / Vice President,,independent,"Stein, Jill",2,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+LABETTE,Canada Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+LABETTE,Canada Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,000020
+LABETTE,Canada Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000020
+LABETTE,Canada Township,President / Vice President,,Republican,"Trump, Donald J.",99,000020
+LABETTE,Chetopa Ward 1,President / Vice President,,independent,"Stein, Jill",2,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",5,000030
+LABETTE,Chetopa Ward 1,President / Vice President,,Republican,"Trump, Donald J.",64,000030
+LABETTE,Chetopa Ward 2,President / Vice President,,independent,"Stein, Jill",2,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,000040
+LABETTE,Chetopa Ward 2,President / Vice President,,Republican,"Trump, Donald J.",80,000040
+LABETTE,Chetopa Ward 3,President / Vice President,,independent,"Stein, Jill",3,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",30,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",5,000050
+LABETTE,Chetopa Ward 3,President / Vice President,,Republican,"Trump, Donald J.",112,000050
+LABETTE,Elm Grove Township,President / Vice President,,independent,"Stein, Jill",10,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+LABETTE,Elm Grove Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",55,000060
+LABETTE,Elm Grove Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000060
+LABETTE,Elm Grove Township,President / Vice President,,Republican,"Trump, Donald J.",315,000060
+LABETTE,Fairview Township,President / Vice President,,independent,"Stein, Jill",2,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+LABETTE,Fairview Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+LABETTE,Fairview Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000070
+LABETTE,Fairview Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000070
+LABETTE,Fairview Township,President / Vice President,,Republican,"Trump, Donald J.",84,000070
+LABETTE,Hackberry Township,President / Vice President,,independent,"Stein, Jill",3,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+LABETTE,Hackberry Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+LABETTE,Hackberry Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",24,000080
+LABETTE,Hackberry Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000080
+LABETTE,Hackberry Township,President / Vice President,,Republican,"Trump, Donald J.",124,000080
+LABETTE,Howard Township,President / Vice President,,independent,"Stein, Jill",2,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+LABETTE,Howard Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+LABETTE,Howard Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000090
+LABETTE,Howard Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000090
+LABETTE,Howard Township,President / Vice President,,Republican,"Trump, Donald J.",135,000090
+LABETTE,Labette Township,President / Vice President,,independent,"Stein, Jill",5,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Castle, Darrell L",4,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+LABETTE,Labette Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+LABETTE,Labette Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000100
+LABETTE,Labette Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000100
+LABETTE,Labette Township,President / Vice President,,Republican,"Trump, Donald J.",158,000100
+LABETTE,Liberty Township,President / Vice President,,independent,"Stein, Jill",4,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"McMullin, Evan",1,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+LABETTE,Liberty Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+LABETTE,Liberty Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",38,000110
+LABETTE,Liberty Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000110
+LABETTE,Liberty Township,President / Vice President,,Republican,"Trump, Donald J.",143,000110
+LABETTE,Montana Township,President / Vice President,,independent,"Stein, Jill",1,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+LABETTE,Montana Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+LABETTE,Montana Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000120
+LABETTE,Montana Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+LABETTE,Montana Township,President / Vice President,,Republican,"Trump, Donald J.",69,000120
+LABETTE,Mound Valley Township,President / Vice President,,independent,"Stein, Jill",10,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+LABETTE,Mound Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",46,000130
+LABETTE,Mound Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000130
+LABETTE,Mound Valley Township,President / Vice President,,Republican,"Trump, Donald J.",273,000130
+LABETTE,Mount Pleasant Township,President / Vice President,,independent,"Stein, Jill",14,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",120,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,Libertarian,"Johnson, Gary",30,000140
+LABETTE,Mount Pleasant Township,President / Vice President,,Republican,"Trump, Donald J.",420,000140
+LABETTE,Neosho Township,President / Vice President,,independent,"Stein, Jill",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+LABETTE,Neosho Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+LABETTE,Neosho Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",28,000150
+LABETTE,Neosho Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000150
+LABETTE,Neosho Township,President / Vice President,,Republican,"Trump, Donald J.",57,000150
+LABETTE,North Township,President / Vice President,,independent,"Stein, Jill",9,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Castle, Darrell L",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Giordani, Rocky",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Hedges, James A",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Hoefling, Tom",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Kahn, Lynn",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"La Riva, Gloria",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Maturen, Michael A",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"McMullin, Evan",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Perry, Darryl",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Schriner, Joe C",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Smith, Mike",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Sood, Ajay",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Sterling, Shawna",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016A
+LABETTE,North Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016A
+LABETTE,North Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",86,00016A
+LABETTE,North Township,President / Vice President,,Libertarian,"Johnson, Gary",10,00016A
+LABETTE,North Township,President / Vice President,,Republican,"Trump, Donald J.",215,00016A
+LABETTE,North Township Enclave,President / Vice President,,independent,"Stein, Jill",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Hedges, James A",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Smith, Mike",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00016B
+LABETTE,North Township Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00016B
+LABETTE,Oswego City Ward 1,President / Vice President,,independent,"Stein, Jill",4,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",58,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",10,000180
+LABETTE,Oswego City Ward 1,President / Vice President,,Republican,"Trump, Donald J.",186,000180
+LABETTE,Oswego City Ward 2,President / Vice President,,independent,"Stein, Jill",3,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"McMullin, Evan",1,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",54,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,00019A
+LABETTE,Oswego City Ward 2,President / Vice President,,Republican,"Trump, Donald J.",179,00019A
+LABETTE,Oswego City Ward 3,President / Vice President,,independent,"Stein, Jill",3,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"McMullin, Evan",3,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",47,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",11,000200
+LABETTE,Oswego City Ward 3,President / Vice President,,Republican,"Trump, Donald J.",128,000200
+LABETTE,Oswego Township,President / Vice President,,independent,"Stein, Jill",1,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Hoefling, Tom",1,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+LABETTE,Oswego Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+LABETTE,Oswego Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",22,000210
+LABETTE,Oswego Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000210
+LABETTE,Oswego Township,President / Vice President,,Republican,"Trump, Donald J.",101,000210
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,independent,"Stein, Jill",14,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",1,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",110,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",15,000220
+LABETTE,Parsons Ward 1 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",177,000220
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,independent,"Stein, Jill",2,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",59,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",6,000230
+LABETTE,Parsons Ward 1 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",93,000230
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,independent,"Stein, Jill",2,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",54,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",4,00024A
+LABETTE,Parsons Ward 1 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",67,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,independent,"Stein, Jill",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,independent,"Stein, Jill",4,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",36,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",4,000250
+LABETTE,Parsons Ward 2 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",58,000250
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,independent,"Stein, Jill",7,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",125,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",21,000260
+LABETTE,Parsons Ward 2 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",110,000260
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,independent,"Stein, Jill",5,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",144,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",17,00027A
+LABETTE,Parsons Ward 2 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",128,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,independent,"Stein, Jill",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,independent,"Stein, Jill",1,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",45,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",4,000280
+LABETTE,Parsons Ward 3 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",81,000280
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,independent,"Stein, Jill",6,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",1,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",139,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",20,00029A
+LABETTE,Parsons Ward 3 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",177,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,independent,"Stein, Jill",6,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",120,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",9,000300
+LABETTE,Parsons Ward 3 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",150,000300
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,independent,"Stein, Jill",5,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"McMullin, Evan",3,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",155,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",10,000310
+LABETTE,Parsons Ward 3 Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",242,000310
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,independent,"Stein, Jill",1,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",61,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",6,000320
+LABETTE,Parsons Ward 4 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",103,000320
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,independent,"Stein, Jill",8,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",2,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",78,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",16,000330
+LABETTE,Parsons Ward 4 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",130,000330
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,independent,"Stein, Jill",4,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",88,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",6,000340
+LABETTE,Parsons Ward 4 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",108,000340
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,independent,"Stein, Jill",6,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"McMullin, Evan",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",96,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",10,000350
+LABETTE,Parsons Ward 4 Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",173,000350
+LABETTE,Walton Township,President / Vice President,,independent,"Stein, Jill",3,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Hedges, James A",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"McMullin, Evan",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Perry, Darryl",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Smith, Mike",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Sood, Ajay",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000370
+LABETTE,Walton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000370
+LABETTE,Walton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",112,000370
+LABETTE,Walton Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000370
+LABETTE,Walton Township,President / Vice President,,Republican,"Trump, Donald J.",268,000370
+LABETTE,Osage Township S14,President / Vice President,,independent,"Stein, Jill",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Castle, Darrell L",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Hedges, James A",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"McMullin, Evan",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Perry, Darryl",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Smith, Mike",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Sood, Ajay",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+LABETTE,Osage Township S14,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+LABETTE,Osage Township S14,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120020
+LABETTE,Osage Township S14,President / Vice President,,Libertarian,"Johnson, Gary",0,120020
+LABETTE,Osage Township S14,President / Vice President,,Republican,"Trump, Donald J.",0,120020
+LABETTE,Osage Township S15,President / Vice President,,independent,"Stein, Jill",8,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Hedges, James A",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"McMullin, Evan",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Perry, Darryl",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Smith, Mike",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Sood, Ajay",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+LABETTE,Osage Township S15,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+LABETTE,Osage Township S15,President / Vice President,,Democratic,"Clinton, Hillary Rodham",70,120030
+LABETTE,Osage Township S15,President / Vice President,,Libertarian,"Johnson, Gary",7,120030
+LABETTE,Osage Township S15,President / Vice President,,Republican,"Trump, Donald J.",237,120030
+LABETTE,Richland Township H1 A,President / Vice President,,independent,"Stein, Jill",1,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Basiago, Andrew D.",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Castle, Darrell L",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Giordani, Rocky",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Hedges, James A",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Hoefling, Tom",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Kahn, Lynn",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"La Riva, Gloria",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Levinson, Michael S.",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Maturen, Michael A",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"McMullin, Evan",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Moorehead, Monica G.",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Perry, Darryl",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Schriner, Joe C",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Smith, Mike",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Sood, Ajay",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Sterling, Shawna",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Valdivia, Anthony J",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,Libertarian,"Johnson, Gary",1,12004A
+LABETTE,Richland Township H1 A,President / Vice President,,Republican,"Trump, Donald J.",21,12004A
+LABETTE,Richland Township H1 B,President / Vice President,,independent,"Stein, Jill",1,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Basiago, Andrew D.",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Castle, Darrell L",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Giordani, Rocky",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Hedges, James A",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Hoefling, Tom",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Kahn, Lynn",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"La Riva, Gloria",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Levinson, Michael S.",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Maturen, Michael A",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"McMullin, Evan",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Moorehead, Monica G.",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Perry, Darryl",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Schriner, Joe C",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Smith, Mike",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Sood, Ajay",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Sterling, Shawna",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Valdivia, Anthony J",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,Libertarian,"Johnson, Gary",0,12004B
+LABETTE,Richland Township H1 B,President / Vice President,,Republican,"Trump, Donald J.",16,12004B
+LABETTE,Richland Township H1,President / Vice President,,independent,"Stein, Jill",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Basiago, Andrew D.",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Castle, Darrell L",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Giordani, Rocky",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Hedges, James A",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Kahn, Lynn",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"La Riva, Gloria",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Levinson, Michael S.",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Maturen, Michael A",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"McMullin, Evan",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Moorehead, Monica G.",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Perry, Darryl",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Schriner, Joe C",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Smith, Mike",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Sood, Ajay",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Sterling, Shawna",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Valdivia, Anthony J",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120040
+LABETTE,Richland Township H1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120040
+LABETTE,Richland Township H1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120040
+LABETTE,Richland Township H1,President / Vice President,,Libertarian,"Johnson, Gary",0,120040
+LABETTE,Richland Township H1,President / Vice President,,Republican,"Trump, Donald J.",0,120040
+LABETTE,Richland Township H7,President / Vice President,,independent,"Stein, Jill",2,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Basiago, Andrew D.",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Castle, Darrell L",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Giordani, Rocky",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Hedges, James A",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Kahn, Lynn",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"La Riva, Gloria",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Levinson, Michael S.",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Maturen, Michael A",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"McMullin, Evan",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Moorehead, Monica G.",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Perry, Darryl",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Schriner, Joe C",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Smith, Mike",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Sood, Ajay",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Sterling, Shawna",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Valdivia, Anthony J",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120050
+LABETTE,Richland Township H7,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120050
+LABETTE,Richland Township H7,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,120050
+LABETTE,Richland Township H7,President / Vice President,,Libertarian,"Johnson, Gary",2,120050
+LABETTE,Richland Township H7,President / Vice President,,Republican,"Trump, Donald J.",54,120050
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,independent,"Stein, Jill",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Hedges, James A",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Smith, Mike",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+LABETTE,Oswego City Ward 1 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+LABETTE,Altamont City Part A,United States House of Representatives,2,Democratic,"Potter, Britani",0,00001A
+LABETTE,Altamont City Part A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00001A
+LABETTE,Altamont City Part A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00001A
+LABETTE,Canada Township,United States House of Representatives,2,Democratic,"Potter, Britani",22,000020
+LABETTE,Canada Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000020
+LABETTE,Canada Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",90,000020
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",32,000030
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000030
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",73,000030
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",24,000040
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000040
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",82,000040
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",31,000050
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000050
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",102,000050
+LABETTE,Elm Grove Township,United States House of Representatives,2,Democratic,"Potter, Britani",49,000060
+LABETTE,Elm Grove Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000060
+LABETTE,Elm Grove Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",327,000060
+LABETTE,Fairview Township,United States House of Representatives,2,Democratic,"Potter, Britani",18,000070
+LABETTE,Fairview Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000070
+LABETTE,Fairview Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",80,000070
+LABETTE,Hackberry Township,United States House of Representatives,2,Democratic,"Potter, Britani",23,000080
+LABETTE,Hackberry Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000080
+LABETTE,Hackberry Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",128,000080
+LABETTE,Howard Township,United States House of Representatives,2,Democratic,"Potter, Britani",29,000090
+LABETTE,Howard Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000090
+LABETTE,Howard Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",137,000090
+LABETTE,Labette Township,United States House of Representatives,2,Democratic,"Potter, Britani",25,000100
+LABETTE,Labette Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000100
+LABETTE,Labette Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",166,000100
+LABETTE,Liberty Township,United States House of Representatives,2,Democratic,"Potter, Britani",39,000110
+LABETTE,Liberty Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",12,000110
+LABETTE,Liberty Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",142,000110
+LABETTE,Montana Township,United States House of Representatives,2,Democratic,"Potter, Britani",11,000120
+LABETTE,Montana Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000120
+LABETTE,Montana Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",66,000120
+LABETTE,Mound Valley Township,United States House of Representatives,2,Democratic,"Potter, Britani",67,000130
+LABETTE,Mound Valley Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",19,000130
+LABETTE,Mound Valley Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",256,000130
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Democratic,"Potter, Britani",108,000140
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",22,000140
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",450,000140
+LABETTE,Neosho Township,United States House of Representatives,2,Democratic,"Potter, Britani",24,000150
+LABETTE,Neosho Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000150
+LABETTE,Neosho Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",53,000150
+LABETTE,North Township,United States House of Representatives,2,Democratic,"Potter, Britani",75,00016A
+LABETTE,North Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",12,00016A
+LABETTE,North Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",230,00016A
+LABETTE,North Township Enclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00016B
+LABETTE,North Township Enclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00016B
+LABETTE,North Township Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00016B
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",54,000180
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",12,000180
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",193,000180
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",48,00019A
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,00019A
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",179,00019A
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",44,000200
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000200
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",132,000200
+LABETTE,Oswego Township,United States House of Representatives,2,Democratic,"Potter, Britani",21,000210
+LABETTE,Oswego Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000210
+LABETTE,Oswego Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",102,000210
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Democratic,"Potter, Britani",92,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",221,000220
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Democratic,"Potter, Britani",50,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",99,000230
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Democratic,"Potter, Britani",48,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",68,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Democratic,"Potter, Britani",30,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",66,000250
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Democratic,"Potter, Britani",125,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",130,000260
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Democratic,"Potter, Britani",110,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",184,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Democratic,"Potter, Britani",42,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",79,000280
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Democratic,"Potter, Britani",136,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",204,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Democratic,"Potter, Britani",108,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",19,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",163,000300
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Democratic,"Potter, Britani",146,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",18,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",249,000310
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Democratic,"Potter, Britani",61,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",104,000320
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Democratic,"Potter, Britani",81,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",18,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",127,000330
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Democratic,"Potter, Britani",74,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",12,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",116,000340
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Democratic,"Potter, Britani",80,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",200,000350
+LABETTE,Walton Township,United States House of Representatives,2,Democratic,"Potter, Britani",93,000370
+LABETTE,Walton Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000370
+LABETTE,Walton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",278,000370
+LABETTE,Osage Township S14,United States House of Representatives,2,Democratic,"Potter, Britani",0,120020
+LABETTE,Osage Township S14,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,120020
+LABETTE,Osage Township S14,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120020
+LABETTE,Osage Township S15,United States House of Representatives,2,Democratic,"Potter, Britani",61,120030
+LABETTE,Osage Township S15,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,120030
+LABETTE,Osage Township S15,United States House of Representatives,2,Republican,"Jenkins, Lynn",243,120030
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Democratic,"Potter, Britani",3,12004A
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,12004A
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Republican,"Jenkins, Lynn",26,12004A
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Democratic,"Potter, Britani",1,12004B
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,12004B
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Republican,"Jenkins, Lynn",17,12004B
+LABETTE,Richland Township H1,United States House of Representatives,2,Democratic,"Potter, Britani",0,120040
+LABETTE,Richland Township H1,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,120040
+LABETTE,Richland Township H1,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120040
+LABETTE,Richland Township H7,United States House of Representatives,2,Democratic,"Potter, Britani",18,120050
+LABETTE,Richland Township H7,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,120050
+LABETTE,Richland Township H7,United States House of Representatives,2,Republican,"Jenkins, Lynn",60,120050
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+LABETTE,Altamont City Part A,United States Senate,,write - in,"Smith, DJ",0,00001A
+LABETTE,Altamont City Part A,United States Senate,,Democratic,"Wiesner, Patrick",0,00001A
+LABETTE,Altamont City Part A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00001A
+LABETTE,Altamont City Part A,United States Senate,,Republican,"Moran, Jerry",0,00001A
+LABETTE,Canada Township,United States Senate,,write - in,"Smith, DJ",0,000020
+LABETTE,Canada Township,United States Senate,,Democratic,"Wiesner, Patrick",19,000020
+LABETTE,Canada Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000020
+LABETTE,Canada Township,United States Senate,,Republican,"Moran, Jerry",90,000020
+LABETTE,Chetopa Ward 1,United States Senate,,write - in,"Smith, DJ",0,000030
+LABETTE,Chetopa Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",44,000030
+LABETTE,Chetopa Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+LABETTE,Chetopa Ward 1,United States Senate,,Republican,"Moran, Jerry",59,000030
+LABETTE,Chetopa Ward 2,United States Senate,,write - in,"Smith, DJ",0,000040
+LABETTE,Chetopa Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",33,000040
+LABETTE,Chetopa Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",6,000040
+LABETTE,Chetopa Ward 2,United States Senate,,Republican,"Moran, Jerry",74,000040
+LABETTE,Chetopa Ward 3,United States Senate,,write - in,"Smith, DJ",0,000050
+LABETTE,Chetopa Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",36,000050
+LABETTE,Chetopa Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",9,000050
+LABETTE,Chetopa Ward 3,United States Senate,,Republican,"Moran, Jerry",96,000050
+LABETTE,Elm Grove Township,United States Senate,,write - in,"Smith, DJ",0,000060
+LABETTE,Elm Grove Township,United States Senate,,Democratic,"Wiesner, Patrick",60,000060
+LABETTE,Elm Grove Township,United States Senate,,Libertarian,"Garrard, Robert D.",23,000060
+LABETTE,Elm Grove Township,United States Senate,,Republican,"Moran, Jerry",308,000060
+LABETTE,Fairview Township,United States Senate,,write - in,"Smith, DJ",0,000070
+LABETTE,Fairview Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000070
+LABETTE,Fairview Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000070
+LABETTE,Fairview Township,United States Senate,,Republican,"Moran, Jerry",81,000070
+LABETTE,Hackberry Township,United States Senate,,write - in,"Smith, DJ",0,000080
+LABETTE,Hackberry Township,United States Senate,,Democratic,"Wiesner, Patrick",22,000080
+LABETTE,Hackberry Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000080
+LABETTE,Hackberry Township,United States Senate,,Republican,"Moran, Jerry",128,000080
+LABETTE,Howard Township,United States Senate,,write - in,"Smith, DJ",0,000090
+LABETTE,Howard Township,United States Senate,,Democratic,"Wiesner, Patrick",33,000090
+LABETTE,Howard Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000090
+LABETTE,Howard Township,United States Senate,,Republican,"Moran, Jerry",127,000090
+LABETTE,Labette Township,United States Senate,,write - in,"Smith, DJ",0,000100
+LABETTE,Labette Township,United States Senate,,Democratic,"Wiesner, Patrick",34,000100
+LABETTE,Labette Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000100
+LABETTE,Labette Township,United States Senate,,Republican,"Moran, Jerry",155,000100
+LABETTE,Liberty Township,United States Senate,,write - in,"Smith, DJ",0,000110
+LABETTE,Liberty Township,United States Senate,,Democratic,"Wiesner, Patrick",39,000110
+LABETTE,Liberty Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000110
+LABETTE,Liberty Township,United States Senate,,Republican,"Moran, Jerry",138,000110
+LABETTE,Montana Township,United States Senate,,write - in,"Smith, DJ",0,000120
+LABETTE,Montana Township,United States Senate,,Democratic,"Wiesner, Patrick",12,000120
+LABETTE,Montana Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000120
+LABETTE,Montana Township,United States Senate,,Republican,"Moran, Jerry",64,000120
+LABETTE,Mound Valley Township,United States Senate,,write - in,"Smith, DJ",0,000130
+LABETTE,Mound Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",56,000130
+LABETTE,Mound Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",30,000130
+LABETTE,Mound Valley Township,United States Senate,,Republican,"Moran, Jerry",256,000130
+LABETTE,Mount Pleasant Township,United States Senate,,write - in,"Smith, DJ",0,000140
+LABETTE,Mount Pleasant Township,United States Senate,,Democratic,"Wiesner, Patrick",128,000140
+LABETTE,Mount Pleasant Township,United States Senate,,Libertarian,"Garrard, Robert D.",32,000140
+LABETTE,Mount Pleasant Township,United States Senate,,Republican,"Moran, Jerry",416,000140
+LABETTE,Neosho Township,United States Senate,,write - in,"Smith, DJ",0,000150
+LABETTE,Neosho Township,United States Senate,,Democratic,"Wiesner, Patrick",34,000150
+LABETTE,Neosho Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000150
+LABETTE,Neosho Township,United States Senate,,Republican,"Moran, Jerry",44,000150
+LABETTE,North Township,United States Senate,,write - in,"Smith, DJ",0,00016A
+LABETTE,North Township,United States Senate,,Democratic,"Wiesner, Patrick",85,00016A
+LABETTE,North Township,United States Senate,,Libertarian,"Garrard, Robert D.",21,00016A
+LABETTE,North Township,United States Senate,,Republican,"Moran, Jerry",210,00016A
+LABETTE,North Township Enclave,United States Senate,,write - in,"Smith, DJ",0,00016B
+LABETTE,North Township Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00016B
+LABETTE,North Township Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00016B
+LABETTE,North Township Enclave,United States Senate,,Republican,"Moran, Jerry",0,00016B
+LABETTE,Oswego City Ward 1,United States Senate,,write - in,"Smith, DJ",0,000180
+LABETTE,Oswego City Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",58,000180
+LABETTE,Oswego City Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",24,000180
+LABETTE,Oswego City Ward 1,United States Senate,,Republican,"Moran, Jerry",171,000180
+LABETTE,Oswego City Ward 2,United States Senate,,write - in,"Smith, DJ",0,00019A
+LABETTE,Oswego City Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",52,00019A
+LABETTE,Oswego City Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",22,00019A
+LABETTE,Oswego City Ward 2,United States Senate,,Republican,"Moran, Jerry",160,00019A
+LABETTE,Oswego City Ward 3,United States Senate,,write - in,"Smith, DJ",0,000200
+LABETTE,Oswego City Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",39,000200
+LABETTE,Oswego City Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",18,000200
+LABETTE,Oswego City Ward 3,United States Senate,,Republican,"Moran, Jerry",126,000200
+LABETTE,Oswego Township,United States Senate,,write - in,"Smith, DJ",0,000210
+LABETTE,Oswego Township,United States Senate,,Democratic,"Wiesner, Patrick",20,000210
+LABETTE,Oswego Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000210
+LABETTE,Oswego Township,United States Senate,,Republican,"Moran, Jerry",101,000210
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",107,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",13,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,Republican,"Moran, Jerry",204,000220
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",59,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",12,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,Republican,"Moran, Jerry",84,000230
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",61,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",7,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,Republican,"Moran, Jerry",53,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,write - in,"Smith, DJ",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",40,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",6,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,Republican,"Moran, Jerry",59,000250
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",122,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",23,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,Republican,"Moran, Jerry",125,000260
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",123,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",23,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,Republican,"Moran, Jerry",155,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,write - in,"Smith, DJ",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",45,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",10,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,Republican,"Moran, Jerry",75,000280
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",149,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",16,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,Republican,"Moran, Jerry",188,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",106,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",20,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,Republican,"Moran, Jerry",158,000300
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,write - in,"Smith, DJ",0,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",159,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",18,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,Republican,"Moran, Jerry",234,000310
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",61,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",8,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,Republican,"Moran, Jerry",102,000320
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",92,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",19,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,Republican,"Moran, Jerry",116,000330
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",76,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",18,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,Republican,"Moran, Jerry",106,000340
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,write - in,"Smith, DJ",0,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",91,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",14,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,Republican,"Moran, Jerry",185,000350
+LABETTE,Walton Township,United States Senate,,write - in,"Smith, DJ",0,000370
+LABETTE,Walton Township,United States Senate,,Democratic,"Wiesner, Patrick",107,000370
+LABETTE,Walton Township,United States Senate,,Libertarian,"Garrard, Robert D.",20,000370
+LABETTE,Walton Township,United States Senate,,Republican,"Moran, Jerry",253,000370
+LABETTE,Osage Township S14,United States Senate,,write - in,"Smith, DJ",0,120020
+LABETTE,Osage Township S14,United States Senate,,Democratic,"Wiesner, Patrick",0,120020
+LABETTE,Osage Township S14,United States Senate,,Libertarian,"Garrard, Robert D.",0,120020
+LABETTE,Osage Township S14,United States Senate,,Republican,"Moran, Jerry",0,120020
+LABETTE,Osage Township S15,United States Senate,,write - in,"Smith, DJ",0,120030
+LABETTE,Osage Township S15,United States Senate,,Democratic,"Wiesner, Patrick",71,120030
+LABETTE,Osage Township S15,United States Senate,,Libertarian,"Garrard, Robert D.",22,120030
+LABETTE,Osage Township S15,United States Senate,,Republican,"Moran, Jerry",222,120030
+LABETTE,Richland Township H1 A,United States Senate,,write - in,"Smith, DJ",0,12004A
+LABETTE,Richland Township H1 A,United States Senate,,Democratic,"Wiesner, Patrick",7,12004A
+LABETTE,Richland Township H1 A,United States Senate,,Libertarian,"Garrard, Robert D.",2,12004A
+LABETTE,Richland Township H1 A,United States Senate,,Republican,"Moran, Jerry",20,12004A
+LABETTE,Richland Township H1 B,United States Senate,,write - in,"Smith, DJ",0,12004B
+LABETTE,Richland Township H1 B,United States Senate,,Democratic,"Wiesner, Patrick",2,12004B
+LABETTE,Richland Township H1 B,United States Senate,,Libertarian,"Garrard, Robert D.",1,12004B
+LABETTE,Richland Township H1 B,United States Senate,,Republican,"Moran, Jerry",16,12004B
+LABETTE,Richland Township H1,United States Senate,,write - in,"Smith, DJ",0,120040
+LABETTE,Richland Township H1,United States Senate,,Democratic,"Wiesner, Patrick",0,120040
+LABETTE,Richland Township H1,United States Senate,,Libertarian,"Garrard, Robert D.",0,120040
+LABETTE,Richland Township H1,United States Senate,,Republican,"Moran, Jerry",0,120040
+LABETTE,Richland Township H7,United States Senate,,write - in,"Smith, DJ",0,120050
+LABETTE,Richland Township H7,United States Senate,,Democratic,"Wiesner, Patrick",22,120050
+LABETTE,Richland Township H7,United States Senate,,Libertarian,"Garrard, Robert D.",5,120050
+LABETTE,Richland Township H7,United States Senate,,Republican,"Moran, Jerry",53,120050
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,write - in,"Smith, DJ",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,Republican,"Moran, Jerry",0,900010

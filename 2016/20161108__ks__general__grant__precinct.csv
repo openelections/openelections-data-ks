@@ -1,85 +1,217 @@
-county,precinct,office,district,party,candidate,votes
-Grant,Ward 1,President,,LBT,Gary Johnson,12
-Grant,Ward 1,President,,IND,Jill Stein,7
-Grant,Ward 1,President,,REP,Donald J Trump,162
-Grant,Ward 1,President,,DEM,Hillary Clinton,57
-Grant,Ward 2,President,,LBT,Gary Johnson,19
-Grant,Ward 2,President,,IND,Jill Stein,3
-Grant,Ward 2,President,,REP,Donald J Trump,374
-Grant,Ward 2,President,,DEM,Hillary Clinton,69
-Grant,Ward 3,President,,LBT,Gary Johnson,27
-Grant,Ward 3,President,,IND,Jill Stein,9
-Grant,Ward 3,President,,REP,Donald J Trump,350
-Grant,Ward 3,President,,DEM,Hillary Clinton,115
-Grant,Prec 4,President,,LBT,Gary Johnson,12
-Grant,Prec 4,President,,IND,Jill Stein,1
-Grant,Prec 4,President,,REP,Donald J Trump,302
-Grant,Prec 4,President,,DEM,Hillary Clinton,44
-Grant,Advance,President,,LBT,Gary Johnson,28
-Grant,Advance,President,,IND,Jill Stein,11
-Grant,Advance,President,,REP,Donald J Trump,567
-Grant,Advance,President,,DEM,Hillary Clinton,142
-Grant,Provisional,President,,LBT,Gary Johnson,3
-Grant,Provisional,President,,IND,Jill Stein,2
-Grant,Provisional,President,,REP,Donald J Trump,49
-Grant,Provisional,President,,DEM,Hillary Clinton,14
-Grant,Ward 1,U.S. Senate,,REP,Jerry Moran,174
-Grant,Ward 1,U.S. Senate,,DEM,Patrick Wiesner,43
-Grant,Ward 1,U.S. Senate,,LBT,Robert D. Garrard,14
-Grant,Ward 2,U.S. Senate,,REP,Jerry Moran,382
-Grant,Ward 2,U.S. Senate,,DEM,Patrick Wiesner,50
-Grant,Ward 2,U.S. Senate,,LBT,Robert D. Garrard,26
-Grant,Ward 3,U.S. Senate,,REP,Jerry Moran,375
-Grant,Ward 3,U.S. Senate,,DEM,Patrick Wiesner,82
-Grant,Ward 3,U.S. Senate,,LBT,Robert D. Garrard,27
-Grant,Prec 4,U.S. Senate,,REP,Jerry Moran,300
-Grant,Prec 4,U.S. Senate,,DEM,Patrick Wiesner,27
-Grant,Prec 4,U.S. Senate,,LBT,Robert D. Garrard,26
-Grant,Advance,U.S. Senate,,REP,Jerry Moran,613
-Grant,Advance,U.S. Senate,,DEM,Patrick Wiesner,104
-Grant,Advance,U.S. Senate,,LBT,Robert D. Garrard,32
-Grant,Provisional,U.S. Senate,,REP,Jerry Moran,53
-Grant,Provisional,U.S. Senate,,DEM,Patrick Wiesner,10
-Grant,Provisional,U.S. Senate,,LBT,Robert D. Garrard,6
-Grant,Ward 1,U.S. House,1,LBT,Kerry Burt,13
-Grant,Ward 1,U.S. House,1,IND,Alan LaPolice,41
-Grant,Ward 1,U.S. House,1,REP,Roger Marshall,172
-Grant,Ward 2,U.S. House,1,LBT,Kerry Burt,25
-Grant,Ward 2,U.S. House,1,IND,Alan LaPolice,55
-Grant,Ward 2,U.S. House,1,REP,Roger Marshall,373
-Grant,Ward 3,U.S. House,1,LBT,Kerry Burt,45
-Grant,Ward 3,U.S. House,1,IND,Alan LaPolice,59
-Grant,Ward 3,U.S. House,1,REP,Roger Marshall,364
-Grant,Prec 4,U.S. House,1,LBT,Kerry Burt,27
-Grant,Prec 4,U.S. House,1,IND,Alan LaPolice,34
-Grant,Prec 4,U.S. House,1,REP,Roger Marshall,286
-Grant,Advance,U.S. House,1,LBT,Kerry Burt,46
-Grant,Advance,U.S. House,1,IND,Alan LaPolice,75
-Grant,Advance,U.S. House,1,REP,Roger Marshall,597
-Grant,Provisional,U.S. House,1,LBT,Kerry Burt,5
-Grant,Provisional,U.S. House,1,IND,Alan LaPolice,8
-Grant,Provisional,U.S. House,1,REP,Roger Marshall,54
-Grant,Ward 1,State Senate,39,DEM,A. Zacheriah Wolf,38
-Grant,Ward 1,State Senate,39,REP,John Doll,191
-Grant,Ward 2,State Senate,39,DEM,A. Zacheriah Wolf,48
-Grant,Ward 2,State Senate,39,REP,John Doll,409
-Grant,Ward 3,State Senate,39,DEM,A. Zacheriah Wolf,86
-Grant,Ward 3,State Senate,39,REP,John Doll,398
-Grant,Prec 4,State Senate,39,DEM,A. Zacheriah Wolf,38
-Grant,Prec 4,State Senate,39,REP,John Doll,304
-Grant,Advance,State Senate,39,DEM,A. Zacheriah Wolf,97
-Grant,Advance,State Senate,39,REP,John Doll,634
-Grant,Provisional,State Senate,39,DEM,A. Zacheriah Wolf,8
-Grant,Provisional,State Senate,39,REP,John Doll,58
-Grant,Ward 1,State House,122,REP,J. Russell Jennings,0
-Grant,Ward 2,State House,122,REP,J. Russell Jennings,0
-Grant,Ward 3,State House,122,REP,J. Russell Jennings,0
-Grant,Prec 4,State House,122,REP,J. Russell Jennings,0
-Grant,Advance,State House,122,REP,J. Russell Jennings,0
-Grant,Provisional,State House,122,REP,J. Russell Jennings,0
-Grant,Ward 1,State House,124,REP,J. Stephen Alford,203
-Grant,Ward 2,State House,124,REP,J. Stephen Alford,415
-Grant,Ward 3,State House,124,REP,J. Stephen Alford,441
-Grant,Prec 4,State House,124,REP,J. Stephen Alford,317
-Grant,Advance,State House,124,REP,J. Stephen Alford,662
-Grant,Provisional,State House,124,REP,J. Stephen Alford,64
+county,precinct,office,district,party,candidate,votes,vtd
+GRANT,Ulysses Ward 1,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",304,000020
+GRANT,Ulysses Ward 2,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",654,00003A
+GRANT,Ulysses Ward 2 Exclave,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",0,00003B
+GRANT,Ulysses Ward 3,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",681,000040
+GRANT,Precinct 4 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,120020
+GRANT,Precinct 4 H124,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",463,120030
+GRANT,Ulysses Ward 1,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",59,000020
+GRANT,Ulysses Ward 1,Kansas Senate,39,Republican,"Doll, John",282,000020
+GRANT,Ulysses Ward 2,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",82,00003A
+GRANT,Ulysses Ward 2,Kansas Senate,39,Republican,"Doll, John",639,00003A
+GRANT,Ulysses Ward 2 Exclave,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",0,00003B
+GRANT,Ulysses Ward 2 Exclave,Kansas Senate,39,Republican,"Doll, John",0,00003B
+GRANT,Ulysses Ward 3,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",120,000040
+GRANT,Ulysses Ward 3,Kansas Senate,39,Republican,"Doll, John",622,000040
+GRANT,Precinct 4 H122,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",0,120020
+GRANT,Precinct 4 H122,Kansas Senate,39,Republican,"Doll, John",0,120020
+GRANT,Precinct 4 H124,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",54,120030
+GRANT,Precinct 4 H124,Kansas Senate,39,Republican,"Doll, John",451,120030
+GRANT,Ulysses Ward 1,President / Vice President,,independent,"Stein, Jill",9,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+GRANT,Ulysses Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",89,000020
+GRANT,Ulysses Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",16,000020
+GRANT,Ulysses Ward 1,President / Vice President,,Republican,"Trump, Donald J.",241,000020
+GRANT,Ulysses Ward 2,President / Vice President,,independent,"Stein, Jill",6,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Castle, Darrell L",1,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"McMullin, Evan",5,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",132,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",27,00003A
+GRANT,Ulysses Ward 2,President / Vice President,,Republican,"Trump, Donald J.",569,00003A
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00003B
+GRANT,Ulysses Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00003B
+GRANT,Ulysses Ward 3,President / Vice President,,independent,"Stein, Jill",13,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"McMullin, Evan",4,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+GRANT,Ulysses Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",159,000040
+GRANT,Ulysses Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",42,000040
+GRANT,Ulysses Ward 3,President / Vice President,,Republican,"Trump, Donald J.",556,000040
+GRANT,Precinct 4 H122,President / Vice President,,independent,"Stein, Jill",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Castle, Darrell L",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Hedges, James A",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"McMullin, Evan",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Perry, Darryl",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Smith, Mike",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Sood, Ajay",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,Libertarian,"Johnson, Gary",0,120020
+GRANT,Precinct 4 H122,President / Vice President,,Republican,"Trump, Donald J.",0,120020
+GRANT,Precinct 4 H124,President / Vice President,,independent,"Stein, Jill",5,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Hedges, James A",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"McMullin, Evan",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Perry, Darryl",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Smith, Mike",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Sood, Ajay",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+GRANT,Precinct 4 H124,President / Vice President,,Democratic,"Clinton, Hillary Rodham",61,120030
+GRANT,Precinct 4 H124,President / Vice President,,Libertarian,"Johnson, Gary",16,120030
+GRANT,Precinct 4 H124,President / Vice President,,Republican,"Trump, Donald J.",438,120030
+GRANT,Ulysses Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",55,000020
+GRANT,Ulysses Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+GRANT,Ulysses Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",26,000020
+GRANT,Ulysses Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",259,000020
+GRANT,Ulysses Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",72,00003A
+GRANT,Ulysses Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,00003A
+GRANT,Ulysses Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",40,00003A
+GRANT,Ulysses Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",594,00003A
+GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00003B
+GRANT,Ulysses Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",88,000040
+GRANT,Ulysses Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+GRANT,Ulysses Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",60,000040
+GRANT,Ulysses Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",575,000040
+GRANT,Precinct 4 H122,United States House of Representatives,1,independent,"LaPolice, Alan",0,120020
+GRANT,Precinct 4 H122,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120020
+GRANT,Precinct 4 H122,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,120020
+GRANT,Precinct 4 H122,United States House of Representatives,1,Republican,"Marshall, Roger",0,120020
+GRANT,Precinct 4 H124,United States House of Representatives,1,independent,"LaPolice, Alan",57,120030
+GRANT,Precinct 4 H124,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120030
+GRANT,Precinct 4 H124,United States House of Representatives,1,Libertarian,"Burt, Kerry",35,120030
+GRANT,Precinct 4 H124,United States House of Representatives,1,Republican,"Marshall, Roger",418,120030
+GRANT,Ulysses Ward 1,United States Senate,,write - in,"Smith, DJ",0,000020
+GRANT,Ulysses Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",68,000020
+GRANT,Ulysses Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",21,000020
+GRANT,Ulysses Ward 1,United States Senate,,Republican,"Moran, Jerry",259,000020
+GRANT,Ulysses Ward 2,United States Senate,,write - in,"Smith, DJ",0,00003A
+GRANT,Ulysses Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",87,00003A
+GRANT,Ulysses Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",36,00003A
+GRANT,Ulysses Ward 2,United States Senate,,Republican,"Moran, Jerry",603,00003A
+GRANT,Ulysses Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00003B
+GRANT,Ulysses Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00003B
+GRANT,Ulysses Ward 3,United States Senate,,write - in,"Smith, DJ",0,000040
+GRANT,Ulysses Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",119,000040
+GRANT,Ulysses Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",36,000040
+GRANT,Ulysses Ward 3,United States Senate,,Republican,"Moran, Jerry",598,000040
+GRANT,Precinct 4 H122,United States Senate,,write - in,"Smith, DJ",0,120020
+GRANT,Precinct 4 H122,United States Senate,,Democratic,"Wiesner, Patrick",0,120020
+GRANT,Precinct 4 H122,United States Senate,,Libertarian,"Garrard, Robert D.",0,120020
+GRANT,Precinct 4 H122,United States Senate,,Republican,"Moran, Jerry",0,120020
+GRANT,Precinct 4 H124,United States Senate,,write - in,"Smith, DJ",0,120030
+GRANT,Precinct 4 H124,United States Senate,,Democratic,"Wiesner, Patrick",42,120030
+GRANT,Precinct 4 H124,United States Senate,,Libertarian,"Garrard, Robert D.",38,120030
+GRANT,Precinct 4 H124,United States Senate,,Republican,"Moran, Jerry",437,120030
