@@ -1,538 +1,1314 @@
-county,precinct,office,district,party,candidate,votes
-Marshall,Balderson,Voters,,,Registration,56
-Marshall,Balderson,Voters,,,Ballots Cast,41
-Marshall,Balderson,President,,IND,Jill Stein,1
-Marshall,Balderson,President,,R,Donald Trump,36
-Marshall,Balderson,President,,D,Hillary Clinton,2
-Marshall,Balderson,President,,LBT,Gary Johnson,1
-Marshall,Balderson,President,,,write-in,1
-Marshall,Bigelow,Voters,,,Registration,30
-Marshall,Bigelow,Voters,,,Ballots Cast,21
-Marshall,Bigelow,President,,IND,Jill Stein,1
-Marshall,Bigelow,President,,R,Donald Trump,14
-Marshall,Bigelow,President,,D,Hillary Clinton,6
-Marshall,Bigelow,President,,LBT,Gary Johnson,0
-Marshall,Bigelow,President,,,write-in,0
-Marshall,Blue Rapids twp,Voters,,,Registration,47
-Marshall,Blue Rapids twp,Voters,,,Ballots Cast,38
-Marshall,Blue Rapids twp,President,,IND,Jill Stein,0
-Marshall,Blue Rapids twp,President,,R,Donald Trump,29
-Marshall,Blue Rapids twp,President,,D,Hillary Clinton,7
-Marshall,Blue Rapids twp,President,,LBT,Gary Johnson,0
-Marshall,Blue Rapids twp,President,,,write-in,2
-Marshall,Blue Rapids City,Voters,,,Registration,587
-Marshall,Blue Rapids City,Voters,,,Ballots Cast,398
-Marshall,Blue Rapids City,President,,IND,Jill Stein,10
-Marshall,Blue Rapids City,President,,R,Donald Trump,269
-Marshall,Blue Rapids City,President,,D,Hillary Clinton,73
-Marshall,Blue Rapids City,President,,LBT,Gary Johnson,36
-Marshall,Blue Rapids City,President,,,write-in,6
-Marshall,Center twp,Voters,,,Registration,82
-Marshall,Center twp,Voters,,,Ballots Cast,65
-Marshall,Center twp,President,,IND,Jill Stein,2
-Marshall,Center twp,President,,R,Donald Trump,43
-Marshall,Center twp,President,,D,Hillary Clinton,9
-Marshall,Center twp,President,,LBT,Gary Johnson,4
-Marshall,Center twp,President,,,write-in,3
-Marshall,Clear Fork twp,Voters,,,Registration,30
-Marshall,Clear Fork twp,Voters,,,Ballots Cast,17
-Marshall,Clear Fork twp,President,,IND,Jill Stein,0
-Marshall,Clear Fork twp,President,,R,Donald Trump,12
-Marshall,Clear Fork twp,President,,D,Hillary Clinton,4
-Marshall,Clear Fork twp,President,,LBT,Gary Johnson,1
-Marshall,Clear Fork twp,President,,,write-in,0
-Marshall,Cleveland twp,Voters,,,Registration,68
-Marshall,Cleveland twp,Voters,,,Ballots Cast,53
-Marshall,Cleveland twp,President,,IND,Jill Stein,0
-Marshall,Cleveland twp,President,,R,Donald Trump,34
-Marshall,Cleveland twp,President,,D,Hillary Clinton,18
-Marshall,Cleveland twp,President,,LBT,Gary Johnson,1
-Marshall,Cleveland twp,President,,,write-in,0
-Marshall,Cottage Hill twp,Voters,,,Registration,89
-Marshall,Cottage Hill twp,Voters,,,Ballots Cast,66
-Marshall,Cottage Hill twp,President,,IND,Jill Stein,1
-Marshall,Cottage Hill twp,President,,R,Donald Trump,52
-Marshall,Cottage Hill twp,President,,D,Hillary Clinton,4
-Marshall,Cottage Hill twp,President,,LBT,Gary Johnson,5
-Marshall,Cottage Hill twp,President,,,write-in,1
-Marshall,Elm Creek twp,Voters,,,Registration,114
-Marshall,Elm Creek twp,Voters,,,Ballots Cast,92
-Marshall,Elm Creek twp,President,,IND,Jill Stein,2
-Marshall,Elm Creek twp,President,,R,Donald Trump,62
-Marshall,Elm Creek twp,President,,D,Hillary Clinton,19
-Marshall,Elm Creek twp,President,,LBT,Gary Johnson,8
-Marshall,Elm Creek twp,President,,,write-in,0
-Marshall,Franklin twp,Voters CD1,,,Registration,126
-Marshall,Franklin twp,Voters CD1,,,Ballots Cast,93
-Marshall,Franklin twp,Voters CD2,,,Registration,82
-Marshall,Franklin twp,Voters CD2,,,Ballots Cast,61
-Marshall,Franklin twp,President,,IND,Jill Stein,1
-Marshall,Franklin twp,President,,R,Donald Trump,120
-Marshall,Franklin twp,President,,D,Hillary Clinton,26
-Marshall,Franklin twp,President,,LBT,Gary Johnson,6
-Marshall,Franklin twp,President,,,write-in,1
-Marshall,Guittard twp,Voters CD2,,,Registration,232
-Marshall,Guittard twp,Voters CD2,,,Ballots Cast,186
-Marshall,Guittard twp,Voters CD1,,,Registration,3
-Marshall,Guittard twp,Voters CD1,,,Ballots Cast,2
-Marshall,Guittard twp,President,,IND,Jill Stein,0
-Marshall,Guittard twp,President,,R,Donald Trump,126
-Marshall,Guittard twp,President,,D,Hillary Clinton,43
-Marshall,Guittard twp,President,,LBT,Gary Johnson,9
-Marshall,Guittard twp,President,,,write-in,2
-Marshall,Herkimer twp,Voters,,,Registration,147
-Marshall,Herkimer twp,Voters,,,Ballots Cast,125
-Marshall,Herkimer twp,President,,IND,Jill Stein,1
-Marshall,Herkimer twp,President,,R,Donald Trump,99
-Marshall,Herkimer twp,President,,D,Hillary Clinton,17
-Marshall,Herkimer twp,President,,LBT,Gary Johnson,6
-Marshall,Herkimer twp,President,,,write-in,2
-Marshall,Lincoln twp,Voters,,,Registration,97
-Marshall,Lincoln twp,Voters,,,Ballots Cast,80
-Marshall,Lincoln twp,President,,IND,Jill Stein,0
-Marshall,Lincoln twp,President,,R,Donald Trump,62
-Marshall,Lincoln twp,President,,D,Hillary Clinton,7
-Marshall,Lincoln twp,President,,LBT,Gary Johnson,3
-Marshall,Lincoln twp,President,,,write-in,1
-Marshall,Logan twp,Voters,,,Registration,200
-Marshall,Logan twp,Voters,,,Ballots Cast,150
-Marshall,Logan twp,President,,IND,Jill Stein,1
-Marshall,Logan twp,President,,R,Donald Trump,107
-Marshall,Logan twp,President,,D,Hillary Clinton,33
-Marshall,Logan twp,President,,LBT,Gary Johnson,7
-Marshall,Logan twp,President,,,write-in,0
-Marshall,Marysville twp,Voters,,,Registration,187
-Marshall,Marysville twp,Voters,,,Ballots Cast,147
-Marshall,Marysville twp,President,,IND,Jill Stein,0
-Marshall,Marysville twp,President,,R,Donald Trump,104
-Marshall,Marysville twp,President,,D,Hillary Clinton,35
-Marshall,Marysville twp,President,,LBT,Gary Johnson,1
-Marshall,Marysville twp,President,,,write-in,6
-Marshall,Murray twp,Voters,,,Registration,415
-Marshall,Murray twp,Voters,,,Ballots Cast,306
-Marshall,Murray twp,President,,IND,Jill Stein,10
-Marshall,Murray twp,President,,R,Donald Trump,227
-Marshall,Murray twp,President,,D,Hillary Clinton,46
-Marshall,Murray twp,President,,LBT,Gary Johnson,14
-Marshall,Murray twp,President,,,write-in,2
-Marshall,Noble twp,Voters,,,Registration,148
-Marshall,Noble twp,Voters,,,Ballots Cast,107
-Marshall,Noble twp,President,,IND,Jill Stein,1
-Marshall,Noble twp,President,,R,Donald Trump,84
-Marshall,Noble twp,President,,D,Hillary Clinton,18
-Marshall,Noble twp,President,,LBT,Gary Johnson,2
-Marshall,Noble twp,President,,,write-in,0
-Marshall,Okelo twp,Voters,,,Registration,159
-Marshall,Okelo twp,Voters,,,Ballots Cast,107
-Marshall,Okelo twp,President,,IND,Jill Stein,0
-Marshall,Okelo twp,President,,R,Donald Trump,70
-Marshall,Okelo twp,President,,D,Hillary Clinton,34
-Marshall,Okelo twp,President,,LBT,Gary Johnson,1
-Marshall,Okelo twp,President,,,write-in,1
-Marshall,Richland twp,Voters,,,Registration,123
-Marshall,Richland twp,Voters,,,Ballots Cast,92
-Marshall,Richland twp,President,,IND,Jill Stein,0
-Marshall,Richland twp,President,,R,Donald Trump,72
-Marshall,Richland twp,President,,D,Hillary Clinton,18
-Marshall,Richland twp,President,,LBT,Gary Johnson,0
-Marshall,Richland twp,President,,,write-in,1
-Marshall,Rock twp,Voters,,,Registration,87
-Marshall,Rock twp,Voters,,,Ballots Cast,76
-Marshall,Rock twp,President,,IND,Jill Stein,0
-Marshall,Rock twp,President,,R,Donald Trump,56
-Marshall,Rock twp,President,,D,Hillary Clinton,16
-Marshall,Rock twp,President,,LBT,Gary Johnson,2
-Marshall,Rock twp,President,,,write-in,0
-Marshall,St Bridget twp,Voters,,,Registration,116
-Marshall,St Bridget twp,Voters,,,Ballots Cast,88
-Marshall,St Bridget twp,President,,IND,Jill Stein,1
-Marshall,St Bridget twp,President,,R,Donald Trump,67
-Marshall,St Bridget twp,President,,D,Hillary Clinton,17
-Marshall,St Bridget twp,President,,LBT,Gary Johnson,2
-Marshall,St Bridget twp,President,,,write-in,0
-Marshall,Vermilion twp East,Voters,,,Registration,323
-Marshall,Vermilion twp East,Voters,,,Ballots Cast,253
-Marshall,Vermilion twp East,President,,IND,Jill Stein,5
-Marshall,Vermilion twp East,President,,R,Donald Trump,148
-Marshall,Vermilion twp East,President,,D,Hillary Clinton,77
-Marshall,Vermilion twp East,President,,LBT,Gary Johnson,13
-Marshall,Vermilion twp East,President,,,write-in,2
-Marshall,Vermilion twp West,Voters,,,Registration,281
-Marshall,Vermilion twp West,Voters,,,Ballots Cast,201
-Marshall,Vermilion twp West,President,,IND,Jill Stein,7
-Marshall,Vermilion twp West,President,,R,Donald Trump,129
-Marshall,Vermilion twp West,President,,D,Hillary Clinton,54
-Marshall,Vermilion twp West,President,,LBT,Gary Johnson,7
-Marshall,Vermilion twp West,President,,,write-in,2
-Marshall,Walnut twp,Voters,,,Registration,82
-Marshall,Walnut twp,Voters,,,Ballots Cast,69
-Marshall,Walnut twp,President,,IND,Jill Stein,2
-Marshall,Walnut twp,President,,R,Donald Trump,49
-Marshall,Walnut twp,President,,D,Hillary Clinton,11
-Marshall,Walnut twp,President,,LBT,Gary Johnson,2
-Marshall,Walnut twp,President,,,write-in,0
-Marshall,Waterville twp,Voters,,,Registration,501
-Marshall,Waterville twp,Voters,,,Ballots Cast,336
-Marshall,Waterville twp,President,,IND,Jill Stein,4
-Marshall,Waterville twp,President,,R,Donald Trump,249
-Marshall,Waterville twp,President,,D,Hillary Clinton,70
-Marshall,Waterville twp,President,,LBT,Gary Johnson,10
-Marshall,Waterville twp,President,,,write-in,2
-Marshall,Wells twp,Voters,,,Registration,88
-Marshall,Wells twp,Voters,,,Ballots Cast,72
-Marshall,Wells twp,President,,IND,Jill Stein,1
-Marshall,Wells twp,President,,R,Donald Trump,41
-Marshall,Wells twp,President,,D,Hillary Clinton,21
-Marshall,Wells twp,President,,LBT,Gary Johnson,7
-Marshall,Wells twp,President,,,write-in,1
-Marshall,Marysville City W1,Voters,,,Registration,559
-Marshall,Marysville City W1,Voters,,,Ballots Cast,448
-Marshall,Marysville City W1,President,,IND,Jill Stein,2
-Marshall,Marysville City W1,President,,R,Donald Trump,300
-Marshall,Marysville City W1,President,,D,Hillary Clinton,120
-Marshall,Marysville City W1,President,,LBT,Gary Johnson,13
-Marshall,Marysville City W1,President,,,write-in,6
-Marshall,Marysville City W2,Voters,,,Registration,514
-Marshall,Marysville City W2,Voters,,,Ballots Cast,361
-Marshall,Marysville City W2,President,,IND,Jill Stein,7
-Marshall,Marysville City W2,President,,R,Donald Trump,237
-Marshall,Marysville City W2,President,,D,Hillary Clinton,94
-Marshall,Marysville City W2,President,,LBT,Gary Johnson,15
-Marshall,Marysville City W2,President,,,write-in,4
-Marshall,Marysville City W3,Voters,,,Registration,364
-Marshall,Marysville City W3,Voters,,,Ballots Cast,233
-Marshall,Marysville City W3,President,,IND,Jill Stein,5
-Marshall,Marysville City W3,President,,R,Donald Trump,158
-Marshall,Marysville City W3,President,,D,Hillary Clinton,55
-Marshall,Marysville City W3,President,,LBT,Gary Johnson,11
-Marshall,Marysville City W3,President,,,write-in,2
-Marshall,Marysville City W4,Voters,,,Registration,553
-Marshall,Marysville City W4,Voters,,,Ballots Cast,404
-Marshall,Marysville City W4,President,,IND,Jill Stein,8
-Marshall,Marysville City W4,President,,R,Donald Trump,251
-Marshall,Marysville City W4,President,,D,Hillary Clinton,118
-Marshall,Marysville City W4,President,,LBT,Gary Johnson,17
-Marshall,Marysville City W4,President,,,write-in,3
-Marshall,Balderson,U.S. Senate,,R,Jerry Moran,37
-Marshall,Balderson,U.S. Senate,,D,Patrick Wiesner,3
-Marshall,Balderson,U.S. Senate,,LBT,Robert Garrard,0
-Marshall,Balderson,U.S. House,1,IND,Alan La Police,3
-Marshall,Balderson,U.S. House,1,R,Roger Marshall,35
-Marshall,Balderson,U.S. House,1,LBT,Kerry Burt,1
-Marshall,Bigelow,U.S. Senate,,R,Jerry Moran,17
-Marshall,Bigelow,U.S. Senate,,D,Patrick Wiesner,3
-Marshall,Bigelow,U.S. Senate,,LBT,Robert Garrard,1
-Marshall,Bigelow,U.S. House,2,R,Lynn Jenkins,16
-Marshall,Bigelow,U.S. House,2,D,Britani Potter,4
-Marshall,Bigelow,U.S. House,2,LBT,James Bates,0
-Marshall,Blue Rapids twp,U.S. Senate,,R,Jerry Moran,29
-Marshall,Blue Rapids twp,U.S. Senate,,D,Patrick Wiesner,4
-Marshall,Blue Rapids twp,U.S. Senate,,LBT,Robert Garrard,4
-Marshall,Blue Rapids twp,U.S. House,2,R,Lynn Jenkins,31
-Marshall,Blue Rapids twp,U.S. House,2,D,Britani Potter,5
-Marshall,Blue Rapids twp,U.S. House,2,LBT,James Bates,1
-Marshall,Blue Rapids City,U.S. Senate,,R,Jerry Moran,291
-Marshall,Blue Rapids City,U.S. Senate,,D,Patrick Wiesner,70
-Marshall,Blue Rapids City,U.S. Senate,,LBT,Robert Garrard,21
-Marshall,Blue Rapids City,U.S. House,2,R,Lynn Jenkins,279
-Marshall,Blue Rapids City,U.S. House,2,D,Britani Potter,81
-Marshall,Blue Rapids City,U.S. House,2,LBT,James Bates,23
-Marshall,Center twp,U.S. Senate,,R,Jerry Moran,54
-Marshall,Center twp,U.S. Senate,,D,Patrick Wiesner,6
-Marshall,Center twp,U.S. Senate,,LBT,Robert Garrard,4
-Marshall,Center twp,U.S. House,2,R,Lynn Jenkins,53
-Marshall,Center twp,U.S. House,2,D,Britani Potter,8
-Marshall,Center twp,U.S. House,2,LBT,James Bates,2
-Marshall,Clear Fork twp,U.S. Senate,,R,Jerry Moran,13
-Marshall,Clear Fork twp,U.S. Senate,,D,Patrick Wiesner,4
-Marshall,Clear Fork twp,U.S. Senate,,LBT,Robert Garrard,0
-Marshall,Clear Fork twp,U.S. House,2,R,Lynn Jenkins,9
-Marshall,Clear Fork twp,U.S. House,2,D,Britani Potter,5
-Marshall,Clear Fork twp,U.S. House,2,LBT,James Bates,2
-Marshall,Cleveland twp,U.S. Senate,,R,Jerry Moran,39
-Marshall,Cleveland twp,U.S. Senate,,D,Patrick Wiesner,14
-Marshall,Cleveland twp,U.S. Senate,,LBT,Robert Garrard,0
-Marshall,Cleveland twp,U.S. House,2,R,Lynn Jenkins,38
-Marshall,Cleveland twp,U.S. House,2,D,Britani Potter,12
-Marshall,Cleveland twp,U.S. House,2,LBT,James Bates,1
-Marshall,Cottage Hill twp,U.S. Senate,,R,Jerry Moran,59
-Marshall,Cottage Hill twp,U.S. Senate,,D,Patrick Wiesner,4
-Marshall,Cottage Hill twp,U.S. Senate,,LBT,Robert Garrard,1
-Marshall,Cottage Hill twp,U.S. House,2,R,Lynn Jenkins,59
-Marshall,Cottage Hill twp,U.S. House,2,D,Britani Potter,5
-Marshall,Cottage Hill twp,U.S. House,2,LBT,James Bates,1
-Marshall,Elm Creek twp,U.S. Senate,,R,Jerry Moran,68
-Marshall,Elm Creek twp,U.S. Senate,,D,Patrick Wiesner,15
-Marshall,Elm Creek twp,U.S. Senate,,LBT,Robert Garrard,7
-Marshall,Elm Creek twp,U.S. House,2,R,Lynn Jenkins,65
-Marshall,Elm Creek twp,U.S. House,2,D,Britani Potter,18
-Marshall,Elm Creek twp,U.S. House,2,LBT,James Bates,5
-Marshall,Elm Creek twp,U.S. House,2,,write-in,1
-Marshall,Franklin twp,U.S. Senate,,R,Jerry Moran,117
-Marshall,Franklin twp,U.S. Senate,,D,Patrick Wiesner,27
-Marshall,Franklin twp,U.S. Senate,,LBT,Robert Garrard,9
-Marshall,Franklin twp,U.S. House,1,IND,Alan La Police,27
-Marshall,Franklin twp,U.S. House,1,R,Roger Marshall,59
-Marshall,Franklin twp,U.S. House,1,LBT,Kerry Burt,2
-Marshall,Franklin twp,U.S. House,2,R,Lynn Jenkins,48
-Marshall,Franklin twp,U.S. House,2,D,Britani Potter,10
-Marshall,Franklin twp,U.S. House,2,LBT,James Bates,3
-Marshall,Guittard twp,U.S. Senate,,R,Jerry Moran,138
-Marshall,Guittard twp,U.S. Senate,,D,Patrick Wiesner,39
-Marshall,Guittard twp,U.S. Senate,,LBT,Robert Garrard,7
-Marshall,Guittard twp,U.S. House,1,IND,Alan La Police,0
-Marshall,Guittard twp,U.S. House,1,R,Roger Marshall,2
-Marshall,Guittard twp,U.S. House,1,LBT,Kerry Burt,0
-Marshall,Guittard twp,U.S. House,2,R,Lynn Jenkins,131
-Marshall,Guittard twp,U.S. House,2,D,Britani Potter,40
-Marshall,Guittard twp,U.S. House,2,LBT,James Bates,7
-Marshall,Herkimer twp,U.S. Senate,,R,Jerry Moran,103
-Marshall,Herkimer twp,U.S. Senate,,D,Patrick Wiesner,13
-Marshall,Herkimer twp,U.S. Senate,,LBT,Robert Garrard,5
-Marshall,Herkimer twp,U.S. House,1,IND,Alan La Police,29
-Marshall,Herkimer twp,U.S. House,1,R,Roger Marshall,79
-Marshall,Herkimer twp,U.S. House,1,LBT,Kerry Burt,9
-Marshall,Lincoln twp,U.S. Senate,,R,Jerry Moran,73
-Marshall,Lincoln twp,U.S. Senate,,D,Patrick Wiesner,4
-Marshall,Lincoln twp,U.S. Senate,,LBT,Robert Garrard,1
-Marshall,Lincoln twp,U.S. House,2,R,Lynn Jenkins,70
-Marshall,Lincoln twp,U.S. House,2,D,Britani Potter,5
-Marshall,Lincoln twp,U.S. House,2,LBT,James Bates,4
-Marshall,Logan twp,U.S. Senate,,R,Jerry Moran,117
-Marshall,Logan twp,U.S. Senate,,D,Patrick Wiesner,24
-Marshall,Logan twp,U.S. Senate,,LBT,Robert Garrard,8
-Marshall,Logan twp,U.S. House,1,IND,Alan La Police,32
-Marshall,Logan twp,U.S. House,1,R,Roger Marshall,104
-Marshall,Logan twp,U.S. House,1,LBT,Kerry Burt,7
-Marshall,Marysville twp,U.S. Senate,,R,Jerry Moran,105
-Marshall,Marysville twp,U.S. Senate,,D,Patrick Wiesner,29
-Marshall,Marysville twp,U.S. Senate,,LBT,Robert Garrard,4
-Marshall,Marysville twp,U.S. House,1,IND,Alan La Police,44
-Marshall,Marysville twp,U.S. House,1,R,Roger Marshall,92
-Marshall,Marysville twp,U.S. House,1,LBT,Kerry Burt,4
-Marshall,Murray twp,U.S. Senate,,R,Jerry Moran,240
-Marshall,Murray twp,U.S. Senate,,D,Patrick Wiesner,24
-Marshall,Murray twp,U.S. Senate,,LBT,Robert Garrard,13
-Marshall,Murray twp,U.S. Senate,,,write-in,1
-Marshall,Murray twp,U.S. House,2,R,Lynn Jenkins,237
-Marshall,Murray twp,U.S. House,2,D,Britani Potter,50
-Marshall,Murray twp,U.S. House,2,LBT,James Bates,13
-Marshall,Murray twp,U.S. House,2,,write-in,1
-Marshall,Noble twp,U.S. Senate,,R,Jerry Moran,85
-Marshall,Noble twp,U.S. Senate,,D,Patrick Wiesner,16
-Marshall,Noble twp,U.S. Senate,,LBT,Robert Garrard,2
-Marshall,Noble twp,U.S. House,2,R,Lynn Jenkins,79
-Marshall,Noble twp,U.S. House,2,D,Britani Potter,19
-Marshall,Noble twp,U.S. House,2,LBT,James Bates,3
-Marshall,Okelo twp,U.S. Senate,,R,Jerry Moran,73
-Marshall,Okelo twp,U.S. Senate,,D,Patrick Wiesner,29
-Marshall,Okelo twp,U.S. Senate,,LBT,Robert Garrard,2
-Marshall,Okelo twp,U.S. House,1,IND,Alan La Police,26
-Marshall,Okelo twp,U.S. House,1,R,Roger Marshall,61
-Marshall,Okelo twp,U.S. House,1,LBT,Kerry Burt,5
-Marshall,Okelo twp,U.S. House,1,,write-in,1
-Marshall,Richland twp,U.S. Senate,,R,Jerry Moran,71
-Marshall,Richland twp,U.S. Senate,,D,Patrick Wiesner,12
-Marshall,Richland twp,U.S. Senate,,LBT,Robert Garrard,1
-Marshall,Richland twp,U.S. House,1,IND,Alan La Police,16
-Marshall,Richland twp,U.S. House,1,R,Roger Marshall,55
-Marshall,Richland twp,U.S. House,1,LBT,Kerry Burt,5
-Marshall,Rock twp,U.S. Senate,,R,Jerry Moran,65
-Marshall,Rock twp,U.S. Senate,,D,Patrick Wiesner,7
-Marshall,Rock twp,U.S. Senate,,LBT,Robert Garrard,2
-Marshall,Rock twp,U.S. House,2,R,Lynn Jenkins,60
-Marshall,Rock twp,U.S. House,2,D,Britani Potter,12
-Marshall,Rock twp,U.S. House,2,LBT,James Bates,1
-Marshall,St Bridget twp,U.S. Senate,,R,Jerry Moran,64
-Marshall,St Bridget twp,U.S. Senate,,D,Patrick Wiesner,17
-Marshall,St Bridget twp,U.S. Senate,,LBT,Robert Garrard,5
-Marshall,St Bridget twp,U.S. House,1,IND,Alan La Police,27
-Marshall,St Bridget twp,U.S. House,1,R,Roger Marshall,40
-Marshall,St Bridget twp,U.S. House,1,LBT,Kerry Burt,5
-Marshall,St Bridget twp,U.S. House,1,,write-in,3
-Marshall,Vermilion twp East,U.S. Senate,,R,Jerry Moran,190
-Marshall,Vermilion twp East,U.S. Senate,,D,Patrick Wiesner,49
-Marshall,Vermilion twp East,U.S. Senate,,LBT,Robert Garrard,10
-Marshall,Vermilion twp East,U.S. House,2,R,Lynn Jenkins,183
-Marshall,Vermilion twp East,U.S. House,2,D,Britani Potter,53
-Marshall,Vermilion twp East,U.S. House,2,LBT,James Bates,8
-Marshall,Vermilion twp West,U.S. Senate,,R,Jerry Moran,151
-Marshall,Vermilion twp West,U.S. Senate,,D,Patrick Wiesner,43
-Marshall,Vermilion twp West,U.S. Senate,,LBT,Robert Garrard,5
-Marshall,Vermilion twp West,U.S. House,2,R,Lynn Jenkins,137
-Marshall,Vermilion twp West,U.S. House,2,D,Britani Potter,55
-Marshall,Vermilion twp West,U.S. House,2,LBT,James Bates,5
-Marshall,Walnut twp,U.S. Senate,,R,Jerry Moran,53
-Marshall,Walnut twp,U.S. Senate,,D,Patrick Wiesner,9
-Marshall,Walnut twp,U.S. Senate,,LBT,Robert Garrard,4
-Marshall,Walnut twp,U.S. House,2,R,Lynn Jenkins,54
-Marshall,Walnut twp,U.S. House,2,D,Britani Potter,8
-Marshall,Walnut twp,U.S. House,2,LBT,James Bates,3
-Marshall,Waterville twp,U.S. Senate,,R,Jerry Moran,258
-Marshall,Waterville twp,U.S. Senate,,D,Patrick Wiesner,64
-Marshall,Waterville twp,U.S. Senate,,LBT,Robert Garrard,8
-Marshall,Waterville twp,U.S. House,2,R,Lynn Jenkins,252
-Marshall,Waterville twp,U.S. House,2,D,Britani Potter,68
-Marshall,Waterville twp,U.S. House,2,LBT,James Bates,10
-Marshall,Wells twp,U.S. Senate,,R,Jerry Moran,53
-Marshall,Wells twp,U.S. Senate,,D,Patrick Wiesner,15
-Marshall,Wells twp,U.S. Senate,,LBT,Robert Garrard,4
-Marshall,Wells twp,U.S. House,2,R,Lynn Jenkins,50
-Marshall,Wells twp,U.S. House,2,D,Britani Potter,16
-Marshall,Wells twp,U.S. House,2,LBT,James Bates,6
-Marshall,Marysville City W1,U.S. Senate,,R,Jerry Moran,310
-Marshall,Marysville City W1,U.S. Senate,,D,Patrick Wiesner,105
-Marshall,Marysville City W1,U.S. Senate,,LBT,Robert Garrard,17
-Marshall,Marysville City W1,U.S. House,1,IND,Alan La Police,137
-Marshall,Marysville City W1,U.S. House,1,R,Roger Marshall,251
-Marshall,Marysville City W1,U.S. House,1,LBT,Kerry Burt,16
-Marshall,Marysville City W1,U.S. House,1,,write-in,1
-Marshall,Marysville City W2,U.S. Senate,,R,Jerry Moran,261
-Marshall,Marysville City W2,U.S. Senate,,D,Patrick Wiesner,74
-Marshall,Marysville City W2,U.S. Senate,,LBT,Robert Garrard,13
-Marshall,Marysville City W2,U.S. House,1,IND,Alan La Police,96
-Marshall,Marysville City W2,U.S. House,1,R,Roger Marshall,205
-Marshall,Marysville City W2,U.S. House,1,LBT,Kerry Burt,23
-Marshall,Marysville City W2,U.S. House,1,,write-in,1
-Marshall,Marysville City W3,U.S. Senate,,R,Jerry Moran,168
-Marshall,Marysville City W3,U.S. Senate,,D,Patrick Wiesner,44
-Marshall,Marysville City W3,U.S. Senate,,LBT,Robert Garrard,12
-Marshall,Marysville City W3,U.S. Senate,,,write-in,1
-Marshall,Marysville City W3,U.S. House,1,IND,Alan La Police,55
-Marshall,Marysville City W3,U.S. House,1,R,Roger Marshall,137
-Marshall,Marysville City W3,U.S. House,1,LBT,Kerry Burt,15
-Marshall,Marysville City W4,U.S. Senate,,R,Jerry Moran,289
-Marshall,Marysville City W4,U.S. Senate,,D,Patrick Wiesner,82
-Marshall,Marysville City W4,U.S. Senate,,LBT,Robert Garrard,21
-Marshall,Marysville City W4,U.S. Senate,,,write-in,1
-Marshall,Marysville City W4,U.S. House,1,IND,Alan La Police,107
-Marshall,Marysville City W4,U.S. House,1,R,Roger Marshall,252
-Marshall,Marysville City W4,U.S. House,1,LBT,Kerry Burt,19
-Marshall,Marysville City W4,U.S. House,1,,write-in,2
-Marshall,Balderson,State Senate,1,R,Dennis Pyle,32
-Marshall,Balderson,State Senate,1,D,Jerry Henry,7
-Marshall,Balderson,State House,106,R,Clay Aurand,22
-Marshall,Balderson,State House,106,D,Todd Frye,16
-Marshall,Bigelow,State Senate,1,R,Dennis Pyle,12
-Marshall,Bigelow,State Senate,1,D,Jerry Henry,8
-Marshall,Bigelow,State House,106,R,Clay Aurand,7
-Marshall,Bigelow,State House,106,D,Todd Frye,12
-Marshall,Blue Rapids twp,State Senate,36,D,Brian Angevine,8
-Marshall,Blue Rapids twp,State Senate,36,R,Elaine Bowers,27
-Marshall,Blue Rapids twp,State House,106,R,Clay Aurand,22
-Marshall,Blue Rapids twp,State House,106,D,Todd Frye,15
-Marshall,Blue Rapids City,State Senate,36,D,Brian Angevine,93
-Marshall,Blue Rapids City,State Senate,36,R,Elaine Bowers,269
-Marshall,Blue Rapids City,State House,106,R,Clay Aurand,176
-Marshall,Blue Rapids City,State House,106,D,Todd Frye,202
-Marshall,Blue Rapids City,State House,106,,write-in,1
-Marshall,Center twp,State Senate,1,R,Dennis Pyle,49
-Marshall,Center twp,State Senate,1,D,Jerry Henry,13
-Marshall,Center twp,State House,106,R,Clay Aurand,35
-Marshall,Center twp,State House,106,D,Todd Frye,28
-Marshall,Clear Fork twp,State Senate,1,R,Dennis Pyle,10
-Marshall,Clear Fork twp,State Senate,1,D,Jerry Henry,7
-Marshall,Clear Fork twp,State House,106,R,Clay Aurand,5
-Marshall,Clear Fork twp,State House,106,D,Todd Frye,11
-Marshall,Cleveland twp,State Senate,1,R,Dennis Pyle,31
-Marshall,Cleveland twp,State Senate,1,D,Jerry Henry,21
-Marshall,Cleveland twp,State House,106,R,Clay Aurand,25
-Marshall,Cleveland twp,State House,106,D,Todd Frye,27
-Marshall,Cottage Hill twp,State Senate,36,D,Brian Angevine,8
-Marshall,Cottage Hill twp,State Senate,36,R,Elaine Bowers,50
-Marshall,Cottage Hill twp,State House,106,R,Clay Aurand,31
-Marshall,Cottage Hill twp,State House,106,D,Todd Frye,29
-Marshall,Elm Creek twp,State Senate,36,D,Brian Angevine,25
-Marshall,Elm Creek twp,State Senate,36,R,Elaine Bowers,62
-Marshall,Elm Creek twp,State House,106,R,Clay Aurand,40
-Marshall,Elm Creek twp,State House,106,D,Todd Frye,51
-Marshall,Franklin twp,State Senate,1,R,Dennis Pyle,107
-Marshall,Franklin twp,State Senate,1,D,Jerry Henry,39
-Marshall,Franklin twp,State House,106,R,Clay Aurand,69
-Marshall,Franklin twp,State House,106,D,Todd Frye,82
-Marshall,Guittard twp,State Senate,1,R,Dennis Pyle,128
-Marshall,Guittard twp,State Senate,1,D,Jerry Henry,51
-Marshall,Guittard twp,State House,106,R,Clay Aurand,80
-Marshall,Guittard twp,State House,106,D,Todd Frye,105
-Marshall,Herkimer twp,State Senate,36,D,Brian Angevine,19
-Marshall,Herkimer twp,State Senate,36,R,Elaine Bowers,100
-Marshall,Herkimer twp,State House,106,R,Clay Aurand,62
-Marshall,Herkimer twp,State House,106,D,Todd Frye,58
-Marshall,Lincoln twp,State Senate,1,R,Dennis Pyle,58
-Marshall,Lincoln twp,State Senate,1,D,Jerry Henry,21
-Marshall,Lincoln twp,State House,106,R,Clay Aurand,44
-Marshall,Lincoln twp,State House,106,D,Todd Frye,33
-Marshall,Logan twp,State Senate,36,D,Brian Angevine,32
-Marshall,Logan twp,State Senate,36,R,Elaine Bowers,108
-Marshall,Logan twp,State House,106,R,Clay Aurand,67
-Marshall,Logan twp,State House,106,D,Todd Frye,77
-Marshall,Marysville twp,State Senate,36,D,Brian Angevine,28
-Marshall,Marysville twp,State Senate,36,R,Elaine Bowers,111
-Marshall,Marysville twp,State House,106,R,Clay Aurand,70
-Marshall,Marysville twp,State House,106,D,Todd Frye,75
-Marshall,Murray twp,State Senate,1,R,Dennis Pyle,189
-Marshall,Murray twp,State Senate,1,D,Jerry Henry,107
-Marshall,Murray twp,State Senate,1,,write-in,1
-Marshall,Murray twp,State House,106,R,Clay Aurand,120
-Marshall,Murray twp,State House,106,D,Todd Frye,171
-Marshall,Noble twp,State Senate,1,R,Dennis Pyle,72
-Marshall,Noble twp,State Senate,1,D,Jerry Henry,26
-Marshall,Noble twp,State House,106,R,Clay Aurand,55
-Marshall,Noble twp,State House,106,D,Todd Frye,43
-Marshall,Oketo twp,State Senate,36,D,Brian Angevine,29
-Marshall,Oketo twp,State Senate,36,R,Elaine Bowers,63
-Marshall,Oketo twp,State House,106,R,Clay Aurand,46
-Marshall,Oketo twp,State House,106,D,Todd Frye,55
-Marshall,Richland twp,State Senate,1,R,Dennis Pyle,60
-Marshall,Richland twp,State Senate,1,D,Jerry Henry,26
-Marshall,Richland twp,State House,106,R,Clay Aurand,44
-Marshall,Richland twp,State House,106,D,Todd Frye,38
-Marshall,Rock twp,State Senate,1,R,Dennis Pyle,49
-Marshall,Rock twp,State Senate,1,D,Jerry Henry,24
-Marshall,Rock twp,State House,106,R,Clay Aurand,35
-Marshall,Rock twp,State House,106,D,Todd Frye,37
-Marshall,Rock twp,State House,106,,write-in,1
-Marshall,St Bridget twp,State Senate,1,R,Dennis Pyle,57
-Marshall,St Bridget twp,State Senate,1,D,Jerry Henry,30
-Marshall,St Bridget twp,State House,106,R,Clay Aurand,38
-Marshall,St Bridget twp,State House,106,D,Todd Frye,46
-Marshall,Vermilion twp East,State Senate,1,R,Dennis Pyle,146
-Marshall,Vermilion twp East,State Senate,1,D,Jerry Henry,94
-Marshall,Vermilion twp East,State Senate,1,,write-in,2
-Marshall,Vermilion twp East,State House,106,R,Clay Aurand,97
-Marshall,Vermilion twp East,State House,106,D,Todd Frye,145
-Marshall,Vermilion twp West,State Senate,1,R,Dennis Pyle,113
-Marshall,Vermilion twp West,State Senate,1,D,Jerry Henry,81
-Marshall,Vermilion twp West,State House,106,R,Clay Aurand,72
-Marshall,Vermilion twp West,State House,106,D,Todd Frye,120
-Marshall,Walnut twp,State Senate,36,D,Brian Angevine,9
-Marshall,Walnut twp,State Senate,36,R,Elaine Bowers,50
-Marshall,Walnut twp,State House,106,R,Clay Aurand,27
-Marshall,Walnut twp,State House,106,D,Todd Frye,38
-Marshall,Waterville twp,State Senate,36,D,Brian Angevine,77
-Marshall,Waterville twp,State Senate,36,R,Elaine Bowers,237
-Marshall,Waterville twp,State House,106,R,Clay Aurand,148
-Marshall,Waterville twp,State House,106,D,Todd Frye,172
-Marshall,Wells twp,State Senate,1,R,Dennis Pyle,43
-Marshall,Wells twp,State Senate,1,D,Jerry Henry,28
-Marshall,Wells twp,State House,106,R,Clay Aurand,24
-Marshall,Wells twp,State House,106,D,Todd Frye,46
-Marshall,Marysville City W1,State Senate,36,D,Brian Angevine,109
-Marshall,Marysville City W1,State Senate,36,R,Elaine Bowers,310
-Marshall,Marysville City W1,State House,106,R,Clay Aurand,184
-Marshall,Marysville City W1,State House,106,D,Todd Frye,256
-Marshall,Marysville City W2,State Senate,36,D,Brian Angevine,77
-Marshall,Marysville City W2,State Senate,36,R,Elaine Bowers,259
-Marshall,Marysville City W2,State House,106,R,Clay Aurand,140
-Marshall,Marysville City W2,State House,106,D,Todd Frye,210
-Marshall,Marysville City W3,State Senate,36,D,Brian Angevine,58
-Marshall,Marysville City W3,State Senate,36,R,Elaine Bowers,151
-Marshall,Marysville City W3,State Senate,36,,write-in,1
-Marshall,Marysville City W3,State House,106,R,Clay Aurand,102
-Marshall,Marysville City W3,State House,106,D,Todd Frye,120
-Marshall,Marysville City W4,State Senate,36,D,Brian Angevine,87
-Marshall,Marysville City W4,State Senate,36,R,Elaine Bowers,289
-Marshall,Marysville City W4,State Senate,36,,write-in,1
-Marshall,Marysville City W4,State House,106,R,Clay Aurand,161
-Marshall,Marysville City W4,State House,106,D,Todd Frye,230
-Marshall,Marysville City W4,State House,106,,write-in,1
+county,precinct,office,district,party,candidate,votes,vtd
+MARSHALL,Balderson Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",16,000010
+MARSHALL,Balderson Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",22,000010
+MARSHALL,Bigelow Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",12,000020
+MARSHALL,Bigelow Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",7,000020
+MARSHALL,Blue Rapids City,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",202,000030
+MARSHALL,Blue Rapids City,Kansas House of Representatives,106,Republican,"Aurand, Clay",176,000030
+MARSHALL,Blue Rapids Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",15,000040
+MARSHALL,Blue Rapids Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",22,000040
+MARSHALL,Center Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",28,000050
+MARSHALL,Center Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",35,000050
+MARSHALL,Clear Fork Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",11,000060
+MARSHALL,Clear Fork Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",5,000060
+MARSHALL,Cleveland Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",27,000070
+MARSHALL,Cleveland Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",25,000070
+MARSHALL,Cottage Hill Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",29,000080
+MARSHALL,Cottage Hill Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",31,000080
+MARSHALL,East Vermillion Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",145,000090
+MARSHALL,East Vermillion Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",97,000090
+MARSHALL,Elm Creek Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",51,000100
+MARSHALL,Elm Creek Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",40,000100
+MARSHALL,Herkimer Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",58,000130
+MARSHALL,Herkimer Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",62,000130
+MARSHALL,Lincoln Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",33,000140
+MARSHALL,Lincoln Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",44,000140
+MARSHALL,Logan Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",77,000150
+MARSHALL,Logan Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",67,000150
+MARSHALL,Marysville City Ward 1,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",256,000160
+MARSHALL,Marysville City Ward 1,Kansas House of Representatives,106,Republican,"Aurand, Clay",184,000160
+MARSHALL,Marysville City Ward 2,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",210,00017A
+MARSHALL,Marysville City Ward 2,Kansas House of Representatives,106,Republican,"Aurand, Clay",140,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00017B
+MARSHALL,Marysville City Ward 3,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",120,00018A
+MARSHALL,Marysville City Ward 3,Kansas House of Representatives,106,Republican,"Aurand, Clay",102,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",230,00019A
+MARSHALL,Marysville City Ward 4 Part A,Kansas House of Representatives,106,Republican,"Aurand, Clay",161,00019A
+MARSHALL,Marysville City Ward 4 Part B,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Kansas House of Representatives,106,Republican,"Aurand, Clay",0,00019C
+MARSHALL,Marysville Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",75,000200
+MARSHALL,Marysville Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",70,000200
+MARSHALL,Murray Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",171,000210
+MARSHALL,Murray Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",120,000210
+MARSHALL,Noble Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",43,000220
+MARSHALL,Noble Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",55,000220
+MARSHALL,Oketo Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",55,000230
+MARSHALL,Oketo Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",46,000230
+MARSHALL,Richland Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",38,000240
+MARSHALL,Richland Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",44,000240
+MARSHALL,Rock Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",37,000250
+MARSHALL,Rock Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",35,000250
+MARSHALL,St. Bridget Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",46,000260
+MARSHALL,St. Bridget Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",38,000260
+MARSHALL,Walnut Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",38,000270
+MARSHALL,Walnut Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",27,000270
+MARSHALL,Waterville Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",172,000280
+MARSHALL,Waterville Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",148,000280
+MARSHALL,Wells Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",46,000290
+MARSHALL,Wells Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",24,000290
+MARSHALL,West Vermillion Township,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",120,000300
+MARSHALL,West Vermillion Township,Kansas House of Representatives,106,Republican,"Aurand, Clay",72,000300
+MARSHALL,Franklin Township C1,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",44,120020
+MARSHALL,Franklin Township C1,Kansas House of Representatives,106,Republican,"Aurand, Clay",43,120020
+MARSHALL,Franklin Township C2,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",38,120030
+MARSHALL,Franklin Township C2,Kansas House of Representatives,106,Republican,"Aurand, Clay",26,120030
+MARSHALL,Guittard Township C1,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",0,120040
+MARSHALL,Guittard Township C1,Kansas House of Representatives,106,Republican,"Aurand, Clay",2,120040
+MARSHALL,Guittard Township C2,Kansas House of Representatives,106,Democratic,"Frye, Todd E.",105,120050
+MARSHALL,Guittard Township C2,Kansas House of Representatives,106,Republican,"Aurand, Clay",78,120050
+MARSHALL,Balderson Township,Kansas Senate,1,Democratic,"Henry, Jerry",7,000010
+MARSHALL,Balderson Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",32,000010
+MARSHALL,Bigelow Township,Kansas Senate,1,Democratic,"Henry, Jerry",8,000020
+MARSHALL,Bigelow Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",12,000020
+MARSHALL,Blue Rapids City,Kansas Senate,36,Democratic,"Angevine, Brian G.",8,000030
+MARSHALL,Blue Rapids City,Kansas Senate,36,Republican,"Bowers, Elaine S.",27,000030
+MARSHALL,Blue Rapids Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",93,000040
+MARSHALL,Blue Rapids Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",269,000040
+MARSHALL,Center Township,Kansas Senate,1,Democratic,"Henry, Jerry",13,000050
+MARSHALL,Center Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",49,000050
+MARSHALL,Clear Fork Township,Kansas Senate,1,Democratic,"Henry, Jerry",7,000060
+MARSHALL,Clear Fork Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",10,000060
+MARSHALL,Cleveland Township,Kansas Senate,1,Democratic,"Henry, Jerry",21,000070
+MARSHALL,Cleveland Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",31,000070
+MARSHALL,Cottage Hill Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",8,000080
+MARSHALL,Cottage Hill Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",50,000080
+MARSHALL,East Vermillion Township,Kansas Senate,1,Democratic,"Henry, Jerry",94,000090
+MARSHALL,East Vermillion Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",146,000090
+MARSHALL,Elm Creek Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",25,000100
+MARSHALL,Elm Creek Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",62,000100
+MARSHALL,Herkimer Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",19,000130
+MARSHALL,Herkimer Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",100,000130
+MARSHALL,Lincoln Township,Kansas Senate,1,Democratic,"Henry, Jerry",21,000140
+MARSHALL,Lincoln Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",58,000140
+MARSHALL,Logan Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",32,000150
+MARSHALL,Logan Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",108,000150
+MARSHALL,Marysville City Ward 1,Kansas Senate,36,Democratic,"Angevine, Brian G.",109,000160
+MARSHALL,Marysville City Ward 1,Kansas Senate,36,Republican,"Bowers, Elaine S.",310,000160
+MARSHALL,Marysville City Ward 2,Kansas Senate,36,Democratic,"Angevine, Brian G.",77,00017A
+MARSHALL,Marysville City Ward 2,Kansas Senate,36,Republican,"Bowers, Elaine S.",259,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00017B
+MARSHALL,Marysville City Ward 3,Kansas Senate,36,Democratic,"Angevine, Brian G.",58,00018A
+MARSHALL,Marysville City Ward 3,Kansas Senate,36,Republican,"Bowers, Elaine S.",151,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Kansas Senate,36,Democratic,"Angevine, Brian G.",87,00019A
+MARSHALL,Marysville City Ward 4 Part A,Kansas Senate,36,Republican,"Bowers, Elaine S.",289,00019A
+MARSHALL,Marysville City Ward 4 Part B,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00019C
+MARSHALL,Marysville Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",28,000200
+MARSHALL,Marysville Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",111,000200
+MARSHALL,Murray Township,Kansas Senate,1,Democratic,"Henry, Jerry",107,000210
+MARSHALL,Murray Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",189,000210
+MARSHALL,Noble Township,Kansas Senate,1,Democratic,"Henry, Jerry",26,000220
+MARSHALL,Noble Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",72,000220
+MARSHALL,Oketo Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",29,000230
+MARSHALL,Oketo Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",63,000230
+MARSHALL,Richland Township,Kansas Senate,1,Democratic,"Henry, Jerry",26,000240
+MARSHALL,Richland Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",60,000240
+MARSHALL,Rock Township,Kansas Senate,1,Democratic,"Henry, Jerry",24,000250
+MARSHALL,Rock Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",49,000250
+MARSHALL,St. Bridget Township,Kansas Senate,1,Democratic,"Henry, Jerry",30,000260
+MARSHALL,St. Bridget Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",57,000260
+MARSHALL,Walnut Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",9,000270
+MARSHALL,Walnut Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",50,000270
+MARSHALL,Waterville Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",77,000280
+MARSHALL,Waterville Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",237,000280
+MARSHALL,Wells Township,Kansas Senate,1,Democratic,"Henry, Jerry",28,000290
+MARSHALL,Wells Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",43,000290
+MARSHALL,West Vermillion Township,Kansas Senate,1,Democratic,"Henry, Jerry",81,000300
+MARSHALL,West Vermillion Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",113,000300
+MARSHALL,Franklin Township C1,Kansas Senate,1,Democratic,"Henry, Jerry",39,120020
+MARSHALL,Franklin Township C1,Kansas Senate,1,Republican,"Pyle, Dennis D.",107,120020
+MARSHALL,Franklin Township C2,Kansas Senate,1,Democratic,"Henry, Jerry",0,120030
+MARSHALL,Franklin Township C2,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,120030
+MARSHALL,Guittard Township C1,Kansas Senate,1,Democratic,"Henry, Jerry",51,120040
+MARSHALL,Guittard Township C1,Kansas Senate,1,Republican,"Pyle, Dennis D.",128,120040
+MARSHALL,Guittard Township C2,Kansas Senate,1,Democratic,"Henry, Jerry",0,120050
+MARSHALL,Guittard Township C2,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,120050
+MARSHALL,Balderson Township,President / Vice President,,independent,"Stein, Jill",1,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"McMullin, Evan",3,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+MARSHALL,Balderson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+MARSHALL,Balderson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000010
+MARSHALL,Balderson Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000010
+MARSHALL,Balderson Township,President / Vice President,,Republican,"Trump, Donald J.",36,000010
+MARSHALL,Bigelow Township,President / Vice President,,independent,"Stein, Jill",1,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000020
+MARSHALL,Bigelow Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+MARSHALL,Bigelow Township,President / Vice President,,Republican,"Trump, Donald J.",14,000020
+MARSHALL,Blue Rapids City,President / Vice President,,independent,"Stein, Jill",10,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Castle, Darrell L",2,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Hedges, James A",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"McMullin, Evan",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Perry, Darryl",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Smith, Mike",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Sood, Ajay",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+MARSHALL,Blue Rapids City,President / Vice President,,Democratic,"Clinton, Hillary Rodham",73,000030
+MARSHALL,Blue Rapids City,President / Vice President,,Libertarian,"Johnson, Gary",36,000030
+MARSHALL,Blue Rapids City,President / Vice President,,Republican,"Trump, Donald J.",269,000030
+MARSHALL,Blue Rapids Township,President / Vice President,,independent,"Stein, Jill",1,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+MARSHALL,Blue Rapids Township,President / Vice President,,Republican,"Trump, Donald J.",29,000040
+MARSHALL,Center Township,President / Vice President,,independent,"Stein, Jill",2,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"McMullin, Evan",3,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+MARSHALL,Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+MARSHALL,Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000050
+MARSHALL,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000050
+MARSHALL,Center Township,President / Vice President,,Republican,"Trump, Donald J.",43,000050
+MARSHALL,Clear Fork Township,President / Vice President,,independent,"Stein, Jill",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+MARSHALL,Clear Fork Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000060
+MARSHALL,Clear Fork Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000060
+MARSHALL,Clear Fork Township,President / Vice President,,Republican,"Trump, Donald J.",12,000060
+MARSHALL,Cleveland Township,President / Vice President,,independent,"Stein, Jill",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+MARSHALL,Cleveland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000070
+MARSHALL,Cleveland Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000070
+MARSHALL,Cleveland Township,President / Vice President,,Republican,"Trump, Donald J.",34,000070
+MARSHALL,Cottage Hill Township,President / Vice President,,independent,"Stein, Jill",1,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"McMullin, Evan",1,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000080
+MARSHALL,Cottage Hill Township,President / Vice President,,Republican,"Trump, Donald J.",52,000080
+MARSHALL,East Vermillion Township,President / Vice President,,independent,"Stein, Jill",5,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"McMullin, Evan",1,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+MARSHALL,East Vermillion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",77,000090
+MARSHALL,East Vermillion Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000090
+MARSHALL,East Vermillion Township,President / Vice President,,Republican,"Trump, Donald J.",148,000090
+MARSHALL,Elm Creek Township,President / Vice President,,independent,"Stein, Jill",2,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+MARSHALL,Elm Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000100
+MARSHALL,Elm Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000100
+MARSHALL,Elm Creek Township,President / Vice President,,Republican,"Trump, Donald J.",62,000100
+MARSHALL,Herkimer Township,President / Vice President,,independent,"Stein, Jill",1,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"McMullin, Evan",1,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+MARSHALL,Herkimer Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000130
+MARSHALL,Herkimer Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000130
+MARSHALL,Herkimer Township,President / Vice President,,Republican,"Trump, Donald J.",99,000130
+MARSHALL,Lincoln Township,President / Vice President,,independent,"Stein, Jill",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",1,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+MARSHALL,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000140
+MARSHALL,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000140
+MARSHALL,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",62,000140
+MARSHALL,Logan Township,President / Vice President,,independent,"Stein, Jill",1,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+MARSHALL,Logan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+MARSHALL,Logan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",33,000150
+MARSHALL,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000150
+MARSHALL,Logan Township,President / Vice President,,Republican,"Trump, Donald J.",107,000150
+MARSHALL,Marysville City Ward 1,President / Vice President,,independent,"Stein, Jill",2,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"McMullin, Evan",1,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",120,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",13,000160
+MARSHALL,Marysville City Ward 1,President / Vice President,,Republican,"Trump, Donald J.",300,000160
+MARSHALL,Marysville City Ward 2,President / Vice President,,independent,"Stein, Jill",7,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",94,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",15,00017A
+MARSHALL,Marysville City Ward 2,President / Vice President,,Republican,"Trump, Donald J.",237,00017A
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00017B
+MARSHALL,Marysville City Ward 3,President / Vice President,,independent,"Stein, Jill",5,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Hedges, James A",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"McMullin, Evan",1,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Smith, Mike",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",55,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",11,00018A
+MARSHALL,Marysville City Ward 3,President / Vice President,,Republican,"Trump, Donald J.",158,00018A
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,independent,"Stein, Jill",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,independent,"Stein, Jill",8,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Castle, Darrell L",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Giordani, Rocky",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Hedges, James A",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Kahn, Lynn",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"La Riva, Gloria",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Levinson, Michael S.",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Maturen, Michael A",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"McMullin, Evan",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Perry, Darryl",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Schriner, Joe C",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Smith, Mike",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Sood, Ajay",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Sterling, Shawna",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",118,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,Libertarian,"Johnson, Gary",17,00019A
+MARSHALL,Marysville City Ward 4 Part A,President / Vice President,,Republican,"Trump, Donald J.",251,00019A
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,independent,"Stein, Jill",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Castle, Darrell L",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Giordani, Rocky",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Hedges, James A",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Hoefling, Tom",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Kahn, Lynn",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"La Riva, Gloria",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Levinson, Michael S.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Maturen, Michael A",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"McMullin, Evan",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Perry, Darryl",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Schriner, Joe C",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Smith, Mike",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Sood, Ajay",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Sterling, Shawna",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,Libertarian,"Johnson, Gary",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,President / Vice President,,Republican,"Trump, Donald J.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,independent,"Stein, Jill",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Hedges, James A",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Smith, Mike",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00019C
+MARSHALL,Marysville Township,President / Vice President,,independent,"Stein, Jill",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"McMullin, Evan",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+MARSHALL,Marysville Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+MARSHALL,Marysville Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000200
+MARSHALL,Marysville Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000200
+MARSHALL,Marysville Township,President / Vice President,,Republican,"Trump, Donald J.",104,000200
+MARSHALL,Murray Township,President / Vice President,,independent,"Stein, Jill",10,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"McMullin, Evan",2,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+MARSHALL,Murray Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+MARSHALL,Murray Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",46,000210
+MARSHALL,Murray Township,President / Vice President,,Libertarian,"Johnson, Gary",14,000210
+MARSHALL,Murray Township,President / Vice President,,Republican,"Trump, Donald J.",227,000210
+MARSHALL,Noble Township,President / Vice President,,independent,"Stein, Jill",1,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+MARSHALL,Noble Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+MARSHALL,Noble Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000220
+MARSHALL,Noble Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000220
+MARSHALL,Noble Township,President / Vice President,,Republican,"Trump, Donald J.",84,000220
+MARSHALL,Oketo Township,President / Vice President,,independent,"Stein, Jill",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+MARSHALL,Oketo Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+MARSHALL,Oketo Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,000230
+MARSHALL,Oketo Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000230
+MARSHALL,Oketo Township,President / Vice President,,Republican,"Trump, Donald J.",70,000230
+MARSHALL,Richland Township,President / Vice President,,independent,"Stein, Jill",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+MARSHALL,Richland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+MARSHALL,Richland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000240
+MARSHALL,Richland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000240
+MARSHALL,Richland Township,President / Vice President,,Republican,"Trump, Donald J.",72,000240
+MARSHALL,Rock Township,President / Vice President,,independent,"Stein, Jill",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Hedges, James A",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"McMullin, Evan",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Perry, Darryl",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Smith, Mike",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Sood, Ajay",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+MARSHALL,Rock Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+MARSHALL,Rock Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",16,000250
+MARSHALL,Rock Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000250
+MARSHALL,Rock Township,President / Vice President,,Republican,"Trump, Donald J.",56,000250
+MARSHALL,St. Bridget Township,President / Vice President,,independent,"Stein, Jill",1,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Hedges, James A",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"McMullin, Evan",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Perry, Darryl",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Smith, Mike",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Sood, Ajay",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+MARSHALL,St. Bridget Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000260
+MARSHALL,St. Bridget Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000260
+MARSHALL,St. Bridget Township,President / Vice President,,Republican,"Trump, Donald J.",67,000260
+MARSHALL,Walnut Township,President / Vice President,,independent,"Stein, Jill",2,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Castle, Darrell L",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Giordani, Rocky",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Hedges, James A",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Kahn, Lynn",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"La Riva, Gloria",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Maturen, Michael A",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"McMullin, Evan",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Perry, Darryl",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Schriner, Joe C",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Smith, Mike",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Sood, Ajay",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Sterling, Shawna",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000270
+MARSHALL,Walnut Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000270
+MARSHALL,Walnut Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000270
+MARSHALL,Walnut Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000270
+MARSHALL,Walnut Township,President / Vice President,,Republican,"Trump, Donald J.",49,000270
+MARSHALL,Waterville Township,President / Vice President,,independent,"Stein, Jill",4,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Castle, Darrell L",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Giordani, Rocky",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Hedges, James A",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Kahn, Lynn",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"La Riva, Gloria",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Maturen, Michael A",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"McMullin, Evan",1,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Perry, Darryl",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Schriner, Joe C",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Smith, Mike",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Sood, Ajay",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Sterling, Shawna",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000280
+MARSHALL,Waterville Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000280
+MARSHALL,Waterville Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",70,000280
+MARSHALL,Waterville Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000280
+MARSHALL,Waterville Township,President / Vice President,,Republican,"Trump, Donald J.",249,000280
+MARSHALL,Wells Township,President / Vice President,,independent,"Stein, Jill",1,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Castle, Darrell L",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Giordani, Rocky",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Hedges, James A",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Kahn, Lynn",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"La Riva, Gloria",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Maturen, Michael A",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"McMullin, Evan",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Perry, Darryl",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Schriner, Joe C",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Smith, Mike",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Sood, Ajay",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Sterling, Shawna",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000290
+MARSHALL,Wells Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000290
+MARSHALL,Wells Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",21,000290
+MARSHALL,Wells Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000290
+MARSHALL,Wells Township,President / Vice President,,Republican,"Trump, Donald J.",41,000290
+MARSHALL,West Vermillion Township,President / Vice President,,independent,"Stein, Jill",7,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Hedges, James A",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"McMullin, Evan",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Perry, Darryl",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Smith, Mike",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Sood, Ajay",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000300
+MARSHALL,West Vermillion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",54,000300
+MARSHALL,West Vermillion Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000300
+MARSHALL,West Vermillion Township,President / Vice President,,Republican,"Trump, Donald J.",129,000300
+MARSHALL,Franklin Township C1,President / Vice President,,independent,"Stein, Jill",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Castle, Darrell L",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Hedges, James A",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"McMullin, Evan",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Perry, Darryl",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Smith, Mike",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Sood, Ajay",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+MARSHALL,Franklin Township C1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,120020
+MARSHALL,Franklin Township C1,President / Vice President,,Libertarian,"Johnson, Gary",6,120020
+MARSHALL,Franklin Township C1,President / Vice President,,Republican,"Trump, Donald J.",75,120020
+MARSHALL,Franklin Township C2,President / Vice President,,independent,"Stein, Jill",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Hedges, James A",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"McMullin, Evan",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Perry, Darryl",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Smith, Mike",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Sood, Ajay",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+MARSHALL,Franklin Township C2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,120030
+MARSHALL,Franklin Township C2,President / Vice President,,Libertarian,"Johnson, Gary",2,120030
+MARSHALL,Franklin Township C2,President / Vice President,,Republican,"Trump, Donald J.",45,120030
+MARSHALL,Guittard Township C1,President / Vice President,,independent,"Stein, Jill",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Basiago, Andrew D.",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Castle, Darrell L",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Giordani, Rocky",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Hedges, James A",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Kahn, Lynn",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"La Riva, Gloria",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Levinson, Michael S.",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Maturen, Michael A",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"McMullin, Evan",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Moorehead, Monica G.",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Perry, Darryl",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Schriner, Joe C",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Smith, Mike",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Sood, Ajay",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Sterling, Shawna",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Valdivia, Anthony J",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,Libertarian,"Johnson, Gary",0,120040
+MARSHALL,Guittard Township C1,President / Vice President,,Republican,"Trump, Donald J.",2,120040
+MARSHALL,Guittard Township C2,President / Vice President,,independent,"Stein, Jill",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Basiago, Andrew D.",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Castle, Darrell L",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Giordani, Rocky",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Hedges, James A",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Kahn, Lynn",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"La Riva, Gloria",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Levinson, Michael S.",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Maturen, Michael A",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"McMullin, Evan",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Moorehead, Monica G.",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Perry, Darryl",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Schriner, Joe C",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Smith, Mike",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Sood, Ajay",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Sterling, Shawna",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Valdivia, Anthony J",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120050
+MARSHALL,Guittard Township C2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",43,120050
+MARSHALL,Guittard Township C2,President / Vice President,,Libertarian,"Johnson, Gary",8,120050
+MARSHALL,Guittard Township C2,President / Vice President,,Republican,"Trump, Donald J.",124,120050
+MARSHALL,Balderson Township,United States House of Representatives,1,independent,"LaPolice, Alan",3,000010
+MARSHALL,Balderson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+MARSHALL,Balderson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000010
+MARSHALL,Balderson Township,United States House of Representatives,1,Republican,"Marshall, Roger",35,000010
+MARSHALL,Bigelow Township,United States House of Representatives,2,Democratic,"Potter, Britani",4,000020
+MARSHALL,Bigelow Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,000020
+MARSHALL,Bigelow Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",16,000020
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Democratic,"Potter, Britani",81,000030
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Libertarian,"Bales, James Houston",23,000030
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Republican,"Jenkins, Lynn",279,000030
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Democratic,"Potter, Britani",5,000040
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000040
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",31,000040
+MARSHALL,Center Township,United States House of Representatives,2,Democratic,"Potter, Britani",8,000050
+MARSHALL,Center Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000050
+MARSHALL,Center Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",53,000050
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Democratic,"Potter, Britani",5,000060
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000060
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",9,000060
+MARSHALL,Cleveland Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000070
+MARSHALL,Cleveland Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000070
+MARSHALL,Cleveland Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",38,000070
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Democratic,"Potter, Britani",5,000080
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000080
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",59,000080
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Democratic,"Potter, Britani",53,000090
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000090
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",183,000090
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",18,000100
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000100
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",65,000100
+MARSHALL,Herkimer Township,United States House of Representatives,1,independent,"LaPolice, Alan",29,000130
+MARSHALL,Herkimer Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+MARSHALL,Herkimer Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",9,000130
+MARSHALL,Herkimer Township,United States House of Representatives,1,Republican,"Marshall, Roger",79,000130
+MARSHALL,Lincoln Township,United States House of Representatives,2,Democratic,"Potter, Britani",5,000140
+MARSHALL,Lincoln Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000140
+MARSHALL,Lincoln Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",70,000140
+MARSHALL,Logan Township,United States House of Representatives,1,independent,"LaPolice, Alan",32,000150
+MARSHALL,Logan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+MARSHALL,Logan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000150
+MARSHALL,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",104,000150
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",137,000160
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",16,000160
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",251,000160
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",96,00017A
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00017A
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",23,00017A
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",205,00017A
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00017B
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",55,00018A
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00018A
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",15,00018A
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",137,00018A
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,independent,"LaPolice, Alan",107,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,Libertarian,"Burt, Kerry",19,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,Republican,"Marshall, Roger",252,00019A
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,independent,"LaPolice, Alan",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019C
+MARSHALL,Marysville Township,United States House of Representatives,1,independent,"LaPolice, Alan",44,000200
+MARSHALL,Marysville Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+MARSHALL,Marysville Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000200
+MARSHALL,Marysville Township,United States House of Representatives,1,Republican,"Marshall, Roger",92,000200
+MARSHALL,Murray Township,United States House of Representatives,2,Democratic,"Potter, Britani",50,000210
+MARSHALL,Murray Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,000210
+MARSHALL,Murray Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",237,000210
+MARSHALL,Noble Township,United States House of Representatives,2,Democratic,"Potter, Britani",19,000220
+MARSHALL,Noble Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000220
+MARSHALL,Noble Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",79,000220
+MARSHALL,Oketo Township,United States House of Representatives,1,independent,"LaPolice, Alan",26,000230
+MARSHALL,Oketo Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000230
+MARSHALL,Oketo Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000230
+MARSHALL,Oketo Township,United States House of Representatives,1,Republican,"Marshall, Roger",61,000230
+MARSHALL,Richland Township,United States House of Representatives,1,independent,"LaPolice, Alan",16,000240
+MARSHALL,Richland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000240
+MARSHALL,Richland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000240
+MARSHALL,Richland Township,United States House of Representatives,1,Republican,"Marshall, Roger",55,000240
+MARSHALL,Rock Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000250
+MARSHALL,Rock Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000250
+MARSHALL,Rock Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",60,000250
+MARSHALL,St. Bridget Township,United States House of Representatives,1,independent,"LaPolice, Alan",27,000260
+MARSHALL,St. Bridget Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000260
+MARSHALL,St. Bridget Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000260
+MARSHALL,St. Bridget Township,United States House of Representatives,1,Republican,"Marshall, Roger",40,000260
+MARSHALL,Walnut Township,United States House of Representatives,2,Democratic,"Potter, Britani",8,000270
+MARSHALL,Walnut Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000270
+MARSHALL,Walnut Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",54,000270
+MARSHALL,Waterville Township,United States House of Representatives,2,Democratic,"Potter, Britani",68,000280
+MARSHALL,Waterville Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,000280
+MARSHALL,Waterville Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",252,000280
+MARSHALL,Wells Township,United States House of Representatives,2,Democratic,"Potter, Britani",16,000290
+MARSHALL,Wells Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000290
+MARSHALL,Wells Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",50,000290
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Democratic,"Potter, Britani",55,000300
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000300
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",137,000300
+MARSHALL,Franklin Township C1,United States House of Representatives,1,independent,"LaPolice, Alan",27,120020
+MARSHALL,Franklin Township C1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120020
+MARSHALL,Franklin Township C1,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,120020
+MARSHALL,Franklin Township C1,United States House of Representatives,1,Republican,"Marshall, Roger",59,120020
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Democratic,"Potter, Britani",10,120030
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,120030
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Republican,"Jenkins, Lynn",48,120030
+MARSHALL,Guittard Township C1,United States House of Representatives,1,independent,"LaPolice, Alan",0,120040
+MARSHALL,Guittard Township C1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120040
+MARSHALL,Guittard Township C1,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,120040
+MARSHALL,Guittard Township C1,United States House of Representatives,1,Republican,"Marshall, Roger",2,120040
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Democratic,"Potter, Britani",40,120050
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,120050
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Republican,"Jenkins, Lynn",131,120050
+MARSHALL,Balderson Township,United States Senate,,write - in,"Smith, DJ",0,000010
+MARSHALL,Balderson Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000010
+MARSHALL,Balderson Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+MARSHALL,Balderson Township,United States Senate,,Republican,"Moran, Jerry",37,000010
+MARSHALL,Bigelow Township,United States Senate,,write - in,"Smith, DJ",0,000020
+MARSHALL,Bigelow Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000020
+MARSHALL,Bigelow Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000020
+MARSHALL,Bigelow Township,United States Senate,,Republican,"Moran, Jerry",17,000020
+MARSHALL,Blue Rapids City,United States Senate,,write - in,"Smith, DJ",0,000030
+MARSHALL,Blue Rapids City,United States Senate,,Democratic,"Wiesner, Patrick",70,000030
+MARSHALL,Blue Rapids City,United States Senate,,Libertarian,"Garrard, Robert D.",21,000030
+MARSHALL,Blue Rapids City,United States Senate,,Republican,"Moran, Jerry",291,000030
+MARSHALL,Blue Rapids Township,United States Senate,,write - in,"Smith, DJ",0,000040
+MARSHALL,Blue Rapids Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000040
+MARSHALL,Blue Rapids Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000040
+MARSHALL,Blue Rapids Township,United States Senate,,Republican,"Moran, Jerry",29,000040
+MARSHALL,Center Township,United States Senate,,write - in,"Smith, DJ",0,000050
+MARSHALL,Center Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000050
+MARSHALL,Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000050
+MARSHALL,Center Township,United States Senate,,Republican,"Moran, Jerry",54,000050
+MARSHALL,Clear Fork Township,United States Senate,,write - in,"Smith, DJ",0,000060
+MARSHALL,Clear Fork Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000060
+MARSHALL,Clear Fork Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000060
+MARSHALL,Clear Fork Township,United States Senate,,Republican,"Moran, Jerry",13,000060
+MARSHALL,Cleveland Township,United States Senate,,write - in,"Smith, DJ",0,000070
+MARSHALL,Cleveland Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000070
+MARSHALL,Cleveland Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000070
+MARSHALL,Cleveland Township,United States Senate,,Republican,"Moran, Jerry",39,000070
+MARSHALL,Cottage Hill Township,United States Senate,,write - in,"Smith, DJ",0,000080
+MARSHALL,Cottage Hill Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000080
+MARSHALL,Cottage Hill Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+MARSHALL,Cottage Hill Township,United States Senate,,Republican,"Moran, Jerry",59,000080
+MARSHALL,East Vermillion Township,United States Senate,,write - in,"Smith, DJ",0,000090
+MARSHALL,East Vermillion Township,United States Senate,,Democratic,"Wiesner, Patrick",49,000090
+MARSHALL,East Vermillion Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000090
+MARSHALL,East Vermillion Township,United States Senate,,Republican,"Moran, Jerry",190,000090
+MARSHALL,Elm Creek Township,United States Senate,,write - in,"Smith, DJ",0,000100
+MARSHALL,Elm Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000100
+MARSHALL,Elm Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000100
+MARSHALL,Elm Creek Township,United States Senate,,Republican,"Moran, Jerry",68,000100
+MARSHALL,Herkimer Township,United States Senate,,write - in,"Smith, DJ",0,000130
+MARSHALL,Herkimer Township,United States Senate,,Democratic,"Wiesner, Patrick",13,000130
+MARSHALL,Herkimer Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000130
+MARSHALL,Herkimer Township,United States Senate,,Republican,"Moran, Jerry",103,000130
+MARSHALL,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000140
+MARSHALL,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000140
+MARSHALL,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000140
+MARSHALL,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",73,000140
+MARSHALL,Logan Township,United States Senate,,write - in,"Smith, DJ",0,000150
+MARSHALL,Logan Township,United States Senate,,Democratic,"Wiesner, Patrick",24,000150
+MARSHALL,Logan Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000150
+MARSHALL,Logan Township,United States Senate,,Republican,"Moran, Jerry",117,000150
+MARSHALL,Marysville City Ward 1,United States Senate,,write - in,"Smith, DJ",0,000160
+MARSHALL,Marysville City Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",105,000160
+MARSHALL,Marysville City Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",17,000160
+MARSHALL,Marysville City Ward 1,United States Senate,,Republican,"Moran, Jerry",310,000160
+MARSHALL,Marysville City Ward 2,United States Senate,,write - in,"Smith, DJ",0,00017A
+MARSHALL,Marysville City Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",74,00017A
+MARSHALL,Marysville City Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",13,00017A
+MARSHALL,Marysville City Ward 2,United States Senate,,Republican,"Moran, Jerry",261,00017A
+MARSHALL,Marysville City Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00017B
+MARSHALL,Marysville City Ward 3,United States Senate,,write - in,"Smith, DJ",0,00018A
+MARSHALL,Marysville City Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",44,00018A
+MARSHALL,Marysville City Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",12,00018A
+MARSHALL,Marysville City Ward 3,United States Senate,,Republican,"Moran, Jerry",168,00018A
+MARSHALL,Marysville City Ward 3 Exclave,United States Senate,,write - in,"Smith, DJ",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,United States Senate,,write - in,"Smith, DJ",0,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States Senate,,Democratic,"Wiesner, Patrick",82,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States Senate,,Libertarian,"Garrard, Robert D.",21,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States Senate,,Republican,"Moran, Jerry",289,00019A
+MARSHALL,Marysville City Ward 4 Part B,United States Senate,,write - in,"Smith, DJ",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States Senate,,Democratic,"Wiesner, Patrick",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States Senate,,Republican,"Moran, Jerry",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States Senate,,write - in,"Smith, DJ",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States Senate,,Republican,"Moran, Jerry",0,00019C
+MARSHALL,Marysville Township,United States Senate,,write - in,"Smith, DJ",0,000200
+MARSHALL,Marysville Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000200
+MARSHALL,Marysville Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000200
+MARSHALL,Marysville Township,United States Senate,,Republican,"Moran, Jerry",105,000200
+MARSHALL,Murray Township,United States Senate,,write - in,"Smith, DJ",0,000210
+MARSHALL,Murray Township,United States Senate,,Democratic,"Wiesner, Patrick",42,000210
+MARSHALL,Murray Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000210
+MARSHALL,Murray Township,United States Senate,,Republican,"Moran, Jerry",240,000210
+MARSHALL,Noble Township,United States Senate,,write - in,"Smith, DJ",0,000220
+MARSHALL,Noble Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000220
+MARSHALL,Noble Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000220
+MARSHALL,Noble Township,United States Senate,,Republican,"Moran, Jerry",85,000220
+MARSHALL,Oketo Township,United States Senate,,write - in,"Smith, DJ",0,000230
+MARSHALL,Oketo Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000230
+MARSHALL,Oketo Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000230
+MARSHALL,Oketo Township,United States Senate,,Republican,"Moran, Jerry",73,000230
+MARSHALL,Richland Township,United States Senate,,write - in,"Smith, DJ",0,000240
+MARSHALL,Richland Township,United States Senate,,Democratic,"Wiesner, Patrick",12,000240
+MARSHALL,Richland Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000240
+MARSHALL,Richland Township,United States Senate,,Republican,"Moran, Jerry",71,000240
+MARSHALL,Rock Township,United States Senate,,write - in,"Smith, DJ",0,000250
+MARSHALL,Rock Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000250
+MARSHALL,Rock Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000250
+MARSHALL,Rock Township,United States Senate,,Republican,"Moran, Jerry",65,000250
+MARSHALL,St. Bridget Township,United States Senate,,write - in,"Smith, DJ",0,000260
+MARSHALL,St. Bridget Township,United States Senate,,Democratic,"Wiesner, Patrick",17,000260
+MARSHALL,St. Bridget Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000260
+MARSHALL,St. Bridget Township,United States Senate,,Republican,"Moran, Jerry",64,000260
+MARSHALL,Walnut Township,United States Senate,,write - in,"Smith, DJ",0,000270
+MARSHALL,Walnut Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000270
+MARSHALL,Walnut Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000270
+MARSHALL,Walnut Township,United States Senate,,Republican,"Moran, Jerry",53,000270
+MARSHALL,Waterville Township,United States Senate,,write - in,"Smith, DJ",0,000280
+MARSHALL,Waterville Township,United States Senate,,Democratic,"Wiesner, Patrick",64,000280
+MARSHALL,Waterville Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000280
+MARSHALL,Waterville Township,United States Senate,,Republican,"Moran, Jerry",258,000280
+MARSHALL,Wells Township,United States Senate,,write - in,"Smith, DJ",0,000290
+MARSHALL,Wells Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000290
+MARSHALL,Wells Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000290
+MARSHALL,Wells Township,United States Senate,,Republican,"Moran, Jerry",53,000290
+MARSHALL,West Vermillion Township,United States Senate,,write - in,"Smith, DJ",0,000300
+MARSHALL,West Vermillion Township,United States Senate,,Democratic,"Wiesner, Patrick",43,000300
+MARSHALL,West Vermillion Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000300
+MARSHALL,West Vermillion Township,United States Senate,,Republican,"Moran, Jerry",151,000300
+MARSHALL,Franklin Township C1,United States Senate,,write - in,"Smith, DJ",0,120020
+MARSHALL,Franklin Township C1,United States Senate,,Democratic,"Wiesner, Patrick",10,120020
+MARSHALL,Franklin Township C1,United States Senate,,Libertarian,"Garrard, Robert D.",3,120020
+MARSHALL,Franklin Township C1,United States Senate,,Republican,"Moran, Jerry",47,120020
+MARSHALL,Franklin Township C2,United States Senate,,write - in,"Smith, DJ",0,120030
+MARSHALL,Franklin Township C2,United States Senate,,Democratic,"Wiesner, Patrick",17,120030
+MARSHALL,Franklin Township C2,United States Senate,,Libertarian,"Garrard, Robert D.",6,120030
+MARSHALL,Franklin Township C2,United States Senate,,Republican,"Moran, Jerry",70,120030
+MARSHALL,Guittard Township C1,United States Senate,,write - in,"Smith, DJ",0,120040
+MARSHALL,Guittard Township C1,United States Senate,,Democratic,"Wiesner, Patrick",0,120040
+MARSHALL,Guittard Township C1,United States Senate,,Libertarian,"Garrard, Robert D.",0,120040
+MARSHALL,Guittard Township C1,United States Senate,,Republican,"Moran, Jerry",2,120040
+MARSHALL,Guittard Township C2,United States Senate,,write - in,"Smith, DJ",0,120050
+MARSHALL,Guittard Township C2,United States Senate,,Democratic,"Wiesner, Patrick",39,120050
+MARSHALL,Guittard Township C2,United States Senate,,Libertarian,"Garrard, Robert D.",7,120050
+MARSHALL,Guittard Township C2,United States Senate,,Republican,"Moran, Jerry",136,120050

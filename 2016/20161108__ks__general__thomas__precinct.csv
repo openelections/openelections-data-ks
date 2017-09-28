@@ -1,267 +1,844 @@
-county,precinct,office,district,party,candidate,votes,
-Thomas,Barrett,President,,D,Clinton & Kaine,5,
-Thomas,Barrett,President,,R,Trump & Pence,47,
-Thomas,Barrett,President,,L,Johnson & Weld,0,
-Thomas,Barrett,President,,i,Stein & Baraka,0,
-Thomas,Barrett,U.S. Senate,,D,Patrick Wiesner,6,
-Thomas,Barrett,U.S. Senate,,R,Jerry Moran,46,
-Thomas,Barrett,U.S. Senate,,L,Robert D Garrard,0,
-Thomas,Barrett,U.S. House,1,R,Roger Marshall,45,
-Thomas,Barrett,U.S. House,1,L,Kerry Burt,1,
-Thomas,Barrett,U.S. House,1,i,Alan LaPolice,6,
-Thomas,Barrett,State Senate,40,D,Alex Herman,8,
-Thomas,Barrett,State Senate,40,R,Richard (Rick) Billinger,45,
-Thomas,Barrett,State House,120,D,Bonita L. Peterson,9,
-Thomas,Barrett,State House,120,R,Adam Smith,44,
-Thomas,West Hale,President,,D,Clinton & Kaine,2,
-Thomas,West Hale,President,,R,Trump & Pence,56,
-Thomas,West Hale,President,,L,Johnson & Weld,2,
-Thomas,West Hale,President,,i,Stein & Baraka,0,
-Thomas,West Hale,U.S. Senate,,D,Patrick Wiesner,3,
-Thomas,West Hale,U.S. Senate,,R,Jerry Moran,56,
-Thomas,West Hale,U.S. Senate,,L,Robert D Garrard,0,
-Thomas,West Hale,U.S. House,1,R,Roger Marshall,45,
-Thomas,West Hale,U.S. House,1,L,Kerry Burt,1,
-Thomas,West Hale,U.S. House,1,i,Alan LaPolice,14,
-Thomas,West Hale,State Senate,40,D,Alex Herman,3,
-Thomas,West Hale,State Senate,40,R,Richard (Rick) Billinger,57,
-Thomas,West Hale,State House,120,D,Bonita L. Peterson,5,
-Thomas,West Hale,State House,120,R,Adam Smith,55,
-Thomas,Kingery,President,,D,Clinton & Kaine,2,
-Thomas,Kingery,President,,R,Trump & Pence,49,
-Thomas,Kingery,President,,L,Johnson & Weld,0,
-Thomas,Kingery,President,,i,Stein & Baraka,0,
-Thomas,Kingery,U.S. Senate,,D,Patrick Wiesner,2,
-Thomas,Kingery,U.S. Senate,,R,Jerry Moran,46,
-Thomas,Kingery,U.S. Senate,,L,Robert D Garrard,1,
-Thomas,Kingery,U.S. House,1,R,Roger Marshall,38,
-Thomas,Kingery,U.S. House,1,L,Kerry Burt,0,
-Thomas,Kingery,U.S. House,1,i,Alan LaPolice,11,
-Thomas,Kingery,State Senate,40,D,Alex Herman,2,
-Thomas,Kingery,State Senate,40,R,Richard (Rick) Billinger,47,
-Thomas,Kingery,State House,118,R,Don Hineman,46,
-Thomas,Lacey,President,,D,Clinton & Kaine,6,
-Thomas,Lacey,President,,R,Trump & Pence,53,
-Thomas,Lacey,President,,L,Johnson & Weld,1,
-Thomas,Lacey,President,,i,Stein & Baraka,2,
-Thomas,Lacey,U.S. Senate,,D,Patrick Wiesner,7,
-Thomas,Lacey,U.S. Senate,,R,Jerry Moran,55,
-Thomas,Lacey,U.S. Senate,,L,Robert D Garrard,1,
-Thomas,Lacey,U.S. House,1,R,Roger Marshall,52,
-Thomas,Lacey,U.S. House,1,L,Kerry Burt,0,
-Thomas,Lacey,U.S. House,1,i,Alan LaPolice,12,
-Thomas,Lacey,State Senate,40,D,Alex Herman,7,
-Thomas,Lacey,State Senate,40,R,Richard (Rick) Billinger,56,
-Thomas,Lacey,State House,118,R,Don Hineman,55,
-Thomas,Menlo,President,,D,Clinton & Kaine,8,
-Thomas,Menlo,President,,R,Trump & Pence,27,
-Thomas,Menlo,President,,L,Johnson & Weld,1,
-Thomas,Menlo,President,,i,Stein & Baraka,0,
-Thomas,Menlo,U.S. Senate,,D,Patrick Wiesner,2,
-Thomas,Menlo,U.S. Senate,,R,Jerry Moran,33,
-Thomas,Menlo,U.S. Senate,,L,Robert D Garrard,1,
-Thomas,Menlo,U.S. House,1,R,Roger Marshall,33,
-Thomas,Menlo,U.S. House,1,L,Kerry Burt,0,
-Thomas,Menlo,U.S. House,1,i,Alan LaPolice,3,
-Thomas,Menlo,State Senate,40,D,Alex Herman,4,
-Thomas,Menlo,State Senate,40,R,Richard (Rick) Billinger,33,
-Thomas,Menlo,State House,118,R,Don Hineman,34,
-Thomas,East Morgan,President,,D,Clinton & Kaine,14,
-Thomas,East Morgan,President,,R,Trump & Pence,122,
-Thomas,East Morgan,President,,L,Johnson & Weld,3,
-Thomas,East Morgan,President,,i,Stein & Baraka,1,
-Thomas,East Morgan,U.S. Senate,,D,Patrick Wiesner,16,
-Thomas,East Morgan,U.S. Senate,,R,Jerry Moran,123,
-Thomas,East Morgan,U.S. Senate,,L,Robert D Garrard,4,
-Thomas,East Morgan,U.S. House,1,R,Roger Marshall,111,
-Thomas,East Morgan,U.S. House,1,L,Kerry Burt,3,
-Thomas,East Morgan,U.S. House,1,i,Alan LaPolice,24,
-Thomas,East Morgan,State Senate,40,D,Alex Herman,15,
-Thomas,East Morgan,State Senate,40,R,Richard (Rick) Billinger,125,
-Thomas,East Morgan,State House,120,D,Bonita L. Peterson,17,
-Thomas,East Morgan,State House,120,R,Adam Smith,123,
-Thomas,West Morgan,President,,D,Clinton & Kaine,35,
-Thomas,West Morgan,President,,R,Trump & Pence,201,
-Thomas,West Morgan,President,,L,Johnson & Weld,3,
-Thomas,West Morgan,President,,i,Stein & Baraka,1,
-Thomas,West Morgan,U.S. Senate,,D,Patrick Wiesner,28,
-Thomas,West Morgan,U.S. Senate,,R,Jerry Moran,206,
-Thomas,West Morgan,U.S. Senate,,L,Robert D Garrard,5,
-Thomas,West Morgan,U.S. House,1,R,Roger Marshall,187,
-Thomas,West Morgan,U.S. House,1,L,Kerry Burt,10,
-Thomas,West Morgan,U.S. House,1,i,Alan LaPolice,39,
-Thomas,West Morgan,State Senate,40,D,Alex Herman,33,
-Thomas,West Morgan,State Senate,40,R,Richard (Rick) Billinger,207,
-Thomas,West Morgan,State House,120,D,Bonita L. Peterson,30,
-Thomas,West Morgan,State House,120,R,Adam Smith,200,
-Thomas,North Randall,President,,D,Clinton & Kaine,1,
-Thomas,North Randall,President,,R,Trump & Pence,38,
-Thomas,North Randall,President,,L,Johnson & Weld,2,
-Thomas,North Randall,President,,i,Stein & Baraka,0,
-Thomas,North Randall,U.S. Senate,,D,Patrick Wiesner,1,
-Thomas,North Randall,U.S. Senate,,R,Jerry Moran,37,
-Thomas,North Randall,U.S. Senate,,L,Robert D Garrard,2,
-Thomas,North Randall,U.S. House,1,R,Roger Marshall,29,
-Thomas,North Randall,U.S. House,1,L,Kerry Burt,1,
-Thomas,North Randall,U.S. House,1,i,Alan LaPolice,5,
-Thomas,North Randall,State Senate,40,D,Alex Herman,0,
-Thomas,North Randall,State Senate,40,R,Richard (Rick) Billinger,41,
-Thomas,North Randall,State House,118,R,Don Hineman,41,
-Thomas,South Randall,President,,D,Clinton & Kaine,17,
-Thomas,South Randall,President,,R,Trump & Pence,102,
-Thomas,South Randall,President,,L,Johnson & Weld,4,
-Thomas,South Randall,President,,i,Stein & Baraka,1,
-Thomas,South Randall,U.S. Senate,,D,Patrick Wiesner,15,
-Thomas,South Randall,U.S. Senate,,R,Jerry Moran,105,
-Thomas,South Randall,U.S. Senate,,L,Robert D Garrard,3,
-Thomas,South Randall,U.S. House,1,R,Roger Marshall,97,
-Thomas,South Randall,U.S. House,1,L,Kerry Burt,5,
-Thomas,South Randall,U.S. House,1,i,Alan LaPolice,20,
-Thomas,South Randall,State Senate,40,D,Alex Herman,22,
-Thomas,South Randall,State Senate,40,R,Richard (Rick) Billinger,99,
-Thomas,South Randall,State House,118,R,Don Hineman,111,
-Thomas,Rovohl,President,,D,Clinton & Kaine,5,
-Thomas,Rovohl,President,,R,Trump & Pence,73,
-Thomas,Rovohl,President,,L,Johnson & Weld,5,
-Thomas,Rovohl,President,,i,Stein & Baraka,2,
-Thomas,Rovohl,U.S. Senate,,D,Patrick Wiesner,6,
-Thomas,Rovohl,U.S. Senate,,R,Jerry Moran,74,
-Thomas,Rovohl,U.S. Senate,,L,Robert D Garrard,4,
-Thomas,Rovohl,U.S. House,1,R,Roger Marshall,67,
-Thomas,Rovohl,U.S. House,1,L,Kerry Burt,3,
-Thomas,Rovohl,U.S. House,1,i,Alan LaPolice,15,
-Thomas,Rovohl,State Senate,40,D,Alex Herman,7,
-Thomas,Rovohl,State Senate,40,R,Richard (Rick) Billinger,77,
-Thomas,Rovohl,State House,120,D,Bonita L. Peterson,10,
-Thomas,Rovohl,State House,120,R,Adam Smith,74,
-Thomas,Smith,President,,D,Clinton & Kaine,4,
-Thomas,Smith,President,,R,Trump & Pence,77,
-Thomas,Smith,President,,L,Johnson & Weld,3,
-Thomas,Smith,President,,i,Stein & Baraka,2,
-Thomas,Smith,U.S. Senate,,D,Patrick Wiesner,5,
-Thomas,Smith,U.S. Senate,,R,Jerry Moran,79,
-Thomas,Smith,U.S. Senate,,L,Robert D Garrard,2,
-Thomas,Smith,U.S. House,1,R,Roger Marshall,77,
-Thomas,Smith,U.S. House,1,L,Kerry Burt,1,
-Thomas,Smith,U.S. House,1,i,Alan LaPolice,7,
-Thomas,Smith,State Senate,40,D,Alex Herman,9,
-Thomas,Smith,State Senate,40,R,Richard (Rick) Billinger,75,
-Thomas,Smith,State House,118,R,Don Hineman,78,
-Thomas,Summers,President,,D,Clinton & Kaine,5,
-Thomas,Summers,President,,R,Trump & Pence,97,
-Thomas,Summers,President,,L,Johnson & Weld,4,
-Thomas,Summers,President,,i,Stein & Baraka,0,
-Thomas,Summers,U.S. Senate,,D,Patrick Wiesner,6,
-Thomas,Summers,U.S. Senate,,R,Jerry Moran,95,
-Thomas,Summers,U.S. Senate,,L,Robert D Garrard,5,
-Thomas,Summers,U.S. House,1,R,Roger Marshall,83,
-Thomas,Summers,U.S. House,1,L,Kerry Burt,6,
-Thomas,Summers,U.S. House,1,i,Alan LaPolice,12,
-Thomas,Summers,State Senate,40,D,Alex Herman,8,
-Thomas,Summers,State Senate,40,R,Richard (Rick) Billinger,97,
-Thomas,Summers,State House,118,R,Don Hineman,95,
-Thomas,Wendell,President,,D,Clinton & Kaine,3,
-Thomas,Wendell,President,,R,Trump & Pence,36,
-Thomas,Wendell,President,,L,Johnson & Weld,1,
-Thomas,Wendell,President,,i,Stein & Baraka,0,
-Thomas,Wendell,U.S. Senate,,D,Patrick Wiesner,3,
-Thomas,Wendell,U.S. Senate,,R,Jerry Moran,34,
-Thomas,Wendell,U.S. Senate,,L,Robert D Garrard,3,
-Thomas,Wendell,U.S. House,1,R,Roger Marshall,33,
-Thomas,Wendell,U.S. House,1,L,Kerry Burt,1,
-Thomas,Wendell,U.S. House,1,i,Alan LaPolice,6,
-Thomas,Wendell,State Senate,40,D,Alex Herman,3,
-Thomas,Wendell,State Senate,40,R,Richard (Rick) Billinger,37,
-Thomas,Wendell,State House,118,R,Don Hineman,38,
-Thomas,Ward 1,President,,D,Clinton & Kaine,75,
-Thomas,Ward 1,President,,R,Trump & Pence,341,
-Thomas,Ward 1,President,,L,Johnson & Weld,27,
-Thomas,Ward 1,President,,i,Stein & Baraka,10,
-Thomas,Ward 1,U.S. Senate,,D,Patrick Wiesner,68,
-Thomas,Ward 1,U.S. Senate,,R,Jerry Moran,368,
-Thomas,Ward 1,U.S. Senate,,L,Robert D Garrard,20,
-Thomas,Ward 1,U.S. House,1,R,Roger Marshall,352,
-Thomas,Ward 1,U.S. House,1,L,Kerry Burt,20,
-Thomas,Ward 1,U.S. House,1,i,Alan LaPolice,72,
-Thomas,Ward 1,State Senate,40,D,Alex Herman,97,
-Thomas,Ward 1,State Senate,40,R,Richard (Rick) Billinger,353,
-Thomas,Ward 1,State House,120,D,Bonita L. Peterson,82,
-Thomas,Ward 1,State House,120,R,Adam Smith,369,
-Thomas,Ward 2,President,,D,Clinton & Kaine,71,
-Thomas,Ward 2,President,,R,Trump & Pence,371,
-Thomas,Ward 2,President,,L,Johnson & Weld,15,
-Thomas,Ward 2,President,,i,Stein & Baraka,9,
-Thomas,Ward 2,U.S. Senate,,D,Patrick Wiesner,66,
-Thomas,Ward 2,U.S. Senate,,R,Jerry Moran,390,
-Thomas,Ward 2,U.S. Senate,,L,Robert D Garrard,17,
-Thomas,Ward 2,U.S. House,1,R,Roger Marshall,374,
-Thomas,Ward 2,U.S. House,1,L,Kerry Burt,15,
-Thomas,Ward 2,U.S. House,1,i,Alan LaPolice,73,
-Thomas,Ward 2,State Senate,40,D,Alex Herman,92,
-Thomas,Ward 2,State Senate,40,R,Richard (Rick) Billinger,378,
-Thomas,Ward 2,State House,120,D,Bonita L. Peterson,77,
-Thomas,Ward 2,State House,120,R,Adam Smith,389,
-Thomas,Ward 3,President,,D,Clinton & Kaine,92,
-Thomas,Ward 3,President,,R,Trump & Pence,554,
-Thomas,Ward 3,President,,L,Johnson & Weld,28,
-Thomas,Ward 3,President,,i,Stein & Baraka,20,
-Thomas,Ward 3,U.S. Senate,,D,Patrick Wiesner,78,
-Thomas,Ward 3,U.S. Senate,,R,Jerry Moran,579,
-Thomas,Ward 3,U.S. Senate,,L,Robert D Garrard,35,
-Thomas,Ward 3,U.S. House,1,R,Roger Marshall,539,
-Thomas,Ward 3,U.S. House,1,L,Kerry Burt,35,
-Thomas,Ward 3,U.S. House,1,i,Alan LaPolice,109,
-Thomas,Ward 3,State Senate,40,D,Alex Herman,121,
-Thomas,Ward 3,State Senate,40,R,Richard (Rick) Billinger,560,
-Thomas,Ward 3,State House,120,D,Bonita L. Peterson,106,
-Thomas,Ward 3,State House,120,R,Adam Smith,570,
-Thomas,Ward 4,President,,D,Clinton & Kaine,106,
-Thomas,Ward 4,President,,R,Trump & Pence,452,
-Thomas,Ward 4,President,,L,Johnson & Weld,24,
-Thomas,Ward 4,President,,i,Stein & Baraka,6,
-Thomas,Ward 4,U.S. Senate,,D,Patrick Wiesner,80,
-Thomas,Ward 4,U.S. Senate,,R,Jerry Moran,489,
-Thomas,Ward 4,U.S. Senate,,L,Robert D Garrard,27,
-Thomas,Ward 4,U.S. House,1,R,Roger Marshall,453,
-Thomas,Ward 4,U.S. House,1,L,Kerry Burt,29,
-Thomas,Ward 4,U.S. House,1,i,Alan LaPolice,102,
-Thomas,Ward 4,State Senate,40,D,Alex Herman,112,
-Thomas,Ward 4,State Senate,40,R,Richard (Rick) Billinger,478,
-Thomas,Ward 4,State House,120,D,Bonita L. Peterson,99,
-Thomas,Ward 4,State House,120,R,Adam Smith,486,
-Thomas,Provisional,President,,D,Clinton & Kaine,6,
-Thomas,Provisional,President,,R,Trump & Pence,76,
-Thomas,Provisional,President,,L,Johnson & Weld,2,
-Thomas,Provisional,President,,i,Stein & Baraka,1,
-Thomas,Provisional,U.S. Senate,,D,Patrick Wiesner,7,
-Thomas,Provisional,U.S. Senate,,R,Jerry Moran,66,
-Thomas,Provisional,U.S. Senate,,L,Robert D Garrard,7,
-Thomas,Provisional,U.S. House,1,R,Roger Marshall,65,
-Thomas,Provisional,U.S. House,1,L,Kerry Burt,3,
-Thomas,Provisional,U.S. House,1,i,Alan LaPolice,10,
-Thomas,Provisional,State Senate,40,D,Alex Herman,15,
-Thomas,Provisional,State Senate,40,R,Richard (Rick) Billinger,63,
-Thomas,Provisional,State House,118,R,Don Hineman,1,
-Thomas,Provisional,State House,120,D,Bonita L. Peterson,8,
-Thomas,Provisional,State House,120,R,Adam Smith,63,
-Thomas,Total,President,,D,Clinton & Kaine,473,
-Thomas,Total,President,,R,Trump & Pence,2908,
-Thomas,Total,President,,L,Johnson & Weld,131,
-Thomas,Total,President,,i,Stein & Baraka,56,
-Thomas,Total,U.S. Senate,,D,Patrick Wiesner,417,
-Thomas,Total,U.S. Senate,,R,Jerry Moran,3012,
-Thomas,Total,U.S. Senate,,L,Robert D Garrard,147,
-Thomas,Total,U.S. House,1,R,Roger Marshall,2787,
-Thomas,Total,U.S. House,1,L,Kerry Burt,141,
-Thomas,Total,U.S. House,1,i,Alan LaPolice,583,
-Thomas,Total,State Senate,40,D,Alex Herman,574,
-Thomas,Total,State Senate,40,R,Richard (Rick) Billinger,2970,
-Thomas,Total,State House,118,R,Don Hineman,499,
-Thomas,Total,State House,120,D,Bonita L. Peterson,463,
-Thomas,Total,State House,120,R,Adam Smith,2510,
-Thomas,Colby Ward 1,President,,,"McMullin, Evan  ",7,
-Thomas,Colby Ward 2,President,,,"Castle, Darrell L ",1,
-Thomas,North Randall Township,U. S. House,1,,"Huelskamp, Tim  ",3,
-Thomas,Colby Ward 1,U. S. House,1,,"Huelskamp, Tim  ",1,
-Thomas,Colby Ward 2,U. S. House,1,,"Huelskamp, Tim  ",1,
-Thomas,Colby Ward 4,U. S. House,1,,"Huelskamp, Tim  ",1,
+county,precinct,office,district,party,candidate,votes,vtd
+THOMAS,Barrett Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",9,000010
+THOMAS,Barrett Township,Kansas House of Representatives,120,Republican,"Smith, Adam",45,000010
+THOMAS,Colby Ward 1,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",84,000020
+THOMAS,Colby Ward 1,Kansas House of Representatives,120,Republican,"Smith, Adam",382,000020
+THOMAS,Colby Ward 2,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",79,00003A
+THOMAS,Colby Ward 2,Kansas House of Representatives,120,Republican,"Smith, Adam",399,00003A
+THOMAS,Colby Ward 2 Exclave,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,00003B
+THOMAS,Colby Ward 2 Exclave,Kansas House of Representatives,120,Republican,"Smith, Adam",0,00003B
+THOMAS,Colby Ward 3,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",107,00004A
+THOMAS,Colby Ward 3,Kansas House of Representatives,120,Republican,"Smith, Adam",590,00004A
+THOMAS,Colby Ward 3 Exclave,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,00004B
+THOMAS,Colby Ward 3 Exclave,Kansas House of Representatives,120,Republican,"Smith, Adam",0,00004B
+THOMAS,Colby Ward 4,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",101,000050
+THOMAS,Colby Ward 4,Kansas House of Representatives,120,Republican,"Smith, Adam",498,000050
+THOMAS,East Hale Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",5,000060
+THOMAS,East Hale Township,Kansas House of Representatives,120,Republican,"Smith, Adam",55,000060
+THOMAS,East Morgan Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",17,00007A
+THOMAS,East Morgan Township,Kansas House of Representatives,120,Republican,"Smith, Adam",123,00007A
+THOMAS,East Morgan Township Enclave Voting District,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,Kansas House of Representatives,120,Republican,"Smith, Adam",0,00007B
+THOMAS,Kingery Township,Kansas House of Representatives,118,Republican,"Hineman, Don",46,000080
+THOMAS,Lacey Township,Kansas House of Representatives,118,Republican,"Hineman, Don",55,000090
+THOMAS,Menlo Township,Kansas House of Representatives,118,Republican,"Hineman, Don",34,000100
+THOMAS,North Randall Township,Kansas House of Representatives,118,Republican,"Hineman, Don",41,000110
+THOMAS,Rovohl Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",10,000120
+THOMAS,Rovohl Township,Kansas House of Representatives,120,Republican,"Smith, Adam",74,000120
+THOMAS,Smith Township,Kansas House of Representatives,118,Republican,"Hineman, Don",79,000130
+THOMAS,South Randall Township,Kansas House of Representatives,118,Republican,"Hineman, Don",111,000140
+THOMAS,Summers Township,Kansas House of Representatives,118,Republican,"Hineman, Don",95,000150
+THOMAS,Wendell Township,Kansas House of Representatives,118,Republican,"Hineman, Don",38,000160
+THOMAS,West Hale Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",21,000170
+THOMAS,West Hale Township,Kansas House of Representatives,120,Republican,"Smith, Adam",142,000170
+THOMAS,West Morgan Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",30,000180
+THOMAS,West Morgan Township,Kansas House of Representatives,120,Republican,"Smith, Adam",202,000180
+THOMAS,Colby Ward 4 Exclave,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,900010
+THOMAS,Colby Ward 4 Exclave,Kansas House of Representatives,120,Republican,"Smith, Adam",0,900010
+THOMAS,East Morgan Township Enclave 2,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,900020
+THOMAS,East Morgan Township Enclave 2,Kansas House of Representatives,120,Republican,"Smith, Adam",0,900020
+THOMAS,Barrett Township,Kansas Senate,40,Democratic,"Herman, Alex",8,000010
+THOMAS,Barrett Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",46,000010
+THOMAS,Colby Ward 1,Kansas Senate,40,Democratic,"Herman, Alex",102,000020
+THOMAS,Colby Ward 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",364,000020
+THOMAS,Colby Ward 2,Kansas Senate,40,Democratic,"Herman, Alex",92,00003A
+THOMAS,Colby Ward 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",391,00003A
+THOMAS,Colby Ward 2 Exclave,Kansas Senate,40,Democratic,"Herman, Alex",0,00003B
+THOMAS,Colby Ward 2 Exclave,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,00003B
+THOMAS,Colby Ward 3,Kansas Senate,40,Democratic,"Herman, Alex",126,00004A
+THOMAS,Colby Ward 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",578,00004A
+THOMAS,Colby Ward 3 Exclave,Kansas Senate,40,Democratic,"Herman, Alex",0,00004B
+THOMAS,Colby Ward 3 Exclave,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,00004B
+THOMAS,Colby Ward 4,Kansas Senate,40,Democratic,"Herman, Alex",116,000050
+THOMAS,Colby Ward 4,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",487,000050
+THOMAS,East Hale Township,Kansas Senate,40,Democratic,"Herman, Alex",3,000060
+THOMAS,East Hale Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",57,000060
+THOMAS,East Morgan Township,Kansas Senate,40,Democratic,"Herman, Alex",15,00007A
+THOMAS,East Morgan Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",125,00007A
+THOMAS,East Morgan Township Enclave Voting District,Kansas Senate,40,Democratic,"Herman, Alex",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,00007B
+THOMAS,Kingery Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000080
+THOMAS,Kingery Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",47,000080
+THOMAS,Lacey Township,Kansas Senate,40,Democratic,"Herman, Alex",7,000090
+THOMAS,Lacey Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",56,000090
+THOMAS,Menlo Township,Kansas Senate,40,Democratic,"Herman, Alex",4,000100
+THOMAS,Menlo Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",33,000100
+THOMAS,North Randall Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000110
+THOMAS,North Randall Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",42,000110
+THOMAS,Rovohl Township,Kansas Senate,40,Democratic,"Herman, Alex",7,000120
+THOMAS,Rovohl Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",77,000120
+THOMAS,Smith Township,Kansas Senate,40,Democratic,"Herman, Alex",10,000130
+THOMAS,Smith Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",76,000130
+THOMAS,South Randall Township,Kansas Senate,40,Democratic,"Herman, Alex",22,000140
+THOMAS,South Randall Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",99,000140
+THOMAS,Summers Township,Kansas Senate,40,Democratic,"Herman, Alex",8,000150
+THOMAS,Summers Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",98,000150
+THOMAS,Wendell Township,Kansas Senate,40,Democratic,"Herman, Alex",3,000160
+THOMAS,Wendell Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",37,000160
+THOMAS,West Hale Township,Kansas Senate,40,Democratic,"Herman, Alex",16,000170
+THOMAS,West Hale Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",148,000170
+THOMAS,West Morgan Township,Kansas Senate,40,Democratic,"Herman, Alex",33,000180
+THOMAS,West Morgan Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",209,000180
+THOMAS,Colby Ward 4 Exclave,Kansas Senate,40,Democratic,"Herman, Alex",0,900010
+THOMAS,Colby Ward 4 Exclave,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900010
+THOMAS,East Morgan Township Enclave 2,Kansas Senate,40,Democratic,"Herman, Alex",0,900020
+THOMAS,East Morgan Township Enclave 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900020
+THOMAS,Barrett Township,President / Vice President,,independent,"Stein, Jill",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+THOMAS,Barrett Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+THOMAS,Barrett Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000010
+THOMAS,Barrett Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+THOMAS,Barrett Township,President / Vice President,,Republican,"Trump, Donald J.",48,000010
+THOMAS,Colby Ward 1,President / Vice President,,independent,"Stein, Jill",10,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"McMullin, Evan",7,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+THOMAS,Colby Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",75,000020
+THOMAS,Colby Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",27,000020
+THOMAS,Colby Ward 1,President / Vice President,,Republican,"Trump, Donald J.",358,000020
+THOMAS,Colby Ward 2,President / Vice President,,independent,"Stein, Jill",10,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Castle, Darrell L",1,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00003A
+THOMAS,Colby Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",71,00003A
+THOMAS,Colby Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",15,00003A
+THOMAS,Colby Ward 2,President / Vice President,,Republican,"Trump, Donald J.",385,00003A
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00003B
+THOMAS,Colby Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00003B
+THOMAS,Colby Ward 3,President / Vice President,,independent,"Stein, Jill",20,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Hedges, James A",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Smith, Mike",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00004A
+THOMAS,Colby Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",96,00004A
+THOMAS,Colby Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",28,00004A
+THOMAS,Colby Ward 3,President / Vice President,,Republican,"Trump, Donald J.",576,00004A
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,independent,"Stein, Jill",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00004B
+THOMAS,Colby Ward 3 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00004B
+THOMAS,Colby Ward 4,President / Vice President,,independent,"Stein, Jill",6,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"McMullin, Evan",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+THOMAS,Colby Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",107,000050
+THOMAS,Colby Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",24,000050
+THOMAS,Colby Ward 4,President / Vice President,,Republican,"Trump, Donald J.",465,000050
+THOMAS,East Hale Township,President / Vice President,,independent,"Stein, Jill",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+THOMAS,East Hale Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+THOMAS,East Hale Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000060
+THOMAS,East Hale Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000060
+THOMAS,East Hale Township,President / Vice President,,Republican,"Trump, Donald J.",56,000060
+THOMAS,East Morgan Township,President / Vice President,,independent,"Stein, Jill",1,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Castle, Darrell L",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Giordani, Rocky",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Hedges, James A",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Hoefling, Tom",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Kahn, Lynn",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"La Riva, Gloria",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Maturen, Michael A",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"McMullin, Evan",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Perry, Darryl",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Schriner, Joe C",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Smith, Mike",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Sood, Ajay",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Sterling, Shawna",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00007A
+THOMAS,East Morgan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,00007A
+THOMAS,East Morgan Township,President / Vice President,,Libertarian,"Johnson, Gary",3,00007A
+THOMAS,East Morgan Township,President / Vice President,,Republican,"Trump, Donald J.",122,00007A
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,independent,"Stein, Jill",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Basiago, Andrew D.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Castle, Darrell L",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Giordani, Rocky",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Hedges, James A",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Hoefling, Tom",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Kahn, Lynn",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"La Riva, Gloria",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Levinson, Michael S.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Maturen, Michael A",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"McMullin, Evan",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Moorehead, Monica G.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Perry, Darryl",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Schriner, Joe C",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Smith, Mike",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Sood, Ajay",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Sterling, Shawna",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Valdivia, Anthony J",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,Libertarian,"Johnson, Gary",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,President / Vice President,,Republican,"Trump, Donald J.",0,00007B
+THOMAS,Kingery Township,President / Vice President,,independent,"Stein, Jill",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+THOMAS,Kingery Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+THOMAS,Kingery Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000080
+THOMAS,Kingery Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+THOMAS,Kingery Township,President / Vice President,,Republican,"Trump, Donald J.",49,000080
+THOMAS,Lacey Township,President / Vice President,,independent,"Stein, Jill",2,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+THOMAS,Lacey Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+THOMAS,Lacey Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000090
+THOMAS,Lacey Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000090
+THOMAS,Lacey Township,President / Vice President,,Republican,"Trump, Donald J.",53,000090
+THOMAS,Menlo Township,President / Vice President,,independent,"Stein, Jill",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+THOMAS,Menlo Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+THOMAS,Menlo Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000100
+THOMAS,Menlo Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+THOMAS,Menlo Township,President / Vice President,,Republican,"Trump, Donald J.",27,000100
+THOMAS,North Randall Township,President / Vice President,,independent,"Stein, Jill",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+THOMAS,North Randall Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+THOMAS,North Randall Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000110
+THOMAS,North Randall Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000110
+THOMAS,North Randall Township,President / Vice President,,Republican,"Trump, Donald J.",39,000110
+THOMAS,Rovohl Township,President / Vice President,,independent,"Stein, Jill",2,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+THOMAS,Rovohl Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+THOMAS,Rovohl Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000120
+THOMAS,Rovohl Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000120
+THOMAS,Rovohl Township,President / Vice President,,Republican,"Trump, Donald J.",73,000120
+THOMAS,Smith Township,President / Vice President,,independent,"Stein, Jill",2,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+THOMAS,Smith Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+THOMAS,Smith Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000130
+THOMAS,Smith Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000130
+THOMAS,Smith Township,President / Vice President,,Republican,"Trump, Donald J.",78,000130
+THOMAS,South Randall Township,President / Vice President,,independent,"Stein, Jill",1,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+THOMAS,South Randall Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+THOMAS,South Randall Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000140
+THOMAS,South Randall Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000140
+THOMAS,South Randall Township,President / Vice President,,Republican,"Trump, Donald J.",102,000140
+THOMAS,Summers Township,President / Vice President,,independent,"Stein, Jill",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+THOMAS,Summers Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+THOMAS,Summers Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000150
+THOMAS,Summers Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000150
+THOMAS,Summers Township,President / Vice President,,Republican,"Trump, Donald J.",98,000150
+THOMAS,Wendell Township,President / Vice President,,independent,"Stein, Jill",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+THOMAS,Wendell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+THOMAS,Wendell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000160
+THOMAS,Wendell Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000160
+THOMAS,Wendell Township,President / Vice President,,Republican,"Trump, Donald J.",36,000160
+THOMAS,West Hale Township,President / Vice President,,independent,"Stein, Jill",1,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+THOMAS,West Hale Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+THOMAS,West Hale Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",16,000170
+THOMAS,West Hale Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000170
+THOMAS,West Hale Township,President / Vice President,,Republican,"Trump, Donald J.",140,000170
+THOMAS,West Morgan Township,President / Vice President,,independent,"Stein, Jill",1,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+THOMAS,West Morgan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+THOMAS,West Morgan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000180
+THOMAS,West Morgan Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000180
+THOMAS,West Morgan Township,President / Vice President,,Republican,"Trump, Donald J.",203,000180
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,independent,"Stein, Jill",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Hedges, James A",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Smith, Mike",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+THOMAS,Colby Ward 4 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,independent,"Stein, Jill",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Hedges, James A",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Smith, Mike",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+THOMAS,East Morgan Township Enclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+THOMAS,Barrett Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000010
+THOMAS,Barrett Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+THOMAS,Barrett Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000010
+THOMAS,Barrett Township,United States House of Representatives,1,Republican,"Marshall, Roger",46,000010
+THOMAS,Colby Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",74,000020
+THOMAS,Colby Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000020
+THOMAS,Colby Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",20,000020
+THOMAS,Colby Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",365,000020
+THOMAS,Colby Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",74,00003A
+THOMAS,Colby Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,00003A
+THOMAS,Colby Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",16,00003A
+THOMAS,Colby Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",384,00003A
+THOMAS,Colby Ward 2 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00003B
+THOMAS,Colby Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",112,00004A
+THOMAS,Colby Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00004A
+THOMAS,Colby Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",36,00004A
+THOMAS,Colby Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",559,00004A
+THOMAS,Colby Ward 3 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00004B
+THOMAS,Colby Ward 4,United States House of Representatives,1,independent,"LaPolice, Alan",105,000050
+THOMAS,Colby Ward 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000050
+THOMAS,Colby Ward 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",29,000050
+THOMAS,Colby Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",464,000050
+THOMAS,East Hale Township,United States House of Representatives,1,independent,"LaPolice, Alan",14,000060
+THOMAS,East Hale Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+THOMAS,East Hale Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000060
+THOMAS,East Hale Township,United States House of Representatives,1,Republican,"Marshall, Roger",45,000060
+THOMAS,East Morgan Township,United States House of Representatives,1,independent,"LaPolice, Alan",24,00007A
+THOMAS,East Morgan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00007A
+THOMAS,East Morgan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,00007A
+THOMAS,East Morgan Township,United States House of Representatives,1,Republican,"Marshall, Roger",111,00007A
+THOMAS,East Morgan Township Enclave Voting District,United States House of Representatives,1,independent,"LaPolice, Alan",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States House of Representatives,1,Republican,"Marshall, Roger",0,00007B
+THOMAS,Kingery Township,United States House of Representatives,1,independent,"LaPolice, Alan",11,000080
+THOMAS,Kingery Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+THOMAS,Kingery Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000080
+THOMAS,Kingery Township,United States House of Representatives,1,Republican,"Marshall, Roger",38,000080
+THOMAS,Lacey Township,United States House of Representatives,1,independent,"LaPolice, Alan",12,000090
+THOMAS,Lacey Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+THOMAS,Lacey Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000090
+THOMAS,Lacey Township,United States House of Representatives,1,Republican,"Marshall, Roger",52,000090
+THOMAS,Menlo Township,United States House of Representatives,1,independent,"LaPolice, Alan",3,000100
+THOMAS,Menlo Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+THOMAS,Menlo Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000100
+THOMAS,Menlo Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000100
+THOMAS,North Randall Township,United States House of Representatives,1,independent,"LaPolice, Alan",5,000110
+THOMAS,North Randall Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",3,000110
+THOMAS,North Randall Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000110
+THOMAS,North Randall Township,United States House of Representatives,1,Republican,"Marshall, Roger",30,000110
+THOMAS,Rovohl Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000120
+THOMAS,Rovohl Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+THOMAS,Rovohl Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000120
+THOMAS,Rovohl Township,United States House of Representatives,1,Republican,"Marshall, Roger",67,000120
+THOMAS,Smith Township,United States House of Representatives,1,independent,"LaPolice, Alan",7,000130
+THOMAS,Smith Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+THOMAS,Smith Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000130
+THOMAS,Smith Township,United States House of Representatives,1,Republican,"Marshall, Roger",78,000130
+THOMAS,South Randall Township,United States House of Representatives,1,independent,"LaPolice, Alan",20,000140
+THOMAS,South Randall Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+THOMAS,South Randall Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000140
+THOMAS,South Randall Township,United States House of Representatives,1,Republican,"Marshall, Roger",97,000140
+THOMAS,Summers Township,United States House of Representatives,1,independent,"LaPolice, Alan",12,000150
+THOMAS,Summers Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+THOMAS,Summers Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000150
+THOMAS,Summers Township,United States House of Representatives,1,Republican,"Marshall, Roger",84,000150
+THOMAS,Wendell Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000160
+THOMAS,Wendell Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+THOMAS,Wendell Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000160
+THOMAS,Wendell Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000160
+THOMAS,West Hale Township,United States House of Representatives,1,independent,"LaPolice, Alan",44,000170
+THOMAS,West Hale Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+THOMAS,West Hale Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000170
+THOMAS,West Hale Township,United States House of Representatives,1,Republican,"Marshall, Roger",112,000170
+THOMAS,West Morgan Township,United States House of Representatives,1,independent,"LaPolice, Alan",39,000180
+THOMAS,West Morgan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000180
+THOMAS,West Morgan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",10,000180
+THOMAS,West Morgan Township,United States House of Representatives,1,Republican,"Marshall, Roger",189,000180
+THOMAS,Colby Ward 4 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,900010
+THOMAS,Colby Ward 4 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900010
+THOMAS,Colby Ward 4 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900010
+THOMAS,Colby Ward 4 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,900010
+THOMAS,East Morgan Township Enclave 2,United States House of Representatives,1,independent,"LaPolice, Alan",0,900020
+THOMAS,East Morgan Township Enclave 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900020
+THOMAS,East Morgan Township Enclave 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900020
+THOMAS,East Morgan Township Enclave 2,United States House of Representatives,1,Republican,"Marshall, Roger",0,900020
+THOMAS,Barrett Township,United States Senate,,write - in,"Smith, DJ",0,000010
+THOMAS,Barrett Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000010
+THOMAS,Barrett Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+THOMAS,Barrett Township,United States Senate,,Republican,"Moran, Jerry",47,000010
+THOMAS,Colby Ward 1,United States Senate,,write - in,"Smith, DJ",0,000020
+THOMAS,Colby Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",71,000020
+THOMAS,Colby Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",21,000020
+THOMAS,Colby Ward 1,United States Senate,,Republican,"Moran, Jerry",379,000020
+THOMAS,Colby Ward 2,United States Senate,,write - in,"Smith, DJ",0,00003A
+THOMAS,Colby Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",66,00003A
+THOMAS,Colby Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",19,00003A
+THOMAS,Colby Ward 2,United States Senate,,Republican,"Moran, Jerry",402,00003A
+THOMAS,Colby Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00003B
+THOMAS,Colby Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00003B
+THOMAS,Colby Ward 3,United States Senate,,write - in,"Smith, DJ",0,00004A
+THOMAS,Colby Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",79,00004A
+THOMAS,Colby Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",36,00004A
+THOMAS,Colby Ward 3,United States Senate,,Republican,"Moran, Jerry",601,00004A
+THOMAS,Colby Ward 3 Exclave,United States Senate,,write - in,"Smith, DJ",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00004B
+THOMAS,Colby Ward 3 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00004B
+THOMAS,Colby Ward 4,United States Senate,,write - in,"Smith, DJ",0,000050
+THOMAS,Colby Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",82,000050
+THOMAS,Colby Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",29,000050
+THOMAS,Colby Ward 4,United States Senate,,Republican,"Moran, Jerry",499,000050
+THOMAS,East Hale Township,United States Senate,,write - in,"Smith, DJ",0,000060
+THOMAS,East Hale Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000060
+THOMAS,East Hale Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000060
+THOMAS,East Hale Township,United States Senate,,Republican,"Moran, Jerry",56,000060
+THOMAS,East Morgan Township,United States Senate,,write - in,"Smith, DJ",0,00007A
+THOMAS,East Morgan Township,United States Senate,,Democratic,"Wiesner, Patrick",16,00007A
+THOMAS,East Morgan Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,00007A
+THOMAS,East Morgan Township,United States Senate,,Republican,"Moran, Jerry",123,00007A
+THOMAS,East Morgan Township Enclave Voting District,United States Senate,,write - in,"Smith, DJ",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States Senate,,Democratic,"Wiesner, Patrick",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States Senate,,Libertarian,"Garrard, Robert D.",0,00007B
+THOMAS,East Morgan Township Enclave Voting District,United States Senate,,Republican,"Moran, Jerry",0,00007B
+THOMAS,Kingery Township,United States Senate,,write - in,"Smith, DJ",0,000080
+THOMAS,Kingery Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000080
+THOMAS,Kingery Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+THOMAS,Kingery Township,United States Senate,,Republican,"Moran, Jerry",46,000080
+THOMAS,Lacey Township,United States Senate,,write - in,"Smith, DJ",0,000090
+THOMAS,Lacey Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000090
+THOMAS,Lacey Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000090
+THOMAS,Lacey Township,United States Senate,,Republican,"Moran, Jerry",55,000090
+THOMAS,Menlo Township,United States Senate,,write - in,"Smith, DJ",0,000100
+THOMAS,Menlo Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000100
+THOMAS,Menlo Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000100
+THOMAS,Menlo Township,United States Senate,,Republican,"Moran, Jerry",33,000100
+THOMAS,North Randall Township,United States Senate,,write - in,"Smith, DJ",0,000110
+THOMAS,North Randall Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000110
+THOMAS,North Randall Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000110
+THOMAS,North Randall Township,United States Senate,,Republican,"Moran, Jerry",38,000110
+THOMAS,Rovohl Township,United States Senate,,write - in,"Smith, DJ",0,000120
+THOMAS,Rovohl Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000120
+THOMAS,Rovohl Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000120
+THOMAS,Rovohl Township,United States Senate,,Republican,"Moran, Jerry",74,000120
+THOMAS,Smith Township,United States Senate,,write - in,"Smith, DJ",0,000130
+THOMAS,Smith Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000130
+THOMAS,Smith Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000130
+THOMAS,Smith Township,United States Senate,,Republican,"Moran, Jerry",80,000130
+THOMAS,South Randall Township,United States Senate,,write - in,"Smith, DJ",0,000140
+THOMAS,South Randall Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000140
+THOMAS,South Randall Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000140
+THOMAS,South Randall Township,United States Senate,,Republican,"Moran, Jerry",105,000140
+THOMAS,Summers Township,United States Senate,,write - in,"Smith, DJ",0,000150
+THOMAS,Summers Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000150
+THOMAS,Summers Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000150
+THOMAS,Summers Township,United States Senate,,Republican,"Moran, Jerry",96,000150
+THOMAS,Wendell Township,United States Senate,,write - in,"Smith, DJ",0,000160
+THOMAS,Wendell Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000160
+THOMAS,Wendell Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000160
+THOMAS,Wendell Township,United States Senate,,Republican,"Moran, Jerry",34,000160
+THOMAS,West Hale Township,United States Senate,,write - in,"Smith, DJ",0,000170
+THOMAS,West Hale Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000170
+THOMAS,West Hale Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000170
+THOMAS,West Hale Township,United States Senate,,Republican,"Moran, Jerry",136,000170
+THOMAS,West Morgan Township,United States Senate,,write - in,"Smith, DJ",0,000180
+THOMAS,West Morgan Township,United States Senate,,Democratic,"Wiesner, Patrick",28,000180
+THOMAS,West Morgan Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000180
+THOMAS,West Morgan Township,United States Senate,,Republican,"Moran, Jerry",208,000180
+THOMAS,Colby Ward 4 Exclave,United States Senate,,write - in,"Smith, DJ",0,900010
+THOMAS,Colby Ward 4 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+THOMAS,Colby Ward 4 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+THOMAS,Colby Ward 4 Exclave,United States Senate,,Republican,"Moran, Jerry",0,900010
+THOMAS,East Morgan Township Enclave 2,United States Senate,,write - in,"Smith, DJ",0,900020
+THOMAS,East Morgan Township Enclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+THOMAS,East Morgan Township Enclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+THOMAS,East Morgan Township Enclave 2,United States Senate,,Republican,"Moran, Jerry",0,900020

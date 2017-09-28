@@ -1,248 +1,469 @@
-county,precinct,office,district,party,candidate,votes
-Jefferson,Delaware,President,,LIB,Gary Johnson,30
-Jefferson,East Fairview,President,,LIB,Gary Johnson,25
-Jefferson,Jefferson,President,,LIB,Gary Johnson,23
-Jefferson,Kaw,President,,LIB,Gary Johnson,28
-Jefferson,Kentucky,President,,LIB,Gary Johnson,46
-Jefferson,Norton,President,,LIB,Gary Johnson,25
-Jefferson,Oskaloosa,President,,LIB,Gary Johnson,42
-Jefferson,Ozawkie,President,,LIB,Gary Johnson,25
-Jefferson,Rock Creek,President,,LIB,Gary Johnson,55
-Jefferson,Rural,President,,LIB,Gary Johnson,13
-Jefferson,Sarcoxie,President,,LIB,Gary Johnson,29
-Jefferson,Union,President,,LIB,Gary Johnson,36
-Jefferson,West Fairview,President,,LIB,Gary Johnson,7
-Jefferson,Delaware,President,,IND,Jill Stein,13
-Jefferson,East Fairview,President,,IND,Jill Stein,5
-Jefferson,Jefferson,President,,IND,Jill Stein,7
-Jefferson,Kaw,President,,IND,Jill Stein,21
-Jefferson,Kentucky,President,,IND,Jill Stein,11
-Jefferson,Norton,President,,IND,Jill Stein,8
-Jefferson,Oskaloosa,President,,IND,Jill Stein,17
-Jefferson,Ozawkie,President,,IND,Jill Stein,11
-Jefferson,Rock Creek,President,,IND,Jill Stein,39
-Jefferson,Rural,President,,IND,Jill Stein,14
-Jefferson,Sarcoxie,President,,IND,Jill Stein,16
-Jefferson,Union,President,,IND,Jill Stein,15
-Jefferson,West Fairview,President,,IND,Jill Stein,8
-Jefferson,Delaware,President,,REP,Donald J Trump,504
-Jefferson,East Fairview,President,,REP,Donald J Trump,230
-Jefferson,Jefferson,President,,REP,Donald J Trump,319
-Jefferson,Kaw,President,,REP,Donald J Trump,420
-Jefferson,Kentucky,President,,REP,Donald J Trump,410
-Jefferson,Norton,President,,REP,Donald J Trump,250
-Jefferson,Oskaloosa,President,,REP,Donald J Trump,577
-Jefferson,Ozawkie,President,,REP,Donald J Trump,506
-Jefferson,Rock Creek,President,,REP,Donald J Trump,825
-Jefferson,Rural,President,,REP,Donald J Trump,184
-Jefferson,Sarcoxie,President,,REP,Donald J Trump,231
-Jefferson,Union,President,,REP,Donald J Trump,517
-Jefferson,West Fairview,President,,REP,Donald J Trump,240
-Jefferson,Delaware,President,,DEM,Hillary Clinton,219
-Jefferson,East Fairview,President,,DEM,Hillary Clinton,145
-Jefferson,Jefferson,President,,DEM,Hillary Clinton,123
-Jefferson,Kaw,President,,DEM,Hillary Clinton,232
-Jefferson,Kentucky,President,,DEM,Hillary Clinton,253
-Jefferson,Norton,President,,DEM,Hillary Clinton,84
-Jefferson,Oskaloosa,President,,DEM,Hillary Clinton,245
-Jefferson,Ozawkie,President,,DEM,Hillary Clinton,207
-Jefferson,Rock Creek,President,,DEM,Hillary Clinton,317
-Jefferson,Rural,President,,DEM,Hillary Clinton,136
-Jefferson,Sarcoxie,President,,DEM,Hillary Clinton,262
-Jefferson,Union,President,,DEM,Hillary Clinton,194
-Jefferson,West Fairview,President,,DEM,Hillary Clinton,101
-Jefferson,Delaware,President,,,Write-ins,8
-Jefferson,East Fairview,President,,,Write-ins,6
-Jefferson,Jefferson,President,,,Write-ins,6
-Jefferson,Kaw,President,,,Write-ins,13
-Jefferson,Kentucky,President,,,Write-ins,15
-Jefferson,Norton,President,,,Write-ins,6
-Jefferson,Oskaloosa,President,,,Write-ins,11
-Jefferson,Ozawkie,President,,,Write-ins,17
-Jefferson,Rock Creek,President,,,Write-ins,19
-Jefferson,Rural,President,,,Write-ins,9
-Jefferson,Sarcoxie,President,,,Write-ins,20
-Jefferson,Union,President,,,Write-ins,6
-Jefferson,West Fairview,President,,,Write-ins,4
-Jefferson,Delaware,U.S. Senate,,REP,Jerry Moran,547
-Jefferson,East Fairview,U.S. Senate,,REP,Jerry Moran,225
-Jefferson,Jefferson,U.S. Senate,,REP,Jerry Moran,356
-Jefferson,Kaw,U.S. Senate,,REP,Jerry Moran,452
-Jefferson,Kentucky,U.S. Senate,,REP,Jerry Moran,426
-Jefferson,Norton,U.S. Senate,,REP,Jerry Moran,267
-Jefferson,Oskaloosa,U.S. Senate,,REP,Jerry Moran,598
-Jefferson,Ozawkie,U.S. Senate,,REP,Jerry Moran,508
-Jefferson,Rock Creek,U.S. Senate,,REP,Jerry Moran,857
-Jefferson,Rural,U.S. Senate,,REP,Jerry Moran,201
-Jefferson,Sarcoxie,U.S. Senate,,REP,Jerry Moran,254
-Jefferson,Union,U.S. Senate,,REP,Jerry Moran,504
-Jefferson,West Fairview,U.S. Senate,,REP,Jerry Moran,261
-Jefferson,Delaware,U.S. Senate,,DEM,Patrick Wiesner,188
-Jefferson,East Fairview,U.S. Senate,,DEM,Patrick Wiesner,150
-Jefferson,Jefferson,U.S. Senate,,DEM,Patrick Wiesner,102
-Jefferson,Kaw,U.S. Senate,,DEM,Patrick Wiesner,231
-Jefferson,Kentucky,U.S. Senate,,DEM,Patrick Wiesner,257
-Jefferson,Norton,U.S. Senate,,DEM,Patrick Wiesner,94
-Jefferson,Oskaloosa,U.S. Senate,,DEM,Patrick Wiesner,239
-Jefferson,Ozawkie,U.S. Senate,,DEM,Patrick Wiesner,215
-Jefferson,Rock Creek,U.S. Senate,,DEM,Patrick Wiesner,320
-Jefferson,Rural,U.S. Senate,,DEM,Patrick Wiesner,137
-Jefferson,Sarcoxie,U.S. Senate,,DEM,Patrick Wiesner,277
-Jefferson,Union,U.S. Senate,,DEM,Patrick Wiesner,206
-Jefferson,West Fairview,U.S. Senate,,DEM,Patrick Wiesner,88
-Jefferson,Delaware,U.S. Senate,,LIB,Robert D. Garrard,39
-Jefferson,East Fairview,U.S. Senate,,LIB,Robert D. Garrard,25
-Jefferson,Jefferson,U.S. Senate,,LIB,Robert D. Garrard,18
-Jefferson,Kaw,U.S. Senate,,LIB,Robert D. Garrard,29
-Jefferson,Kentucky,U.S. Senate,,LIB,Robert D. Garrard,40
-Jefferson,Norton,U.S. Senate,,LIB,Robert D. Garrard,13
-Jefferson,Oskaloosa,U.S. Senate,,LIB,Robert D. Garrard,42
-Jefferson,Ozawkie,U.S. Senate,,LIB,Robert D. Garrard,35
-Jefferson,Rock Creek,U.S. Senate,,LIB,Robert D. Garrard,76
-Jefferson,Rural,U.S. Senate,,LIB,Robert D. Garrard,16
-Jefferson,Sarcoxie,U.S. Senate,,LIB,Robert D. Garrard,24
-Jefferson,Union,U.S. Senate,,LIB,Robert D. Garrard,38
-Jefferson,West Fairview,U.S. Senate,,LIB,Robert D. Garrard,9
-Jefferson,Delaware,U.S. Senate,,,Write-ins,0
-Jefferson,East Fairview,U.S. Senate,,,Write-ins,0
-Jefferson,Jefferson,U.S. Senate,,,Write-ins,0
-Jefferson,Kaw,U.S. Senate,,,Write-ins,1
-Jefferson,Kentucky,U.S. Senate,,,Write-ins,1
-Jefferson,Norton,U.S. Senate,,,Write-ins,0
-Jefferson,Oskaloosa,U.S. Senate,,,Write-ins,1
-Jefferson,Ozawkie,U.S. Senate,,,Write-ins,2
-Jefferson,Rock Creek,U.S. Senate,,,Write-ins,2
-Jefferson,Rural,U.S. Senate,,,Write-ins,0
-Jefferson,Sarcoxie,U.S. Senate,,,Write-ins,0
-Jefferson,Union,U.S. Senate,,,Write-ins,0
-Jefferson,West Fairview,U.S. Senate,,,Write-ins,0
-Jefferson,Delaware,U.S. House,2,REP,Lynn Jenkins,540
-Jefferson,East Fairview,U.S. House,2,REP,Lynn Jenkins,253
-Jefferson,Jefferson,U.S. House,2,REP,Lynn Jenkins,363
-Jefferson,Kaw,U.S. House,2,REP,Lynn Jenkins,454
-Jefferson,Kentucky,U.S. House,2,REP,Lynn Jenkins,444
-Jefferson,Norton,U.S. House,2,REP,Lynn Jenkins,283
-Jefferson,Oskaloosa,U.S. House,2,REP,Lynn Jenkins,620
-Jefferson,Ozawkie,U.S. House,2,REP,Lynn Jenkins,523
-Jefferson,Rock Creek,U.S. House,2,REP,Lynn Jenkins,866
-Jefferson,Rural,U.S. House,2,REP,Lynn Jenkins,206
-Jefferson,Sarcoxie,U.S. House,2,REP,Lynn Jenkins,274
-Jefferson,Union,U.S. House,2,REP,Lynn Jenkins,532
-Jefferson,West Fairview,U.S. House,2,REP,Lynn Jenkins,268
-Jefferson,Delaware,U.S. House,2,DEM,Britani Potter,199
-Jefferson,East Fairview,U.S. House,2,DEM,Britani Potter,122
-Jefferson,Jefferson,U.S. House,2,DEM,Britani Potter,93
-Jefferson,Kaw,U.S. House,2,DEM,Britani Potter,222
-Jefferson,Kentucky,U.S. House,2,DEM,Britani Potter,238
-Jefferson,Norton,U.S. House,2,DEM,Britani Potter,70
-Jefferson,Oskaloosa,U.S. House,2,DEM,Britani Potter,214
-Jefferson,Ozawkie,U.S. House,2,DEM,Britani Potter,188
-Jefferson,Rock Creek,U.S. House,2,DEM,Britani Potter,313
-Jefferson,Rural,U.S. House,2,DEM,Britani Potter,122
-Jefferson,Sarcoxie,U.S. House,2,DEM,Britani Potter,229
-Jefferson,Union,U.S. House,2,DEM,Britani Potter,175
-Jefferson,West Fairview,U.S. House,2,DEM,Britani Potter,79
-Jefferson,Delaware,U.S. House,2,LIB,James Houston Bales,38
-Jefferson,East Fairview,U.S. House,2,LIB,James Houston Bales,32
-Jefferson,Jefferson,U.S. House,2,LIB,James Houston Bales,22
-Jefferson,Kaw,U.S. House,2,LIB,James Houston Bales,41
-Jefferson,Kentucky,U.S. House,2,LIB,James Houston Bales,44
-Jefferson,Norton,U.S. House,2,LIB,James Houston Bales,17
-Jefferson,Oskaloosa,U.S. House,2,LIB,James Houston Bales,57
-Jefferson,Ozawkie,U.S. House,2,LIB,James Houston Bales,48
-Jefferson,Rock Creek,U.S. House,2,LIB,James Houston Bales,83
-Jefferson,Rural,U.S. House,2,LIB,James Houston Bales,29
-Jefferson,Sarcoxie,U.S. House,2,LIB,James Houston Bales,52
-Jefferson,Union,U.S. House,2,LIB,James Houston Bales,49
-Jefferson,West Fairview,U.S. House,2,LIB,James Houston Bales,15
-Jefferson,Delaware,U.S. House,2,,Write-ins,0
-Jefferson,East Fairview,U.S. House,2,,Write-ins,0
-Jefferson,Jefferson,U.S. House,2,,Write-ins,0
-Jefferson,Kaw,U.S. House,2,,Write-ins,0
-Jefferson,Kentucky,U.S. House,2,,Write-ins,1
-Jefferson,Norton,U.S. House,2,,Write-ins,0
-Jefferson,Oskaloosa,U.S. House,2,,Write-ins,0
-Jefferson,Ozawkie,U.S. House,2,,Write-ins,0
-Jefferson,Rock Creek,U.S. House,2,,Write-ins,1
-Jefferson,Rural,U.S. House,2,,Write-ins,0
-Jefferson,Sarcoxie,U.S. House,2,,Write-ins,0
-Jefferson,Union,U.S. House,2,,Write-ins,0
-Jefferson,West Fairview,U.S. House,2,,Write-ins,0
-Jefferson,Delaware,State Senate,2,,Marci Francisco,259
-Jefferson,East Fairview,State Senate,2,,Marci Francisco,155
-Jefferson,Jefferson,State Senate,2,,Marci Francisco,133
-Jefferson,Kentucky,State Senate,2,,Marci Francisco,253
-Jefferson,Norton,State Senate,2,,Marci Francisco,105
-Jefferson,Oskaloosa,State Senate,2,,Marci Francisco,265
-Jefferson,Ozawkie,State Senate,2,,Marci Francisco,253
-Jefferson,Rock Creek,State Senate,2,,Marci Francisco,380
-Jefferson,Rural,State Senate,2,,Marci Francisco,145
-Jefferson,Sarcoxie,State Senate,2,,Marci Francisco,300
-Jefferson,Union,State Senate,2,,Marci Francisco,260
-Jefferson,West Fairview,State Senate,2,,Marci Francisco,103
-Jefferson,Delaware,State Senate,2,REP,Meredith Richey,507
-Jefferson,East Fairview,State Senate,2,REP,Meredith Richey,246
-Jefferson,Jefferson,State Senate,2,REP,Meredith Richey,341
-Jefferson,Kentucky,State Senate,2,REP,Meredith Richey,474
-Jefferson,Norton,State Senate,2,REP,Meredith Richey,256
-Jefferson,Oskaloosa,State Senate,2,REP,Meredith Richey,610
-Jefferson,Ozawkie,State Senate,2,REP,Meredith Richey,497
-Jefferson,Rock Creek,State Senate,2,REP,Meredith Richey,849
-Jefferson,Rural,State Senate,2,REP,Meredith Richey,214
-Jefferson,Sarcoxie,State Senate,2,REP,Meredith Richey,248
-Jefferson,Union,State Senate,2,REP,Meredith Richey,481
-Jefferson,West Fairview,State Senate,2,REP,Meredith Richey,253
-Jefferson,Delaware,State Senate,2,,Write-ins,1
-Jefferson,East Fairview,State Senate,2,,Write-ins,0
-Jefferson,Jefferson,State Senate,2,,Write-ins,1
-Jefferson,Kentucky,State Senate,2,,Write-ins,0
-Jefferson,Norton,State Senate,2,,Write-ins,1
-Jefferson,Oskaloosa,State Senate,2,,Write-ins,1
-Jefferson,Ozawkie,State Senate,2,,Write-ins,0
-Jefferson,Rock Creek,State Senate,2,,Write-ins,4
-Jefferson,Rural,State Senate,2,,Write-ins,0
-Jefferson,Sarcoxie,State Senate,2,,Write-ins,1
-Jefferson,Union,State Senate,2,,Write-ins,0
-Jefferson,West Fairview,State Senate,2,,Write-ins,0
-Jefferson,Kaw,State Senate,19,REP,Zach Haney,364
-Jefferson,Kaw,State Senate,19,DEM,Anthony Hensley,343
-Jefferson,Kaw,State Senate,19,,Write-ins,0
-Jefferson,Delaware,State House,47,,Michael D. Caddell,241
-Jefferson,East Fairview,State House,47,,Michael D. Caddell,147
-Jefferson,Jefferson,State House,47,,Michael D. Caddell,136
-Jefferson,Kaw,State House,47,,Michael D. Caddell,222
-Jefferson,Kentucky,State House,47,,Michael D. Caddell,225
-Jefferson,Norton,State House,47,,Michael D. Caddell,106
-Jefferson,Oskaloosa,State House,47,,Michael D. Caddell,206
-Jefferson,Ozawkie,State House,47,,Michael D. Caddell,191
-Jefferson,Rock Creek,State House,47,,Michael D. Caddell,284
-Jefferson,Rural,State House,47,,Michael D. Caddell,144
-Jefferson,Sarcoxie,State House,47,,Michael D. Caddell,287
-Jefferson,Union,State House,47,,Michael D. Caddell,224
-Jefferson,West Fairview,State House,47,,Michael D. Caddell,86
-Jefferson,Delaware,State House,47,REP,Ronald B. Ellis,523
-Jefferson,East Fairview,State House,47,REP,Ronald B. Ellis,251
-Jefferson,Jefferson,State House,47,REP,Ronald B. Ellis,337
-Jefferson,Kaw,State House,47,REP,Ronald B. Ellis,480
-Jefferson,Kentucky,State House,47,REP,Ronald B. Ellis,492
-Jefferson,Norton,State House,47,REP,Ronald B. Ellis,262
-Jefferson,Oskaloosa,State House,47,REP,Ronald B. Ellis,689
-Jefferson,Ozawkie,State House,47,REP,Ronald B. Ellis,556
-Jefferson,Rock Creek,State House,47,REP,Ronald B. Ellis,961
-Jefferson,Rural,State House,47,REP,Ronald B. Ellis,213
-Jefferson,Sarcoxie,State House,47,REP,Ronald B. Ellis,261
-Jefferson,Union,State House,47,REP,Ronald B. Ellis,517
-Jefferson,West Fairview,State House,47,REP,Ronald B. Ellis,271
-Jefferson,Delaware,State House,47,,Write-ins,0
-Jefferson,East Fairview,State House,47,,Write-ins,0
-Jefferson,Jefferson,State House,47,,Write-ins,0
-Jefferson,Kaw,State House,47,,Write-ins,1
-Jefferson,Kentucky,State House,47,,Write-ins,0
-Jefferson,Norton,State House,47,,Write-ins,1
-Jefferson,Oskaloosa,State House,47,,Write-ins,1
-Jefferson,Ozawkie,State House,47,,Write-ins,1
-Jefferson,Rock Creek,State House,47,,Write-ins,0
-Jefferson,Rural,State House,47,,Write-ins,0
-Jefferson,Sarcoxie,State House,47,,Write-ins,0
-Jefferson,Union,State House,47,,Write-ins,0
-Jefferson,West Fairview,State House,47,,Write-ins,0
+county,precinct,office,district,party,candidate,votes,vtd
+JEFFERSON,Delaware Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",241,000010
+JEFFERSON,Delaware Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",523,000010
+JEFFERSON,East Fairview,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",147,000020
+JEFFERSON,East Fairview,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",251,000020
+JEFFERSON,Jefferson Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",136,000030
+JEFFERSON,Jefferson Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",337,000030
+JEFFERSON,Kaw Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",222,000040
+JEFFERSON,Kaw Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",480,000040
+JEFFERSON,Kentucky Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",225,000050
+JEFFERSON,Kentucky Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",492,000050
+JEFFERSON,Norton Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",106,000060
+JEFFERSON,Norton Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",262,000060
+JEFFERSON,Oskaloosa Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",206,000070
+JEFFERSON,Oskaloosa Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",689,000070
+JEFFERSON,Ozawkie Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",191,000080
+JEFFERSON,Ozawkie Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",556,000080
+JEFFERSON,Rock Creek Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",284,000090
+JEFFERSON,Rock Creek Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",961,000090
+JEFFERSON,Rural Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",144,000100
+JEFFERSON,Rural Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",213,000100
+JEFFERSON,Sarcoxie Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",287,000110
+JEFFERSON,Sarcoxie Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",261,000110
+JEFFERSON,Union Township,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",224,000120
+JEFFERSON,Union Township,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",517,000120
+JEFFERSON,West Fairview,Kansas House of Representatives,47,Democratic,"Caddell, Michael D.",86,000130
+JEFFERSON,West Fairview,Kansas House of Representatives,47,Republican,"Ellis, Ronald B.",271,000130
+JEFFERSON,Delaware Township,Kansas Senate,2,Democratic,"Francisco, Marci",259,000010
+JEFFERSON,Delaware Township,Kansas Senate,2,Republican,"Richey, Meredith",507,000010
+JEFFERSON,East Fairview,Kansas Senate,2,Democratic,"Francisco, Marci",155,000020
+JEFFERSON,East Fairview,Kansas Senate,2,Republican,"Richey, Meredith",246,000020
+JEFFERSON,Jefferson Township,Kansas Senate,2,Democratic,"Francisco, Marci",133,000030
+JEFFERSON,Jefferson Township,Kansas Senate,2,Republican,"Richey, Meredith",341,000030
+JEFFERSON,Kaw Township,Kansas Senate,19,Democratic,"Hensley, Anthony",343,000040
+JEFFERSON,Kaw Township,Kansas Senate,19,Republican,"Haney, Zach",364,000040
+JEFFERSON,Kentucky Township,Kansas Senate,2,Democratic,"Francisco, Marci",253,000050
+JEFFERSON,Kentucky Township,Kansas Senate,2,Republican,"Richey, Meredith",474,000050
+JEFFERSON,Norton Township,Kansas Senate,2,Democratic,"Francisco, Marci",105,000060
+JEFFERSON,Norton Township,Kansas Senate,2,Republican,"Richey, Meredith",256,000060
+JEFFERSON,Oskaloosa Township,Kansas Senate,2,Democratic,"Francisco, Marci",265,000070
+JEFFERSON,Oskaloosa Township,Kansas Senate,2,Republican,"Richey, Meredith",610,000070
+JEFFERSON,Ozawkie Township,Kansas Senate,2,Democratic,"Francisco, Marci",253,000080
+JEFFERSON,Ozawkie Township,Kansas Senate,2,Republican,"Richey, Meredith",497,000080
+JEFFERSON,Rock Creek Township,Kansas Senate,2,Democratic,"Francisco, Marci",380,000090
+JEFFERSON,Rock Creek Township,Kansas Senate,2,Republican,"Richey, Meredith",849,000090
+JEFFERSON,Rural Township,Kansas Senate,2,Democratic,"Francisco, Marci",145,000100
+JEFFERSON,Rural Township,Kansas Senate,2,Republican,"Richey, Meredith",214,000100
+JEFFERSON,Sarcoxie Township,Kansas Senate,2,Democratic,"Francisco, Marci",300,000110
+JEFFERSON,Sarcoxie Township,Kansas Senate,2,Republican,"Richey, Meredith",248,000110
+JEFFERSON,Union Township,Kansas Senate,2,Democratic,"Francisco, Marci",260,000120
+JEFFERSON,Union Township,Kansas Senate,2,Republican,"Richey, Meredith",481,000120
+JEFFERSON,West Fairview,Kansas Senate,2,Democratic,"Francisco, Marci",103,000130
+JEFFERSON,West Fairview,Kansas Senate,2,Republican,"Richey, Meredith",253,000130
+JEFFERSON,Delaware Township,President / Vice President,,independent,"Stein, Jill",13,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Hoefling, Tom",2,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"McMullin, Evan",2,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+JEFFERSON,Delaware Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",219,000010
+JEFFERSON,Delaware Township,President / Vice President,,Libertarian,"Johnson, Gary",30,000010
+JEFFERSON,Delaware Township,President / Vice President,,Republican,"Trump, Donald J.",504,000010
+JEFFERSON,East Fairview,President / Vice President,,independent,"Stein, Jill",5,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Hedges, James A",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"McMullin, Evan",1,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Perry, Darryl",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Smith, Mike",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Sood, Ajay",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+JEFFERSON,East Fairview,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+JEFFERSON,East Fairview,President / Vice President,,Democratic,"Clinton, Hillary Rodham",145,000020
+JEFFERSON,East Fairview,President / Vice President,,Libertarian,"Johnson, Gary",25,000020
+JEFFERSON,East Fairview,President / Vice President,,Republican,"Trump, Donald J.",230,000020
+JEFFERSON,Jefferson Township,President / Vice President,,independent,"Stein, Jill",7,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Maturen, Michael A",1,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"McMullin, Evan",3,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+JEFFERSON,Jefferson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",123,000030
+JEFFERSON,Jefferson Township,President / Vice President,,Libertarian,"Johnson, Gary",23,000030
+JEFFERSON,Jefferson Township,President / Vice President,,Republican,"Trump, Donald J.",319,000030
+JEFFERSON,Kaw Township,President / Vice President,,independent,"Stein, Jill",21,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"McMullin, Evan",5,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+JEFFERSON,Kaw Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",232,000040
+JEFFERSON,Kaw Township,President / Vice President,,Libertarian,"Johnson, Gary",28,000040
+JEFFERSON,Kaw Township,President / Vice President,,Republican,"Trump, Donald J.",420,000040
+JEFFERSON,Kentucky Township,President / Vice President,,independent,"Stein, Jill",11,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Castle, Darrell L",4,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"McMullin, Evan",1,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+JEFFERSON,Kentucky Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",253,000050
+JEFFERSON,Kentucky Township,President / Vice President,,Libertarian,"Johnson, Gary",46,000050
+JEFFERSON,Kentucky Township,President / Vice President,,Republican,"Trump, Donald J.",410,000050
+JEFFERSON,Norton Township,President / Vice President,,independent,"Stein, Jill",8,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+JEFFERSON,Norton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+JEFFERSON,Norton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",84,000060
+JEFFERSON,Norton Township,President / Vice President,,Libertarian,"Johnson, Gary",25,000060
+JEFFERSON,Norton Township,President / Vice President,,Republican,"Trump, Donald J.",250,000060
+JEFFERSON,Oskaloosa Township,President / Vice President,,independent,"Stein, Jill",17,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"McMullin, Evan",2,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",245,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,Libertarian,"Johnson, Gary",42,000070
+JEFFERSON,Oskaloosa Township,President / Vice President,,Republican,"Trump, Donald J.",577,000070
+JEFFERSON,Ozawkie Township,President / Vice President,,independent,"Stein, Jill",11,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Castle, Darrell L",1,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"McMullin, Evan",4,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",207,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,Libertarian,"Johnson, Gary",25,000080
+JEFFERSON,Ozawkie Township,President / Vice President,,Republican,"Trump, Donald J.",506,000080
+JEFFERSON,Rock Creek Township,President / Vice President,,independent,"Stein, Jill",39,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"McMullin, Evan",4,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",317,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",55,000090
+JEFFERSON,Rock Creek Township,President / Vice President,,Republican,"Trump, Donald J.",825,000090
+JEFFERSON,Rural Township,President / Vice President,,independent,"Stein, Jill",14,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Castle, Darrell L",1,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Maturen, Michael A",1,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+JEFFERSON,Rural Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+JEFFERSON,Rural Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",136,000100
+JEFFERSON,Rural Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000100
+JEFFERSON,Rural Township,President / Vice President,,Republican,"Trump, Donald J.",184,000100
+JEFFERSON,Sarcoxie Township,President / Vice President,,independent,"Stein, Jill",16,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Castle, Darrell L",1,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"McMullin, Evan",2,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",262,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,Libertarian,"Johnson, Gary",29,000110
+JEFFERSON,Sarcoxie Township,President / Vice President,,Republican,"Trump, Donald J.",231,000110
+JEFFERSON,Union Township,President / Vice President,,independent,"Stein, Jill",15,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"McMullin, Evan",1,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+JEFFERSON,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+JEFFERSON,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",194,000120
+JEFFERSON,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",36,000120
+JEFFERSON,Union Township,President / Vice President,,Republican,"Trump, Donald J.",517,000120
+JEFFERSON,West Fairview,President / Vice President,,independent,"Stein, Jill",8,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Castle, Darrell L",1,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Hedges, James A",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"McMullin, Evan",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Perry, Darryl",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Smith, Mike",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Sood, Ajay",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+JEFFERSON,West Fairview,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+JEFFERSON,West Fairview,President / Vice President,,Democratic,"Clinton, Hillary Rodham",101,000130
+JEFFERSON,West Fairview,President / Vice President,,Libertarian,"Johnson, Gary",7,000130
+JEFFERSON,West Fairview,President / Vice President,,Republican,"Trump, Donald J.",240,000130
+JEFFERSON,Delaware Township,United States House of Representatives,2,Democratic,"Potter, Britani",199,000010
+JEFFERSON,Delaware Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",38,000010
+JEFFERSON,Delaware Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",540,000010
+JEFFERSON,East Fairview,United States House of Representatives,2,Democratic,"Potter, Britani",122,000020
+JEFFERSON,East Fairview,United States House of Representatives,2,Libertarian,"Bales, James Houston",32,000020
+JEFFERSON,East Fairview,United States House of Representatives,2,Republican,"Jenkins, Lynn",253,000020
+JEFFERSON,Jefferson Township,United States House of Representatives,2,Democratic,"Potter, Britani",93,000030
+JEFFERSON,Jefferson Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",22,000030
+JEFFERSON,Jefferson Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",363,000030
+JEFFERSON,Kaw Township,United States House of Representatives,2,Democratic,"Potter, Britani",222,000040
+JEFFERSON,Kaw Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",41,000040
+JEFFERSON,Kaw Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",454,000040
+JEFFERSON,Kentucky Township,United States House of Representatives,2,Democratic,"Potter, Britani",238,000050
+JEFFERSON,Kentucky Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",44,000050
+JEFFERSON,Kentucky Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",444,000050
+JEFFERSON,Norton Township,United States House of Representatives,2,Democratic,"Potter, Britani",70,000060
+JEFFERSON,Norton Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",17,000060
+JEFFERSON,Norton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",283,000060
+JEFFERSON,Oskaloosa Township,United States House of Representatives,2,Democratic,"Potter, Britani",214,000070
+JEFFERSON,Oskaloosa Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",57,000070
+JEFFERSON,Oskaloosa Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",620,000070
+JEFFERSON,Ozawkie Township,United States House of Representatives,2,Democratic,"Potter, Britani",188,000080
+JEFFERSON,Ozawkie Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",48,000080
+JEFFERSON,Ozawkie Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",523,000080
+JEFFERSON,Rock Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",313,000090
+JEFFERSON,Rock Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",83,000090
+JEFFERSON,Rock Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",866,000090
+JEFFERSON,Rural Township,United States House of Representatives,2,Democratic,"Potter, Britani",122,000100
+JEFFERSON,Rural Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",29,000100
+JEFFERSON,Rural Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",206,000100
+JEFFERSON,Sarcoxie Township,United States House of Representatives,2,Democratic,"Potter, Britani",229,000110
+JEFFERSON,Sarcoxie Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",52,000110
+JEFFERSON,Sarcoxie Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",274,000110
+JEFFERSON,Union Township,United States House of Representatives,2,Democratic,"Potter, Britani",175,000120
+JEFFERSON,Union Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",49,000120
+JEFFERSON,Union Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",532,000120
+JEFFERSON,West Fairview,United States House of Representatives,2,Democratic,"Potter, Britani",79,000130
+JEFFERSON,West Fairview,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000130
+JEFFERSON,West Fairview,United States House of Representatives,2,Republican,"Jenkins, Lynn",268,000130
+JEFFERSON,Delaware Township,United States Senate,,write - in,"Smith, DJ",0,000010
+JEFFERSON,Delaware Township,United States Senate,,Democratic,"Wiesner, Patrick",188,000010
+JEFFERSON,Delaware Township,United States Senate,,Libertarian,"Garrard, Robert D.",39,000010
+JEFFERSON,Delaware Township,United States Senate,,Republican,"Moran, Jerry",547,000010
+JEFFERSON,East Fairview,United States Senate,,write - in,"Smith, DJ",0,000020
+JEFFERSON,East Fairview,United States Senate,,Democratic,"Wiesner, Patrick",150,000020
+JEFFERSON,East Fairview,United States Senate,,Libertarian,"Garrard, Robert D.",25,000020
+JEFFERSON,East Fairview,United States Senate,,Republican,"Moran, Jerry",225,000020
+JEFFERSON,Jefferson Township,United States Senate,,write - in,"Smith, DJ",0,000030
+JEFFERSON,Jefferson Township,United States Senate,,Democratic,"Wiesner, Patrick",102,000030
+JEFFERSON,Jefferson Township,United States Senate,,Libertarian,"Garrard, Robert D.",18,000030
+JEFFERSON,Jefferson Township,United States Senate,,Republican,"Moran, Jerry",356,000030
+JEFFERSON,Kaw Township,United States Senate,,write - in,"Smith, DJ",0,000040
+JEFFERSON,Kaw Township,United States Senate,,Democratic,"Wiesner, Patrick",231,000040
+JEFFERSON,Kaw Township,United States Senate,,Libertarian,"Garrard, Robert D.",29,000040
+JEFFERSON,Kaw Township,United States Senate,,Republican,"Moran, Jerry",452,000040
+JEFFERSON,Kentucky Township,United States Senate,,write - in,"Smith, DJ",0,000050
+JEFFERSON,Kentucky Township,United States Senate,,Democratic,"Wiesner, Patrick",257,000050
+JEFFERSON,Kentucky Township,United States Senate,,Libertarian,"Garrard, Robert D.",40,000050
+JEFFERSON,Kentucky Township,United States Senate,,Republican,"Moran, Jerry",426,000050
+JEFFERSON,Norton Township,United States Senate,,write - in,"Smith, DJ",0,000060
+JEFFERSON,Norton Township,United States Senate,,Democratic,"Wiesner, Patrick",94,000060
+JEFFERSON,Norton Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000060
+JEFFERSON,Norton Township,United States Senate,,Republican,"Moran, Jerry",267,000060
+JEFFERSON,Oskaloosa Township,United States Senate,,write - in,"Smith, DJ",0,000070
+JEFFERSON,Oskaloosa Township,United States Senate,,Democratic,"Wiesner, Patrick",239,000070
+JEFFERSON,Oskaloosa Township,United States Senate,,Libertarian,"Garrard, Robert D.",42,000070
+JEFFERSON,Oskaloosa Township,United States Senate,,Republican,"Moran, Jerry",598,000070
+JEFFERSON,Ozawkie Township,United States Senate,,write - in,"Smith, DJ",0,000080
+JEFFERSON,Ozawkie Township,United States Senate,,Democratic,"Wiesner, Patrick",215,000080
+JEFFERSON,Ozawkie Township,United States Senate,,Libertarian,"Garrard, Robert D.",35,000080
+JEFFERSON,Ozawkie Township,United States Senate,,Republican,"Moran, Jerry",508,000080
+JEFFERSON,Rock Creek Township,United States Senate,,write - in,"Smith, DJ",0,000090
+JEFFERSON,Rock Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",320,000090
+JEFFERSON,Rock Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",76,000090
+JEFFERSON,Rock Creek Township,United States Senate,,Republican,"Moran, Jerry",857,000090
+JEFFERSON,Rural Township,United States Senate,,write - in,"Smith, DJ",0,000100
+JEFFERSON,Rural Township,United States Senate,,Democratic,"Wiesner, Patrick",137,000100
+JEFFERSON,Rural Township,United States Senate,,Libertarian,"Garrard, Robert D.",16,000100
+JEFFERSON,Rural Township,United States Senate,,Republican,"Moran, Jerry",201,000100
+JEFFERSON,Sarcoxie Township,United States Senate,,write - in,"Smith, DJ",0,000110
+JEFFERSON,Sarcoxie Township,United States Senate,,Democratic,"Wiesner, Patrick",277,000110
+JEFFERSON,Sarcoxie Township,United States Senate,,Libertarian,"Garrard, Robert D.",24,000110
+JEFFERSON,Sarcoxie Township,United States Senate,,Republican,"Moran, Jerry",254,000110
+JEFFERSON,Union Township,United States Senate,,write - in,"Smith, DJ",0,000120
+JEFFERSON,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",206,000120
+JEFFERSON,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",38,000120
+JEFFERSON,Union Township,United States Senate,,Republican,"Moran, Jerry",504,000120
+JEFFERSON,West Fairview,United States Senate,,write - in,"Smith, DJ",0,000130
+JEFFERSON,West Fairview,United States Senate,,Democratic,"Wiesner, Patrick",88,000130
+JEFFERSON,West Fairview,United States Senate,,Libertarian,"Garrard, Robert D.",9,000130
+JEFFERSON,West Fairview,United States Senate,,Republican,"Moran, Jerry",261,000130

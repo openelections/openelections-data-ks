@@ -1,166 +1,433 @@
-county,precinct,office,district,candidate,party,votes
-Logan,Augustine,President,,Hillary Clinton,D,0
-Logan,Elkander,President,,Hillary Clinton,D,0
-Logan,Lees,President,,Hillary Clinton,D,2
-Logan,Logansport,President,,Hillary Clinton,D,0
-Logan,McAllastar,President,,Hillary Clinton,D,0
-Logan,Monument,President,,Hillary Clinton,D,5
-Logan,Oakley 1,President,,Hillary Clinton,D,67
-Logan,Oakley 2,President,,Hillary Clinton,D,62
-Logan,Paxton,President,,Hillary Clinton,D,0
-Logan,Russell Sprs,President,,Hillary Clinton,D,0
-Logan,Western,President,,Hillary Clinton,D,0
-Logan,Winona,President,,Hillary Clinton,D,0
-Logan,Augustine,President,,Gary Johnson,LBT,0
-Logan,Elkander,President,,Gary Johnson,LBT,0
-Logan,Lees,President,,Gary Johnson,LBT,0
-Logan,Logansport,President,,Gary Johnson,LBT,1
-Logan,McAllastar,President,,Gary Johnson,LBT,0
-Logan,Monument,President,,Gary Johnson,LBT,2
-Logan,Oakley 1,President,,Gary Johnson,LBT,22
-Logan,Oakley 2,President,,Gary Johnson,LBT,17
-Logan,Paxton,President,,Gary Johnson,LBT,0
-Logan,Russell Sprs,President,,Gary Johnson,LBT,1
-Logan,Western,President,,Gary Johnson,LBT,0
-Logan,Winona,President,,Gary Johnson,LBT,4
-Logan,Augustine,President,,Jill Stein,IND,0
-Logan,Elkander,President,,Jill Stein,IND,0
-Logan,Lees,President,,Jill Stein,IND,0
-Logan,Logansport,President,,Jill Stein,IND,0
-Logan,McAllastar,President,,Jill Stein,IND,0
-Logan,Monument,President,,Jill Stein,IND,1
-Logan,Oakley 1,President,,Jill Stein,IND,11
-Logan,Oakley 2,President,,Jill Stein,IND,10
-Logan,Paxton,President,,Jill Stein,IND,0
-Logan,Russell Sprs,President,,Jill Stein,IND,2
-Logan,Western,President,,Jill Stein,IND,0
-Logan,Winona,President,,Jill Stein,IND,4
-Logan,Augustine,President,,Donald Trump,R,8
-Logan,Elkander,President,,Donald Trump,R,8
-Logan,Lees,President,,Donald Trump,R,5
-Logan,Logansport,President,,Donald Trump,R,4
-Logan,McAllastar,President,,Donald Trump,R,16
-Logan,Monument,President,,Donald Trump,R,66
-Logan,Oakley 1,President,,Donald Trump,R,512
-Logan,Oakley 2,President,,Donald Trump,R,335
-Logan,Paxton,President,,Donald Trump,R,21
-Logan,Russell Sprs,President,,Donald Trump,R,25
-Logan,Western,President,,Donald Trump,R,24
-Logan,Winona,President,,Donald Trump,R,108
-Logan,Oakley 1,President,,Evan McMullin,wri,1
-Logan,Oakley 1,President,,Write-ins,,2
-Logan,Oakley 2,President,,Write-ins,,1
-Logan,Russell Sprs,President,,Write-ins,,1
-Logan,Augustine,U.S. Senate,,Robert Garrard,LBT,0
-Logan,Elkander,U.S. Senate,,Robert Garrard,LBT,0
-Logan,Lees,U.S. Senate,,Robert Garrard,LBT,0
-Logan,Logansport,U.S. Senate,,Robert Garrard,LBT,0
-Logan,McAllastar,U.S. Senate,,Robert Garrard,LBT,0
-Logan,Monument,U.S. Senate,,Robert Garrard,LBT,4
-Logan,Oakley 1,U.S. Senate,,Robert Garrard,LBT,19
-Logan,Oakley 2,U.S. Senate,,Robert Garrard,LBT,11
-Logan,Paxton,U.S. Senate,,Robert Garrard,LBT,0
-Logan,Russell Sprs,U.S. Senate,,Robert Garrard,LBT,3
-Logan,Western,U.S. Senate,,Robert Garrard,LBT,1
-Logan,Winona,U.S. Senate,,Robert Garrard,LBT,5
-Logan,Augustine,U.S. Senate,,Jerry Moran,R,8
-Logan,Elkander,U.S. Senate,,Jerry Moran,R,8
-Logan,Lees,U.S. Senate,,Jerry Moran,R,5
-Logan,Logansport,U.S. Senate,,Jerry Moran,R,4
-Logan,McAllastar,U.S. Senate,,Jerry Moran,R,16
-Logan,Monument,U.S. Senate,,Jerry Moran,R,67
-Logan,Oakley 1,U.S. Senate,,Jerry Moran,R,545
-Logan,Oakley 2,U.S. Senate,,Jerry Moran,R,360
-Logan,Paxton,U.S. Senate,,Jerry Moran,R,21
-Logan,Russell Sprs,U.S. Senate,,Jerry Moran,R,24
-Logan,Western,U.S. Senate,,Jerry Moran,R,20
-Logan,Winona,U.S. Senate,,Jerry Moran,R,119
-Logan,Augustine,U.S. Senate,,Patrick Wiesner,D,0
-Logan,Elkander,U.S. Senate,,Patrick Wiesner,D,0
-Logan,Lees,U.S. Senate,,Patrick Wiesner,D,2
-Logan,Logansport,U.S. Senate,,Patrick Wiesner,D,0
-Logan,McAllastar,U.S. Senate,,Patrick Wiesner,D,0
-Logan,Monument,U.S. Senate,,Patrick Wiesner,D,3
-Logan,Oakley 1,U.S. Senate,,Patrick Wiesner,D,49
-Logan,Oakley 2,U.S. Senate,,Patrick Wiesner,D,48
-Logan,Paxton,U.S. Senate,,Patrick Wiesner,D,0
-Logan,Russell Sprs,U.S. Senate,,Patrick Wiesner,D,2
-Logan,Western,U.S. Senate,,Patrick Wiesner,D,0
-Logan,Winona,U.S. Senate,,Patrick Wiesner,D,2
-Logan,Augustine,U.S. House,1,Alan LaPolice,IND,0
-Logan,Elkander,U.S. House,1,Alan LaPolice,IND,1
-Logan,Lees,U.S. House,1,Alan LaPolice,IND,4
-Logan,Logansport,U.S. House,1,Alan LaPolice,IND,0
-Logan,McAllastar,U.S. House,1,Alan LaPolice,IND,0
-Logan,Monument,U.S. House,1,Alan LaPolice,IND,5
-Logan,Oakley 1,U.S. House,1,Alan LaPolice,IND,75
-Logan,Oakley 2,U.S. House,1,Alan LaPolice,IND,56
-Logan,Paxton,U.S. House,1,Alan LaPolice,IND,0
-Logan,Russell Sprs,U.S. House,1,Alan LaPolice,IND,4
-Logan,Western,U.S. House,1,Alan LaPolice,IND,5
-Logan,Winona,U.S. House,1,Alan LaPolice,IND,19
-Logan,Augustine,U.S. House,1,Roger Marshall,R,8
-Logan,Elkander,U.S. House,1,Roger Marshall,R,7
-Logan,Lees,U.S. House,1,Roger Marshall,R,3
-Logan,Logansport,U.S. House,1,Roger Marshall,R,3
-Logan,McAllastar,U.S. House,1,Roger Marshall,R,16
-Logan,Monument,U.S. House,1,Roger Marshall,R,59
-Logan,Oakley 1,U.S. House,1,Roger Marshall,R,496
-Logan,Oakley 2,U.S. House,1,Roger Marshall,R,328
-Logan,Paxton,U.S. House,1,Roger Marshall,R,20
-Logan,Russell Sprs,U.S. House,1,Roger Marshall,R,22
-Logan,Western,U.S. House,1,Roger Marshall,R,17
-Logan,Winona,U.S. House,1,Roger Marshall,R,97
-Logan,Augustine,U.S. House,1,Kerry Burt,LBT,0
-Logan,Elkander,U.S. House,1,Kerry Burt,LBT,0
-Logan,Lees,U.S. House,1,Kerry Burt,LBT,0
-Logan,Logansport,U.S. House,1,Kerry Burt,LBT,0
-Logan,McAllastar,U.S. House,1,Kerry Burt,LBT,0
-Logan,Monument,U.S. House,1,Kerry Burt,LBT,5
-Logan,Oakley 1,U.S. House,1,Kerry Burt,LBT,25
-Logan,Oakley 2,U.S. House,1,Kerry Burt,LBT,22
-Logan,Paxton,U.S. House,1,Kerry Burt,LBT,0
-Logan,Russell Sprs,U.S. House,1,Kerry Burt,LBT,1
-Logan,Western,U.S. House,1,Kerry Burt,LBT,0
-Logan,Winona,U.S. House,1,Kerry Burt,LBT,8
-Logan,Augustine,State Senate,40,Alex Herman,D,0
-Logan,Elkander,State Senate,40,Alex Herman,D,0
-Logan,Lees,State Senate,40,Alex Herman,D,2
-Logan,Logansport,State Senate,40,Alex Herman,D,0
-Logan,McAllastar,State Senate,40,Alex Herman,D,0
-Logan,Monument,State Senate,40,Alex Herman,D,8
-Logan,Oakley 1,State Senate,40,Alex Herman,D,87
-Logan,Oakley 2,State Senate,40,Alex Herman,D,67
-Logan,Paxton,State Senate,40,Alex Herman,D,0
-Logan,Russell Sprs,State Senate,40,Alex Herman,D,2
-Logan,Western,State Senate,40,Alex Herman,D,2
-Logan,Winona,State Senate,40,Alex Herman,D,7
-Logan,Augustine,State Senate,40,Rick Billinger,R,8
-Logan,Elkander,State Senate,40,Rick Billinger,R,8
-Logan,Lees,State Senate,40,Rick Billinger,R,4
-Logan,Logansport,State Senate,40,Rick Billinger,R,3
-Logan,McAllastar,State Senate,40,Rick Billinger,R,16
-Logan,Monument,State Senate,40,Rick Billinger,R,65
-Logan,Oakley 1,State Senate,40,Rick Billinger,R,515
-Logan,Oakley 2,State Senate,40,Rick Billinger,R,349
-Logan,Paxton,State Senate,40,Rick Billinger,R,21
-Logan,Russell Sprs,State Senate,40,Rick Billinger,R,25
-Logan,Western,State Senate,40,Rick Billinger,R,20
-Logan,Winona,State Senate,40,Rick Billinger,R,117
-Logan,Oakley 1,State Senate,40,Write-ins,,1
-Logan,Winona,State Senate,40,Write-ins,,1
-Logan,Augustine,State House,118,Don Hineman,R,8
-Logan,Elkander,State House,118,Don Hineman,R,7
-Logan,Lees,State House,118,Don Hineman,R,6
-Logan,Logansport,State House,118,Don Hineman,R,3
-Logan,McAllastar,State House,118,Don Hineman,R,15
-Logan,Monument,State House,118,Don Hineman,R,63
-Logan,Oakley 1,State House,118,Don Hineman,R,528
-Logan,Oakley 2,State House,118,Don Hineman,R,368
-Logan,Paxton,State House,118,Don Hineman,R,21
-Logan,Russell Sprs,State House,118,Don Hineman,R,27
-Logan,Western,State House,118,Don Hineman,R,23
-Logan,Winona,State House,118,Don Hineman,R,107
-Logan,Oakley 1,State House,5,Write-ins,,2
-Logan,Oakley 2,State House,5,Write-ins,,1
-Logan,Winona,State House,5,Write-ins,,8
+county,precinct,office,district,party,candidate,votes,vtd
+LOGAN,Augustine Township,Kansas House of Representatives,118,Republican,"Hineman, Don",8,000010
+LOGAN,Elkader Township,Kansas House of Representatives,118,Republican,"Hineman, Don",7,000020
+LOGAN,Lees Township,Kansas House of Representatives,118,Republican,"Hineman, Don",6,000030
+LOGAN,Logansport Township,Kansas House of Representatives,118,Republican,"Hineman, Don",3,000040
+LOGAN,McAllaster Township,Kansas House of Representatives,118,Republican,"Hineman, Don",15,000050
+LOGAN,Monument Township,Kansas House of Representatives,118,Republican,"Hineman, Don",63,000060
+LOGAN,Oakley Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",528,000070
+LOGAN,Oakley Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",368,000080
+LOGAN,Paxton Township,Kansas House of Representatives,118,Republican,"Hineman, Don",21,000090
+LOGAN,Russell Springs Township,Kansas House of Representatives,118,Republican,"Hineman, Don",27,000100
+LOGAN,Western Township,Kansas House of Representatives,118,Republican,"Hineman, Don",23,000110
+LOGAN,Winona Township,Kansas House of Representatives,118,Republican,"Hineman, Don",107,000120
+LOGAN,Augustine Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000010
+LOGAN,Augustine Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",8,000010
+LOGAN,Elkader Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000020
+LOGAN,Elkader Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",8,000020
+LOGAN,Lees Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000030
+LOGAN,Lees Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",4,000030
+LOGAN,Logansport Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000040
+LOGAN,Logansport Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",3,000040
+LOGAN,McAllaster Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000050
+LOGAN,McAllaster Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",16,000050
+LOGAN,Monument Township,Kansas Senate,40,Democratic,"Herman, Alex",8,000060
+LOGAN,Monument Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",65,000060
+LOGAN,Oakley Precinct 1,Kansas Senate,40,Democratic,"Herman, Alex",87,000070
+LOGAN,Oakley Precinct 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",515,000070
+LOGAN,Oakley Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",67,000080
+LOGAN,Oakley Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",349,000080
+LOGAN,Paxton Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000090
+LOGAN,Paxton Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",21,000090
+LOGAN,Russell Springs Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000100
+LOGAN,Russell Springs Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",25,000100
+LOGAN,Western Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000110
+LOGAN,Western Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",20,000110
+LOGAN,Winona Township,Kansas Senate,40,Democratic,"Herman, Alex",7,000120
+LOGAN,Winona Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",117,000120
+LOGAN,Augustine Township,President / Vice President,,independent,"Stein, Jill",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+LOGAN,Augustine Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+LOGAN,Augustine Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000010
+LOGAN,Augustine Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+LOGAN,Augustine Township,President / Vice President,,Republican,"Trump, Donald J.",8,000010
+LOGAN,Elkader Township,President / Vice President,,independent,"Stein, Jill",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+LOGAN,Elkader Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+LOGAN,Elkader Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000020
+LOGAN,Elkader Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+LOGAN,Elkader Township,President / Vice President,,Republican,"Trump, Donald J.",8,000020
+LOGAN,Lees Township,President / Vice President,,independent,"Stein, Jill",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+LOGAN,Lees Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+LOGAN,Lees Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000030
+LOGAN,Lees Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+LOGAN,Lees Township,President / Vice President,,Republican,"Trump, Donald J.",5,000030
+LOGAN,Logansport Township,President / Vice President,,independent,"Stein, Jill",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+LOGAN,Logansport Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+LOGAN,Logansport Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000040
+LOGAN,Logansport Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+LOGAN,Logansport Township,President / Vice President,,Republican,"Trump, Donald J.",4,000040
+LOGAN,McAllaster Township,President / Vice President,,independent,"Stein, Jill",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+LOGAN,McAllaster Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+LOGAN,McAllaster Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000050
+LOGAN,McAllaster Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000050
+LOGAN,McAllaster Township,President / Vice President,,Republican,"Trump, Donald J.",16,000050
+LOGAN,Monument Township,President / Vice President,,independent,"Stein, Jill",1,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+LOGAN,Monument Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+LOGAN,Monument Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000060
+LOGAN,Monument Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000060
+LOGAN,Monument Township,President / Vice President,,Republican,"Trump, Donald J.",66,000060
+LOGAN,Oakley Precinct 1,President / Vice President,,independent,"Stein, Jill",11,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"McMullin, Evan",1,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",67,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",22,000070
+LOGAN,Oakley Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",512,000070
+LOGAN,Oakley Precinct 2,President / Vice President,,independent,"Stein, Jill",10,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",62,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",17,000080
+LOGAN,Oakley Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",335,000080
+LOGAN,Paxton Township,President / Vice President,,independent,"Stein, Jill",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+LOGAN,Paxton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+LOGAN,Paxton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000090
+LOGAN,Paxton Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+LOGAN,Paxton Township,President / Vice President,,Republican,"Trump, Donald J.",21,000090
+LOGAN,Russell Springs Township,President / Vice President,,independent,"Stein, Jill",2,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000100
+LOGAN,Russell Springs Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+LOGAN,Russell Springs Township,President / Vice President,,Republican,"Trump, Donald J.",25,000100
+LOGAN,Western Township,President / Vice President,,independent,"Stein, Jill",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+LOGAN,Western Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+LOGAN,Western Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000110
+LOGAN,Western Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
+LOGAN,Western Township,President / Vice President,,Republican,"Trump, Donald J.",24,000110
+LOGAN,Winona Township,President / Vice President,,independent,"Stein, Jill",4,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+LOGAN,Winona Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+LOGAN,Winona Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000120
+LOGAN,Winona Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000120
+LOGAN,Winona Township,President / Vice President,,Republican,"Trump, Donald J.",108,000120
+LOGAN,Augustine Township,United States House of Representatives,1,independent,"LaPolice, Alan",0,000010
+LOGAN,Augustine Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+LOGAN,Augustine Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000010
+LOGAN,Augustine Township,United States House of Representatives,1,Republican,"Marshall, Roger",8,000010
+LOGAN,Elkader Township,United States House of Representatives,1,independent,"LaPolice, Alan",1,000020
+LOGAN,Elkader Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+LOGAN,Elkader Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000020
+LOGAN,Elkader Township,United States House of Representatives,1,Republican,"Marshall, Roger",7,000020
+LOGAN,Lees Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000030
+LOGAN,Lees Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+LOGAN,Lees Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000030
+LOGAN,Lees Township,United States House of Representatives,1,Republican,"Marshall, Roger",3,000030
+LOGAN,Logansport Township,United States House of Representatives,1,independent,"LaPolice, Alan",0,000040
+LOGAN,Logansport Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+LOGAN,Logansport Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000040
+LOGAN,Logansport Township,United States House of Representatives,1,Republican,"Marshall, Roger",3,000040
+LOGAN,McAllaster Township,United States House of Representatives,1,independent,"LaPolice, Alan",0,000050
+LOGAN,McAllaster Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+LOGAN,McAllaster Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000050
+LOGAN,McAllaster Township,United States House of Representatives,1,Republican,"Marshall, Roger",16,000050
+LOGAN,Monument Township,United States House of Representatives,1,independent,"LaPolice, Alan",5,000060
+LOGAN,Monument Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+LOGAN,Monument Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000060
+LOGAN,Monument Township,United States House of Representatives,1,Republican,"Marshall, Roger",59,000060
+LOGAN,Oakley Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",75,000070
+LOGAN,Oakley Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+LOGAN,Oakley Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",25,000070
+LOGAN,Oakley Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",496,000070
+LOGAN,Oakley Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",56,000080
+LOGAN,Oakley Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+LOGAN,Oakley Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",22,000080
+LOGAN,Oakley Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",328,000080
+LOGAN,Paxton Township,United States House of Representatives,1,independent,"LaPolice, Alan",0,000090
+LOGAN,Paxton Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+LOGAN,Paxton Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000090
+LOGAN,Paxton Township,United States House of Representatives,1,Republican,"Marshall, Roger",20,000090
+LOGAN,Russell Springs Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000100
+LOGAN,Russell Springs Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+LOGAN,Russell Springs Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000100
+LOGAN,Russell Springs Township,United States House of Representatives,1,Republican,"Marshall, Roger",22,000100
+LOGAN,Western Township,United States House of Representatives,1,independent,"LaPolice, Alan",5,000110
+LOGAN,Western Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000110
+LOGAN,Western Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000110
+LOGAN,Western Township,United States House of Representatives,1,Republican,"Marshall, Roger",17,000110
+LOGAN,Winona Township,United States House of Representatives,1,independent,"LaPolice, Alan",19,000120
+LOGAN,Winona Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+LOGAN,Winona Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000120
+LOGAN,Winona Township,United States House of Representatives,1,Republican,"Marshall, Roger",97,000120
+LOGAN,Augustine Township,United States Senate,,write - in,"Smith, DJ",0,000010
+LOGAN,Augustine Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000010
+LOGAN,Augustine Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+LOGAN,Augustine Township,United States Senate,,Republican,"Moran, Jerry",8,000010
+LOGAN,Elkader Township,United States Senate,,write - in,"Smith, DJ",0,000020
+LOGAN,Elkader Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000020
+LOGAN,Elkader Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000020
+LOGAN,Elkader Township,United States Senate,,Republican,"Moran, Jerry",8,000020
+LOGAN,Lees Township,United States Senate,,write - in,"Smith, DJ",0,000030
+LOGAN,Lees Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000030
+LOGAN,Lees Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000030
+LOGAN,Lees Township,United States Senate,,Republican,"Moran, Jerry",5,000030
+LOGAN,Logansport Township,United States Senate,,write - in,"Smith, DJ",0,000040
+LOGAN,Logansport Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000040
+LOGAN,Logansport Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000040
+LOGAN,Logansport Township,United States Senate,,Republican,"Moran, Jerry",4,000040
+LOGAN,McAllaster Township,United States Senate,,write - in,"Smith, DJ",0,000050
+LOGAN,McAllaster Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000050
+LOGAN,McAllaster Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000050
+LOGAN,McAllaster Township,United States Senate,,Republican,"Moran, Jerry",16,000050
+LOGAN,Monument Township,United States Senate,,write - in,"Smith, DJ",0,000060
+LOGAN,Monument Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000060
+LOGAN,Monument Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000060
+LOGAN,Monument Township,United States Senate,,Republican,"Moran, Jerry",67,000060
+LOGAN,Oakley Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000070
+LOGAN,Oakley Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",49,000070
+LOGAN,Oakley Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",19,000070
+LOGAN,Oakley Precinct 1,United States Senate,,Republican,"Moran, Jerry",545,000070
+LOGAN,Oakley Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000080
+LOGAN,Oakley Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",48,000080
+LOGAN,Oakley Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",11,000080
+LOGAN,Oakley Precinct 2,United States Senate,,Republican,"Moran, Jerry",360,000080
+LOGAN,Paxton Township,United States Senate,,write - in,"Smith, DJ",0,000090
+LOGAN,Paxton Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000090
+LOGAN,Paxton Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000090
+LOGAN,Paxton Township,United States Senate,,Republican,"Moran, Jerry",21,000090
+LOGAN,Russell Springs Township,United States Senate,,write - in,"Smith, DJ",0,000100
+LOGAN,Russell Springs Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000100
+LOGAN,Russell Springs Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000100
+LOGAN,Russell Springs Township,United States Senate,,Republican,"Moran, Jerry",24,000100
+LOGAN,Western Township,United States Senate,,write - in,"Smith, DJ",0,000110
+LOGAN,Western Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000110
+LOGAN,Western Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000110
+LOGAN,Western Township,United States Senate,,Republican,"Moran, Jerry",20,000110
+LOGAN,Winona Township,United States Senate,,write - in,"Smith, DJ",0,000120
+LOGAN,Winona Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000120
+LOGAN,Winona Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000120
+LOGAN,Winona Township,United States Senate,,Republican,"Moran, Jerry",119,000120

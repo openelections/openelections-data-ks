@@ -1,105 +1,289 @@
-county,precinct,office,district,party,candidate,votes
-Gray,Cimarron #1 ,President,,LBT,Gary Johnson,7
-Gray,Cimarron #2 ,President,,LBT,Gary Johnson,27
-Gray,Copeland ,President,,LBT,Gary Johnson,8
-Gray,East Hess ,President,,LBT,Gary Johnson,8
-Gray,Foote ,President,,LBT,Gary Johnson,0
-Gray,Ingalls ,President,,LBT,Gary Johnson,5
-Gray,Logan ,President,,LBT,Gary Johnson,3
-Gray,Montezuma ,President,,LBT,Gary Johnson,15
-Gray,Cimarron #1 ,President,,IND,Jill Stein,2
-Gray,Cimarron #2 ,President,,IND,Jill Stein,9
-Gray,Copeland ,President,,IND,Jill Stein,4
-Gray,East Hess ,President,,IND,Jill Stein,7
-Gray,Foote ,President,,IND,Jill Stein,1
-Gray,Ingalls ,President,,IND,Jill Stein,3
-Gray,Logan ,President,,IND,Jill Stein,0
-Gray,Montezuma ,President,,IND,Jill Stein,4
-Gray,Cimarron #1 ,President,,REP,Donald J Trump,220
-Gray,Cimarron #2 ,President,,REP,Donald J Trump,623
-Gray,Copeland ,President,,REP,Donald J Trump,108
-Gray,East Hess ,President,,REP,Donald J Trump,104
-Gray,Foote ,President,,REP,Donald J Trump,40
-Gray,Ingalls ,President,,REP,Donald J Trump,170
-Gray,Logan ,President,,REP,Donald J Trump,100
-Gray,Montezuma ,President,,REP,Donald J Trump,286
-Gray,Cimarron #1 ,President,,DEM,Hillary Clinton,37
-Gray,Cimarron #2 ,President,,DEM,Hillary Clinton,112
-Gray,Copeland ,President,,DEM,Hillary Clinton,11
-Gray,East Hess ,President,,DEM,Hillary Clinton,19
-Gray,Foote ,President,,DEM,Hillary Clinton,5
-Gray,Ingalls ,President,,DEM,Hillary Clinton,26
-Gray,Logan ,President,,DEM,Hillary Clinton,3
-Gray,Montezuma ,President,,DEM,Hillary Clinton,44
-Gray,Cimarron #1 ,U.S. Senate,,REP,Jerry Moran,230
-Gray,Cimarron #2 ,U.S. Senate,,REP,Jerry Moran,653
-Gray,Copeland ,U.S. Senate,,REP,Jerry Moran,119
-Gray,East Hess ,U.S. Senate,,REP,Jerry Moran,105
-Gray,Foote ,U.S. Senate,,REP,Jerry Moran,41
-Gray,Ingalls ,U.S. Senate,,REP,Jerry Moran,170
-Gray,Logan ,U.S. Senate,,REP,Jerry Moran,92
-Gray,Montezuma ,U.S. Senate,,REP,Jerry Moran,297
-Gray,Cimarron #1 ,U.S. Senate,,DEM,Patrick Wiesner,29
-Gray,Cimarron #2 ,U.S. Senate,,DEM,Patrick Wiesner,86
-Gray,Copeland ,U.S. Senate,,DEM,Patrick Wiesner,6
-Gray,East Hess ,U.S. Senate,,DEM,Patrick Wiesner,22
-Gray,Foote ,U.S. Senate,,DEM,Patrick Wiesner,5
-Gray,Ingalls ,U.S. Senate,,DEM,Patrick Wiesner,22
-Gray,Logan ,U.S. Senate,,DEM,Patrick Wiesner,8
-Gray,Montezuma ,U.S. Senate,,DEM,Patrick Wiesner,40
-Gray,Cimarron #1 ,U.S. Senate,,LBT,Robert D. Garrard,6
-Gray,Cimarron #2 ,U.S. Senate,,LBT,Robert D. Garrard,33
-Gray,Copeland ,U.S. Senate,,LBT,Robert D. Garrard,9
-Gray,East Hess ,U.S. Senate,,LBT,Robert D. Garrard,6
-Gray,Foote ,U.S. Senate,,LBT,Robert D. Garrard,1
-Gray,Ingalls ,U.S. Senate,,LBT,Robert D. Garrard,10
-Gray,Logan ,U.S. Senate,,LBT,Robert D. Garrard,5
-Gray,Montezuma ,U.S. Senate,,LBT,Robert D. Garrard,9
-Gray,Cimarron #1 ,U.S. House,1,LBT,Kerry Burt,12
-Gray,Cimarron #2 ,U.S. House,1,LBT,Kerry Burt,38
-Gray,Copeland ,U.S. House,1,LBT,Kerry Burt,2
-Gray,East Hess ,U.S. House,1,LBT,Kerry Burt,8
-Gray,Foote ,U.S. House,1,LBT,Kerry Burt,1
-Gray,Ingalls ,U.S. House,1,LBT,Kerry Burt,14
-Gray,Logan ,U.S. House,1,LBT,Kerry Burt,4
-Gray,Montezuma ,U.S. House,1,LBT,Kerry Burt,11
-Gray,Cimarron #1 ,U.S. House,1,IND,Alan LaPolice,42
-Gray,Cimarron #2 ,U.S. House,1,IND,Alan LaPolice,144
-Gray,Copeland ,U.S. House,1,IND,Alan LaPolice,21
-Gray,East Hess ,U.S. House,1,IND,Alan LaPolice,26
-Gray,Foote ,U.S. House,1,IND,Alan LaPolice,6
-Gray,Ingalls ,U.S. House,1,IND,Alan LaPolice,38
-Gray,Logan ,U.S. House,1,IND,Alan LaPolice,15
-Gray,Montezuma ,U.S. House,1,IND,Alan LaPolice,68
-Gray,Cimarron #1 ,U.S. House,1,REP,Roger Marshall,199
-Gray,Cimarron #2 ,U.S. House,1,REP,Roger Marshall,582
-Gray,Copeland ,U.S. House,1,REP,Roger Marshall,109
-Gray,East Hess ,U.S. House,1,REP,Roger Marshall,97
-Gray,Foote ,U.S. House,1,REP,Roger Marshall,39
-Gray,Ingalls ,U.S. House,1,REP,Roger Marshall,145
-Gray,Logan ,U.S. House,1,REP,Roger Marshall,84
-Gray,Montezuma ,U.S. House,1,REP,Roger Marshall,248
-Gray,Cimarron #1 ,State Senate,38,,Miguel Angel Rodriguez,31
-Gray,Cimarron #2 ,State Senate,38,,Miguel Angel Rodriguez,107
-Gray,Copeland ,State Senate,38,,Miguel Angel Rodriguez,14
-Gray,East Hess ,State Senate,38,,Miguel Angel Rodriguez,19
-Gray,Foote ,State Senate,38,,Miguel Angel Rodriguez,7
-Gray,Ingalls ,State Senate,38,,Miguel Angel Rodriguez,25
-Gray,Logan ,State Senate,38,,Miguel Angel Rodriguez,7
-Gray,Montezuma ,State Senate,38,,Miguel Angel Rodriguez,51
-Gray,Cimarron #1 ,State Senate,38,,Bud Estes,234
-Gray,Cimarron #2 ,State Senate,38,,Bud Estes,651
-Gray,Copeland ,State Senate,38,,Bud Estes,118
-Gray,East Hess ,State Senate,38,,Bud Estes,114
-Gray,Foote ,State Senate,38,,Bud Estes,40
-Gray,Ingalls ,State Senate,38,,Bud Estes,177
-Gray,Logan ,State Senate,38,,Bud Estes,98
-Gray,Montezuma ,State Senate,38,,Bud Estes,285
-Gray,Cimarron #1 ,State House,115,,Boyd Orr,248
-Gray,Cimarron #2 ,State House,115,,Boyd Orr,704
-Gray,Copeland ,State House,115,,Boyd Orr,119
-Gray,East Hess ,State House,115,,Boyd Orr,130
-Gray,Foote ,State House,115,,Boyd Orr,41
-Gray,Ingalls ,State House,115,,Boyd Orr,183
-Gray,Logan ,State House,115,,Boyd Orr,98
-Gray,Montezuma ,State House,115,,Boyd Orr,307
+county,precinct,office,district,party,candidate,votes,vtd
+GRAY,Copeland Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",121,000020
+GRAY,East Hess Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",134,000030
+GRAY,Foote Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",42,000040
+GRAY,Ingalls Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",187,000050
+GRAY,Logan Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",98,000060
+GRAY,Montezuma Township,Kansas House of Representatives,115,Republican,"Orr, Boyd",316,000070
+GRAY,Cimarron Township Precinct 1,Kansas House of Representatives,115,Republican,"Orr, Boyd",252,500010
+GRAY,Cimarron Township Precinct 2,Kansas House of Representatives,115,Republican,"Orr, Boyd",734,500020
+GRAY,Copeland Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",14,000020
+GRAY,Copeland Township,Kansas Senate,38,Republican,"Estes, Bud",121,000020
+GRAY,East Hess Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",20,000030
+GRAY,East Hess Township,Kansas Senate,38,Republican,"Estes, Bud",117,000030
+GRAY,Foote Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",7,000040
+GRAY,Foote Township,Kansas Senate,38,Republican,"Estes, Bud",41,000040
+GRAY,Ingalls Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",25,000050
+GRAY,Ingalls Township,Kansas Senate,38,Republican,"Estes, Bud",181,000050
+GRAY,Logan Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",7,000060
+GRAY,Logan Township,Kansas Senate,38,Republican,"Estes, Bud",98,000060
+GRAY,Montezuma Township,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",51,000070
+GRAY,Montezuma Township,Kansas Senate,38,Republican,"Estes, Bud",294,000070
+GRAY,Cimarron Township Precinct 1,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",31,500010
+GRAY,Cimarron Township Precinct 1,Kansas Senate,38,Republican,"Estes, Bud",238,500010
+GRAY,Cimarron Township Precinct 2,Kansas Senate,38,Democratic,"Rodriguez, Miguel Angel",109,500020
+GRAY,Cimarron Township Precinct 2,Kansas Senate,38,Republican,"Estes, Bud",678,500020
+GRAY,Copeland Township,President / Vice President,,independent,"Stein, Jill",4,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+GRAY,Copeland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+GRAY,Copeland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000020
+GRAY,Copeland Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000020
+GRAY,Copeland Township,President / Vice President,,Republican,"Trump, Donald J.",111,000020
+GRAY,East Hess Township,President / Vice President,,independent,"Stein, Jill",7,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+GRAY,East Hess Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+GRAY,East Hess Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",21,000030
+GRAY,East Hess Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000030
+GRAY,East Hess Township,President / Vice President,,Republican,"Trump, Donald J.",105,000030
+GRAY,Foote Township,President / Vice President,,independent,"Stein, Jill",1,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+GRAY,Foote Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+GRAY,Foote Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000040
+GRAY,Foote Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+GRAY,Foote Township,President / Vice President,,Republican,"Trump, Donald J.",41,000040
+GRAY,Ingalls Township,President / Vice President,,independent,"Stein, Jill",3,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+GRAY,Ingalls Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+GRAY,Ingalls Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000050
+GRAY,Ingalls Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000050
+GRAY,Ingalls Township,President / Vice President,,Republican,"Trump, Donald J.",174,000050
+GRAY,Logan Township,President / Vice President,,independent,"Stein, Jill",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+GRAY,Logan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+GRAY,Logan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000060
+GRAY,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000060
+GRAY,Logan Township,President / Vice President,,Republican,"Trump, Donald J.",100,000060
+GRAY,Montezuma Township,President / Vice President,,independent,"Stein, Jill",4,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+GRAY,Montezuma Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+GRAY,Montezuma Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",44,000070
+GRAY,Montezuma Township,President / Vice President,,Libertarian,"Johnson, Gary",15,000070
+GRAY,Montezuma Township,President / Vice President,,Republican,"Trump, Donald J.",294,000070
+GRAY,Cimarron Township Precinct 1,President / Vice President,,independent,"Stein, Jill",2,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"McMullin, Evan",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",37,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",8,500010
+GRAY,Cimarron Township Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",223,500010
+GRAY,Cimarron Township Precinct 2,President / Vice President,,independent,"Stein, Jill",9,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",116,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",27,500020
+GRAY,Cimarron Township Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",650,500020
+GRAY,Copeland Township,United States House of Representatives,1,independent,"LaPolice, Alan",22,000020
+GRAY,Copeland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+GRAY,Copeland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000020
+GRAY,Copeland Township,United States House of Representatives,1,Republican,"Marshall, Roger",111,000020
+GRAY,East Hess Township,United States House of Representatives,1,independent,"LaPolice, Alan",27,000030
+GRAY,East Hess Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+GRAY,East Hess Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000030
+GRAY,East Hess Township,United States House of Representatives,1,Republican,"Marshall, Roger",99,000030
+GRAY,Foote Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,000040
+GRAY,Foote Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+GRAY,Foote Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000040
+GRAY,Foote Township,United States House of Representatives,1,Republican,"Marshall, Roger",40,000040
+GRAY,Ingalls Township,United States House of Representatives,1,independent,"LaPolice, Alan",38,000050
+GRAY,Ingalls Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+GRAY,Ingalls Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",14,000050
+GRAY,Ingalls Township,United States House of Representatives,1,Republican,"Marshall, Roger",149,000050
+GRAY,Logan Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000060
+GRAY,Logan Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+GRAY,Logan Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000060
+GRAY,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",84,000060
+GRAY,Montezuma Township,United States House of Representatives,1,independent,"LaPolice, Alan",70,000070
+GRAY,Montezuma Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+GRAY,Montezuma Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",11,000070
+GRAY,Montezuma Township,United States House of Representatives,1,Republican,"Marshall, Roger",255,000070
+GRAY,Cimarron Township Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",43,500010
+GRAY,Cimarron Township Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,500010
+GRAY,Cimarron Township Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",12,500010
+GRAY,Cimarron Township Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",202,500010
+GRAY,Cimarron Township Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",151,500020
+GRAY,Cimarron Township Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,500020
+GRAY,Cimarron Township Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",38,500020
+GRAY,Cimarron Township Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",605,500020
+GRAY,Copeland Township,United States Senate,,write - in,"Smith, DJ",0,000020
+GRAY,Copeland Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000020
+GRAY,Copeland Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000020
+GRAY,Copeland Township,United States Senate,,Republican,"Moran, Jerry",122,000020
+GRAY,East Hess Township,United States Senate,,write - in,"Smith, DJ",0,000030
+GRAY,East Hess Township,United States Senate,,Democratic,"Wiesner, Patrick",24,000030
+GRAY,East Hess Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000030
+GRAY,East Hess Township,United States Senate,,Republican,"Moran, Jerry",107,000030
+GRAY,Foote Township,United States Senate,,write - in,"Smith, DJ",0,000040
+GRAY,Foote Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000040
+GRAY,Foote Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000040
+GRAY,Foote Township,United States Senate,,Republican,"Moran, Jerry",41,000040
+GRAY,Ingalls Township,United States Senate,,write - in,"Smith, DJ",0,000050
+GRAY,Ingalls Township,United States Senate,,Democratic,"Wiesner, Patrick",22,000050
+GRAY,Ingalls Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000050
+GRAY,Ingalls Township,United States Senate,,Republican,"Moran, Jerry",174,000050
+GRAY,Logan Township,United States Senate,,write - in,"Smith, DJ",0,000060
+GRAY,Logan Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000060
+GRAY,Logan Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000060
+GRAY,Logan Township,United States Senate,,Republican,"Moran, Jerry",92,000060
+GRAY,Montezuma Township,United States Senate,,write - in,"Smith, DJ",0,000070
+GRAY,Montezuma Township,United States Senate,,Democratic,"Wiesner, Patrick",40,000070
+GRAY,Montezuma Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000070
+GRAY,Montezuma Township,United States Senate,,Republican,"Moran, Jerry",306,000070
+GRAY,Cimarron Township Precinct 1,United States Senate,,write - in,"Smith, DJ",0,500010
+GRAY,Cimarron Township Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",29,500010
+GRAY,Cimarron Township Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",7,500010
+GRAY,Cimarron Township Precinct 1,United States Senate,,Republican,"Moran, Jerry",233,500010
+GRAY,Cimarron Township Precinct 2,United States Senate,,write - in,"Smith, DJ",0,500020
+GRAY,Cimarron Township Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",88,500020
+GRAY,Cimarron Township Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",34,500020
+GRAY,Cimarron Township Precinct 2,United States Senate,,Republican,"Moran, Jerry",681,500020

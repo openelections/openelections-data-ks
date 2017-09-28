@@ -1,571 +1,1581 @@
-county,precinct,office,district,party,candidate,votes
-Ellis,Hays W1P1,President,,LBT,Gary Johnson,27
-Ellis,Hays W1P2,President,,LBT,Gary Johnson,16
-Ellis,Hays W2P1,President,,LBT,Gary Johnson,23
-Ellis,Hays W2P2,President,,LBT,Gary Johnson,19
-Ellis,Hays W2P3,President,,LBT,Gary Johnson,13
-Ellis,Hays W2P4,President,,LBT,Gary Johnson,14
-Ellis,Hays W2P5,President,,LBT,Gary Johnson,11
-Ellis,Hays W3P1,President,,LBT,Gary Johnson,21
-Ellis,Hays W3P2,President,,LBT,Gary Johnson,21
-Ellis,Hays W3P3,President,,LBT,Gary Johnson,18
-Ellis,Hays W3P4,President,,LBT,Gary Johnson,33
-Ellis,Hays W4P1,President,,LBT,Gary Johnson,18
-Ellis,Hays W4P2,President,,LBT,Gary Johnson,25
-Ellis,Hays W4P3,President,,LBT,Gary Johnson,16
-Ellis,Hays W4P4,President,,LBT,Gary Johnson,37
-Ellis,Hays W4P5,President,,LBT,Gary Johnson,29
-Ellis,Ellis W1,President,,LBT,Gary Johnson,7
-Ellis,Ellis W2,President,,LBT,Gary Johnson,7
-Ellis,Ellis W3,President,,LBT,Gary Johnson,10
-Ellis,E Big Creek,President,,LBT,Gary Johnson,18
-Ellis,N Big Creek twp 110,President,,LBT,Gary Johnson,3
-Ellis,N Big Creek twp 111,President,,LBT,Gary Johnson,6
-Ellis,W Big Creek 111,President,,LBT,Gary Johnson,0
-Ellis,W Big Creek 110,President,,LBT,Gary Johnson,2
-Ellis,Buckeye twp,President,,LBT,Gary Johnson,6
-Ellis,Catherine twp,President,,LBT,Gary Johnson,11
-Ellis,Ellis twp,President,,LBT,Gary Johnson,3
-Ellis,Freedom twp,President,,LBT,Gary Johnson,0
-Ellis,Herzog twp 110,President,,LBT,Gary Johnson,3
-Ellis,Herzog twp 111,President,,LBT,Gary Johnson,10
-Ellis,N Lookout twp 110,President,,LBT,Gary Johnson,1
-Ellis,N Lookout twp 111,President,,LBT,Gary Johnson,6
-Ellis,S Lookout twp,President,,LBT,Gary Johnson,3
-Ellis,Victoria twp,President,,LBT,Gary Johnson,20
-Ellis,Wheatland twp,President,,LBT,Gary Johnson,7
-Ellis,Hays W1P1,President,,IND,Jill Stein,12
-Ellis,Hays W1P2,President,,IND,Jill Stein,5
-Ellis,Hays W2P1,President,,IND,Jill Stein,11
-Ellis,Hays W2P2,President,,IND,Jill Stein,8
-Ellis,Hays W2P3,President,,IND,Jill Stein,4
-Ellis,Hays W2P4,President,,IND,Jill Stein,11
-Ellis,Hays W2P5,President,,IND,Jill Stein,5
-Ellis,Hays W3P1,President,,IND,Jill Stein,5
-Ellis,Hays W3P2,President,,IND,Jill Stein,12
-Ellis,Hays W3P3,President,,IND,Jill Stein,14
-Ellis,Hays W3P4,President,,IND,Jill Stein,19
-Ellis,Hays W4P1,President,,IND,Jill Stein,12
-Ellis,Hays W4P2,President,,IND,Jill Stein,17
-Ellis,Hays W4P3,President,,IND,Jill Stein,6
-Ellis,Hays W4P4,President,,IND,Jill Stein,16
-Ellis,Hays W4P5,President,,IND,Jill Stein,12
-Ellis,Ellis W1,President,,IND,Jill Stein,6
-Ellis,Ellis W2,President,,IND,Jill Stein,3
-Ellis,Ellis W3,President,,IND,Jill Stein,8
-Ellis,E Big Creek,President,,IND,Jill Stein,5
-Ellis,N Big Creek twp 110,President,,IND,Jill Stein,1
-Ellis,N Big Creek twp 111,President,,IND,Jill Stein,8
-Ellis,W Big Creek 111,President,,IND,Jill Stein,0
-Ellis,W Big Creek 110,President,,IND,Jill Stein,0
-Ellis,Buckeye twp,President,,IND,Jill Stein,5
-Ellis,Catherine twp,President,,IND,Jill Stein,1
-Ellis,Ellis twp,President,,IND,Jill Stein,6
-Ellis,Freedom twp,President,,IND,Jill Stein,2
-Ellis,Herzog twp 110,President,,IND,Jill Stein,0
-Ellis,Herzog twp 111,President,,IND,Jill Stein,3
-Ellis,N Lookout twp 110,President,,IND,Jill Stein,2
-Ellis,N Lookout twp 111,President,,IND,Jill Stein,1
-Ellis,S Lookout twp,President,,IND,Jill Stein,2
-Ellis,Victoria twp,President,,IND,Jill Stein,11
-Ellis,Wheatland twp,President,,IND,Jill Stein,4
-Ellis,Hays W1P1,President,,R,Donald Trump,96
-Ellis,Hays W1P2,President,,R,Donald Trump,128
-Ellis,Hays W2P1,President,,R,Donald Trump,298
-Ellis,Hays W2P2,President,,R,Donald Trump,192
-Ellis,Hays W2P3,President,,R,Donald Trump,163
-Ellis,Hays W2P4,President,,R,Donald Trump,210
-Ellis,Hays W2P5,President,,R,Donald Trump,175
-Ellis,Hays W3P1,President,,R,Donald Trump,254
-Ellis,Hays W3P2,President,,R,Donald Trump,393
-Ellis,Hays W3P3,President,,R,Donald Trump,498
-Ellis,Hays W3P4,President,,R,Donald Trump,904
-Ellis,Hays W4P1,President,,R,Donald Trump,322
-Ellis,Hays W4P2,President,,R,Donald Trump,358
-Ellis,Hays W4P3,President,,R,Donald Trump,339
-Ellis,Hays W4P4,President,,R,Donald Trump,627
-Ellis,Hays W4P5,President,,R,Donald Trump,513
-Ellis,Ellis W1,President,,R,Donald Trump,213
-Ellis,Ellis W2,President,,R,Donald Trump,318
-Ellis,Ellis W3,President,,R,Donald Trump,148
-Ellis,E Big Creek,President,,R,Donald Trump,343
-Ellis,N Big Creek twp 110,President,,R,Donald Trump,79
-Ellis,N Big Creek twp 111,President,,R,Donald Trump,215
-Ellis,W Big Creek 111,President,,R,Donald Trump,35
-Ellis,W Big Creek 110,President,,R,Donald Trump,32
-Ellis,Buckeye twp,President,,R,Donald Trump,179
-Ellis,Catherine twp,President,,R,Donald Trump,139
-Ellis,Ellis twp,President,,R,Donald Trump,187
-Ellis,Freedom twp,President,,R,Donald Trump,44
-Ellis,Herzog twp 110,President,,R,Donald Trump,119
-Ellis,Herzog twp 111,President,,R,Donald Trump,201
-Ellis,N Lookout twp 110,President,,R,Donald Trump,71
-Ellis,N Lookout twp 111,President,,R,Donald Trump,77
-Ellis,S Lookout twp,President,,R,Donald Trump,106
-Ellis,Victoria twp,President,,R,Donald Trump,328
-Ellis,Wheatland twp,President,,R,Donald Trump,161
-Ellis,Hays W1P1,President,,D,Hillary Clinton,106
-Ellis,Hays W1P2,President,,D,Hillary Clinton,61
-Ellis,Hays W2P1,President,,D,Hillary Clinton,135
-Ellis,Hays W2P2,President,,D,Hillary Clinton,154
-Ellis,Hays W2P3,President,,D,Hillary Clinton,88
-Ellis,Hays W2P4,President,,D,Hillary Clinton,111
-Ellis,Hays W2P5,President,,D,Hillary Clinton,86
-Ellis,Hays W3P1,President,,D,Hillary Clinton,97
-Ellis,Hays W3P2,President,,D,Hillary Clinton,160
-Ellis,Hays W3P3,President,,D,Hillary Clinton,136
-Ellis,Hays W3P4,President,,D,Hillary Clinton,311
-Ellis,Hays W4P1,President,,D,Hillary Clinton,119
-Ellis,Hays W4P2,President,,D,Hillary Clinton,140
-Ellis,Hays W4P3,President,,D,Hillary Clinton,101
-Ellis,Hays W4P4,President,,D,Hillary Clinton,198
-Ellis,Hays W4P5,President,,D,Hillary Clinton,142
-Ellis,Ellis W1,President,,D,Hillary Clinton,56
-Ellis,Ellis W2,President,,D,Hillary Clinton,91
-Ellis,Ellis W3,President,,D,Hillary Clinton,51
-Ellis,E Big Creek,President,,D,Hillary Clinton,60
-Ellis,N Big Creek twp 110,President,,D,Hillary Clinton,16
-Ellis,N Big Creek twp 111,President,,D,Hillary Clinton,50
-Ellis,W Big Creek 111,President,,D,Hillary Clinton,3
-Ellis,W Big Creek 110,President,,D,Hillary Clinton,7
-Ellis,Buckeye twp,President,,D,Hillary Clinton,26
-Ellis,Catherine twp,President,,D,Hillary Clinton,17
-Ellis,Ellis twp,President,,D,Hillary Clinton,35
-Ellis,Freedom twp,President,,D,Hillary Clinton,8
-Ellis,Herzog twp 110,President,,D,Hillary Clinton,9
-Ellis,Herzog twp 111,President,,D,Hillary Clinton,39
-Ellis,N Lookout twp 110,President,,D,Hillary Clinton,8
-Ellis,N Lookout twp 111,President,,D,Hillary Clinton,10
-Ellis,S Lookout twp,President,,D,Hillary Clinton,19
-Ellis,Victoria twp,President,,D,Hillary Clinton,65
-Ellis,Wheatland twp,President,,D,Hillary Clinton,26
-Ellis,Herzog H110,President,,,Darrell Castle,1
-Ellis,Hays W2P5,President,,,Darrell Castle,1
-Ellis,Hays W3P3,President,,,Darrell Castle,5
-Ellis,Hays W2P1,President,,,Evan McMullin,1
-Ellis,Hays W4P2,President,,,Evan McMullin,2
-Ellis,Victoria twp,President,,,Evan McMullin,1
-Ellis,Wheatland twp,President,,,Evan McMullin,1
-Ellis,Hays W1P1,President,,,Evan McMullin,1
-Ellis,Hays W2P2,President,,,Evan McMullin,1
-Ellis,Hays W2P3,President,,,Evan McMullin,1
-Ellis,Hays W2P4,President,,,Evan McMullin,2
-Ellis,Hays W3P1,President,,,Evan McMullin,3
-Ellis,Hays W3P4,President,,,Evan McMullin,1
-Ellis,Hays W4P4,President,,,Evan McMullin,3
-Ellis,N Lookout twp 111,President,,,Evan McMullin,1
-Ellis,Victoria twp,President,,,Evan McMullin,1
-Ellis,Wheatland twp,President,,,Evan McMullin,1
-Ellis,Hays W1P1,President,,,Write-ins,7
-Ellis,Hays W1P2,President,,,Write-ins,4
-Ellis,Hays W2P1,President,,,Write-ins,3
-Ellis,Hays W2P2,President,,,Write-ins,3
-Ellis,Hays W2P3,President,,,Write-ins,2
-Ellis,Hays W2P4,President,,,Write-ins,1
-Ellis,Hays W2P5,President,,,Write-ins,2
-Ellis,Hays W3P1,President,,,Write-ins,5
-Ellis,Hays W3P2,President,,,Write-ins,7
-Ellis,Hays W3P3,President,,,Write-ins,3
-Ellis,Hays W3P4,President,,,Write-ins,14
-Ellis,Hays W4P1,President,,,Write-ins,6
-Ellis,Hays W4P2,President,,,Write-ins,8
-Ellis,Hays W4P3,President,,,Write-ins,7
-Ellis,Hays W4P4,President,,,Write-ins,12
-Ellis,Hays W4P5,President,,,Write-ins,5
-Ellis,Ellis W1,President,,,Write-ins,4
-Ellis,Ellis W2,President,,,Write-ins,3
-Ellis,Ellis W3,President,,,Write-ins,1
-Ellis,E Big Creek,President,,,Write-ins,4
-Ellis,N Big Creek twp 110,President,,,Write-ins,4
-Ellis,N Big Creek twp 111,President,,,Write-ins,5
-Ellis,W Big Creek 111,President,,,Write-ins,0
-Ellis,W Big Creek 110,President,,,Write-ins,0
-Ellis,Buckeye twp,President,,,Write-ins,1
-Ellis,Catherine twp,President,,,Write-ins,0
-Ellis,Ellis twp,President,,,Write-ins,0
-Ellis,Freedom twp,President,,,Write-ins,0
-Ellis,Herzog twp 110,President,,,Write-ins,0
-Ellis,Herzog twp 111,President,,,Write-ins,2
-Ellis,N Lookout twp 110,President,,,Write-ins,0
-Ellis,N Lookout twp 111,President,,,Write-ins,2
-Ellis,S Lookout twp,President,,,Write-ins,2
-Ellis,Victoria twp,President,,,Write-ins,5
-Ellis,Wheatland twp,President,,,Write-ins,3
-Ellis,Hays W1P1,U.S. Senate,,LBT,Robert Garrard,22
-Ellis,Hays W1P2,U.S. Senate,,LBT,Robert Garrard,13
-Ellis,Hays W2P1,U.S. Senate,,LBT,Robert Garrard,19
-Ellis,Hays W2P2,U.S. Senate,,LBT,Robert Garrard,18
-Ellis,Hays W2P3,U.S. Senate,,LBT,Robert Garrard,15
-Ellis,Hays W2P4,U.S. Senate,,LBT,Robert Garrard,21
-Ellis,Hays W2P5,U.S. Senate,,LBT,Robert Garrard,14
-Ellis,Hays W3P1,U.S. Senate,,LBT,Robert Garrard,13
-Ellis,Hays W3P2,U.S. Senate,,LBT,Robert Garrard,10
-Ellis,Hays W3P3,U.S. Senate,,LBT,Robert Garrard,23
-Ellis,Hays W3P4,U.S. Senate,,LBT,Robert Garrard,45
-Ellis,Hays W4P1,U.S. Senate,,LBT,Robert Garrard,21
-Ellis,Hays W4P2,U.S. Senate,,LBT,Robert Garrard,31
-Ellis,Hays W4P3,U.S. Senate,,LBT,Robert Garrard,14
-Ellis,Hays W4P4,U.S. Senate,,LBT,Robert Garrard,25
-Ellis,Hays W4P5,U.S. Senate,,LBT,Robert Garrard,17
-Ellis,Ellis W1,U.S. Senate,,LBT,Robert Garrard,19
-Ellis,Ellis W2,U.S. Senate,,LBT,Robert Garrard,13
-Ellis,Ellis W3,U.S. Senate,,LBT,Robert Garrard,10
-Ellis,E Big Creek,U.S. Senate,,LBT,Robert Garrard,16
-Ellis,N Big Creek twp 110,U.S. Senate,,LBT,Robert Garrard,4
-Ellis,N Big Creek twp 111,U.S. Senate,,LBT,Robert Garrard,8
-Ellis,W Big Creek 111,U.S. Senate,,LBT,Robert Garrard,0
-Ellis,W Big Creek 110,U.S. Senate,,LBT,Robert Garrard,4
-Ellis,Buckeye twp,U.S. Senate,,LBT,Robert Garrard,6
-Ellis,Catherine twp,U.S. Senate,,LBT,Robert Garrard,12
-Ellis,Ellis twp,U.S. Senate,,LBT,Robert Garrard,5
-Ellis,Freedom twp,U.S. Senate,,LBT,Robert Garrard,1
-Ellis,Herzog twp 110,U.S. Senate,,LBT,Robert Garrard,4
-Ellis,Herzog twp 111,U.S. Senate,,LBT,Robert Garrard,10
-Ellis,N Lookout twp 110,U.S. Senate,,LBT,Robert Garrard,0
-Ellis,N Lookout twp 111,U.S. Senate,,LBT,Robert Garrard,2
-Ellis,S Lookout twp,U.S. Senate,,LBT,Robert Garrard,4
-Ellis,Victoria twp,U.S. Senate,,LBT,Robert Garrard,14
-Ellis,Wheatland twp,U.S. Senate,,LBT,Robert Garrard,5
-Ellis,Hays W1P1,U.S. Senate,,R,Jerry Moran,126
-Ellis,Hays W1P2,U.S. Senate,,R,Jerry Moran,136
-Ellis,Hays W2P1,U.S. Senate,,R,Jerry Moran,334
-Ellis,Hays W2P2,U.S. Senate,,R,Jerry Moran,243
-Ellis,Hays W2P3,U.S. Senate,,R,Jerry Moran,178
-Ellis,Hays W2P4,U.S. Senate,,R,Jerry Moran,242
-Ellis,Hays W2P5,U.S. Senate,,R,Jerry Moran,191
-Ellis,Hays W3P1,U.S. Senate,,R,Jerry Moran,311
-Ellis,Hays W3P2,U.S. Senate,,R,Jerry Moran,468
-Ellis,Hays W3P3,U.S. Senate,,R,Jerry Moran,555
-Ellis,Hays W3P4,U.S. Senate,,R,Jerry Moran,1038
-Ellis,Hays W4P1,U.S. Senate,,R,Jerry Moran,359
-Ellis,Hays W4P2,U.S. Senate,,R,Jerry Moran,410
-Ellis,Hays W4P3,U.S. Senate,,R,Jerry Moran,375
-Ellis,Hays W4P4,U.S. Senate,,R,Jerry Moran,704
-Ellis,Hays W4P5,U.S. Senate,,R,Jerry Moran,589
-Ellis,Ellis W1,U.S. Senate,,R,Jerry Moran,188
-Ellis,Ellis W2,U.S. Senate,,R,Jerry Moran,312
-Ellis,Ellis W3,U.S. Senate,,R,Jerry Moran,151
-Ellis,E Big Creek,U.S. Senate,,R,Jerry Moran,371
-Ellis,N Big Creek twp 110,U.S. Senate,,R,Jerry Moran,87
-Ellis,N Big Creek twp 111,U.S. Senate,,R,Jerry Moran,239
-Ellis,W Big Creek 111,U.S. Senate,,R,Jerry Moran,33
-Ellis,W Big Creek 110,U.S. Senate,,R,Jerry Moran,33
-Ellis,Buckeye twp,U.S. Senate,,R,Jerry Moran,190
-Ellis,Catherine twp,U.S. Senate,,R,Jerry Moran,127
-Ellis,Ellis twp,U.S. Senate,,R,Jerry Moran,179
-Ellis,Freedom twp,U.S. Senate,,R,Jerry Moran,45
-Ellis,Herzog twp 110,U.S. Senate,,R,Jerry Moran,118
-Ellis,Herzog twp 111,U.S. Senate,,R,Jerry Moran,207
-Ellis,N Lookout twp 110,U.S. Senate,,R,Jerry Moran,68
-Ellis,N Lookout twp 111,U.S. Senate,,R,Jerry Moran,83
-Ellis,S Lookout twp,U.S. Senate,,R,Jerry Moran,105
-Ellis,Victoria twp,U.S. Senate,,R,Jerry Moran,354
-Ellis,Wheatland twp,U.S. Senate,,R,Jerry Moran,170
-Ellis,Hays W1P1,U.S. Senate,,D,Patrick Wiesner,93
-Ellis,Hays W1P2,U.S. Senate,,D,Patrick Wiesner,64
-Ellis,Hays W2P1,U.S. Senate,,D,Patrick Wiesner,119
-Ellis,Hays W2P2,U.S. Senate,,D,Patrick Wiesner,115
-Ellis,Hays W2P3,U.S. Senate,,D,Patrick Wiesner,74
-Ellis,Hays W2P4,U.S. Senate,,D,Patrick Wiesner,84
-Ellis,Hays W2P5,U.S. Senate,,D,Patrick Wiesner,71
-Ellis,Hays W3P1,U.S. Senate,,D,Patrick Wiesner,63
-Ellis,Hays W3P2,U.S. Senate,,D,Patrick Wiesner,118
-Ellis,Hays W3P3,U.S. Senate,,D,Patrick Wiesner,90
-Ellis,Hays W3P4,U.S. Senate,,D,Patrick Wiesner,210
-Ellis,Hays W4P1,U.S. Senate,,D,Patrick Wiesner,98
-Ellis,Hays W4P2,U.S. Senate,,D,Patrick Wiesner,102
-Ellis,Hays W4P3,U.S. Senate,,D,Patrick Wiesner,74
-Ellis,Hays W4P4,U.S. Senate,,D,Patrick Wiesner,166
-Ellis,Hays W4P5,U.S. Senate,,D,Patrick Wiesner,86
-Ellis,Ellis W1,U.S. Senate,,D,Patrick Wiesner,74
-Ellis,Ellis W2,U.S. Senate,,D,Patrick Wiesner,93
-Ellis,Ellis W3,U.S. Senate,,D,Patrick Wiesner,56
-Ellis,E Big Creek,U.S. Senate,,D,Patrick Wiesner,39
-Ellis,N Big Creek twp 110,U.S. Senate,,D,Patrick Wiesner,11
-Ellis,N Big Creek twp 111,U.S. Senate,,D,Patrick Wiesner,36
-Ellis,W Big Creek 111,U.S. Senate,,D,Patrick Wiesner,3
-Ellis,W Big Creek 110,U.S. Senate,,D,Patrick Wiesner,4
-Ellis,Buckeye twp,U.S. Senate,,D,Patrick Wiesner,22
-Ellis,Catherine twp,U.S. Senate,,D,Patrick Wiesner,28
-Ellis,Ellis twp,U.S. Senate,,D,Patrick Wiesner,47
-Ellis,Freedom twp,U.S. Senate,,D,Patrick Wiesner,6
-Ellis,Herzog twp 110,U.S. Senate,,D,Patrick Wiesner,8
-Ellis,Herzog twp 111,U.S. Senate,,D,Patrick Wiesner,31
-Ellis,N Lookout twp 110,U.S. Senate,,D,Patrick Wiesner,12
-Ellis,N Lookout twp 111,U.S. Senate,,D,Patrick Wiesner,12
-Ellis,S Lookout twp,U.S. Senate,,D,Patrick Wiesner,19
-Ellis,Victoria twp,U.S. Senate,,D,Patrick Wiesner,57
-Ellis,Wheatland twp,U.S. Senate,,D,Patrick Wiesner,26
-Ellis,Hays W3P4,U.S. Senate,,,Write-ins,1
-Ellis,N Lookout twp 110,U.S. Senate,,,Tim Huelskamp,2
-Ellis,Hays W1P1,U.S. House,1,LBT,Kerry Burt,40
-Ellis,Hays W1P2,U.S. House,1,LBT,Kerry Burt,23
-Ellis,Hays W2P1,U.S. House,1,LBT,Kerry Burt,35
-Ellis,Hays W2P2,U.S. House,1,LBT,Kerry Burt,30
-Ellis,Hays W2P3,U.S. House,1,LBT,Kerry Burt,19
-Ellis,Hays W2P4,U.S. House,1,LBT,Kerry Burt,17
-Ellis,Hays W2P5,U.S. House,1,LBT,Kerry Burt,21
-Ellis,Hays W3P1,U.S. House,1,LBT,Kerry Burt,13
-Ellis,Hays W3P2,U.S. House,1,LBT,Kerry Burt,32
-Ellis,Hays W3P3,U.S. House,1,LBT,Kerry Burt,17
-Ellis,Hays W3P4,U.S. House,1,LBT,Kerry Burt,57
-Ellis,Hays W4P1,U.S. House,1,LBT,Kerry Burt,22
-Ellis,Hays W4P2,U.S. House,1,LBT,Kerry Burt,32
-Ellis,Hays W4P3,U.S. House,1,LBT,Kerry Burt,13
-Ellis,Hays W4P4,U.S. House,1,LBT,Kerry Burt,24
-Ellis,Hays W4P5,U.S. House,1,LBT,Kerry Burt,24
-Ellis,Ellis W1,U.S. House,1,LBT,Kerry Burt,13
-Ellis,Ellis W2,U.S. House,1,LBT,Kerry Burt,14
-Ellis,Ellis W3,U.S. House,1,LBT,Kerry Burt,17
-Ellis,E Big Creek,U.S. House,1,LBT,Kerry Burt,15
-Ellis,N Big Creek twp 110,U.S. House,1,LBT,Kerry Burt,2
-Ellis,N Big Creek twp 111,U.S. House,1,LBT,Kerry Burt,7
-Ellis,W Big Creek 111,U.S. House,1,LBT,Kerry Burt,2
-Ellis,W Big Creek 110,U.S. House,1,LBT,Kerry Burt,2
-Ellis,Buckeye twp,U.S. House,1,LBT,Kerry Burt,4
-Ellis,Catherine twp,U.S. House,1,LBT,Kerry Burt,9
-Ellis,Ellis twp,U.S. House,1,LBT,Kerry Burt,8
-Ellis,Freedom twp,U.S. House,1,LBT,Kerry Burt,0
-Ellis,Herzog twp 110,U.S. House,1,LBT,Kerry Burt,2
-Ellis,Herzog twp 111,U.S. House,1,LBT,Kerry Burt,10
-Ellis,N Lookout twp 110,U.S. House,1,LBT,Kerry Burt,0
-Ellis,N Lookout twp 111,U.S. House,1,LBT,Kerry Burt,5
-Ellis,S Lookout twp,U.S. House,1,LBT,Kerry Burt,6
-Ellis,Victoria twp,U.S. House,1,LBT,Kerry Burt,11
-Ellis,Wheatland twp,U.S. House,1,LBT,Kerry Burt,5
-Ellis,Hays W1P1,U.S. House,1,IND,Alan LaPolice,91
-Ellis,Hays W1P2,U.S. House,1,IND,Alan LaPolice,70
-Ellis,Hays W2P1,U.S. House,1,IND,Alan LaPolice,147
-Ellis,Hays W2P2,U.S. House,1,IND,Alan LaPolice,126
-Ellis,Hays W2P3,U.S. House,1,IND,Alan LaPolice,90
-Ellis,Hays W2P4,U.S. House,1,IND,Alan LaPolice,128
-Ellis,Hays W2P5,U.S. House,1,IND,Alan LaPolice,86
-Ellis,Hays W3P1,U.S. House,1,IND,Alan LaPolice,121
-Ellis,Hays W3P2,U.S. House,1,IND,Alan LaPolice,173
-Ellis,Hays W3P3,U.S. House,1,IND,Alan LaPolice,162
-Ellis,Hays W3P4,U.S. House,1,IND,Alan LaPolice,272
-Ellis,Hays W4P1,U.S. House,1,IND,Alan LaPolice,149
-Ellis,Hays W4P2,U.S. House,1,IND,Alan LaPolice,136
-Ellis,Hays W4P3,U.S. House,1,IND,Alan LaPolice,149
-Ellis,Hays W4P4,U.S. House,1,IND,Alan LaPolice,242
-Ellis,Hays W4P5,U.S. House,1,IND,Alan LaPolice,173
-Ellis,Ellis W1,U.S. House,1,IND,Alan LaPolice,65
-Ellis,Ellis W2,U.S. House,1,IND,Alan LaPolice,100
-Ellis,Ellis W3,U.S. House,1,IND,Alan LaPolice,52
-Ellis,E Big Creek,U.S. House,1,IND,Alan LaPolice,91
-Ellis,N Big Creek twp 110,U.S. House,1,IND,Alan LaPolice,16
-Ellis,N Big Creek twp 111,U.S. House,1,IND,Alan LaPolice,63
-Ellis,W Big Creek 111,U.S. House,1,IND,Alan LaPolice,5
-Ellis,W Big Creek 110,U.S. House,1,IND,Alan LaPolice,16
-Ellis,Buckeye twp,U.S. House,1,IND,Alan LaPolice,44
-Ellis,Catherine twp,U.S. House,1,IND,Alan LaPolice,40
-Ellis,Ellis twp,U.S. House,1,IND,Alan LaPolice,50
-Ellis,Freedom twp,U.S. House,1,IND,Alan LaPolice,8
-Ellis,Herzog twp 110,U.S. House,1,IND,Alan LaPolice,31
-Ellis,Herzog twp 111,U.S. House,1,IND,Alan LaPolice,59
-Ellis,N Lookout twp 110,U.S. House,1,IND,Alan LaPolice,28
-Ellis,N Lookout twp 111,U.S. House,1,IND,Alan LaPolice,22
-Ellis,S Lookout twp,U.S. House,1,IND,Alan LaPolice,27
-Ellis,Victoria twp,U.S. House,1,IND,Alan LaPolice,102
-Ellis,Wheatland twp,U.S. House,1,IND,Alan LaPolice,49
-Ellis,Hays W1P1,U.S. House,1,R,Roger Marshall,98
-Ellis,Hays W1P2,U.S. House,1,R,Roger Marshall,109
-Ellis,Hays W2P1,U.S. House,1,R,Roger Marshall,274
-Ellis,Hays W2P2,U.S. House,1,R,Roger Marshall,195
-Ellis,Hays W2P3,U.S. House,1,R,Roger Marshall,154
-Ellis,Hays W2P4,U.S. House,1,R,Roger Marshall,192
-Ellis,Hays W2P5,U.S. House,1,R,Roger Marshall,159
-Ellis,Hays W3P1,U.S. House,1,R,Roger Marshall,232
-Ellis,Hays W3P2,U.S. House,1,R,Roger Marshall,372
-Ellis,Hays W3P3,U.S. House,1,R,Roger Marshall,470
-Ellis,Hays W3P4,U.S. House,1,R,Roger Marshall,895
-Ellis,Hays W4P1,U.S. House,1,R,Roger Marshall,294
-Ellis,Hays W4P2,U.S. House,1,R,Roger Marshall,361
-Ellis,Hays W4P3,U.S. House,1,R,Roger Marshall,287
-Ellis,Hays W4P4,U.S. House,1,R,Roger Marshall,594
-Ellis,Hays W4P5,U.S. House,1,R,Roger Marshall,465
-Ellis,Ellis W1,U.S. House,1,R,Roger Marshall,194
-Ellis,Ellis W2,U.S. House,1,R,Roger Marshall,291
-Ellis,Ellis W3,U.S. House,1,R,Roger Marshall,138
-Ellis,E Big Creek,U.S. House,1,R,Roger Marshall,310
-Ellis,N Big Creek twp 110,U.S. House,1,R,Roger Marshall,83
-Ellis,N Big Creek twp 111,U.S. House,1,R,Roger Marshall,205
-Ellis,W Big Creek 111,U.S. House,1,R,Roger Marshall,30
-Ellis,W Big Creek 110,U.S. House,1,R,Roger Marshall,22
-Ellis,Buckeye twp,U.S. House,1,R,Roger Marshall,162
-Ellis,Catherine twp,U.S. House,1,R,Roger Marshall,110
-Ellis,Ellis twp,U.S. House,1,R,Roger Marshall,171
-Ellis,Freedom twp,U.S. House,1,R,Roger Marshall,40
-Ellis,Herzog twp 110,U.S. House,1,R,Roger Marshall,94
-Ellis,Herzog twp 111,U.S. House,1,R,Roger Marshall,175
-Ellis,N Lookout twp 110,U.S. House,1,R,Roger Marshall,50
-Ellis,N Lookout twp 111,U.S. House,1,R,Roger Marshall,66
-Ellis,S Lookout twp,U.S. House,1,R,Roger Marshall,94
-Ellis,Victoria twp,U.S. House,1,R,Roger Marshall,294
-Ellis,Wheatland twp,U.S. House,1,R,Roger Marshall,139
-Ellis,Hays W1P1,U.S. House,1,,Write-ins,1
-Ellis,Hays W1P2,U.S. House,1,,Write-ins,0
-Ellis,Hays W2P1,U.S. House,1,,Write-ins,0
-Ellis,Hays W2P2,U.S. House,1,,Write-ins,2
-Ellis,Hays W2P3,U.S. House,1,,Write-ins,0
-Ellis,Hays W2P4,U.S. House,1,,Write-ins,2
-Ellis,Hays W2P5,U.S. House,1,,Write-ins,0
-Ellis,Hays W3P1,U.S. House,1,,Write-ins,0
-Ellis,Hays W3P2,U.S. House,1,,Write-ins,3
-Ellis,Hays W3P3,U.S. House,1,,Write-ins,2
-Ellis,Hays W3P4,U.S. House,1,,Write-ins,4
-Ellis,Hays W4P1,U.S. House,1,,Write-ins,0
-Ellis,Hays W4P2,U.S. House,1,,Write-ins,0
-Ellis,Hays W4P3,U.S. House,1,,Write-ins,0
-Ellis,Hays W4P4,U.S. House,1,,Write-ins,3
-Ellis,Hays W4P5,U.S. House,1,,Write-ins,1
-Ellis,Ellis W1,U.S. House,1,,Write-ins,3
-Ellis,Ellis W2,U.S. House,1,,Write-ins,1
-Ellis,Ellis W3,U.S. House,1,,Write-ins,0
-Ellis,Herzog twp 111,U.S. House,1,,Write-ins,1
-Ellis,N Lookout twp 110,U.S. House,1,,Write-ins,2
-Ellis,Hays W1P1,State Senate,40,R,Rick Billinger,82
-Ellis,Hays W1P2,State Senate,40,R,Rick Billinger,86
-Ellis,Hays W2P1,State Senate,40,R,Rick Billinger,238
-Ellis,Hays W2P2,State Senate,40,R,Rick Billinger,166
-Ellis,Hays W2P3,State Senate,40,R,Rick Billinger,132
-Ellis,Hays W2P4,State Senate,40,R,Rick Billinger,160
-Ellis,Hays W2P5,State Senate,40,R,Rick Billinger,129
-Ellis,Hays W3P1,State Senate,40,R,Rick Billinger,205
-Ellis,Hays W3P2,State Senate,40,R,Rick Billinger,320
-Ellis,Hays W3P3,State Senate,40,R,Rick Billinger,384
-Ellis,Hays W3P4,State Senate,40,R,Rick Billinger,753
-Ellis,Hays W4P1,State Senate,40,R,Rick Billinger,255
-Ellis,Hays W4P2,State Senate,40,R,Rick Billinger,275
-Ellis,Hays W4P3,State Senate,40,R,Rick Billinger,266
-Ellis,Hays W4P4,State Senate,40,R,Rick Billinger,470
-Ellis,Hays W4P5,State Senate,40,R,Rick Billinger,410
-Ellis,Ellis W1,State Senate,40,R,Rick Billinger,168
-Ellis,Ellis W2,State Senate,40,R,Rick Billinger,236
-Ellis,Ellis W3,State Senate,40,R,Rick Billinger,102
-Ellis,E Big Creek,State Senate,40,R,Rick Billinger,279
-Ellis,N Big Creek twp 110,State Senate,40,R,Rick Billinger,69
-Ellis,N Big Creek twp 111,State Senate,40,R,Rick Billinger,177
-Ellis,W Big Creek 111,State Senate,40,R,Rick Billinger,28
-Ellis,W Big Creek 110,State Senate,40,R,Rick Billinger,25
-Ellis,Buckeye twp,State Senate,40,R,Rick Billinger,145
-Ellis,Catherine twp,State Senate,40,R,Rick Billinger,96
-Ellis,Ellis twp,State Senate,40,R,Rick Billinger,145
-Ellis,Freedom twp,State Senate,40,R,Rick Billinger,34
-Ellis,Herzog twp 110,State Senate,40,R,Rick Billinger,91
-Ellis,Herzog twp 111,State Senate,40,R,Rick Billinger,144
-Ellis,N Lookout twp 110,State Senate,40,R,Rick Billinger,54
-Ellis,N Lookout twp 111,State Senate,40,R,Rick Billinger,52
-Ellis,S Lookout twp,State Senate,40,R,Rick Billinger,82
-Ellis,Victoria twp,State Senate,40,R,Rick Billinger,266
-Ellis,Wheatland twp,State Senate,40,R,Rick Billinger,122
-Ellis,Hays W1P1,State Senate,40,D,Alex Herman,152
-Ellis,Hays W1P2,State Senate,40,D,Alex Herman,118
-Ellis,Hays W2P1,State Senate,40,D,Alex Herman,222
-Ellis,Hays W2P2,State Senate,40,D,Alex Herman,204
-Ellis,Hays W2P3,State Senate,40,D,Alex Herman,134
-Ellis,Hays W2P4,State Senate,40,D,Alex Herman,184
-Ellis,Hays W2P5,State Senate,40,D,Alex Herman,145
-Ellis,Hays W3P1,State Senate,40,D,Alex Herman,173
-Ellis,Hays W3P2,State Senate,40,D,Alex Herman,268
-Ellis,Hays W3P3,State Senate,40,D,Alex Herman,270
-Ellis,Hays W3P4,State Senate,40,D,Alex Herman,497
-Ellis,Hays W4P1,State Senate,40,D,Alex Herman,216
-Ellis,Hays W4P2,State Senate,40,D,Alex Herman,261
-Ellis,Hays W4P3,State Senate,40,D,Alex Herman,186
-Ellis,Hays W4P4,State Senate,40,D,Alex Herman,403
-Ellis,Hays W4P5,State Senate,40,D,Alex Herman,267
-Ellis,Ellis W1,State Senate,40,D,Alex Herman,108
-Ellis,Ellis W2,State Senate,40,D,Alex Herman,170
-Ellis,Ellis W3,State Senate,40,D,Alex Herman,107
-Ellis,E Big Creek,State Senate,40,D,Alex Herman,132
-Ellis,N Big Creek twp 110,State Senate,40,D,Alex Herman,30
-Ellis,N Big Creek twp 111,State Senate,40,D,Alex Herman,97
-Ellis,W Big Creek 111,State Senate,40,D,Alex Herman,9
-Ellis,W Big Creek 110,State Senate,40,D,Alex Herman,14
-Ellis,Buckeye twp,State Senate,40,D,Alex Herman,65
-Ellis,Catherine twp,State Senate,40,D,Alex Herman,59
-Ellis,Ellis twp,State Senate,40,D,Alex Herman,80
-Ellis,Freedom twp,State Senate,40,D,Alex Herman,17
-Ellis,Herzog twp 110,State Senate,40,D,Alex Herman,37
-Ellis,Herzog twp 111,State Senate,40,D,Alex Herman,105
-Ellis,N Lookout twp 110,State Senate,40,D,Alex Herman,27
-Ellis,N Lookout twp 111,State Senate,40,D,Alex Herman,43
-Ellis,S Lookout twp,State Senate,40,D,Alex Herman,50
-Ellis,Victoria twp,State Senate,40,D,Alex Herman,153
-Ellis,Wheatland twp,State Senate,40,D,Alex Herman,80
-Ellis,Hays W3P4,State Senate,40,,Write-ins,2
-Ellis,Ellis W1,State Senate,40,,Write-ins,1
-Ellis,Hays W1P1,State House,111,R,Sue Ellen Boldra,86
-Ellis,Hays W1P2,State House,111,R,Sue Ellen Boldra,92
-Ellis,Hays W2P1,State House,111,R,Sue Ellen Boldra,202
-Ellis,Hays W2P2,State House,111,R,Sue Ellen Boldra,144
-Ellis,Hays W2P3,State House,111,R,Sue Ellen Boldra,114
-Ellis,Hays W2P4,State House,111,R,Sue Ellen Boldra,135
-Ellis,Hays W2P5,State House,111,R,Sue Ellen Boldra,108
-Ellis,Hays W3P1,State House,111,R,Sue Ellen Boldra,173
-Ellis,Hays W3P2,State House,111,R,Sue Ellen Boldra,266
-Ellis,Hays W3P3,State House,111,R,Sue Ellen Boldra,302
-Ellis,Hays W3P4,State House,111,R,Sue Ellen Boldra,646
-Ellis,Hays W4P1,State House,111,R,Sue Ellen Boldra,233
-Ellis,Hays W4P2,State House,111,R,Sue Ellen Boldra,220
-Ellis,Hays W4P3,State House,111,R,Sue Ellen Boldra,205
-Ellis,Hays W4P4,State House,111,R,Sue Ellen Boldra,393
-Ellis,Hays W4P5,State House,111,R,Sue Ellen Boldra,319
-Ellis,Ellis W1,State House,110,R,Ken Rahjes,237
-Ellis,Ellis W2,State House,110,R,Ken Rahjes,352
-Ellis,Ellis W3,State House,110,R,Ken Rahjes,176
-Ellis,E Big Creek,State House,111,R,Sue Ellen Boldra,250
-Ellis,N Big Creek twp 110,State House,110,R,Ken Rahjes,89
-Ellis,N Big Creek twp 111,State House,111,R,Sue Ellen Boldra,148
-Ellis,W Big Creek 111,State House,111,R,Sue Ellen Boldra,23
-Ellis,W Big Creek 110,State House,110,R,Ken Rahjes,33
-Ellis,Buckeye twp,State House,110,R,Ken Rahjes,180
-Ellis,Catherine twp,State House,110,R,Ken Rahjes,107
-Ellis,Ellis twp,State House,110,R,Ken Rahjes,194
-Ellis,Freedom twp,State House,111,R,Sue Ellen Boldra,32
-Ellis,Herzog twp 110,State House,110,R,Ken Rahjes,114
-Ellis,Herzog twp 111,State House,111,R,Sue Ellen Boldra,117
-Ellis,N Lookout twp 110,State House,110,R,Ken Rahjes,76
-Ellis,N Lookout twp 111,State House,111,R,Sue Ellen Boldra,52
-Ellis,S Lookout twp,State House,110,R,Ken Rahjes,96
-Ellis,Victoria twp,State House,111,R,Sue Ellen Boldra,222
-Ellis,Wheatland twp,State House,111,R,Sue Ellen Boldra,116
-Ellis,Hays W1P1,State House,111,D,Eber Phelps,149
-Ellis,Hays W1P2,State House,111,D,Eber Phelps,114
-Ellis,Hays W2P1,State House,111,D,Eber Phelps,266
-Ellis,Hays W2P2,State House,111,D,Eber Phelps,224
-Ellis,Hays W2P3,State House,111,D,Eber Phelps,155
-Ellis,Hays W2P4,State House,111,D,Eber Phelps,204
-Ellis,Hays W2P5,State House,111,D,Eber Phelps,166
-Ellis,Hays W3P1,State House,111,D,Eber Phelps,210
-Ellis,Hays W3P2,State House,111,D,Eber Phelps,328
-Ellis,Hays W3P3,State House,111,D,Eber Phelps,365
-Ellis,Hays W3P4,State House,111,D,Eber Phelps,631
-Ellis,Hays W4P1,State House,111,D,Eber Phelps,241
-Ellis,Hays W4P2,State House,111,D,Eber Phelps,328
-Ellis,Hays W4P3,State House,111,D,Eber Phelps,257
-Ellis,Hays W4P4,State House,111,D,Eber Phelps,500
-Ellis,Hays W4P5,State House,111,D,Eber Phelps,369
-Ellis,E Big Creek,State House,111,D,Eber Phelps,168
-Ellis,N Big Creek twp 111,State House,111,D,Eber Phelps,132
-Ellis,W Big Creek 111,State House,111,D,Eber Phelps,14
-Ellis,Freedom twp,State House,111,D,Eber Phelps,21
-Ellis,Herzog twp 111,State House,111,D,Eber Phelps,128
-Ellis,N Lookout twp 111,State House,111,D,Eber Phelps,45
-Ellis,Victoria twp,State House,111,D,Eber Phelps,206
-Ellis,Wheatland twp,State House,111,D,Eber Phelps,87
-Ellis,Victoria twp,State House,111,,Write-ins,1
-Ellis,Hays W3P2,State House,111,,Write-ins,2
-Ellis,Hays W3P3,State House,111,,Write-ins,2
-Ellis,Hays W3P4,State House,111,,Write-ins,1
-Ellis,Hays W4P1,State House,111,,Write-ins,1
-Ellis,Hays W4P2,State House,111,,Write-ins,1
-Ellis,Hays W4P3,State House,111,,Write-ins,2
-Ellis,Hays W4P5,State House,111,,Write-ins,1
-Ellis,Ellis W1,State House,110,,Write-ins,3
-Ellis,Ellis W2,State House,110,,Write-ins,4
-Ellis,Ellis W3,State House,110,,Write-ins,3
-Ellis,N Big Creek twp 110,State House,110,,Write-ins,1
-Ellis,Catherine twp,State House,110,,Write-ins,1
-Ellis,Victoria twp,State House,110,,Write-ins,1
+county,precinct,office,district,party,candidate,votes,vtd
+ELLIS,Buckeye Township,Kansas House of Representatives,110,Republican,"Rahjes, Ken",180,000010
+ELLIS,Catherine Township,Kansas House of Representatives,110,Republican,"Rahjes, Ken",107,000020
+ELLIS,East Big Creek Township,Kansas House of Representatives,111,Democratic,"Phelps, Eber",168,000030
+ELLIS,East Big Creek Township,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",250,000030
+ELLIS,Ellis Township,Kansas House of Representatives,110,Republican,"Rahjes, Ken",194,000040
+ELLIS,Ellis Ward 1,Kansas House of Representatives,110,Republican,"Rahjes, Ken",237,000050
+ELLIS,Ellis Ward 2,Kansas House of Representatives,110,Republican,"Rahjes, Ken",352,000060
+ELLIS,Ellis Ward 3,Kansas House of Representatives,110,Republican,"Rahjes, Ken",176,000070
+ELLIS,Freedom Township,Kansas House of Representatives,111,Democratic,"Phelps, Eber",21,000080
+ELLIS,Freedom Township,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",32,000080
+ELLIS,Hays Ward 1 Precinct 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",149,000090
+ELLIS,Hays Ward 1 Precinct 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",86,000090
+ELLIS,Hays Ward 1 Precinct 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",114,00010A
+ELLIS,Hays Ward 1 Precinct 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",92,00010A
+ELLIS,Hays Ward 2 Precinct 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",266,000110
+ELLIS,Hays Ward 2 Precinct 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",202,000110
+ELLIS,Hays Ward 2 Precinct 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",224,000120
+ELLIS,Hays Ward 2 Precinct 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",144,000120
+ELLIS,Hays Ward 2 Precinct 3,Kansas House of Representatives,111,Democratic,"Phelps, Eber",155,000130
+ELLIS,Hays Ward 2 Precinct 3,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",114,000130
+ELLIS,Hays Ward 2 Precinct 4,Kansas House of Representatives,111,Democratic,"Phelps, Eber",204,000140
+ELLIS,Hays Ward 2 Precinct 4,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",135,000140
+ELLIS,Hays Ward 2 Precinct 5,Kansas House of Representatives,111,Democratic,"Phelps, Eber",166,000150
+ELLIS,Hays Ward 2 Precinct 5,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",108,000150
+ELLIS,Hays Ward 3 Precinct 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",210,00016A
+ELLIS,Hays Ward 3 Precinct 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",173,00016A
+ELLIS,Hays Ward 3 Precinct 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",328,000170
+ELLIS,Hays Ward 3 Precinct 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",266,000170
+ELLIS,Hays Ward 3 Precinct 3,Kansas House of Representatives,111,Democratic,"Phelps, Eber",365,000180
+ELLIS,Hays Ward 3 Precinct 3,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",302,000180
+ELLIS,Hays Ward 3 Precinct 4,Kansas House of Representatives,111,Democratic,"Phelps, Eber",631,00019A
+ELLIS,Hays Ward 3 Precinct 4,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",646,00019A
+ELLIS,Hays Ward 4 Precinct 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",241,000200
+ELLIS,Hays Ward 4 Precinct 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",233,000200
+ELLIS,Hays Ward 4 Precinct 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",328,00021A
+ELLIS,Hays Ward 4 Precinct 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",220,00021A
+ELLIS,Hays Ward 4 Precinct 3,Kansas House of Representatives,111,Democratic,"Phelps, Eber",257,000220
+ELLIS,Hays Ward 4 Precinct 3,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",205,000220
+ELLIS,Hays Ward 4 Precinct 4,Kansas House of Representatives,111,Democratic,"Phelps, Eber",500,000230
+ELLIS,Hays Ward 4 Precinct 4,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",393,000230
+ELLIS,Hays Ward 4 Precinct 5,Kansas House of Representatives,111,Democratic,"Phelps, Eber",369,000240
+ELLIS,Hays Ward 4 Precinct 5,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",319,000240
+ELLIS,South Lookout Township,Kansas House of Representatives,110,Republican,"Rahjes, Ken",96,000280
+ELLIS,Victoria Township,Kansas House of Representatives,111,Democratic,"Phelps, Eber",206,000290
+ELLIS,Victoria Township,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",222,000290
+ELLIS,Wheatland Township,Kansas House of Representatives,111,Democratic,"Phelps, Eber",87,000310
+ELLIS,Wheatland Township,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",116,000310
+ELLIS,Herzog Township H110,Kansas House of Representatives,110,Republican,"Rahjes, Ken",114,120020
+ELLIS,Herzog Township H111,Kansas House of Representatives,111,Democratic,"Phelps, Eber",128,120030
+ELLIS,Herzog Township H111,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",117,120030
+ELLIS,North Big Creek Township H110,Kansas House of Representatives,110,Republican,"Rahjes, Ken",89,120040
+ELLIS,North Big Creek Township H111,Kansas House of Representatives,111,Democratic,"Phelps, Eber",132,120050
+ELLIS,North Big Creek Township H111,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",148,120050
+ELLIS,North Lookout Township H110,Kansas House of Representatives,110,Republican,"Rahjes, Ken",76,120060
+ELLIS,North Lookout Township H111,Kansas House of Representatives,111,Democratic,"Phelps, Eber",45,120070
+ELLIS,North Lookout Township H111,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",52,120070
+ELLIS,West Big Creek Township H110,Kansas House of Representatives,110,Republican,"Rahjes, Ken",33,120080
+ELLIS,West Big Creek Township H111,Kansas House of Representatives,111,Democratic,"Phelps, Eber",14,120090
+ELLIS,West Big Creek Township H111,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",23,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900040
+ELLIS,North Big Creek Township Enclave 1,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900050
+ELLIS,North Big Creek Township Enclave 1,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900050
+ELLIS,North Big Creek Township Enclave 2,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900060
+ELLIS,North Big Creek Township Enclave 2,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900060
+ELLIS,North Big Creek Township Enclave 3,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900070
+ELLIS,North Big Creek Township Enclave 3,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900070
+ELLIS,North Big Creek Township Enclave 4,Kansas House of Representatives,111,Democratic,"Phelps, Eber",0,900080
+ELLIS,North Big Creek Township Enclave 4,Kansas House of Representatives,111,Republican,"Boldra, Sue Ellen",0,900080
+ELLIS,Buckeye Township,Kansas Senate,40,Democratic,"Herman, Alex",65,000010
+ELLIS,Buckeye Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",145,000010
+ELLIS,Catherine Township,Kansas Senate,40,Democratic,"Herman, Alex",59,000020
+ELLIS,Catherine Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",96,000020
+ELLIS,East Big Creek Township,Kansas Senate,40,Democratic,"Herman, Alex",132,000030
+ELLIS,East Big Creek Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",279,000030
+ELLIS,Ellis Township,Kansas Senate,40,Democratic,"Herman, Alex",80,000040
+ELLIS,Ellis Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",145,000040
+ELLIS,Ellis Ward 1,Kansas Senate,40,Democratic,"Herman, Alex",108,000050
+ELLIS,Ellis Ward 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",168,000050
+ELLIS,Ellis Ward 2,Kansas Senate,40,Democratic,"Herman, Alex",170,000060
+ELLIS,Ellis Ward 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",236,000060
+ELLIS,Ellis Ward 3,Kansas Senate,40,Democratic,"Herman, Alex",107,000070
+ELLIS,Ellis Ward 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",102,000070
+ELLIS,Freedom Township,Kansas Senate,40,Democratic,"Herman, Alex",17,000080
+ELLIS,Freedom Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",34,000080
+ELLIS,Hays Ward 1 Precinct 1,Kansas Senate,40,Democratic,"Herman, Alex",152,000090
+ELLIS,Hays Ward 1 Precinct 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",82,000090
+ELLIS,Hays Ward 1 Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",118,00010A
+ELLIS,Hays Ward 1 Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",86,00010A
+ELLIS,Hays Ward 2 Precinct 1,Kansas Senate,40,Democratic,"Herman, Alex",222,000110
+ELLIS,Hays Ward 2 Precinct 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",238,000110
+ELLIS,Hays Ward 2 Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",204,000120
+ELLIS,Hays Ward 2 Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",166,000120
+ELLIS,Hays Ward 2 Precinct 3,Kansas Senate,40,Democratic,"Herman, Alex",134,000130
+ELLIS,Hays Ward 2 Precinct 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",132,000130
+ELLIS,Hays Ward 2 Precinct 4,Kansas Senate,40,Democratic,"Herman, Alex",184,000140
+ELLIS,Hays Ward 2 Precinct 4,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",160,000140
+ELLIS,Hays Ward 2 Precinct 5,Kansas Senate,40,Democratic,"Herman, Alex",145,000150
+ELLIS,Hays Ward 2 Precinct 5,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",129,000150
+ELLIS,Hays Ward 3 Precinct 1,Kansas Senate,40,Democratic,"Herman, Alex",173,00016A
+ELLIS,Hays Ward 3 Precinct 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",205,00016A
+ELLIS,Hays Ward 3 Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",268,000170
+ELLIS,Hays Ward 3 Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",320,000170
+ELLIS,Hays Ward 3 Precinct 3,Kansas Senate,40,Democratic,"Herman, Alex",270,000180
+ELLIS,Hays Ward 3 Precinct 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",384,000180
+ELLIS,Hays Ward 3 Precinct 4,Kansas Senate,40,Democratic,"Herman, Alex",497,00019A
+ELLIS,Hays Ward 3 Precinct 4,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",753,00019A
+ELLIS,Hays Ward 4 Precinct 1,Kansas Senate,40,Democratic,"Herman, Alex",216,000200
+ELLIS,Hays Ward 4 Precinct 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",255,000200
+ELLIS,Hays Ward 4 Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",261,00021A
+ELLIS,Hays Ward 4 Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",275,00021A
+ELLIS,Hays Ward 4 Precinct 3,Kansas Senate,40,Democratic,"Herman, Alex",186,000220
+ELLIS,Hays Ward 4 Precinct 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",266,000220
+ELLIS,Hays Ward 4 Precinct 4,Kansas Senate,40,Democratic,"Herman, Alex",403,000230
+ELLIS,Hays Ward 4 Precinct 4,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",470,000230
+ELLIS,Hays Ward 4 Precinct 5,Kansas Senate,40,Democratic,"Herman, Alex",267,000240
+ELLIS,Hays Ward 4 Precinct 5,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",410,000240
+ELLIS,South Lookout Township,Kansas Senate,40,Democratic,"Herman, Alex",50,000280
+ELLIS,South Lookout Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",82,000280
+ELLIS,Victoria Township,Kansas Senate,40,Democratic,"Herman, Alex",153,000290
+ELLIS,Victoria Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",266,000290
+ELLIS,Wheatland Township,Kansas Senate,40,Democratic,"Herman, Alex",80,000310
+ELLIS,Wheatland Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",122,000310
+ELLIS,Herzog Township H110,Kansas Senate,40,Democratic,"Herman, Alex",37,120020
+ELLIS,Herzog Township H110,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",91,120020
+ELLIS,Herzog Township H111,Kansas Senate,40,Democratic,"Herman, Alex",105,120030
+ELLIS,Herzog Township H111,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",144,120030
+ELLIS,North Big Creek Township H110,Kansas Senate,40,Democratic,"Herman, Alex",30,120040
+ELLIS,North Big Creek Township H110,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",69,120040
+ELLIS,North Big Creek Township H111,Kansas Senate,40,Democratic,"Herman, Alex",97,120050
+ELLIS,North Big Creek Township H111,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",177,120050
+ELLIS,North Lookout Township H110,Kansas Senate,40,Democratic,"Herman, Alex",27,120060
+ELLIS,North Lookout Township H110,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",54,120060
+ELLIS,North Lookout Township H111,Kansas Senate,40,Democratic,"Herman, Alex",43,120070
+ELLIS,North Lookout Township H111,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",52,120070
+ELLIS,West Big Creek Township H110,Kansas Senate,40,Democratic,"Herman, Alex",14,120080
+ELLIS,West Big Creek Township H110,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",25,120080
+ELLIS,West Big Creek Township H111,Kansas Senate,40,Democratic,"Herman, Alex",9,120090
+ELLIS,West Big Creek Township H111,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",28,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Kansas Senate,40,Democratic,"Herman, Alex",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Kansas Senate,40,Democratic,"Herman, Alex",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Kansas Senate,40,Democratic,"Herman, Alex",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Kansas Senate,40,Democratic,"Herman, Alex",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900040
+ELLIS,North Big Creek Township Enclave 1,Kansas Senate,40,Democratic,"Herman, Alex",0,900050
+ELLIS,North Big Creek Township Enclave 1,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900050
+ELLIS,North Big Creek Township Enclave 2,Kansas Senate,40,Democratic,"Herman, Alex",0,900060
+ELLIS,North Big Creek Township Enclave 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900060
+ELLIS,North Big Creek Township Enclave 3,Kansas Senate,40,Democratic,"Herman, Alex",0,900070
+ELLIS,North Big Creek Township Enclave 3,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900070
+ELLIS,North Big Creek Township Enclave 4,Kansas Senate,40,Democratic,"Herman, Alex",0,900080
+ELLIS,North Big Creek Township Enclave 4,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,900080
+ELLIS,Buckeye Township,President / Vice President,,independent,"Stein, Jill",5,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+ELLIS,Buckeye Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+ELLIS,Buckeye Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000010
+ELLIS,Buckeye Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000010
+ELLIS,Buckeye Township,President / Vice President,,Republican,"Trump, Donald J.",179,000010
+ELLIS,Catherine Township,President / Vice President,,independent,"Stein, Jill",1,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+ELLIS,Catherine Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+ELLIS,Catherine Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000020
+ELLIS,Catherine Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000020
+ELLIS,Catherine Township,President / Vice President,,Republican,"Trump, Donald J.",139,000020
+ELLIS,East Big Creek Township,President / Vice President,,independent,"Stein, Jill",5,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+ELLIS,East Big Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",60,000030
+ELLIS,East Big Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",18,000030
+ELLIS,East Big Creek Township,President / Vice President,,Republican,"Trump, Donald J.",343,000030
+ELLIS,Ellis Township,President / Vice President,,independent,"Stein, Jill",6,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+ELLIS,Ellis Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+ELLIS,Ellis Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000040
+ELLIS,Ellis Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000040
+ELLIS,Ellis Township,President / Vice President,,Republican,"Trump, Donald J.",187,000040
+ELLIS,Ellis Ward 1,President / Vice President,,independent,"Stein, Jill",6,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+ELLIS,Ellis Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",56,000050
+ELLIS,Ellis Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",7,000050
+ELLIS,Ellis Ward 1,President / Vice President,,Republican,"Trump, Donald J.",213,000050
+ELLIS,Ellis Ward 2,President / Vice President,,independent,"Stein, Jill",3,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"McMullin, Evan",1,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+ELLIS,Ellis Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",91,000060
+ELLIS,Ellis Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,000060
+ELLIS,Ellis Ward 2,President / Vice President,,Republican,"Trump, Donald J.",318,000060
+ELLIS,Ellis Ward 3,President / Vice President,,independent,"Stein, Jill",8,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+ELLIS,Ellis Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",51,000070
+ELLIS,Ellis Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",10,000070
+ELLIS,Ellis Ward 3,President / Vice President,,Republican,"Trump, Donald J.",148,000070
+ELLIS,Freedom Township,President / Vice President,,independent,"Stein, Jill",2,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+ELLIS,Freedom Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+ELLIS,Freedom Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000080
+ELLIS,Freedom Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+ELLIS,Freedom Township,President / Vice President,,Republican,"Trump, Donald J.",44,000080
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,independent,"Stein, Jill",12,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",1,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",106,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",27,000090
+ELLIS,Hays Ward 1 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",97,000090
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,independent,"Stein, Jill",5,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",61,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",16,00010A
+ELLIS,Hays Ward 1 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",128,00010A
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,independent,"Stein, Jill",11,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",2,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",135,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",23,000110
+ELLIS,Hays Ward 2 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",298,000110
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,independent,"Stein, Jill",8,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",1,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",154,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",19,000120
+ELLIS,Hays Ward 2 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",192,000120
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,independent,"Stein, Jill",4,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",1,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",88,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",13,000130
+ELLIS,Hays Ward 2 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",163,000130
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,independent,"Stein, Jill",11,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"McMullin, Evan",2,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",111,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",14,000140
+ELLIS,Hays Ward 2 Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",210,000140
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,independent,"Stein, Jill",5,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Hedges, James A",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"McMullin, Evan",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Perry, Darryl",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Smith, Mike",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Sood, Ajay",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,Democratic,"Clinton, Hillary Rodham",86,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,Libertarian,"Johnson, Gary",11,000150
+ELLIS,Hays Ward 2 Precinct 5,President / Vice President,,Republican,"Trump, Donald J.",175,000150
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,independent,"Stein, Jill",5,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",3,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",97,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",21,00016A
+ELLIS,Hays Ward 3 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",254,00016A
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,independent,"Stein, Jill",12,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",160,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",21,000170
+ELLIS,Hays Ward 3 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",393,000170
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,independent,"Stein, Jill",14,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",5,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",136,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",18,000180
+ELLIS,Hays Ward 3 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",498,000180
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,independent,"Stein, Jill",19,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",1,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"McMullin, Evan",2,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",311,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",33,00019A
+ELLIS,Hays Ward 3 Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",904,00019A
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,independent,"Stein, Jill",12,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",1,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",119,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",18,000200
+ELLIS,Hays Ward 4 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",322,000200
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,independent,"Stein, Jill",17,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",2,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",140,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",25,00021A
+ELLIS,Hays Ward 4 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",358,00021A
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,independent,"Stein, Jill",6,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"McMullin, Evan",1,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",102,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",16,000220
+ELLIS,Hays Ward 4 Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",339,000220
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,independent,"Stein, Jill",16,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Hedges, James A",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"McMullin, Evan",3,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Perry, Darryl",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Smith, Mike",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Sood, Ajay",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",198,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",37,000230
+ELLIS,Hays Ward 4 Precinct 4,President / Vice President,,Republican,"Trump, Donald J.",627,000230
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,independent,"Stein, Jill",12,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Hedges, James A",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"McMullin, Evan",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Perry, Darryl",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Smith, Mike",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Sood, Ajay",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,Democratic,"Clinton, Hillary Rodham",142,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,Libertarian,"Johnson, Gary",29,000240
+ELLIS,Hays Ward 4 Precinct 5,President / Vice President,,Republican,"Trump, Donald J.",513,000240
+ELLIS,South Lookout Township,President / Vice President,,independent,"Stein, Jill",2,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Castle, Darrell L",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Giordani, Rocky",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Hedges, James A",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Kahn, Lynn",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"La Riva, Gloria",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Maturen, Michael A",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"McMullin, Evan",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Perry, Darryl",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Schriner, Joe C",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Smith, Mike",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Sood, Ajay",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Sterling, Shawna",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000280
+ELLIS,South Lookout Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000280
+ELLIS,South Lookout Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000280
+ELLIS,South Lookout Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000280
+ELLIS,South Lookout Township,President / Vice President,,Republican,"Trump, Donald J.",106,000280
+ELLIS,Victoria Township,President / Vice President,,independent,"Stein, Jill",11,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Castle, Darrell L",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Giordani, Rocky",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Hedges, James A",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Kahn, Lynn",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"La Riva, Gloria",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Maturen, Michael A",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"McMullin, Evan",5,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Perry, Darryl",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Schriner, Joe C",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Smith, Mike",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Sood, Ajay",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Sterling, Shawna",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000290
+ELLIS,Victoria Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000290
+ELLIS,Victoria Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",65,000290
+ELLIS,Victoria Township,President / Vice President,,Libertarian,"Johnson, Gary",20,000290
+ELLIS,Victoria Township,President / Vice President,,Republican,"Trump, Donald J.",328,000290
+ELLIS,Wheatland Township,President / Vice President,,independent,"Stein, Jill",4,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Hedges, James A",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"McMullin, Evan",2,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Perry, Darryl",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Smith, Mike",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Sood, Ajay",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000310
+ELLIS,Wheatland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000310
+ELLIS,Wheatland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000310
+ELLIS,Wheatland Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000310
+ELLIS,Wheatland Township,President / Vice President,,Republican,"Trump, Donald J.",161,000310
+ELLIS,Herzog Township H110,President / Vice President,,independent,"Stein, Jill",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Basiago, Andrew D.",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Castle, Darrell L",1,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Giordani, Rocky",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Hedges, James A",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Kahn, Lynn",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"La Riva, Gloria",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Levinson, Michael S.",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Maturen, Michael A",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"McMullin, Evan",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Moorehead, Monica G.",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Perry, Darryl",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Schriner, Joe C",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Smith, Mike",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Sood, Ajay",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Sterling, Shawna",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Valdivia, Anthony J",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120020
+ELLIS,Herzog Township H110,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,120020
+ELLIS,Herzog Township H110,President / Vice President,,Libertarian,"Johnson, Gary",3,120020
+ELLIS,Herzog Township H110,President / Vice President,,Republican,"Trump, Donald J.",119,120020
+ELLIS,Herzog Township H111,President / Vice President,,independent,"Stein, Jill",3,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Basiago, Andrew D.",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Castle, Darrell L",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Giordani, Rocky",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Hedges, James A",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Kahn, Lynn",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"La Riva, Gloria",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Levinson, Michael S.",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Maturen, Michael A",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"McMullin, Evan",2,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Moorehead, Monica G.",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Perry, Darryl",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Schriner, Joe C",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Smith, Mike",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Sood, Ajay",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Sterling, Shawna",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Valdivia, Anthony J",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120030
+ELLIS,Herzog Township H111,President / Vice President,,Democratic,"Clinton, Hillary Rodham",39,120030
+ELLIS,Herzog Township H111,President / Vice President,,Libertarian,"Johnson, Gary",10,120030
+ELLIS,Herzog Township H111,President / Vice President,,Republican,"Trump, Donald J.",201,120030
+ELLIS,North Big Creek Township H110,President / Vice President,,independent,"Stein, Jill",1,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Basiago, Andrew D.",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Castle, Darrell L",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Giordani, Rocky",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Hedges, James A",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Kahn, Lynn",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"La Riva, Gloria",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Levinson, Michael S.",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Maturen, Michael A",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"McMullin, Evan",1,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Moorehead, Monica G.",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Perry, Darryl",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Schriner, Joe C",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Smith, Mike",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Sood, Ajay",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Sterling, Shawna",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Valdivia, Anthony J",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,Democratic,"Clinton, Hillary Rodham",16,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,Libertarian,"Johnson, Gary",3,120040
+ELLIS,North Big Creek Township H110,President / Vice President,,Republican,"Trump, Donald J.",79,120040
+ELLIS,North Big Creek Township H111,President / Vice President,,independent,"Stein, Jill",8,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Basiago, Andrew D.",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Castle, Darrell L",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Giordani, Rocky",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Hedges, James A",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Kahn, Lynn",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"La Riva, Gloria",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Levinson, Michael S.",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Maturen, Michael A",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"McMullin, Evan",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Moorehead, Monica G.",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Perry, Darryl",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Schriner, Joe C",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Smith, Mike",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Sood, Ajay",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Sterling, Shawna",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Valdivia, Anthony J",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,Democratic,"Clinton, Hillary Rodham",50,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,Libertarian,"Johnson, Gary",6,120050
+ELLIS,North Big Creek Township H111,President / Vice President,,Republican,"Trump, Donald J.",215,120050
+ELLIS,North Lookout Township H110,President / Vice President,,independent,"Stein, Jill",2,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Basiago, Andrew D.",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Castle, Darrell L",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Giordani, Rocky",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Hedges, James A",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Hoefling, Tom",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Kahn, Lynn",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"La Riva, Gloria",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Levinson, Michael S.",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Maturen, Michael A",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"McMullin, Evan",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Moorehead, Monica G.",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Perry, Darryl",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Schriner, Joe C",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Smith, Mike",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Sood, Ajay",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Sterling, Shawna",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Valdivia, Anthony J",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120060
+ELLIS,North Lookout Township H110,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,120060
+ELLIS,North Lookout Township H110,President / Vice President,,Libertarian,"Johnson, Gary",1,120060
+ELLIS,North Lookout Township H110,President / Vice President,,Republican,"Trump, Donald J.",71,120060
+ELLIS,North Lookout Township H111,President / Vice President,,independent,"Stein, Jill",1,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Basiago, Andrew D.",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Castle, Darrell L",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Giordani, Rocky",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Hedges, James A",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Hoefling, Tom",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Kahn, Lynn",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"La Riva, Gloria",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Levinson, Michael S.",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Maturen, Michael A",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"McMullin, Evan",1,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Moorehead, Monica G.",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Perry, Darryl",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Schriner, Joe C",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Smith, Mike",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Sood, Ajay",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Sterling, Shawna",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Valdivia, Anthony J",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120070
+ELLIS,North Lookout Township H111,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,120070
+ELLIS,North Lookout Township H111,President / Vice President,,Libertarian,"Johnson, Gary",6,120070
+ELLIS,North Lookout Township H111,President / Vice President,,Republican,"Trump, Donald J.",77,120070
+ELLIS,West Big Creek Township H110,President / Vice President,,independent,"Stein, Jill",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Basiago, Andrew D.",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Castle, Darrell L",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Giordani, Rocky",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Hedges, James A",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Hoefling, Tom",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Kahn, Lynn",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"La Riva, Gloria",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Levinson, Michael S.",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Maturen, Michael A",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"McMullin, Evan",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Moorehead, Monica G.",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Perry, Darryl",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Schriner, Joe C",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Smith, Mike",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Sood, Ajay",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Sterling, Shawna",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Valdivia, Anthony J",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,Libertarian,"Johnson, Gary",2,120080
+ELLIS,West Big Creek Township H110,President / Vice President,,Republican,"Trump, Donald J.",32,120080
+ELLIS,West Big Creek Township H111,President / Vice President,,independent,"Stein, Jill",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Basiago, Andrew D.",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Castle, Darrell L",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Giordani, Rocky",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Hedges, James A",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Hoefling, Tom",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Kahn, Lynn",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"La Riva, Gloria",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Levinson, Michael S.",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Maturen, Michael A",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"McMullin, Evan",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Moorehead, Monica G.",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Perry, Darryl",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Schoenke, Marshall R.",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Schriner, Joe C",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Smith, Mike",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Sood, Ajay",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Sterling, Shawna",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Valdivia, Anthony J",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,Libertarian,"Johnson, Gary",0,120090
+ELLIS,West Big Creek Township H111,President / Vice President,,Republican,"Trump, Donald J.",35,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,independent,"Stein, Jill",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Hedges, James A",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Smith, Mike",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,independent,"Stein, Jill",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Hedges, James A",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Smith, Mike",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,independent,"Stein, Jill",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Hedges, James A",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Smith, Mike",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,independent,"Stein, Jill",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Hedges, James A",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Smith, Mike",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900040
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,independent,"Stein, Jill",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Hedges, James A",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Smith, Mike",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900050
+ELLIS,North Big Creek Township Enclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900050
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,independent,"Stein, Jill",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Hedges, James A",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Smith, Mike",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900060
+ELLIS,North Big Creek Township Enclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900060
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,independent,"Stein, Jill",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Castle, Darrell L",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Giordani, Rocky",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Hedges, James A",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Hoefling, Tom",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Kahn, Lynn",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"La Riva, Gloria",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Levinson, Michael S.",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Maturen, Michael A",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"McMullin, Evan",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Perry, Darryl",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Schriner, Joe C",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Smith, Mike",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Sood, Ajay",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Sterling, Shawna",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,Libertarian,"Johnson, Gary",0,900070
+ELLIS,North Big Creek Township Enclave 3,President / Vice President,,Republican,"Trump, Donald J.",0,900070
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,independent,"Stein, Jill",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Castle, Darrell L",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Giordani, Rocky",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Hedges, James A",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Hoefling, Tom",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Kahn, Lynn",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"La Riva, Gloria",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Levinson, Michael S.",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Maturen, Michael A",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"McMullin, Evan",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Perry, Darryl",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Schriner, Joe C",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Smith, Mike",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Sood, Ajay",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Sterling, Shawna",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,Libertarian,"Johnson, Gary",0,900080
+ELLIS,North Big Creek Township Enclave 4,President / Vice President,,Republican,"Trump, Donald J.",0,900080
+ELLIS,Buckeye Township,United States House of Representatives,1,independent,"LaPolice, Alan",44,000010
+ELLIS,Buckeye Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+ELLIS,Buckeye Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000010
+ELLIS,Buckeye Township,United States House of Representatives,1,Republican,"Marshall, Roger",162,000010
+ELLIS,Catherine Township,United States House of Representatives,1,independent,"LaPolice, Alan",40,000020
+ELLIS,Catherine Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+ELLIS,Catherine Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",9,000020
+ELLIS,Catherine Township,United States House of Representatives,1,Republican,"Marshall, Roger",110,000020
+ELLIS,East Big Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",91,000030
+ELLIS,East Big Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+ELLIS,East Big Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",15,000030
+ELLIS,East Big Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",310,000030
+ELLIS,Ellis Township,United States House of Representatives,1,independent,"LaPolice, Alan",50,000040
+ELLIS,Ellis Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+ELLIS,Ellis Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000040
+ELLIS,Ellis Township,United States House of Representatives,1,Republican,"Marshall, Roger",171,000040
+ELLIS,Ellis Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",65,000050
+ELLIS,Ellis Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+ELLIS,Ellis Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,000050
+ELLIS,Ellis Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",194,000050
+ELLIS,Ellis Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",100,000060
+ELLIS,Ellis Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+ELLIS,Ellis Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",14,000060
+ELLIS,Ellis Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",291,000060
+ELLIS,Ellis Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",52,000070
+ELLIS,Ellis Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+ELLIS,Ellis Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",17,000070
+ELLIS,Ellis Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",138,000070
+ELLIS,Freedom Township,United States House of Representatives,1,independent,"LaPolice, Alan",8,000080
+ELLIS,Freedom Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+ELLIS,Freedom Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000080
+ELLIS,Freedom Township,United States House of Representatives,1,Republican,"Marshall, Roger",40,000080
+ELLIS,Hays Ward 1 Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",91,000090
+ELLIS,Hays Ward 1 Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+ELLIS,Hays Ward 1 Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",40,000090
+ELLIS,Hays Ward 1 Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",98,000090
+ELLIS,Hays Ward 1 Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",70,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",23,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",109,00010A
+ELLIS,Hays Ward 2 Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",147,000110
+ELLIS,Hays Ward 2 Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000110
+ELLIS,Hays Ward 2 Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",35,000110
+ELLIS,Hays Ward 2 Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",274,000110
+ELLIS,Hays Ward 2 Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",126,000120
+ELLIS,Hays Ward 2 Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000120
+ELLIS,Hays Ward 2 Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",30,000120
+ELLIS,Hays Ward 2 Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",195,000120
+ELLIS,Hays Ward 2 Precinct 3,United States House of Representatives,1,independent,"LaPolice, Alan",90,000130
+ELLIS,Hays Ward 2 Precinct 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+ELLIS,Hays Ward 2 Precinct 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",19,000130
+ELLIS,Hays Ward 2 Precinct 3,United States House of Representatives,1,Republican,"Marshall, Roger",154,000130
+ELLIS,Hays Ward 2 Precinct 4,United States House of Representatives,1,independent,"LaPolice, Alan",128,000140
+ELLIS,Hays Ward 2 Precinct 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000140
+ELLIS,Hays Ward 2 Precinct 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",17,000140
+ELLIS,Hays Ward 2 Precinct 4,United States House of Representatives,1,Republican,"Marshall, Roger",192,000140
+ELLIS,Hays Ward 2 Precinct 5,United States House of Representatives,1,independent,"LaPolice, Alan",86,000150
+ELLIS,Hays Ward 2 Precinct 5,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+ELLIS,Hays Ward 2 Precinct 5,United States House of Representatives,1,Libertarian,"Burt, Kerry",21,000150
+ELLIS,Hays Ward 2 Precinct 5,United States House of Representatives,1,Republican,"Marshall, Roger",159,000150
+ELLIS,Hays Ward 3 Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",121,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",232,00016A
+ELLIS,Hays Ward 3 Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",173,000170
+ELLIS,Hays Ward 3 Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+ELLIS,Hays Ward 3 Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",32,000170
+ELLIS,Hays Ward 3 Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",372,000170
+ELLIS,Hays Ward 3 Precinct 3,United States House of Representatives,1,independent,"LaPolice, Alan",162,000180
+ELLIS,Hays Ward 3 Precinct 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000180
+ELLIS,Hays Ward 3 Precinct 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",17,000180
+ELLIS,Hays Ward 3 Precinct 3,United States House of Representatives,1,Republican,"Marshall, Roger",470,000180
+ELLIS,Hays Ward 3 Precinct 4,United States House of Representatives,1,independent,"LaPolice, Alan",272,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",57,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States House of Representatives,1,Republican,"Marshall, Roger",895,00019A
+ELLIS,Hays Ward 4 Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",149,000200
+ELLIS,Hays Ward 4 Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+ELLIS,Hays Ward 4 Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",22,000200
+ELLIS,Hays Ward 4 Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",294,000200
+ELLIS,Hays Ward 4 Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",136,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",32,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",361,00021A
+ELLIS,Hays Ward 4 Precinct 3,United States House of Representatives,1,independent,"LaPolice, Alan",149,000220
+ELLIS,Hays Ward 4 Precinct 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000220
+ELLIS,Hays Ward 4 Precinct 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,000220
+ELLIS,Hays Ward 4 Precinct 3,United States House of Representatives,1,Republican,"Marshall, Roger",287,000220
+ELLIS,Hays Ward 4 Precinct 4,United States House of Representatives,1,independent,"LaPolice, Alan",242,000230
+ELLIS,Hays Ward 4 Precinct 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000230
+ELLIS,Hays Ward 4 Precinct 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",24,000230
+ELLIS,Hays Ward 4 Precinct 4,United States House of Representatives,1,Republican,"Marshall, Roger",594,000230
+ELLIS,Hays Ward 4 Precinct 5,United States House of Representatives,1,independent,"LaPolice, Alan",173,000240
+ELLIS,Hays Ward 4 Precinct 5,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000240
+ELLIS,Hays Ward 4 Precinct 5,United States House of Representatives,1,Libertarian,"Burt, Kerry",24,000240
+ELLIS,Hays Ward 4 Precinct 5,United States House of Representatives,1,Republican,"Marshall, Roger",465,000240
+ELLIS,South Lookout Township,United States House of Representatives,1,independent,"LaPolice, Alan",27,000280
+ELLIS,South Lookout Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000280
+ELLIS,South Lookout Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000280
+ELLIS,South Lookout Township,United States House of Representatives,1,Republican,"Marshall, Roger",94,000280
+ELLIS,Victoria Township,United States House of Representatives,1,independent,"LaPolice, Alan",102,000290
+ELLIS,Victoria Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000290
+ELLIS,Victoria Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",11,000290
+ELLIS,Victoria Township,United States House of Representatives,1,Republican,"Marshall, Roger",294,000290
+ELLIS,Wheatland Township,United States House of Representatives,1,independent,"LaPolice, Alan",49,000310
+ELLIS,Wheatland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000310
+ELLIS,Wheatland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000310
+ELLIS,Wheatland Township,United States House of Representatives,1,Republican,"Marshall, Roger",139,000310
+ELLIS,Herzog Township H110,United States House of Representatives,1,independent,"LaPolice, Alan",31,120020
+ELLIS,Herzog Township H110,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120020
+ELLIS,Herzog Township H110,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,120020
+ELLIS,Herzog Township H110,United States House of Representatives,1,Republican,"Marshall, Roger",94,120020
+ELLIS,Herzog Township H111,United States House of Representatives,1,independent,"LaPolice, Alan",59,120030
+ELLIS,Herzog Township H111,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,120030
+ELLIS,Herzog Township H111,United States House of Representatives,1,Libertarian,"Burt, Kerry",10,120030
+ELLIS,Herzog Township H111,United States House of Representatives,1,Republican,"Marshall, Roger",175,120030
+ELLIS,North Big Creek Township H110,United States House of Representatives,1,independent,"LaPolice, Alan",16,120040
+ELLIS,North Big Creek Township H110,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120040
+ELLIS,North Big Creek Township H110,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,120040
+ELLIS,North Big Creek Township H110,United States House of Representatives,1,Republican,"Marshall, Roger",83,120040
+ELLIS,North Big Creek Township H111,United States House of Representatives,1,independent,"LaPolice, Alan",63,120050
+ELLIS,North Big Creek Township H111,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120050
+ELLIS,North Big Creek Township H111,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,120050
+ELLIS,North Big Creek Township H111,United States House of Representatives,1,Republican,"Marshall, Roger",205,120050
+ELLIS,North Lookout Township H110,United States House of Representatives,1,independent,"LaPolice, Alan",28,120060
+ELLIS,North Lookout Township H110,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,120060
+ELLIS,North Lookout Township H110,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,120060
+ELLIS,North Lookout Township H110,United States House of Representatives,1,Republican,"Marshall, Roger",50,120060
+ELLIS,North Lookout Township H111,United States House of Representatives,1,independent,"LaPolice, Alan",22,120070
+ELLIS,North Lookout Township H111,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120070
+ELLIS,North Lookout Township H111,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,120070
+ELLIS,North Lookout Township H111,United States House of Representatives,1,Republican,"Marshall, Roger",66,120070
+ELLIS,West Big Creek Township H110,United States House of Representatives,1,independent,"LaPolice, Alan",16,120080
+ELLIS,West Big Creek Township H110,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120080
+ELLIS,West Big Creek Township H110,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,120080
+ELLIS,West Big Creek Township H110,United States House of Representatives,1,Republican,"Marshall, Roger",22,120080
+ELLIS,West Big Creek Township H111,United States House of Representatives,1,independent,"LaPolice, Alan",5,120090
+ELLIS,West Big Creek Township H111,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,120090
+ELLIS,West Big Creek Township H111,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,120090
+ELLIS,West Big Creek Township H111,United States House of Representatives,1,Republican,"Marshall, Roger",30,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States House of Representatives,1,independent,"LaPolice, Alan",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States House of Representatives,1,Republican,"Marshall, Roger",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States House of Representatives,1,independent,"LaPolice, Alan",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States House of Representatives,1,Republican,"Marshall, Roger",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States House of Representatives,1,independent,"LaPolice, Alan",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States House of Representatives,1,Republican,"Marshall, Roger",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States House of Representatives,1,independent,"LaPolice, Alan",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States House of Representatives,1,Republican,"Marshall, Roger",0,900040
+ELLIS,North Big Creek Township Enclave 1,United States House of Representatives,1,independent,"LaPolice, Alan",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States House of Representatives,1,Republican,"Marshall, Roger",0,900050
+ELLIS,North Big Creek Township Enclave 2,United States House of Representatives,1,independent,"LaPolice, Alan",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States House of Representatives,1,Republican,"Marshall, Roger",0,900060
+ELLIS,North Big Creek Township Enclave 3,United States House of Representatives,1,independent,"LaPolice, Alan",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States House of Representatives,1,Republican,"Marshall, Roger",0,900070
+ELLIS,North Big Creek Township Enclave 4,United States House of Representatives,1,independent,"LaPolice, Alan",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States House of Representatives,1,Republican,"Marshall, Roger",0,900080
+ELLIS,Buckeye Township,United States Senate,,write - in,"Smith, DJ",0,000010
+ELLIS,Buckeye Township,United States Senate,,Democratic,"Wiesner, Patrick",22,000010
+ELLIS,Buckeye Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000010
+ELLIS,Buckeye Township,United States Senate,,Republican,"Moran, Jerry",190,000010
+ELLIS,Catherine Township,United States Senate,,write - in,"Smith, DJ",0,000020
+ELLIS,Catherine Township,United States Senate,,Democratic,"Wiesner, Patrick",28,000020
+ELLIS,Catherine Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000020
+ELLIS,Catherine Township,United States Senate,,Republican,"Moran, Jerry",127,000020
+ELLIS,East Big Creek Township,United States Senate,,write - in,"Smith, DJ",0,000030
+ELLIS,East Big Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",39,000030
+ELLIS,East Big Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",16,000030
+ELLIS,East Big Creek Township,United States Senate,,Republican,"Moran, Jerry",371,000030
+ELLIS,Ellis Township,United States Senate,,write - in,"Smith, DJ",0,000040
+ELLIS,Ellis Township,United States Senate,,Democratic,"Wiesner, Patrick",47,000040
+ELLIS,Ellis Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000040
+ELLIS,Ellis Township,United States Senate,,Republican,"Moran, Jerry",179,000040
+ELLIS,Ellis Ward 1,United States Senate,,write - in,"Smith, DJ",0,000050
+ELLIS,Ellis Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",74,000050
+ELLIS,Ellis Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",19,000050
+ELLIS,Ellis Ward 1,United States Senate,,Republican,"Moran, Jerry",188,000050
+ELLIS,Ellis Ward 2,United States Senate,,write - in,"Smith, DJ",0,000060
+ELLIS,Ellis Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",93,000060
+ELLIS,Ellis Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",13,000060
+ELLIS,Ellis Ward 2,United States Senate,,Republican,"Moran, Jerry",312,000060
+ELLIS,Ellis Ward 3,United States Senate,,write - in,"Smith, DJ",0,000070
+ELLIS,Ellis Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",56,000070
+ELLIS,Ellis Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",10,000070
+ELLIS,Ellis Ward 3,United States Senate,,Republican,"Moran, Jerry",151,000070
+ELLIS,Freedom Township,United States Senate,,write - in,"Smith, DJ",0,000080
+ELLIS,Freedom Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000080
+ELLIS,Freedom Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+ELLIS,Freedom Township,United States Senate,,Republican,"Moran, Jerry",45,000080
+ELLIS,Hays Ward 1 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000090
+ELLIS,Hays Ward 1 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",93,000090
+ELLIS,Hays Ward 1 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",22,000090
+ELLIS,Hays Ward 1 Precinct 1,United States Senate,,Republican,"Moran, Jerry",126,000090
+ELLIS,Hays Ward 1 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",64,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",13,00010A
+ELLIS,Hays Ward 1 Precinct 2,United States Senate,,Republican,"Moran, Jerry",136,00010A
+ELLIS,Hays Ward 2 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000110
+ELLIS,Hays Ward 2 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",119,000110
+ELLIS,Hays Ward 2 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",19,000110
+ELLIS,Hays Ward 2 Precinct 1,United States Senate,,Republican,"Moran, Jerry",334,000110
+ELLIS,Hays Ward 2 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000120
+ELLIS,Hays Ward 2 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",115,000120
+ELLIS,Hays Ward 2 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",18,000120
+ELLIS,Hays Ward 2 Precinct 2,United States Senate,,Republican,"Moran, Jerry",243,000120
+ELLIS,Hays Ward 2 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000130
+ELLIS,Hays Ward 2 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",74,000130
+ELLIS,Hays Ward 2 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",15,000130
+ELLIS,Hays Ward 2 Precinct 3,United States Senate,,Republican,"Moran, Jerry",178,000130
+ELLIS,Hays Ward 2 Precinct 4,United States Senate,,write - in,"Smith, DJ",0,000140
+ELLIS,Hays Ward 2 Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",84,000140
+ELLIS,Hays Ward 2 Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",21,000140
+ELLIS,Hays Ward 2 Precinct 4,United States Senate,,Republican,"Moran, Jerry",242,000140
+ELLIS,Hays Ward 2 Precinct 5,United States Senate,,write - in,"Smith, DJ",0,000150
+ELLIS,Hays Ward 2 Precinct 5,United States Senate,,Democratic,"Wiesner, Patrick",71,000150
+ELLIS,Hays Ward 2 Precinct 5,United States Senate,,Libertarian,"Garrard, Robert D.",14,000150
+ELLIS,Hays Ward 2 Precinct 5,United States Senate,,Republican,"Moran, Jerry",191,000150
+ELLIS,Hays Ward 3 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",63,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",13,00016A
+ELLIS,Hays Ward 3 Precinct 1,United States Senate,,Republican,"Moran, Jerry",311,00016A
+ELLIS,Hays Ward 3 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000170
+ELLIS,Hays Ward 3 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",118,000170
+ELLIS,Hays Ward 3 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",10,000170
+ELLIS,Hays Ward 3 Precinct 2,United States Senate,,Republican,"Moran, Jerry",468,000170
+ELLIS,Hays Ward 3 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000180
+ELLIS,Hays Ward 3 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",90,000180
+ELLIS,Hays Ward 3 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",23,000180
+ELLIS,Hays Ward 3 Precinct 3,United States Senate,,Republican,"Moran, Jerry",555,000180
+ELLIS,Hays Ward 3 Precinct 4,United States Senate,,write - in,"Smith, DJ",0,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",210,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",45,00019A
+ELLIS,Hays Ward 3 Precinct 4,United States Senate,,Republican,"Moran, Jerry",1038,00019A
+ELLIS,Hays Ward 4 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000200
+ELLIS,Hays Ward 4 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",98,000200
+ELLIS,Hays Ward 4 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",21,000200
+ELLIS,Hays Ward 4 Precinct 1,United States Senate,,Republican,"Moran, Jerry",359,000200
+ELLIS,Hays Ward 4 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",102,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",31,00021A
+ELLIS,Hays Ward 4 Precinct 2,United States Senate,,Republican,"Moran, Jerry",410,00021A
+ELLIS,Hays Ward 4 Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000220
+ELLIS,Hays Ward 4 Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",74,000220
+ELLIS,Hays Ward 4 Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",14,000220
+ELLIS,Hays Ward 4 Precinct 3,United States Senate,,Republican,"Moran, Jerry",375,000220
+ELLIS,Hays Ward 4 Precinct 4,United States Senate,,write - in,"Smith, DJ",0,000230
+ELLIS,Hays Ward 4 Precinct 4,United States Senate,,Democratic,"Wiesner, Patrick",166,000230
+ELLIS,Hays Ward 4 Precinct 4,United States Senate,,Libertarian,"Garrard, Robert D.",25,000230
+ELLIS,Hays Ward 4 Precinct 4,United States Senate,,Republican,"Moran, Jerry",704,000230
+ELLIS,Hays Ward 4 Precinct 5,United States Senate,,write - in,"Smith, DJ",0,000240
+ELLIS,Hays Ward 4 Precinct 5,United States Senate,,Democratic,"Wiesner, Patrick",86,000240
+ELLIS,Hays Ward 4 Precinct 5,United States Senate,,Libertarian,"Garrard, Robert D.",17,000240
+ELLIS,Hays Ward 4 Precinct 5,United States Senate,,Republican,"Moran, Jerry",589,000240
+ELLIS,South Lookout Township,United States Senate,,write - in,"Smith, DJ",0,000280
+ELLIS,South Lookout Township,United States Senate,,Democratic,"Wiesner, Patrick",19,000280
+ELLIS,South Lookout Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000280
+ELLIS,South Lookout Township,United States Senate,,Republican,"Moran, Jerry",105,000280
+ELLIS,Victoria Township,United States Senate,,write - in,"Smith, DJ",0,000290
+ELLIS,Victoria Township,United States Senate,,Democratic,"Wiesner, Patrick",57,000290
+ELLIS,Victoria Township,United States Senate,,Libertarian,"Garrard, Robert D.",14,000290
+ELLIS,Victoria Township,United States Senate,,Republican,"Moran, Jerry",354,000290
+ELLIS,Wheatland Township,United States Senate,,write - in,"Smith, DJ",0,000310
+ELLIS,Wheatland Township,United States Senate,,Democratic,"Wiesner, Patrick",26,000310
+ELLIS,Wheatland Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000310
+ELLIS,Wheatland Township,United States Senate,,Republican,"Moran, Jerry",170,000310
+ELLIS,Herzog Township H110,United States Senate,,write - in,"Smith, DJ",0,120020
+ELLIS,Herzog Township H110,United States Senate,,Democratic,"Wiesner, Patrick",8,120020
+ELLIS,Herzog Township H110,United States Senate,,Libertarian,"Garrard, Robert D.",4,120020
+ELLIS,Herzog Township H110,United States Senate,,Republican,"Moran, Jerry",118,120020
+ELLIS,Herzog Township H111,United States Senate,,write - in,"Smith, DJ",0,120030
+ELLIS,Herzog Township H111,United States Senate,,Democratic,"Wiesner, Patrick",31,120030
+ELLIS,Herzog Township H111,United States Senate,,Libertarian,"Garrard, Robert D.",10,120030
+ELLIS,Herzog Township H111,United States Senate,,Republican,"Moran, Jerry",207,120030
+ELLIS,North Big Creek Township H110,United States Senate,,write - in,"Smith, DJ",0,120040
+ELLIS,North Big Creek Township H110,United States Senate,,Democratic,"Wiesner, Patrick",11,120040
+ELLIS,North Big Creek Township H110,United States Senate,,Libertarian,"Garrard, Robert D.",4,120040
+ELLIS,North Big Creek Township H110,United States Senate,,Republican,"Moran, Jerry",87,120040
+ELLIS,North Big Creek Township H111,United States Senate,,write - in,"Smith, DJ",0,120050
+ELLIS,North Big Creek Township H111,United States Senate,,Democratic,"Wiesner, Patrick",36,120050
+ELLIS,North Big Creek Township H111,United States Senate,,Libertarian,"Garrard, Robert D.",8,120050
+ELLIS,North Big Creek Township H111,United States Senate,,Republican,"Moran, Jerry",239,120050
+ELLIS,North Lookout Township H110,United States Senate,,write - in,"Smith, DJ",0,120060
+ELLIS,North Lookout Township H110,United States Senate,,Democratic,"Wiesner, Patrick",12,120060
+ELLIS,North Lookout Township H110,United States Senate,,Libertarian,"Garrard, Robert D.",0,120060
+ELLIS,North Lookout Township H110,United States Senate,,Republican,"Moran, Jerry",68,120060
+ELLIS,North Lookout Township H111,United States Senate,,write - in,"Smith, DJ",0,120070
+ELLIS,North Lookout Township H111,United States Senate,,Democratic,"Wiesner, Patrick",12,120070
+ELLIS,North Lookout Township H111,United States Senate,,Libertarian,"Garrard, Robert D.",2,120070
+ELLIS,North Lookout Township H111,United States Senate,,Republican,"Moran, Jerry",83,120070
+ELLIS,West Big Creek Township H110,United States Senate,,write - in,"Smith, DJ",0,120080
+ELLIS,West Big Creek Township H110,United States Senate,,Democratic,"Wiesner, Patrick",4,120080
+ELLIS,West Big Creek Township H110,United States Senate,,Libertarian,"Garrard, Robert D.",4,120080
+ELLIS,West Big Creek Township H110,United States Senate,,Republican,"Moran, Jerry",33,120080
+ELLIS,West Big Creek Township H111,United States Senate,,write - in,"Smith, DJ",0,120090
+ELLIS,West Big Creek Township H111,United States Senate,,Democratic,"Wiesner, Patrick",3,120090
+ELLIS,West Big Creek Township H111,United States Senate,,Libertarian,"Garrard, Robert D.",0,120090
+ELLIS,West Big Creek Township H111,United States Senate,,Republican,"Moran, Jerry",33,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States Senate,,write - in,"Smith, DJ",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,United States Senate,,Republican,"Moran, Jerry",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States Senate,,write - in,"Smith, DJ",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,United States Senate,,Republican,"Moran, Jerry",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States Senate,,write - in,"Smith, DJ",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,United States Senate,,Republican,"Moran, Jerry",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States Senate,,write - in,"Smith, DJ",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,United States Senate,,Republican,"Moran, Jerry",0,900040
+ELLIS,North Big Creek Township Enclave 1,United States Senate,,write - in,"Smith, DJ",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900050
+ELLIS,North Big Creek Township Enclave 1,United States Senate,,Republican,"Moran, Jerry",0,900050
+ELLIS,North Big Creek Township Enclave 2,United States Senate,,write - in,"Smith, DJ",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900060
+ELLIS,North Big Creek Township Enclave 2,United States Senate,,Republican,"Moran, Jerry",0,900060
+ELLIS,North Big Creek Township Enclave 3,United States Senate,,write - in,"Smith, DJ",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States Senate,,Democratic,"Wiesner, Patrick",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States Senate,,Libertarian,"Garrard, Robert D.",0,900070
+ELLIS,North Big Creek Township Enclave 3,United States Senate,,Republican,"Moran, Jerry",0,900070
+ELLIS,North Big Creek Township Enclave 4,United States Senate,,write - in,"Smith, DJ",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States Senate,,Democratic,"Wiesner, Patrick",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States Senate,,Libertarian,"Garrard, Robert D.",0,900080
+ELLIS,North Big Creek Township Enclave 4,United States Senate,,Republican,"Moran, Jerry",0,900080

@@ -1,385 +1,865 @@
-county,precinct,office,district,candidate,party,votes
-Stafford,N Stafford,President,,Trump and Pence,Rep,194
-Stafford,N Stafford,President,,Clinton and Kaine,Dem,48
-Stafford,N Stafford,President,,Johnson and Weld,Lib,11
-Stafford,N Stafford,President,,Stein and Baraka,Ind,5
-Stafford,N Stafford,President,,Michael Maturen,,0
-Stafford,N Stafford,President,,Evan McMullin,,0
-Stafford,N Stafford,U.S. Senate,,Patrick Wiesner,Dem,36
-Stafford,N Stafford,U.S. Senate,,Robert Garrard,Lib,13
-Stafford,N Stafford,U.S. Senate,,Jerry Moran,Rep,208
-Stafford,N Stafford,U.S. House,4,Daniel Giroux,Dem,28
-Stafford,N Stafford,U.S. House,4,Gorden Bakken,Lib,3
-Stafford,N Stafford,U.S. House,4,Michael Pompeo,Rep,200
-Stafford,N Stafford,U.S. House,4,Miranda Allen,Ind,23
-Stafford,N Stafford,State Senate ,33,Mary Jo Taylor,Rep,227
-Stafford,N Stafford,State Senate,33,Matt Bristow,Dem,28
-Stafford,N Stafford,State House,113,Greg Lewis,Rep,239
-Stafford,S Stafford,President,,Trump and Pence,Rep,171
-Stafford,S Stafford,President,,Clinton and Kaine,Dem,51
-Stafford,S Stafford,President,,Johnson and Weld,Lib,1
-Stafford,S Stafford,President,,Stein and Baraka,Ind,2
-Stafford,S Stafford,President,,Michael Maturen,,0
-Stafford,S Stafford,President,,Evan McMullin,,0
-Stafford,S Stafford,U.S. Senate,,Patrick Wiesner,Dem,42
-Stafford,S Stafford,U.S. Senate,,Robert Garrard,Lib,10
-Stafford,S Stafford,U.S. Senate,,Jerry Moran,Rep,172
-Stafford,S Stafford,U.S. House,4,Daniel Giroux,Dem,38
-Stafford,S Stafford,U.S. House,4,Gorden Bakken,Lib,5
-Stafford,S Stafford,U.S. House,4,Michael Pompeo,Rep,161
-Stafford,S Stafford,U.S. House,4,Miranda Allen,Ind,14
-Stafford,S Stafford,State Senate ,33,Mary Jo Taylor,Rep,184
-Stafford,S Stafford,State Senate,33,Matt Bristow,Dem,42
-Stafford,S Stafford,State House,113,Greg Lewis,Rep,207
-Stafford,E St John,President,,Trump and Pence,Rep,160
-Stafford,E St John,President,,Clinton and Kaine,Dem,47
-Stafford,E St John,President,,Johnson and Weld,Lib,5
-Stafford,E St John,President,,Stein and Baraka,Ind,3
-Stafford,E St John,President,,Michael Maturen,,1
-Stafford,E St John,President,,Evan McMullin,,5
-Stafford,E St John,U.S. Senate,,Patrick Wiesner,Dem,36
-Stafford,E St John,U.S. Senate,,Robert Garrard,Lib,12
-Stafford,E St John,U.S. Senate,,Jerry Moran,Rep,172
-Stafford,E St John,U.S. House,4,Daniel Giroux,Dem,29
-Stafford,E St John,U.S. House,4,Gorden Bakken,Lib,5
-Stafford,E St John,U.S. House,4,Michael Pompeo,Rep,172
-Stafford,E St John,U.S. House,4,Miranda Allen,Ind,18
-Stafford,E St John,State Senate ,33,Mary Jo Taylor,Rep,187
-Stafford,E St John,State Senate,33,Matt Bristow,Dem,31
-Stafford,E St John,State House,113,Greg Lewis,Rep,221
-Stafford,W St John,President,,Trump and Pence,Rep,166
-Stafford,W St John,President,,Clinton and Kaine,Dem,24
-Stafford,W St John,President,,Johnson and Weld,Lib,6
-Stafford,W St John,President,,Stein and Baraka,Ind,3
-Stafford,W St John,President,,Michael Maturen,,0
-Stafford,W St John,President,,Evan McMullin,,0
-Stafford,W St John,U.S. Senate,,Patrick Wiesner,Dem,17
-Stafford,W St John,U.S. Senate,,Robert Garrard,Lib,7
-Stafford,W St John,U.S. Senate,,Jerry Moran,Rep,165
-Stafford,W St John,U.S. House,4,Daniel Giroux,Dem,13
-Stafford,W St John,U.S. House,4,Gorden Bakken,Lib,2
-Stafford,W St John,U.S. House,4,Michael Pompeo,Rep,163
-Stafford,W St John,U.S. House,4,Miranda Allen,Ind,13
-Stafford,W St John,State Senate ,33,Mary Jo Taylor,Rep,169
-Stafford,W St John,State Senate,33,Matt Bristow,Dem,20
-Stafford,W St John,State House,113,Greg Lewis,Rep,178
-Stafford,S St John,President,,Trump and Pence,Rep,83
-Stafford,S St John,President,,Clinton and Kaine,Dem,19
-Stafford,S St John,President,,Johnson and Weld,Lib,8
-Stafford,S St John,President,,Stein and Baraka,Ind,5
-Stafford,S St John,President,,Michael Maturen,,0
-Stafford,S St John,President,,Evan McMullin,,0
-Stafford,S St John,U.S. Senate,,Patrick Wiesner,Dem,16
-Stafford,S St John,U.S. Senate,,Robert Garrard,Lib,6
-Stafford,S St John,U.S. Senate,,Jerry Moran,Rep,89
-Stafford,S St John,U.S. House,4,Daniel Giroux,Dem,16
-Stafford,S St John,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,S St John,U.S. House,4,Michael Pompeo,Rep,86
-Stafford,S St John,U.S. House,4,Miranda Allen,Ind,10
-Stafford,S St John,State Senate ,33,Mary Jo Taylor,Rep,95
-Stafford,S St John,State Senate,33,Matt Bristow,Dem,17
-Stafford,S St John,State House,113,Greg Lewis,Rep,109
-Stafford,Albano,President,,Trump and Pence,Rep,22
-Stafford,Albano,President,,Clinton and Kaine,Dem,5
-Stafford,Albano,President,,Johnson and Weld,Lib,0
-Stafford,Albano,President,,Stein and Baraka,Ind,0
-Stafford,Albano,President,,Michael Maturen,,0
-Stafford,Albano,President,,Evan McMullin,,0
-Stafford,Albano,U.S. Senate,,Patrick Wiesner,Dem,4
-Stafford,Albano,U.S. Senate,,Robert Garrard,Lib,2
-Stafford,Albano,U.S. Senate,,Jerry Moran,Rep,19
-Stafford,Albano,U.S. House,4,Daniel Giroux,Dem,3
-Stafford,Albano,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Albano,U.S. House,4,Michael Pompeo,Rep,19
-Stafford,Albano,U.S. House,4,Miranda Allen,Ind,3
-Stafford,Albano,State Senate ,33,Mary Jo Taylor,Rep,22
-Stafford,Albano,State Senate,33,Matt Bristow,Dem,3
-Stafford,Albano,State House,113,Greg Lewis,Rep,22
-Stafford,Byron,President,,Trump and Pence,Rep,32
-Stafford,Byron,President,,Clinton and Kaine,Dem,1
-Stafford,Byron,President,,Johnson and Weld,Lib,0
-Stafford,Byron,President,,Stein and Baraka,Ind,0
-Stafford,Byron,President,,Michael Maturen,,0
-Stafford,Byron,President,,Evan McMullin,,0
-Stafford,Byron,U.S. Senate,,Patrick Wiesner,Dem,2
-Stafford,Byron,U.S. Senate,,Robert Garrard,Lib,1
-Stafford,Byron,U.S. Senate,,Jerry Moran,Rep,31
-Stafford,Byron,U.S. House,4,Daniel Giroux,Dem,1
-Stafford,Byron,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Byron,U.S. House,4,Michael Pompeo,Rep,32
-Stafford,Byron,U.S. House,4,Miranda Allen,Ind,0
-Stafford,Byron,State Senate ,33,Mary Jo Taylor,Rep,32
-Stafford,Byron,State Senate,33,Matt Bristow,Dem,0
-Stafford,Byron,State House,113,Greg Lewis,Rep,31
-Stafford,Clear Creek,President,,Trump and Pence,Rep,20
-Stafford,Clear Creek,President,,Clinton and Kaine,Dem,0
-Stafford,Clear Creek,President,,Johnson and Weld,Lib,0
-Stafford,Clear Creek,President,,Stein and Baraka,Ind,0
-Stafford,Clear Creek,President,,Michael Maturen,,0
-Stafford,Clear Creek,President,,Evan McMullin,,0
-Stafford,Clear Creek,U.S. Senate,,Patrick Wiesner,Dem,0
-Stafford,Clear Creek,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,Clear Creek,U.S. Senate,,Jerry Moran,Rep,20
-Stafford,Clear Creek,U.S. House,4,Daniel Giroux,Dem,0
-Stafford,Clear Creek,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Clear Creek,U.S. House,4,Michael Pompeo,Rep,20
-Stafford,Clear Creek,U.S. House,4,Miranda Allen,Ind,0
-Stafford,Clear Creek,State Senate ,33,Mary Jo Taylor,Rep,17
-Stafford,Clear Creek,State Senate,33,Matt Bristow,Dem,0
-Stafford,Clear Creek,State House,113,Greg Lewis,Rep,20
-Stafford,Cleveland,President,,Trump and Pence,Rep,32
-Stafford,Cleveland,President,,Clinton and Kaine,Dem,6
-Stafford,Cleveland,President,,Johnson and Weld,Lib,1
-Stafford,Cleveland,President,,Stein and Baraka,Ind,0
-Stafford,Cleveland,President,,Michael Maturen,,0
-Stafford,Cleveland,President,,Evan McMullin,,0
-Stafford,Cleveland,U.S. Senate,,Patrick Wiesner,Dem,3
-Stafford,Cleveland,U.S. Senate,,Robert Garrard,Lib,2
-Stafford,Cleveland,U.S. Senate,,Jerry Moran,Rep,33
-Stafford,Cleveland,U.S. House,4,Daniel Giroux,Dem,1
-Stafford,Cleveland,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,Cleveland,U.S. House,4,Michael Pompeo,Rep,31
-Stafford,Cleveland,U.S. House,4,Miranda Allen,Ind,4
-Stafford,Cleveland,State Senate ,33,Mary Jo Taylor,Rep,30
-Stafford,Cleveland,State Senate,33,Matt Bristow,Dem,6
-Stafford,Cleveland,State House,113,Greg Lewis,Rep,39
-Stafford,Cooper E,President,,Trump and Pence,Rep,18
-Stafford,Cooper E,President,,Clinton and Kaine,Dem,1
-Stafford,Cooper E,President,,Johnson and Weld,Lib,3
-Stafford,Cooper E,President,,Stein and Baraka,Ind,0
-Stafford,Cooper E,President,,Michael Maturen,,0
-Stafford,Cooper E,President,,Evan McMullin,,0
-Stafford,Cooper E,U.S. Senate,,Patrick Wiesner,Dem,3
-Stafford,Cooper E,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,Cooper E,U.S. Senate,,Jerry Moran,Rep,21
-Stafford,Cooper E,U.S. House,4,Daniel Giroux,Dem,3
-Stafford,Cooper E,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,Cooper E,U.S. House,4,Michael Pompeo,Rep,19
-Stafford,Cooper E,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Cooper E,State Senate ,33,Mary Jo Taylor,Rep,20
-Stafford,Cooper E,State Senate,33,Matt Bristow,Dem,3
-Stafford,Cooper E,State House,113,Greg Lewis,Rep,22
-Stafford,Cooper W,President,,Trump and Pence,Rep,32
-Stafford,Cooper W,President,,Clinton and Kaine,Dem,4
-Stafford,Cooper W,President,,Johnson and Weld,Lib,0
-Stafford,Cooper W,President,,Stein and Baraka,Ind,0
-Stafford,Cooper W,President,,Michael Maturen,,0
-Stafford,Cooper W,President,,Evan McMullin,,0
-Stafford,Cooper W,U.S. Senate,,Patrick Wiesner,Dem,1
-Stafford,Cooper W,U.S. Senate,,Robert Garrard,Lib,3
-Stafford,Cooper W,U.S. Senate,,Jerry Moran,Rep,31
-Stafford,Cooper W,U.S. House,4,Daniel Giroux,Dem,2
-Stafford,Cooper W,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,Cooper W,U.S. House,4,Michael Pompeo,Rep,30
-Stafford,Cooper W,U.S. House,4,Miranda Allen,Ind,2
-Stafford,Cooper W,State Senate ,33,Mary Jo Taylor,Rep,23
-Stafford,Cooper W,State Senate,33,Matt Bristow,Dem,11
-Stafford,Cooper W,State House,113,Greg Lewis,Rep,30
-Stafford,Douglas,President,,Trump and Pence,Rep,41
-Stafford,Douglas,President,,Clinton and Kaine,Dem,9
-Stafford,Douglas,President,,Johnson and Weld,Lib,3
-Stafford,Douglas,President,,Stein and Baraka,Ind,1
-Stafford,Douglas,President,,Michael Maturen,,0
-Stafford,Douglas,President,,Evan McMullin,,0
-Stafford,Douglas,U.S. Senate,,Patrick Wiesner,Dem,7
-Stafford,Douglas,U.S. Senate,,Robert Garrard,Lib,3
-Stafford,Douglas,U.S. Senate,,Jerry Moran,Rep,42
-Stafford,Douglas,U.S. House,4,Daniel Giroux,Dem,8
-Stafford,Douglas,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Douglas,U.S. House,4,Michael Pompeo,Rep,37
-Stafford,Douglas,U.S. House,4,Miranda Allen,Ind,7
-Stafford,Douglas,State Senate ,33,Mary Jo Taylor,Rep,42
-Stafford,Douglas,State Senate,33,Matt Bristow,Dem,11
-Stafford,Douglas,State House,113,Greg Lewis,Rep,53
-Stafford,Fairview,President,,Trump and Pence,Rep,37
-Stafford,Fairview,President,,Clinton and Kaine,Dem,12
-Stafford,Fairview,President,,Johnson and Weld,Lib,3
-Stafford,Fairview,President,,Stein and Baraka,Ind,0
-Stafford,Fairview,President,,Michael Maturen,,0
-Stafford,Fairview,President,,Evan McMullin,,0
-Stafford,Fairview,U.S. Senate,,Patrick Wiesner,Dem,6
-Stafford,Fairview,U.S. Senate,,Robert Garrard,Lib,1
-Stafford,Fairview,U.S. Senate,,Jerry Moran,Rep,46
-Stafford,Fairview,U.S. House,4,Daniel Giroux,Dem,5
-Stafford,Fairview,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Fairview,U.S. House,4,Michael Pompeo,Rep,42
-Stafford,Fairview,U.S. House,4,Miranda Allen,Ind,6
-Stafford,Fairview,State Senate ,33,Mary Jo Taylor,Rep,47
-Stafford,Fairview,State Senate,33,Matt Bristow,Dem,3
-Stafford,Fairview,State House,113,Greg Lewis,Rep,53
-Stafford,Farmington,President,,Trump and Pence,Rep,151
-Stafford,Farmington,President,,Clinton and Kaine,Dem,30
-Stafford,Farmington,President,,Johnson and Weld,Lib,6
-Stafford,Farmington,President,,Stein and Baraka,Ind,6
-Stafford,Farmington,President,,Michael Maturen,,0
-Stafford,Farmington,President,,Evan McMullin,,0
-Stafford,Farmington,U.S. Senate,,Patrick Wiesner,Dem,21
-Stafford,Farmington,U.S. Senate,,Robert Garrard,Lib,6
-Stafford,Farmington,U.S. Senate,,Jerry Moran,Rep,163
-Stafford,Farmington,U.S. House,4,Daniel Giroux,Dem,19
-Stafford,Farmington,U.S. House,4,Gorden Bakken,Lib,3
-Stafford,Farmington,U.S. House,4,Michael Pompeo,Rep,152
-Stafford,Farmington,U.S. House,4,Miranda Allen,Ind,17
-Stafford,Farmington,State Senate ,33,Mary Jo Taylor,Rep,158
-Stafford,Farmington,State Senate,33,Matt Bristow,Dem,33
-Stafford,Farmington,State House,113,Greg Lewis,Rep,177
-Stafford,Hayes,President,,Trump and Pence,Rep,71
-Stafford,Hayes,President,,Clinton and Kaine,Dem,12
-Stafford,Hayes,President,,Johnson and Weld,Lib,2
-Stafford,Hayes,President,,Stein and Baraka,Ind,4
-Stafford,Hayes,President,,Michael Maturen,,0
-Stafford,Hayes,President,,Evan McMullin,,0
-Stafford,Hayes,U.S. Senate,,Patrick Wiesner,Dem,9
-Stafford,Hayes,U.S. Senate,,Robert Garrard,Lib,4
-Stafford,Hayes,U.S. Senate,,Jerry Moran,Rep,81
-Stafford,Hayes,U.S. House,4,Daniel Giroux,Dem,8
-Stafford,Hayes,U.S. House,4,Gorden Bakken,Lib,3
-Stafford,Hayes,U.S. House,4,Michael Pompeo,Rep,69
-Stafford,Hayes,U.S. House,4,Miranda Allen,Ind,14
-Stafford,Hayes,State Senate ,33,Mary Jo Taylor,Rep,84
-Stafford,Hayes,State Senate,33,Matt Bristow,Dem,12
-Stafford,Hayes,State House,113,Greg Lewis,Rep,93
-Stafford,Lincoln,President,,Trump and Pence,Rep,49
-Stafford,Lincoln,President,,Clinton and Kaine,Dem,4
-Stafford,Lincoln,President,,Johnson and Weld,Lib,3
-Stafford,Lincoln,President,,Stein and Baraka,Ind,1
-Stafford,Lincoln,President,,Michael Maturen,,0
-Stafford,Lincoln,President,,Evan McMullin,,0
-Stafford,Lincoln,U.S. Senate,,Patrick Wiesner,Dem,3
-Stafford,Lincoln,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,Lincoln,U.S. Senate,,Jerry Moran,Rep,53
-Stafford,Lincoln,U.S. House,4,Daniel Giroux,Dem,4
-Stafford,Lincoln,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Lincoln,U.S. House,4,Michael Pompeo,Rep,50
-Stafford,Lincoln,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Lincoln,State Senate ,33,Mary Jo Taylor,Rep,48
-Stafford,Lincoln,State Senate,33,Matt Bristow,Dem,7
-Stafford,Lincoln,State House,113,Greg Lewis,Rep,56
-Stafford,Ohio,President,,Trump and Pence,Rep,38
-Stafford,Ohio,President,,Clinton and Kaine,Dem,5
-Stafford,Ohio,President,,Johnson and Weld,Lib,1
-Stafford,Ohio,President,,Stein and Baraka,Ind,1
-Stafford,Ohio,President,,Michael Maturen,,0
-Stafford,Ohio,President,,Evan McMullin,,0
-Stafford,Ohio,U.S. Senate,,Patrick Wiesner,Dem,3
-Stafford,Ohio,U.S. Senate,,Robert Garrard,Lib,2
-Stafford,Ohio,U.S. Senate,,Jerry Moran,Rep,40
-Stafford,Ohio,U.S. House,4,Daniel Giroux,Dem,4
-Stafford,Ohio,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Ohio,U.S. House,4,Michael Pompeo,Rep,38
-Stafford,Ohio,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Ohio,State Senate ,33,Mary Jo Taylor,Rep,36
-Stafford,Ohio,State Senate,33,Matt Bristow,Dem,7
-Stafford,Ohio,State House,113,Greg Lewis,Rep,40
-Stafford,Putnam,President,,Trump and Pence,Rep,7
-Stafford,Putnam,President,,Clinton and Kaine,Dem,3
-Stafford,Putnam,President,,Johnson and Weld,Lib,1
-Stafford,Putnam,President,,Stein and Baraka,Ind,0
-Stafford,Putnam,President,,Michael Maturen,,0
-Stafford,Putnam,President,,Evan McMullin,,0
-Stafford,Putnam,U.S. Senate,,Patrick Wiesner,Dem,2
-Stafford,Putnam,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,Putnam,U.S. Senate,,Jerry Moran,Rep,9
-Stafford,Putnam,U.S. House,4,Daniel Giroux,Dem,0
-Stafford,Putnam,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Putnam,U.S. House,4,Michael Pompeo,Rep,11
-Stafford,Putnam,U.S. House,4,Miranda Allen,Ind,0
-Stafford,Putnam,State Senate ,33,Mary Jo Taylor,Rep,10
-Stafford,Putnam,State Senate,33,Matt Bristow,Dem,1
-Stafford,Putnam,State House,113,Greg Lewis,Rep,11
-Stafford,Richland,President,,Trump and Pence,Rep,19
-Stafford,Richland,President,,Clinton and Kaine,Dem,3
-Stafford,Richland,President,,Johnson and Weld,Lib,0
-Stafford,Richland,President,,Stein and Baraka,Ind,1
-Stafford,Richland,President,,Michael Maturen,,0
-Stafford,Richland,President,,Evan McMullin,,0
-Stafford,Richland,U.S. Senate,,Patrick Wiesner,Dem,1
-Stafford,Richland,U.S. Senate,,Robert Garrard,Lib,1
-Stafford,Richland,U.S. Senate,,Jerry Moran,Rep,20
-Stafford,Richland,U.S. House,4,Daniel Giroux,Dem,1
-Stafford,Richland,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Richland,U.S. House,4,Michael Pompeo,Rep,20
-Stafford,Richland,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Richland,State Senate ,33,Mary Jo Taylor,Rep,21
-Stafford,Richland,State Senate,33,Matt Bristow,Dem,2
-Stafford,Richland,State House,113,Greg Lewis,Rep,23
-Stafford,Rose Valley,President,,Trump and Pence,Rep,22
-Stafford,Rose Valley,President,,Clinton and Kaine,Dem,11
-Stafford,Rose Valley,President,,Johnson and Weld,Lib,2
-Stafford,Rose Valley,President,,Stein and Baraka,Ind,0
-Stafford,Rose Valley,President,,Michael Maturen,,0
-Stafford,Rose Valley,President,,Evan McMullin,,0
-Stafford,Rose Valley,U.S. Senate,,Patrick Wiesner,Dem,7
-Stafford,Rose Valley,U.S. Senate,,Robert Garrard,Lib,2
-Stafford,Rose Valley,U.S. Senate,,Jerry Moran,Rep,24
-Stafford,Rose Valley,U.S. House,4,Daniel Giroux,Dem,6
-Stafford,Rose Valley,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,Rose Valley,U.S. House,4,Michael Pompeo,Rep,23
-Stafford,Rose Valley,U.S. House,4,Miranda Allen,Ind,2
-Stafford,Rose Valley,State Senate ,33,Mary Jo Taylor,Rep,27
-Stafford,Rose Valley,State Senate,33,Matt Bristow,Dem,7
-Stafford,Rose Valley,State House,113,Greg Lewis,Rep,31
-Stafford,Seward N,President,,Trump and Pence,Rep,66
-Stafford,Seward N,President,,Clinton and Kaine,Dem,7
-Stafford,Seward N,President,,Johnson and Weld,Lib,3
-Stafford,Seward N,President,,Stein and Baraka,Ind,1
-Stafford,Seward N,President,,Michael Maturen,,0
-Stafford,Seward N,President,,Evan McMullin,,0
-Stafford,Seward N,U.S. Senate,,Patrick Wiesner,Dem,6
-Stafford,Seward N,U.S. Senate,,Robert Garrard,Lib,3
-Stafford,Seward N,U.S. Senate,,Jerry Moran,Rep,68
-Stafford,Seward N,U.S. House,4,Daniel Giroux,Dem,7
-Stafford,Seward N,U.S. House,4,Gorden Bakken,Lib,1
-Stafford,Seward N,U.S. House,4,Michael Pompeo,Rep,63
-Stafford,Seward N,U.S. House,4,Miranda Allen,Ind,6
-Stafford,Seward N,State Senate ,33,Mary Jo Taylor,Rep,65
-Stafford,Seward N,State Senate,33,Matt Bristow,Dem,11
-Stafford,Seward N,State House,113,Greg Lewis,Rep,70
-Stafford,Seward S,President,,Trump and Pence,Rep,26
-Stafford,Seward S,President,,Clinton and Kaine,Dem,0
-Stafford,Seward S,President,,Johnson and Weld,Lib,2
-Stafford,Seward S,President,,Stein and Baraka,Ind,0
-Stafford,Seward S,President,,Michael Maturen,,0
-Stafford,Seward S,President,,Evan McMullin,,0
-Stafford,Seward S,U.S. Senate,,Patrick Wiesner,Dem,0
-Stafford,Seward S,U.S. Senate,,Robert Garrard,Lib,2
-Stafford,Seward S,U.S. Senate,,Jerry Moran,Rep,26
-Stafford,Seward S,U.S. House,4,Daniel Giroux,Dem,1
-Stafford,Seward S,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Seward S,U.S. House,4,Michael Pompeo,Rep,23
-Stafford,Seward S,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Seward S,State Senate ,33,Mary Jo Taylor,Rep,24
-Stafford,Seward S,State Senate,33,Matt Bristow,Dem,3
-Stafford,Seward S,State House,113,Greg Lewis,Rep,27
-Stafford,Union,President,,Trump and Pence,Rep,12
-Stafford,Union,President,,Clinton and Kaine,Dem,1
-Stafford,Union,President,,Johnson and Weld,Lib,1
-Stafford,Union,President,,Stein and Baraka,Ind,1
-Stafford,Union,President,,Michael Maturen,,0
-Stafford,Union,President,,Evan McMullin,,0
-Stafford,Union,U.S. Senate,,Patrick Wiesner,Dem,4
-Stafford,Union,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,Union,U.S. Senate,,Jerry Moran,Rep,10
-Stafford,Union,U.S. House,4,Daniel Giroux,Dem,4
-Stafford,Union,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,Union,U.S. House,4,Michael Pompeo,Rep,10
-Stafford,Union,U.S. House,4,Miranda Allen,Ind,1
-Stafford,Union,State Senate ,33,Mary Jo Taylor,Rep,10
-Stafford,Union,State Senate,33,Matt Bristow,Dem,4
-Stafford,Union,State House,113,Greg Lewis,Rep,11
-Stafford,York,President,,Trump and Pence,Rep,21
-Stafford,York,President,,Clinton and Kaine,Dem,1
-Stafford,York,President,,Johnson and Weld,Lib,0
-Stafford,York,President,,Stein and Baraka,Ind,0
-Stafford,York,President,,Michael Maturen,,0
-Stafford,York,President,,Evan McMullin,,0
-Stafford,York,U.S. Senate,,Patrick Wiesner,Dem,1
-Stafford,York,U.S. Senate,,Robert Garrard,Lib,0
-Stafford,York,U.S. Senate,,Jerry Moran,Rep,20
-Stafford,York,U.S. House,4,Daniel Giroux,Dem,0
-Stafford,York,U.S. House,4,Gorden Bakken,Lib,0
-Stafford,York,U.S. House,4,Michael Pompeo,Rep,17
-Stafford,York,U.S. House,4,Miranda Allen,Ind,3
-Stafford,York,State Senate ,33,Mary Jo Taylor,Rep,17
-Stafford,York,State Senate,33,Matt Bristow,Dem,2
-Stafford,York,State House,113,Greg Lewis,Rep,20
+county,precinct,office,district,party,candidate,votes,vtd
+STAFFORD,Albano Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",22,000010
+STAFFORD,Byron Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",31,000020
+STAFFORD,Clear Creek Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",20,000030
+STAFFORD,Cleveland Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",39,000040
+STAFFORD,Douglas Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",53,000050
+STAFFORD,East Cooper Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",22,000060
+STAFFORD,East St. John,Kansas House of Representatives,113,Republican,"Lewis, Greg",221,000070
+STAFFORD,Fairview Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",53,000080
+STAFFORD,Farmington Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",177,000090
+STAFFORD,Hayes Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",93,000100
+STAFFORD,Lincoln Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",56,000110
+STAFFORD,North Seward Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",70,000120
+STAFFORD,North Stafford,Kansas House of Representatives,113,Republican,"Lewis, Greg",239,000130
+STAFFORD,Ohio Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",40,000140
+STAFFORD,Putnam Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",11,000150
+STAFFORD,Richland Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",23,000160
+STAFFORD,Rose Valley Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",31,000170
+STAFFORD,South Seward Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",27,000180
+STAFFORD,South St. John,Kansas House of Representatives,113,Republican,"Lewis, Greg",109,000190
+STAFFORD,South Stafford,Kansas House of Representatives,113,Republican,"Lewis, Greg",207,000200
+STAFFORD,Union Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",11,000210
+STAFFORD,West Cooper Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",30,000220
+STAFFORD,West St. John,Kansas House of Representatives,113,Republican,"Lewis, Greg",178,000230
+STAFFORD,York Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",20,000240
+STAFFORD,Albano Township,Kansas Senate,33,Democratic,"Bristow, Matt",3,000010
+STAFFORD,Albano Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",22,000010
+STAFFORD,Byron Township,Kansas Senate,33,Democratic,"Bristow, Matt",0,000020
+STAFFORD,Byron Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",32,000020
+STAFFORD,Clear Creek Township,Kansas Senate,33,Democratic,"Bristow, Matt",0,000030
+STAFFORD,Clear Creek Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",17,000030
+STAFFORD,Cleveland Township,Kansas Senate,33,Democratic,"Bristow, Matt",6,000040
+STAFFORD,Cleveland Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",30,000040
+STAFFORD,Douglas Township,Kansas Senate,33,Democratic,"Bristow, Matt",11,000050
+STAFFORD,Douglas Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",42,000050
+STAFFORD,East Cooper Township,Kansas Senate,33,Democratic,"Bristow, Matt",3,000060
+STAFFORD,East Cooper Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",20,000060
+STAFFORD,East St. John,Kansas Senate,33,Democratic,"Bristow, Matt",31,000070
+STAFFORD,East St. John,Kansas Senate,33,Republican,"Taylor, Mary Jo",187,000070
+STAFFORD,Fairview Township,Kansas Senate,33,Democratic,"Bristow, Matt",3,000080
+STAFFORD,Fairview Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",47,000080
+STAFFORD,Farmington Township,Kansas Senate,33,Democratic,"Bristow, Matt",33,000090
+STAFFORD,Farmington Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",158,000090
+STAFFORD,Hayes Township,Kansas Senate,33,Democratic,"Bristow, Matt",12,000100
+STAFFORD,Hayes Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",84,000100
+STAFFORD,Lincoln Township,Kansas Senate,33,Democratic,"Bristow, Matt",7,000110
+STAFFORD,Lincoln Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",48,000110
+STAFFORD,North Seward Township,Kansas Senate,33,Democratic,"Bristow, Matt",11,000120
+STAFFORD,North Seward Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",65,000120
+STAFFORD,North Stafford,Kansas Senate,33,Democratic,"Bristow, Matt",28,000130
+STAFFORD,North Stafford,Kansas Senate,33,Republican,"Taylor, Mary Jo",227,000130
+STAFFORD,Ohio Township,Kansas Senate,33,Democratic,"Bristow, Matt",7,000140
+STAFFORD,Ohio Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",36,000140
+STAFFORD,Putnam Township,Kansas Senate,33,Democratic,"Bristow, Matt",1,000150
+STAFFORD,Putnam Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",10,000150
+STAFFORD,Richland Township,Kansas Senate,33,Democratic,"Bristow, Matt",2,000160
+STAFFORD,Richland Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",21,000160
+STAFFORD,Rose Valley Township,Kansas Senate,33,Democratic,"Bristow, Matt",7,000170
+STAFFORD,Rose Valley Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",27,000170
+STAFFORD,South Seward Township,Kansas Senate,33,Democratic,"Bristow, Matt",3,000180
+STAFFORD,South Seward Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",24,000180
+STAFFORD,South St. John,Kansas Senate,33,Democratic,"Bristow, Matt",17,000190
+STAFFORD,South St. John,Kansas Senate,33,Republican,"Taylor, Mary Jo",95,000190
+STAFFORD,South Stafford,Kansas Senate,33,Democratic,"Bristow, Matt",42,000200
+STAFFORD,South Stafford,Kansas Senate,33,Republican,"Taylor, Mary Jo",184,000200
+STAFFORD,Union Township,Kansas Senate,33,Democratic,"Bristow, Matt",4,000210
+STAFFORD,Union Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",10,000210
+STAFFORD,West Cooper Township,Kansas Senate,33,Democratic,"Bristow, Matt",11,000220
+STAFFORD,West Cooper Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",23,000220
+STAFFORD,West St. John,Kansas Senate,33,Democratic,"Bristow, Matt",20,000230
+STAFFORD,West St. John,Kansas Senate,33,Republican,"Taylor, Mary Jo",169,000230
+STAFFORD,York Township,Kansas Senate,33,Democratic,"Bristow, Matt",2,000240
+STAFFORD,York Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",17,000240
+STAFFORD,Albano Township,President / Vice President,,independent,"Stein, Jill",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+STAFFORD,Albano Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+STAFFORD,Albano Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000010
+STAFFORD,Albano Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+STAFFORD,Albano Township,President / Vice President,,Republican,"Trump, Donald J.",22,000010
+STAFFORD,Byron Township,President / Vice President,,independent,"Stein, Jill",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+STAFFORD,Byron Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+STAFFORD,Byron Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000020
+STAFFORD,Byron Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+STAFFORD,Byron Township,President / Vice President,,Republican,"Trump, Donald J.",32,000020
+STAFFORD,Clear Creek Township,President / Vice President,,independent,"Stein, Jill",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+STAFFORD,Clear Creek Township,President / Vice President,,Republican,"Trump, Donald J.",20,000030
+STAFFORD,Cleveland Township,President / Vice President,,independent,"Stein, Jill",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+STAFFORD,Cleveland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000040
+STAFFORD,Cleveland Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+STAFFORD,Cleveland Township,President / Vice President,,Republican,"Trump, Donald J.",32,000040
+STAFFORD,Douglas Township,President / Vice President,,independent,"Stein, Jill",1,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+STAFFORD,Douglas Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+STAFFORD,Douglas Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000050
+STAFFORD,Douglas Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000050
+STAFFORD,Douglas Township,President / Vice President,,Republican,"Trump, Donald J.",41,000050
+STAFFORD,East Cooper Township,President / Vice President,,independent,"Stein, Jill",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+STAFFORD,East Cooper Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000060
+STAFFORD,East Cooper Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000060
+STAFFORD,East Cooper Township,President / Vice President,,Republican,"Trump, Donald J.",18,000060
+STAFFORD,East St. John,President / Vice President,,independent,"Stein, Jill",3,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Hedges, James A",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Maturen, Michael A",1,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"McMullin, Evan",5,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Perry, Darryl",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Smith, Mike",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Sood, Ajay",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+STAFFORD,East St. John,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+STAFFORD,East St. John,President / Vice President,,Democratic,"Clinton, Hillary Rodham",47,000070
+STAFFORD,East St. John,President / Vice President,,Libertarian,"Johnson, Gary",5,000070
+STAFFORD,East St. John,President / Vice President,,Republican,"Trump, Donald J.",160,000070
+STAFFORD,Fairview Township,President / Vice President,,independent,"Stein, Jill",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+STAFFORD,Fairview Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+STAFFORD,Fairview Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000080
+STAFFORD,Fairview Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000080
+STAFFORD,Fairview Township,President / Vice President,,Republican,"Trump, Donald J.",37,000080
+STAFFORD,Farmington Township,President / Vice President,,independent,"Stein, Jill",6,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+STAFFORD,Farmington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+STAFFORD,Farmington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",30,000090
+STAFFORD,Farmington Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000090
+STAFFORD,Farmington Township,President / Vice President,,Republican,"Trump, Donald J.",151,000090
+STAFFORD,Hayes Township,President / Vice President,,independent,"Stein, Jill",4,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+STAFFORD,Hayes Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+STAFFORD,Hayes Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000100
+STAFFORD,Hayes Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000100
+STAFFORD,Hayes Township,President / Vice President,,Republican,"Trump, Donald J.",71,000100
+STAFFORD,Lincoln Township,President / Vice President,,independent,"Stein, Jill",1,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+STAFFORD,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000110
+STAFFORD,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000110
+STAFFORD,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",49,000110
+STAFFORD,North Seward Township,President / Vice President,,independent,"Stein, Jill",1,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+STAFFORD,North Seward Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+STAFFORD,North Seward Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000120
+STAFFORD,North Seward Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000120
+STAFFORD,North Seward Township,President / Vice President,,Republican,"Trump, Donald J.",66,000120
+STAFFORD,North Stafford,President / Vice President,,independent,"Stein, Jill",5,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Hedges, James A",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"McMullin, Evan",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Perry, Darryl",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Smith, Mike",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Sood, Ajay",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+STAFFORD,North Stafford,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+STAFFORD,North Stafford,President / Vice President,,Democratic,"Clinton, Hillary Rodham",48,000130
+STAFFORD,North Stafford,President / Vice President,,Libertarian,"Johnson, Gary",11,000130
+STAFFORD,North Stafford,President / Vice President,,Republican,"Trump, Donald J.",194,000130
+STAFFORD,Ohio Township,President / Vice President,,independent,"Stein, Jill",1,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+STAFFORD,Ohio Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+STAFFORD,Ohio Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000140
+STAFFORD,Ohio Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000140
+STAFFORD,Ohio Township,President / Vice President,,Republican,"Trump, Donald J.",38,000140
+STAFFORD,Putnam Township,President / Vice President,,independent,"Stein, Jill",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+STAFFORD,Putnam Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+STAFFORD,Putnam Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000150
+STAFFORD,Putnam Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000150
+STAFFORD,Putnam Township,President / Vice President,,Republican,"Trump, Donald J.",7,000150
+STAFFORD,Richland Township,President / Vice President,,independent,"Stein, Jill",1,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+STAFFORD,Richland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+STAFFORD,Richland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000160
+STAFFORD,Richland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000160
+STAFFORD,Richland Township,President / Vice President,,Republican,"Trump, Donald J.",19,000160
+STAFFORD,Rose Valley Township,President / Vice President,,independent,"Stein, Jill",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+STAFFORD,Rose Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000170
+STAFFORD,Rose Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000170
+STAFFORD,Rose Valley Township,President / Vice President,,Republican,"Trump, Donald J.",22,000170
+STAFFORD,South Seward Township,President / Vice President,,independent,"Stein, Jill",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+STAFFORD,South Seward Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+STAFFORD,South Seward Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000180
+STAFFORD,South Seward Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000180
+STAFFORD,South Seward Township,President / Vice President,,Republican,"Trump, Donald J.",26,000180
+STAFFORD,South St. John,President / Vice President,,independent,"Stein, Jill",5,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Hedges, James A",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"McMullin, Evan",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Perry, Darryl",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Smith, Mike",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Sood, Ajay",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+STAFFORD,South St. John,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+STAFFORD,South St. John,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000190
+STAFFORD,South St. John,President / Vice President,,Libertarian,"Johnson, Gary",8,000190
+STAFFORD,South St. John,President / Vice President,,Republican,"Trump, Donald J.",83,000190
+STAFFORD,South Stafford,President / Vice President,,independent,"Stein, Jill",2,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Hedges, James A",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"McMullin, Evan",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Perry, Darryl",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Smith, Mike",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Sood, Ajay",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+STAFFORD,South Stafford,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+STAFFORD,South Stafford,President / Vice President,,Democratic,"Clinton, Hillary Rodham",51,000200
+STAFFORD,South Stafford,President / Vice President,,Libertarian,"Johnson, Gary",1,000200
+STAFFORD,South Stafford,President / Vice President,,Republican,"Trump, Donald J.",171,000200
+STAFFORD,Union Township,President / Vice President,,independent,"Stein, Jill",1,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+STAFFORD,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+STAFFORD,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000210
+STAFFORD,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000210
+STAFFORD,Union Township,President / Vice President,,Republican,"Trump, Donald J.",12,000210
+STAFFORD,West Cooper Township,President / Vice President,,independent,"Stein, Jill",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000220
+STAFFORD,West Cooper Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000220
+STAFFORD,West Cooper Township,President / Vice President,,Republican,"Trump, Donald J.",32,000220
+STAFFORD,West St. John,President / Vice President,,independent,"Stein, Jill",3,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Hedges, James A",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"McMullin, Evan",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Perry, Darryl",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Smith, Mike",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Sood, Ajay",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+STAFFORD,West St. John,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+STAFFORD,West St. John,President / Vice President,,Democratic,"Clinton, Hillary Rodham",24,000230
+STAFFORD,West St. John,President / Vice President,,Libertarian,"Johnson, Gary",6,000230
+STAFFORD,West St. John,President / Vice President,,Republican,"Trump, Donald J.",166,000230
+STAFFORD,York Township,President / Vice President,,independent,"Stein, Jill",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+STAFFORD,York Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+STAFFORD,York Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000240
+STAFFORD,York Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000240
+STAFFORD,York Township,President / Vice President,,Republican,"Trump, Donald J.",21,000240
+STAFFORD,Albano Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000010
+STAFFORD,Albano Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",3,000010
+STAFFORD,Albano Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000010
+STAFFORD,Albano Township,United States House of Representatives,4,Republican,"Pompeo, Michael",19,000010
+STAFFORD,Byron Township,United States House of Representatives,4,independent,"Allen, Miranda",0,000020
+STAFFORD,Byron Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000020
+STAFFORD,Byron Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000020
+STAFFORD,Byron Township,United States House of Representatives,4,Republican,"Pompeo, Michael",32,000020
+STAFFORD,Clear Creek Township,United States House of Representatives,4,independent,"Allen, Miranda",0,000030
+STAFFORD,Clear Creek Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,000030
+STAFFORD,Clear Creek Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000030
+STAFFORD,Clear Creek Township,United States House of Representatives,4,Republican,"Pompeo, Michael",20,000030
+STAFFORD,Cleveland Township,United States House of Representatives,4,independent,"Allen, Miranda",4,000040
+STAFFORD,Cleveland Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000040
+STAFFORD,Cleveland Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000040
+STAFFORD,Cleveland Township,United States House of Representatives,4,Republican,"Pompeo, Michael",31,000040
+STAFFORD,Douglas Township,United States House of Representatives,4,independent,"Allen, Miranda",7,000050
+STAFFORD,Douglas Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000050
+STAFFORD,Douglas Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000050
+STAFFORD,Douglas Township,United States House of Representatives,4,Republican,"Pompeo, Michael",37,000050
+STAFFORD,East Cooper Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000060
+STAFFORD,East Cooper Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",3,000060
+STAFFORD,East Cooper Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000060
+STAFFORD,East Cooper Township,United States House of Representatives,4,Republican,"Pompeo, Michael",19,000060
+STAFFORD,East St. John,United States House of Representatives,4,independent,"Allen, Miranda",18,000070
+STAFFORD,East St. John,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",29,000070
+STAFFORD,East St. John,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000070
+STAFFORD,East St. John,United States House of Representatives,4,Republican,"Pompeo, Michael",172,000070
+STAFFORD,Fairview Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000080
+STAFFORD,Fairview Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",5,000080
+STAFFORD,Fairview Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000080
+STAFFORD,Fairview Township,United States House of Representatives,4,Republican,"Pompeo, Michael",42,000080
+STAFFORD,Farmington Township,United States House of Representatives,4,independent,"Allen, Miranda",17,000090
+STAFFORD,Farmington Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",19,000090
+STAFFORD,Farmington Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000090
+STAFFORD,Farmington Township,United States House of Representatives,4,Republican,"Pompeo, Michael",152,000090
+STAFFORD,Hayes Township,United States House of Representatives,4,independent,"Allen, Miranda",14,000100
+STAFFORD,Hayes Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",8,000100
+STAFFORD,Hayes Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000100
+STAFFORD,Hayes Township,United States House of Representatives,4,Republican,"Pompeo, Michael",69,000100
+STAFFORD,Lincoln Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000110
+STAFFORD,Lincoln Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000110
+STAFFORD,Lincoln Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000110
+STAFFORD,Lincoln Township,United States House of Representatives,4,Republican,"Pompeo, Michael",50,000110
+STAFFORD,North Seward Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000120
+STAFFORD,North Seward Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",7,000120
+STAFFORD,North Seward Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000120
+STAFFORD,North Seward Township,United States House of Representatives,4,Republican,"Pompeo, Michael",63,000120
+STAFFORD,North Stafford,United States House of Representatives,4,independent,"Allen, Miranda",23,000130
+STAFFORD,North Stafford,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",28,000130
+STAFFORD,North Stafford,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",3,000130
+STAFFORD,North Stafford,United States House of Representatives,4,Republican,"Pompeo, Michael",200,000130
+STAFFORD,Ohio Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000140
+STAFFORD,Ohio Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000140
+STAFFORD,Ohio Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000140
+STAFFORD,Ohio Township,United States House of Representatives,4,Republican,"Pompeo, Michael",38,000140
+STAFFORD,Putnam Township,United States House of Representatives,4,independent,"Allen, Miranda",0,000150
+STAFFORD,Putnam Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,000150
+STAFFORD,Putnam Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000150
+STAFFORD,Putnam Township,United States House of Representatives,4,Republican,"Pompeo, Michael",11,000150
+STAFFORD,Richland Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000160
+STAFFORD,Richland Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000160
+STAFFORD,Richland Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000160
+STAFFORD,Richland Township,United States House of Representatives,4,Republican,"Pompeo, Michael",20,000160
+STAFFORD,Rose Valley Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000170
+STAFFORD,Rose Valley Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",6,000170
+STAFFORD,Rose Valley Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000170
+STAFFORD,Rose Valley Township,United States House of Representatives,4,Republican,"Pompeo, Michael",23,000170
+STAFFORD,South Seward Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000180
+STAFFORD,South Seward Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000180
+STAFFORD,South Seward Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000180
+STAFFORD,South Seward Township,United States House of Representatives,4,Republican,"Pompeo, Michael",23,000180
+STAFFORD,South St. John,United States House of Representatives,4,independent,"Allen, Miranda",10,000190
+STAFFORD,South St. John,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",16,000190
+STAFFORD,South St. John,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000190
+STAFFORD,South St. John,United States House of Representatives,4,Republican,"Pompeo, Michael",86,000190
+STAFFORD,South Stafford,United States House of Representatives,4,independent,"Allen, Miranda",14,000200
+STAFFORD,South Stafford,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",38,000200
+STAFFORD,South Stafford,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",5,000200
+STAFFORD,South Stafford,United States House of Representatives,4,Republican,"Pompeo, Michael",161,000200
+STAFFORD,Union Township,United States House of Representatives,4,independent,"Allen, Miranda",1,000210
+STAFFORD,Union Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000210
+STAFFORD,Union Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000210
+STAFFORD,Union Township,United States House of Representatives,4,Republican,"Pompeo, Michael",10,000210
+STAFFORD,West Cooper Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000220
+STAFFORD,West Cooper Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",2,000220
+STAFFORD,West Cooper Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000220
+STAFFORD,West Cooper Township,United States House of Representatives,4,Republican,"Pompeo, Michael",30,000220
+STAFFORD,West St. John,United States House of Representatives,4,independent,"Allen, Miranda",13,000230
+STAFFORD,West St. John,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",13,000230
+STAFFORD,West St. John,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",2,000230
+STAFFORD,West St. John,United States House of Representatives,4,Republican,"Pompeo, Michael",163,000230
+STAFFORD,York Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000240
+STAFFORD,York Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,000240
+STAFFORD,York Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000240
+STAFFORD,York Township,United States House of Representatives,4,Republican,"Pompeo, Michael",17,000240
+STAFFORD,Albano Township,United States Senate,,write - in,"Smith, DJ",0,000010
+STAFFORD,Albano Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000010
+STAFFORD,Albano Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000010
+STAFFORD,Albano Township,United States Senate,,Republican,"Moran, Jerry",19,000010
+STAFFORD,Byron Township,United States Senate,,write - in,"Smith, DJ",0,000020
+STAFFORD,Byron Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000020
+STAFFORD,Byron Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000020
+STAFFORD,Byron Township,United States Senate,,Republican,"Moran, Jerry",31,000020
+STAFFORD,Clear Creek Township,United States Senate,,write - in,"Smith, DJ",0,000030
+STAFFORD,Clear Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000030
+STAFFORD,Clear Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000030
+STAFFORD,Clear Creek Township,United States Senate,,Republican,"Moran, Jerry",20,000030
+STAFFORD,Cleveland Township,United States Senate,,write - in,"Smith, DJ",0,000040
+STAFFORD,Cleveland Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000040
+STAFFORD,Cleveland Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000040
+STAFFORD,Cleveland Township,United States Senate,,Republican,"Moran, Jerry",33,000040
+STAFFORD,Douglas Township,United States Senate,,write - in,"Smith, DJ",0,000050
+STAFFORD,Douglas Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000050
+STAFFORD,Douglas Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000050
+STAFFORD,Douglas Township,United States Senate,,Republican,"Moran, Jerry",42,000050
+STAFFORD,East Cooper Township,United States Senate,,write - in,"Smith, DJ",0,000060
+STAFFORD,East Cooper Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000060
+STAFFORD,East Cooper Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000060
+STAFFORD,East Cooper Township,United States Senate,,Republican,"Moran, Jerry",21,000060
+STAFFORD,East St. John,United States Senate,,write - in,"Smith, DJ",0,000070
+STAFFORD,East St. John,United States Senate,,Democratic,"Wiesner, Patrick",36,000070
+STAFFORD,East St. John,United States Senate,,Libertarian,"Garrard, Robert D.",12,000070
+STAFFORD,East St. John,United States Senate,,Republican,"Moran, Jerry",172,000070
+STAFFORD,Fairview Township,United States Senate,,write - in,"Smith, DJ",0,000080
+STAFFORD,Fairview Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000080
+STAFFORD,Fairview Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000080
+STAFFORD,Fairview Township,United States Senate,,Republican,"Moran, Jerry",46,000080
+STAFFORD,Farmington Township,United States Senate,,write - in,"Smith, DJ",0,000090
+STAFFORD,Farmington Township,United States Senate,,Democratic,"Wiesner, Patrick",21,000090
+STAFFORD,Farmington Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000090
+STAFFORD,Farmington Township,United States Senate,,Republican,"Moran, Jerry",163,000090
+STAFFORD,Hayes Township,United States Senate,,write - in,"Smith, DJ",0,000100
+STAFFORD,Hayes Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000100
+STAFFORD,Hayes Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000100
+STAFFORD,Hayes Township,United States Senate,,Republican,"Moran, Jerry",81,000100
+STAFFORD,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000110
+STAFFORD,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000110
+STAFFORD,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000110
+STAFFORD,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",53,000110
+STAFFORD,North Seward Township,United States Senate,,write - in,"Smith, DJ",0,000120
+STAFFORD,North Seward Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000120
+STAFFORD,North Seward Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000120
+STAFFORD,North Seward Township,United States Senate,,Republican,"Moran, Jerry",68,000120
+STAFFORD,North Stafford,United States Senate,,write - in,"Smith, DJ",0,000130
+STAFFORD,North Stafford,United States Senate,,Democratic,"Wiesner, Patrick",36,000130
+STAFFORD,North Stafford,United States Senate,,Libertarian,"Garrard, Robert D.",13,000130
+STAFFORD,North Stafford,United States Senate,,Republican,"Moran, Jerry",208,000130
+STAFFORD,Ohio Township,United States Senate,,write - in,"Smith, DJ",0,000140
+STAFFORD,Ohio Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000140
+STAFFORD,Ohio Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000140
+STAFFORD,Ohio Township,United States Senate,,Republican,"Moran, Jerry",40,000140
+STAFFORD,Putnam Township,United States Senate,,write - in,"Smith, DJ",0,000150
+STAFFORD,Putnam Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000150
+STAFFORD,Putnam Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000150
+STAFFORD,Putnam Township,United States Senate,,Republican,"Moran, Jerry",9,000150
+STAFFORD,Richland Township,United States Senate,,write - in,"Smith, DJ",0,000160
+STAFFORD,Richland Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000160
+STAFFORD,Richland Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000160
+STAFFORD,Richland Township,United States Senate,,Republican,"Moran, Jerry",20,000160
+STAFFORD,Rose Valley Township,United States Senate,,write - in,"Smith, DJ",0,000170
+STAFFORD,Rose Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000170
+STAFFORD,Rose Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000170
+STAFFORD,Rose Valley Township,United States Senate,,Republican,"Moran, Jerry",24,000170
+STAFFORD,South Seward Township,United States Senate,,write - in,"Smith, DJ",0,000180
+STAFFORD,South Seward Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000180
+STAFFORD,South Seward Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000180
+STAFFORD,South Seward Township,United States Senate,,Republican,"Moran, Jerry",26,000180
+STAFFORD,South St. John,United States Senate,,write - in,"Smith, DJ",0,000190
+STAFFORD,South St. John,United States Senate,,Democratic,"Wiesner, Patrick",16,000190
+STAFFORD,South St. John,United States Senate,,Libertarian,"Garrard, Robert D.",6,000190
+STAFFORD,South St. John,United States Senate,,Republican,"Moran, Jerry",89,000190
+STAFFORD,South Stafford,United States Senate,,write - in,"Smith, DJ",0,000200
+STAFFORD,South Stafford,United States Senate,,Democratic,"Wiesner, Patrick",42,000200
+STAFFORD,South Stafford,United States Senate,,Libertarian,"Garrard, Robert D.",10,000200
+STAFFORD,South Stafford,United States Senate,,Republican,"Moran, Jerry",172,000200
+STAFFORD,Union Township,United States Senate,,write - in,"Smith, DJ",0,000210
+STAFFORD,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000210
+STAFFORD,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000210
+STAFFORD,Union Township,United States Senate,,Republican,"Moran, Jerry",10,000210
+STAFFORD,West Cooper Township,United States Senate,,write - in,"Smith, DJ",0,000220
+STAFFORD,West Cooper Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000220
+STAFFORD,West Cooper Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000220
+STAFFORD,West Cooper Township,United States Senate,,Republican,"Moran, Jerry",31,000220
+STAFFORD,West St. John,United States Senate,,write - in,"Smith, DJ",0,000230
+STAFFORD,West St. John,United States Senate,,Democratic,"Wiesner, Patrick",17,000230
+STAFFORD,West St. John,United States Senate,,Libertarian,"Garrard, Robert D.",7,000230
+STAFFORD,West St. John,United States Senate,,Republican,"Moran, Jerry",165,000230
+STAFFORD,York Township,United States Senate,,write - in,"Smith, DJ",0,000240
+STAFFORD,York Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000240
+STAFFORD,York Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000240
+STAFFORD,York Township,United States Senate,,Republican,"Moran, Jerry",20,000240

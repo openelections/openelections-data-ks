@@ -1,260 +1,1051 @@
-county,precinct,office,district,party,candidate,votes
-Bourbon,Drywood twp,President,,D,Clinton / Kaine,29
-Bourbon,Drywood twp,President,,R,Trump / Pence,165
-Bourbon,Drywood twp,President,,LBT,Johnson / Weld,5
-Bourbon,Drywood twp,President,,IND,Stein / Baraka,3
-Bourbon,Fort Scott W1,President,,D,Clinton / Kaine,124
-Bourbon,Fort Scott W1,President,,R,Trump / Pence,215
-Bourbon,Fort Scott W1,President,,LBT,Johnson / Weld,12
-Bourbon,Fort Scott W1,President,,IND,Stein / Baraka,9
-Bourbon,Fort Scott W1,President,,wri,McMullen / Johnson,1
-Bourbon,Fort Scott W2,President,,D,Clinton / Kaine,123
-Bourbon,Fort Scott W2,President,,R,Trump / Pence,241
-Bourbon,Fort Scott W2,President,,LBT,Johnson / Weld,22
-Bourbon,Fort Scott W2,President,,IND,Stein / Baraka,6
-Bourbon,Fort Scott W2,President,,wri,McMullen / Johnson,2
-Bourbon,Fort Scott W3,President,,D,Clinton / Kaine,52
-Bourbon,Fort Scott W3,President,,R,Trump / Pence,105
-Bourbon,Fort Scott W3,President,,LBT,Johnson / Weld,5
-Bourbon,Fort Scott W3,President,,IND,Stein / Baraka,4
-Bourbon,Fort Scott W4,President,,D,Clinton / Kaine,95
-Bourbon,Fort Scott W4,President,,R,Trump / Pence,254
-Bourbon,Fort Scott W4,President,,LBT,Johnson / Weld,20
-Bourbon,Fort Scott W4,President,,IND,Stein / Baraka,15
-Bourbon,Fort Scott W4,President,,wri,Castle / Bradley,1
-Bourbon,Fort Scott W4,President,,wri,McMullen / Johnson,3
-Bourbon,Fort Scott W5,President,,D,Clinton / Kaine,106
-Bourbon,Fort Scott W5,President,,R,Trump / Pence,317
-Bourbon,Fort Scott W5,President,,LBT,Johnson / Weld,18
-Bourbon,Fort Scott W5,President,,IND,Stein / Baraka,7
-Bourbon,Fort Scott W5,President,,wri,McMullen / Johnson,2
-Bourbon,Fort Scott W6,President,,D,Clinton / Kaine,144
-Bourbon,Fort Scott W6,President,,R,Trump / Pence,373
-Bourbon,Fort Scott W6,President,,LBT,Johnson / Weld,23
-Bourbon,Fort Scott W6,President,,IND,Stein / Baraka,9
-Bourbon,Fort Scott W6,President,,wri,Castle / Bradley,1
-Bourbon,Fort Scott W6,President,,wri,McMullen / Johnson,2
-Bourbon,Fort Scott W7,President,,D,Clinton / Kaine,122
-Bourbon,Fort Scott W7,President,,R,Trump / Pence,376
-Bourbon,Fort Scott W7,President,,LBT,Johnson / Weld,13
-Bourbon,Fort Scott W7,President,,IND,Stein / Baraka,9
-Bourbon,Fort Scott W7,President,,wri,McMullen / Johnson,1
-Bourbon,Franklin twp,President,,D,Clinton / Kaine,24
-Bourbon,Franklin twp,President,,R,Trump / Pence,113
-Bourbon,Franklin twp,President,,LBT,Johnson / Weld,3
-Bourbon,Franklin twp,President,,IND,Stein / Baraka,0
-Bourbon,Freedom twp,President,,D,Clinton / Kaine,23
-Bourbon,Freedom twp,President,,R,Trump / Pence,151
-Bourbon,Freedom twp,President,,LBT,Johnson / Weld,8
-Bourbon,Freedom twp,President,,IND,Stein / Baraka,5
-Bourbon,Marion twp,President,,D,Clinton / Kaine,71
-Bourbon,Marion twp,President,,R,Trump / Pence,413
-Bourbon,Marion twp,President,,LBT,Johnson / Weld,8
-Bourbon,Marion twp,President,,IND,Stein / Baraka,4
-Bourbon,Marmaton twp,President,,wri,McMullen / Johnson,3
-Bourbon,Marmaton twp,President,,D,Clinton / Kaine,70
-Bourbon,Marmaton twp,President,,R,Trump / Pence,253
-Bourbon,Marmaton twp,President,,LBT,Johnson / Weld,9
-Bourbon,Marmaton twp,President,,IND,Stein / Baraka,5
-Bourbon,Mill Creek twp,President,,D,Clinton / Kaine,43
-Bourbon,Mill Creek twp,President,,R,Trump / Pence,179
-Bourbon,Mill Creek twp,President,,LBT,Johnson / Weld,13
-Bourbon,Mill Creek twp,President,,IND,Stein / Baraka,3
-Bourbon,N Scott twp,President,,D,Clinton / Kaine,79
-Bourbon,N Scott twp,President,,R,Trump / Pence,287
-Bourbon,N Scott twp,President,,LBT,Johnson / Weld,11
-Bourbon,N Scott twp,President,,IND,Stein / Baraka,8
-Bourbon,Osage twp,President,,D,Clinton / Kaine,34
-Bourbon,Osage twp,President,,R,Trump / Pence,163
-Bourbon,Osage twp,President,,LBT,Johnson / Weld,5
-Bourbon,Osage twp,President,,IND,Stein / Baraka,6
-Bourbon,Pawnee twp,President,,D,Clinton / Kaine,25
-Bourbon,Pawnee twp,President,,R,Trump / Pence,114
-Bourbon,Pawnee twp,President,,LBT,Johnson / Weld,2
-Bourbon,Pawnee twp,President,,IND,Stein / Baraka,3
-Bourbon,S Scott twp,President,,D,Clinton / Kaine,147
-Bourbon,S Scott twp,President,,R,Trump / Pence,581
-Bourbon,S Scott twp,President,,LBT,Johnson / Weld,23
-Bourbon,S Scott twp,President,,IND,Stein / Baraka,9
-Bourbon,S Scott twp,President,,wri,McMullen / Johnson,3
-Bourbon,Timberhill twp,President,,D,Clinton / Kaine,21
-Bourbon,Timberhill twp,President,,R,Trump / Pence,80
-Bourbon,Timberhill twp,President,,LBT,Johnson / Weld,4
-Bourbon,Timberhill twp,President,,IND,Stein / Baraka,2
-Bourbon,Walnut twp,President,,D,Clinton / Kaine,4
-Bourbon,Walnut twp,President,,R,Trump / Pence,47
-Bourbon,Walnut twp,President,,LBT,Johnson / Weld,1
-Bourbon,Walnut twp,President,,IND,Stein / Baraka,1
-Bourbon,Drywood twp,U.S. Senate,,D,Patrick Wiesner,33
-Bourbon,Drywood twp,U.S. Senate,,R,Jerry Moran,158
-Bourbon,Drywood twp,U.S. Senate,,LBT,Robert Garrard,13
-Bourbon,Fort Scott W1,U.S. Senate,,D,Patrick Wiesner,110
-Bourbon,Fort Scott W1,U.S. Senate,,R,Jerry Moran,223
-Bourbon,Fort Scott W1,U.S. Senate,,LBT,Robert Garrard,23
-Bourbon,Fort Scott W2,U.S. Senate,,D,Patrick Wiesner,115
-Bourbon,Fort Scott W2,U.S. Senate,,R,Jerry Moran,244
-Bourbon,Fort Scott W2,U.S. Senate,,LBT,Robert Garrard,29
-Bourbon,Fort Scott W3,U.S. Senate,,D,Patrick Wiesner,50
-Bourbon,Fort Scott W3,U.S. Senate,,R,Jerry Moran,101
-Bourbon,Fort Scott W3,U.S. Senate,,LBT,Robert Garrard,13
-Bourbon,Fort Scott W4,U.S. Senate,,D,Patrick Wiesner,94
-Bourbon,Fort Scott W4,U.S. Senate,,R,Jerry Moran,265
-Bourbon,Fort Scott W4,U.S. Senate,,LBT,Robert Garrard,27
-Bourbon,Fort Scott W5,U.S. Senate,,D,Patrick Wiesner,93
-Bourbon,Fort Scott W5,U.S. Senate,,R,Jerry Moran,331
-Bourbon,Fort Scott W5,U.S. Senate,,LBT,Robert Garrard,30
-Bourbon,Fort Scott W6,U.S. Senate,,D,Patrick Wiesner,131
-Bourbon,Fort Scott W6,U.S. Senate,,R,Jerry Moran,392
-Bourbon,Fort Scott W6,U.S. Senate,,LBT,Robert Garrard,29
-Bourbon,Fort Scott W7,U.S. Senate,,D,Patrick Wiesner,128
-Bourbon,Fort Scott W7,U.S. Senate,,R,Jerry Moran,359
-Bourbon,Fort Scott W7,U.S. Senate,,LBT,Robert Garrard,30
-Bourbon,Franklin twp,U.S. Senate,,D,Patrick Wiesner,22
-Bourbon,Franklin twp,U.S. Senate,,R,Jerry Moran,109
-Bourbon,Franklin twp,U.S. Senate,,LBT,Robert Garrard,9
-Bourbon,Freedom twp,U.S. Senate,,D,Patrick Wiesner,29
-Bourbon,Freedom twp,U.S. Senate,,R,Jerry Moran,143
-Bourbon,Freedom twp,U.S. Senate,,LBT,Robert Garrard,10
-Bourbon,Marion twp,U.S. Senate,,D,Patrick Wiesner,81
-Bourbon,Marion twp,U.S. Senate,,R,Jerry Moran,386
-Bourbon,Marion twp,U.S. Senate,,LBT,Robert Garrard,26
-Bourbon,Marmaton twp,U.S. Senate,,D,Patrick Wiesner,77
-Bourbon,Marmaton twp,U.S. Senate,,R,Jerry Moran,251
-Bourbon,Marmaton twp,U.S. Senate,,LBT,Robert Garrard,23
-Bourbon,Mill Creek twp,U.S. Senate,,D,Patrick Wiesner,42
-Bourbon,Mill Creek twp,U.S. Senate,,R,Jerry Moran,180
-Bourbon,Mill Creek twp,U.S. Senate,,LBT,Robert Garrard,13
-Bourbon,N Scott twp,U.S. Senate,,D,Patrick Wiesner,79
-Bourbon,N Scott twp,U.S. Senate,,R,Jerry Moran,288
-Bourbon,N Scott twp,U.S. Senate,,LBT,Robert Garrard,18
-Bourbon,Osage twp,U.S. Senate,,D,Patrick Wiesner,48
-Bourbon,Osage twp,U.S. Senate,,R,Jerry Moran,149
-Bourbon,Osage twp,U.S. Senate,,LBT,Robert Garrard,12
-Bourbon,Pawnee twp,U.S. Senate,,D,Patrick Wiesner,23
-Bourbon,Pawnee twp,U.S. Senate,,R,Jerry Moran,112
-Bourbon,Pawnee twp,U.S. Senate,,LBT,Robert Garrard,6
-Bourbon,S Scott twp,U.S. Senate,,D,Patrick Wiesner,125
-Bourbon,S Scott twp,U.S. Senate,,R,Jerry Moran,616
-Bourbon,S Scott twp,U.S. Senate,,LBT,Robert Garrard,29
-Bourbon,Timberhill twp,U.S. Senate,,D,Patrick Wiesner,23
-Bourbon,Timberhill twp,U.S. Senate,,R,Jerry Moran,74
-Bourbon,Timberhill twp,U.S. Senate,,LBT,Robert Garrard,6
-Bourbon,Timberhill twp,U.S. Senate,,D,Patrick Wiesner,5
-Bourbon,Walnut twp,U.S. Senate,,R,Jerry Moran,46
-Bourbon,Walnut twp,U.S. Senate,,LBT,Robert Garrard,1
-Bourbon,Drywood twp,U.S. House,2,D,Britani Potter,28
-Bourbon,Drywood twp,U.S. House,2,R,Lynn Jenkinds,163
-Bourbon,Drywood twp,U.S. House,2,LBT,James Bales,14
-Bourbon,Fort Scott W1,U.S. House,2,D,Patrick Wiesner,98
-Bourbon,Fort Scott W1,U.S. House,2,R,Jerry Moran,236
-Bourbon,Fort Scott W1,U.S. House,2,LBT,Robert Garrard,25
-Bourbon,Fort Scott W2,U.S. House,2,D,Patrick Wiesner,81
-Bourbon,Fort Scott W2,U.S. House,2,R,Jerry Moran,280
-Bourbon,Fort Scott W2,U.S. House,2,LBT,Robert Garrard,28
-Bourbon,Fort Scott W3,U.S. House,2,D,Patrick Wiesner,40
-Bourbon,Fort Scott W3,U.S. House,2,R,Jerry Moran,109
-Bourbon,Fort Scott W3,U.S. House,2,LBT,Robert Garrard,13
-Bourbon,Fort Scott W4,U.S. House,2,D,Patrick Wiesner,84
-Bourbon,Fort Scott W4,U.S. House,2,R,Jerry Moran,281
-Bourbon,Fort Scott W4,U.S. House,2,LBT,Robert Garrard,20
-Bourbon,Fort Scott W5,U.S. House,2,D,Patrick Wiesner,84
-Bourbon,Fort Scott W5,U.S. House,2,R,Jerry Moran,339
-Bourbon,Fort Scott W5,U.S. House,2,LBT,Robert Garrard,29
-Bourbon,Fort Scott W6,U.S. House,2,D,Patrick Wiesner,109
-Bourbon,Fort Scott W6,U.S. House,2,R,Jerry Moran,423
-Bourbon,Fort Scott W6,U.S. House,2,LBT,Robert Garrard,20
-Bourbon,Fort Scott W7,U.S. House,2,D,Patrick Wiesner,105
-Bourbon,Fort Scott W7,U.S. House,2,R,Jerry Moran,382
-Bourbon,Fort Scott W7,U.S. House,2,LBT,Robert Garrard,33
-Bourbon,Franklin twp,U.S. House,2,D,Patrick Wiesner,19
-Bourbon,Franklin twp,U.S. House,2,R,Jerry Moran,118
-Bourbon,Franklin twp,U.S. House,2,LBT,Robert Garrard,6
-Bourbon,Freedom twp,U.S. House,2,D,Patrick Wiesner,27
-Bourbon,Freedom twp,U.S. House,2,R,Jerry Moran,148
-Bourbon,Freedom twp,U.S. House,2,LBT,Robert Garrard,8
-Bourbon,Marion twp,U.S. House,2,D,Patrick Wiesner,75
-Bourbon,Marion twp,U.S. House,2,R,Jerry Moran,397
-Bourbon,Marion twp,U.S. House,2,LBT,Robert Garrard,24
-Bourbon,Marmaton twp,U.S. House,2,D,Patrick Wiesner,60
-Bourbon,Marmaton twp,U.S. House,2,R,Jerry Moran,275
-Bourbon,Marmaton twp,U.S. House,2,LBT,Robert Garrard,16
-Bourbon,Mill Creek twp,U.S. House,2,D,Patrick Wiesner,40
-Bourbon,Mill Creek twp,U.S. House,2,R,Jerry Moran,188
-Bourbon,Mill Creek twp,U.S. House,2,LBT,Robert Garrard,11
-Bourbon,N Scott twp,U.S. House,2,D,Patrick Wiesner,81
-Bourbon,N Scott twp,U.S. House,2,R,Jerry Moran,285
-Bourbon,N Scott twp,U.S. House,2,LBT,Robert Garrard,23
-Bourbon,Osage twp,U.S. House,2,D,Patrick Wiesner,43
-Bourbon,Osage twp,U.S. House,2,R,Jerry Moran,157
-Bourbon,Osage twp,U.S. House,2,LBT,Robert Garrard,10
-Bourbon,Pawnee twp,U.S. House,2,D,Patrick Wiesner,23
-Bourbon,Pawnee twp,U.S. House,2,R,Jerry Moran,117
-Bourbon,Pawnee twp,U.S. House,2,LBT,Robert Garrard,3
-Bourbon,S Scott twp,U.S. House,2,D,Patrick Wiesner,121
-Bourbon,S Scott twp,U.S. House,2,R,Jerry Moran,617
-Bourbon,S Scott twp,U.S. House,2,LBT,Robert Garrard,22
-Bourbon,Timberhill twp,U.S. House,2,D,Patrick Wiesner,23
-Bourbon,Timberhill twp,U.S. House,2,R,Jerry Moran,78
-Bourbon,Timberhill twp,U.S. House,2,LBT,Robert Garrard,2
-Bourbon,Timberhill twp,U.S. House,2,D,Patrick Wiesner,6
-Bourbon,Walnut twp,U.S. House,2,R,Jerry Moran,47
-Bourbon,Walnut twp,U.S. House,2,LBT,Robert Garrard,0
-Bourbon,Drywood twp,State Senate,13,D,Lynn Grant,39
-Bourbon,Drywood twp,State Senate,13,R,Jake LaTurner,165
-Bourbon,Fort Scott W1,State Senate,12,D,Christopher Johnson,5
-Bourbon,Fort Scott W1,State Senate,12,R,Caryn Tyson,8
-Bourbon,Fort Scott W1,State Senate,13,D,Lynn Grant,156
-Bourbon,Fort Scott W1,State Senate,13,R,Jake LaTurner,185
-Bourbon,Fort Scott W2,State Senate,13,D,Lynn Grant,150
-Bourbon,Fort Scott W2,State Senate,13,R,Jake LaTurner,238
-Bourbon,Fort Scott W3,State Senate,13,D,Lynn Grant,68
-Bourbon,Fort Scott W3,State Senate,13,R,Jake LaTurner,93
-Bourbon,Fort Scott W4,State Senate,13,D,Lynn Grant,162
-Bourbon,Fort Scott W4,State Senate,13,R,Jake LaTurner,225
-Bourbon,Fort Scott W5,State Senate,13,D,Lynn Grant,168
-Bourbon,Fort Scott W5,State Senate,13,R,Jake LaTurner,282
-Bourbon,Fort Scott W6,State Senate,13,D,Lynn Grant,201
-Bourbon,Fort Scott W6,State Senate,13,R,Jake LaTurner,345
-Bourbon,Fort Scott W7,State Senate,13,D,Lynn Grant,185
-Bourbon,Fort Scott W7,State Senate,13,R,Jake LaTurner,334
-Bourbon,Franklin twp,State Senate,12,D,Christopher Johnson,23
-Bourbon,Franklin twp,State Senate,12,R,Caryn Tyson,107
-Bourbon,Freedom twp,State Senate,12,D,Christopher Johnson,29
-Bourbon,Freedom twp,State Senate,12,R,Caryn Tyson,147
-Bourbon,Marion twp,State Senate,12,D,Christopher Johnson,91
-Bourbon,Marion twp,State Senate,12,R,Caryn Tyson,358
-Bourbon,Marmaton twp,State Senate,12,D,Christopher Johnson,74
-Bourbon,Marmaton twp,State Senate,12,R,Caryn Tyson,264
-Bourbon,Mill Creek twp,State Senate,12,D,Christopher Johnson,41
-Bourbon,Mill Creek twp,State Senate,12,R,Caryn Tyson,185
-Bourbon,N Scott twp,State Senate,12,D,Christopher Johnson,97
-Bourbon,N Scott twp,State Senate,12,R,Caryn Tyson,286
-Bourbon,Osage twp,State Senate,12,D,Christopher Johnson,41
-Bourbon,Osage twp,State Senate,12,R,Caryn Tyson,161
-Bourbon,Pawnee twp,State Senate,13,D,Lynn Grant,41
-Bourbon,Pawnee twp,State Senate,13,R,Jake LaTurner,97
-Bourbon,S Scott twp,State Senate,13,D,Lynn Grant,241
-Bourbon,S Scott twp,State Senate,13,R,Jake LaTurner,520
-Bourbon,Timberhill twp,State Senate,12,D,Christopher Johnson,13
-Bourbon,Timberhill twp,State Senate,12,R,Caryn Tyson,82
-Bourbon,Walnut twp,State Senate,13,D,Lynn Grant,7
-Bourbon,Walnut twp,State Senate,13,R,Jake LaTurner,47
-Bourbon,Marion twp,State House,2,D,Adam Lusker,320
-Bourbon,Walnut twp,State House,2,D,Adam Lusker,29
-Bourbon,Drywood twp,State House,4,R,Trevor Jacobs,181
-Bourbon,Fort Scott W1,State House,4,R,Trevor Jacobs,308
-Bourbon,Fort Scott W2,State House,4,R,Trevor Jacobs,339
-Bourbon,Fort Scott W3,State House,4,R,Trevor Jacobs,141
-Bourbon,Fort Scott W4,State House,4,R,Trevor Jacobs,327
-Bourbon,Fort Scott W5,State House,4,R,Trevor Jacobs,386
-Bourbon,Fort Scott W6,State House,4,R,Trevor Jacobs,479
-Bourbon,Fort Scott W7,State House,4,R,Trevor Jacobs,460
-Bourbon,Franklin twp,State House,4,R,Trevor Jacobs,127
-Bourbon,Freedom twp,State House,4,R,Trevor Jacobs,164
-Bourbon,Marmaton twp,State House,4,R,Trevor Jacobs,311
-Bourbon,Mill Creek twp,State House,4,R,Trevor Jacobs,212
-Bourbon,N Scott twp,State House,4,R,Trevor Jacobs,349
-Bourbon,Osage twp,State House,4,R,Trevor Jacobs,186
-Bourbon,Pawnee twp,State House,4,R,Trevor Jacobs,120
-Bourbon,S Scott twp,State House,4,R,Trevor Jacobs,678
-Bourbon,Timberhill twp,State House,4,R,Trevor Jacobs,87
+county,precinct,office,district,party,candidate,votes,vtd
+BOURBON,Drywood Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",181,000010
+BOURBON,Fort Scott Ward 1,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",308,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00002F
+BOURBON,Fort Scott Ward 2,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",339,00003A
+BOURBON,Fort Scott Ward 3,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",141,000040
+BOURBON,Fort Scott Ward 4,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",327,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,00005D
+BOURBON,Fort Scott Ward 5,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",386,000060
+BOURBON,Fort Scott Ward 6,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",479,000070
+BOURBON,Fort Scott Ward 7,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",460,000080
+BOURBON,Franklin Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",127,000090
+BOURBON,Freedom Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",164,000100
+BOURBON,Marion Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",320,000110
+BOURBON,Marmaton Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",311,000120
+BOURBON,Mill Creek Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",212,000130
+BOURBON,North Scott Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",349,000140
+BOURBON,Osage Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",186,000150
+BOURBON,Pawnee Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",120,000160
+BOURBON,South Scott Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",678,000170
+BOURBON,Timberhill Township,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",87,000180
+BOURBON,Walnut Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",29,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Kansas House of Representatives,4,Republican,"Jacobs, Trevor",0,900030
+BOURBON,Drywood Township,Kansas Senate,13,Democratic,"Grant, Lynn D.",39,000010
+BOURBON,Drywood Township,Kansas Senate,13,Republican,"LaTurner, Jake",165,000010
+BOURBON,Fort Scott Ward 1,Kansas Senate,13,Democratic,"Grant, Lynn D.",156,00002A
+BOURBON,Fort Scott Ward 1,Kansas Senate,13,Republican,"LaTurner, Jake",185,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Kansas Senate,12,Democratic,"Johnston, Christopher B.",5,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Kansas Senate,12,Republican,"Tyson, Caryn",8,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Kansas Senate,12,Republican,"Tyson, Caryn",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Kansas Senate,12,Republican,"Tyson, Caryn",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Kansas Senate,12,Republican,"Tyson, Caryn",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Kansas Senate,12,Democratic,"Johnston, Christopher B.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Kansas Senate,12,Republican,"Tyson, Caryn",0,00002F
+BOURBON,Fort Scott Ward 2,Kansas Senate,13,Democratic,"Grant, Lynn D.",150,00003A
+BOURBON,Fort Scott Ward 2,Kansas Senate,13,Republican,"LaTurner, Jake",238,00003A
+BOURBON,Fort Scott Ward 3,Kansas Senate,13,Democratic,"Grant, Lynn D.",68,000040
+BOURBON,Fort Scott Ward 3,Kansas Senate,13,Republican,"LaTurner, Jake",93,000040
+BOURBON,Fort Scott Ward 4,Kansas Senate,13,Democratic,"Grant, Lynn D.",162,00005A
+BOURBON,Fort Scott Ward 4,Kansas Senate,13,Republican,"LaTurner, Jake",225,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Kansas Senate,13,Republican,"LaTurner, Jake",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Kansas Senate,13,Republican,"LaTurner, Jake",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas Senate,13,Republican,"LaTurner, Jake",0,00005D
+BOURBON,Fort Scott Ward 5,Kansas Senate,13,Democratic,"Grant, Lynn D.",168,000060
+BOURBON,Fort Scott Ward 5,Kansas Senate,13,Republican,"LaTurner, Jake",282,000060
+BOURBON,Fort Scott Ward 6,Kansas Senate,13,Democratic,"Grant, Lynn D.",201,000070
+BOURBON,Fort Scott Ward 6,Kansas Senate,13,Republican,"LaTurner, Jake",345,000070
+BOURBON,Fort Scott Ward 7,Kansas Senate,13,Democratic,"Grant, Lynn D.",185,000080
+BOURBON,Fort Scott Ward 7,Kansas Senate,13,Republican,"LaTurner, Jake",334,000080
+BOURBON,Franklin Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",23,000090
+BOURBON,Franklin Township,Kansas Senate,12,Republican,"Tyson, Caryn",107,000090
+BOURBON,Freedom Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",29,000100
+BOURBON,Freedom Township,Kansas Senate,12,Republican,"Tyson, Caryn",147,000100
+BOURBON,Marion Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",91,000110
+BOURBON,Marion Township,Kansas Senate,12,Republican,"Tyson, Caryn",358,000110
+BOURBON,Marmaton Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",74,000120
+BOURBON,Marmaton Township,Kansas Senate,12,Republican,"Tyson, Caryn",264,000120
+BOURBON,Mill Creek Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",41,000130
+BOURBON,Mill Creek Township,Kansas Senate,12,Republican,"Tyson, Caryn",185,000130
+BOURBON,North Scott Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",97,000140
+BOURBON,North Scott Township,Kansas Senate,12,Republican,"Tyson, Caryn",286,000140
+BOURBON,Osage Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",41,000150
+BOURBON,Osage Township,Kansas Senate,12,Republican,"Tyson, Caryn",161,000150
+BOURBON,Pawnee Township,Kansas Senate,13,Democratic,"Grant, Lynn D.",41,000160
+BOURBON,Pawnee Township,Kansas Senate,13,Republican,"LaTurner, Jake",97,000160
+BOURBON,South Scott Township,Kansas Senate,13,Democratic,"Grant, Lynn D.",241,000170
+BOURBON,South Scott Township,Kansas Senate,13,Republican,"LaTurner, Jake",520,000170
+BOURBON,Timberhill Township,Kansas Senate,12,Democratic,"Johnston, Christopher B.",13,000180
+BOURBON,Timberhill Township,Kansas Senate,12,Republican,"Tyson, Caryn",82,000180
+BOURBON,Walnut Township,Kansas Senate,13,Democratic,"Grant, Lynn D.",7,000190
+BOURBON,Walnut Township,Kansas Senate,13,Republican,"LaTurner, Jake",47,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Kansas Senate,13,Republican,"LaTurner, Jake",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas Senate,13,Republican,"LaTurner, Jake",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Kansas Senate,13,Democratic,"Grant, Lynn D.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Kansas Senate,13,Republican,"LaTurner, Jake",0,900030
+BOURBON,Drywood Township,President / Vice President,,independent,"Stein, Jill",3,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+BOURBON,Drywood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+BOURBON,Drywood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000010
+BOURBON,Drywood Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000010
+BOURBON,Drywood Township,President / Vice President,,Republican,"Trump, Donald J.",165,000010
+BOURBON,Fort Scott Ward 1,President / Vice President,,independent,"Stein, Jill",9,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Hedges, James A",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"McMullin, Evan",1,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Smith, Mike",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",124,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",12,00002A
+BOURBON,Fort Scott Ward 1,President / Vice President,,Republican,"Trump, Donald J.",215,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,independent,"Stein, Jill",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Castle, Darrell L",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Giordani, Rocky",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Hedges, James A",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Hoefling, Tom",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Kahn, Lynn",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"La Riva, Gloria",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Levinson, Michael S.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Maturen, Michael A",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"McMullin, Evan",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Perry, Darryl",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Schriner, Joe C",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Smith, Mike",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Sood, Ajay",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Sterling, Shawna",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,Libertarian,"Johnson, Gary",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,President / Vice President,,Republican,"Trump, Donald J.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,independent,"Stein, Jill",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Castle, Darrell L",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Giordani, Rocky",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Hedges, James A",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Hoefling, Tom",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Kahn, Lynn",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"La Riva, Gloria",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Levinson, Michael S.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Maturen, Michael A",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"McMullin, Evan",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Perry, Darryl",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Schriner, Joe C",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Smith, Mike",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Sood, Ajay",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Sterling, Shawna",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,Libertarian,"Johnson, Gary",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,President / Vice President,,Republican,"Trump, Donald J.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,independent,"Stein, Jill",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Castle, Darrell L",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Giordani, Rocky",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Hedges, James A",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Hoefling, Tom",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Kahn, Lynn",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"La Riva, Gloria",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Levinson, Michael S.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Maturen, Michael A",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"McMullin, Evan",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Perry, Darryl",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Schriner, Joe C",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Smith, Mike",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Sood, Ajay",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Sterling, Shawna",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,Libertarian,"Johnson, Gary",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,President / Vice President,,Republican,"Trump, Donald J.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,independent,"Stein, Jill",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Castle, Darrell L",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Giordani, Rocky",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Hedges, James A",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Hoefling, Tom",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Kahn, Lynn",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"La Riva, Gloria",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Levinson, Michael S.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Maturen, Michael A",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"McMullin, Evan",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Perry, Darryl",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Schriner, Joe C",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Smith, Mike",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Sood, Ajay",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Sterling, Shawna",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,Libertarian,"Johnson, Gary",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,President / Vice President,,Republican,"Trump, Donald J.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,independent,"Stein, Jill",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Castle, Darrell L",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Giordani, Rocky",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Hedges, James A",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Hoefling, Tom",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Kahn, Lynn",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"La Riva, Gloria",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Levinson, Michael S.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Maturen, Michael A",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"McMullin, Evan",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Perry, Darryl",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Schriner, Joe C",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Smith, Mike",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Sood, Ajay",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Sterling, Shawna",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,Libertarian,"Johnson, Gary",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,President / Vice President,,Republican,"Trump, Donald J.",0,00002F
+BOURBON,Fort Scott Ward 2,President / Vice President,,independent,"Stein, Jill",6,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"McMullin, Evan",2,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",123,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",22,00003A
+BOURBON,Fort Scott Ward 2,President / Vice President,,Republican,"Trump, Donald J.",241,00003A
+BOURBON,Fort Scott Ward 3,President / Vice President,,independent,"Stein, Jill",4,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",52,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",5,000040
+BOURBON,Fort Scott Ward 3,President / Vice President,,Republican,"Trump, Donald J.",102,000040
+BOURBON,Fort Scott Ward 4,President / Vice President,,independent,"Stein, Jill",15,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Castle, Darrell L",1,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Hedges, James A",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"McMullin, Evan",3,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Smith, Mike",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",95,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",20,00005A
+BOURBON,Fort Scott Ward 4,President / Vice President,,Republican,"Trump, Donald J.",254,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,independent,"Stein, Jill",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Castle, Darrell L",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Giordani, Rocky",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Hedges, James A",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Kahn, Lynn",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"La Riva, Gloria",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Maturen, Michael A",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"McMullin, Evan",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Perry, Darryl",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Schriner, Joe C",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Smith, Mike",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Sood, Ajay",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Sterling, Shawna",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,President / Vice President,,Republican,"Trump, Donald J.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,independent,"Stein, Jill",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Castle, Darrell L",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Giordani, Rocky",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Hedges, James A",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Kahn, Lynn",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"La Riva, Gloria",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Levinson, Michael S.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Maturen, Michael A",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"McMullin, Evan",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Perry, Darryl",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Schriner, Joe C",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Smith, Mike",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Sood, Ajay",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Sterling, Shawna",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,President / Vice President,,Republican,"Trump, Donald J.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,independent,"Stein, Jill",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Castle, Darrell L",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Giordani, Rocky",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Hedges, James A",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Hoefling, Tom",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Kahn, Lynn",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"La Riva, Gloria",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Levinson, Michael S.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Maturen, Michael A",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"McMullin, Evan",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Perry, Darryl",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Schriner, Joe C",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Smith, Mike",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Sood, Ajay",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Sterling, Shawna",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Libertarian,"Johnson, Gary",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Republican,"Trump, Donald J.",0,00005D
+BOURBON,Fort Scott Ward 5,President / Vice President,,independent,"Stein, Jill",7,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Hedges, James A",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"McMullin, Evan",2,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Perry, Darryl",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Smith, Mike",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Sood, Ajay",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,Democratic,"Clinton, Hillary Rodham",106,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,Libertarian,"Johnson, Gary",18,000060
+BOURBON,Fort Scott Ward 5,President / Vice President,,Republican,"Trump, Donald J.",317,000060
+BOURBON,Fort Scott Ward 6,President / Vice President,,independent,"Stein, Jill",9,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Castle, Darrell L",1,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Hedges, James A",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"McMullin, Evan",2,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Perry, Darryl",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Smith, Mike",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Sood, Ajay",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,Democratic,"Clinton, Hillary Rodham",144,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,Libertarian,"Johnson, Gary",23,000070
+BOURBON,Fort Scott Ward 6,President / Vice President,,Republican,"Trump, Donald J.",373,000070
+BOURBON,Fort Scott Ward 7,President / Vice President,,independent,"Stein, Jill",9,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Hedges, James A",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"McMullin, Evan",1,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Perry, Darryl",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Smith, Mike",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Sood, Ajay",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,Democratic,"Clinton, Hillary Rodham",122,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,Libertarian,"Johnson, Gary",13,000080
+BOURBON,Fort Scott Ward 7,President / Vice President,,Republican,"Trump, Donald J.",376,000080
+BOURBON,Franklin Township,President / Vice President,,independent,"Stein, Jill",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+BOURBON,Franklin Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+BOURBON,Franklin Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",24,000090
+BOURBON,Franklin Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000090
+BOURBON,Franklin Township,President / Vice President,,Republican,"Trump, Donald J.",113,000090
+BOURBON,Freedom Township,President / Vice President,,independent,"Stein, Jill",5,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+BOURBON,Freedom Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+BOURBON,Freedom Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000100
+BOURBON,Freedom Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000100
+BOURBON,Freedom Township,President / Vice President,,Republican,"Trump, Donald J.",151,000100
+BOURBON,Marion Township,President / Vice President,,independent,"Stein, Jill",4,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+BOURBON,Marion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+BOURBON,Marion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",71,000110
+BOURBON,Marion Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000110
+BOURBON,Marion Township,President / Vice President,,Republican,"Trump, Donald J.",413,000110
+BOURBON,Marmaton Township,President / Vice President,,independent,"Stein, Jill",5,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"McMullin, Evan",3,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+BOURBON,Marmaton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+BOURBON,Marmaton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",70,000120
+BOURBON,Marmaton Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000120
+BOURBON,Marmaton Township,President / Vice President,,Republican,"Trump, Donald J.",253,000120
+BOURBON,Mill Creek Township,President / Vice President,,independent,"Stein, Jill",3,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+BOURBON,Mill Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",43,000130
+BOURBON,Mill Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000130
+BOURBON,Mill Creek Township,President / Vice President,,Republican,"Trump, Donald J.",179,000130
+BOURBON,North Scott Township,President / Vice President,,independent,"Stein, Jill",8,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+BOURBON,North Scott Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+BOURBON,North Scott Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",79,000140
+BOURBON,North Scott Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000140
+BOURBON,North Scott Township,President / Vice President,,Republican,"Trump, Donald J.",287,000140
+BOURBON,Osage Township,President / Vice President,,independent,"Stein, Jill",6,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+BOURBON,Osage Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+BOURBON,Osage Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,000150
+BOURBON,Osage Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000150
+BOURBON,Osage Township,President / Vice President,,Republican,"Trump, Donald J.",163,000150
+BOURBON,Pawnee Township,President / Vice President,,independent,"Stein, Jill",3,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+BOURBON,Pawnee Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+BOURBON,Pawnee Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",25,000160
+BOURBON,Pawnee Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000160
+BOURBON,Pawnee Township,President / Vice President,,Republican,"Trump, Donald J.",114,000160
+BOURBON,South Scott Township,President / Vice President,,independent,"Stein, Jill",9,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"McMullin, Evan",3,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+BOURBON,South Scott Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+BOURBON,South Scott Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",147,000170
+BOURBON,South Scott Township,President / Vice President,,Libertarian,"Johnson, Gary",23,000170
+BOURBON,South Scott Township,President / Vice President,,Republican,"Trump, Donald J.",581,000170
+BOURBON,Timberhill Township,President / Vice President,,independent,"Stein, Jill",2,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+BOURBON,Timberhill Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+BOURBON,Timberhill Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",21,000180
+BOURBON,Timberhill Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000180
+BOURBON,Timberhill Township,President / Vice President,,Republican,"Trump, Donald J.",80,000180
+BOURBON,Walnut Township,President / Vice President,,independent,"Stein, Jill",1,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Castle, Darrell L",1,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+BOURBON,Walnut Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+BOURBON,Walnut Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000190
+BOURBON,Walnut Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000190
+BOURBON,Walnut Township,President / Vice President,,Republican,"Trump, Donald J.",47,000190
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,independent,"Stein, Jill",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Hedges, James A",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"McMullin, Evan",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Perry, Darryl",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Smith, Mike",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Sood, Ajay",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,independent,"Stein, Jill",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Hedges, James A",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"McMullin, Evan",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Perry, Darryl",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Smith, Mike",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Sood, Ajay",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,independent,"Stein, Jill",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Hedges, James A",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"McMullin, Evan",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Perry, Darryl",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Smith, Mike",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Sood, Ajay",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,President / Vice President,,Republican,"Trump, Donald J.",0,900030
+BOURBON,Drywood Township,United States House of Representatives,2,Democratic,"Potter, Britani",28,000010
+BOURBON,Drywood Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000010
+BOURBON,Drywood Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",163,000010
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",98,00002A
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",25,00002A
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",236,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Democratic,"Potter, Britani",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Democratic,"Potter, Britani",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Democratic,"Potter, Britani",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Democratic,"Potter, Britani",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Democratic,"Potter, Britani",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002F
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",81,00003A
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",28,00003A
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",280,00003A
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",40,000040
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,000040
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",109,000040
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Democratic,"Potter, Britani",84,00005A
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",20,00005A
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",281,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Democratic,"Potter, Britani",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Democratic,"Potter, Britani",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Democratic,"Potter, Britani",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005D
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Democratic,"Potter, Britani",84,000060
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Libertarian,"Bales, James Houston",29,000060
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",339,000060
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Democratic,"Potter, Britani",109,000070
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Libertarian,"Bales, James Houston",20,000070
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Republican,"Jenkins, Lynn",423,000070
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Democratic,"Potter, Britani",105,000080
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Libertarian,"Bales, James Houston",33,000080
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Republican,"Jenkins, Lynn",382,000080
+BOURBON,Franklin Township,United States House of Representatives,2,Democratic,"Potter, Britani",19,000090
+BOURBON,Franklin Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000090
+BOURBON,Franklin Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",118,000090
+BOURBON,Freedom Township,United States House of Representatives,2,Democratic,"Potter, Britani",27,000100
+BOURBON,Freedom Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000100
+BOURBON,Freedom Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",148,000100
+BOURBON,Marion Township,United States House of Representatives,2,Democratic,"Potter, Britani",75,000110
+BOURBON,Marion Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",24,000110
+BOURBON,Marion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",397,000110
+BOURBON,Marmaton Township,United States House of Representatives,2,Democratic,"Potter, Britani",60,000120
+BOURBON,Marmaton Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",16,000120
+BOURBON,Marmaton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",275,000120
+BOURBON,Mill Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",40,000130
+BOURBON,Mill Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",11,000130
+BOURBON,Mill Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",188,000130
+BOURBON,North Scott Township,United States House of Representatives,2,Democratic,"Potter, Britani",81,000140
+BOURBON,North Scott Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",23,000140
+BOURBON,North Scott Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",285,000140
+BOURBON,Osage Township,United States House of Representatives,2,Democratic,"Potter, Britani",43,000150
+BOURBON,Osage Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,000150
+BOURBON,Osage Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",157,000150
+BOURBON,Pawnee Township,United States House of Representatives,2,Democratic,"Potter, Britani",23,000160
+BOURBON,Pawnee Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000160
+BOURBON,Pawnee Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",117,000160
+BOURBON,South Scott Township,United States House of Representatives,2,Democratic,"Potter, Britani",121,000170
+BOURBON,South Scott Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",22,000170
+BOURBON,South Scott Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",617,000170
+BOURBON,Timberhill Township,United States House of Representatives,2,Democratic,"Potter, Britani",23,000180
+BOURBON,Timberhill Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000180
+BOURBON,Timberhill Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",78,000180
+BOURBON,Walnut Township,United States House of Representatives,2,Democratic,"Potter, Britani",6,000190
+BOURBON,Walnut Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,000190
+BOURBON,Walnut Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",47,000190
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Democratic,"Potter, Britani",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Democratic,"Potter, Britani",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Democratic,"Potter, Britani",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900030
+BOURBON,Drywood Township,United States Senate,,write - in,"Smith, DJ",0,000010
+BOURBON,Drywood Township,United States Senate,,Democratic,"Wiesner, Patrick",33,000010
+BOURBON,Drywood Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000010
+BOURBON,Drywood Township,United States Senate,,Republican,"Moran, Jerry",158,000010
+BOURBON,Fort Scott Ward 1,United States Senate,,write - in,"Smith, DJ",0,00002A
+BOURBON,Fort Scott Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",110,00002A
+BOURBON,Fort Scott Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",23,00002A
+BOURBON,Fort Scott Ward 1,United States Senate,,Republican,"Moran, Jerry",223,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,write - in,"Smith, DJ",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,Democratic,"Wiesner, Patrick",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,Libertarian,"Garrard, Robert D.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,Republican,"Moran, Jerry",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,write - in,"Smith, DJ",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,Democratic,"Wiesner, Patrick",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,Libertarian,"Garrard, Robert D.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,Republican,"Moran, Jerry",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,write - in,"Smith, DJ",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,Democratic,"Wiesner, Patrick",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,Libertarian,"Garrard, Robert D.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,Republican,"Moran, Jerry",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,write - in,"Smith, DJ",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,Democratic,"Wiesner, Patrick",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,Republican,"Moran, Jerry",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,write - in,"Smith, DJ",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,Democratic,"Wiesner, Patrick",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,Republican,"Moran, Jerry",0,00002F
+BOURBON,Fort Scott Ward 2,United States Senate,,write - in,"Smith, DJ",0,00003A
+BOURBON,Fort Scott Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",115,00003A
+BOURBON,Fort Scott Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",29,00003A
+BOURBON,Fort Scott Ward 2,United States Senate,,Republican,"Moran, Jerry",244,00003A
+BOURBON,Fort Scott Ward 3,United States Senate,,write - in,"Smith, DJ",0,000040
+BOURBON,Fort Scott Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",50,000040
+BOURBON,Fort Scott Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",13,000040
+BOURBON,Fort Scott Ward 3,United States Senate,,Republican,"Moran, Jerry",101,000040
+BOURBON,Fort Scott Ward 4,United States Senate,,write - in,"Smith, DJ",0,00005A
+BOURBON,Fort Scott Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",94,00005A
+BOURBON,Fort Scott Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",27,00005A
+BOURBON,Fort Scott Ward 4,United States Senate,,Republican,"Moran, Jerry",265,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,write - in,"Smith, DJ",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,Republican,"Moran, Jerry",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,write - in,"Smith, DJ",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,Democratic,"Wiesner, Patrick",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,Republican,"Moran, Jerry",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,write - in,"Smith, DJ",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Democratic,"Wiesner, Patrick",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Libertarian,"Garrard, Robert D.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Republican,"Moran, Jerry",0,00005D
+BOURBON,Fort Scott Ward 5,United States Senate,,write - in,"Smith, DJ",0,000060
+BOURBON,Fort Scott Ward 5,United States Senate,,Democratic,"Wiesner, Patrick",93,000060
+BOURBON,Fort Scott Ward 5,United States Senate,,Libertarian,"Garrard, Robert D.",30,000060
+BOURBON,Fort Scott Ward 5,United States Senate,,Republican,"Moran, Jerry",331,000060
+BOURBON,Fort Scott Ward 6,United States Senate,,write - in,"Smith, DJ",0,000070
+BOURBON,Fort Scott Ward 6,United States Senate,,Democratic,"Wiesner, Patrick",131,000070
+BOURBON,Fort Scott Ward 6,United States Senate,,Libertarian,"Garrard, Robert D.",29,000070
+BOURBON,Fort Scott Ward 6,United States Senate,,Republican,"Moran, Jerry",392,000070
+BOURBON,Fort Scott Ward 7,United States Senate,,write - in,"Smith, DJ",0,000080
+BOURBON,Fort Scott Ward 7,United States Senate,,Democratic,"Wiesner, Patrick",128,000080
+BOURBON,Fort Scott Ward 7,United States Senate,,Libertarian,"Garrard, Robert D.",30,000080
+BOURBON,Fort Scott Ward 7,United States Senate,,Republican,"Moran, Jerry",359,000080
+BOURBON,Franklin Township,United States Senate,,write - in,"Smith, DJ",0,000090
+BOURBON,Franklin Township,United States Senate,,Democratic,"Wiesner, Patrick",22,000090
+BOURBON,Franklin Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000090
+BOURBON,Franklin Township,United States Senate,,Republican,"Moran, Jerry",109,000090
+BOURBON,Freedom Township,United States Senate,,write - in,"Smith, DJ",0,000100
+BOURBON,Freedom Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000100
+BOURBON,Freedom Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000100
+BOURBON,Freedom Township,United States Senate,,Republican,"Moran, Jerry",143,000100
+BOURBON,Marion Township,United States Senate,,write - in,"Smith, DJ",0,000110
+BOURBON,Marion Township,United States Senate,,Democratic,"Wiesner, Patrick",81,000110
+BOURBON,Marion Township,United States Senate,,Libertarian,"Garrard, Robert D.",26,000110
+BOURBON,Marion Township,United States Senate,,Republican,"Moran, Jerry",386,000110
+BOURBON,Marmaton Township,United States Senate,,write - in,"Smith, DJ",0,000120
+BOURBON,Marmaton Township,United States Senate,,Democratic,"Wiesner, Patrick",77,000120
+BOURBON,Marmaton Township,United States Senate,,Libertarian,"Garrard, Robert D.",23,000120
+BOURBON,Marmaton Township,United States Senate,,Republican,"Moran, Jerry",251,000120
+BOURBON,Mill Creek Township,United States Senate,,write - in,"Smith, DJ",0,000130
+BOURBON,Mill Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",42,000130
+BOURBON,Mill Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",13,000130
+BOURBON,Mill Creek Township,United States Senate,,Republican,"Moran, Jerry",180,000130
+BOURBON,North Scott Township,United States Senate,,write - in,"Smith, DJ",0,000140
+BOURBON,North Scott Township,United States Senate,,Democratic,"Wiesner, Patrick",79,000140
+BOURBON,North Scott Township,United States Senate,,Libertarian,"Garrard, Robert D.",18,000140
+BOURBON,North Scott Township,United States Senate,,Republican,"Moran, Jerry",288,000140
+BOURBON,Osage Township,United States Senate,,write - in,"Smith, DJ",0,000150
+BOURBON,Osage Township,United States Senate,,Democratic,"Wiesner, Patrick",48,000150
+BOURBON,Osage Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000150
+BOURBON,Osage Township,United States Senate,,Republican,"Moran, Jerry",149,000150
+BOURBON,Pawnee Township,United States Senate,,write - in,"Smith, DJ",0,000160
+BOURBON,Pawnee Township,United States Senate,,Democratic,"Wiesner, Patrick",23,000160
+BOURBON,Pawnee Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000160
+BOURBON,Pawnee Township,United States Senate,,Republican,"Moran, Jerry",112,000160
+BOURBON,South Scott Township,United States Senate,,write - in,"Smith, DJ",0,000170
+BOURBON,South Scott Township,United States Senate,,Democratic,"Wiesner, Patrick",125,000170
+BOURBON,South Scott Township,United States Senate,,Libertarian,"Garrard, Robert D.",29,000170
+BOURBON,South Scott Township,United States Senate,,Republican,"Moran, Jerry",616,000170
+BOURBON,Timberhill Township,United States Senate,,write - in,"Smith, DJ",0,000180
+BOURBON,Timberhill Township,United States Senate,,Democratic,"Wiesner, Patrick",23,000180
+BOURBON,Timberhill Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000180
+BOURBON,Timberhill Township,United States Senate,,Republican,"Moran, Jerry",74,000180
+BOURBON,Walnut Township,United States Senate,,write - in,"Smith, DJ",0,000190
+BOURBON,Walnut Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000190
+BOURBON,Walnut Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000190
+BOURBON,Walnut Township,United States Senate,,Republican,"Moran, Jerry",46,000190
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,write - in,"Smith, DJ",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,Republican,"Moran, Jerry",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,write - in,"Smith, DJ",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Republican,"Moran, Jerry",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,write - in,"Smith, DJ",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,Democratic,"Wiesner, Patrick",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,Libertarian,"Garrard, Robert D.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,Republican,"Moran, Jerry",0,900030

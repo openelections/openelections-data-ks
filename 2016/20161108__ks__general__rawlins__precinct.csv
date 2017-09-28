@@ -1,183 +1,667 @@
-county,precinct,office,district,candidate,party,votes
-Rawlins,Atwood City,State House,120,Adam Smith,R,470
-Rawlins,Herndon,State House,120,Adam Smith,R,48
-Rawlins,McDonald,State House,120,Adam Smith,R,56
-Rawlins,Achilles,State House,120,Adam Smith,R,20
-Rawlins,Atwood,State House,120,Adam Smith,R,11
-Rawlins,Driftwood,State House,120,Adam Smith,R,36
-Rawlins,Center,State House,120,Adam Smith,R,137
-Rawlins,Herl,State House,120,Adam Smith,R,68
-Rawlins,Jefferson,State House,120,Adam Smith,R,20
-Rawlins,Ludell,State House,120,Adam Smith,R,44
-Rawlins,Mirage,State House,120,Adam Smith,R,25
-Rawlins,Rocewood,State House,120,Adam Smith,R,121
-Rawlins,Union,State House,120,Adam Smith,R,19
-Rawlins,Atwood City,U.S. House,1,Alan LaPolice,i,79
-Rawlins,Herndon,U.S. House,1,Alan LaPolice,i,13
-Rawlins,McDonald,U.S. House,1,Alan LaPolice,i,5
-Rawlins,Achilles,U.S. House,1,Alan LaPolice,i,1
-Rawlins,Atwood,U.S. House,1,Alan LaPolice,i,0
-Rawlins,Driftwood,U.S. House,1,Alan LaPolice,i,2
-Rawlins,Center,U.S. House,1,Alan LaPolice,i,12
-Rawlins,Herl,U.S. House,1,Alan LaPolice,i,6
-Rawlins,Jefferson,U.S. House,1,Alan LaPolice,i,3
-Rawlins,Ludell,U.S. House,1,Alan LaPolice,i,14
-Rawlins,Mirage,U.S. House,1,Alan LaPolice,i,3
-Rawlins,Rocewood,U.S. House,1,Alan LaPolice,i,9
-Rawlins,Union,U.S. House,1,Alan LaPolice,i,2
-Rawlins,Atwood City,State Senate,40,Alex Herman,D,103
-Rawlins,Herndon,State Senate,40,Alex Herman,D,19
-Rawlins,McDonald,State Senate,40,Alex Herman,D,5
-Rawlins,Achilles,State Senate,40,Alex Herman,D,2
-Rawlins,Atwood,State Senate,40,Alex Herman,D,1
-Rawlins,Driftwood,State Senate,40,Alex Herman,D,7
-Rawlins,Center,State Senate,40,Alex Herman,D,24
-Rawlins,Herl,State Senate,40,Alex Herman,D,4
-Rawlins,Jefferson,State Senate,40,Alex Herman,D,2
-Rawlins,Ludell,State Senate,40,Alex Herman,D,19
-Rawlins,Mirage,State Senate,40,Alex Herman,D,0
-Rawlins,Rocewood,State Senate,40,Alex Herman,D,8
-Rawlins,Union,State Senate,40,Alex Herman,D,3
-Rawlins,Atwood City,State House,120,Bonita L. Peterson,D,145
-Rawlins,Herndon,State House,120,Bonita L. Peterson,D,31
-Rawlins,McDonald,State House,120,Bonita L. Peterson,D,11
-Rawlins,Achilles,State House,120,Bonita L. Peterson,D,6
-Rawlins,Atwood,State House,120,Bonita L. Peterson,D,1
-Rawlins,Driftwood,State House,120,Bonita L. Peterson,D,8
-Rawlins,Center,State House,120,Bonita L. Peterson,D,31
-Rawlins,Herl,State House,120,Bonita L. Peterson,D,18
-Rawlins,Jefferson,State House,120,Bonita L. Peterson,D,0
-Rawlins,Ludell,State House,120,Bonita L. Peterson,D,20
-Rawlins,Mirage,State House,120,Bonita L. Peterson,D,1
-Rawlins,Rocewood,State House,120,Bonita L. Peterson,D,18
-Rawlins,Union,State House,120,Bonita L. Peterson,D,2
-Rawlins,Atwood City,President,,Clinton & Kaine,D,81
-Rawlins,Herndon,President,,Clinton & Kaine,D,19
-Rawlins,McDonald,President,,Clinton & Kaine,D,9
-Rawlins,Achilles,President,,Clinton & Kaine,D,2
-Rawlins,Atwood,President,,Clinton & Kaine,D,1
-Rawlins,Driftwood,President,,Clinton & Kaine,D,4
-Rawlins,Center,President,,Clinton & Kaine,D,17
-Rawlins,Herl,President,,Clinton & Kaine,D,10
-Rawlins,Jefferson,President,,Clinton & Kaine,D,1
-Rawlins,Ludell,President,,Clinton & Kaine,D,9
-Rawlins,Mirage,President,,Clinton & Kaine,D,1
-Rawlins,Rocewood,President,,Clinton & Kaine,D,7
-Rawlins,Union,President,,Clinton & Kaine,D,2
-Rawlins,Atwood City,U.S. Senate,,Jerry Moran,R,521
-Rawlins,Herndon,U.S. Senate,,Jerry Moran,R,74
-Rawlins,McDonald,U.S. Senate,,Jerry Moran,R,72
-Rawlins,Achilles,U.S. Senate,,Jerry Moran,R,24
-Rawlins,Atwood,U.S. Senate,,Jerry Moran,R,13
-Rawlins,Driftwood,U.S. Senate,,Jerry Moran,R,43
-Rawlins,Center,U.S. Senate,,Jerry Moran,R,149
-Rawlins,Herl,U.S. Senate,,Jerry Moran,R,95
-Rawlins,Jefferson,U.S. Senate,,Jerry Moran,R,22
-Rawlins,Ludell,U.S. Senate,,Jerry Moran,R,50
-Rawlins,Mirage,U.S. Senate,,Jerry Moran,R,28
-Rawlins,Rocewood,U.S. Senate,,Jerry Moran,R,151
-Rawlins,Union,U.S. Senate,,Jerry Moran,R,21
-Rawlins,Atwood City,President,,Johnson & Weld,L,29
-Rawlins,Herndon,President,,Johnson & Weld,L,7
-Rawlins,McDonald,President,,Johnson & Weld,L,1
-Rawlins,Achilles,President,,Johnson & Weld,L,1
-Rawlins,Atwood,President,,Johnson & Weld,L,0
-Rawlins,Driftwood,President,,Johnson & Weld,L,6
-Rawlins,Center,President,,Johnson & Weld,L,4
-Rawlins,Herl,President,,Johnson & Weld,L,3
-Rawlins,Jefferson,President,,Johnson & Weld,L,0
-Rawlins,Ludell,President,,Johnson & Weld,L,2
-Rawlins,Mirage,President,,Johnson & Weld,L,0
-Rawlins,Rocewood,President,,Johnson & Weld,L,2
-Rawlins,Union,President,,Johnson & Weld,L,0
-Rawlins,Atwood City,U.S. House,1,Kerry Burt,L,41
-Rawlins,Herndon,U.S. House,1,Kerry Burt,L,10
-Rawlins,McDonald,U.S. House,1,Kerry Burt,L,0
-Rawlins,Achilles,U.S. House,1,Kerry Burt,L,0
-Rawlins,Atwood,U.S. House,1,Kerry Burt,L,0
-Rawlins,Driftwood,U.S. House,1,Kerry Burt,L,2
-Rawlins,Center,U.S. House,1,Kerry Burt,L,12
-Rawlins,Herl,U.S. House,1,Kerry Burt,L,3
-Rawlins,Jefferson,U.S. House,1,Kerry Burt,L,3
-Rawlins,Ludell,U.S. House,1,Kerry Burt,L,6
-Rawlins,Mirage,U.S. House,1,Kerry Burt,L,0
-Rawlins,Rocewood,U.S. House,1,Kerry Burt,L,4
-Rawlins,Union,U.S. House,1,Kerry Burt,L,1
-Rawlins,Atwood City,U.S. Senate,,Patrick Wiesner,D,64
-Rawlins,Herndon,U.S. Senate,,Patrick Wiesner,D,15
-Rawlins,McDonald,U.S. Senate,,Patrick Wiesner,D,3
-Rawlins,Achilles,U.S. Senate,,Patrick Wiesner,D,2
-Rawlins,Atwood,U.S. Senate,,Patrick Wiesner,D,0
-Rawlins,Driftwood,U.S. Senate,,Patrick Wiesner,D,3
-Rawlins,Center,U.S. Senate,,Patrick Wiesner,D,12
-Rawlins,Herl,U.S. Senate,,Patrick Wiesner,D,5
-Rawlins,Jefferson,U.S. Senate,,Patrick Wiesner,D,0
-Rawlins,Ludell,U.S. Senate,,Patrick Wiesner,D,14
-Rawlins,Mirage,U.S. Senate,,Patrick Wiesner,D,0
-Rawlins,Rocewood,U.S. Senate,,Patrick Wiesner,D,6
-Rawlins,Union,U.S. Senate,,Patrick Wiesner,D,2
-Rawlins,Atwood City,State House,120,Rick Billinger,R,515
-Rawlins,Herndon,State House,120,Rick Billinger,R,63
-Rawlins,McDonald,State House,120,Rick Billinger,R,65
-Rawlins,Achilles,State House,120,Rick Billinger,R,25
-Rawlins,Atwood,State House,120,Rick Billinger,R,12
-Rawlins,Driftwood,State House,120,Rick Billinger,R,41
-Rawlins,Center,State House,120,Rick Billinger,R,142
-Rawlins,Herl,State House,120,Rick Billinger,R,83
-Rawlins,Jefferson,State House,120,Rick Billinger,R,19
-Rawlins,Ludell,State House,120,Rick Billinger,R,45
-Rawlins,Mirage,State House,120,Rick Billinger,R,26
-Rawlins,Rocewood,State House,120,Rick Billinger,R,131
-Rawlins,Union,State House,120,Rick Billinger,R,19
-Rawlins,Atwood City,U.S. Senate,,Robert D. Garrard,L,52
-Rawlins,Herndon,U.S. Senate,,Robert D. Garrard,L,4
-Rawlins,McDonald,U.S. Senate,,Robert D. Garrard,L,2
-Rawlins,Achilles,U.S. Senate,,Robert D. Garrard,L,0
-Rawlins,Atwood,U.S. Senate,,Robert D. Garrard,L,0
-Rawlins,Driftwood,U.S. Senate,,Robert D. Garrard,L,2
-Rawlins,Center,U.S. Senate,,Robert D. Garrard,L,10
-Rawlins,Herl,U.S. Senate,,Robert D. Garrard,L,2
-Rawlins,Jefferson,U.S. Senate,,Robert D. Garrard,L,0
-Rawlins,Ludell,U.S. Senate,,Robert D. Garrard,L,3
-Rawlins,Mirage,U.S. Senate,,Robert D. Garrard,L,0
-Rawlins,Rocewood,U.S. Senate,,Robert D. Garrard,L,6
-Rawlins,Union,U.S. Senate,,Robert D. Garrard,L,0
-Rawlins,Atwood City,U.S. House,1,Roger Marshall,R,506
-Rawlins,Herndon,U.S. House,1,Roger Marshall,R,68
-Rawlins,McDonald,U.S. House,1,Roger Marshall,R,68
-Rawlins,Achilles,U.S. House,1,Roger Marshall,R,23
-Rawlins,Atwood,U.S. House,1,Roger Marshall,R,12
-Rawlins,Driftwood,U.S. House,1,Roger Marshall,R,41
-Rawlins,Center,U.S. House,1,Roger Marshall,R,148
-Rawlins,Herl,U.S. House,1,Roger Marshall,R,88
-Rawlins,Jefferson,U.S. House,1,Roger Marshall,R,16
-Rawlins,Ludell,U.S. House,1,Roger Marshall,R,46
-Rawlins,Mirage,U.S. House,1,Roger Marshall,R,24
-Rawlins,Rocewood,U.S. House,1,Roger Marshall,R,148
-Rawlins,Union,U.S. House,1,Roger Marshall,R,19
-Rawlins,Atwood City,President,,Stein & Baraka,i,15
-Rawlins,Herndon,President,,Stein & Baraka,i,0
-Rawlins,McDonald,President,,Stein & Baraka,i,1
-Rawlins,Achilles,President,,Stein & Baraka,i,0
-Rawlins,Atwood,President,,Stein & Baraka,i,0
-Rawlins,Driftwood,President,,Stein & Baraka,i,0
-Rawlins,Center,President,,Stein & Baraka,i,4
-Rawlins,Herl,President,,Stein & Baraka,i,1
-Rawlins,Jefferson,President,,Stein & Baraka,i,0
-Rawlins,Ludell,President,,Stein & Baraka,i,5
-Rawlins,Mirage,President,,Stein & Baraka,i,0
-Rawlins,Rocewood,President,,Stein & Baraka,i,0
-Rawlins,Union,President,,Stein & Baraka,i,0
-Rawlins,Atwood City,President,,Trump & Pence,R,500
-Rawlins,Herndon,President,,Trump & Pence,R,66
-Rawlins,McDonald,President,,Trump & Pence,R,65
-Rawlins,Achilles,President,,Trump & Pence,R,24
-Rawlins,Atwood,President,,Trump & Pence,R,12
-Rawlins,Driftwood,President,,Trump & Pence,R,38
-Rawlins,Center,President,,Trump & Pence,R,151
-Rawlins,Herl,President,,Trump & Pence,R,88
-Rawlins,Jefferson,President,,Trump & Pence,R,21
-Rawlins,Ludell,President,,Trump & Pence,R,51
-Rawlins,Mirage,President,,Trump & Pence,R,28
-Rawlins,Rocewood,President,,Trump & Pence,R,155
-Rawlins,Union,President,,Trump & Pence,R,21
+county,precinct,office,district,party,candidate,votes,vtd
+RAWLINS,Achilles Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",6,000010
+RAWLINS,Achilles Township,Kansas House of Representatives,120,Republican,"Smith, Adam",20,000010
+RAWLINS,Atwood City Precinct 1 East,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",29,000020
+RAWLINS,Atwood City Precinct 1 East,Kansas House of Representatives,120,Republican,"Smith, Adam",115,000020
+RAWLINS,Atwood City Precinct 1 North,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",17,000030
+RAWLINS,Atwood City Precinct 1 North,Kansas House of Representatives,120,Republican,"Smith, Adam",47,000030
+RAWLINS,Atwood City Precinct 1 West,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",22,000040
+RAWLINS,Atwood City Precinct 1 West,Kansas House of Representatives,120,Republican,"Smith, Adam",47,000040
+RAWLINS,Atwood City Precinct 2,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",77,000050
+RAWLINS,Atwood City Precinct 2,Kansas House of Representatives,120,Republican,"Smith, Adam",261,000050
+RAWLINS,Atwood Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",1,000060
+RAWLINS,Atwood Township,Kansas House of Representatives,120,Republican,"Smith, Adam",11,000060
+RAWLINS,Driftwood Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",8,000070
+RAWLINS,Driftwood Township,Kansas House of Representatives,120,Republican,"Smith, Adam",36,000070
+RAWLINS,East Center,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",10,000080
+RAWLINS,East Center,Kansas House of Representatives,120,Republican,"Smith, Adam",48,000080
+RAWLINS,Herl Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",18,00009A
+RAWLINS,Herl Township,Kansas House of Representatives,120,Republican,"Smith, Adam",68,00009A
+RAWLINS,Herl Township South,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,00009B
+RAWLINS,Herl Township South,Kansas House of Representatives,120,Republican,"Smith, Adam",0,00009B
+RAWLINS,Herndon City,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",31,000100
+RAWLINS,Herndon City,Kansas House of Representatives,120,Republican,"Smith, Adam",48,000100
+RAWLINS,Jefferson Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",0,000110
+RAWLINS,Jefferson Township,Kansas House of Representatives,120,Republican,"Smith, Adam",20,000110
+RAWLINS,Ludell Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",20,000120
+RAWLINS,Ludell Township,Kansas House of Representatives,120,Republican,"Smith, Adam",44,000120
+RAWLINS,McDonald City,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",11,000130
+RAWLINS,McDonald City,Kansas House of Representatives,120,Republican,"Smith, Adam",56,000130
+RAWLINS,Mirage Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",1,000140
+RAWLINS,Mirage Township,Kansas House of Representatives,120,Republican,"Smith, Adam",25,000140
+RAWLINS,Rocewood Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",18,000150
+RAWLINS,Rocewood Township,Kansas House of Representatives,120,Republican,"Smith, Adam",121,000150
+RAWLINS,Union Township,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",2,000160
+RAWLINS,Union Township,Kansas House of Representatives,120,Republican,"Smith, Adam",19,000160
+RAWLINS,West Center,Kansas House of Representatives,120,Democratic,"Peterson, Bonita L.",21,000170
+RAWLINS,West Center,Kansas House of Representatives,120,Republican,"Smith, Adam",89,000170
+RAWLINS,Achilles Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000010
+RAWLINS,Achilles Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",25,000010
+RAWLINS,Atwood City Precinct 1 East,Kansas Senate,40,Democratic,"Herman, Alex",20,000020
+RAWLINS,Atwood City Precinct 1 East,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",124,000020
+RAWLINS,Atwood City Precinct 1 North,Kansas Senate,40,Democratic,"Herman, Alex",10,000030
+RAWLINS,Atwood City Precinct 1 North,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",53,000030
+RAWLINS,Atwood City Precinct 1 West,Kansas Senate,40,Democratic,"Herman, Alex",16,000040
+RAWLINS,Atwood City Precinct 1 West,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",52,000040
+RAWLINS,Atwood City Precinct 2,Kansas Senate,40,Democratic,"Herman, Alex",57,000050
+RAWLINS,Atwood City Precinct 2,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",286,000050
+RAWLINS,Atwood Township,Kansas Senate,40,Democratic,"Herman, Alex",1,000060
+RAWLINS,Atwood Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",12,000060
+RAWLINS,Driftwood Township,Kansas Senate,40,Democratic,"Herman, Alex",7,000070
+RAWLINS,Driftwood Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",41,000070
+RAWLINS,East Center,Kansas Senate,40,Democratic,"Herman, Alex",8,000080
+RAWLINS,East Center,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",50,000080
+RAWLINS,Herl Township,Kansas Senate,40,Democratic,"Herman, Alex",4,00009A
+RAWLINS,Herl Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",83,00009A
+RAWLINS,Herl Township South,Kansas Senate,40,Democratic,"Herman, Alex",0,00009B
+RAWLINS,Herl Township South,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",0,00009B
+RAWLINS,Herndon City,Kansas Senate,40,Democratic,"Herman, Alex",19,000100
+RAWLINS,Herndon City,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",63,000100
+RAWLINS,Jefferson Township,Kansas Senate,40,Democratic,"Herman, Alex",2,000110
+RAWLINS,Jefferson Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",19,000110
+RAWLINS,Ludell Township,Kansas Senate,40,Democratic,"Herman, Alex",19,000120
+RAWLINS,Ludell Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",45,000120
+RAWLINS,McDonald City,Kansas Senate,40,Democratic,"Herman, Alex",5,000130
+RAWLINS,McDonald City,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",65,000130
+RAWLINS,Mirage Township,Kansas Senate,40,Democratic,"Herman, Alex",0,000140
+RAWLINS,Mirage Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",26,000140
+RAWLINS,Rocewood Township,Kansas Senate,40,Democratic,"Herman, Alex",8,000150
+RAWLINS,Rocewood Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",131,000150
+RAWLINS,Union Township,Kansas Senate,40,Democratic,"Herman, Alex",3,000160
+RAWLINS,Union Township,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",19,000160
+RAWLINS,West Center,Kansas Senate,40,Democratic,"Herman, Alex",16,000170
+RAWLINS,West Center,Kansas Senate,40,Republican,"Billinger, Richard (Rick)",92,000170
+RAWLINS,Achilles Township,President / Vice President,,independent,"Stein, Jill",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+RAWLINS,Achilles Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+RAWLINS,Achilles Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000010
+RAWLINS,Achilles Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000010
+RAWLINS,Achilles Township,President / Vice President,,Republican,"Trump, Donald J.",24,000010
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,independent,"Stein, Jill",1,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Hedges, James A",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"McMullin, Evan",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Perry, Darryl",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Smith, Mike",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Sood, Ajay",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,Democratic,"Clinton, Hillary Rodham",21,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,Libertarian,"Johnson, Gary",3,000020
+RAWLINS,Atwood City Precinct 1 East,President / Vice President,,Republican,"Trump, Donald J.",122,000020
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,independent,"Stein, Jill",1,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Hedges, James A",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"McMullin, Evan",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Perry, Darryl",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Smith, Mike",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Sood, Ajay",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,Libertarian,"Johnson, Gary",2,000030
+RAWLINS,Atwood City Precinct 1 North,President / Vice President,,Republican,"Trump, Donald J.",56,000030
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,independent,"Stein, Jill",5,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Hedges, James A",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"McMullin, Evan",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Perry, Darryl",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Smith, Mike",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Sood, Ajay",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,Libertarian,"Johnson, Gary",3,000040
+RAWLINS,Atwood City Precinct 1 West,President / Vice President,,Republican,"Trump, Donald J.",52,000040
+RAWLINS,Atwood City Precinct 2,President / Vice President,,independent,"Stein, Jill",8,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",5,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",43,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",21,000050
+RAWLINS,Atwood City Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",270,000050
+RAWLINS,Atwood Township,President / Vice President,,independent,"Stein, Jill",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+RAWLINS,Atwood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+RAWLINS,Atwood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000060
+RAWLINS,Atwood Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000060
+RAWLINS,Atwood Township,President / Vice President,,Republican,"Trump, Donald J.",12,000060
+RAWLINS,Driftwood Township,President / Vice President,,independent,"Stein, Jill",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+RAWLINS,Driftwood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000070
+RAWLINS,Driftwood Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000070
+RAWLINS,Driftwood Township,President / Vice President,,Republican,"Trump, Donald J.",38,000070
+RAWLINS,East Center,President / Vice President,,independent,"Stein, Jill",2,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Hedges, James A",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"McMullin, Evan",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Perry, Darryl",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Smith, Mike",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Sood, Ajay",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+RAWLINS,East Center,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+RAWLINS,East Center,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000080
+RAWLINS,East Center,President / Vice President,,Libertarian,"Johnson, Gary",1,000080
+RAWLINS,East Center,President / Vice President,,Republican,"Trump, Donald J.",53,000080
+RAWLINS,Herl Township,President / Vice President,,independent,"Stein, Jill",1,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Castle, Darrell L",1,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Giordani, Rocky",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Hedges, James A",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Hoefling, Tom",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Kahn, Lynn",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"La Riva, Gloria",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Maturen, Michael A",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"McMullin, Evan",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Perry, Darryl",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Schriner, Joe C",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Smith, Mike",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Sood, Ajay",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Sterling, Shawna",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00009A
+RAWLINS,Herl Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00009A
+RAWLINS,Herl Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,00009A
+RAWLINS,Herl Township,President / Vice President,,Libertarian,"Johnson, Gary",3,00009A
+RAWLINS,Herl Township,President / Vice President,,Republican,"Trump, Donald J.",88,00009A
+RAWLINS,Herl Township South,President / Vice President,,independent,"Stein, Jill",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Basiago, Andrew D.",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Castle, Darrell L",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Giordani, Rocky",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Hedges, James A",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Hoefling, Tom",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Kahn, Lynn",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"La Riva, Gloria",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Levinson, Michael S.",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Maturen, Michael A",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"McMullin, Evan",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Moorehead, Monica G.",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Perry, Darryl",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Schriner, Joe C",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Smith, Mike",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Sood, Ajay",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Sterling, Shawna",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Valdivia, Anthony J",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,Libertarian,"Johnson, Gary",0,00009B
+RAWLINS,Herl Township South,President / Vice President,,Republican,"Trump, Donald J.",0,00009B
+RAWLINS,Herndon City,President / Vice President,,independent,"Stein, Jill",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Hedges, James A",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"McMullin, Evan",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Perry, Darryl",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Smith, Mike",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Sood, Ajay",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+RAWLINS,Herndon City,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+RAWLINS,Herndon City,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000100
+RAWLINS,Herndon City,President / Vice President,,Libertarian,"Johnson, Gary",7,000100
+RAWLINS,Herndon City,President / Vice President,,Republican,"Trump, Donald J.",66,000100
+RAWLINS,Jefferson Township,President / Vice President,,independent,"Stein, Jill",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000110
+RAWLINS,Jefferson Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
+RAWLINS,Jefferson Township,President / Vice President,,Republican,"Trump, Donald J.",21,000110
+RAWLINS,Ludell Township,President / Vice President,,independent,"Stein, Jill",5,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Castle, Darrell L",1,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+RAWLINS,Ludell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+RAWLINS,Ludell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000120
+RAWLINS,Ludell Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000120
+RAWLINS,Ludell Township,President / Vice President,,Republican,"Trump, Donald J.",51,000120
+RAWLINS,McDonald City,President / Vice President,,independent,"Stein, Jill",1,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Basiago, Andrew D.",1,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Hedges, James A",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"McMullin, Evan",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Perry, Darryl",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Smith, Mike",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Sood, Ajay",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+RAWLINS,McDonald City,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+RAWLINS,McDonald City,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000130
+RAWLINS,McDonald City,President / Vice President,,Libertarian,"Johnson, Gary",1,000130
+RAWLINS,McDonald City,President / Vice President,,Republican,"Trump, Donald J.",65,000130
+RAWLINS,Mirage Township,President / Vice President,,independent,"Stein, Jill",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+RAWLINS,Mirage Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+RAWLINS,Mirage Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000140
+RAWLINS,Mirage Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000140
+RAWLINS,Mirage Township,President / Vice President,,Republican,"Trump, Donald J.",28,000140
+RAWLINS,Rocewood Township,President / Vice President,,independent,"Stein, Jill",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+RAWLINS,Rocewood Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000150
+RAWLINS,Rocewood Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000150
+RAWLINS,Rocewood Township,President / Vice President,,Republican,"Trump, Donald J.",155,000150
+RAWLINS,Union Township,President / Vice President,,independent,"Stein, Jill",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+RAWLINS,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+RAWLINS,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000160
+RAWLINS,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000160
+RAWLINS,Union Township,President / Vice President,,Republican,"Trump, Donald J.",21,000160
+RAWLINS,West Center,President / Vice President,,independent,"Stein, Jill",2,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Hedges, James A",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"McMullin, Evan",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Perry, Darryl",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Smith, Mike",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Sood, Ajay",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+RAWLINS,West Center,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+RAWLINS,West Center,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000170
+RAWLINS,West Center,President / Vice President,,Libertarian,"Johnson, Gary",3,000170
+RAWLINS,West Center,President / Vice President,,Republican,"Trump, Donald J.",98,000170
+RAWLINS,Achilles Township,United States House of Representatives,1,independent,"LaPolice, Alan",1,000010
+RAWLINS,Achilles Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+RAWLINS,Achilles Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000010
+RAWLINS,Achilles Township,United States House of Representatives,1,Republican,"Marshall, Roger",23,000010
+RAWLINS,Atwood City Precinct 1 East,United States House of Representatives,1,independent,"LaPolice, Alan",13,000020
+RAWLINS,Atwood City Precinct 1 East,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+RAWLINS,Atwood City Precinct 1 East,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000020
+RAWLINS,Atwood City Precinct 1 East,United States House of Representatives,1,Republican,"Marshall, Roger",126,000020
+RAWLINS,Atwood City Precinct 1 North,United States House of Representatives,1,independent,"LaPolice, Alan",7,000030
+RAWLINS,Atwood City Precinct 1 North,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+RAWLINS,Atwood City Precinct 1 North,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000030
+RAWLINS,Atwood City Precinct 1 North,United States House of Representatives,1,Republican,"Marshall, Roger",55,000030
+RAWLINS,Atwood City Precinct 1 West,United States House of Representatives,1,independent,"LaPolice, Alan",14,000040
+RAWLINS,Atwood City Precinct 1 West,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+RAWLINS,Atwood City Precinct 1 West,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000040
+RAWLINS,Atwood City Precinct 1 West,United States House of Representatives,1,Republican,"Marshall, Roger",51,000040
+RAWLINS,Atwood City Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",45,000050
+RAWLINS,Atwood City Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+RAWLINS,Atwood City Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",27,000050
+RAWLINS,Atwood City Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",274,000050
+RAWLINS,Atwood Township,United States House of Representatives,1,independent,"LaPolice, Alan",0,000060
+RAWLINS,Atwood Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+RAWLINS,Atwood Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000060
+RAWLINS,Atwood Township,United States House of Representatives,1,Republican,"Marshall, Roger",12,000060
+RAWLINS,Driftwood Township,United States House of Representatives,1,independent,"LaPolice, Alan",2,000070
+RAWLINS,Driftwood Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+RAWLINS,Driftwood Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000070
+RAWLINS,Driftwood Township,United States House of Representatives,1,Republican,"Marshall, Roger",41,000070
+RAWLINS,East Center,United States House of Representatives,1,independent,"LaPolice, Alan",6,000080
+RAWLINS,East Center,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+RAWLINS,East Center,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000080
+RAWLINS,East Center,United States House of Representatives,1,Republican,"Marshall, Roger",50,000080
+RAWLINS,Herl Township,United States House of Representatives,1,independent,"LaPolice, Alan",6,00009A
+RAWLINS,Herl Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00009A
+RAWLINS,Herl Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,00009A
+RAWLINS,Herl Township,United States House of Representatives,1,Republican,"Marshall, Roger",88,00009A
+RAWLINS,Herl Township South,United States House of Representatives,1,independent,"LaPolice, Alan",0,00009B
+RAWLINS,Herl Township South,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00009B
+RAWLINS,Herl Township South,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00009B
+RAWLINS,Herl Township South,United States House of Representatives,1,Republican,"Marshall, Roger",0,00009B
+RAWLINS,Herndon City,United States House of Representatives,1,independent,"LaPolice, Alan",13,000100
+RAWLINS,Herndon City,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000100
+RAWLINS,Herndon City,United States House of Representatives,1,Libertarian,"Burt, Kerry",10,000100
+RAWLINS,Herndon City,United States House of Representatives,1,Republican,"Marshall, Roger",68,000100
+RAWLINS,Jefferson Township,United States House of Representatives,1,independent,"LaPolice, Alan",3,000110
+RAWLINS,Jefferson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000110
+RAWLINS,Jefferson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000110
+RAWLINS,Jefferson Township,United States House of Representatives,1,Republican,"Marshall, Roger",16,000110
+RAWLINS,Ludell Township,United States House of Representatives,1,independent,"LaPolice, Alan",14,000120
+RAWLINS,Ludell Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+RAWLINS,Ludell Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000120
+RAWLINS,Ludell Township,United States House of Representatives,1,Republican,"Marshall, Roger",46,000120
+RAWLINS,McDonald City,United States House of Representatives,1,independent,"LaPolice, Alan",5,000130
+RAWLINS,McDonald City,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+RAWLINS,McDonald City,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000130
+RAWLINS,McDonald City,United States House of Representatives,1,Republican,"Marshall, Roger",68,000130
+RAWLINS,Mirage Township,United States House of Representatives,1,independent,"LaPolice, Alan",3,000140
+RAWLINS,Mirage Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+RAWLINS,Mirage Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000140
+RAWLINS,Mirage Township,United States House of Representatives,1,Republican,"Marshall, Roger",24,000140
+RAWLINS,Rocewood Township,United States House of Representatives,1,independent,"LaPolice, Alan",9,000150
+RAWLINS,Rocewood Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000150
+RAWLINS,Rocewood Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000150
+RAWLINS,Rocewood Township,United States House of Representatives,1,Republican,"Marshall, Roger",148,000150
+RAWLINS,Union Township,United States House of Representatives,1,independent,"LaPolice, Alan",2,000160
+RAWLINS,Union Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+RAWLINS,Union Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000160
+RAWLINS,Union Township,United States House of Representatives,1,Republican,"Marshall, Roger",19,000160
+RAWLINS,West Center,United States House of Representatives,1,independent,"LaPolice, Alan",6,000170
+RAWLINS,West Center,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+RAWLINS,West Center,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000170
+RAWLINS,West Center,United States House of Representatives,1,Republican,"Marshall, Roger",98,000170
+RAWLINS,Achilles Township,United States Senate,,write - in,"Smith, DJ",0,000010
+RAWLINS,Achilles Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000010
+RAWLINS,Achilles Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+RAWLINS,Achilles Township,United States Senate,,Republican,"Moran, Jerry",24,000010
+RAWLINS,Atwood City Precinct 1 East,United States Senate,,write - in,"Smith, DJ",0,000020
+RAWLINS,Atwood City Precinct 1 East,United States Senate,,Democratic,"Wiesner, Patrick",12,000020
+RAWLINS,Atwood City Precinct 1 East,United States Senate,,Libertarian,"Garrard, Robert D.",10,000020
+RAWLINS,Atwood City Precinct 1 East,United States Senate,,Republican,"Moran, Jerry",129,000020
+RAWLINS,Atwood City Precinct 1 North,United States Senate,,write - in,"Smith, DJ",0,000030
+RAWLINS,Atwood City Precinct 1 North,United States Senate,,Democratic,"Wiesner, Patrick",10,000030
+RAWLINS,Atwood City Precinct 1 North,United States Senate,,Libertarian,"Garrard, Robert D.",4,000030
+RAWLINS,Atwood City Precinct 1 North,United States Senate,,Republican,"Moran, Jerry",52,000030
+RAWLINS,Atwood City Precinct 1 West,United States Senate,,write - in,"Smith, DJ",0,000040
+RAWLINS,Atwood City Precinct 1 West,United States Senate,,Democratic,"Wiesner, Patrick",10,000040
+RAWLINS,Atwood City Precinct 1 West,United States Senate,,Libertarian,"Garrard, Robert D.",3,000040
+RAWLINS,Atwood City Precinct 1 West,United States Senate,,Republican,"Moran, Jerry",57,000040
+RAWLINS,Atwood City Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000050
+RAWLINS,Atwood City Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",32,000050
+RAWLINS,Atwood City Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",35,000050
+RAWLINS,Atwood City Precinct 2,United States Senate,,Republican,"Moran, Jerry",283,000050
+RAWLINS,Atwood Township,United States Senate,,write - in,"Smith, DJ",0,000060
+RAWLINS,Atwood Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000060
+RAWLINS,Atwood Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000060
+RAWLINS,Atwood Township,United States Senate,,Republican,"Moran, Jerry",13,000060
+RAWLINS,Driftwood Township,United States Senate,,write - in,"Smith, DJ",0,000070
+RAWLINS,Driftwood Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000070
+RAWLINS,Driftwood Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000070
+RAWLINS,Driftwood Township,United States Senate,,Republican,"Moran, Jerry",43,000070
+RAWLINS,East Center,United States Senate,,write - in,"Smith, DJ",0,000080
+RAWLINS,East Center,United States Senate,,Democratic,"Wiesner, Patrick",3,000080
+RAWLINS,East Center,United States Senate,,Libertarian,"Garrard, Robert D.",5,000080
+RAWLINS,East Center,United States Senate,,Republican,"Moran, Jerry",52,000080
+RAWLINS,Herl Township,United States Senate,,write - in,"Smith, DJ",0,00009A
+RAWLINS,Herl Township,United States Senate,,Democratic,"Wiesner, Patrick",5,00009A
+RAWLINS,Herl Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,00009A
+RAWLINS,Herl Township,United States Senate,,Republican,"Moran, Jerry",95,00009A
+RAWLINS,Herl Township South,United States Senate,,write - in,"Smith, DJ",0,00009B
+RAWLINS,Herl Township South,United States Senate,,Democratic,"Wiesner, Patrick",0,00009B
+RAWLINS,Herl Township South,United States Senate,,Libertarian,"Garrard, Robert D.",0,00009B
+RAWLINS,Herl Township South,United States Senate,,Republican,"Moran, Jerry",0,00009B
+RAWLINS,Herndon City,United States Senate,,write - in,"Smith, DJ",0,000100
+RAWLINS,Herndon City,United States Senate,,Democratic,"Wiesner, Patrick",15,000100
+RAWLINS,Herndon City,United States Senate,,Libertarian,"Garrard, Robert D.",4,000100
+RAWLINS,Herndon City,United States Senate,,Republican,"Moran, Jerry",74,000100
+RAWLINS,Jefferson Township,United States Senate,,write - in,"Smith, DJ",0,000110
+RAWLINS,Jefferson Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000110
+RAWLINS,Jefferson Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000110
+RAWLINS,Jefferson Township,United States Senate,,Republican,"Moran, Jerry",22,000110
+RAWLINS,Ludell Township,United States Senate,,write - in,"Smith, DJ",0,000120
+RAWLINS,Ludell Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000120
+RAWLINS,Ludell Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000120
+RAWLINS,Ludell Township,United States Senate,,Republican,"Moran, Jerry",50,000120
+RAWLINS,McDonald City,United States Senate,,write - in,"Smith, DJ",0,000130
+RAWLINS,McDonald City,United States Senate,,Democratic,"Wiesner, Patrick",3,000130
+RAWLINS,McDonald City,United States Senate,,Libertarian,"Garrard, Robert D.",2,000130
+RAWLINS,McDonald City,United States Senate,,Republican,"Moran, Jerry",72,000130
+RAWLINS,Mirage Township,United States Senate,,write - in,"Smith, DJ",0,000140
+RAWLINS,Mirage Township,United States Senate,,Democratic,"Wiesner, Patrick",0,000140
+RAWLINS,Mirage Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000140
+RAWLINS,Mirage Township,United States Senate,,Republican,"Moran, Jerry",28,000140
+RAWLINS,Rocewood Township,United States Senate,,write - in,"Smith, DJ",0,000150
+RAWLINS,Rocewood Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000150
+RAWLINS,Rocewood Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000150
+RAWLINS,Rocewood Township,United States Senate,,Republican,"Moran, Jerry",151,000150
+RAWLINS,Union Township,United States Senate,,write - in,"Smith, DJ",0,000160
+RAWLINS,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000160
+RAWLINS,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000160
+RAWLINS,Union Township,United States Senate,,Republican,"Moran, Jerry",21,000160
+RAWLINS,West Center,United States Senate,,write - in,"Smith, DJ",0,000170
+RAWLINS,West Center,United States Senate,,Democratic,"Wiesner, Patrick",9,000170
+RAWLINS,West Center,United States Senate,,Libertarian,"Garrard, Robert D.",5,000170
+RAWLINS,West Center,United States Senate,,Republican,"Moran, Jerry",97,000170

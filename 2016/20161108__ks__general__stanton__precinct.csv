@@ -1,42 +1,109 @@
-county,precinct,office,district,party,candidate,votes
-Stanton,Big Bow,President,,R,Trump/Pence,72
-Stanton,Big Bow,President,,D,Clinton/Kaine,13
-Stanton,Big Bow,President,,L,Johnson/Weld,2
-Stanton,Big Bow,President,,,Evan McMullin,2
-Stanton,Manter,President,,R,Trump/Pence,76
-Stanton,Manter,President,,D,Clinton/Kaine,8
-Stanton,Manter,President,,L,Johnson/Weld,1
-Stanton,Stanton,President,,R,Trump/Pence,344
-Stanton,Stanton,President,,D,Clinton/Kaine,94
-Stanton,Stanton,President,,L,Johnson/Weld,16
-Stanton,Stanton,President,,,Evan McMullin,2
-Stanton,Big Bow,U.S. Senate,,R,Jerry Moran,77
-Stanton,Big Bow,U.S. Senate,,D,Patrick Wiesner,9
-Stanton,Big Bow,U.S. Senate,,L,Robert D Garrad,6
-Stanton,Manter,U.S. Senate,,R,Jerry Moran,70
-Stanton,Manter,U.S. Senate,,D,Patrick Wiesner,10
-Stanton,Manter,U.S. Senate,,L,Robert D Garrad,4
-Stanton,Stanton,U.S. Senate,,R,Jerry Moran,359
-Stanton,Stanton,U.S. Senate,,D,Patrick Wiesner,59
-Stanton,Stanton,U.S. Senate,,L,Robert D Garrad,26
-Stanton,Big Bow,U.S. House,1,R,Roger Marshall,81
-Stanton,Big Bow,U.S. House,1,I,Alan LaPolice,5
-Stanton,Big Bow,U.S. House,1,L,Kerry Burt,3
-Stanton,Manter,U.S. House,1,R,Roger Marshall,71
-Stanton,Manter,U.S. House,1,I,Alan LaPolice,9
-Stanton,Manter,U.S. House,1,L,Kerry Burt,6
-Stanton,Stanton,U.S. House,1,R,Roger Marshall,348
-Stanton,Stanton,U.S. House,1,I,Alan LaPolice,46
-Stanton,Stanton,U.S. House,1,L,Kerry Burt,39
-Stanton,Stanton,U.S. House,1,,Tim Huelskamp,2
-Stanton,Big Bow,State Senate,39,R,John Doll,78
-Stanton,Big Bow,State Senate,39,D,A Zacheriah Wolf,9
-Stanton,Big Bow,State Senate,39,,Larry Powell,1
-Stanton,Manter,State Senate,39,R,John Doll,73
-Stanton,Manter,State Senate,39,D,A Zacheriah Wolf,7
-Stanton,Stanton,State Senate,39,R,John Doll,363
-Stanton,Stanton,State Senate,39,D,A Zacheriah Wolf,57
-Stanton,Stanton,State Senate,39,,Larry Powell,2
-Stanton,Big Bow,State House,124,R,J Stephen Alford,87
-Stanton,Manter,State House,124,R,J Stephen Alford,75
-Stanton,Stanton,State House,124,R,J Stephen Alford,394
+county,precinct,office,district,party,candidate,votes,vtd
+STANTON,Big Bow,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",87,000010
+STANTON,Manter,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",75,000020
+STANTON,Stanton,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",394,000030
+STANTON,Big Bow,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",9,000010
+STANTON,Big Bow,Kansas Senate,39,Republican,"Doll, John",78,000010
+STANTON,Manter,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",7,000020
+STANTON,Manter,Kansas Senate,39,Republican,"Doll, John",73,000020
+STANTON,Stanton,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",57,000030
+STANTON,Stanton,Kansas Senate,39,Republican,"Doll, John",363,000030
+STANTON,Big Bow,President / Vice President,,independent,"Stein, Jill",1,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Hedges, James A",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"McMullin, Evan",2,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Perry, Darryl",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Smith, Mike",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Sood, Ajay",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+STANTON,Big Bow,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+STANTON,Big Bow,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000010
+STANTON,Big Bow,President / Vice President,,Libertarian,"Johnson, Gary",2,000010
+STANTON,Big Bow,President / Vice President,,Republican,"Trump, Donald J.",72,000010
+STANTON,Manter,President / Vice President,,independent,"Stein, Jill",1,000020
+STANTON,Manter,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+STANTON,Manter,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Hedges, James A",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+STANTON,Manter,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+STANTON,Manter,President / Vice President,,write - in,"McMullin, Evan",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Perry, Darryl",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Smith, Mike",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Sood, Ajay",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+STANTON,Manter,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+STANTON,Manter,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000020
+STANTON,Manter,President / Vice President,,Libertarian,"Johnson, Gary",1,000020
+STANTON,Manter,President / Vice President,,Republican,"Trump, Donald J.",76,000020
+STANTON,Stanton,President / Vice President,,independent,"Stein, Jill",5,000030
+STANTON,Stanton,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Hedges, James A",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"McMullin, Evan",2,000030
+STANTON,Stanton,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Perry, Darryl",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Smith, Mike",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Sood, Ajay",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+STANTON,Stanton,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+STANTON,Stanton,President / Vice President,,Democratic,"Clinton, Hillary Rodham",94,000030
+STANTON,Stanton,President / Vice President,,Libertarian,"Johnson, Gary",16,000030
+STANTON,Stanton,President / Vice President,,Republican,"Trump, Donald J.",344,000030
+STANTON,Big Bow,United States House of Representatives,1,independent,"LaPolice, Alan",5,000010
+STANTON,Big Bow,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+STANTON,Big Bow,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000010
+STANTON,Big Bow,United States House of Representatives,1,Republican,"Marshall, Roger",81,000010
+STANTON,Manter,United States House of Representatives,1,independent,"LaPolice, Alan",9,000020
+STANTON,Manter,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+STANTON,Manter,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000020
+STANTON,Manter,United States House of Representatives,1,Republican,"Marshall, Roger",71,000020
+STANTON,Stanton,United States House of Representatives,1,independent,"LaPolice, Alan",46,000030
+STANTON,Stanton,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000030
+STANTON,Stanton,United States House of Representatives,1,Libertarian,"Burt, Kerry",39,000030
+STANTON,Stanton,United States House of Representatives,1,Republican,"Marshall, Roger",348,000030
+STANTON,Big Bow,United States Senate,,write - in,"Smith, DJ",0,000010
+STANTON,Big Bow,United States Senate,,Democratic,"Wiesner, Patrick",9,000010
+STANTON,Big Bow,United States Senate,,Libertarian,"Garrard, Robert D.",6,000010
+STANTON,Big Bow,United States Senate,,Republican,"Moran, Jerry",77,000010
+STANTON,Manter,United States Senate,,write - in,"Smith, DJ",0,000020
+STANTON,Manter,United States Senate,,Democratic,"Wiesner, Patrick",10,000020
+STANTON,Manter,United States Senate,,Libertarian,"Garrard, Robert D.",4,000020
+STANTON,Manter,United States Senate,,Republican,"Moran, Jerry",70,000020
+STANTON,Stanton,United States Senate,,write - in,"Smith, DJ",0,000030
+STANTON,Stanton,United States Senate,,Democratic,"Wiesner, Patrick",59,000030
+STANTON,Stanton,United States Senate,,Libertarian,"Garrard, Robert D.",26,000030
+STANTON,Stanton,United States Senate,,Republican,"Moran, Jerry",359,000030

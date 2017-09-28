@@ -1,404 +1,1331 @@
-county,precinct,office,district,party,candidate,votes
-Nemaha,Adams,President,,IND,Jill Stein,1
-Nemaha,Adams,President,,REP,Donald J Trump,88
-Nemaha,Adams,President,,DEM,Hillary Clinton,7
-Nemaha,Adams,President,,LIB,Gary Johnson,4
-Nemaha,Berwick,President,,IND,Jill Stein,1
-Nemaha,Berwick,President,,REP,Donald J Trump,190
-Nemaha,Berwick,President,,DEM,Hillary Clinton,13
-Nemaha,Berwick,President,,LIB,Gary Johnson,2
-Nemaha,Capioma,President,,IND,Jill Stein,0
-Nemaha,Capioma,President,,REP,Donald J Trump,65
-Nemaha,Capioma,President,,DEM,Hillary Clinton,8
-Nemaha,Capioma,President,,LIB,Gary Johnson,2
-Nemaha,Center,President,,IND,Jill Stein,2
-Nemaha,Center,President,,REP,Donald J Trump,73
-Nemaha,Center,President,,DEM,Hillary Clinton,10
-Nemaha,Center,President,,LIB,Gary Johnson,3
-Nemaha,Clear Creek,President,,IND,Jill Stein,0
-Nemaha,Clear Creek,President,,REP,Donald J Trump,41
-Nemaha,Clear Creek,President,,DEM,Hillary Clinton,15
-Nemaha,Clear Creek,President,,LIB,Gary Johnson,1
-Nemaha,Gilman,President,,IND,Jill Stein,2
-Nemaha,Gilman,President,,REP,Donald J Trump,79
-Nemaha,Gilman,President,,DEM,Hillary Clinton,19
-Nemaha,Gilman,President,,LIB,Gary Johnson,1
-Nemaha,Granada,President,,IND,Jill Stein,3
-Nemaha,Granada,President,,REP,Donald J Trump,51
-Nemaha,Granada,President,,DEM,Hillary Clinton,10
-Nemaha,Granada,President,,LIB,Gary Johnson,2
-Nemaha,Harrison-Goff,President,,IND,Jill Stein,2
-Nemaha,Harrison-Goff,President,,REP,Donald J Trump,59
-Nemaha,Harrison-Goff,President,,DEM,Hillary Clinton,17
-Nemaha,Harrison-Goff,President,,LIB,Gary Johnson,3
-Nemaha,Harrison-Kelly,President,,IND,Jill Stein,1
-Nemaha,Harrison-Kelly,President,,REP,Donald J Trump,43
-Nemaha,Harrison-Kelly,President,,DEM,Hillary Clinton,10
-Nemaha,Harrison-Kelly,President,,LIB,Gary Johnson,0
-Nemaha,Home,President,,IND,Jill Stein,0
-Nemaha,Home,President,,REP,Donald J Trump,60
-Nemaha,Home,President,,DEM,Hillary Clinton,7
-Nemaha,Home,President,,LIB,Gary Johnson,4
-Nemaha,Illinois,President,,IND,Jill Stein,2
-Nemaha,Illinois,President,,REP,Donald J Trump,200
-Nemaha,Illinois,President,,DEM,Hillary Clinton,27
-Nemaha,Illinois,President,,LIB,Gary Johnson,6
-Nemaha,Marion Township,President,,IND,Jill Stein,3
-Nemaha,Marion Township,President,,REP,Donald J Trump,185
-Nemaha,Marion Township,President,,DEM,Hillary Clinton,31
-Nemaha,Marion Township,President,,LIB,Gary Johnson,10
-Nemaha,Mitchell Township,President,,IND,Jill Stein,2
-Nemaha,Mitchell Township,President,,REP,Donald J Trump,141
-Nemaha,Mitchell Township,President,,DEM,Hillary Clinton,20
-Nemaha,Mitchell Township,President,,LIB,Gary Johnson,5
-Nemaha,Nemaha Township,President,,IND,Jill Stein,0
-Nemaha,Nemaha Township,President,,REP,Donald J Trump,76
-Nemaha,Nemaha Township,President,,DEM,Hillary Clinton,6
-Nemaha,Nemaha Township,President,,LIB,Gary Johnson,0
-Nemaha,Neuchatel,President,,IND,Jill Stein,0
-Nemaha,Neuchatel,President,,REP,Donald J Trump,58
-Nemaha,Neuchatel,President,,DEM,Hillary Clinton,3
-Nemaha,Neuchatel,President,,LIB,Gary Johnson,1
-Nemaha,Red Vermillion,President,,IND,Jill Stein,0
-Nemaha,Red Vermillion,President,,REP,Donald J Trump,52
-Nemaha,Red Vermillion,President,,DEM,Hillary Clinton,6
-Nemaha,Red Vermillion,President,,LIB,Gary Johnson,3
-Nemaha,Reilly,President,,IND,Jill Stein,3
-Nemaha,Reilly,President,,REP,Donald J Trump,51
-Nemaha,Reilly,President,,DEM,Hillary Clinton,5
-Nemaha,Reilly,President,,LIB,Gary Johnson,9
-Nemaha,Richmond Township,President,,IND,Jill Stein,4
-Nemaha,Richmond Township,President,,REP,Donald J Trump,262
-Nemaha,Richmond Township,President,,DEM,Hillary Clinton,16
-Nemaha,Richmond Township,President,,LIB,Gary Johnson,5
-Nemaha,Rock Creek,President,,IND,Jill Stein,5
-Nemaha,Rock Creek,President,,REP,Donald J Trump,185
-Nemaha,Rock Creek,President,,DEM,Hillary Clinton,12
-Nemaha,Rock Creek,President,,LIB,Gary Johnson,6
-Nemaha,Washington,President,,IND,Jill Stein,5
-Nemaha,Washington,President,,REP,Donald J Trump,176
-Nemaha,Washington,President,,DEM,Hillary Clinton,26
-Nemaha,Washington,President,,LIB,Gary Johnson,5
-Nemaha,Wetmore,President,,IND,Jill Stein,3
-Nemaha,Wetmore,President,,REP,Donald J Trump,152
-Nemaha,Wetmore,President,,DEM,Hillary Clinton,35
-Nemaha,Wetmore,President,,LIB,Gary Johnson,6
-Nemaha,Centralia-Home,President,,IND,Jill Stein,4
-Nemaha,Centralia-Home,President,,REP,Donald J Trump,124
-Nemaha,Centralia-Home,President,,DEM,Hillary Clinton,34
-Nemaha,Centralia-Home,President,,LIB,Gary Johnson,11
-Nemaha,Centralia-Illinois,President,,IND,Jill Stein,1
-Nemaha,Centralia-Illinois,President,,REP,Donald J Trump,25
-Nemaha,Centralia-Illinois,President,,DEM,Hillary Clinton,0
-Nemaha,Centralia-Illinois,President,,LIB,Gary Johnson,1
-Nemaha,Sabetha City Ward 1,President,,IND,Jill Stein,5
-Nemaha,Sabetha City Ward 1,President,,REP,Donald J Trump,229
-Nemaha,Sabetha City Ward 1,President,,DEM,Hillary Clinton,53
-Nemaha,Sabetha City Ward 1,President,,LIB,Gary Johnson,10
-Nemaha,Sabetha City Ward 2,President,,IND,Jill Stein,4
-Nemaha,Sabetha City Ward 2,President,,REP,Donald J Trump,257
-Nemaha,Sabetha City Ward 2,President,,DEM,Hillary Clinton,50
-Nemaha,Sabetha City Ward 2,President,,LIB,Gary Johnson,7
-Nemaha,Sabetha City Ward 3,President,,IND,Jill Stein,7
-Nemaha,Sabetha City Ward 3,President,,REP,Donald J Trump,263
-Nemaha,Sabetha City Ward 3,President,,DEM,Hillary Clinton,50
-Nemaha,Sabetha City Ward 3,President,,LIB,Gary Johnson,8
-Nemaha,Sabetha City Ward 4,President,,IND,Jill Stein,3
-Nemaha,Sabetha City Ward 4,President,,REP,Donald J Trump,142
-Nemaha,Sabetha City Ward 4,President,,DEM,Hillary Clinton,37
-Nemaha,Sabetha City Ward 4,President,,LIB,Gary Johnson,7
-Nemaha,Seneca City Ward 1,President,,IND,Jill Stein,6
-Nemaha,Seneca City Ward 1,President,,REP,Donald J Trump,183
-Nemaha,Seneca City Ward 1,President,,DEM,Hillary Clinton,47
-Nemaha,Seneca City Ward 1,President,,LIB,Gary Johnson,11
-Nemaha,Seneca City Ward 2,President,,IND,Jill Stein,6
-Nemaha,Seneca City Ward 2,President,,REP,Donald J Trump,294
-Nemaha,Seneca City Ward 2,President,,DEM,Hillary Clinton,85
-Nemaha,Seneca City Ward 2,President,,LIB,Gary Johnson,14
-Nemaha,Seneca City Ward 3,President,,IND,Jill Stein,7
-Nemaha,Seneca City Ward 3,President,,REP,Donald J Trump,320
-Nemaha,Seneca City Ward 3,President,,DEM,Hillary Clinton,66
-Nemaha,Seneca City Ward 3,President,,LIB,Gary Johnson,17
-Nemaha,Total,President,,IND,Jill Stein,82
-Nemaha,Total,President,,REP,Donald J Trump,4124
-Nemaha,Total,President,,DEM,Hillary Clinton,725
-Nemaha,Total,President,,LIB,Gary Johnson,164
-Nemaha,Adams,U.S. Senate,,DEM,Patrick Wiesner,9
-Nemaha,Adams,U.S. Senate,,LIB,Robert D. Garrard,0
-Nemaha,Adams,U.S. Senate,,REP,Jerry Moran,87
-Nemaha,Adams,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Adams,U.S. House,2,LIB,James Houston Bales,3
-Nemaha,Adams,U.S. House,2,REP,Lynn Jenkins,84
-Nemaha,Berwick,U.S. Senate,,DEM,Patrick Wiesner,10
-Nemaha,Berwick,U.S. Senate,,LIB,Robert D. Garrard,10
-Nemaha,Berwick,U.S. Senate,,REP,Jerry Moran,193
-Nemaha,Berwick,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Berwick,U.S. House,2,LIB,James Houston Bales,11
-Nemaha,Berwick,U.S. House,2,REP,Lynn Jenkins,187
-Nemaha,Capioma,U.S. Senate,,DEM,Patrick Wiesner,7
-Nemaha,Capioma,U.S. Senate,,LIB,Robert D. Garrard,0
-Nemaha,Capioma,U.S. Senate,,REP,Jerry Moran,72
-Nemaha,Capioma,U.S. House,2,DEM,Britani Potter,9
-Nemaha,Capioma,U.S. House,2,LIB,James Houston Bales,0
-Nemaha,Capioma,U.S. House,2,REP,Lynn Jenkins,70
-Nemaha,Center,U.S. Senate,,DEM,Patrick Wiesner,7
-Nemaha,Center,U.S. Senate,,LIB,Robert D. Garrard,0
-Nemaha,Center,U.S. Senate,,REP,Jerry Moran,80
-Nemaha,Center,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Center,U.S. House,2,LIB,James Houston Bales,2
-Nemaha,Center,U.S. House,2,REP,Lynn Jenkins,69
-Nemaha,Clear Creek,U.S. Senate,,DEM,Patrick Wiesner,10
-Nemaha,Clear Creek,U.S. Senate,,LIB,Robert D. Garrard,1
-Nemaha,Clear Creek,U.S. Senate,,REP,Jerry Moran,46
-Nemaha,Clear Creek,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Clear Creek,U.S. House,2,LIB,James Houston Bales,1
-Nemaha,Clear Creek,U.S. House,2,REP,Lynn Jenkins,45
-Nemaha,Gilman,U.S. Senate,,DEM,Patrick Wiesner,11
-Nemaha,Gilman,U.S. Senate,,LIB,Robert D. Garrard,6
-Nemaha,Gilman,U.S. Senate,,REP,Jerry Moran,83
-Nemaha,Gilman,U.S. House,2,DEM,Britani Potter,16
-Nemaha,Gilman,U.S. House,2,LIB,James Houston Bales,2
-Nemaha,Gilman,U.S. House,2,REP,Lynn Jenkins,84
-Nemaha,Granada,U.S. Senate,,DEM,Patrick Wiesner,11
-Nemaha,Granada,U.S. Senate,,LIB,Robert D. Garrard,5
-Nemaha,Granada,U.S. Senate,,REP,Jerry Moran,49
-Nemaha,Granada,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Granada,U.S. House,2,LIB,James Houston Bales,4
-Nemaha,Granada,U.S. House,2,REP,Lynn Jenkins,50
-Nemaha,Harrison-Goff,U.S. Senate,,DEM,Patrick Wiesner,18
-Nemaha,Harrison-Goff,U.S. Senate,,LIB,Robert D. Garrard,4
-Nemaha,Harrison-Goff,U.S. Senate,,REP,Jerry Moran,59
-Nemaha,Harrison-Goff,U.S. House,2,DEM,Britani Potter,18
-Nemaha,Harrison-Goff,U.S. House,2,LIB,James Houston Bales,5
-Nemaha,Harrison-Goff,U.S. House,2,REP,Lynn Jenkins,59
-Nemaha,Harrison-Kelly,U.S. Senate,,DEM,Patrick Wiesner,7
-Nemaha,Harrison-Kelly,U.S. Senate,,LIB,Robert D. Garrard,1
-Nemaha,Harrison-Kelly,U.S. Senate,,REP,Jerry Moran,47
-Nemaha,Harrison-Kelly,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Harrison-Kelly,U.S. House,2,LIB,James Houston Bales,2
-Nemaha,Harrison-Kelly,U.S. House,2,REP,Lynn Jenkins,40
-Nemaha,Home,U.S. Senate,,DEM,Patrick Wiesner,8
-Nemaha,Home,U.S. Senate,,LIB,Robert D. Garrard,3
-Nemaha,Home,U.S. Senate,,REP,Jerry Moran,63
-Nemaha,Home,U.S. House,2,DEM,Britani Potter,12
-Nemaha,Home,U.S. House,2,LIB,James Houston Bales,5
-Nemaha,Home,U.S. House,2,REP,Lynn Jenkins,57
-Nemaha,Illinois,U.S. Senate,,DEM,Patrick Wiesner,37
-Nemaha,Illinois,U.S. Senate,,LIB,Robert D. Garrard,9
-Nemaha,Illinois,U.S. Senate,,REP,Jerry Moran,187
-Nemaha,Illinois,U.S. House,2,DEM,Britani Potter,38
-Nemaha,Illinois,U.S. House,2,LIB,James Houston Bales,6
-Nemaha,Illinois,U.S. House,2,REP,Lynn Jenkins,189
-Nemaha,Marion Township,U.S. Senate,,DEM,Patrick Wiesner,28
-Nemaha,Marion Township,U.S. Senate,,LIB,Robert D. Garrard,3
-Nemaha,Marion Township,U.S. Senate,,REP,Jerry Moran,200
-Nemaha,Marion Township,U.S. House,2,DEM,Britani Potter,31
-Nemaha,Marion Township,U.S. House,2,LIB,James Houston Bales,4
-Nemaha,Marion Township,U.S. House,2,REP,Lynn Jenkins,194
-Nemaha,Mitchell Township,U.S. Senate,,DEM,Patrick Wiesner,11
-Nemaha,Mitchell Township,U.S. Senate,,LIB,Robert D. Garrard,1
-Nemaha,Mitchell Township,U.S. Senate,,REP,Jerry Moran,154
-Nemaha,Mitchell Township,U.S. House,2,DEM,Britani Potter,22
-Nemaha,Mitchell Township,U.S. House,2,LIB,James Houston Bales,4
-Nemaha,Mitchell Township,U.S. House,2,REP,Lynn Jenkins,140
-Nemaha,Nemaha Township,U.S. Senate,,DEM,Patrick Wiesner,3
-Nemaha,Nemaha Township,U.S. Senate,,LIB,Robert D. Garrard,0
-Nemaha,Nemaha Township,U.S. Senate,,REP,Jerry Moran,79
-Nemaha,Nemaha Township,U.S. House,2,DEM,Britani Potter,2
-Nemaha,Nemaha Township,U.S. House,2,LIB,James Houston Bales,1
-Nemaha,Nemaha Township,U.S. House,2,REP,Lynn Jenkins,78
-Nemaha,Neuchatel,U.S. Senate,,DEM,Patrick Wiesner,7
-Nemaha,Neuchatel,U.S. Senate,,LIB,Robert D. Garrard,1
-Nemaha,Neuchatel,U.S. Senate,,REP,Jerry Moran,53
-Nemaha,Neuchatel,U.S. House,2,DEM,Britani Potter,4
-Nemaha,Neuchatel,U.S. House,2,LIB,James Houston Bales,2
-Nemaha,Neuchatel,U.S. House,2,REP,Lynn Jenkins,56
-Nemaha,Red Vermillion,U.S. Senate,,DEM,Patrick Wiesner,11
-Nemaha,Red Vermillion,U.S. Senate,,LIB,Robert D. Garrard,2
-Nemaha,Red Vermillion,U.S. Senate,,REP,Jerry Moran,45
-Nemaha,Red Vermillion,U.S. House,2,DEM,Britani Potter,6
-Nemaha,Red Vermillion,U.S. House,2,LIB,James Houston Bales,3
-Nemaha,Red Vermillion,U.S. House,2,REP,Lynn Jenkins,49
-Nemaha,Reilly,U.S. Senate,,DEM,Patrick Wiesner,7
-Nemaha,Reilly,U.S. Senate,,LIB,Robert D. Garrard,5
-Nemaha,Reilly,U.S. Senate,,REP,Jerry Moran,57
-Nemaha,Reilly,U.S. House,2,DEM,Britani Potter,8
-Nemaha,Reilly,U.S. House,2,LIB,James Houston Bales,4
-Nemaha,Reilly,U.S. House,2,REP,Lynn Jenkins,58
-Nemaha,Richmond Township,U.S. Senate,,DEM,Patrick Wiesner,25
-Nemaha,Richmond Township,U.S. Senate,,LIB,Robert D. Garrard,4
-Nemaha,Richmond Township,U.S. Senate,,REP,Jerry Moran,254
-Nemaha,Richmond Township,U.S. House,2,DEM,Britani Potter,22
-Nemaha,Richmond Township,U.S. House,2,LIB,James Houston Bales,9
-Nemaha,Richmond Township,U.S. House,2,REP,Lynn Jenkins,256
-Nemaha,Rock Creek,U.S. Senate,,DEM,Patrick Wiesner,14
-Nemaha,Rock Creek,U.S. Senate,,LIB,Robert D. Garrard,11
-Nemaha,Rock Creek,U.S. Senate,,REP,Jerry Moran,186
-Nemaha,Rock Creek,U.S. House,2,DEM,Britani Potter,19
-Nemaha,Rock Creek,U.S. House,2,LIB,James Houston Bales,8
-Nemaha,Rock Creek,U.S. House,2,REP,Lynn Jenkins,183
-Nemaha,Washington,U.S. Senate,,DEM,Patrick Wiesner,25
-Nemaha,Washington,U.S. Senate,,LIB,Robert D. Garrard,4
-Nemaha,Washington,U.S. Senate,,REP,Jerry Moran,190
-Nemaha,Washington,U.S. House,2,DEM,Britani Potter,26
-Nemaha,Washington,U.S. House,2,LIB,James Houston Bales,6
-Nemaha,Washington,U.S. House,2,REP,Lynn Jenkins,187
-Nemaha,Wetmore,U.S. Senate,,DEM,Patrick Wiesner,39
-Nemaha,Wetmore,U.S. Senate,,LIB,Robert D. Garrard,15
-Nemaha,Wetmore,U.S. Senate,,REP,Jerry Moran,140
-Nemaha,Wetmore,U.S. House,2,DEM,Britani Potter,40
-Nemaha,Wetmore,U.S. House,2,LIB,James Houston Bales,20
-Nemaha,Wetmore,U.S. House,2,REP,Lynn Jenkins,132
-Nemaha,Centralia-Home,U.S. Senate,,DEM,Patrick Wiesner,35
-Nemaha,Centralia-Home,U.S. Senate,,LIB,Robert D. Garrard,8
-Nemaha,Centralia-Home,U.S. Senate,,REP,Jerry Moran,128
-Nemaha,Centralia-Home,U.S. House,2,DEM,Britani Potter,40
-Nemaha,Centralia-Home,U.S. House,2,LIB,James Houston Bales,8
-Nemaha,Centralia-Home,U.S. House,2,REP,Lynn Jenkins,122
-Nemaha,Centralia-Illinois,U.S. Senate,,DEM,Patrick Wiesner,4
-Nemaha,Centralia-Illinois,U.S. Senate,,LIB,Robert D. Garrard,0
-Nemaha,Centralia-Illinois,U.S. Senate,,REP,Jerry Moran,24
-Nemaha,Centralia-Illinois,U.S. House,2,DEM,Britani Potter,6
-Nemaha,Centralia-Illinois,U.S. House,2,LIB,James Houston Bales,0
-Nemaha,Centralia-Illinois,U.S. House,2,REP,Lynn Jenkins,22
-Nemaha,Sabetha City Ward 1,U.S. Senate,,DEM,Patrick Wiesner,38
-Nemaha,Sabetha City Ward 1,U.S. Senate,,LIB,Robert D. Garrard,10
-Nemaha,Sabetha City Ward 1,U.S. Senate,,REP,Jerry Moran,260
-Nemaha,Sabetha City Ward 1,U.S. House,2,DEM,Britani Potter,49
-Nemaha,Sabetha City Ward 1,U.S. House,2,LIB,James Houston Bales,14
-Nemaha,Sabetha City Ward 1,U.S. House,2,REP,Lynn Jenkins,246
-Nemaha,Sabetha City Ward 2,U.S. Senate,,DEM,Patrick Wiesner,35
-Nemaha,Sabetha City Ward 2,U.S. Senate,,LIB,Robert D. Garrard,13
-Nemaha,Sabetha City Ward 2,U.S. Senate,,REP,Jerry Moran,280
-Nemaha,Sabetha City Ward 2,U.S. House,2,DEM,Britani Potter,36
-Nemaha,Sabetha City Ward 2,U.S. House,2,LIB,James Houston Bales,20
-Nemaha,Sabetha City Ward 2,U.S. House,2,REP,Lynn Jenkins,269
-Nemaha,Sabetha City Ward 3,U.S. Senate,,DEM,Patrick Wiesner,39
-Nemaha,Sabetha City Ward 3,U.S. Senate,,LIB,Robert D. Garrard,11
-Nemaha,Sabetha City Ward 3,U.S. Senate,,REP,Jerry Moran,282
-Nemaha,Sabetha City Ward 3,U.S. House,2,DEM,Britani Potter,47
-Nemaha,Sabetha City Ward 3,U.S. House,2,LIB,James Houston Bales,9
-Nemaha,Sabetha City Ward 3,U.S. House,2,REP,Lynn Jenkins,270
-Nemaha,Sabetha City Ward 4,U.S. Senate,,DEM,Patrick Wiesner,33
-Nemaha,Sabetha City Ward 4,U.S. Senate,,LIB,Robert D. Garrard,7
-Nemaha,Sabetha City Ward 4,U.S. Senate,,REP,Jerry Moran,154
-Nemaha,Sabetha City Ward 4,U.S. House,2,DEM,Britani Potter,34
-Nemaha,Sabetha City Ward 4,U.S. House,2,LIB,James Houston Bales,11
-Nemaha,Sabetha City Ward 4,U.S. House,2,REP,Lynn Jenkins,148
-Nemaha,Seneca City Ward 1,U.S. Senate,,DEM,Patrick Wiesner,52
-Nemaha,Seneca City Ward 1,U.S. Senate,,LIB,Robert D. Garrard,8
-Nemaha,Seneca City Ward 1,U.S. Senate,,REP,Jerry Moran,188
-Nemaha,Seneca City Ward 1,U.S. House,2,DEM,Britani Potter,49
-Nemaha,Seneca City Ward 1,U.S. House,2,LIB,James Houston Bales,7
-Nemaha,Seneca City Ward 1,U.S. House,2,REP,Lynn Jenkins,191
-Nemaha,Seneca City Ward 2,U.S. Senate,,DEM,Patrick Wiesner,71
-Nemaha,Seneca City Ward 2,U.S. Senate,,LIB,Robert D. Garrard,16
-Nemaha,Seneca City Ward 2,U.S. Senate,,REP,Jerry Moran,313
-Nemaha,Seneca City Ward 2,U.S. House,2,DEM,Britani Potter,77
-Nemaha,Seneca City Ward 2,U.S. House,2,LIB,James Houston Bales,15
-Nemaha,Seneca City Ward 2,U.S. House,2,REP,Lynn Jenkins,310
-Nemaha,Seneca City Ward 3,U.S. Senate,,DEM,Patrick Wiesner,55
-Nemaha,Seneca City Ward 3,U.S. Senate,,LIB,Robert D. Garrard,7
-Nemaha,Seneca City Ward 3,U.S. Senate,,REP,Jerry Moran,341
-Nemaha,Seneca City Ward 3,U.S. House,2,DEM,Britani Potter,59
-Nemaha,Seneca City Ward 3,U.S. House,2,LIB,James Houston Bales,13
-Nemaha,Seneca City Ward 3,U.S. House,2,REP,Lynn Jenkins,334
-Nemaha,Total,U.S. Senate,,DEM,Patrick Wiesner,667
-Nemaha,Total,U.S. Senate,,LIB,Robert D. Garrard,165
-Nemaha,Total,U.S. Senate,,REP,Jerry Moran,4294
-Nemaha,Total,U.S. House,2,DEM,Britani Potter,742
-Nemaha,Total,U.S. House,2,LIB,James Houston Bales,199
-Nemaha,Total,U.S. House,2,REP,Lynn Jenkins,4179
-Nemaha,Adams,State Senate,1,REP,Dennis D. Pyle,60
-Nemaha,Adams,State Senate,1,DEM,Jerry Henry,40
-Nemaha,Adams,State House,62,REP,Randy Garber,80
-Nemaha,Berwick,State Senate,1,REP,Dennis D. Pyle,149
-Nemaha,Berwick,State Senate,1,DEM,Jerry Henry,60
-Nemaha,Berwick,State House,62,REP,Randy Garber,190
-Nemaha,Capioma,State Senate,1,REP,Dennis D. Pyle,53
-Nemaha,Capioma,State Senate,1,DEM,Jerry Henry,26
-Nemaha,Capioma,State House,62,REP,Randy Garber,61
-Nemaha,Center,State Senate,1,REP,Dennis D. Pyle,54
-Nemaha,Center,State Senate,1,DEM,Jerry Henry,32
-Nemaha,Center,State House,62,REP,Randy Garber,65
-Nemaha,Clear Creek,State Senate,1,REP,Dennis D. Pyle,27
-Nemaha,Clear Creek,State Senate,1,DEM,Jerry Henry,31
-Nemaha,Clear Creek,State House,62,REP,Randy Garber,44
-Nemaha,Gilman,State Senate,1,REP,Dennis D. Pyle,59
-Nemaha,Gilman,State Senate,1,DEM,Jerry Henry,43
-Nemaha,Gilman,State House,62,REP,Randy Garber,84
-Nemaha,Granada,State Senate,1,REP,Dennis D. Pyle,50
-Nemaha,Granada,State Senate,1,DEM,Jerry Henry,14
-Nemaha,Granada,State House,62,REP,Randy Garber,53
-Nemaha,Harrison-Goff,State Senate,1,REP,Dennis D. Pyle,59
-Nemaha,Harrison-Goff,State Senate,1,DEM,Jerry Henry,23
-Nemaha,Harrison-Goff,State House,62,REP,Randy Garber,65
-Nemaha,Harrison-Kelly,State Senate,1,REP,Dennis D. Pyle,29
-Nemaha,Harrison-Kelly,State Senate,1,DEM,Jerry Henry,25
-Nemaha,Harrison-Kelly,State House,62,REP,Randy Garber,46
-Nemaha,Home,State Senate,1,REP,Dennis D. Pyle,44
-Nemaha,Home,State Senate,1,DEM,Jerry Henry,28
-Nemaha,Home,State House,62,REP,Randy Garber,58
-Nemaha,Illinois,State Senate,1,REP,Dennis D. Pyle,160
-Nemaha,Illinois,State Senate,1,DEM,Jerry Henry,68
-Nemaha,Illinois,State House,62,REP,Randy Garber,191
-Nemaha,Marion Township,State Senate,1,REP,Dennis D. Pyle,120
-Nemaha,Marion Township,State Senate,1,DEM,Jerry Henry,111
-Nemaha,Marion Township,State House,62,REP,Randy Garber,167
-Nemaha,Mitchell Township,State Senate,1,REP,Dennis D. Pyle,104
-Nemaha,Mitchell Township,State Senate,1,DEM,Jerry Henry,59
-Nemaha,Mitchell Township,State House,62,REP,Randy Garber,133
-Nemaha,Nemaha Township,State Senate,1,REP,Dennis D. Pyle,68
-Nemaha,Nemaha Township,State Senate,1,DEM,Jerry Henry,13
-Nemaha,Nemaha Township,State House,62,REP,Randy Garber,68
-Nemaha,Neuchatel,State Senate,1,REP,Dennis D. Pyle,50
-Nemaha,Neuchatel,State Senate,1,DEM,Jerry Henry,11
-Nemaha,Neuchatel,State House,62,REP,Randy Garber,51
-Nemaha,Red Vermillion,State Senate,1,REP,Dennis D. Pyle,44
-Nemaha,Red Vermillion,State Senate,1,DEM,Jerry Henry,14
-Nemaha,Red Vermillion,State House,62,REP,Randy Garber,50
-Nemaha,Reilly,State Senate,1,REP,Dennis D. Pyle,43
-Nemaha,Reilly,State Senate,1,DEM,Jerry Henry,26
-Nemaha,Reilly,State House,62,REP,Randy Garber,62
-Nemaha,Richmond Township,State Senate,1,REP,Dennis D. Pyle,197
-Nemaha,Richmond Township,State Senate,1,DEM,Jerry Henry,88
-Nemaha,Richmond Township,State House,62,REP,Randy Garber,238
-Nemaha,Rock Creek,State Senate,1,REP,Dennis D. Pyle,127
-Nemaha,Rock Creek,State Senate,1,DEM,Jerry Henry,84
-Nemaha,Rock Creek,State House,62,REP,Randy Garber,168
-Nemaha,Washington,State Senate,1,REP,Dennis D. Pyle,161
-Nemaha,Washington,State Senate,1,DEM,Jerry Henry,58
-Nemaha,Washington,State House,62,REP,Randy Garber,184
-Nemaha,Wetmore,State Senate,1,REP,Dennis D. Pyle,128
-Nemaha,Wetmore,State Senate,1,DEM,Jerry Henry,64
-Nemaha,Wetmore,State House,62,REP,Randy Garber,148
-Nemaha,Centralia-Home,State Senate,1,REP,Dennis D. Pyle,106
-Nemaha,Centralia-Home,State Senate,1,DEM,Jerry Henry,65
-Nemaha,Centralia-Home,State House,62,REP,Randy Garber,126
-Nemaha,Centralia-Illinois,State Senate,1,REP,Dennis D. Pyle,17
-Nemaha,Centralia-Illinois,State Senate,1,DEM,Jerry Henry,10
-Nemaha,Centralia-Illinois,State House,62,REP,Randy Garber,19
-Nemaha,Sabetha City Ward 1,State Senate,1,REP,Dennis D. Pyle,171
-Nemaha,Sabetha City Ward 1,State Senate,1,DEM,Jerry Henry,127
-Nemaha,Sabetha City Ward 1,State House,62,REP,Randy Garber,228
-Nemaha,Sabetha City Ward 2,State Senate,1,REP,Dennis D. Pyle,190
-Nemaha,Sabetha City Ward 2,State Senate,1,DEM,Jerry Henry,137
-Nemaha,Sabetha City Ward 2,State House,62,REP,Randy Garber,269
-Nemaha,Sabetha City Ward 3,State Senate,1,REP,Dennis D. Pyle,194
-Nemaha,Sabetha City Ward 3,State Senate,1,DEM,Jerry Henry,131
-Nemaha,Sabetha City Ward 3,State House,62,REP,Randy Garber,261
-Nemaha,Sabetha City Ward 4,State Senate,1,REP,Dennis D. Pyle,112
-Nemaha,Sabetha City Ward 4,State Senate,1,DEM,Jerry Henry,81
-Nemaha,Sabetha City Ward 4,State House,62,REP,Randy Garber,152
-Nemaha,Seneca City Ward 1,State Senate,1,REP,Dennis D. Pyle,149
-Nemaha,Seneca City Ward 1,State Senate,1,DEM,Jerry Henry,104
-Nemaha,Seneca City Ward 1,State House,62,REP,Randy Garber,192
-Nemaha,Seneca City Ward 2,State Senate,1,REP,Dennis D. Pyle,215
-Nemaha,Seneca City Ward 2,State Senate,1,DEM,Jerry Henry,185
-Nemaha,Seneca City Ward 2,State House,62,REP,Randy Garber,285
-Nemaha,Seneca City Ward 3,State Senate,1,REP,Dennis D. Pyle,250
-Nemaha,Seneca City Ward 3,State Senate,1,DEM,Jerry Henry,160
-Nemaha,Seneca City Ward 3,State House,62,REP,Randy Garber,320
-Nemaha,Total,State Senate,1,REP,Dennis D. Pyle,3190
-Nemaha,Total,State Senate,1,DEM,Jerry Henry,1918
-Nemaha,Total,State House,62,REP,Randy Garber,4058
+county,precinct,office,district,party,candidate,votes,vtd
+NEMAHA,Adams Township,Kansas House of Representatives,62,Republican,"Garber, Randy",80,000010
+NEMAHA,Berwick Township,Kansas House of Representatives,62,Republican,"Garber, Randy",190,000020
+NEMAHA,Capioma Township,Kansas House of Representatives,62,Republican,"Garber, Randy",61,000030
+NEMAHA,Center Township,Kansas House of Representatives,62,Republican,"Garber, Randy",65,000040
+NEMAHA,Centralia,Kansas House of Representatives,62,Republican,"Garber, Randy",126,00005A
+NEMAHA,Centralia Illinois A,Kansas House of Representatives,62,Republican,"Garber, Randy",19,00005B
+NEMAHA,Centralia Illinois B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00005C
+NEMAHA,Clear Creek Township,Kansas House of Representatives,62,Republican,"Garber, Randy",44,000060
+NEMAHA,Gilman Township,Kansas House of Representatives,62,Republican,"Garber, Randy",84,000070
+NEMAHA,Granada Township,Kansas House of Representatives,62,Republican,"Garber, Randy",53,000080
+NEMAHA,Harrison - Goff,Kansas House of Representatives,62,Republican,"Garber, Randy",65,000090
+NEMAHA,Harrison - Kelly,Kansas House of Representatives,62,Republican,"Garber, Randy",46,000100
+NEMAHA,Home Township,Kansas House of Representatives,62,Republican,"Garber, Randy",58,000110
+NEMAHA,Illinois Township,Kansas House of Representatives,62,Republican,"Garber, Randy",191,000120
+NEMAHA,Marion Township,Kansas House of Representatives,62,Republican,"Garber, Randy",167,000130
+NEMAHA,Mitchell Township,Kansas House of Representatives,62,Republican,"Garber, Randy",133,000140
+NEMAHA,Nemaha Township,Kansas House of Representatives,62,Republican,"Garber, Randy",68,000150
+NEMAHA,Neuchatel Township,Kansas House of Representatives,62,Republican,"Garber, Randy",51,000160
+NEMAHA,Red Vermillion Township,Kansas House of Representatives,62,Republican,"Garber, Randy",50,000170
+NEMAHA,Reilly Township,Kansas House of Representatives,62,Republican,"Garber, Randy",62,000180
+NEMAHA,Richmond Township,Kansas House of Representatives,62,Republican,"Garber, Randy",238,000190
+NEMAHA,Rock Creek Township,Kansas House of Representatives,62,Republican,"Garber, Randy",168,00020A
+NEMAHA,Rock Creek Township Enclave A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00020C
+NEMAHA,Sabetha Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",228,000210
+NEMAHA,Sabetha Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",269,000220
+NEMAHA,Sabetha Ward,Kansas House of Representatives,62,Republican,"Garber, Randy",261,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00023B
+NEMAHA,Sabetha Ward 4,Kansas House of Representatives,62,Republican,"Garber, Randy",152,000240
+NEMAHA,Sabetha Ward 5,Kansas House of Representatives,62,Republican,"Garber, Randy",0,000250
+NEMAHA,Seneca Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",192,000260
+NEMAHA,Seneca Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",285,000270
+NEMAHA,Seneca Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",320,000280
+NEMAHA,Washington Township,Kansas House of Representatives,62,Republican,"Garber, Randy",184,000290
+NEMAHA,Wetmore Township,Kansas House of Representatives,62,Republican,"Garber, Randy",148,000300
+NEMAHA,Richmond Township Enclave 1,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900010
+NEMAHA,Richland Township Enclave 2,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900020
+NEMAHA,Sabetha Ward Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900030
+NEMAHA,Adams Township,Kansas Senate,1,Democratic,"Henry, Jerry",40,000010
+NEMAHA,Adams Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",60,000010
+NEMAHA,Berwick Township,Kansas Senate,1,Democratic,"Henry, Jerry",60,000020
+NEMAHA,Berwick Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",149,000020
+NEMAHA,Capioma Township,Kansas Senate,1,Democratic,"Henry, Jerry",26,000030
+NEMAHA,Capioma Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",53,000030
+NEMAHA,Center Township,Kansas Senate,1,Democratic,"Henry, Jerry",32,000040
+NEMAHA,Center Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",54,000040
+NEMAHA,Centralia,Kansas Senate,1,Democratic,"Henry, Jerry",65,00005A
+NEMAHA,Centralia,Kansas Senate,1,Republican,"Pyle, Dennis D.",106,00005A
+NEMAHA,Centralia Illinois A,Kansas Senate,1,Democratic,"Henry, Jerry",10,00005B
+NEMAHA,Centralia Illinois A,Kansas Senate,1,Republican,"Pyle, Dennis D.",17,00005B
+NEMAHA,Centralia Illinois B,Kansas Senate,1,Democratic,"Henry, Jerry",0,00005C
+NEMAHA,Centralia Illinois B,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,00005C
+NEMAHA,Clear Creek Township,Kansas Senate,1,Democratic,"Henry, Jerry",31,000060
+NEMAHA,Clear Creek Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",27,000060
+NEMAHA,Gilman Township,Kansas Senate,1,Democratic,"Henry, Jerry",43,000070
+NEMAHA,Gilman Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",59,000070
+NEMAHA,Granada Township,Kansas Senate,1,Democratic,"Henry, Jerry",14,000080
+NEMAHA,Granada Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",50,000080
+NEMAHA,Harrison - Goff,Kansas Senate,1,Democratic,"Henry, Jerry",23,000090
+NEMAHA,Harrison - Goff,Kansas Senate,1,Republican,"Pyle, Dennis D.",59,000090
+NEMAHA,Harrison - Kelly,Kansas Senate,1,Democratic,"Henry, Jerry",25,000100
+NEMAHA,Harrison - Kelly,Kansas Senate,1,Republican,"Pyle, Dennis D.",29,000100
+NEMAHA,Home Township,Kansas Senate,1,Democratic,"Henry, Jerry",28,000110
+NEMAHA,Home Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",44,000110
+NEMAHA,Illinois Township,Kansas Senate,1,Democratic,"Henry, Jerry",68,000120
+NEMAHA,Illinois Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",160,000120
+NEMAHA,Marion Township,Kansas Senate,1,Democratic,"Henry, Jerry",111,000130
+NEMAHA,Marion Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",120,000130
+NEMAHA,Mitchell Township,Kansas Senate,1,Democratic,"Henry, Jerry",59,000140
+NEMAHA,Mitchell Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",104,000140
+NEMAHA,Nemaha Township,Kansas Senate,1,Democratic,"Henry, Jerry",13,000150
+NEMAHA,Nemaha Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",68,000150
+NEMAHA,Neuchatel Township,Kansas Senate,1,Democratic,"Henry, Jerry",11,000160
+NEMAHA,Neuchatel Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",50,000160
+NEMAHA,Red Vermillion Township,Kansas Senate,1,Democratic,"Henry, Jerry",14,000170
+NEMAHA,Red Vermillion Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",44,000170
+NEMAHA,Reilly Township,Kansas Senate,1,Democratic,"Henry, Jerry",26,000180
+NEMAHA,Reilly Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",43,000180
+NEMAHA,Richmond Township,Kansas Senate,1,Democratic,"Henry, Jerry",88,000190
+NEMAHA,Richmond Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",197,000190
+NEMAHA,Rock Creek Township,Kansas Senate,1,Democratic,"Henry, Jerry",84,00020A
+NEMAHA,Rock Creek Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",127,00020A
+NEMAHA,Rock Creek Township Enclave A,Kansas Senate,1,Democratic,"Henry, Jerry",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Kansas Senate,1,Democratic,"Henry, Jerry",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,00020C
+NEMAHA,Sabetha Ward 1,Kansas Senate,1,Democratic,"Henry, Jerry",127,000210
+NEMAHA,Sabetha Ward 1,Kansas Senate,1,Republican,"Pyle, Dennis D.",171,000210
+NEMAHA,Sabetha Ward 2,Kansas Senate,1,Democratic,"Henry, Jerry",137,000220
+NEMAHA,Sabetha Ward 2,Kansas Senate,1,Republican,"Pyle, Dennis D.",190,000220
+NEMAHA,Sabetha Ward,Kansas Senate,1,Democratic,"Henry, Jerry",131,00023A
+NEMAHA,Sabetha Ward,Kansas Senate,1,Republican,"Pyle, Dennis D.",194,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Kansas Senate,1,Democratic,"Henry, Jerry",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,00023B
+NEMAHA,Sabetha Ward 4,Kansas Senate,1,Democratic,"Henry, Jerry",81,000240
+NEMAHA,Sabetha Ward 4,Kansas Senate,1,Republican,"Pyle, Dennis D.",112,000240
+NEMAHA,Sabetha Ward 5,Kansas Senate,1,Democratic,"Henry, Jerry",0,000250
+NEMAHA,Sabetha Ward 5,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,000250
+NEMAHA,Seneca Ward 1,Kansas Senate,1,Democratic,"Henry, Jerry",104,000260
+NEMAHA,Seneca Ward 1,Kansas Senate,1,Republican,"Pyle, Dennis D.",149,000260
+NEMAHA,Seneca Ward 2,Kansas Senate,1,Democratic,"Henry, Jerry",185,000270
+NEMAHA,Seneca Ward 2,Kansas Senate,1,Republican,"Pyle, Dennis D.",215,000270
+NEMAHA,Seneca Ward 3,Kansas Senate,1,Democratic,"Henry, Jerry",160,000280
+NEMAHA,Seneca Ward 3,Kansas Senate,1,Republican,"Pyle, Dennis D.",250,000280
+NEMAHA,Washington Township,Kansas Senate,1,Democratic,"Henry, Jerry",58,000290
+NEMAHA,Washington Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",161,000290
+NEMAHA,Wetmore Township,Kansas Senate,1,Democratic,"Henry, Jerry",64,000300
+NEMAHA,Wetmore Township,Kansas Senate,1,Republican,"Pyle, Dennis D.",128,000300
+NEMAHA,Richmond Township Enclave 1,Kansas Senate,1,Democratic,"Henry, Jerry",0,900010
+NEMAHA,Richmond Township Enclave 1,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,900010
+NEMAHA,Richland Township Enclave 2,Kansas Senate,1,Democratic,"Henry, Jerry",0,900020
+NEMAHA,Richland Township Enclave 2,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,900020
+NEMAHA,Sabetha Ward Exclave,Kansas Senate,1,Democratic,"Henry, Jerry",0,900030
+NEMAHA,Sabetha Ward Exclave,Kansas Senate,1,Republican,"Pyle, Dennis D.",0,900030
+NEMAHA,Adams Township,President / Vice President,,independent,"Stein, Jill",1,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+NEMAHA,Adams Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+NEMAHA,Adams Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000010
+NEMAHA,Adams Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000010
+NEMAHA,Adams Township,President / Vice President,,Republican,"Trump, Donald J.",88,000010
+NEMAHA,Berwick Township,President / Vice President,,independent,"Stein, Jill",1,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"McMullin, Evan",2,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+NEMAHA,Berwick Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+NEMAHA,Berwick Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",13,000020
+NEMAHA,Berwick Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000020
+NEMAHA,Berwick Township,President / Vice President,,Republican,"Trump, Donald J.",190,000020
+NEMAHA,Capioma Township,President / Vice President,,independent,"Stein, Jill",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+NEMAHA,Capioma Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+NEMAHA,Capioma Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000030
+NEMAHA,Capioma Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000030
+NEMAHA,Capioma Township,President / Vice President,,Republican,"Trump, Donald J.",65,000030
+NEMAHA,Center Township,President / Vice President,,independent,"Stein, Jill",2,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+NEMAHA,Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+NEMAHA,Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000040
+NEMAHA,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000040
+NEMAHA,Center Township,President / Vice President,,Republican,"Trump, Donald J.",73,000040
+NEMAHA,Centralia,President / Vice President,,independent,"Stein, Jill",4,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Castle, Darrell L",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Giordani, Rocky",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Hedges, James A",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Hoefling, Tom",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Kahn, Lynn",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"La Riva, Gloria",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Levinson, Michael S.",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Maturen, Michael A",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"McMullin, Evan",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Perry, Darryl",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Schriner, Joe C",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Smith, Mike",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Sood, Ajay",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Sterling, Shawna",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005A
+NEMAHA,Centralia,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005A
+NEMAHA,Centralia,President / Vice President,,Democratic,"Clinton, Hillary Rodham",34,00005A
+NEMAHA,Centralia,President / Vice President,,Libertarian,"Johnson, Gary",11,00005A
+NEMAHA,Centralia,President / Vice President,,Republican,"Trump, Donald J.",124,00005A
+NEMAHA,Centralia Illinois A,President / Vice President,,independent,"Stein, Jill",1,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Castle, Darrell L",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Giordani, Rocky",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Hedges, James A",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Hoefling, Tom",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Kahn, Lynn",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"La Riva, Gloria",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Levinson, Michael S.",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Maturen, Michael A",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"McMullin, Evan",1,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Perry, Darryl",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Schriner, Joe C",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Smith, Mike",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Sood, Ajay",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Sterling, Shawna",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,Libertarian,"Johnson, Gary",1,00005B
+NEMAHA,Centralia Illinois A,President / Vice President,,Republican,"Trump, Donald J.",25,00005B
+NEMAHA,Centralia Illinois B,President / Vice President,,independent,"Stein, Jill",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Castle, Darrell L",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Giordani, Rocky",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Hedges, James A",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Hoefling, Tom",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Kahn, Lynn",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"La Riva, Gloria",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Levinson, Michael S.",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Maturen, Michael A",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"McMullin, Evan",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Perry, Darryl",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Schriner, Joe C",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Smith, Mike",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Sood, Ajay",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Sterling, Shawna",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,Libertarian,"Johnson, Gary",0,00005C
+NEMAHA,Centralia Illinois B,President / Vice President,,Republican,"Trump, Donald J.",0,00005C
+NEMAHA,Clear Creek Township,President / Vice President,,independent,"Stein, Jill",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+NEMAHA,Clear Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,000060
+NEMAHA,Clear Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000060
+NEMAHA,Clear Creek Township,President / Vice President,,Republican,"Trump, Donald J.",41,000060
+NEMAHA,Gilman Township,President / Vice President,,independent,"Stein, Jill",2,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+NEMAHA,Gilman Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+NEMAHA,Gilman Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",19,000070
+NEMAHA,Gilman Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000070
+NEMAHA,Gilman Township,President / Vice President,,Republican,"Trump, Donald J.",79,000070
+NEMAHA,Granada Township,President / Vice President,,independent,"Stein, Jill",3,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+NEMAHA,Granada Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+NEMAHA,Granada Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000080
+NEMAHA,Granada Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000080
+NEMAHA,Granada Township,President / Vice President,,Republican,"Trump, Donald J.",51,000080
+NEMAHA,Harrison - Goff,President / Vice President,,independent,"Stein, Jill",2,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Hedges, James A",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"McMullin, Evan",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Perry, Darryl",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Smith, Mike",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Sood, Ajay",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+NEMAHA,Harrison - Goff,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000090
+NEMAHA,Harrison - Goff,President / Vice President,,Libertarian,"Johnson, Gary",3,000090
+NEMAHA,Harrison - Goff,President / Vice President,,Republican,"Trump, Donald J.",59,000090
+NEMAHA,Harrison - Kelly,President / Vice President,,independent,"Stein, Jill",1,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Hedges, James A",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"McMullin, Evan",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Perry, Darryl",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Smith, Mike",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Sood, Ajay",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+NEMAHA,Harrison - Kelly,President / Vice President,,Republican,"Trump, Donald J.",43,000100
+NEMAHA,Home Township,President / Vice President,,independent,"Stein, Jill",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"McMullin, Evan",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+NEMAHA,Home Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+NEMAHA,Home Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000110
+NEMAHA,Home Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000110
+NEMAHA,Home Township,President / Vice President,,Republican,"Trump, Donald J.",60,000110
+NEMAHA,Illinois Township,President / Vice President,,independent,"Stein, Jill",2,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+NEMAHA,Illinois Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+NEMAHA,Illinois Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",27,000120
+NEMAHA,Illinois Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000120
+NEMAHA,Illinois Township,President / Vice President,,Republican,"Trump, Donald J.",200,000120
+NEMAHA,Marion Township,President / Vice President,,independent,"Stein, Jill",3,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"McMullin, Evan",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+NEMAHA,Marion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+NEMAHA,Marion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",31,000130
+NEMAHA,Marion Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000130
+NEMAHA,Marion Township,President / Vice President,,Republican,"Trump, Donald J.",185,000130
+NEMAHA,Mitchell Township,President / Vice President,,independent,"Stein, Jill",2,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"McMullin, Evan",1,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+NEMAHA,Mitchell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000140
+NEMAHA,Mitchell Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000140
+NEMAHA,Mitchell Township,President / Vice President,,Republican,"Trump, Donald J.",141,000140
+NEMAHA,Nemaha Township,President / Vice President,,independent,"Stein, Jill",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000150
+NEMAHA,Nemaha Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000150
+NEMAHA,Nemaha Township,President / Vice President,,Republican,"Trump, Donald J.",76,000150
+NEMAHA,Neuchatel Township,President / Vice President,,independent,"Stein, Jill",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Castle, Darrell L",1,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+NEMAHA,Neuchatel Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000160
+NEMAHA,Neuchatel Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000160
+NEMAHA,Neuchatel Township,President / Vice President,,Republican,"Trump, Donald J.",58,000160
+NEMAHA,Red Vermillion Township,President / Vice President,,independent,"Stein, Jill",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000170
+NEMAHA,Red Vermillion Township,President / Vice President,,Republican,"Trump, Donald J.",52,000170
+NEMAHA,Reilly Township,President / Vice President,,independent,"Stein, Jill",3,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+NEMAHA,Reilly Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+NEMAHA,Reilly Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000180
+NEMAHA,Reilly Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000180
+NEMAHA,Reilly Township,President / Vice President,,Republican,"Trump, Donald J.",51,000180
+NEMAHA,Richmond Township,President / Vice President,,independent,"Stein, Jill",4,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+NEMAHA,Richmond Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+NEMAHA,Richmond Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",16,000190
+NEMAHA,Richmond Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000190
+NEMAHA,Richmond Township,President / Vice President,,Republican,"Trump, Donald J.",262,000190
+NEMAHA,Rock Creek Township,President / Vice President,,independent,"Stein, Jill",5,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Castle, Darrell L",1,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Hedges, James A",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"McMullin, Evan",3,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Smith, Mike",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",6,00020A
+NEMAHA,Rock Creek Township,President / Vice President,,Republican,"Trump, Donald J.",185,00020A
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,independent,"Stein, Jill",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Castle, Darrell L",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Giordani, Rocky",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Hedges, James A",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Kahn, Lynn",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"La Riva, Gloria",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Maturen, Michael A",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"McMullin, Evan",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Perry, Darryl",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Schriner, Joe C",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Smith, Mike",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Sood, Ajay",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Sterling, Shawna",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00020B
+NEMAHA,Rock Creek Township Enclave A,President / Vice President,,Republican,"Trump, Donald J.",0,00020B
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,independent,"Stein, Jill",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Castle, Darrell L",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Giordani, Rocky",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Hedges, James A",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Kahn, Lynn",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"La Riva, Gloria",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Levinson, Michael S.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Maturen, Michael A",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"McMullin, Evan",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Perry, Darryl",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Schriner, Joe C",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Smith, Mike",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Sood, Ajay",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Sterling, Shawna",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00020C
+NEMAHA,Rock Creek Township Enclave B,President / Vice President,,Republican,"Trump, Donald J.",0,00020C
+NEMAHA,Sabetha Ward 1,President / Vice President,,independent,"Stein, Jill",5,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Castle, Darrell L",2,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"McMullin, Evan",4,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",53,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",10,000210
+NEMAHA,Sabetha Ward 1,President / Vice President,,Republican,"Trump, Donald J.",229,000210
+NEMAHA,Sabetha Ward 2,President / Vice President,,independent,"Stein, Jill",4,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"McMullin, Evan",3,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",50,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,000220
+NEMAHA,Sabetha Ward 2,President / Vice President,,Republican,"Trump, Donald J.",257,000220
+NEMAHA,Sabetha Ward,President / Vice President,,independent,"Stein, Jill",7,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Basiago, Andrew D.",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Castle, Darrell L",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Giordani, Rocky",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Hedges, James A",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Hoefling, Tom",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Kahn, Lynn",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"La Riva, Gloria",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Levinson, Michael S.",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Maturen, Michael A",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"McMullin, Evan",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Moorehead, Monica G.",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Perry, Darryl",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Schriner, Joe C",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Smith, Mike",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Sood, Ajay",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Sterling, Shawna",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Valdivia, Anthony J",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,Democratic,"Clinton, Hillary Rodham",50,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,Libertarian,"Johnson, Gary",8,00023A
+NEMAHA,Sabetha Ward,President / Vice President,,Republican,"Trump, Donald J.",263,00023A
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,independent,"Stein, Jill",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Hedges, James A",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Smith, Mike",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00023B
+NEMAHA,Sabetha Ward 4,President / Vice President,,independent,"Stein, Jill",3,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"McMullin, Evan",7,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",37,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",7,000240
+NEMAHA,Sabetha Ward 4,President / Vice President,,Republican,"Trump, Donald J.",142,000240
+NEMAHA,Sabetha Ward 5,President / Vice President,,independent,"Stein, Jill",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Hedges, James A",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"McMullin, Evan",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Perry, Darryl",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Smith, Mike",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Sood, Ajay",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,Libertarian,"Johnson, Gary",0,000250
+NEMAHA,Sabetha Ward 5,President / Vice President,,Republican,"Trump, Donald J.",0,000250
+NEMAHA,Seneca Ward 1,President / Vice President,,independent,"Stein, Jill",6,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",47,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",11,000260
+NEMAHA,Seneca Ward 1,President / Vice President,,Republican,"Trump, Donald J.",183,000260
+NEMAHA,Seneca Ward 2,President / Vice President,,independent,"Stein, Jill",6,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",85,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",14,000270
+NEMAHA,Seneca Ward 2,President / Vice President,,Republican,"Trump, Donald J.",294,000270
+NEMAHA,Seneca Ward 3,President / Vice President,,independent,"Stein, Jill",7,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"McMullin, Evan",1,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",66,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",17,000280
+NEMAHA,Seneca Ward 3,President / Vice President,,Republican,"Trump, Donald J.",320,000280
+NEMAHA,Washington Township,President / Vice President,,independent,"Stein, Jill",5,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Castle, Darrell L",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Giordani, Rocky",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Hedges, James A",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Kahn, Lynn",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"La Riva, Gloria",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Maturen, Michael A",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"McMullin, Evan",1,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Perry, Darryl",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Schriner, Joe C",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Smith, Mike",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Sood, Ajay",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Sterling, Shawna",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000290
+NEMAHA,Washington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000290
+NEMAHA,Washington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000290
+NEMAHA,Washington Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000290
+NEMAHA,Washington Township,President / Vice President,,Republican,"Trump, Donald J.",176,000290
+NEMAHA,Wetmore Township,President / Vice President,,independent,"Stein, Jill",3,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Castle, Darrell L",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Giordani, Rocky",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Hedges, James A",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Kahn, Lynn",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"La Riva, Gloria",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Maturen, Michael A",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"McMullin, Evan",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Perry, Darryl",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Schriner, Joe C",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Smith, Mike",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Sood, Ajay",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Sterling, Shawna",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000300
+NEMAHA,Wetmore Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",35,000300
+NEMAHA,Wetmore Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000300
+NEMAHA,Wetmore Township,President / Vice President,,Republican,"Trump, Donald J.",152,000300
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,independent,"Stein, Jill",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Hedges, James A",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Smith, Mike",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+NEMAHA,Richmond Township Enclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+NEMAHA,Richland Township Enclave 2,President / Vice President,,independent,"Stein, Jill",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Hedges, James A",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Smith, Mike",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+NEMAHA,Richland Township Enclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,independent,"Stein, Jill",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Hedges, James A",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Smith, Mike",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+NEMAHA,Sabetha Ward Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900030
+NEMAHA,Adams Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000010
+NEMAHA,Adams Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000010
+NEMAHA,Adams Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",84,000010
+NEMAHA,Berwick Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000020
+NEMAHA,Berwick Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",11,000020
+NEMAHA,Berwick Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",187,000020
+NEMAHA,Capioma Township,United States House of Representatives,2,Democratic,"Potter, Britani",9,000030
+NEMAHA,Capioma Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,000030
+NEMAHA,Capioma Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",70,000030
+NEMAHA,Center Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000040
+NEMAHA,Center Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000040
+NEMAHA,Center Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",69,000040
+NEMAHA,Centralia,United States House of Representatives,2,Democratic,"Potter, Britani",40,00005A
+NEMAHA,Centralia,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,00005A
+NEMAHA,Centralia,United States House of Representatives,2,Republican,"Jenkins, Lynn",122,00005A
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Democratic,"Potter, Britani",6,00005B
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00005B
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Republican,"Jenkins, Lynn",22,00005B
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Democratic,"Potter, Britani",0,00005C
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00005C
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005C
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000060
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000060
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",45,000060
+NEMAHA,Gilman Township,United States House of Representatives,2,Democratic,"Potter, Britani",16,000070
+NEMAHA,Gilman Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000070
+NEMAHA,Gilman Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",84,000070
+NEMAHA,Granada Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000080
+NEMAHA,Granada Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000080
+NEMAHA,Granada Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",50,000080
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Democratic,"Potter, Britani",18,000090
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000090
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Republican,"Jenkins, Lynn",59,000090
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Democratic,"Potter, Britani",12,000100
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000100
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Republican,"Jenkins, Lynn",40,000100
+NEMAHA,Home Township,United States House of Representatives,2,Democratic,"Potter, Britani",12,000110
+NEMAHA,Home Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000110
+NEMAHA,Home Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",57,000110
+NEMAHA,Illinois Township,United States House of Representatives,2,Democratic,"Potter, Britani",38,000120
+NEMAHA,Illinois Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000120
+NEMAHA,Illinois Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",189,000120
+NEMAHA,Marion Township,United States House of Representatives,2,Democratic,"Potter, Britani",31,000130
+NEMAHA,Marion Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000130
+NEMAHA,Marion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",194,000130
+NEMAHA,Mitchell Township,United States House of Representatives,2,Democratic,"Potter, Britani",22,000140
+NEMAHA,Mitchell Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000140
+NEMAHA,Mitchell Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",140,000140
+NEMAHA,Nemaha Township,United States House of Representatives,2,Democratic,"Potter, Britani",2,000150
+NEMAHA,Nemaha Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000150
+NEMAHA,Nemaha Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",78,000150
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Democratic,"Potter, Britani",4,000160
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",2,000160
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",56,000160
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Democratic,"Potter, Britani",6,000170
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000170
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",49,000170
+NEMAHA,Reilly Township,United States House of Representatives,2,Democratic,"Potter, Britani",8,000180
+NEMAHA,Reilly Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",4,000180
+NEMAHA,Reilly Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",58,000180
+NEMAHA,Richmond Township,United States House of Representatives,2,Democratic,"Potter, Britani",22,000190
+NEMAHA,Richmond Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000190
+NEMAHA,Richmond Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",256,000190
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Democratic,"Potter, Britani",19,00020A
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,00020A
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",183,00020A
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Democratic,"Potter, Britani",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00020B
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Democratic,"Potter, Britani",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00020C
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",49,000210
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000210
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",246,000210
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",36,000220
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",20,000220
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",269,000220
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Democratic,"Potter, Britani",47,00023A
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,00023A
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Republican,"Jenkins, Lynn",270,00023A
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00023B
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Democratic,"Potter, Britani",34,000240
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",11,000240
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",148,000240
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Democratic,"Potter, Britani",0,000250
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,000250
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,000250
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",49,000260
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,000260
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",191,000260
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",77,000270
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000270
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",310,000270
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",59,000280
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,000280
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",334,000280
+NEMAHA,Washington Township,United States House of Representatives,2,Democratic,"Potter, Britani",26,000290
+NEMAHA,Washington Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",6,000290
+NEMAHA,Washington Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",187,000290
+NEMAHA,Wetmore Township,United States House of Representatives,2,Democratic,"Potter, Britani",40,000300
+NEMAHA,Wetmore Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",20,000300
+NEMAHA,Wetmore Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",132,000300
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Democratic,"Potter, Britani",0,900010
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900010
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Democratic,"Potter, Britani",0,900020
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900020
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,900030
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900030
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900030
+NEMAHA,Adams Township,United States Senate,,write - in,"Smith, DJ",0,000010
+NEMAHA,Adams Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000010
+NEMAHA,Adams Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000010
+NEMAHA,Adams Township,United States Senate,,Republican,"Moran, Jerry",87,000010
+NEMAHA,Berwick Township,United States Senate,,write - in,"Smith, DJ",0,000020
+NEMAHA,Berwick Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000020
+NEMAHA,Berwick Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000020
+NEMAHA,Berwick Township,United States Senate,,Republican,"Moran, Jerry",193,000020
+NEMAHA,Capioma Township,United States Senate,,write - in,"Smith, DJ",0,000030
+NEMAHA,Capioma Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000030
+NEMAHA,Capioma Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000030
+NEMAHA,Capioma Township,United States Senate,,Republican,"Moran, Jerry",72,000030
+NEMAHA,Center Township,United States Senate,,write - in,"Smith, DJ",0,000040
+NEMAHA,Center Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000040
+NEMAHA,Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000040
+NEMAHA,Center Township,United States Senate,,Republican,"Moran, Jerry",80,000040
+NEMAHA,Centralia,United States Senate,,write - in,"Smith, DJ",0,00005A
+NEMAHA,Centralia,United States Senate,,Democratic,"Wiesner, Patrick",35,00005A
+NEMAHA,Centralia,United States Senate,,Libertarian,"Garrard, Robert D.",8,00005A
+NEMAHA,Centralia,United States Senate,,Republican,"Moran, Jerry",128,00005A
+NEMAHA,Centralia Illinois A,United States Senate,,write - in,"Smith, DJ",0,00005B
+NEMAHA,Centralia Illinois A,United States Senate,,Democratic,"Wiesner, Patrick",4,00005B
+NEMAHA,Centralia Illinois A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00005B
+NEMAHA,Centralia Illinois A,United States Senate,,Republican,"Moran, Jerry",24,00005B
+NEMAHA,Centralia Illinois B,United States Senate,,write - in,"Smith, DJ",0,00005C
+NEMAHA,Centralia Illinois B,United States Senate,,Democratic,"Wiesner, Patrick",0,00005C
+NEMAHA,Centralia Illinois B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00005C
+NEMAHA,Centralia Illinois B,United States Senate,,Republican,"Moran, Jerry",0,00005C
+NEMAHA,Clear Creek Township,United States Senate,,write - in,"Smith, DJ",0,000060
+NEMAHA,Clear Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000060
+NEMAHA,Clear Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000060
+NEMAHA,Clear Creek Township,United States Senate,,Republican,"Moran, Jerry",46,000060
+NEMAHA,Gilman Township,United States Senate,,write - in,"Smith, DJ",0,000070
+NEMAHA,Gilman Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000070
+NEMAHA,Gilman Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000070
+NEMAHA,Gilman Township,United States Senate,,Republican,"Moran, Jerry",83,000070
+NEMAHA,Granada Township,United States Senate,,write - in,"Smith, DJ",0,000080
+NEMAHA,Granada Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000080
+NEMAHA,Granada Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000080
+NEMAHA,Granada Township,United States Senate,,Republican,"Moran, Jerry",49,000080
+NEMAHA,Harrison - Goff,United States Senate,,write - in,"Smith, DJ",0,000090
+NEMAHA,Harrison - Goff,United States Senate,,Democratic,"Wiesner, Patrick",18,000090
+NEMAHA,Harrison - Goff,United States Senate,,Libertarian,"Garrard, Robert D.",4,000090
+NEMAHA,Harrison - Goff,United States Senate,,Republican,"Moran, Jerry",59,000090
+NEMAHA,Harrison - Kelly,United States Senate,,write - in,"Smith, DJ",0,000100
+NEMAHA,Harrison - Kelly,United States Senate,,Democratic,"Wiesner, Patrick",7,000100
+NEMAHA,Harrison - Kelly,United States Senate,,Libertarian,"Garrard, Robert D.",1,000100
+NEMAHA,Harrison - Kelly,United States Senate,,Republican,"Moran, Jerry",47,000100
+NEMAHA,Home Township,United States Senate,,write - in,"Smith, DJ",0,000110
+NEMAHA,Home Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000110
+NEMAHA,Home Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000110
+NEMAHA,Home Township,United States Senate,,Republican,"Moran, Jerry",63,000110
+NEMAHA,Illinois Township,United States Senate,,write - in,"Smith, DJ",0,000120
+NEMAHA,Illinois Township,United States Senate,,Democratic,"Wiesner, Patrick",37,000120
+NEMAHA,Illinois Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000120
+NEMAHA,Illinois Township,United States Senate,,Republican,"Moran, Jerry",187,000120
+NEMAHA,Marion Township,United States Senate,,write - in,"Smith, DJ",0,000130
+NEMAHA,Marion Township,United States Senate,,Democratic,"Wiesner, Patrick",28,000130
+NEMAHA,Marion Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000130
+NEMAHA,Marion Township,United States Senate,,Republican,"Moran, Jerry",200,000130
+NEMAHA,Mitchell Township,United States Senate,,write - in,"Smith, DJ",0,000140
+NEMAHA,Mitchell Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000140
+NEMAHA,Mitchell Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000140
+NEMAHA,Mitchell Township,United States Senate,,Republican,"Moran, Jerry",154,000140
+NEMAHA,Nemaha Township,United States Senate,,write - in,"Smith, DJ",0,000150
+NEMAHA,Nemaha Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000150
+NEMAHA,Nemaha Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000150
+NEMAHA,Nemaha Township,United States Senate,,Republican,"Moran, Jerry",79,000150
+NEMAHA,Neuchatel Township,United States Senate,,write - in,"Smith, DJ",0,000160
+NEMAHA,Neuchatel Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000160
+NEMAHA,Neuchatel Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000160
+NEMAHA,Neuchatel Township,United States Senate,,Republican,"Moran, Jerry",53,000160
+NEMAHA,Red Vermillion Township,United States Senate,,write - in,"Smith, DJ",0,000170
+NEMAHA,Red Vermillion Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000170
+NEMAHA,Red Vermillion Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000170
+NEMAHA,Red Vermillion Township,United States Senate,,Republican,"Moran, Jerry",45,000170
+NEMAHA,Reilly Township,United States Senate,,write - in,"Smith, DJ",0,000180
+NEMAHA,Reilly Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000180
+NEMAHA,Reilly Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000180
+NEMAHA,Reilly Township,United States Senate,,Republican,"Moran, Jerry",57,000180
+NEMAHA,Richmond Township,United States Senate,,write - in,"Smith, DJ",0,000190
+NEMAHA,Richmond Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000190
+NEMAHA,Richmond Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000190
+NEMAHA,Richmond Township,United States Senate,,Republican,"Moran, Jerry",254,000190
+NEMAHA,Rock Creek Township,United States Senate,,write - in,"Smith, DJ",0,00020A
+NEMAHA,Rock Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",14,00020A
+NEMAHA,Rock Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,00020A
+NEMAHA,Rock Creek Township,United States Senate,,Republican,"Moran, Jerry",186,00020A
+NEMAHA,Rock Creek Township Enclave A,United States Senate,,write - in,"Smith, DJ",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States Senate,,Republican,"Moran, Jerry",0,00020B
+NEMAHA,Rock Creek Township Enclave B,United States Senate,,write - in,"Smith, DJ",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States Senate,,Democratic,"Wiesner, Patrick",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States Senate,,Republican,"Moran, Jerry",0,00020C
+NEMAHA,Sabetha Ward 1,United States Senate,,write - in,"Smith, DJ",0,000210
+NEMAHA,Sabetha Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",38,000210
+NEMAHA,Sabetha Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",10,000210
+NEMAHA,Sabetha Ward 1,United States Senate,,Republican,"Moran, Jerry",260,000210
+NEMAHA,Sabetha Ward 2,United States Senate,,write - in,"Smith, DJ",0,000220
+NEMAHA,Sabetha Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",35,000220
+NEMAHA,Sabetha Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",13,000220
+NEMAHA,Sabetha Ward 2,United States Senate,,Republican,"Moran, Jerry",280,000220
+NEMAHA,Sabetha Ward,United States Senate,,write - in,"Smith, DJ",0,00023A
+NEMAHA,Sabetha Ward,United States Senate,,Democratic,"Wiesner, Patrick",39,00023A
+NEMAHA,Sabetha Ward,United States Senate,,Libertarian,"Garrard, Robert D.",11,00023A
+NEMAHA,Sabetha Ward,United States Senate,,Republican,"Moran, Jerry",282,00023A
+NEMAHA,Sabetha Ward 3 Enclave,United States Senate,,write - in,"Smith, DJ",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States Senate,,Republican,"Moran, Jerry",0,00023B
+NEMAHA,Sabetha Ward 4,United States Senate,,write - in,"Smith, DJ",0,000240
+NEMAHA,Sabetha Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",33,000240
+NEMAHA,Sabetha Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",7,000240
+NEMAHA,Sabetha Ward 4,United States Senate,,Republican,"Moran, Jerry",154,000240
+NEMAHA,Sabetha Ward 5,United States Senate,,write - in,"Smith, DJ",0,000250
+NEMAHA,Sabetha Ward 5,United States Senate,,Democratic,"Wiesner, Patrick",0,000250
+NEMAHA,Sabetha Ward 5,United States Senate,,Libertarian,"Garrard, Robert D.",0,000250
+NEMAHA,Sabetha Ward 5,United States Senate,,Republican,"Moran, Jerry",0,000250
+NEMAHA,Seneca Ward 1,United States Senate,,write - in,"Smith, DJ",0,000260
+NEMAHA,Seneca Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",52,000260
+NEMAHA,Seneca Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",8,000260
+NEMAHA,Seneca Ward 1,United States Senate,,Republican,"Moran, Jerry",188,000260
+NEMAHA,Seneca Ward 2,United States Senate,,write - in,"Smith, DJ",0,000270
+NEMAHA,Seneca Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",71,000270
+NEMAHA,Seneca Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",16,000270
+NEMAHA,Seneca Ward 2,United States Senate,,Republican,"Moran, Jerry",313,000270
+NEMAHA,Seneca Ward 3,United States Senate,,write - in,"Smith, DJ",0,000280
+NEMAHA,Seneca Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",55,000280
+NEMAHA,Seneca Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",7,000280
+NEMAHA,Seneca Ward 3,United States Senate,,Republican,"Moran, Jerry",341,000280
+NEMAHA,Washington Township,United States Senate,,write - in,"Smith, DJ",0,000290
+NEMAHA,Washington Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000290
+NEMAHA,Washington Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000290
+NEMAHA,Washington Township,United States Senate,,Republican,"Moran, Jerry",190,000290
+NEMAHA,Wetmore Township,United States Senate,,write - in,"Smith, DJ",0,000300
+NEMAHA,Wetmore Township,United States Senate,,Democratic,"Wiesner, Patrick",39,000300
+NEMAHA,Wetmore Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000300
+NEMAHA,Wetmore Township,United States Senate,,Republican,"Moran, Jerry",140,000300
+NEMAHA,Richmond Township Enclave 1,United States Senate,,write - in,"Smith, DJ",0,900010
+NEMAHA,Richmond Township Enclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+NEMAHA,Richmond Township Enclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+NEMAHA,Richmond Township Enclave 1,United States Senate,,Republican,"Moran, Jerry",0,900010
+NEMAHA,Richland Township Enclave 2,United States Senate,,write - in,"Smith, DJ",0,900020
+NEMAHA,Richland Township Enclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+NEMAHA,Richland Township Enclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+NEMAHA,Richland Township Enclave 2,United States Senate,,Republican,"Moran, Jerry",0,900020
+NEMAHA,Sabetha Ward Exclave,United States Senate,,write - in,"Smith, DJ",0,900030
+NEMAHA,Sabetha Ward Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900030
+NEMAHA,Sabetha Ward Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900030
+NEMAHA,Sabetha Ward Exclave,United States Senate,,Republican,"Moran, Jerry",0,900030

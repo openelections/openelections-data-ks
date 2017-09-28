@@ -1,700 +1,1045 @@
-county,precinct,office,district,party,candidate,votes
-Cloud,Total,,,,Registered Voters,6003
-Cloud,1st Ward,,,,Registered Voters,520
-Cloud,2nd Ward / 1st Pct.,,,,Registered Voters,620
-Cloud,2nd Ward / 2nd Pct.,,,,Registered Voters,682
-Cloud,3rd Ward,,,,Registered Voters,929
-Cloud,4th Ward,,,,Registered Voters,463
-Cloud,Arion Township,,,,Registered Voters,76
-Cloud,Aurora Township,,,,Registered Voters,89
-Cloud,Buffalo Township,,,,Registered Voters,79
-Cloud,Center Township,,,,Registered Voters,159
-Cloud,Colfax Township,,,,Registered Voters,32
-Cloud,Elk Township,,,,Registered Voters,542
-Cloud,Grant Township,,,,Registered Voters,232
-Cloud,North Lawrence Pct,,,,Registered Voters,54
-Cloud,South Lawrence Pct,,,,Registered Voters,40
-Cloud,East Lincoln Pct.,,,,Registered Voters,165
-Cloud,West Lincoln Pct.,,,,Registered Voters,116
-Cloud,Lyon Township,,,,Registered Voters,73
-Cloud,East Meredith Pct.,,,,Registered Voters,28
-Cloud,West Meredith,,,,Registered Voters,26
-Cloud,Nelson Township,,,,Registered Voters,89
-Cloud,Oakland Township,,,,Registered Voters,33
-Cloud,Shirley Township,,,,Registered Voters,99
-Cloud,Sibley Township,,,,Registered Voters,133
-Cloud,Solomon Township,,,,Registered Voters,329
-Cloud,Starr Township,,,,Registered Voters,360
-Cloud,Summit Township,,,,Registered Voters,35
-Cloud,Total,,,,Voters,4002
-Cloud,1st Ward,,,,Voters,301
-Cloud,2nd Ward / 1st Pct.,,,,Voters,370
-Cloud,2nd Ward / 2nd Pct.,,,,Voters,473
-Cloud,3rd Ward,,,,Voters,568
-Cloud,4th Ward,,,,Voters,257
-Cloud,Arion Township,,,,Voters,57
-Cloud,Aurora Township,,,,Voters,60
-Cloud,Buffalo Township,,,,Voters,62
-Cloud,Center Township,,,,Voters,117
-Cloud,Colfax Township,,,,Voters,22
-Cloud,Elk Township,,,,Voters,374
-Cloud,Grant Township,,,,Voters,149
-Cloud,North Lawrence Pct,,,,Voters,42
-Cloud,South Lawrence Pct,,,,Voters,28
-Cloud,East Lincoln Pct.,,,,Voters,120
-Cloud,West Lincoln Pct.,,,,Voters,81
-Cloud,Lyon Township,,,,Voters,56
-Cloud,East Meredith Pct.,,,,Voters,22
-Cloud,West Meredith,,,,Voters,17
-Cloud,Nelson Township,,,,Voters,61
-Cloud,Oakland Township,,,,Voters,27
-Cloud,Shirley Township,,,,Voters,68
-Cloud,Sibley Township,,,,Voters,102
-Cloud,Solomon Township,,,,Voters,221
-Cloud,Starr Township,,,,Voters,241
-Cloud,Summit Township,,,,Voters,29
-Cloud,Total,,,,Hand Counted,7
-Cloud,1st Ward,,,,Hand Counted,1
-Cloud,2nd Ward / 1st Pct.,,,,Hand Counted,2
-Cloud,2nd Ward / 2nd Pct.,,,,Hand Counted,3
-Cloud,Solomon Township,,,,Hand Counted,1
-Cloud,Total,,,,Advance Votes,962
-Cloud,1st Ward,,,,Advance Votes,86
-Cloud,2nd Ward / 1st Pct.,,,,Advance Votes,135
-Cloud,2nd Ward / 2nd Pct.,,,,Advance Votes,143
-Cloud,3rd Ward,,,,Advance Votes,166
-Cloud,4th Ward,,,,Advance Votes,62
-Cloud,Arion Township,,,,Advance Votes,14
-Cloud,Aurora Township,,,,Advance Votes,8
-Cloud,Buffalo Township,,,,Advance Votes,14
-Cloud,Center Township,,,,Advance Votes,29
-Cloud,Colfax Township,,,,Advance Votes,2
-Cloud,Elk Township,,,,Advance Votes,60
-Cloud,Grant Township,,,,Advance Votes,20
-Cloud,North Lawrence Pct,,,,Advance Votes,17
-Cloud,South Lawrence Pct,,,,Advance Votes,8
-Cloud,East Lincoln Pct.,,,,Advance Votes,26
-Cloud,West Lincoln Pct.,,,,Advance Votes,23
-Cloud,Lyon Township,,,,Advance Votes,10
-Cloud,East Meredith Pct.,,,,Advance Votes,12
-Cloud,West Meredith,,,,Advance Votes,4
-Cloud,Nelson Township,,,,Advance Votes,12
-Cloud,Oakland Township,,,,Advance Votes,2
-Cloud,Shirley Township,,,,Advance Votes,10
-Cloud,Sibley Township,,,,Advance Votes,26
-Cloud,Solomon Township,,,,Advance Votes,32
-Cloud,Starr Township,,,,Advance Votes,33
-Cloud,Summit Township,,,,Advance Votes,8
-Cloud,Total,,,,Election Day Votes,3033
-Cloud,Provisional,,,,Election Day Votes,77
-Cloud,1st Ward,,,,Election Day Votes,214
-Cloud,2nd Ward / 1st Pct.,,,,Election Day Votes,233
-Cloud,2nd Ward / 2nd Pct.,,,,Election Day Votes,327
-Cloud,3rd Ward,,,,Election Day Votes,402
-Cloud,4th Ward,,,,Election Day Votes,195
-Cloud,Arion Township,,,,Election Day Votes,43
-Cloud,Aurora Township,,,,Election Day Votes,52
-Cloud,Buffalo Township,,,,Election Day Votes,48
-Cloud,Center Township,,,,Election Day Votes,88
-Cloud,Colfax Township,,,,Election Day Votes,20
-Cloud,Elk Township,,,,Election Day Votes,314
-Cloud,Grant Township,,,,Election Day Votes,129
-Cloud,North Lawrence Pct,,,,Election Day Votes,25
-Cloud,South Lawrence Pct,,,,Election Day Votes,20
-Cloud,East Lincoln Pct.,,,,Election Day Votes,94
-Cloud,West Lincoln Pct.,,,,Election Day Votes,58
-Cloud,Lyon Township,,,,Election Day Votes,46
-Cloud,East Meredith Pct.,,,,Election Day Votes,10
-Cloud,West Meredith,,,,Election Day Votes,13
-Cloud,Nelson Township,,,,Election Day Votes,49
-Cloud,Oakland Township,,,,Election Day Votes,25
-Cloud,Shirley Township,,,,Election Day Votes,58
-Cloud,Sibley Township,,,,Election Day Votes,76
-Cloud,Solomon Township,,,,Election Day Votes,188
-Cloud,Starr Township,,,,Election Day Votes,208
-Cloud,Summit Township,,,,Election Day Votes,21
-Cloud,Total,President,,DEM,Clinton & Kaine,761
-Cloud,Advanced,President,,DEM,Clinton & Kaine,264
-Cloud,Provisional,President,,DEM,Clinton & Kaine,15
-Cloud,1st Ward,President,,DEM,Clinton & Kaine,58
-Cloud,2nd Ward / 1st Pct.,President,,DEM,Clinton & Kaine,48
-Cloud,2nd Ward / 2nd Pct.,President,,DEM,Clinton & Kaine,69
-Cloud,3rd Ward,President,,DEM,Clinton & Kaine,57
-Cloud,4th Ward,President,,DEM,Clinton & Kaine,41
-Cloud,Arion Township,President,,DEM,Clinton & Kaine,9
-Cloud,Aurora Township,President,,DEM,Clinton & Kaine,1
-Cloud,Buffalo Township,President,,DEM,Clinton & Kaine,4
-Cloud,Center Township,President,,DEM,Clinton & Kaine,8
-Cloud,Colfax Township,President,,DEM,Clinton & Kaine,0
-Cloud,Elk Township,President,,DEM,Clinton & Kaine,53
-Cloud,Grant Township,President,,DEM,Clinton & Kaine,18
-Cloud,North Lawrence Pct,President,,DEM,Clinton & Kaine,2
-Cloud,South Lawrence Pct,President,,DEM,Clinton & Kaine,2
-Cloud,East Lincoln Pct.,President,,DEM,Clinton & Kaine,9
-Cloud,West Lincoln Pct.,President,,DEM,Clinton & Kaine,12
-Cloud,Lyon Township,President,,DEM,Clinton & Kaine,5
-Cloud,East Meredith Pct.,President,,DEM,Clinton & Kaine,3
-Cloud,West Meredith,President,,DEM,Clinton & Kaine,2
-Cloud,Nelson Township,President,,DEM,Clinton & Kaine,6
-Cloud,Oakland Township,President,,DEM,Clinton & Kaine,1
-Cloud,Shirley Township,President,,DEM,Clinton & Kaine,9
-Cloud,Sibley Township,President,,DEM,Clinton & Kaine,16
-Cloud,Solomon Township,President,,DEM,Clinton & Kaine,26
-Cloud,Starr Township,President,,DEM,Clinton & Kaine,20
-Cloud,Summit Township,President,,DEM,Clinton & Kaine,3
-Cloud,Total,President,,LBT,Johnson & Weld,161
-Cloud,Advanced,President,,LBT,Johnson & Weld,51
-Cloud,Provisional,President,,LBT,Johnson & Weld,3
-Cloud,1st Ward,President,,LBT,Johnson & Weld,9
-Cloud,2nd Ward / 1st Pct.,President,,LBT,Johnson & Weld,13
-Cloud,2nd Ward / 2nd Pct.,President,,LBT,Johnson & Weld,18
-Cloud,3rd Ward,President,,LBT,Johnson & Weld,18
-Cloud,4th Ward,President,,LBT,Johnson & Weld,6
-Cloud,Arion Township,President,,LBT,Johnson & Weld,0
-Cloud,Aurora Township,President,,LBT,Johnson & Weld,1
-Cloud,Buffalo Township,President,,LBT,Johnson & Weld,3
-Cloud,Center Township,President,,LBT,Johnson & Weld,0
-Cloud,Colfax Township,President,,LBT,Johnson & Weld,0
-Cloud,Elk Township,President,,LBT,Johnson & Weld,12
-Cloud,Grant Township,President,,LBT,Johnson & Weld,3
-Cloud,North Lawrence Pct,President,,LBT,Johnson & Weld,1
-Cloud,South Lawrence Pct,President,,LBT,Johnson & Weld,0
-Cloud,East Lincoln Pct.,President,,LBT,Johnson & Weld,3
-Cloud,West Lincoln Pct.,President,,LBT,Johnson & Weld,0
-Cloud,Lyon Township,President,,LBT,Johnson & Weld,3
-Cloud,East Meredith Pct.,President,,LBT,Johnson & Weld,0
-Cloud,West Meredith,President,,LBT,Johnson & Weld,0
-Cloud,Nelson Township,President,,LBT,Johnson & Weld,1
-Cloud,Oakland Township,President,,LBT,Johnson & Weld,0
-Cloud,Shirley Township,President,,LBT,Johnson & Weld,1
-Cloud,Sibley Township,President,,LBT,Johnson & Weld,2
-Cloud,Solomon Township,President,,LBT,Johnson & Weld,6
-Cloud,Starr Township,President,,LBT,Johnson & Weld,7
-Cloud,Summit Township,President,,LBT,Johnson & Weld,0
-Cloud,Total,President,,IND,Stein & Baraka,74
-Cloud,Advanced,President,,IND,Stein & Baraka,16
-Cloud,Provisional,President,,IND,Stein & Baraka,0
-Cloud,1st Ward,President,,IND,Stein & Baraka,5
-Cloud,2nd Ward / 1st Pct.,President,,IND,Stein & Baraka,5
-Cloud,2nd Ward / 2nd Pct.,President,,IND,Stein & Baraka,8
-Cloud,3rd Ward,President,,IND,Stein & Baraka,12
-Cloud,4th Ward,President,,IND,Stein & Baraka,3
-Cloud,Arion Township,President,,IND,Stein & Baraka,2
-Cloud,Aurora Township,President,,IND,Stein & Baraka,0
-Cloud,Buffalo Township,President,,IND,Stein & Baraka,0
-Cloud,Center Township,President,,IND,Stein & Baraka,2
-Cloud,Colfax Township,President,,IND,Stein & Baraka,1
-Cloud,Elk Township,President,,IND,Stein & Baraka,6
-Cloud,Grant Township,President,,IND,Stein & Baraka,2
-Cloud,North Lawrence Pct,President,,IND,Stein & Baraka,1
-Cloud,South Lawrence Pct,President,,IND,Stein & Baraka,1
-Cloud,East Lincoln Pct.,President,,IND,Stein & Baraka,1
-Cloud,West Lincoln Pct.,President,,IND,Stein & Baraka,0
-Cloud,Lyon Township,President,,IND,Stein & Baraka,0
-Cloud,East Meredith Pct.,President,,IND,Stein & Baraka,0
-Cloud,West Meredith,President,,IND,Stein & Baraka,0
-Cloud,Nelson Township,President,,IND,Stein & Baraka,0
-Cloud,Oakland Township,President,,IND,Stein & Baraka,0
-Cloud,Shirley Township,President,,IND,Stein & Baraka,0
-Cloud,Sibley Township,President,,IND,Stein & Baraka,2
-Cloud,Solomon Township,President,,IND,Stein & Baraka,4
-Cloud,Starr Township,President,,IND,Stein & Baraka,3
-Cloud,Summit Township,President,,IND,Stein & Baraka,0
-Cloud,Total,President,,REP,Trump & Pence,2919
-Cloud,Advanced,President,,REP,Trump & Pence,608
-Cloud,Provisional,President,,REP,Trump & Pence,59
-Cloud,1st Ward,President,,REP,Trump & Pence,139
-Cloud,2nd Ward / 1st Pct.,President,,REP,Trump & Pence,163
-Cloud,2nd Ward / 2nd Pct.,President,,REP,Trump & Pence,226
-Cloud,3rd Ward,President,,REP,Trump & Pence,309
-Cloud,4th Ward,President,,REP,Trump & Pence,139
-Cloud,Arion Township,President,,REP,Trump & Pence,32
-Cloud,Aurora Township,President,,REP,Trump & Pence,48
-Cloud,Buffalo Township,President,,REP,Trump & Pence,38
-Cloud,Center Township,President,,REP,Trump & Pence,78
-Cloud,Colfax Township,President,,REP,Trump & Pence,19
-Cloud,Elk Township,President,,REP,Trump & Pence,233
-Cloud,Grant Township,President,,REP,Trump & Pence,103
-Cloud,North Lawrence Pct,President,,REP,Trump & Pence,21
-Cloud,South Lawrence Pct,President,,REP,Trump & Pence,17
-Cloud,East Lincoln Pct.,President,,REP,Trump & Pence,78
-Cloud,West Lincoln Pct.,President,,REP,Trump & Pence,46
-Cloud,Lyon Township,President,,REP,Trump & Pence,38
-Cloud,East Meredith Pct.,President,,REP,Trump & Pence,7
-Cloud,West Meredith,President,,REP,Trump & Pence,11
-Cloud,Nelson Township,President,,REP,Trump & Pence,41
-Cloud,Oakland Township,President,,REP,Trump & Pence,23
-Cloud,Shirley Township,President,,REP,Trump & Pence,46
-Cloud,Sibley Township,President,,REP,Trump & Pence,55
-Cloud,Solomon Township,President,,REP,Trump & Pence,150
-Cloud,Starr Township,President,,REP,Trump & Pence,175
-Cloud,Summit Township,President,,REP,Trump & Pence,17
-Cloud,Total,President,,,Evan McMullin,15
-Cloud,Advanced,President,,,Evan McMullin,4
-Cloud,Provisional,President,,,Evan McMullin,0
-Cloud,1st Ward,President,,,Evan McMullin,0
-Cloud,2nd Ward / 1st Pct.,President,,,Evan McMullin,1
-Cloud,2nd Ward / 2nd Pct.,President,,,Evan McMullin,0
-Cloud,3rd Ward,President,,,Evan McMullin,0
-Cloud,4th Ward,President,,,Evan McMullin,0
-Cloud,Arion Township,President,,,Evan McMullin,0
-Cloud,Aurora Township,President,,,Evan McMullin,0
-Cloud,Buffalo Township,President,,,Evan McMullin,0
-Cloud,Center Township,President,,,Evan McMullin,0
-Cloud,Colfax Township,President,,,Evan McMullin,0
-Cloud,Elk Township,President,,,Evan McMullin,5
-Cloud,Grant Township,President,,,Evan McMullin,0
-Cloud,North Lawrence Pct,President,,,Evan McMullin,0
-Cloud,South Lawrence Pct,President,,,Evan McMullin,0
-Cloud,East Lincoln Pct.,President,,,Evan McMullin,0
-Cloud,West Lincoln Pct.,President,,,Evan McMullin,0
-Cloud,Lyon Township,President,,,Evan McMullin,0
-Cloud,East Meredith Pct.,President,,,Evan McMullin,0
-Cloud,West Meredith,President,,,Evan McMullin,0
-Cloud,Nelson Township,President,,,Evan McMullin,0
-Cloud,Oakland Township,President,,,Evan McMullin,1
-Cloud,Aurora Township,President,,,Evan McMullin,0
-Cloud,Elk Township,President,,,Evan McMullin,0
-Cloud,Grant Township,President,,,Evan McMullin,0
-Cloud,Shirley Township,President,,,Evan McMullin,1
-Cloud,Sibley Township,President,,,Evan McMullin,1
-Cloud,Solomon Township,President,,,Evan McMullin,0
-Cloud,Starr Township,President,,,Evan McMullin,0
-Cloud,Solomon Township,President,,,Evan McMullin,2
-Cloud,Starr Township,President,,,Evan McMullin,0
-Cloud,Summit Township,President,,,Evan McMullin,0
-Cloud,Total,President,,,Write-ins,22
-Cloud,Advanced,President,,,Write-ins,4
-Cloud,Provisional,President,,,Write-ins,0
-Cloud,1st Ward,President,,,Write-ins,0
-Cloud,2nd Ward / 1st Pct.,President,,,Write-ins,3
-Cloud,2nd Ward / 2nd Pct.,President,,,Write-ins,2
-Cloud,3rd Ward,President,,,Write-ins,3
-Cloud,4th Ward,President,,,Write-ins,5
-Cloud,Arion Township,President,,,Write-ins,0
-Cloud,Aurora Township,President,,,Write-ins,0
-Cloud,Buffalo Township,President,,,Write-ins,0
-Cloud,Center Township,President,,,Write-ins,0
-Cloud,Colfax Township,President,,,Write-ins,0
-Cloud,Elk Township,President,,,Write-ins,1
-Cloud,Grant Township,President,,,Write-ins,0
-Cloud,North Lawrence Pct,President,,,Write-ins,0
-Cloud,South Lawrence Pct,President,,,Write-ins,0
-Cloud,East Lincoln Pct.,President,,,Write-ins,1
-Cloud,West Lincoln Pct.,President,,,Write-ins,0
-Cloud,Lyon Township,President,,,Write-ins,0
-Cloud,East Meredith Pct.,President,,,Write-ins,0
-Cloud,West Meredith,President,,,Write-ins,0
-Cloud,Nelson Township,President,,,Write-ins,1
-Cloud,Oakland Township,President,,,Write-ins,0
-Cloud,Aurora Township,President,,,Write-ins,0
-Cloud,Elk Township,President,,,Write-ins,0
-Cloud,Grant Township,President,,,Write-ins,0
-Cloud,Shirley Township,President,,,Write-ins,0
-Cloud,Sibley Township,President,,,Write-ins,0
-Cloud,Solomon Township,President,,,Write-ins,0
-Cloud,Starr Township,President,,,Write-ins,0
-Cloud,Solomon Township,President,,,Write-ins,0
-Cloud,Starr Township,President,,,Write-ins,2
-Cloud,Summit Township,President,,,Write-ins,0
-Cloud,Total,President,,,Blanks,3
-Cloud,Advanced,President,,,Blanks,0
-Cloud,1st Ward,President,,,Blanks,1
-Cloud,Buffalo Township,President,,,Blanks,1
-Cloud,Elk Township,President,,,Blanks,1
-Cloud,Grant Township,President,,,Blanks,1
-Cloud,Starr Township,President,,,Blanks,1
-Cloud,Total,U.S. Senate,,LBT,Robert D. Garrard,219
-Cloud,Advanced,U.S. Senate,,LBT,Robert D. Garrard,46
-Cloud,Provisional,U.S. Senate,,LBT,Robert D. Garrard,7
-Cloud,1st Ward,U.S. Senate,,LBT,Robert D. Garrard,10
-Cloud,2nd Ward / 1st Pct.,U.S. Senate,,LBT,Robert D. Garrard,17
-Cloud,2nd Ward / 2nd Pct.,U.S. Senate,,LBT,Robert D. Garrard,19
-Cloud,3rd Ward,U.S. Senate,,LBT,Robert D. Garrard,38
-Cloud,4th Ward,U.S. Senate,,LBT,Robert D. Garrard,20
-Cloud,Arion Township,U.S. Senate,,LBT,Robert D. Garrard,1
-Cloud,Aurora Township,U.S. Senate,,LBT,Robert D. Garrard,3
-Cloud,Buffalo Township,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,Center Township,U.S. Senate,,LBT,Robert D. Garrard,5
-Cloud,Colfax Township,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,Elk Township,U.S. Senate,,LBT,Robert D. Garrard,12
-Cloud,Grant Township,U.S. Senate,,LBT,Robert D. Garrard,7
-Cloud,North Lawrence Pct,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,South Lawrence Pct,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,East Lincoln Pct.,U.S. Senate,,LBT,Robert D. Garrard,3
-Cloud,West Lincoln Pct.,U.S. Senate,,LBT,Robert D. Garrard,3
-Cloud,Lyon Township,U.S. Senate,,LBT,Robert D. Garrard,2
-Cloud,West Meredith,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,Nelson Township,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,Oakland Township,U.S. Senate,,LBT,Robert D. Garrard,0
-Cloud,Shirley Township,U.S. Senate,,LBT,Robert D. Garrard,2
-Cloud,Sibley Township,U.S. Senate,,LBT,Robert D. Garrard,4
-Cloud,Solomon Township,U.S. Senate,,LBT,Robert D. Garrard,11
-Cloud,Starr Township,U.S. Senate,,LBT,Robert D. Garrard,8
-Cloud,Summit Township,U.S. Senate,,LBT,Robert D. Garrard,1
-Cloud,Total,U.S. Senate,,DEM,Patrick Wiesner,597
-Cloud,Advanced,U.S. Senate,,DEM,Patrick Wiesner,204
-Cloud,Provisional,U.S. Senate,,DEM,Patrick Wiesner,14
-Cloud,1st Ward,U.S. Senate,,DEM,Patrick Wiesner,46
-Cloud,2nd Ward / 1st Pct.,U.S. Senate,,DEM,Patrick Wiesner,32
-Cloud,2nd Ward / 2nd Pct.,U.S. Senate,,DEM,Patrick Wiesner,48
-Cloud,3rd Ward,U.S. Senate,,DEM,Patrick Wiesner,57
-Cloud,4th Ward,U.S. Senate,,DEM,Patrick Wiesner,36
-Cloud,Arion Township,U.S. Senate,,DEM,Patrick Wiesner,7
-Cloud,Aurora Township,U.S. Senate,,DEM,Patrick Wiesner,2
-Cloud,Buffalo Township,U.S. Senate,,DEM,Patrick Wiesner,1
-Cloud,Center Township,U.S. Senate,,DEM,Patrick Wiesner,4
-Cloud,Colfax Township,U.S. Senate,,DEM,Patrick Wiesner,1
-Cloud,Elk Township,U.S. Senate,,DEM,Patrick Wiesner,41
-Cloud,Grant Township,U.S. Senate,,DEM,Patrick Wiesner,12
-Cloud,North Lawrence Pct,U.S. Senate,,DEM,Patrick Wiesner,0
-Cloud,South Lawrence Pct,U.S. Senate,,DEM,Patrick Wiesner,4
-Cloud,East Lincoln Pct.,U.S. Senate,,DEM,Patrick Wiesner,7
-Cloud,West Lincoln Pct.,U.S. Senate,,DEM,Patrick Wiesner,8
-Cloud,Lyon Township,U.S. Senate,,DEM,Patrick Wiesner,3
-Cloud,East Meredith Pct.,U.S. Senate,,DEM,Patrick Wiesner,1
-Cloud,West Meredith,U.S. Senate,,DEM,Patrick Wiesner,2
-Cloud,Nelson Township,U.S. Senate,,DEM,Patrick Wiesner,5
-Cloud,Shirley Township,U.S. Senate,,DEM,Patrick Wiesner,4
-Cloud,Sibley Township,U.S. Senate,,DEM,Patrick Wiesner,12
-Cloud,Solomon Township,U.S. Senate,,DEM,Patrick Wiesner,23
-Cloud,Starr Township,U.S. Senate,,DEM,Patrick Wiesner,21
-Cloud,Summit Township,U.S. Senate,,DEM,Patrick Wiesner,2
-Cloud,Total,U.S. Senate,,,Write-ins,3
-Cloud,Advanced,U.S. Senate,,,Write-ins,1
-Cloud,Provisional,U.S. Senate,,,Write-ins,0
-Cloud,1st Ward,U.S. Senate,,,Write-ins,1
-Cloud,2nd Ward / 1st Pct.,U.S. Senate,,,Write-ins,0
-Cloud,2nd Ward / 2nd Pct.,U.S. Senate,,,Write-ins,0
-Cloud,3rd Ward,U.S. Senate,,,Write-ins,0
-Cloud,4th Ward,U.S. Senate,,,Write-ins,0
-Cloud,Arion Township,U.S. Senate,,,Write-ins,0
-Cloud,Aurora Township,U.S. Senate,,,Write-ins,0
-Cloud,Buffalo Township,U.S. Senate,,,Write-ins,0
-Cloud,Center Township,U.S. Senate,,,Write-ins,0
-Cloud,Colfax Township,U.S. Senate,,,Write-ins,0
-Cloud,Elk Township,U.S. Senate,,,Write-ins,0
-Cloud,Grant Township,U.S. Senate,,,Write-ins,0
-Cloud,North Lawrence Pct,U.S. Senate,,,Write-ins,0
-Cloud,South Lawrence Pct,U.S. Senate,,,Write-ins,0
-Cloud,East Lincoln Pct.,U.S. Senate,,,Write-ins,0
-Cloud,West Lincoln Pct.,U.S. Senate,,,Write-ins,0
-Cloud,Lyon Township,U.S. Senate,,,Write-ins,0
-Cloud,East Meredith Pct.,U.S. Senate,,,Write-ins,0
-Cloud,West Meredith,U.S. Senate,,,Write-ins,0
-Cloud,Nelson Township,U.S. Senate,,,Write-ins,0
-Cloud,Oakland Township,U.S. Senate,,,Write-ins,0
-Cloud,Aurora Township,U.S. Senate,,,Write-ins,0
-Cloud,Elk Township,U.S. Senate,,,Write-ins,0
-Cloud,Grant Township,U.S. Senate,,,Write-ins,0
-Cloud,Shirley Township,U.S. Senate,,,Write-ins,0
-Cloud,Sibley Township,U.S. Senate,,,Write-ins,0
-Cloud,Solomon Township,U.S. Senate,,,Write-ins,0
-Cloud,Starr Township,U.S. Senate,,,Write-ins,0
-Cloud,Solomon Township,U.S. Senate,,,Write-ins,0
-Cloud,Starr Township,U.S. Senate,,,Write-ins,0
-Cloud,Summit Township,U.S. Senate,,,Write-ins,0
-Cloud,Total,U.S. Senate,,,Blanks,6
-Cloud,Advanced,U.S. Senate,,,Blanks,3
-Cloud,1st Ward,U.S. Senate,,,Blanks,1
-Cloud,2nd Ward / 2nd Pct.,U.S. Senate,,,Blanks,1
-Cloud,Aurora Township,U.S. Senate,,,Blanks,1
-Cloud,East Meredith Pct.,U.S. Senate,,,Blanks,1
-Cloud,Starr Township,U.S. Senate,,,Blanks,1
-Cloud,Total,U.S. House,1,LBT,Kerry Burt,85
-Cloud,Advanced,U.S. House,1,LBT,Kerry Burt,20
-Cloud,Provisional,U.S. House,1,LBT,Kerry Burt,2
-Cloud,1st Ward,U.S. House,1,LBT,Kerry Burt,4
-Cloud,2nd Ward / 1st Pct.,U.S. House,1,LBT,Kerry Burt,9
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,LBT,Kerry Burt,9
-Cloud,3rd Ward,U.S. House,1,LBT,Kerry Burt,10
-Cloud,4th Ward,U.S. House,1,LBT,Kerry Burt,8
-Cloud,Arion Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Aurora Township,U.S. House,1,LBT,Kerry Burt,1
-Cloud,Buffalo Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Center Township,U.S. House,1,LBT,Kerry Burt,2
-Cloud,Colfax Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Elk Township,U.S. House,1,LBT,Kerry Burt,2
-Cloud,Grant Township,U.S. House,1,LBT,Kerry Burt,2
-Cloud,North Lawrence Pct,U.S. House,1,LBT,Kerry Burt,0
-Cloud,South Lawrence Pct,U.S. House,1,LBT,Kerry Burt,0
-Cloud,East Lincoln Pct.,U.S. House,1,LBT,Kerry Burt,4
-Cloud,West Lincoln Pct.,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Lyon Township,U.S. House,1,LBT,Kerry Burt,1
-Cloud,East Meredith Pct.,U.S. House,1,LBT,Kerry Burt,1
-Cloud,West Meredith,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Nelson Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Oakland Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Shirley Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Sibley Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Solomon Township,U.S. House,1,LBT,Kerry Burt,4
-Cloud,Starr Township,U.S. House,1,LBT,Kerry Burt,6
-Cloud,Summit Township,U.S. House,1,LBT,Kerry Burt,0
-Cloud,Total,U.S. House,1,IND,Alan LaPolice,2359
-Cloud,Advanced,U.S. House,1,IND,Alan LaPolice,586
-Cloud,Provisional,U.S. House,1,IND,Alan LaPolice,43
-Cloud,1st Ward,U.S. House,1,IND,Alan LaPolice,138
-Cloud,2nd Ward / 1st Pct.,U.S. House,1,IND,Alan LaPolice,132
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,IND,Alan LaPolice,186
-Cloud,3rd Ward,U.S. House,1,IND,Alan LaPolice,249
-Cloud,4th Ward,U.S. House,1,IND,Alan LaPolice,119
-Cloud,Arion Township,U.S. House,1,IND,Alan LaPolice,21
-Cloud,Aurora Township,U.S. House,1,IND,Alan LaPolice,31
-Cloud,Buffalo Township,U.S. House,1,IND,Alan LaPolice,25
-Cloud,Center Township,U.S. House,1,IND,Alan LaPolice,52
-Cloud,Colfax Township,U.S. House,1,IND,Alan LaPolice,11
-Cloud,Elk Township,U.S. House,1,IND,Alan LaPolice,208
-Cloud,Grant Township,U.S. House,1,IND,Alan LaPolice,65
-Cloud,North Lawrence Pct,U.S. House,1,IND,Alan LaPolice,19
-Cloud,South Lawrence Pct,U.S. House,1,IND,Alan LaPolice,16
-Cloud,East Lincoln Pct.,U.S. House,1,IND,Alan LaPolice,40
-Cloud,West Lincoln Pct.,U.S. House,1,IND,Alan LaPolice,44
-Cloud,Lyon Township,U.S. House,1,IND,Alan LaPolice,27
-Cloud,East Meredith Pct.,U.S. House,1,IND,Alan LaPolice,5
-Cloud,West Meredith,U.S. House,1,IND,Alan LaPolice,4
-Cloud,Nelson Township,U.S. House,1,IND,Alan LaPolice,24
-Cloud,Oakland Township,U.S. House,1,IND,Alan LaPolice,14
-Cloud,Shirley Township,U.S. House,1,IND,Alan LaPolice,26
-Cloud,Sibley Township,U.S. House,1,IND,Alan LaPolice,45
-Cloud,Solomon Township,U.S. House,1,IND,Alan LaPolice,100
-Cloud,Starr Township,U.S. House,1,IND,Alan LaPolice,117
-Cloud,Summit Township,U.S. House,1,IND,Alan LaPolice,12
-Cloud,Total,U.S. House,1,REP,Roger Marshall,1459
-Cloud,Advanced,U.S. House,1,REP,Roger Marshall,325
-Cloud,Provisional,U.S. House,1,REP,Roger Marshall,29
-Cloud,1st Ward,U.S. House,1,REP,Roger Marshall,66
-Cloud,2nd Ward / 1st Pct.,U.S. House,1,REP,Roger Marshall,90
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,REP,Roger Marshall,124
-Cloud,3rd Ward,U.S. House,1,REP,Roger Marshall,135
-Cloud,4th Ward,U.S. House,1,REP,Roger Marshall,67
-Cloud,Arion Township,U.S. House,1,REP,Roger Marshall,22
-Cloud,Aurora Township,U.S. House,1,REP,Roger Marshall,19
-Cloud,Buffalo Township,U.S. House,1,REP,Roger Marshall,19
-Cloud,Center Township,U.S. House,1,REP,Roger Marshall,33
-Cloud,Colfax Township,U.S. House,1,REP,Roger Marshall,9
-Cloud,Elk Township,U.S. House,1,REP,Roger Marshall,99
-Cloud,Grant Township,U.S. House,1,REP,Roger Marshall,62
-Cloud,North Lawrence Pct,U.S. House,1,REP,Roger Marshall,5
-Cloud,South Lawrence Pct,U.S. House,1,REP,Roger Marshall,4
-Cloud,East Lincoln Pct.,U.S. House,1,REP,Roger Marshall,49
-Cloud,West Lincoln Pct.,U.S. House,1,REP,Roger Marshall,11
-Cloud,Lyon Township,U.S. House,1,REP,Roger Marshall,18
-Cloud,East Meredith Pct.,U.S. House,1,REP,Roger Marshall,4
-Cloud,West Meredith,U.S. House,1,REP,Roger Marshall,8
-Cloud,Nelson Township,U.S. House,1,REP,Roger Marshall,24
-Cloud,Oakland Township,U.S. House,1,REP,Roger Marshall,10
-Cloud,Shirley Township,U.S. House,1,REP,Roger Marshall,32
-Cloud,Sibley Township,U.S. House,1,REP,Roger Marshall,29
-Cloud,Solomon Township,U.S. House,1,REP,Roger Marshall,79
-Cloud,Starr Township,U.S. House,1,REP,Roger Marshall,80
-Cloud,Summit Township,U.S. House,1,REP,Roger Marshall,7
-Cloud,Total,U.S. House,1,,Tim Huelskamp,5
-Cloud,Advanced,U.S. House,1,,Tim Huelskamp,2
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,,Tim Huelskamp,1
-Cloud,4th Ward,U.S. House,1,,Tim Huelskamp,1
-Cloud,Oakland Township,U.S. House,1,,Tim Huelskamp,1
-Cloud,Total,U.S. House,1,,Write-ins,3
-Cloud,Advanced,U.S. House,1,,Write-ins,1
-Cloud,Provisional,U.S. House,1,,Write-ins,0
-Cloud,1st Ward,U.S. House,1,,Write-ins,1
-Cloud,2nd Ward / 1st Pct.,U.S. House,1,,Write-ins,0
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,,Write-ins,0
-Cloud,3rd Ward,U.S. House,1,,Write-ins,0
-Cloud,4th Ward,U.S. House,1,,Write-ins,0
-Cloud,Arion Township,U.S. House,1,,Write-ins,0
-Cloud,Aurora Township,U.S. House,1,,Write-ins,0
-Cloud,Buffalo Township,U.S. House,1,,Write-ins,0
-Cloud,Center Township,U.S. House,1,,Write-ins,0
-Cloud,Colfax Township,U.S. House,1,,Write-ins,0
-Cloud,Elk Township,U.S. House,1,,Write-ins,0
-Cloud,Grant Township,U.S. House,1,,Write-ins,0
-Cloud,North Lawrence Pct,U.S. House,1,,Write-ins,0
-Cloud,South Lawrence Pct,U.S. House,1,,Write-ins,0
-Cloud,East Lincoln Pct.,U.S. House,1,,Write-ins,0
-Cloud,West Lincoln Pct.,U.S. House,1,,Write-ins,0
-Cloud,Lyon Township,U.S. House,1,,Write-ins,0
-Cloud,East Meredith Pct.,U.S. House,1,,Write-ins,0
-Cloud,West Meredith,U.S. House,1,,Write-ins,0
-Cloud,Nelson Township,U.S. House,1,,Write-ins,0
-Cloud,Oakland Township,U.S. House,1,,Write-ins,0
-Cloud,Aurora Township,U.S. House,1,,Write-ins,0
-Cloud,Elk Township,U.S. House,1,,Write-ins,0
-Cloud,Grant Township,U.S. House,1,,Write-ins,0
-Cloud,Shirley Township,U.S. House,1,,Write-ins,0
-Cloud,Sibley Township,U.S. House,1,,Write-ins,0
-Cloud,Solomon Township,U.S. House,1,,Write-ins,0
-Cloud,Starr Township,U.S. House,1,,Write-ins,0
-Cloud,Solomon Township,U.S. House,1,,Write-ins,1
-Cloud,Starr Township,U.S. House,1,,Write-ins,0
-Cloud,Summit Township,U.S. House,1,,Write-ins,0
-Cloud,Total,U.S. House,1,,Blanks,9
-Cloud,Advanced,U.S. House,1,,Blanks,2
-Cloud,2nd Ward / 2nd Pct.,U.S. House,1,,Blanks,2
-Cloud,3rd Ward,U.S. House,1,,Blanks,1
-Cloud,Aurora Township,U.S. House,1,,Blanks,1
-Cloud,West Lincoln Pct.,U.S. House,1,,Blanks,1
-Cloud,Solomon Township,U.S. House,1,,Blanks,1
-Cloud,Starr Township,U.S. House,1,,Blanks,1
-Cloud,Total,State Senate,36,DEM,Brian G. Angevine,605
-Cloud,Advanced,State Senate,36,DEM,Brian G. Angevine,203
-Cloud,Provisional,State Senate,36,DEM,Brian G. Angevine,9
-Cloud,1st Ward,State Senate,36,DEM,Brian G. Angevine,40
-Cloud,2nd Ward / 1st Pct.,State Senate,36,DEM,Brian G. Angevine,42
-Cloud,2nd Ward / 2nd Pct.,State Senate,36,DEM,Brian G. Angevine,52
-Cloud,3rd Ward,State Senate,36,DEM,Brian G. Angevine,51
-Cloud,4th Ward,State Senate,36,DEM,Brian G. Angevine,33
-Cloud,Arion Township,State Senate,36,DEM,Brian G. Angevine,5
-Cloud,Aurora Township,State Senate,36,DEM,Brian G. Angevine,4
-Cloud,Buffalo Township,State Senate,36,DEM,Brian G. Angevine,3
-Cloud,Center Township,State Senate,36,DEM,Brian G. Angevine,5
-Cloud,Colfax Township,State Senate,36,DEM,Brian G. Angevine,0
-Cloud,Elk Township,State Senate,36,DEM,Brian G. Angevine,40
-Cloud,Grant Township,State Senate,36,DEM,Brian G. Angevine,13
-Cloud,North Lawrence Pct,State Senate,36,DEM,Brian G. Angevine,1
-Cloud,South Lawrence Pct,State Senate,36,DEM,Brian G. Angevine,5
-Cloud,East Lincoln Pct.,State Senate,36,DEM,Brian G. Angevine,12
-Cloud,West Lincoln Pct.,State Senate,36,DEM,Brian G. Angevine,10
-Cloud,Lyon Township,State Senate,36,DEM,Brian G. Angevine,5
-Cloud,East Meredith Pct.,State Senate,36,DEM,Brian G. Angevine,1
-Cloud,West Meredith,State Senate,36,DEM,Brian G. Angevine,1
-Cloud,Nelson Township,State Senate,36,DEM,Brian G. Angevine,1
-Cloud,Oakland Township,State Senate,36,DEM,Brian G. Angevine,2
-Cloud,Shirley Township,State Senate,36,DEM,Brian G. Angevine,6
-Cloud,Sibley Township,State Senate,36,DEM,Brian G. Angevine,14
-Cloud,Solomon Township,State Senate,36,DEM,Brian G. Angevine,23
-Cloud,Starr Township,State Senate,36,DEM,Brian G. Angevine,24
-Cloud,Total,State Senate,36,REP,Elaine S. Bowers,3341
-Cloud,Advanced,State Senate,36,REP,Elaine S. Bowers,748
-Cloud,Provisional,State Senate,36,REP,Elaine S. Bowers,65
-Cloud,1st Ward,State Senate,36,REP,Elaine S. Bowers,170
-Cloud,2nd Ward / 1st Pct.,State Senate,36,REP,Elaine S. Bowers,188
-Cloud,2nd Ward / 2nd Pct.,State Senate,36,REP,Elaine S. Bowers,274
-Cloud,3rd Ward,State Senate,36,REP,Elaine S. Bowers,347
-Cloud,4th Ward,State Senate,36,REP,Elaine S. Bowers,159
-Cloud,Arion Township,State Senate,36,REP,Elaine S. Bowers,38
-Cloud,Aurora Township,State Senate,36,REP,Elaine S. Bowers,48
-Cloud,Buffalo Township,State Senate,36,REP,Elaine S. Bowers,43
-Cloud,Center Township,State Senate,36,REP,Elaine S. Bowers,81
-Cloud,Colfax Township,State Senate,36,REP,Elaine S. Bowers,20
-Cloud,Elk Township,State Senate,36,REP,Elaine S. Bowers,269
-Cloud,Grant Township,State Senate,36,REP,Elaine S. Bowers,115
-Cloud,North Lawrence Pct,State Senate,36,REP,Elaine S. Bowers,23
-Cloud,South Lawrence Pct,State Senate,36,REP,Elaine S. Bowers,15
-Cloud,East Lincoln Pct.,State Senate,36,REP,Elaine S. Bowers,81
-Cloud,West Lincoln Pct.,State Senate,36,REP,Elaine S. Bowers,48
-Cloud,Lyon Township,State Senate,36,REP,Elaine S. Bowers,41
-Cloud,East Meredith Pct.,State Senate,36,REP,Elaine S. Bowers,9
-Cloud,West Meredith,State Senate,36,REP,Elaine S. Bowers,12
-Cloud,Nelson Township,State Senate,36,REP,Elaine S. Bowers,48
-Cloud,Oakland Township,State Senate,36,REP,Elaine S. Bowers,23
-Cloud,Shirley Township,State Senate,36,REP,Elaine S. Bowers,51
-Cloud,Sibley Township,State Senate,36,REP,Elaine S. Bowers,61
-Cloud,Solomon Township,State Senate,36,REP,Elaine S. Bowers,161
-Cloud,Starr Township,State Senate,36,REP,Elaine S. Bowers,182
-Cloud,Summit Township,State Senate,36,REP,Elaine S. Bowers,21
-Cloud,Total,State Senate,36,,Write-ins,2
-Cloud,Advanced,State Senate,36,,Write-ins,1
-Cloud,Provisional,State Senate,36,,Write-ins,0
-Cloud,1st Ward,State Senate,36,,Write-ins,0
-Cloud,2nd Ward / 1st Pct.,State Senate,36,,Write-ins,0
-Cloud,2nd Ward / 2nd Pct.,State Senate,36,,Write-ins,0
-Cloud,3rd Ward,State Senate,36,,Write-ins,0
-Cloud,4th Ward,State Senate,36,,Write-ins,1
-Cloud,Arion Township,State Senate,36,,Write-ins,0
-Cloud,Aurora Township,State Senate,36,,Write-ins,0
-Cloud,Buffalo Township,State Senate,36,,Write-ins,0
-Cloud,Center Township,State Senate,36,,Write-ins,0
-Cloud,Colfax Township,State Senate,36,,Write-ins,0
-Cloud,Elk Township,State Senate,36,,Write-ins,0
-Cloud,Grant Township,State Senate,36,,Write-ins,0
-Cloud,North Lawrence Pct,State Senate,36,,Write-ins,0
-Cloud,South Lawrence Pct,State Senate,36,,Write-ins,0
-Cloud,East Lincoln Pct.,State Senate,36,,Write-ins,0
-Cloud,West Lincoln Pct.,State Senate,36,,Write-ins,0
-Cloud,Lyon Township,State Senate,36,,Write-ins,0
-Cloud,East Meredith Pct.,State Senate,36,,Write-ins,0
-Cloud,West Meredith,State Senate,36,,Write-ins,0
-Cloud,Nelson Township,State Senate,36,,Write-ins,0
-Cloud,Oakland Township,State Senate,36,,Write-ins,0
-Cloud,Aurora Township,State Senate,36,,Write-ins,0
-Cloud,Elk Township,State Senate,36,,Write-ins,0
-Cloud,Grant Township,State Senate,36,,Write-ins,0
-Cloud,Shirley Township,State Senate,36,,Write-ins,0
-Cloud,Sibley Township,State Senate,36,,Write-ins,0
-Cloud,Solomon Township,State Senate,36,,Write-ins,0
-Cloud,Starr Township,State Senate,36,,Write-ins,0
-Cloud,Solomon Township,State Senate,36,,Write-ins,0
-Cloud,Starr Township,State Senate,36,,Write-ins,0
-Cloud,Summit Township,State Senate,36,,Write-ins,0
-Cloud,Total,State House,107,REP,Susan L. Concannon,3383
-Cloud,Advanced,State House,107,REP,Susan L. Concannon,811
-Cloud,Provisional,State House,107,REP,Susan L. Concannon,59
-Cloud,1st Ward,State House,107,REP,Susan L. Concannon,186
-Cloud,2nd Ward / 1st Pct.,State House,107,REP,Susan L. Concannon,203
-Cloud,2nd Ward / 2nd Pct.,State House,107,REP,Susan L. Concannon,285
-Cloud,3rd Ward,State House,107,REP,Susan L. Concannon,344
-Cloud,4th Ward,State House,107,REP,Susan L. Concannon,158
-Cloud,Arion Township,State House,107,REP,Susan L. Concannon,36
-Cloud,Aurora Township,State House,107,REP,Susan L. Concannon,46
-Cloud,Buffalo Township,State House,107,REP,Susan L. Concannon,38
-Cloud,Center Township,State House,107,REP,Susan L. Concannon,72
-Cloud,Colfax Township,State House,107,REP,Susan L. Concannon,16
-Cloud,Elk Township,State House,107,REP,Susan L. Concannon,254
-Cloud,Grant Township,State House,107,REP,Susan L. Concannon,109
-Cloud,North Lawrence Pct,State House,107,REP,Susan L. Concannon,21
-Cloud,South Lawrence Pct,State House,107,REP,Susan L. Concannon,17
-Cloud,East Lincoln Pct.,State House,107,REP,Susan L. Concannon,78
-Cloud,West Lincoln Pct.,State House,107,REP,Susan L. Concannon,49
-Cloud,Lyon Township,State House,107,REP,Susan L. Concannon,38
-Cloud,East Meredith Pct.,State House,107,REP,Susan L. Concannon,8
-Cloud,West Meredith,State House,107,REP,Susan L. Concannon,11
-Cloud,Nelson Township,State House,107,REP,Susan L. Concannon,45
-Cloud,Oakland Township,State House,107,REP,Susan L. Concannon,20
-Cloud,Shirley Township,State House,107,REP,Susan L. Concannon,50
-Cloud,Sibley Township,State House,107,REP,Susan L. Concannon,65
-Cloud,Solomon Township,State House,107,REP,Susan L. Concannon,168
-Cloud,Starr Township,State House,107,REP,Susan L. Concannon,181
-Cloud,Summit Township,State House,107,REP,Susan L. Concannon,15
-Cloud,Total,State House,107,,Write-ins,27
-Cloud,Advanced,State House,107,,Write-ins,4
-Cloud,Provisional,State House,107,,Write-ins,0
-Cloud,1st Ward,State House,107,,Write-ins,1
-Cloud,2nd Ward / 1st Pct.,State House,107,,Write-ins,0
-Cloud,2nd Ward / 2nd Pct.,State House,107,,Write-ins,0
-Cloud,3rd Ward,State House,107,,Write-ins,0
-Cloud,4th Ward,State House,107,,Write-ins,5
-Cloud,Arion Township,State House,107,,Write-ins,1
-Cloud,Aurora Township,State House,107,,Write-ins,1
-Cloud,Buffalo Township,State House,107,,Write-ins,0
-Cloud,Center Township,State House,107,,Write-ins,0
-Cloud,Colfax Township,State House,107,,Write-ins,1
-Cloud,Elk Township,State House,107,,Write-ins,3
-Cloud,Grant Township,State House,107,,Write-ins,4
-Cloud,North Lawrence Pct,State House,107,,Write-ins,0
-Cloud,South Lawrence Pct,State House,107,,Write-ins,0
-Cloud,East Lincoln Pct.,State House,107,,Write-ins,0
-Cloud,West Lincoln Pct.,State House,107,,Write-ins,0
-Cloud,Lyon Township,State House,107,,Write-ins,1
-Cloud,East Meredith Pct.,State House,107,,Write-ins,0
-Cloud,West Meredith,State House,107,,Write-ins,0
-Cloud,Nelson Township,State House,107,,Write-ins,0
-Cloud,Oakland Township,State House,107,,Write-ins,0
-Cloud,Aurora Township,State House,107,,Write-ins,0
-Cloud,Elk Township,State House,107,,Write-ins,0
-Cloud,Grant Township,State House,107,,Write-ins,0
-Cloud,Shirley Township,State House,107,,Write-ins,0
-Cloud,Sibley Township,State House,107,,Write-ins,0
-Cloud,Solomon Township,State House,107,,Write-ins,0
-Cloud,Starr Township,State House,107,,Write-ins,0
-Cloud,Solomon Township,State House,107,,Write-ins,3
-Cloud,Starr Township,State House,107,,Write-ins,2
-Cloud,Summit Township,State House,107,,Write-ins,1
-Cloud,Total,State House,107,,Blanks,13
-Cloud,Advanced,State House,107,,Blanks,2
-Cloud,1st Ward,State House,107,,Blanks,1
-Cloud,2nd Ward / 1st Pct.,State House,107,,Blanks,2
-Cloud,2nd Ward / 2nd Pct.,State House,107,,Blanks,1
-Cloud,3rd Ward,State House,107,,Blanks,1
-Cloud,4th Ward,State House,107,,Blanks,4
-Cloud,Lyon Township,State House,107,,Blanks,1
-Cloud,Sibley Township,State House,107,,Blanks,1
+county,precinct,office,district,party,candidate,votes,vtd
+CLOUD,Arion Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",47,000010
+CLOUD,Aurora Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",55,000020
+CLOUD,Buffalo Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",50,000030
+CLOUD,Center Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",94,000040
+CLOUD,Colfax Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",17,000050
+CLOUD,Concordia Ward 1,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",262,00006A
+CLOUD,Concordia Ward 1 Exclave A,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",324,000070
+CLOUD,Concordia Ward 2 Precinct 2,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",417,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00008B
+CLOUD,Concordia Ward 3,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",490,000090
+CLOUD,Concordia Ward 4,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",218,000100
+CLOUD,East Lincoln,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",102,00011A
+CLOUD,East Lincoln Enclave,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00011B
+CLOUD,East Meredith,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",20,000120
+CLOUD,Elk Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",307,000130
+CLOUD,Grant Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",131,000140
+CLOUD,Lyon Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",48,000150
+CLOUD,Nelson Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",56,000160
+CLOUD,North Lawrence,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",31,000170
+CLOUD,Oakland Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",21,000180
+CLOUD,Shirley Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",60,000190
+CLOUD,Sibley Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",84,000200
+CLOUD,Solomon Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",205,000210
+CLOUD,South Lawrence,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",24,000220
+CLOUD,Starr Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",213,000230
+CLOUD,Summit Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",23,000240
+CLOUD,West Lincoln,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",70,000250
+CLOUD,West Meredith,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",14,000260
+CLOUD,Arion Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",9,000010
+CLOUD,Arion Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",49,000010
+CLOUD,Aurora Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",4,000020
+CLOUD,Aurora Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",60,000020
+CLOUD,Buffalo Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000030
+CLOUD,Buffalo Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",52,000030
+CLOUD,Center Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000040
+CLOUD,Center Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",108,000040
+CLOUD,Colfax Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,000050
+CLOUD,Colfax Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",22,000050
+CLOUD,Concordia Ward 1,Kansas Senate,36,Democratic,"Angevine, Brian G.",66,00006A
+CLOUD,Concordia Ward 1,Kansas Senate,36,Republican,"Bowers, Elaine S.",232,00006A
+CLOUD,Concordia Ward 1 Exclave A,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Kansas Senate,36,Democratic,"Angevine, Brian G.",72,000070
+CLOUD,Concordia Ward 2 Precinct 1,Kansas Senate,36,Republican,"Bowers, Elaine S.",295,000070
+CLOUD,Concordia Ward 2 Precinct 2,Kansas Senate,36,Democratic,"Angevine, Brian G.",82,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Kansas Senate,36,Republican,"Bowers, Elaine S.",401,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00008B
+CLOUD,Concordia Ward 3,Kansas Senate,36,Democratic,"Angevine, Brian G.",91,000090
+CLOUD,Concordia Ward 3,Kansas Senate,36,Republican,"Bowers, Elaine S.",483,000090
+CLOUD,Concordia Ward 4,Kansas Senate,36,Democratic,"Angevine, Brian G.",48,000100
+CLOUD,Concordia Ward 4,Kansas Senate,36,Republican,"Bowers, Elaine S.",214,000100
+CLOUD,East Lincoln,Kansas Senate,36,Democratic,"Angevine, Brian G.",18,00011A
+CLOUD,East Lincoln,Kansas Senate,36,Republican,"Bowers, Elaine S.",105,00011A
+CLOUD,East Lincoln Enclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00011B
+CLOUD,East Lincoln Enclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00011B
+CLOUD,East Meredith,Kansas Senate,36,Democratic,"Angevine, Brian G.",1,000120
+CLOUD,East Meredith,Kansas Senate,36,Republican,"Bowers, Elaine S.",21,000120
+CLOUD,Elk Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",51,000130
+CLOUD,Elk Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",321,000130
+CLOUD,Grant Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",17,000140
+CLOUD,Grant Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",134,000140
+CLOUD,Lyon Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",5,000150
+CLOUD,Lyon Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",52,000150
+CLOUD,Nelson Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",6,000160
+CLOUD,Nelson Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",57,000160
+CLOUD,North Lawrence,Kansas Senate,36,Democratic,"Angevine, Brian G.",3,000170
+CLOUD,North Lawrence,Kansas Senate,36,Republican,"Bowers, Elaine S.",37,000170
+CLOUD,Oakland Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",3,000180
+CLOUD,Oakland Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",24,000180
+CLOUD,Shirley Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000190
+CLOUD,Shirley Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",62,000190
+CLOUD,Sibley Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",20,000200
+CLOUD,Sibley Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",80,000200
+CLOUD,Solomon Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",36,000210
+CLOUD,Solomon Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",185,000210
+CLOUD,South Lawrence,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000220
+CLOUD,South Lawrence,Kansas Senate,36,Republican,"Bowers, Elaine S.",21,000220
+CLOUD,Starr Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",31,000230
+CLOUD,Starr Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",213,000230
+CLOUD,Summit Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,000240
+CLOUD,Summit Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",29,000240
+CLOUD,West Lincoln,Kansas Senate,36,Democratic,"Angevine, Brian G.",12,000250
+CLOUD,West Lincoln,Kansas Senate,36,Republican,"Bowers, Elaine S.",69,000250
+CLOUD,West Meredith,Kansas Senate,36,Democratic,"Angevine, Brian G.",2,000260
+CLOUD,West Meredith,Kansas Senate,36,Republican,"Bowers, Elaine S.",15,000260
+CLOUD,Arion Township,President / Vice President,,independent,"Stein, Jill",4,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+CLOUD,Arion Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+CLOUD,Arion Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000010
+CLOUD,Arion Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+CLOUD,Arion Township,President / Vice President,,Republican,"Trump, Donald J.",42,000010
+CLOUD,Aurora Township,President / Vice President,,independent,"Stein, Jill",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+CLOUD,Aurora Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+CLOUD,Aurora Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000020
+CLOUD,Aurora Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000020
+CLOUD,Aurora Township,President / Vice President,,Republican,"Trump, Donald J.",58,000020
+CLOUD,Buffalo Township,President / Vice President,,independent,"Stein, Jill",1,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+CLOUD,Buffalo Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+CLOUD,Buffalo Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000030
+CLOUD,Buffalo Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000030
+CLOUD,Buffalo Township,President / Vice President,,Republican,"Trump, Donald J.",49,000030
+CLOUD,Center Township,President / Vice President,,independent,"Stein, Jill",2,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+CLOUD,Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+CLOUD,Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000040
+CLOUD,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+CLOUD,Center Township,President / Vice President,,Republican,"Trump, Donald J.",104,000040
+CLOUD,Colfax Township,President / Vice President,,independent,"Stein, Jill",1,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+CLOUD,Colfax Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+CLOUD,Colfax Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000050
+CLOUD,Colfax Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000050
+CLOUD,Colfax Township,President / Vice President,,Republican,"Trump, Donald J.",21,000050
+CLOUD,Concordia Ward 1,President / Vice President,,independent,"Stein, Jill",6,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Hedges, James A",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"McMullin, Evan",4,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Smith, Mike",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",87,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",17,00006A
+CLOUD,Concordia Ward 1,President / Vice President,,Republican,"Trump, Donald J.",190,00006A
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,independent,"Stein, Jill",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Castle, Darrell L",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Giordani, Rocky",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Hedges, James A",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Kahn, Lynn",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"La Riva, Gloria",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Maturen, Michael A",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"McMullin, Evan",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Perry, Darryl",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Schriner, Joe C",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Smith, Mike",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Sood, Ajay",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Sterling, Shawna",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,President / Vice President,,Republican,"Trump, Donald J.",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,independent,"Stein, Jill",8,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"McMullin, Evan",1,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",101,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",20,000070
+CLOUD,Concordia Ward 2 Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",236,000070
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,independent,"Stein, Jill",9,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"McMullin, Evan",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",110,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",31,00008A
+CLOUD,Concordia Ward 2 Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",322,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00008B
+CLOUD,Concordia Ward 3,President / Vice President,,independent,"Stein, Jill",13,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+CLOUD,Concordia Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",106,000090
+CLOUD,Concordia Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",24,000090
+CLOUD,Concordia Ward 3,President / Vice President,,Republican,"Trump, Donald J.",427,000090
+CLOUD,Concordia Ward 4,President / Vice President,,independent,"Stein, Jill",4,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"McMullin, Evan",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+CLOUD,Concordia Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",59,000100
+CLOUD,Concordia Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",7,000100
+CLOUD,Concordia Ward 4,President / Vice President,,Republican,"Trump, Donald J.",187,000100
+CLOUD,East Lincoln,President / Vice President,,independent,"Stein, Jill",1,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Basiago, Andrew D.",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Castle, Darrell L",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Giordani, Rocky",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Hedges, James A",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Hoefling, Tom",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Kahn, Lynn",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"La Riva, Gloria",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Levinson, Michael S.",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Maturen, Michael A",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"McMullin, Evan",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Moorehead, Monica G.",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Perry, Darryl",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Schriner, Joe C",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Smith, Mike",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Sood, Ajay",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Sterling, Shawna",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Valdivia, Anthony J",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00011A
+CLOUD,East Lincoln,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00011A
+CLOUD,East Lincoln,President / Vice President,,Democratic,"Clinton, Hillary Rodham",15,00011A
+CLOUD,East Lincoln,President / Vice President,,Libertarian,"Johnson, Gary",6,00011A
+CLOUD,East Lincoln,President / Vice President,,Republican,"Trump, Donald J.",98,00011A
+CLOUD,East Lincoln Enclave,President / Vice President,,independent,"Stein, Jill",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Castle, Darrell L",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Giordani, Rocky",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Hedges, James A",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Kahn, Lynn",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"La Riva, Gloria",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Maturen, Michael A",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"McMullin, Evan",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Perry, Darryl",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Schriner, Joe C",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Smith, Mike",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Sood, Ajay",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Sterling, Shawna",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00011B
+CLOUD,East Lincoln Enclave,President / Vice President,,Republican,"Trump, Donald J.",0,00011B
+CLOUD,East Meredith,President / Vice President,,independent,"Stein, Jill",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Hedges, James A",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"McMullin, Evan",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Perry, Darryl",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Smith, Mike",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Sood, Ajay",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+CLOUD,East Meredith,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+CLOUD,East Meredith,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000120
+CLOUD,East Meredith,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+CLOUD,East Meredith,President / Vice President,,Republican,"Trump, Donald J.",15,000120
+CLOUD,Elk Township,President / Vice President,,independent,"Stein, Jill",8,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Hedges, James A",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"McMullin, Evan",5,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Perry, Darryl",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Smith, Mike",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Sood, Ajay",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+CLOUD,Elk Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+CLOUD,Elk Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",71,000130
+CLOUD,Elk Township,President / Vice President,,Libertarian,"Johnson, Gary",15,000130
+CLOUD,Elk Township,President / Vice President,,Republican,"Trump, Donald J.",273,000130
+CLOUD,Grant Township,President / Vice President,,independent,"Stein, Jill",2,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+CLOUD,Grant Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+CLOUD,Grant Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000140
+CLOUD,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000140
+CLOUD,Grant Township,President / Vice President,,Republican,"Trump, Donald J.",122,000140
+CLOUD,Lyon Township,President / Vice President,,independent,"Stein, Jill",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+CLOUD,Lyon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+CLOUD,Lyon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000150
+CLOUD,Lyon Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000150
+CLOUD,Lyon Township,President / Vice President,,Republican,"Trump, Donald J.",45,000150
+CLOUD,Nelson Township,President / Vice President,,independent,"Stein, Jill",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+CLOUD,Nelson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+CLOUD,Nelson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",11,000160
+CLOUD,Nelson Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000160
+CLOUD,Nelson Township,President / Vice President,,Republican,"Trump, Donald J.",50,000160
+CLOUD,North Lawrence,President / Vice President,,independent,"Stein, Jill",1,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Hedges, James A",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"McMullin, Evan",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Perry, Darryl",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Smith, Mike",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Sood, Ajay",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+CLOUD,North Lawrence,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+CLOUD,North Lawrence,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000170
+CLOUD,North Lawrence,President / Vice President,,Libertarian,"Johnson, Gary",1,000170
+CLOUD,North Lawrence,President / Vice President,,Republican,"Trump, Donald J.",36,000170
+CLOUD,Oakland Township,President / Vice President,,independent,"Stein, Jill",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"McMullin, Evan",1,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+CLOUD,Oakland Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+CLOUD,Oakland Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000180
+CLOUD,Oakland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000180
+CLOUD,Oakland Township,President / Vice President,,Republican,"Trump, Donald J.",24,000180
+CLOUD,Shirley Township,President / Vice President,,independent,"Stein, Jill",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"McMullin, Evan",1,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+CLOUD,Shirley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+CLOUD,Shirley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000190
+CLOUD,Shirley Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000190
+CLOUD,Shirley Township,President / Vice President,,Republican,"Trump, Donald J.",54,000190
+CLOUD,Sibley Township,President / Vice President,,independent,"Stein, Jill",2,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Hedges, James A",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"McMullin, Evan",1,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Perry, Darryl",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Smith, Mike",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Sood, Ajay",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+CLOUD,Sibley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+CLOUD,Sibley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",22,000200
+CLOUD,Sibley Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000200
+CLOUD,Sibley Township,President / Vice President,,Republican,"Trump, Donald J.",73,000200
+CLOUD,Solomon Township,President / Vice President,,independent,"Stein, Jill",6,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"McMullin, Evan",2,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+CLOUD,Solomon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+CLOUD,Solomon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",42,000210
+CLOUD,Solomon Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000210
+CLOUD,Solomon Township,President / Vice President,,Republican,"Trump, Donald J.",168,000210
+CLOUD,South Lawrence,President / Vice President,,independent,"Stein, Jill",1,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Hedges, James A",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"McMullin, Evan",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Perry, Darryl",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Smith, Mike",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Sood, Ajay",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+CLOUD,South Lawrence,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+CLOUD,South Lawrence,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000220
+CLOUD,South Lawrence,President / Vice President,,Libertarian,"Johnson, Gary",0,000220
+CLOUD,South Lawrence,President / Vice President,,Republican,"Trump, Donald J.",21,000220
+CLOUD,Starr Township,President / Vice President,,independent,"Stein, Jill",3,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+CLOUD,Starr Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+CLOUD,Starr Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000230
+CLOUD,Starr Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000230
+CLOUD,Starr Township,President / Vice President,,Republican,"Trump, Donald J.",202,000230
+CLOUD,Summit Township,President / Vice President,,independent,"Stein, Jill",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+CLOUD,Summit Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+CLOUD,Summit Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000240
+CLOUD,Summit Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000240
+CLOUD,Summit Township,President / Vice President,,Republican,"Trump, Donald J.",24,000240
+CLOUD,West Lincoln,President / Vice President,,independent,"Stein, Jill",2,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Hedges, James A",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"McMullin, Evan",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Perry, Darryl",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Smith, Mike",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Sood, Ajay",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+CLOUD,West Lincoln,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+CLOUD,West Lincoln,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000250
+CLOUD,West Lincoln,President / Vice President,,Libertarian,"Johnson, Gary",4,000250
+CLOUD,West Lincoln,President / Vice President,,Republican,"Trump, Donald J.",64,000250
+CLOUD,West Meredith,President / Vice President,,independent,"Stein, Jill",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Hedges, James A",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"McMullin, Evan",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Perry, Darryl",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Smith, Mike",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Sood, Ajay",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+CLOUD,West Meredith,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+CLOUD,West Meredith,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000260
+CLOUD,West Meredith,President / Vice President,,Libertarian,"Johnson, Gary",0,000260
+CLOUD,West Meredith,President / Vice President,,Republican,"Trump, Donald J.",14,000260
+CLOUD,Arion Township,United States House of Representatives,1,independent,"LaPolice, Alan",32,000010
+CLOUD,Arion Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+CLOUD,Arion Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000010
+CLOUD,Arion Township,United States House of Representatives,1,Republican,"Marshall, Roger",26,000010
+CLOUD,Aurora Township,United States House of Representatives,1,independent,"LaPolice, Alan",35,000020
+CLOUD,Aurora Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+CLOUD,Aurora Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000020
+CLOUD,Aurora Township,United States House of Representatives,1,Republican,"Marshall, Roger",25,000020
+CLOUD,Buffalo Township,United States House of Representatives,1,independent,"LaPolice, Alan",32,000030
+CLOUD,Buffalo Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+CLOUD,Buffalo Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000030
+CLOUD,Buffalo Township,United States House of Representatives,1,Republican,"Marshall, Roger",25,000030
+CLOUD,Center Township,United States House of Representatives,1,independent,"LaPolice, Alan",63,000040
+CLOUD,Center Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+CLOUD,Center Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000040
+CLOUD,Center Township,United States House of Representatives,1,Republican,"Marshall, Roger",51,000040
+CLOUD,Colfax Township,United States House of Representatives,1,independent,"LaPolice, Alan",13,000050
+CLOUD,Colfax Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+CLOUD,Colfax Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000050
+CLOUD,Colfax Township,United States House of Representatives,1,Republican,"Marshall, Roger",9,000050
+CLOUD,Concordia Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",183,00006A
+CLOUD,Concordia Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,00006A
+CLOUD,Concordia Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,00006A
+CLOUD,Concordia Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",105,00006A
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,independent,"LaPolice, Alan",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,Republican,"Marshall, Roger",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",223,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",9,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",132,000070
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",284,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",12,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",176,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00008B
+CLOUD,Concordia Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",356,000090
+CLOUD,Concordia Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+CLOUD,Concordia Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,000090
+CLOUD,Concordia Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",195,000090
+CLOUD,Concordia Ward 4,United States House of Representatives,1,independent,"LaPolice, Alan",169,000100
+CLOUD,Concordia Ward 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000100
+CLOUD,Concordia Ward 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",8,000100
+CLOUD,Concordia Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",87,000100
+CLOUD,East Lincoln,United States House of Representatives,1,independent,"LaPolice, Alan",60,00011A
+CLOUD,East Lincoln,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00011A
+CLOUD,East Lincoln,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,00011A
+CLOUD,East Lincoln,United States House of Representatives,1,Republican,"Marshall, Roger",57,00011A
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00011B
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00011B
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00011B
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00011B
+CLOUD,East Meredith,United States House of Representatives,1,independent,"LaPolice, Alan",8,000120
+CLOUD,East Meredith,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+CLOUD,East Meredith,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000120
+CLOUD,East Meredith,United States House of Representatives,1,Republican,"Marshall, Roger",12,000120
+CLOUD,Elk Township,United States House of Representatives,1,independent,"LaPolice, Alan",258,000130
+CLOUD,Elk Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+CLOUD,Elk Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000130
+CLOUD,Elk Township,United States House of Representatives,1,Republican,"Marshall, Roger",112,000130
+CLOUD,Grant Township,United States House of Representatives,1,independent,"LaPolice, Alan",75,000140
+CLOUD,Grant Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+CLOUD,Grant Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000140
+CLOUD,Grant Township,United States House of Representatives,1,Republican,"Marshall, Roger",75,000140
+CLOUD,Lyon Township,United States House of Representatives,1,independent,"LaPolice, Alan",31,000150
+CLOUD,Lyon Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+CLOUD,Lyon Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000150
+CLOUD,Lyon Township,United States House of Representatives,1,Republican,"Marshall, Roger",24,000150
+CLOUD,Nelson Township,United States House of Representatives,1,independent,"LaPolice, Alan",35,000160
+CLOUD,Nelson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+CLOUD,Nelson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000160
+CLOUD,Nelson Township,United States House of Representatives,1,Republican,"Marshall, Roger",26,000160
+CLOUD,North Lawrence,United States House of Representatives,1,independent,"LaPolice, Alan",23,000170
+CLOUD,North Lawrence,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+CLOUD,North Lawrence,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000170
+CLOUD,North Lawrence,United States House of Representatives,1,Republican,"Marshall, Roger",16,000170
+CLOUD,Oakland Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000180
+CLOUD,Oakland Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000180
+CLOUD,Oakland Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000180
+CLOUD,Oakland Township,United States House of Representatives,1,Republican,"Marshall, Roger",11,000180
+CLOUD,Shirley Township,United States House of Representatives,1,independent,"LaPolice, Alan",37,000190
+CLOUD,Shirley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000190
+CLOUD,Shirley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000190
+CLOUD,Shirley Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000190
+CLOUD,Sibley Township,United States House of Representatives,1,independent,"LaPolice, Alan",61,000200
+CLOUD,Sibley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+CLOUD,Sibley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000200
+CLOUD,Sibley Township,United States House of Representatives,1,Republican,"Marshall, Roger",35,000200
+CLOUD,Solomon Township,United States House of Representatives,1,independent,"LaPolice, Alan",122,000210
+CLOUD,Solomon Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000210
+CLOUD,Solomon Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000210
+CLOUD,Solomon Township,United States House of Representatives,1,Republican,"Marshall, Roger",90,000210
+CLOUD,South Lawrence,United States House of Representatives,1,independent,"LaPolice, Alan",22,000220
+CLOUD,South Lawrence,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000220
+CLOUD,South Lawrence,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000220
+CLOUD,South Lawrence,United States House of Representatives,1,Republican,"Marshall, Roger",6,000220
+CLOUD,Starr Township,United States House of Representatives,1,independent,"LaPolice, Alan",141,000230
+CLOUD,Starr Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000230
+CLOUD,Starr Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000230
+CLOUD,Starr Township,United States House of Representatives,1,Republican,"Marshall, Roger",91,000230
+CLOUD,Summit Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000240
+CLOUD,Summit Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000240
+CLOUD,Summit Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000240
+CLOUD,Summit Township,United States House of Representatives,1,Republican,"Marshall, Roger",11,000240
+CLOUD,West Lincoln,United States House of Representatives,1,independent,"LaPolice, Alan",58,000250
+CLOUD,West Lincoln,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000250
+CLOUD,West Lincoln,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000250
+CLOUD,West Lincoln,United States House of Representatives,1,Republican,"Marshall, Roger",21,000250
+CLOUD,West Meredith,United States House of Representatives,1,independent,"LaPolice, Alan",8,000260
+CLOUD,West Meredith,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000260
+CLOUD,West Meredith,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000260
+CLOUD,West Meredith,United States House of Representatives,1,Republican,"Marshall, Roger",8,000260
+CLOUD,Arion Township,United States Senate,,write - in,"Smith, DJ",0,000010
+CLOUD,Arion Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000010
+CLOUD,Arion Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000010
+CLOUD,Arion Township,United States Senate,,Republican,"Moran, Jerry",46,000010
+CLOUD,Aurora Township,United States Senate,,write - in,"Smith, DJ",0,000020
+CLOUD,Aurora Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000020
+CLOUD,Aurora Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000020
+CLOUD,Aurora Township,United States Senate,,Republican,"Moran, Jerry",57,000020
+CLOUD,Buffalo Township,United States Senate,,write - in,"Smith, DJ",0,000030
+CLOUD,Buffalo Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000030
+CLOUD,Buffalo Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+CLOUD,Buffalo Township,United States Senate,,Republican,"Moran, Jerry",56,000030
+CLOUD,Center Township,United States Senate,,write - in,"Smith, DJ",0,000040
+CLOUD,Center Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000040
+CLOUD,Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000040
+CLOUD,Center Township,United States Senate,,Republican,"Moran, Jerry",102,000040
+CLOUD,Colfax Township,United States Senate,,write - in,"Smith, DJ",0,000050
+CLOUD,Colfax Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000050
+CLOUD,Colfax Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000050
+CLOUD,Colfax Township,United States Senate,,Republican,"Moran, Jerry",21,000050
+CLOUD,Concordia Ward 1,United States Senate,,write - in,"Smith, DJ",0,00006A
+CLOUD,Concordia Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",71,00006A
+CLOUD,Concordia Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",16,00006A
+CLOUD,Concordia Ward 1,United States Senate,,Republican,"Moran, Jerry",209,00006A
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,write - in,"Smith, DJ",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,Republican,"Moran, Jerry",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",75,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",22,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,Republican,"Moran, Jerry",267,000070
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,write - in,"Smith, DJ",0,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",81,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",27,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,Republican,"Moran, Jerry",370,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00008B
+CLOUD,Concordia Ward 3,United States Senate,,write - in,"Smith, DJ",0,000090
+CLOUD,Concordia Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",87,000090
+CLOUD,Concordia Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",46,000090
+CLOUD,Concordia Ward 3,United States Senate,,Republican,"Moran, Jerry",428,000090
+CLOUD,Concordia Ward 4,United States Senate,,write - in,"Smith, DJ",0,000100
+CLOUD,Concordia Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",50,000100
+CLOUD,Concordia Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",22,000100
+CLOUD,Concordia Ward 4,United States Senate,,Republican,"Moran, Jerry",188,000100
+CLOUD,East Lincoln,United States Senate,,write - in,"Smith, DJ",0,00011A
+CLOUD,East Lincoln,United States Senate,,Democratic,"Wiesner, Patrick",11,00011A
+CLOUD,East Lincoln,United States Senate,,Libertarian,"Garrard, Robert D.",6,00011A
+CLOUD,East Lincoln,United States Senate,,Republican,"Moran, Jerry",103,00011A
+CLOUD,East Lincoln Enclave,United States Senate,,write - in,"Smith, DJ",0,00011B
+CLOUD,East Lincoln Enclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00011B
+CLOUD,East Lincoln Enclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00011B
+CLOUD,East Lincoln Enclave,United States Senate,,Republican,"Moran, Jerry",0,00011B
+CLOUD,East Meredith,United States Senate,,write - in,"Smith, DJ",0,000120
+CLOUD,East Meredith,United States Senate,,Democratic,"Wiesner, Patrick",2,000120
+CLOUD,East Meredith,United States Senate,,Libertarian,"Garrard, Robert D.",0,000120
+CLOUD,East Meredith,United States Senate,,Republican,"Moran, Jerry",19,000120
+CLOUD,Elk Township,United States Senate,,write - in,"Smith, DJ",0,000130
+CLOUD,Elk Township,United States Senate,,Democratic,"Wiesner, Patrick",51,000130
+CLOUD,Elk Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000130
+CLOUD,Elk Township,United States Senate,,Republican,"Moran, Jerry",304,000130
+CLOUD,Grant Township,United States Senate,,write - in,"Smith, DJ",0,000140
+CLOUD,Grant Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000140
+CLOUD,Grant Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000140
+CLOUD,Grant Township,United States Senate,,Republican,"Moran, Jerry",126,000140
+CLOUD,Lyon Township,United States Senate,,write - in,"Smith, DJ",0,000150
+CLOUD,Lyon Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000150
+CLOUD,Lyon Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000150
+CLOUD,Lyon Township,United States Senate,,Republican,"Moran, Jerry",48,000150
+CLOUD,Nelson Township,United States Senate,,write - in,"Smith, DJ",0,000160
+CLOUD,Nelson Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000160
+CLOUD,Nelson Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000160
+CLOUD,Nelson Township,United States Senate,,Republican,"Moran, Jerry",53,000160
+CLOUD,North Lawrence,United States Senate,,write - in,"Smith, DJ",0,000170
+CLOUD,North Lawrence,United States Senate,,Democratic,"Wiesner, Patrick",1,000170
+CLOUD,North Lawrence,United States Senate,,Libertarian,"Garrard, Robert D.",3,000170
+CLOUD,North Lawrence,United States Senate,,Republican,"Moran, Jerry",36,000170
+CLOUD,Oakland Township,United States Senate,,write - in,"Smith, DJ",0,000180
+CLOUD,Oakland Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000180
+CLOUD,Oakland Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000180
+CLOUD,Oakland Township,United States Senate,,Republican,"Moran, Jerry",25,000180
+CLOUD,Shirley Township,United States Senate,,write - in,"Smith, DJ",0,000190
+CLOUD,Shirley Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000190
+CLOUD,Shirley Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000190
+CLOUD,Shirley Township,United States Senate,,Republican,"Moran, Jerry",61,000190
+CLOUD,Sibley Township,United States Senate,,write - in,"Smith, DJ",0,000200
+CLOUD,Sibley Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000200
+CLOUD,Sibley Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000200
+CLOUD,Sibley Township,United States Senate,,Republican,"Moran, Jerry",75,000200
+CLOUD,Solomon Township,United States Senate,,write - in,"Smith, DJ",0,000210
+CLOUD,Solomon Township,United States Senate,,Democratic,"Wiesner, Patrick",40,000210
+CLOUD,Solomon Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000210
+CLOUD,Solomon Township,United States Senate,,Republican,"Moran, Jerry",169,000210
+CLOUD,South Lawrence,United States Senate,,write - in,"Smith, DJ",0,000220
+CLOUD,South Lawrence,United States Senate,,Democratic,"Wiesner, Patrick",7,000220
+CLOUD,South Lawrence,United States Senate,,Libertarian,"Garrard, Robert D.",1,000220
+CLOUD,South Lawrence,United States Senate,,Republican,"Moran, Jerry",20,000220
+CLOUD,Starr Township,United States Senate,,write - in,"Smith, DJ",0,000230
+CLOUD,Starr Township,United States Senate,,Democratic,"Wiesner, Patrick",27,000230
+CLOUD,Starr Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000230
+CLOUD,Starr Township,United States Senate,,Republican,"Moran, Jerry",206,000230
+CLOUD,Summit Township,United States Senate,,write - in,"Smith, DJ",0,000240
+CLOUD,Summit Township,United States Senate,,Democratic,"Wiesner, Patrick",2,000240
+CLOUD,Summit Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000240
+CLOUD,Summit Township,United States Senate,,Republican,"Moran, Jerry",24,000240
+CLOUD,West Lincoln,United States Senate,,write - in,"Smith, DJ",0,000250
+CLOUD,West Lincoln,United States Senate,,Democratic,"Wiesner, Patrick",11,000250
+CLOUD,West Lincoln,United States Senate,,Libertarian,"Garrard, Robert D.",6,000250
+CLOUD,West Lincoln,United States Senate,,Republican,"Moran, Jerry",62,000250
+CLOUD,West Meredith,United States Senate,,write - in,"Smith, DJ",0,000260
+CLOUD,West Meredith,United States Senate,,Democratic,"Wiesner, Patrick",3,000260
+CLOUD,West Meredith,United States Senate,,Libertarian,"Garrard, Robert D.",0,000260
+CLOUD,West Meredith,United States Senate,,Republican,"Moran, Jerry",14,000260
