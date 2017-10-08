@@ -1,1 +1,109 @@
-county,precinct,office,district,party,candidate,poll_votes,advance_votes,votesWichita,1,President,,REP,Trump and Pence,189,44,233Wichita,2,President,,REP,Trump and Pence,245,71,316Wichita,3,President,,REP,Trump and Pence,179,37,216Wichita,,President,,REP,Trump and Pence,613,152,765Wichita,1,President,,DEM,Clinton and Kaine,48,18,66Wichita,2,President,,DEM,Clinton and Kaine,38,21,59Wichita,3,President,,DEM,Clinton and Kaine,8,6,14Wichita,,President,,DEM,Clinton and Kaine,94,45,139Wichita,1,President,,LIB,Johnson and Weld,5,0,5Wichita,2,President,,LIB,Johnson and Weld,7,3,10Wichita,3,President,,LIB,Johnson and Weld,3,0,3Wichita,,President,,LIB,Johnson and Weld,15,3,18Wichita,1,President,,IND,Stein and Baraka,4,1,5Wichita,2,President,,IND,Stein and Baraka,5,0,5Wichita,3,President,,IND,Stein and Baraka,2,0,2Wichita,,President,,IND,Stein and Baraka,11,1,12Wichita,1,U.S. Senate,,DEM,Patrick Wiesner,32,15,47Wichita,2,U.S. Senate,,DEM,Patrick Wiesner,33,19,52Wichita,3,U.S. Senate,,DEM,Patrick Wiesner,8,7,15Wichita,,U.S. Senate,,DEM,Patrick Wiesner,73,41,114Wichita,1,U.S. Senate,,LIB,Robert D. Garrard,13,1,14Wichita,2,U.S. Senate,,LIB,Robert D. Garrard,12,4,16Wichita,3,U.S. Senate,,LIB,Robert D. Garrard,9,1,10Wichita,,U.S. Senate,,LIB,Robert D. Garrard,34,6,40Wichita,1,U.S. Senate,,REP,Jerry Moran,203,47,250Wichita,2,U.S. Senate,,REP,Jerry Moran,256,73,329Wichita,3,U.S. Senate,,REP,Jerry Moran,176,33,209Wichita,,U.S. Senate,,REP,Jerry Moran,635,153,788Wichita,1,U.S. House,1,REP,Roger Marshall,188,40,228Wichita,2,U.S. House,1,REP,Roger Marshall,240,73,313Wichita,3,U.S. House,1,REP,Roger Marshall,161,33,194Wichita,,U.S. House,1,REP,Roger Marshall,589,146,735Wichita,1,U.S. House,1,LIB,Kerry Burt,17,6,23Wichita,2,U.S. House,1,LIB,Kerry Burt,11,4,15Wichita,3,U.S. House,1,LIB,Kerry Burt,5,1,6Wichita,,U.S. House,1,LIB,Kerry Burt,33,11,44Wichita,1,U.S. House,1,IND,Alan LaPolice,35,13,48Wichita,2,U.S. House,1,IND,Alan LaPolice,41,17,58Wichita,3,U.S. House,1,IND,Alan LaPolice,26,5,31Wichita,,U.S. House,1,IND,Alan LaPolice,102,35,137Wichita,1,State Senate,39,DEM,A. Zacheriah Worf,42,11,53Wichita,2,State Senate,39,DEM,A. Zacheriah Worf,33,18,51Wichita,3,State Senate,39,DEM,A. Zacheriah Worf,19,2,21Wichita,,State Senate,39,DEM,A. Zacheriah Worf,94,31,125Wichita,1,State Senate,39,REP,John Doll,198,51,249Wichita,2,State Senate,39,REP,John Doll,265,76,341Wichita,3,State Senate,39,REP,John Doll,165,39,204Wichita,,State Senate,39,REP,John Doll,628,166,794Wichita,1,State House,118,REP,Don Hineman,230,58,288Wichita,2,State House,118,REP,Don Hineman,281,87,368Wichita,3,State House,118,REP,Don Hineman,179,40,219Wichita,,State House,118,REP,Don Hineman,690,185,875
+county,precinct,office,district,party,candidate,votes,vtd
+WICHITA,Leoti Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",290,000010
+WICHITA,Leoti Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",371,000020
+WICHITA,Leoti Precinct 3,Kansas House of Representatives,118,Republican,"Hineman, Don",219,000030
+WICHITA,Leoti Precinct 1,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",53,000010
+WICHITA,Leoti Precinct 1,Kansas Senate,39,Republican,"Doll, John",251,000010
+WICHITA,Leoti Precinct 2,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",51,000020
+WICHITA,Leoti Precinct 2,Kansas Senate,39,Republican,"Doll, John",344,000020
+WICHITA,Leoti Precinct 3,Kansas Senate,39,Democratic,"Worf, A. Zacheriah",21,000030
+WICHITA,Leoti Precinct 3,Kansas Senate,39,Republican,"Doll, John",204,000030
+WICHITA,Leoti Precinct 1,President / Vice President,,independent,"Stein, Jill",5,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Hedges, James A",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"McMullin, Evan",4,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Perry, Darryl",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Smith, Mike",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Sood, Ajay",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",66,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",5,000010
+WICHITA,Leoti Precinct 1,President / Vice President,,Republican,"Trump, Donald J.",235,000010
+WICHITA,Leoti Precinct 2,President / Vice President,,independent,"Stein, Jill",5,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Hedges, James A",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"McMullin, Evan",10,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Perry, Darryl",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Smith, Mike",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Sood, Ajay",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",60,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",10,000020
+WICHITA,Leoti Precinct 2,President / Vice President,,Republican,"Trump, Donald J.",318,000020
+WICHITA,Leoti Precinct 3,President / Vice President,,independent,"Stein, Jill",2,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Hedges, James A",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"McMullin, Evan",3,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Perry, Darryl",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Smith, Mike",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Sood, Ajay",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",3,000030
+WICHITA,Leoti Precinct 3,President / Vice President,,Republican,"Trump, Donald J.",216,000030
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,independent,"LaPolice, Alan",48,000010
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000010
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",23,000010
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,Republican,"Marshall, Roger",230,000010
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,independent,"LaPolice, Alan",58,000020
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",15,000020
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,Republican,"Marshall, Roger",316,000020
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,independent,"LaPolice, Alan",31,000030
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000030
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000030
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,Republican,"Marshall, Roger",194,000030
+WICHITA,Leoti Precinct 1,United States Senate,,write - in,"Smith, DJ",0,000010
+WICHITA,Leoti Precinct 1,United States Senate,,Democratic,"Wiesner, Patrick",47,000010
+WICHITA,Leoti Precinct 1,United States Senate,,Libertarian,"Garrard, Robert D.",14,000010
+WICHITA,Leoti Precinct 1,United States Senate,,Republican,"Moran, Jerry",252,000010
+WICHITA,Leoti Precinct 2,United States Senate,,write - in,"Smith, DJ",0,000020
+WICHITA,Leoti Precinct 2,United States Senate,,Democratic,"Wiesner, Patrick",52,000020
+WICHITA,Leoti Precinct 2,United States Senate,,Libertarian,"Garrard, Robert D.",16,000020
+WICHITA,Leoti Precinct 2,United States Senate,,Republican,"Moran, Jerry",332,000020
+WICHITA,Leoti Precinct 3,United States Senate,,write - in,"Smith, DJ",0,000030
+WICHITA,Leoti Precinct 3,United States Senate,,Democratic,"Wiesner, Patrick",15,000030
+WICHITA,Leoti Precinct 3,United States Senate,,Libertarian,"Garrard, Robert D.",10,000030
+WICHITA,Leoti Precinct 3,United States Senate,,Republican,"Moran, Jerry",209,000030

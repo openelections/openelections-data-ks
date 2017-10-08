@@ -1,408 +1,1016 @@
-county,precinct,office,district,party,candidate,votes
-Rice,Atlanta,President,,D,Hillary Clinton,4
-Rice,Bell,President,,D,Hillary Clinton,1
-Rice,Center,President,,D,Hillary Clinton,1
-Rice,Eureka,President,,D,Hillary Clinton,0
-Rice,Farmer,President,,D,Hillary Clinton,4
-Rice,Galt,President,,D,Hillary Clinton,6
-Rice,Harrison,President,,D,Hillary Clinton,1
-Rice,Lincoln,President,,D,Hillary Clinton,19
-Rice,Mitchell,President,,D,Hillary Clinton,9
-Rice,Odessa,President,,D,Hillary Clinton,5
-Rice,Pioneer,President,,D,Hillary Clinton,0
-Rice,Raymond,President,,D,Hillary Clinton,4
-Rice,Rockville,President,,D,Hillary Clinton,14
-Rice,Stevens,President,,D,Hillary Clinton,5
-Rice,Union,President,,D,Hillary Clinton,29
-Rice,Valley,President,,D,Hillary Clinton,9
-Rice,Victory,President,,D,Hillary Clinton,13
-Rice,E Wash,President,,D,Hillary Clinton,11
-Rice,W Wash,President,,D,Hillary Clinton,5
-Rice,Wilson,President,,D,Hillary Clinton,5
-Rice,Lyons 1,President,,D,Hillary Clinton,24
-Rice,Lyons 2,President,,D,Hillary Clinton,28
-Rice,Lyons 3,President,,D,Hillary Clinton,25
-Rice,Lyons 4,President,,D,Hillary Clinton,25
-Rice,Sterling E,President,,D,Hillary Clinton,49
-Rice,Sterling W,President,,D,Hillary Clinton,32
-Rice,Prov,President,,D,Hillary Clinton,12
-Rice,Advance,President,,D,Hillary Clinton,355
-Rice,Total,President,,D,Hillary Clinton,695
-Rice,Atlanta,President,,LBT,Gary Johnson,0
-Rice,Bell,President,,LBT,Gary Johnson,0
-Rice,Center,President,,LBT,Gary Johnson,1
-Rice,Eureka,President,,LBT,Gary Johnson,0
-Rice,Farmer,President,,LBT,Gary Johnson,6
-Rice,Galt,President,,LBT,Gary Johnson,1
-Rice,Harrison,President,,LBT,Gary Johnson,0
-Rice,Lincoln,President,,LBT,Gary Johnson,0
-Rice,Mitchell,President,,LBT,Gary Johnson,0
-Rice,Odessa,President,,LBT,Gary Johnson,2
-Rice,Pioneer,President,,LBT,Gary Johnson,0
-Rice,Raymond,President,,LBT,Gary Johnson,1
-Rice,Rockville,President,,LBT,Gary Johnson,1
-Rice,Stevens,President,,LBT,Gary Johnson,1
-Rice,Union,President,,LBT,Gary Johnson,11
-Rice,Valley,President,,LBT,Gary Johnson,3
-Rice,Victory,President,,LBT,Gary Johnson,9
-Rice,E Wash,President,,LBT,Gary Johnson,1
-Rice,W Wash,President,,LBT,Gary Johnson,0
-Rice,Wilson,President,,LBT,Gary Johnson,2
-Rice,Lyons 1,President,,LBT,Gary Johnson,9
-Rice,Lyons 2,President,,LBT,Gary Johnson,13
-Rice,Lyons 3,President,,LBT,Gary Johnson,12
-Rice,Lyons 4,President,,LBT,Gary Johnson,11
-Rice,Sterling E,President,,LBT,Gary Johnson,18
-Rice,Sterling W,President,,LBT,Gary Johnson,14
-Rice,Prov,President,,LBT,Gary Johnson,5
-Rice,Advance,President,,LBT,Gary Johnson,73
-Rice,Total,President,,LBT,Gary Johnson,194
-Rice,Atlanta,President,,IND,Jill Stein,0
-Rice,Bell,President,,IND,Jill Stein,0
-Rice,Center,President,,IND,Jill Stein,0
-Rice,Eureka,President,,IND,Jill Stein,0
-Rice,Farmer,President,,IND,Jill Stein,4
-Rice,Galt,President,,IND,Jill Stein,1
-Rice,Harrison,President,,IND,Jill Stein,0
-Rice,Lincoln,President,,IND,Jill Stein,1
-Rice,Mitchell,President,,IND,Jill Stein,1
-Rice,Odessa,President,,IND,Jill Stein,0
-Rice,Pioneer,President,,IND,Jill Stein,0
-Rice,Raymond,President,,IND,Jill Stein,1
-Rice,Rockville,President,,IND,Jill Stein,0
-Rice,Stevens,President,,IND,Jill Stein,1
-Rice,Union,President,,IND,Jill Stein,6
-Rice,Valley,President,,IND,Jill Stein,0
-Rice,Victory,President,,IND,Jill Stein,2
-Rice,E Wash,President,,IND,Jill Stein,0
-Rice,W Wash,President,,IND,Jill Stein,0
-Rice,Wilson,President,,IND,Jill Stein,1
-Rice,Lyons 1,President,,IND,Jill Stein,2
-Rice,Lyons 2,President,,IND,Jill Stein,5
-Rice,Lyons 3,President,,IND,Jill Stein,3
-Rice,Lyons 4,President,,IND,Jill Stein,2
-Rice,Sterling E,President,,IND,Jill Stein,10
-Rice,Sterling W,President,,IND,Jill Stein,5
-Rice,Prov,President,,IND,Jill Stein,1
-Rice,Advance,President,,IND,Jill Stein,23
-Rice,Total,President,,IND,Jill Stein,69
-Rice,Atlanta,President,,R,Donald Trump,23
-Rice,Bell,President,,R,Donald Trump,4
-Rice,Center,President,,R,Donald Trump,30
-Rice,Eureka,President,,R,Donald Trump,11
-Rice,Farmer,President,,R,Donald Trump,90
-Rice,Galt,President,,R,Donald Trump,26
-Rice,Harrison,President,,R,Donald Trump,44
-Rice,Lincoln,President,,R,Donald Trump,118
-Rice,Mitchell,President,,R,Donald Trump,25
-Rice,Odessa,President,,R,Donald Trump,15
-Rice,Pioneer,President,,R,Donald Trump,22
-Rice,Raymond,President,,R,Donald Trump,45
-Rice,Rockville,President,,R,Donald Trump,31
-Rice,Stevens,President,,R,Donald Trump,36
-Rice,Union,President,,R,Donald Trump,176
-Rice,Valley,President,,R,Donald Trump,45
-Rice,Victory,President,,R,Donald Trump,91
-Rice,E Wash,President,,R,Donald Trump,30
-Rice,W Wash,President,,R,Donald Trump,30
-Rice,Wilson,President,,R,Donald Trump,26
-Rice,Lyons 1,President,,R,Donald Trump,95
-Rice,Lyons 2,President,,R,Donald Trump,73
-Rice,Lyons 3,President,,R,Donald Trump,65
-Rice,Lyons 4,President,,R,Donald Trump,84
-Rice,Sterling E,President,,R,Donald Trump,238
-Rice,Sterling W,President,,R,Donald Trump,152
-Rice,Prov,President,,R,Donald Trump,40
-Rice,Advance,President,,R,Donald Trump,1172
-Rice,Total,President,,R,Donald Trump,2837
-Rice,Odessa,President,,CON,Darrell Castle,2
-Rice,Union,President,,CON,Darrell Castle,1
-Rice,Lyons 3,President,,CON,Darrell Castle,1
-Rice,Lyons 1,President,,wri,Evan McMullin,1
-Rice,Sterling E,President,,wri,Evan McMullin,17
-Rice,Sterling W,President,,wri,Evan McMullin,2
-Rice,Advance,President,,wri,Evan McMullin,2
-Rice,Prov,President,,wri,Mike Maturen,1
-Rice,Atlanta,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Bell,U.S. Senate,,LBT,Robert Garrard,0
-Rice,Center,U.S. Senate,,LBT,Robert Garrard,1
-Rice,Eureka,U.S. Senate,,LBT,Robert Garrard,0
-Rice,Farmer,U.S. Senate,,LBT,Robert Garrard,4
-Rice,Galt,U.S. Senate,,LBT,Robert Garrard,4
-Rice,Harrison,U.S. Senate,,LBT,Robert Garrard,1
-Rice,Lincoln,U.S. Senate,,LBT,Robert Garrard,9
-Rice,Mitchell,U.S. Senate,,LBT,Robert Garrard,1
-Rice,Odessa,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Pioneer,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Raymond,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Rockville,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Stevens,U.S. Senate,,LBT,Robert Garrard,3
-Rice,Union,U.S. Senate,,LBT,Robert Garrard,11
-Rice,Valley,U.S. Senate,,LBT,Robert Garrard,2
-Rice,Victory,U.S. Senate,,LBT,Robert Garrard,7
-Rice,E Wash,U.S. Senate,,LBT,Robert Garrard,1
-Rice,W Wash,U.S. Senate,,LBT,Robert Garrard,1
-Rice,Wilson,U.S. Senate,,LBT,Robert Garrard,4
-Rice,Lyons 1,U.S. Senate,,LBT,Robert Garrard,9
-Rice,Lyons 2,U.S. Senate,,LBT,Robert Garrard,10
-Rice,Lyons 3,U.S. Senate,,LBT,Robert Garrard,14
-Rice,Lyons 4,U.S. Senate,,LBT,Robert Garrard,6
-Rice,Sterling E,U.S. Senate,,LBT,Robert Garrard,19
-Rice,Sterling W,U.S. Senate,,LBT,Robert Garrard,18
-Rice,Prov,U.S. Senate,,LBT,Robert Garrard,6
-Rice,Advance,U.S. Senate,,LBT,Robert Garrard,89
-Rice,Total,U.S. Senate,,LBT,Robert Garrard,230
-Rice,Atlanta,U.S. Senate,,R,Jerry Moran,21
-Rice,Bell,U.S. Senate,,R,Jerry Moran,4
-Rice,Center,U.S. Senate,,R,Jerry Moran,29
-Rice,Eureka,U.S. Senate,,R,Jerry Moran,12
-Rice,Farmer,U.S. Senate,,R,Jerry Moran,93
-Rice,Galt,U.S. Senate,,R,Jerry Moran,27
-Rice,Harrison,U.S. Senate,,R,Jerry Moran,45
-Rice,Lincoln,U.S. Senate,,R,Jerry Moran,105
-Rice,Mitchell,U.S. Senate,,R,Jerry Moran,27
-Rice,Odessa,U.S. Senate,,R,Jerry Moran,17
-Rice,Pioneer,U.S. Senate,,R,Jerry Moran,19
-Rice,Raymond,U.S. Senate,,R,Jerry Moran,46
-Rice,Rockville,U.S. Senate,,R,Jerry Moran,33
-Rice,Stevens,U.S. Senate,,R,Jerry Moran,40
-Rice,Union,U.S. Senate,,R,Jerry Moran,181
-Rice,Valley,U.S. Senate,,R,Jerry Moran,41
-Rice,Victory,U.S. Senate,,R,Jerry Moran,91
-Rice,E Wash,U.S. Senate,,R,Jerry Moran,30
-Rice,W Wash,U.S. Senate,,R,Jerry Moran,30
-Rice,Wilson,U.S. Senate,,R,Jerry Moran,24
-Rice,Lyons 1,U.S. Senate,,R,Jerry Moran,103
-Rice,Lyons 2,U.S. Senate,,R,Jerry Moran,86
-Rice,Lyons 3,U.S. Senate,,R,Jerry Moran,70
-Rice,Lyons 4,U.S. Senate,,R,Jerry Moran,90
-Rice,Sterling E,U.S. Senate,,R,Jerry Moran,272
-Rice,Sterling W,U.S. Senate,,R,Jerry Moran,163
-Rice,Prov,U.S. Senate,,R,Jerry Moran,44
-Rice,Advance,U.S. Senate,,R,Jerry Moran,1237
-Rice,Total,U.S. Senate,,R,Jerry Moran,2980
-Rice,Atlanta,U.S. Senate,,D,Patrick Wiesner,3
-Rice,Bell,U.S. Senate,,D,Patrick Wiesner,1
-Rice,Center,U.S. Senate,,D,Patrick Wiesner,1
-Rice,Eureka,U.S. Senate,,D,Patrick Wiesner,0
-Rice,Farmer,U.S. Senate,,D,Patrick Wiesner,6
-Rice,Galt,U.S. Senate,,D,Patrick Wiesner,3
-Rice,Harrison,U.S. Senate,,D,Patrick Wiesner,0
-Rice,Lincoln,U.S. Senate,,D,Patrick Wiesner,21
-Rice,Mitchell,U.S. Senate,,D,Patrick Wiesner,6
-Rice,Odessa,U.S. Senate,,D,Patrick Wiesner,5
-Rice,Pioneer,U.S. Senate,,D,Patrick Wiesner,0
-Rice,Raymond,U.S. Senate,,D,Patrick Wiesner,4
-Rice,Rockville,U.S. Senate,,D,Patrick Wiesner,11
-Rice,Stevens,U.S. Senate,,D,Patrick Wiesner,1
-Rice,Union,U.S. Senate,,D,Patrick Wiesner,33
-Rice,Valley,U.S. Senate,,D,Patrick Wiesner,12
-Rice,Victory,U.S. Senate,,D,Patrick Wiesner,17
-Rice,E Wash,U.S. Senate,,D,Patrick Wiesner,9
-Rice,W Wash,U.S. Senate,,D,Patrick Wiesner,4
-Rice,Wilson,U.S. Senate,,D,Patrick Wiesner,6
-Rice,Lyons 1,U.S. Senate,,D,Patrick Wiesner,19
-Rice,Lyons 2,U.S. Senate,,D,Patrick Wiesner,28
-Rice,Lyons 3,U.S. Senate,,D,Patrick Wiesner,19
-Rice,Lyons 4,U.S. Senate,,D,Patrick Wiesner,23
-Rice,Sterling E,U.S. Senate,,D,Patrick Wiesner,37
-Rice,Sterling W,U.S. Senate,,D,Patrick Wiesner,29
-Rice,Prov,U.S. Senate,,D,Patrick Wiesner,11
-Rice,Advance,U.S. Senate,,D,Patrick Wiesner,302
-Rice,Total,U.S. Senate,,D,Patrick Wiesner,611
-Rice,Atlanta,U.S. House,1,LBT,Kerry Burt,1
-Rice,Bell,U.S. House,1,LBT,Kerry Burt,0
-Rice,Center,U.S. House,1,LBT,Kerry Burt,2
-Rice,Eureka,U.S. House,1,LBT,Kerry Burt,0
-Rice,Farmer,U.S. House,1,LBT,Kerry Burt,12
-Rice,Galt,U.S. House,1,LBT,Kerry Burt,2
-Rice,Harrison,U.S. House,1,LBT,Kerry Burt,2
-Rice,Lincoln,U.S. House,1,LBT,Kerry Burt,5
-Rice,Mitchell,U.S. House,1,LBT,Kerry Burt,1
-Rice,Odessa,U.S. House,1,LBT,Kerry Burt,1
-Rice,Pioneer,U.S. House,1,LBT,Kerry Burt,1
-Rice,Raymond,U.S. House,1,LBT,Kerry Burt,3
-Rice,Rockville,U.S. House,1,LBT,Kerry Burt,3
-Rice,Stevens,U.S. House,1,LBT,Kerry Burt,2
-Rice,Union,U.S. House,1,LBT,Kerry Burt,15
-Rice,Valley,U.S. House,1,LBT,Kerry Burt,3
-Rice,Victory,U.S. House,1,LBT,Kerry Burt,8
-Rice,E Wash,U.S. House,1,LBT,Kerry Burt,3
-Rice,W Wash,U.S. House,1,LBT,Kerry Burt,2
-Rice,Wilson,U.S. House,1,LBT,Kerry Burt,3
-Rice,Lyons 1,U.S. House,1,LBT,Kerry Burt,8
-Rice,Lyons 2,U.S. House,1,LBT,Kerry Burt,9
-Rice,Lyons 3,U.S. House,1,LBT,Kerry Burt,18
-Rice,Lyons 4,U.S. House,1,LBT,Kerry Burt,11
-Rice,Sterling E,U.S. House,1,LBT,Kerry Burt,29
-Rice,Sterling W,U.S. House,1,LBT,Kerry Burt,19
-Rice,Prov,U.S. House,1,LBT,Kerry Burt,6
-Rice,Advance,U.S. House,1,LBT,Kerry Burt,113
-Rice,Total,U.S. House,1,LBT,Kerry Burt,282
-Rice,Atlanta,U.S. House,1,IND,Alan LaPolice,2
-Rice,Bell,U.S. House,1,IND,Alan LaPolice,3
-Rice,Center,U.S. House,1,IND,Alan LaPolice,4
-Rice,Eureka,U.S. House,1,IND,Alan LaPolice,2
-Rice,Farmer,U.S. House,1,IND,Alan LaPolice,16
-Rice,Galt,U.S. House,1,IND,Alan LaPolice,7
-Rice,Harrison,U.S. House,1,IND,Alan LaPolice,4
-Rice,Lincoln,U.S. House,1,IND,Alan LaPolice,21
-Rice,Mitchell,U.S. House,1,IND,Alan LaPolice,6
-Rice,Odessa,U.S. House,1,IND,Alan LaPolice,8
-Rice,Pioneer,U.S. House,1,IND,Alan LaPolice,4
-Rice,Raymond,U.S. House,1,IND,Alan LaPolice,9
-Rice,Rockville,U.S. House,1,IND,Alan LaPolice,14
-Rice,Stevens,U.S. House,1,IND,Alan LaPolice,5
-Rice,Union,U.S. House,1,IND,Alan LaPolice,49
-Rice,Valley,U.S. House,1,IND,Alan LaPolice,9
-Rice,Victory,U.S. House,1,IND,Alan LaPolice,33
-Rice,E Wash,U.S. House,1,IND,Alan LaPolice,11
-Rice,W Wash,U.S. House,1,IND,Alan LaPolice,8
-Rice,Wilson,U.S. House,1,IND,Alan LaPolice,7
-Rice,Lyons 1,U.S. House,1,IND,Alan LaPolice,13
-Rice,Lyons 2,U.S. House,1,IND,Alan LaPolice,22
-Rice,Lyons 3,U.S. House,1,IND,Alan LaPolice,17
-Rice,Lyons 4,U.S. House,1,IND,Alan LaPolice,21
-Rice,Sterling E,U.S. House,1,IND,Alan LaPolice,59
-Rice,Sterling W,U.S. House,1,IND,Alan LaPolice,36
-Rice,Prov,U.S. House,1,IND,Alan LaPolice,8
-Rice,Advance,U.S. House,1,IND,Alan LaPolice,340
-Rice,Total,U.S. House,1,IND,Alan LaPolice,738
-Rice,Atlanta,U.S. House,1,R,Roger Marshall,24
-Rice,Bell,U.S. House,1,R,Roger Marshall,3
-Rice,Center,U.S. House,1,R,Roger Marshall,25
-Rice,Eureka,U.S. House,1,R,Roger Marshall,10
-Rice,Farmer,U.S. House,1,R,Roger Marshall,75
-Rice,Galt,U.S. House,1,R,Roger Marshall,21
-Rice,Harrison,U.S. House,1,R,Roger Marshall,40
-Rice,Lincoln,U.S. House,1,R,Roger Marshall,107
-Rice,Mitchell,U.S. House,1,R,Roger Marshall,28
-Rice,Odessa,U.S. House,1,R,Roger Marshall,15
-Rice,Pioneer,U.S. House,1,R,Roger Marshall,16
-Rice,Raymond,U.S. House,1,R,Roger Marshall,41
-Rice,Rockville,U.S. House,1,R,Roger Marshall,30
-Rice,Stevens,U.S. House,1,R,Roger Marshall,37
-Rice,Union,U.S. House,1,R,Roger Marshall,159
-Rice,Valley,U.S. House,1,R,Roger Marshall,44
-Rice,Victory,U.S. House,1,R,Roger Marshall,74
-Rice,E Wash,U.S. House,1,R,Roger Marshall,26
-Rice,W Wash,U.S. House,1,R,Roger Marshall,25
-Rice,Wilson,U.S. House,1,R,Roger Marshall,23
-Rice,Lyons 1,U.S. House,1,R,Roger Marshall,107
-Rice,Lyons 2,U.S. House,1,R,Roger Marshall,90
-Rice,Lyons 3,U.S. House,1,R,Roger Marshall,70
-Rice,Lyons 4,U.S. House,1,R,Roger Marshall,87
-Rice,Sterling E,U.S. House,1,R,Roger Marshall,243
-Rice,Sterling W,U.S. House,1,R,Roger Marshall,149
-Rice,Prov,U.S. House,1,R,Roger Marshall,42
-Rice,Advance,U.S. House,1,R,Roger Marshall,1153
-Rice,Total,U.S. House,1,R,Roger Marshall,2764
-Rice,Atlanta,State Senate,35,D,Levi Morris,3
-Rice,Bell,State Senate,33,D,Matt Bristow,1
-Rice,Center,State Senate,33,D,Matt Bristow,5
-Rice,Eureka,State Senate,33,D,Matt Bristow,2
-Rice,Farmer,State Senate,33,D,Matt Bristow,25
-Rice,Galt,State Senate,35,D,Levi Morris,8
-Rice,Harrison,State Senate,35,D,Levi Morris,9
-Rice,Lincoln,State Senate,33,D,Matt Bristow,50
-Rice,Mitchell,State Senate,35,D,Levi Morris,11
-Rice,Odessa,State Senate,35,D,Levi Morris,9
-Rice,Pioneer,State Senate,33,D,Matt Bristow,3
-Rice,Raymond,State Senate,33,D,Matt Bristow,12
-Rice,Rockville,State Senate,35,D,Levi Morris,15
-Rice,Stevens,State Senate,35,D,Levi Morris,11
-Rice,Union,State Senate,35,D,Levi Morris,56
-Rice,Valley,State Senate,33,D,Matt Bristow,19
-Rice,Victory,State Senate,35,D,Levi Morris,40
-Rice,E Wash,State Senate,35,D,Levi Morris,10
-Rice,W Wash,State Senate,35,D,Levi Morris,9
-Rice,Wilson,State Senate,35,D,Levi Morris,12
-Rice,Lyons 1,State Senate,35,D,Levi Morris,52
-Rice,Lyons 2,State Senate,35,D,Levi Morris,63
-Rice,Lyons 3,State Senate,35,D,Levi Morris,51
-Rice,Lyons 4,State Senate,35,D,Levi Morris,50
-Rice,Sterling E,State Senate,35,D,Levi Morris,85
-Rice,Sterling W,State Senate,35,D,Levi Morris,66
-Rice,Prov,State Senate,33,D,Matt Bristow,2
-Rice,Advance,State Senate,33,D,Matt Bristow,66
-Rice,Total,State Senate,33,D,Matt Bristow,185
-Rice,Prov,State Senate,35,D,Levi Morris,22
-Rice,Advance,State Senate,35,D,Levi Morris,492
-Rice,Total,State Senate,35,D,Levi Morris,1074
-Rice,Atlanta,State Senate,35,R,Richard Willborn,24
-Rice,Bell,State Senate,33,R,Mary Jo Taylor,4
-Rice,Center,State Senate,33,R,Mary Jo Taylor,26
-Rice,Eureka,State Senate,33,R,Mary Jo Taylor,10
-Rice,Farmer,State Senate,33,R,Mary Jo Taylor,79
-Rice,Galt,State Senate,35,R,Richard Willborn,25
-Rice,Harrison,State Senate,35,R,Richard Willborn,37
-Rice,Lincoln,State Senate,33,R,Mary Jo Taylor,84
-Rice,Mitchell,State Senate,35,R,Richard Willborn,23
-Rice,Odessa,State Senate,35,R,Richard Willborn,14
-Rice,Pioneer,State Senate,33,R,Mary Jo Taylor,17
-Rice,Raymond,State Senate,33,R,Mary Jo Taylor,40
-Rice,Rockville,State Senate,35,R,Richard Willborn,31
-Rice,Stevens,State Senate,35,R,Richard Willborn,33
-Rice,Union,State Senate,35,R,Richard Willborn,163
-Rice,Valley,State Senate,33,R,Mary Jo Taylor,37
-Rice,Victory,State Senate,35,R,Richard Willborn,75
-Rice,E Wash,State Senate,35,R,Richard Willborn,28
-Rice,W Wash,State Senate,35,R,Richard Willborn,25
-Rice,Wilson,State Senate,35,R,Richard Willborn,22
-Rice,Lyons 1,State Senate,35,R,Richard Willborn,78
-Rice,Lyons 2,State Senate,35,R,Richard Willborn,57
-Rice,Lyons 3,State Senate,35,R,Richard Willborn,51
-Rice,Lyons 4,State Senate,35,R,Richard Willborn,68
-Rice,Sterling E,State Senate,35,R,Richard Willborn,234
-Rice,Sterling W,State Senate,35,R,Richard Willborn,135
-Rice,Prov,State Senate,33,R,Mary Jo Taylor,8
-Rice,Advance,State Senate,33,R,Mary Jo Taylor,146
-Rice,Total,State Senate,33,R,Mary Jo Taylor,451
-Rice,Prov,State Senate,35,R,Richard Willborn,26
-Rice,Advance,State Senate,35,R,Richard Willborn,897
-Rice,Total,State Senate,35,R,Richard Willborn,2046
-Rice,Eureka,State House,108,D,Kelley Menke,2
-Rice,Farmer,State House,108,D,Kelley Menke,19
-Rice,Galt,State House,108,D,Kelley Menke,6
-Rice,Mitchell,State House,108,D,Kelley Menke,8
-Rice,Odessa,State House,108,D,Kelley Menke,9
-Rice,Union,State House,108,D,Kelley Menke,60
-Rice,Victory,State House,108,D,Kelley Menke,31
-Rice,Prov,State House,108,D,Kelley Menke,5
-Rice,Advance,State House,108,D,Kelley Menke,77
-Rice,Total,State House,108,D,Kelley Menke,217
-Rice,Atlanta,State House,113,R,Greg Lewis,26
-Rice,Bell,State House,113,R,Greg Lewis,5
-Rice,Center,State House,113,R,Greg Lewis,28
-Rice,Eureka,State House,108,R,Steven Johnson,10
-Rice,Farmer,State House,108,R,Steven Johnson,85
-Rice,Galt,State House,108,R,Steven Johnson,28
-Rice,Harrison,State House,113,R,Greg Lewis,44
-Rice,Lincoln,State House,113,R,Greg Lewis,122
-Rice,Mitchell,State House,108,R,Steven Johnson,25
-Rice,Odessa,State House,108,R,Steven Johnson,14
-Rice,Pioneer,State House,113,R,Greg Lewis,19
-Rice,Raymond,State House,113,R,Greg Lewis,51
-Rice,Rockville,State House,114,R,Jack Thimesch,40
-Rice,Stevens,State House,114,R,Jack Thimesch,37
-Rice,Union,State House,108,R,Steven Johnson,158
-Rice,Valley,State House,113,R,Greg Lewis,53
-Rice,Victory,State House,108,R,Steven Johnson,83
-Rice,E Wash,State House,114,R,Jack Thimesch,33
-Rice,W Wash,State House,114,R,Jack Thimesch,30
-Rice,Wilson,State House,114,R,Jack Thimesch,30
-Rice,Lyons 1,State House,113,R,Greg Lewis,123
-Rice,Lyons 2,State House,113,R,Greg Lewis,107
-Rice,Lyons 3,State House,113,R,Greg Lewis,93
-Rice,Lyons 4,State House,113,R,Greg Lewis,109
-Rice,Sterling E,State House,114,R,Jack Thimesch,288
-Rice,Sterling W,State House,114,R,Jack Thimesch,182
-Rice,Prov,State House,108,R,Steven Johnson,8
-Rice,Advance,State House,108,R,Steven Johnson,154
-Rice,Total,State House,108,R,Steven Johnson,565
-Rice,Prov,State House,113,R,Greg Lewis,27
-Rice,Advance,State House,113,R,Greg Lewis,819
-Rice,Total,State House,113,R,Greg Lewis,1626
-Rice,Prov,State House,114,R,Jack Thimesch,14
-Rice,Advance,State House,114,R,Jack Thimesch,395
-Rice,Total,State House,114,R,Jack Thimesch,1049
+county,precinct,office,district,party,candidate,votes,vtd
+RICE,Atlanta Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",64,000010
+RICE,Bell Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",6,000020
+RICE,Center Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",45,000030
+RICE,East Washington Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",67,000040
+RICE,Eureka Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",7,000050
+RICE,Eureka Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",18,000050
+RICE,Farmer Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",45,000060
+RICE,Farmer Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",122,000060
+RICE,Galt Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",8,000070
+RICE,Galt Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",35,000070
+RICE,Harrison Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",82,000080
+RICE,Lincoln Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",166,000090
+RICE,Lyons Ward 1,Kansas House of Representatives,113,Republican,"Lewis, Greg",330,000100
+RICE,Lyons Ward 2,Kansas House of Representatives,113,Republican,"Lewis, Greg",256,000110
+RICE,Lyons Ward 3,Kansas House of Representatives,113,Republican,"Lewis, Greg",217,000120
+RICE,Lyons Ward 4,Kansas House of Representatives,113,Republican,"Lewis, Greg",260,000130
+RICE,Mitchell Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",16,000140
+RICE,Mitchell Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",51,000140
+RICE,Odessa Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",9,000150
+RICE,Odessa Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",25,000150
+RICE,Pioneer Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",28,000160
+RICE,Raymond Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",71,000170
+RICE,Rockville Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",61,000180
+RICE,Sterling City East Ward,Kansas House of Representatives,114,Republican,"Thimesch, Jack",461,00019A
+RICE,Sterling City East Ward Exclave A,Kansas House of Representatives,114,Republican,"Thimesch, Jack",0,00019B
+RICE,Sterling City East Ward Exclave B,Kansas House of Representatives,114,Republican,"Thimesch, Jack",0,00019C
+RICE,Sterling City West Ward,Kansas House of Representatives,114,Republican,"Thimesch, Jack",273,000200
+RICE,Sterling Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",72,000210
+RICE,Union Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",88,000220
+RICE,Union Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",216,000220
+RICE,Valley Township,Kansas House of Representatives,113,Republican,"Lewis, Greg",101,000230
+RICE,Victoria Township,Kansas House of Representatives,108,Democratic,"Menke, Kelley",44,000240
+RICE,Victoria Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",98,000240
+RICE,West Washington Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",48,000250
+RICE,Wilson Township,Kansas House of Representatives,114,Republican,"Thimesch, Jack",67,000260
+RICE,Atlanta Township,Kansas Senate,35,Democratic,"Morris, Levi",19,000010
+RICE,Atlanta Township,Kansas Senate,35,Republican,"Wilborn, Richard",50,000010
+RICE,Bell Township,Kansas Senate,33,Democratic,"Bristow, Matt",1,000020
+RICE,Bell Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",5,000020
+RICE,Center Township,Kansas Senate,33,Democratic,"Bristow, Matt",6,000030
+RICE,Center Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",43,000030
+RICE,East Washington Township,Kansas Senate,35,Democratic,"Morris, Levi",18,000040
+RICE,East Washington Township,Kansas Senate,35,Republican,"Wilborn, Richard",59,000040
+RICE,Eureka Township,Kansas Senate,33,Democratic,"Bristow, Matt",8,000050
+RICE,Eureka Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",17,000050
+RICE,Farmer Township,Kansas Senate,33,Democratic,"Bristow, Matt",51,000060
+RICE,Farmer Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",115,000060
+RICE,Galt Township,Kansas Senate,35,Democratic,"Morris, Levi",12,000070
+RICE,Galt Township,Kansas Senate,35,Republican,"Wilborn, Richard",31,000070
+RICE,Harrison Township,Kansas Senate,35,Democratic,"Morris, Levi",25,000080
+RICE,Harrison Township,Kansas Senate,35,Republican,"Wilborn, Richard",64,000080
+RICE,Lincoln Township,Kansas Senate,33,Democratic,"Bristow, Matt",62,000090
+RICE,Lincoln Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",114,000090
+RICE,Lyons Ward 1,Kansas Senate,35,Democratic,"Morris, Levi",142,000100
+RICE,Lyons Ward 1,Kansas Senate,35,Republican,"Wilborn, Richard",222,000100
+RICE,Lyons Ward 2,Kansas Senate,35,Democratic,"Morris, Levi",128,000110
+RICE,Lyons Ward 2,Kansas Senate,35,Republican,"Wilborn, Richard",158,000110
+RICE,Lyons Ward 3,Kansas Senate,35,Democratic,"Morris, Levi",121,000120
+RICE,Lyons Ward 3,Kansas Senate,35,Republican,"Wilborn, Richard",122,000120
+RICE,Lyons Ward 4,Kansas Senate,35,Democratic,"Morris, Levi",130,000130
+RICE,Lyons Ward 4,Kansas Senate,35,Republican,"Wilborn, Richard",167,000130
+RICE,Mitchell Township,Kansas Senate,35,Democratic,"Morris, Levi",20,000140
+RICE,Mitchell Township,Kansas Senate,35,Republican,"Wilborn, Richard",49,000140
+RICE,Odessa Township,Kansas Senate,35,Democratic,"Morris, Levi",9,000150
+RICE,Odessa Township,Kansas Senate,35,Republican,"Wilborn, Richard",25,000150
+RICE,Pioneer Township,Kansas Senate,33,Democratic,"Bristow, Matt",8,000160
+RICE,Pioneer Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",21,000160
+RICE,Raymond Township,Kansas Senate,33,Democratic,"Bristow, Matt",16,000170
+RICE,Raymond Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",58,000170
+RICE,Rockville Township,Kansas Senate,35,Democratic,"Morris, Levi",24,000180
+RICE,Rockville Township,Kansas Senate,35,Republican,"Wilborn, Richard",47,000180
+RICE,Sterling City East Ward,Kansas Senate,35,Democratic,"Morris, Levi",136,00019A
+RICE,Sterling City East Ward,Kansas Senate,35,Republican,"Wilborn, Richard",380,00019A
+RICE,Sterling City East Ward Exclave A,Kansas Senate,35,Democratic,"Morris, Levi",0,00019B
+RICE,Sterling City East Ward Exclave A,Kansas Senate,35,Republican,"Wilborn, Richard",0,00019B
+RICE,Sterling City East Ward Exclave B,Kansas Senate,35,Democratic,"Morris, Levi",0,00019C
+RICE,Sterling City East Ward Exclave B,Kansas Senate,35,Republican,"Wilborn, Richard",0,00019C
+RICE,Sterling City West Ward,Kansas Senate,35,Democratic,"Morris, Levi",111,000200
+RICE,Sterling City West Ward,Kansas Senate,35,Republican,"Wilborn, Richard",196,000200
+RICE,Sterling Township,Kansas Senate,35,Democratic,"Morris, Levi",20,000210
+RICE,Sterling Township,Kansas Senate,35,Republican,"Wilborn, Richard",63,000210
+RICE,Union Township,Kansas Senate,35,Democratic,"Morris, Levi",77,000220
+RICE,Union Township,Kansas Senate,35,Republican,"Wilborn, Richard",225,000220
+RICE,Valley Township,Kansas Senate,33,Democratic,"Bristow, Matt",33,000230
+RICE,Valley Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",78,000230
+RICE,Victoria Township,Kansas Senate,35,Democratic,"Morris, Levi",49,000240
+RICE,Victoria Township,Kansas Senate,35,Republican,"Wilborn, Richard",93,000240
+RICE,West Washington Township,Kansas Senate,35,Democratic,"Morris, Levi",15,000250
+RICE,West Washington Township,Kansas Senate,35,Republican,"Wilborn, Richard",39,000250
+RICE,Wilson Township,Kansas Senate,35,Democratic,"Morris, Levi",18,000260
+RICE,Wilson Township,Kansas Senate,35,Republican,"Wilborn, Richard",56,000260
+RICE,Atlanta Township,President / Vice President,,independent,"Stein, Jill",1,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+RICE,Atlanta Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+RICE,Atlanta Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000010
+RICE,Atlanta Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000010
+RICE,Atlanta Township,President / Vice President,,Republican,"Trump, Donald J.",53,000010
+RICE,Bell Township,President / Vice President,,independent,"Stein, Jill",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+RICE,Bell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+RICE,Bell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",1,000020
+RICE,Bell Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+RICE,Bell Township,President / Vice President,,Republican,"Trump, Donald J.",5,000020
+RICE,Center Township,President / Vice President,,independent,"Stein, Jill",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+RICE,Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+RICE,Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+RICE,Center Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+RICE,Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+RICE,Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000030
+RICE,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000030
+RICE,Center Township,President / Vice President,,Republican,"Trump, Donald J.",58,000030
+RICE,East Washington Township,President / Vice President,,independent,"Stein, Jill",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+RICE,East Washington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+RICE,East Washington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000040
+RICE,East Washington Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+RICE,East Washington Township,President / Vice President,,Republican,"Trump, Donald J.",64,000040
+RICE,Eureka Township,President / Vice President,,independent,"Stein, Jill",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+RICE,Eureka Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+RICE,Eureka Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000050
+RICE,Eureka Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000050
+RICE,Eureka Township,President / Vice President,,Republican,"Trump, Donald J.",21,000050
+RICE,Farmer Township,President / Vice President,,independent,"Stein, Jill",4,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+RICE,Farmer Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+RICE,Farmer Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,000060
+RICE,Farmer Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000060
+RICE,Farmer Township,President / Vice President,,Republican,"Trump, Donald J.",142,000060
+RICE,Galt Township,President / Vice President,,independent,"Stein, Jill",1,000070
+RICE,Galt Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+RICE,Galt Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+RICE,Galt Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000070
+RICE,Galt Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000070
+RICE,Galt Township,President / Vice President,,Republican,"Trump, Donald J.",34,000070
+RICE,Harrison Township,President / Vice President,,independent,"Stein, Jill",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+RICE,Harrison Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+RICE,Harrison Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000080
+RICE,Harrison Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000080
+RICE,Harrison Township,President / Vice President,,Republican,"Trump, Donald J.",77,000080
+RICE,Lincoln Township,President / Vice President,,independent,"Stein, Jill",1,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+RICE,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+RICE,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",29,000090
+RICE,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+RICE,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",156,000090
+RICE,Lyons Ward 1,President / Vice President,,independent,"Stein, Jill",5,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"McMullin, Evan",1,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+RICE,Lyons Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+RICE,Lyons Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",86,000100
+RICE,Lyons Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",20,000100
+RICE,Lyons Ward 1,President / Vice President,,Republican,"Trump, Donald J.",249,000100
+RICE,Lyons Ward 2,President / Vice President,,independent,"Stein, Jill",11,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+RICE,Lyons Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+RICE,Lyons Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",65,000110
+RICE,Lyons Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",26,000110
+RICE,Lyons Ward 2,President / Vice President,,Republican,"Trump, Donald J.",183,000110
+RICE,Lyons Ward 3,President / Vice President,,independent,"Stein, Jill",3,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Castle, Darrell L",1,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+RICE,Lyons Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+RICE,Lyons Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",71,000120
+RICE,Lyons Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",18,000120
+RICE,Lyons Ward 3,President / Vice President,,Republican,"Trump, Donald J.",159,000120
+RICE,Lyons Ward 4,President / Vice President,,independent,"Stein, Jill",7,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"McMullin, Evan",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+RICE,Lyons Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+RICE,Lyons Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",60,000130
+RICE,Lyons Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",23,000130
+RICE,Lyons Ward 4,President / Vice President,,Republican,"Trump, Donald J.",218,000130
+RICE,Mitchell Township,President / Vice President,,independent,"Stein, Jill",1,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+RICE,Mitchell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+RICE,Mitchell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000140
+RICE,Mitchell Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000140
+RICE,Mitchell Township,President / Vice President,,Republican,"Trump, Donald J.",53,000140
+RICE,Odessa Township,President / Vice President,,independent,"Stein, Jill",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Castle, Darrell L",2,000150
+RICE,Odessa Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+RICE,Odessa Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+RICE,Odessa Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000150
+RICE,Odessa Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000150
+RICE,Odessa Township,President / Vice President,,Republican,"Trump, Donald J.",26,000150
+RICE,Pioneer Township,President / Vice President,,independent,"Stein, Jill",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+RICE,Pioneer Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+RICE,Pioneer Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000160
+RICE,Pioneer Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000160
+RICE,Pioneer Township,President / Vice President,,Republican,"Trump, Donald J.",27,000160
+RICE,Raymond Township,President / Vice President,,independent,"Stein, Jill",1,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Hedges, James A",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"McMullin, Evan",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Perry, Darryl",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Smith, Mike",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Sood, Ajay",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+RICE,Raymond Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+RICE,Raymond Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000170
+RICE,Raymond Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000170
+RICE,Raymond Township,President / Vice President,,Republican,"Trump, Donald J.",66,000170
+RICE,Rockville Township,President / Vice President,,independent,"Stein, Jill",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Hedges, James A",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"McMullin, Evan",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Perry, Darryl",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Smith, Mike",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Sood, Ajay",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+RICE,Rockville Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+RICE,Rockville Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000180
+RICE,Rockville Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000180
+RICE,Rockville Township,President / Vice President,,Republican,"Trump, Donald J.",47,000180
+RICE,Sterling City East Ward,President / Vice President,,independent,"Stein, Jill",14,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Castle, Darrell L",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Giordani, Rocky",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Hedges, James A",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Kahn, Lynn",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"La Riva, Gloria",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Levinson, Michael S.",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Maturen, Michael A",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"McMullin, Evan",2,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Perry, Darryl",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Schriner, Joe C",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Smith, Mike",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Sood, Ajay",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Sterling, Shawna",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019A
+RICE,Sterling City East Ward,President / Vice President,,Democratic,"Clinton, Hillary Rodham",75,00019A
+RICE,Sterling City East Ward,President / Vice President,,Libertarian,"Johnson, Gary",23,00019A
+RICE,Sterling City East Ward,President / Vice President,,Republican,"Trump, Donald J.",377,00019A
+RICE,Sterling City East Ward Exclave A,President / Vice President,,independent,"Stein, Jill",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Castle, Darrell L",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Giordani, Rocky",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Hedges, James A",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Kahn, Lynn",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"La Riva, Gloria",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Levinson, Michael S.",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Maturen, Michael A",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"McMullin, Evan",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Perry, Darryl",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Schriner, Joe C",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Smith, Mike",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Sood, Ajay",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Sterling, Shawna",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00019B
+RICE,Sterling City East Ward Exclave A,President / Vice President,,Republican,"Trump, Donald J.",0,00019B
+RICE,Sterling City East Ward Exclave B,President / Vice President,,independent,"Stein, Jill",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Basiago, Andrew D.",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Castle, Darrell L",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Giordani, Rocky",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Hedges, James A",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Kahn, Lynn",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"La Riva, Gloria",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Levinson, Michael S.",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Maturen, Michael A",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"McMullin, Evan",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Moorehead, Monica G.",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Perry, Darryl",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Schriner, Joe C",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Smith, Mike",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Sood, Ajay",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Sterling, Shawna",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Valdivia, Anthony J",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00019C
+RICE,Sterling City East Ward Exclave B,President / Vice President,,Republican,"Trump, Donald J.",0,00019C
+RICE,Sterling City West Ward,President / Vice President,,independent,"Stein, Jill",5,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Hedges, James A",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"McMullin, Evan",2,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Perry, Darryl",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Smith, Mike",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Sood, Ajay",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+RICE,Sterling City West Ward,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+RICE,Sterling City West Ward,President / Vice President,,Democratic,"Clinton, Hillary Rodham",65,000200
+RICE,Sterling City West Ward,President / Vice President,,Libertarian,"Johnson, Gary",21,000200
+RICE,Sterling City West Ward,President / Vice President,,Republican,"Trump, Donald J.",223,000200
+RICE,Sterling Township,President / Vice President,,independent,"Stein, Jill",1,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Hedges, James A",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"McMullin, Evan",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Perry, Darryl",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Smith, Mike",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Sood, Ajay",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+RICE,Sterling Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+RICE,Sterling Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000210
+RICE,Sterling Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000210
+RICE,Sterling Township,President / Vice President,,Republican,"Trump, Donald J.",66,000210
+RICE,Union Township,President / Vice President,,independent,"Stein, Jill",8,000220
+RICE,Union Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Castle, Darrell L",1,000220
+RICE,Union Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Hedges, James A",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+RICE,Union Township,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+RICE,Union Township,President / Vice President,,write - in,"McMullin, Evan",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Perry, Darryl",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Smith, Mike",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Sood, Ajay",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+RICE,Union Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+RICE,Union Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",49,000220
+RICE,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",19,000220
+RICE,Union Township,President / Vice President,,Republican,"Trump, Donald J.",234,000220
+RICE,Valley Township,President / Vice President,,independent,"Stein, Jill",3,000230
+RICE,Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+RICE,Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+RICE,Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",23,000230
+RICE,Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000230
+RICE,Valley Township,President / Vice President,,Republican,"Trump, Donald J.",82,000230
+RICE,Victoria Township,President / Vice President,,independent,"Stein, Jill",2,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+RICE,Victoria Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+RICE,Victoria Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000240
+RICE,Victoria Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000240
+RICE,Victoria Township,President / Vice President,,Republican,"Trump, Donald J.",112,000240
+RICE,West Washington Township,President / Vice President,,independent,"Stein, Jill",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Castle, Darrell L",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Giordani, Rocky",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Hedges, James A",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Kahn, Lynn",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"La Riva, Gloria",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Maturen, Michael A",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"McMullin, Evan",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Perry, Darryl",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Schriner, Joe C",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Smith, Mike",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Sood, Ajay",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Sterling, Shawna",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000250
+RICE,West Washington Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000250
+RICE,West Washington Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",8,000250
+RICE,West Washington Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000250
+RICE,West Washington Township,President / Vice President,,Republican,"Trump, Donald J.",42,000250
+RICE,Wilson Township,President / Vice President,,independent,"Stein, Jill",1,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Hedges, James A",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"McMullin, Evan",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Perry, Darryl",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Smith, Mike",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Sood, Ajay",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000260
+RICE,Wilson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000260
+RICE,Wilson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000260
+RICE,Wilson Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000260
+RICE,Wilson Township,President / Vice President,,Republican,"Trump, Donald J.",63,000260
+RICE,Atlanta Township,United States House of Representatives,1,independent,"LaPolice, Alan",9,000010
+RICE,Atlanta Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+RICE,Atlanta Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000010
+RICE,Atlanta Township,United States House of Representatives,1,Republican,"Marshall, Roger",57,000010
+RICE,Bell Township,United States House of Representatives,1,independent,"LaPolice, Alan",3,000020
+RICE,Bell Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+RICE,Bell Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000020
+RICE,Bell Township,United States House of Representatives,1,Republican,"Marshall, Roger",3,000020
+RICE,Center Township,United States House of Representatives,1,independent,"LaPolice, Alan",7,000030
+RICE,Center Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+RICE,Center Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000030
+RICE,Center Township,United States House of Representatives,1,Republican,"Marshall, Roger",36,000030
+RICE,East Washington Township,United States House of Representatives,1,independent,"LaPolice, Alan",22,000040
+RICE,East Washington Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+RICE,East Washington Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000040
+RICE,East Washington Township,United States House of Representatives,1,Republican,"Marshall, Roger",50,000040
+RICE,Eureka Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000050
+RICE,Eureka Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+RICE,Eureka Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000050
+RICE,Eureka Township,United States House of Representatives,1,Republican,"Marshall, Roger",20,000050
+RICE,Farmer Township,United States House of Representatives,1,independent,"LaPolice, Alan",37,000060
+RICE,Farmer Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+RICE,Farmer Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",14,000060
+RICE,Farmer Township,United States House of Representatives,1,Republican,"Marshall, Roger",109,000060
+RICE,Galt Township,United States House of Representatives,1,independent,"LaPolice, Alan",9,000070
+RICE,Galt Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+RICE,Galt Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000070
+RICE,Galt Township,United States House of Representatives,1,Republican,"Marshall, Roger",29,000070
+RICE,Harrison Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000080
+RICE,Harrison Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+RICE,Harrison Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000080
+RICE,Harrison Township,United States House of Representatives,1,Republican,"Marshall, Roger",67,000080
+RICE,Lincoln Township,United States House of Representatives,1,independent,"LaPolice, Alan",29,000090
+RICE,Lincoln Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+RICE,Lincoln Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000090
+RICE,Lincoln Township,United States House of Representatives,1,Republican,"Marshall, Roger",148,000090
+RICE,Lyons Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",61,000100
+RICE,Lyons Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+RICE,Lyons Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",18,000100
+RICE,Lyons Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",287,000100
+RICE,Lyons Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",53,000110
+RICE,Lyons Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000110
+RICE,Lyons Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",24,000110
+RICE,Lyons Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",209,000110
+RICE,Lyons Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",45,000120
+RICE,Lyons Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000120
+RICE,Lyons Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",35,000120
+RICE,Lyons Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",162,000120
+RICE,Lyons Ward 4,United States House of Representatives,1,independent,"LaPolice, Alan",47,000130
+RICE,Lyons Ward 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000130
+RICE,Lyons Ward 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",29,000130
+RICE,Lyons Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",212,000130
+RICE,Mitchell Township,United States House of Representatives,1,independent,"LaPolice, Alan",12,000140
+RICE,Mitchell Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000140
+RICE,Mitchell Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000140
+RICE,Mitchell Township,United States House of Representatives,1,Republican,"Marshall, Roger",54,000140
+RICE,Odessa Township,United States House of Representatives,1,independent,"LaPolice, Alan",8,000150
+RICE,Odessa Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+RICE,Odessa Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000150
+RICE,Odessa Township,United States House of Representatives,1,Republican,"Marshall, Roger",26,000150
+RICE,Pioneer Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000160
+RICE,Pioneer Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000160
+RICE,Pioneer Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000160
+RICE,Pioneer Township,United States House of Representatives,1,Republican,"Marshall, Roger",25,000160
+RICE,Raymond Township,United States House of Representatives,1,independent,"LaPolice, Alan",13,000170
+RICE,Raymond Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000170
+RICE,Raymond Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000170
+RICE,Raymond Township,United States House of Representatives,1,Republican,"Marshall, Roger",55,000170
+RICE,Rockville Township,United States House of Representatives,1,independent,"LaPolice, Alan",19,000180
+RICE,Rockville Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000180
+RICE,Rockville Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000180
+RICE,Rockville Township,United States House of Representatives,1,Republican,"Marshall, Roger",49,000180
+RICE,Sterling City East Ward,United States House of Representatives,1,independent,"LaPolice, Alan",102,00019A
+RICE,Sterling City East Ward,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019A
+RICE,Sterling City East Ward,United States House of Representatives,1,Libertarian,"Burt, Kerry",42,00019A
+RICE,Sterling City East Ward,United States House of Representatives,1,Republican,"Marshall, Roger",388,00019A
+RICE,Sterling City East Ward Exclave A,United States House of Representatives,1,independent,"LaPolice, Alan",0,00019B
+RICE,Sterling City East Ward Exclave A,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019B
+RICE,Sterling City East Ward Exclave A,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00019B
+RICE,Sterling City East Ward Exclave A,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019B
+RICE,Sterling City East Ward Exclave B,United States House of Representatives,1,independent,"LaPolice, Alan",0,00019C
+RICE,Sterling City East Ward Exclave B,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00019C
+RICE,Sterling City East Ward Exclave B,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00019C
+RICE,Sterling City East Ward Exclave B,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019C
+RICE,Sterling City West Ward,United States House of Representatives,1,independent,"LaPolice, Alan",62,000200
+RICE,Sterling City West Ward,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000200
+RICE,Sterling City West Ward,United States House of Representatives,1,Libertarian,"Burt, Kerry",28,000200
+RICE,Sterling City West Ward,United States House of Representatives,1,Republican,"Marshall, Roger",226,000200
+RICE,Sterling Township,United States House of Representatives,1,independent,"LaPolice, Alan",12,000210
+RICE,Sterling Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000210
+RICE,Sterling Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",3,000210
+RICE,Sterling Township,United States House of Representatives,1,Republican,"Marshall, Roger",68,000210
+RICE,Union Township,United States House of Representatives,1,independent,"LaPolice, Alan",71,000220
+RICE,Union Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000220
+RICE,Union Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",17,000220
+RICE,Union Township,United States House of Representatives,1,Republican,"Marshall, Roger",222,000220
+RICE,Valley Township,United States House of Representatives,1,independent,"LaPolice, Alan",26,000230
+RICE,Valley Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000230
+RICE,Valley Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",6,000230
+RICE,Valley Township,United States House of Representatives,1,Republican,"Marshall, Roger",81,000230
+RICE,Victoria Township,United States House of Representatives,1,independent,"LaPolice, Alan",39,000240
+RICE,Victoria Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000240
+RICE,Victoria Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",10,000240
+RICE,Victoria Township,United States House of Representatives,1,Republican,"Marshall, Roger",89,000240
+RICE,West Washington Township,United States House of Representatives,1,independent,"LaPolice, Alan",8,000250
+RICE,West Washington Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000250
+RICE,West Washington Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000250
+RICE,West Washington Township,United States House of Representatives,1,Republican,"Marshall, Roger",37,000250
+RICE,Wilson Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000260
+RICE,Wilson Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000260
+RICE,Wilson Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",5,000260
+RICE,Wilson Township,United States House of Representatives,1,Republican,"Marshall, Roger",55,000260
+RICE,Atlanta Township,United States Senate,,write - in,"Smith, DJ",0,000010
+RICE,Atlanta Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000010
+RICE,Atlanta Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000010
+RICE,Atlanta Township,United States Senate,,Republican,"Moran, Jerry",53,000010
+RICE,Bell Township,United States Senate,,write - in,"Smith, DJ",0,000020
+RICE,Bell Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000020
+RICE,Bell Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000020
+RICE,Bell Township,United States Senate,,Republican,"Moran, Jerry",5,000020
+RICE,Center Township,United States Senate,,write - in,"Smith, DJ",0,000030
+RICE,Center Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000030
+RICE,Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+RICE,Center Township,United States Senate,,Republican,"Moran, Jerry",45,000030
+RICE,East Washington Township,United States Senate,,write - in,"Smith, DJ",0,000040
+RICE,East Washington Township,United States Senate,,Democratic,"Wiesner, Patrick",14,000040
+RICE,East Washington Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000040
+RICE,East Washington Township,United States Senate,,Republican,"Moran, Jerry",60,000040
+RICE,Eureka Township,United States Senate,,write - in,"Smith, DJ",0,000050
+RICE,Eureka Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000050
+RICE,Eureka Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000050
+RICE,Eureka Township,United States Senate,,Republican,"Moran, Jerry",20,000050
+RICE,Farmer Township,United States Senate,,write - in,"Smith, DJ",0,000060
+RICE,Farmer Township,United States Senate,,Democratic,"Wiesner, Patrick",17,000060
+RICE,Farmer Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000060
+RICE,Farmer Township,United States Senate,,Republican,"Moran, Jerry",143,000060
+RICE,Galt Township,United States Senate,,write - in,"Smith, DJ",0,000070
+RICE,Galt Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000070
+RICE,Galt Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000070
+RICE,Galt Township,United States Senate,,Republican,"Moran, Jerry",38,000070
+RICE,Harrison Township,United States Senate,,write - in,"Smith, DJ",0,000080
+RICE,Harrison Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000080
+RICE,Harrison Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000080
+RICE,Harrison Township,United States Senate,,Republican,"Moran, Jerry",75,000080
+RICE,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000090
+RICE,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",29,000090
+RICE,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000090
+RICE,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",145,000090
+RICE,Lyons Ward 1,United States Senate,,write - in,"Smith, DJ",0,000100
+RICE,Lyons Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",68,000100
+RICE,Lyons Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",14,000100
+RICE,Lyons Ward 1,United States Senate,,Republican,"Moran, Jerry",284,000100
+RICE,Lyons Ward 2,United States Senate,,write - in,"Smith, DJ",0,000110
+RICE,Lyons Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",60,000110
+RICE,Lyons Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",21,000110
+RICE,Lyons Ward 2,United States Senate,,Republican,"Moran, Jerry",211,000110
+RICE,Lyons Ward 3,United States Senate,,write - in,"Smith, DJ",0,000120
+RICE,Lyons Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",60,000120
+RICE,Lyons Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",29,000120
+RICE,Lyons Ward 3,United States Senate,,Republican,"Moran, Jerry",159,000120
+RICE,Lyons Ward 4,United States Senate,,write - in,"Smith, DJ",0,000130
+RICE,Lyons Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",52,000130
+RICE,Lyons Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",16,000130
+RICE,Lyons Ward 4,United States Senate,,Republican,"Moran, Jerry",230,000130
+RICE,Mitchell Township,United States Senate,,write - in,"Smith, DJ",0,000140
+RICE,Mitchell Township,United States Senate,,Democratic,"Wiesner, Patrick",11,000140
+RICE,Mitchell Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000140
+RICE,Mitchell Township,United States Senate,,Republican,"Moran, Jerry",57,000140
+RICE,Odessa Township,United States Senate,,write - in,"Smith, DJ",0,000150
+RICE,Odessa Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000150
+RICE,Odessa Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000150
+RICE,Odessa Township,United States Senate,,Republican,"Moran, Jerry",28,000150
+RICE,Pioneer Township,United States Senate,,write - in,"Smith, DJ",0,000160
+RICE,Pioneer Township,United States Senate,,Democratic,"Wiesner, Patrick",3,000160
+RICE,Pioneer Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000160
+RICE,Pioneer Township,United States Senate,,Republican,"Moran, Jerry",22,000160
+RICE,Raymond Township,United States Senate,,write - in,"Smith, DJ",0,000170
+RICE,Raymond Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000170
+RICE,Raymond Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000170
+RICE,Raymond Township,United States Senate,,Republican,"Moran, Jerry",68,000170
+RICE,Rockville Township,United States Senate,,write - in,"Smith, DJ",0,000180
+RICE,Rockville Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000180
+RICE,Rockville Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000180
+RICE,Rockville Township,United States Senate,,Republican,"Moran, Jerry",52,000180
+RICE,Sterling City East Ward,United States Senate,,write - in,"Smith, DJ",0,00019A
+RICE,Sterling City East Ward,United States Senate,,Democratic,"Wiesner, Patrick",69,00019A
+RICE,Sterling City East Ward,United States Senate,,Libertarian,"Garrard, Robert D.",29,00019A
+RICE,Sterling City East Ward,United States Senate,,Republican,"Moran, Jerry",426,00019A
+RICE,Sterling City East Ward Exclave A,United States Senate,,write - in,"Smith, DJ",0,00019B
+RICE,Sterling City East Ward Exclave A,United States Senate,,Democratic,"Wiesner, Patrick",0,00019B
+RICE,Sterling City East Ward Exclave A,United States Senate,,Libertarian,"Garrard, Robert D.",0,00019B
+RICE,Sterling City East Ward Exclave A,United States Senate,,Republican,"Moran, Jerry",0,00019B
+RICE,Sterling City East Ward Exclave B,United States Senate,,write - in,"Smith, DJ",0,00019C
+RICE,Sterling City East Ward Exclave B,United States Senate,,Democratic,"Wiesner, Patrick",0,00019C
+RICE,Sterling City East Ward Exclave B,United States Senate,,Libertarian,"Garrard, Robert D.",0,00019C
+RICE,Sterling City East Ward Exclave B,United States Senate,,Republican,"Moran, Jerry",0,00019C
+RICE,Sterling City West Ward,United States Senate,,write - in,"Smith, DJ",0,000200
+RICE,Sterling City West Ward,United States Senate,,Democratic,"Wiesner, Patrick",54,000200
+RICE,Sterling City West Ward,United States Senate,,Libertarian,"Garrard, Robert D.",22,000200
+RICE,Sterling City West Ward,United States Senate,,Republican,"Moran, Jerry",243,000200
+RICE,Sterling Township,United States Senate,,write - in,"Smith, DJ",0,000210
+RICE,Sterling Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000210
+RICE,Sterling Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000210
+RICE,Sterling Township,United States Senate,,Republican,"Moran, Jerry",73,000210
+RICE,Union Township,United States Senate,,write - in,"Smith, DJ",0,000220
+RICE,Union Township,United States Senate,,Democratic,"Wiesner, Patrick",51,000220
+RICE,Union Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000220
+RICE,Union Township,United States Senate,,Republican,"Moran, Jerry",243,000220
+RICE,Valley Township,United States Senate,,write - in,"Smith, DJ",0,000230
+RICE,Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",22,000230
+RICE,Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000230
+RICE,Valley Township,United States Senate,,Republican,"Moran, Jerry",85,000230
+RICE,Victoria Township,United States Senate,,write - in,"Smith, DJ",0,000240
+RICE,Victoria Township,United States Senate,,Democratic,"Wiesner, Patrick",24,000240
+RICE,Victoria Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000240
+RICE,Victoria Township,United States Senate,,Republican,"Moran, Jerry",110,000240
+RICE,West Washington Township,United States Senate,,write - in,"Smith, DJ",0,000250
+RICE,West Washington Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000250
+RICE,West Washington Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000250
+RICE,West Washington Township,United States Senate,,Republican,"Moran, Jerry",45,000250
+RICE,Wilson Township,United States Senate,,write - in,"Smith, DJ",0,000260
+RICE,Wilson Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000260
+RICE,Wilson Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000260
+RICE,Wilson Township,United States Senate,,Republican,"Moran, Jerry",59,000260

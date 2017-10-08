@@ -1,1 +1,685 @@
-county,precinct,office,district,candidate,party,votesRussell,1st,U.S. House,1,Alan LaPolice,IND,74Russell,2nd,U.S. House,1,Alan LaPolice,IND,121Russell,3rd,U.S. House,1,Alan LaPolice,IND,111Russell,4th,U.S. House,1,Alan LaPolice,IND,89Russell,4th,U.S. House,1,Alan LaPolice,IND,89Russell,Lulu,U.S. House,1,Alan LaPolice,IND,7Russell,Ash,U.S. House,1,Alan LaPolice,IND,22Russell,Log,U.S. House,1,Alan LaPolice,IND,14Russell,Eur,U.S. House,1,Alan LaPolice,IND,6Russell,Plum,U.S. House,1,Alan LaPolice,IND,12Russell,Beloit,U.S. House,1,Alan LaPolice,IND,22Russell,Bloom,U.S. House,1,Alan LaPolice,IND,6Russell,Salt,U.S. House,1,Alan LaPolice,IND,3Russell,Sol Rap,U.S. House,1,Alan LaPolice,IND,8Russell,Tky Crk,U.S. House,1,Alan LaPolice,IND,17Russell,Ctr,U.S. House,1,Alan LaPolice,IND,2Russell,Rnd Spg,U.S. House,1,Alan LaPolice,IND,1Russell,Glen,U.S. House,1,Alan LaPolice,IND,52Russell,Wnt Crk,U.S. House,1,Alan LaPolice,IND,8Russell,Hayes,U.S. House,1,Alan LaPolice,IND,3Russell,Blue,U.S. House,1,Alan LaPolice,IND,6Russell,Cwkr,U.S. House,1,Alan LaPolice,IND,57Russell,Carr,U.S. House,1,Alan LaPolice,IND,4Russell,Pitts,U.S. House,1,Alan LaPolice,IND,18Russell,Cust,U.S. House,1,Alan LaPolice,IND,8Russell,1st,State Senate,36,Brian Angevine,DEM,26Russell,2nd,State Senate,36,Brian Angevine,DEM,51Russell,3rd,State Senate,36,Brian Angevine,DEM,48Russell,4th,State Senate,36,Brian Angevine,DEM,38Russell,4th,State Senate,36,Brian Angevine,DEM,38Russell,Lulu,State Senate,36,Brian Angevine,DEM,0Russell,Ash,State Senate,36,Brian Angevine,DEM,6Russell,Log,State Senate,36,Brian Angevine,DEM,3Russell,Eur,State Senate,36,Brian Angevine,DEM,2Russell,Plum,State Senate,36,Brian Angevine,DEM,0Russell,Beloit,State Senate,36,Brian Angevine,DEM,6Russell,Bloom,State Senate,36,Brian Angevine,DEM,6Russell,Salt,State Senate,36,Brian Angevine,DEM,2Russell,Sol Rap,State Senate,36,Brian Angevine,DEM,5Russell,Tky Crk,State Senate,36,Brian Angevine,DEM,7Russell,Ctr,State Senate,36,Brian Angevine,DEM,0Russell,Rnd Spg,State Senate,36,Brian Angevine,DEM,0Russell,Glen,State Senate,36,Brian Angevine,DEM,25Russell,Wnt Crk,State Senate,36,Brian Angevine,DEM,4Russell,Hayes,State Senate,36,Brian Angevine,DEM,1Russell,Blue,State Senate,36,Brian Angevine,DEM,2Russell,Cwkr,State Senate,36,Brian Angevine,DEM,26Russell,Carr,State Senate,36,Brian Angevine,DEM,0Russell,Pitts,State Senate,36,Brian Angevine,DEM,13Russell,Cust,State Senate,36,Brian Angevine,DEM,10Russell,1st,President,,Hillary Clinton,DEM,51Russell,2nd,President,,Hillary Clinton,DEM,106Russell,3rd,President,,Hillary Clinton,DEM,72Russell,4th,President,,Hillary Clinton,DEM,86Russell,4th,President,,Hillary Clinton,DEM,86Russell,Lulu,President,,Hillary Clinton,DEM,2Russell,Ash,President,,Hillary Clinton,DEM,10Russell,Log,President,,Hillary Clinton,DEM,7Russell,Eur,President,,Hillary Clinton,DEM,7Russell,Plum,President,,Hillary Clinton,DEM,5Russell,Beloit,President,,Hillary Clinton,DEM,23Russell,Bloom,President,,Hillary Clinton,DEM,6Russell,Salt,President,,Hillary Clinton,DEM,2Russell,Sol Rap,President,,Hillary Clinton,DEM,8Russell,Tky Crk,President,,Hillary Clinton,DEM,8Russell,Ctr,President,,Hillary Clinton,DEM,0Russell,Rnd Spg,President,,Hillary Clinton,DEM,0Russell,Glen,President,,Hillary Clinton,DEM,34Russell,Wnt Crk,President,,Hillary Clinton,DEM,3Russell,Hayes,President,,Hillary Clinton,DEM,1Russell,Blue,President,,Hillary Clinton,DEM,0Russell,Cwkr,President,,Hillary Clinton,DEM,24Russell,Carr,President,,Hillary Clinton,DEM,0Russell,Pitts,President,,Hillary Clinton,DEM,13Russell,Cust,President,,Hillary Clinton,DEM,9Russell,1st,State Senate,36,Elaine Bowers,REP,238Russell,2nd,State Senate,36,Elaine Bowers,REP,413Russell,3rd,State Senate,36,Elaine Bowers,REP,406Russell,4th,State Senate,36,Elaine Bowers,REP,346Russell,4th,State Senate,36,Elaine Bowers,REP,346Russell,Lulu,State Senate,36,Elaine Bowers,REP,39Russell,Ash,State Senate,36,Elaine Bowers,REP,44Russell,Log,State Senate,36,Elaine Bowers,REP,41Russell,Eur,State Senate,36,Elaine Bowers,REP,13Russell,Plum,State Senate,36,Elaine Bowers,REP,62Russell,Beloit,State Senate,36,Elaine Bowers,REP,111Russell,Bloom,State Senate,36,Elaine Bowers,REP,36Russell,Salt,State Senate,36,Elaine Bowers,REP,16Russell,Sol Rap,State Senate,36,Elaine Bowers,REP,33Russell,Tky Crk,State Senate,36,Elaine Bowers,REP,64Russell,Ctr,State Senate,36,Elaine Bowers,REP,16Russell,Rnd Spg,State Senate,36,Elaine Bowers,REP,14Russell,Glen,State Senate,36,Elaine Bowers,REP,222Russell,Wnt Crk,State Senate,36,Elaine Bowers,REP,21Russell,Hayes,State Senate,36,Elaine Bowers,REP,16Russell,Blue,State Senate,36,Elaine Bowers,REP,19Russell,Cwkr,State Senate,36,Elaine Bowers,REP,214Russell,Carr,State Senate,36,Elaine Bowers,REP,13Russell,Pitts,State Senate,36,Elaine Bowers,REP,136Russell,Cust,State Senate,36,Elaine Bowers,REP,56Russell,1st,U.S. Senate,,Jerry Moran,REP,226Russell,2nd,U.S. Senate,,Jerry Moran,REP,383Russell,3rd,U.S. Senate,,Jerry Moran,REP,369Russell,4th,U.S. Senate,,Jerry Moran,REP,326Russell,4th,U.S. Senate,,Jerry Moran,REP,326Russell,Lulu,U.S. Senate,,Jerry Moran,REP,38Russell,Ash,U.S. Senate,,Jerry Moran,REP,37Russell,Log,U.S. Senate,,Jerry Moran,REP,40Russell,Eur,U.S. Senate,,Jerry Moran,REP,13Russell,Plum,U.S. Senate,,Jerry Moran,REP,62Russell,Beloit,U.S. Senate,,Jerry Moran,REP,101Russell,Bloom,U.S. Senate,,Jerry Moran,REP,36Russell,Salt,U.S. Senate,,Jerry Moran,REP,17Russell,Sol Rap,U.S. Senate,,Jerry Moran,REP,27Russell,Tky Crk,U.S. Senate,,Jerry Moran,REP,68Russell,Ctr,U.S. Senate,,Jerry Moran,REP,16Russell,Rnd Spg,U.S. Senate,,Jerry Moran,REP,14Russell,Glen,U.S. Senate,,Jerry Moran,REP,221Russell,Wnt Crk,U.S. Senate,,Jerry Moran,REP,20Russell,Hayes,U.S. Senate,,Jerry Moran,REP,15Russell,Blue,U.S. Senate,,Jerry Moran,REP,20Russell,Cwkr,U.S. Senate,,Jerry Moran,REP,204Russell,Carr,U.S. Senate,,Jerry Moran,REP,13Russell,Pitts,U.S. Senate,,Jerry Moran,REP,141Russell,Cust,U.S. Senate,,Jerry Moran,REP,56Russell,1st,President,,Gary Johnson,LBT,13Russell,2nd,President,,Gary Johnson,LBT,15Russell,3rd,President,,Gary Johnson,LBT,16Russell,4th,President,,Gary Johnson,LBT,11Russell,4th,President,,Gary Johnson,LBT,11Russell,Lulu,President,,Gary Johnson,LBT,1Russell,Ash,President,,Gary Johnson,LBT,0Russell,Log,President,,Gary Johnson,LBT,2Russell,Eur,President,,Gary Johnson,LBT,0Russell,Plum,President,,Gary Johnson,LBT,0Russell,Beloit,President,,Gary Johnson,LBT,5Russell,Bloom,President,,Gary Johnson,LBT,0Russell,Salt,President,,Gary Johnson,LBT,0Russell,Sol Rap,President,,Gary Johnson,LBT,1Russell,Tky Crk,President,,Gary Johnson,LBT,1Russell,Ctr,President,,Gary Johnson,LBT,2Russell,Rnd Spg,President,,Gary Johnson,LBT,1Russell,Glen,President,,Gary Johnson,LBT,8Russell,Wnt Crk,President,,Gary Johnson,LBT,1Russell,Hayes,President,,Gary Johnson,LBT,0Russell,Blue,President,,Gary Johnson,LBT,2Russell,Cwkr,President,,Gary Johnson,LBT,7Russell,Carr,President,,Gary Johnson,LBT,0Russell,Pitts,President,,Gary Johnson,LBT,2Russell,Cust,President,,Gary Johnson,LBT,1Russell,1st,U.S. House,1,Kerry Burt,LBT,10Russell,2nd,U.S. House,1,Kerry Burt,LBT,12Russell,3rd,U.S. House,1,Kerry Burt,LBT,17Russell,4th,U.S. House,1,Kerry Burt,LBT,9Russell,4th,U.S. House,1,Kerry Burt,LBT,9Russell,Lulu,U.S. House,1,Kerry Burt,LBT,1Russell,Ash,U.S. House,1,Kerry Burt,LBT,2Russell,Log,U.S. House,1,Kerry Burt,LBT,0Russell,Eur,U.S. House,1,Kerry Burt,LBT,0Russell,Plum,U.S. House,1,Kerry Burt,LBT,2Russell,Beloit,U.S. House,1,Kerry Burt,LBT,8Russell,Bloom,U.S. House,1,Kerry Burt,LBT,2Russell,Salt,U.S. House,1,Kerry Burt,LBT,0Russell,Sol Rap,U.S. House,1,Kerry Burt,LBT,2Russell,Tky Crk,U.S. House,1,Kerry Burt,LBT,2Russell,Ctr,U.S. House,1,Kerry Burt,LBT,0Russell,Rnd Spg,U.S. House,1,Kerry Burt,LBT,0Russell,Glen,U.S. House,1,Kerry Burt,LBT,7Russell,Wnt Crk,U.S. House,1,Kerry Burt,LBT,0Russell,Hayes,U.S. House,1,Kerry Burt,LBT,0Russell,Blue,U.S. House,1,Kerry Burt,LBT,2Russell,Cwkr,U.S. House,1,Kerry Burt,LBT,16Russell,Carr,U.S. House,1,Kerry Burt,LBT,0Russell,Pitts,U.S. House,1,Kerry Burt,LBT,7Russell,Cust,U.S. House,1,Kerry Burt,LBT,0Russell,1st,U.S. Senate,,Patrick Wiesner,DEM,31Russell,2nd,U.S. Senate,,Patrick Wiesner,DEM,74Russell,3rd,U.S. Senate,,Patrick Wiesner,DEM,65Russell,4th,U.S. Senate,,Patrick Wiesner,DEM,49Russell,4th,U.S. Senate,,Patrick Wiesner,DEM,49Russell,Lulu,U.S. Senate,,Patrick Wiesner,DEM,1Russell,Ash,U.S. Senate,,Patrick Wiesner,DEM,7Russell,Log,U.S. Senate,,Patrick Wiesner,DEM,5Russell,Eur,U.S. Senate,,Patrick Wiesner,DEM,2Russell,Plum,U.S. Senate,,Patrick Wiesner,DEM,3Russell,Beloit,U.S. Senate,,Patrick Wiesner,DEM,13Russell,Bloom,U.S. Senate,,Patrick Wiesner,DEM,3Russell,Salt,U.S. Senate,,Patrick Wiesner,DEM,0Russell,Sol Rap,U.S. Senate,,Patrick Wiesner,DEM,9Russell,Tky Crk,U.S. Senate,,Patrick Wiesner,DEM,3Russell,Ctr,U.S. Senate,,Patrick Wiesner,DEM,0Russell,Rnd Spg,U.S. Senate,,Patrick Wiesner,DEM,1Russell,Glen,U.S. Senate,,Patrick Wiesner,DEM,22Russell,Wnt Crk,U.S. Senate,,Patrick Wiesner,DEM,4Russell,Hayes,U.S. Senate,,Patrick Wiesner,DEM,1Russell,Blue,U.S. Senate,,Patrick Wiesner,DEM,0Russell,Cwkr,U.S. Senate,,Patrick Wiesner,DEM,27Russell,Carr,U.S. Senate,,Patrick Wiesner,DEM,0Russell,Pitts,U.S. Senate,,Patrick Wiesner,DEM,8Russell,Cust,U.S. Senate,,Patrick Wiesner,DEM,8Russell,1st,U.S. Senate,,Robert Garrard,LBT,14Russell,2nd,U.S. Senate,,Robert Garrard,LBT,13Russell,3rd,U.S. Senate,,Robert Garrard,LBT,21Russell,4th,U.S. Senate,,Robert Garrard,LBT,14Russell,4th,U.S. Senate,,Robert Garrard,LBT,14Russell,Lulu,U.S. Senate,,Robert Garrard,LBT,1Russell,Ash,U.S. Senate,,Robert Garrard,LBT,6Russell,Log,U.S. Senate,,Robert Garrard,LBT,1Russell,Eur,U.S. Senate,,Robert Garrard,LBT,0Russell,Plum,U.S. Senate,,Robert Garrard,LBT,3Russell,Beloit,U.S. Senate,,Robert Garrard,LBT,3Russell,Bloom,U.S. Senate,,Robert Garrard,LBT,1Russell,Salt,U.S. Senate,,Robert Garrard,LBT,1Russell,Sol Rap,U.S. Senate,,Robert Garrard,LBT,2Russell,Tky Crk,U.S. Senate,,Robert Garrard,LBT,1Russell,Ctr,U.S. Senate,,Robert Garrard,LBT,0Russell,Rnd Spg,U.S. Senate,,Robert Garrard,LBT,0Russell,Glen,U.S. Senate,,Robert Garrard,LBT,11Russell,Wnt Crk,U.S. Senate,,Robert Garrard,LBT,1Russell,Hayes,U.S. Senate,,Robert Garrard,LBT,1Russell,Blue,U.S. Senate,,Robert Garrard,LBT,2Russell,Cwkr,U.S. Senate,,Robert Garrard,LBT,10Russell,Carr,U.S. Senate,,Robert Garrard,LBT,0Russell,Pitts,U.S. Senate,,Robert Garrard,LBT,5Russell,Cust,U.S. Senate,,Robert Garrard,LBT,3Russell,1st,U.S. House,1,Roger Marshall,REP,182Russell,2nd,U.S. House,1,Roger Marshall,REP,331Russell,3rd,U.S. House,1,Roger Marshall,REP,321Russell,4th,U.S. House,1,Roger Marshall,REP,278Russell,4th,U.S. House,1,Roger Marshall,REP,278Russell,Lulu,U.S. House,1,Roger Marshall,REP,32Russell,Ash,U.S. House,1,Roger Marshall,REP,26Russell,Log,U.S. House,1,Roger Marshall,REP,30Russell,Eur,U.S. House,1,Roger Marshall,REP,9Russell,Plum,U.S. House,1,Roger Marshall,REP,51Russell,Beloit,U.S. House,1,Roger Marshall,REP,85Russell,Bloom,U.S. House,1,Roger Marshall,REP,34Russell,Salt,U.S. House,1,Roger Marshall,REP,15Russell,Sol Rap,U.S. House,1,Roger Marshall,REP,27Russell,Tky Crk,U.S. House,1,Roger Marshall,REP,54Russell,Ctr,U.S. House,1,Roger Marshall,REP,13Russell,Rnd Spg,U.S. House,1,Roger Marshall,REP,14Russell,Glen,U.S. House,1,Roger Marshall,REP,188Russell,Wnt Crk,U.S. House,1,Roger Marshall,REP,17Russell,Hayes,U.S. House,1,Roger Marshall,REP,14Russell,Blue,U.S. House,1,Roger Marshall,REP,14Russell,Cwkr,U.S. House,1,Roger Marshall,REP,168Russell,Carr,U.S. House,1,Roger Marshall,REP,9Russell,Pitts,U.S. House,1,Roger Marshall,REP,125Russell,Cust,U.S. House,1,Roger Marshall,REP,55Russell,1st,President,,Jill Stein,IND,4Russell,2nd,President,,Jill Stein,IND,4Russell,3rd,President,,Jill Stein,IND,7Russell,4th,President,,Jill Stein,IND,9Russell,4th,President,,Jill Stein,IND,9Russell,Lulu,President,,Jill Stein,IND,1Russell,Ash,President,,Jill Stein,IND,2Russell,Log,President,,Jill Stein,IND,0Russell,Eur,President,,Jill Stein,IND,0Russell,Plum,President,,Jill Stein,IND,0Russell,Beloit,President,,Jill Stein,IND,1Russell,Bloom,President,,Jill Stein,IND,0Russell,Salt,President,,Jill Stein,IND,1Russell,Sol Rap,President,,Jill Stein,IND,3Russell,Tky Crk,President,,Jill Stein,IND,2Russell,Ctr,President,,Jill Stein,IND,0Russell,Rnd Spg,President,,Jill Stein,IND,0Russell,Glen,President,,Jill Stein,IND,7Russell,Wnt Crk,President,,Jill Stein,IND,2Russell,Hayes,President,,Jill Stein,IND,1Russell,Blue,President,,Jill Stein,IND,0Russell,Cwkr,President,,Jill Stein,IND,6Russell,Carr,President,,Jill Stein,IND,0Russell,Pitts,President,,Jill Stein,IND,3Russell,Cust,President,,Jill Stein,IND,2Russell,1st,State House,107,Susan Concannon,REP,255Russell,2nd,State House,107,Susan Concannon,REP,442Russell,3rd,State House,107,Susan Concannon,REP,437Russell,4th,State House,107,Susan Concannon,REP,361Russell,4th,State House,107,Susan Concannon,REP,361Russell,Lulu,State House,107,Susan Concannon,REP,37Russell,Ash,State House,107,Susan Concannon,REP,46Russell,Log,State House,107,Susan Concannon,REP,44Russell,Eur,State House,107,Susan Concannon,REP,15Russell,Plum,State House,107,Susan Concannon,REP,59Russell,Beloit,State House,107,Susan Concannon,REP,114Russell,Bloom,State House,107,Susan Concannon,REP,38Russell,Salt,State House,107,Susan Concannon,REP,16Russell,Sol Rap,State House,107,Susan Concannon,REP,37Russell,Tky Crk,State House,107,Susan Concannon,REP,67Russell,Ctr,State House,107,Susan Concannon,REP,13Russell,Rnd Spg,State House,107,Susan Concannon,REP,13Russell,Glen,State House,107,Susan Concannon,REP,238Russell,Wnt Crk,State House,107,Susan Concannon,REP,23Russell,Hayes,State House,107,Susan Concannon,REP,17Russell,Blue,State House,107,Susan Concannon,REP,20Russell,Cwkr,State House,107,Susan Concannon,REP,222Russell,Carr,State House,107,Susan Concannon,REP,13Russell,Pitts,State House,107,Susan Concannon,REP,146Russell,Cust,State House,107,Susan Concannon,REP,64Russell,1st,President,,Donald Trump,REP,203Russell,2nd,President,,Donald Trump,REP,342Russell,3rd,President,,Donald Trump,REP,351Russell,4th,President,,Donald Trump,REP,286Russell,4th,President,,Donald Trump,REP,286Russell,Lulu,President,,Donald Trump,REP,36Russell,Ash,President,,Donald Trump,REP,36Russell,Log,President,,Donald Trump,REP,38Russell,Eur,President,,Donald Trump,REP,7Russell,Plum,President,,Donald Trump,REP,61Russell,Beloit,President,,Donald Trump,REP,91Russell,Bloom,President,,Donald Trump,REP,34Russell,Salt,President,,Donald Trump,REP,14Russell,Sol Rap,President,,Donald Trump,REP,28Russell,Tky Crk,President,,Donald Trump,REP,59Russell,Ctr,President,,Donald Trump,REP,13Russell,Rnd Spg,President,,Donald Trump,REP,15Russell,Glen,President,,Donald Trump,REP,200Russell,Wnt Crk,President,,Donald Trump,REP,19Russell,Hayes,President,,Donald Trump,REP,15Russell,Blue,President,,Donald Trump,REP,18Russell,Cwkr,President,,Donald Trump,REP,206Russell,Carr,President,,Donald Trump,REP,12Russell,Pitts,President,,Donald Trump,REP,134Russell,Cust,President,,Donald Trump,REP,90
+county,precinct,office,district,party,candidate,votes,vtd
+RUSSELL,Big Creek Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",218,000010
+RUSSELL,Center Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",127,000020
+RUSSELL,Fairfield Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",21,000030
+RUSSELL,Fairview Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",190,000040
+RUSSELL,Grant Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",99,000050
+RUSSELL,Lincoln Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",70,000060
+RUSSELL,Luray Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",99,000070
+RUSSELL,Paradise Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",82,000080
+RUSSELL,Plymouth Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",121,000090
+RUSSELL,Russell Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",62,000100
+RUSSELL,Russell Ward 1,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",420,000110
+RUSSELL,Russell Ward 2,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",483,000120
+RUSSELL,Russell Ward 3,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",424,000130
+RUSSELL,Russell Ward 4,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",455,00014A
+RUSSELL,Russell Ward 4 Exclave,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",0,00014B
+RUSSELL,Russell Ward 4 Exclave Airport,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",0,00014C
+RUSSELL,Waldo Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",53,000150
+RUSSELL,Winterset Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",34,000160
+RUSSELL,Russell Township Exclave,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",0,900010
+RUSSELL,Big Creek Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",20,000010
+RUSSELL,Big Creek Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",200,000010
+RUSSELL,Center Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",14,000020
+RUSSELL,Center Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",123,000020
+RUSSELL,Fairfield Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",1,000030
+RUSSELL,Fairfield Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",20,000030
+RUSSELL,Fairview Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",56,000040
+RUSSELL,Fairview Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",159,000040
+RUSSELL,Grant Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",7,000050
+RUSSELL,Grant Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",97,000050
+RUSSELL,Lincoln Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",10,000060
+RUSSELL,Lincoln Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",58,000060
+RUSSELL,Luray Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",20,000070
+RUSSELL,Luray Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",86,000070
+RUSSELL,Paradise Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",13,000080
+RUSSELL,Paradise Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",74,000080
+RUSSELL,Plymouth Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",19,000090
+RUSSELL,Plymouth Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",103,000090
+RUSSELL,Russell Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",9,000100
+RUSSELL,Russell Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",54,000100
+RUSSELL,Russell Ward 1,Kansas Senate,36,Democratic,"Angevine, Brian G.",49,000110
+RUSSELL,Russell Ward 1,Kansas Senate,36,Republican,"Bowers, Elaine S.",388,000110
+RUSSELL,Russell Ward 2,Kansas Senate,36,Democratic,"Angevine, Brian G.",75,000120
+RUSSELL,Russell Ward 2,Kansas Senate,36,Republican,"Bowers, Elaine S.",431,000120
+RUSSELL,Russell Ward 3,Kansas Senate,36,Democratic,"Angevine, Brian G.",58,000130
+RUSSELL,Russell Ward 3,Kansas Senate,36,Republican,"Bowers, Elaine S.",388,000130
+RUSSELL,Russell Ward 4,Kansas Senate,36,Democratic,"Angevine, Brian G.",56,00014A
+RUSSELL,Russell Ward 4,Kansas Senate,36,Republican,"Bowers, Elaine S.",412,00014A
+RUSSELL,Russell Ward 4 Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00014B
+RUSSELL,Russell Ward 4 Exclave Airport,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,00014C
+RUSSELL,Waldo Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",8,000150
+RUSSELL,Waldo Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",43,000150
+RUSSELL,Winterset Township,Kansas Senate,36,Democratic,"Angevine, Brian G.",4,000160
+RUSSELL,Winterset Township,Kansas Senate,36,Republican,"Bowers, Elaine S.",34,000160
+RUSSELL,Russell Township Exclave,Kansas Senate,36,Democratic,"Angevine, Brian G.",0,900010
+RUSSELL,Russell Township Exclave,Kansas Senate,36,Republican,"Bowers, Elaine S.",0,900010
+RUSSELL,Big Creek Township,President / Vice President,,independent,"Stein, Jill",1,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+RUSSELL,Big Creek Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000010
+RUSSELL,Big Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000010
+RUSSELL,Big Creek Township,President / Vice President,,Republican,"Trump, Donald J.",212,000010
+RUSSELL,Center Township,President / Vice President,,independent,"Stein, Jill",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+RUSSELL,Center Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+RUSSELL,Center Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000020
+RUSSELL,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000020
+RUSSELL,Center Township,President / Vice President,,Republican,"Trump, Donald J.",115,000020
+RUSSELL,Fairfield Township,President / Vice President,,independent,"Stein, Jill",1,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000030
+RUSSELL,Fairfield Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+RUSSELL,Fairfield Township,President / Vice President,,Republican,"Trump, Donald J.",18,000030
+RUSSELL,Fairview Township,President / Vice President,,independent,"Stein, Jill",3,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+RUSSELL,Fairview Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+RUSSELL,Fairview Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",54,000040
+RUSSELL,Fairview Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000040
+RUSSELL,Fairview Township,President / Vice President,,Republican,"Trump, Donald J.",160,000040
+RUSSELL,Grant Township,President / Vice President,,independent,"Stein, Jill",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+RUSSELL,Grant Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+RUSSELL,Grant Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000050
+RUSSELL,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000050
+RUSSELL,Grant Township,President / Vice President,,Republican,"Trump, Donald J.",96,000050
+RUSSELL,Lincoln Township,President / Vice President,,independent,"Stein, Jill",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+RUSSELL,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",9,000060
+RUSSELL,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000060
+RUSSELL,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",57,000060
+RUSSELL,Luray Township,President / Vice President,,independent,"Stein, Jill",3,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+RUSSELL,Luray Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+RUSSELL,Luray Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",17,000070
+RUSSELL,Luray Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000070
+RUSSELL,Luray Township,President / Vice President,,Republican,"Trump, Donald J.",86,000070
+RUSSELL,Paradise Township,President / Vice President,,independent,"Stein, Jill",1,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+RUSSELL,Paradise Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+RUSSELL,Paradise Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",12,000080
+RUSSELL,Paradise Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000080
+RUSSELL,Paradise Township,President / Vice President,,Republican,"Trump, Donald J.",78,000080
+RUSSELL,Plymouth Township,President / Vice President,,independent,"Stein, Jill",2,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+RUSSELL,Plymouth Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000090
+RUSSELL,Plymouth Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000090
+RUSSELL,Plymouth Township,President / Vice President,,Republican,"Trump, Donald J.",104,000090
+RUSSELL,Russell Township,President / Vice President,,independent,"Stein, Jill",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+RUSSELL,Russell Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+RUSSELL,Russell Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",5,000100
+RUSSELL,Russell Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+RUSSELL,Russell Township,President / Vice President,,Republican,"Trump, Donald J.",58,000100
+RUSSELL,Russell Ward 1,President / Vice President,,independent,"Stein, Jill",9,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+RUSSELL,Russell Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",49,000110
+RUSSELL,Russell Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",20,000110
+RUSSELL,Russell Ward 1,President / Vice President,,Republican,"Trump, Donald J.",359,000110
+RUSSELL,Russell Ward 2,President / Vice President,,independent,"Stein, Jill",10,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"McMullin, Evan",3,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+RUSSELL,Russell Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",88,000120
+RUSSELL,Russell Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",15,000120
+RUSSELL,Russell Ward 2,President / Vice President,,Republican,"Trump, Donald J.",402,000120
+RUSSELL,Russell Ward 3,President / Vice President,,independent,"Stein, Jill",8,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+RUSSELL,Russell Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",79,000130
+RUSSELL,Russell Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",12,000130
+RUSSELL,Russell Ward 3,President / Vice President,,Republican,"Trump, Donald J.",365,000130
+RUSSELL,Russell Ward 4,President / Vice President,,independent,"Stein, Jill",4,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Hedges, James A",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"McMullin, Evan",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Smith, Mike",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",69,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",16,00014A
+RUSSELL,Russell Ward 4,President / Vice President,,Republican,"Trump, Donald J.",386,00014A
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,independent,"Stein, Jill",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00014B
+RUSSELL,Russell Ward 4 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00014B
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,independent,"Stein, Jill",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Basiago, Andrew D.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Castle, Darrell L",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Giordani, Rocky",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Hedges, James A",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Hoefling, Tom",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Kahn, Lynn",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"La Riva, Gloria",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Levinson, Michael S.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Maturen, Michael A",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"McMullin, Evan",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Moorehead, Monica G.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Perry, Darryl",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Schriner, Joe C",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Smith, Mike",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Sood, Ajay",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Sterling, Shawna",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Valdivia, Anthony J",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,Libertarian,"Johnson, Gary",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,President / Vice President,,Republican,"Trump, Donald J.",0,00014C
+RUSSELL,Waldo Township,President / Vice President,,independent,"Stein, Jill",1,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Hedges, James A",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"McMullin, Evan",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Perry, Darryl",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Smith, Mike",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Sood, Ajay",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+RUSSELL,Waldo Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+RUSSELL,Waldo Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000150
+RUSSELL,Waldo Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000150
+RUSSELL,Waldo Township,President / Vice President,,Republican,"Trump, Donald J.",46,000150
+RUSSELL,Winterset Township,President / Vice President,,independent,"Stein, Jill",1,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Hedges, James A",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"McMullin, Evan",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Perry, Darryl",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Smith, Mike",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Sood, Ajay",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+RUSSELL,Winterset Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+RUSSELL,Winterset Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000160
+RUSSELL,Winterset Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000160
+RUSSELL,Winterset Township,President / Vice President,,Republican,"Trump, Donald J.",32,000160
+RUSSELL,Russell Township Exclave,President / Vice President,,independent,"Stein, Jill",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Hedges, James A",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Smith, Mike",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+RUSSELL,Russell Township Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+RUSSELL,Big Creek Township,United States House of Representatives,1,independent,"LaPolice, Alan",50,000010
+RUSSELL,Big Creek Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000010
+RUSSELL,Big Creek Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",15,000010
+RUSSELL,Big Creek Township,United States House of Representatives,1,Republican,"Marshall, Roger",163,000010
+RUSSELL,Center Township,United States House of Representatives,1,independent,"LaPolice, Alan",42,000020
+RUSSELL,Center Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000020
+RUSSELL,Center Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000020
+RUSSELL,Center Township,United States House of Representatives,1,Republican,"Marshall, Roger",90,000020
+RUSSELL,Fairfield Township,United States House of Representatives,1,independent,"LaPolice, Alan",4,000030
+RUSSELL,Fairfield Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000030
+RUSSELL,Fairfield Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",1,000030
+RUSSELL,Fairfield Township,United States House of Representatives,1,Republican,"Marshall, Roger",16,000030
+RUSSELL,Fairview Township,United States House of Representatives,1,independent,"LaPolice, Alan",62,000040
+RUSSELL,Fairview Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000040
+RUSSELL,Fairview Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",13,000040
+RUSSELL,Fairview Township,United States House of Representatives,1,Republican,"Marshall, Roger",143,000040
+RUSSELL,Grant Township,United States House of Representatives,1,independent,"LaPolice, Alan",29,000050
+RUSSELL,Grant Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000050
+RUSSELL,Grant Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000050
+RUSSELL,Grant Township,United States House of Representatives,1,Republican,"Marshall, Roger",72,000050
+RUSSELL,Lincoln Township,United States House of Representatives,1,independent,"LaPolice, Alan",17,000060
+RUSSELL,Lincoln Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000060
+RUSSELL,Lincoln Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,000060
+RUSSELL,Lincoln Township,United States House of Representatives,1,Republican,"Marshall, Roger",53,000060
+RUSSELL,Luray Township,United States House of Representatives,1,independent,"LaPolice, Alan",33,000070
+RUSSELL,Luray Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000070
+RUSSELL,Luray Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",7,000070
+RUSSELL,Luray Township,United States House of Representatives,1,Republican,"Marshall, Roger",65,000070
+RUSSELL,Paradise Township,United States House of Representatives,1,independent,"LaPolice, Alan",30,000080
+RUSSELL,Paradise Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000080
+RUSSELL,Paradise Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000080
+RUSSELL,Paradise Township,United States House of Representatives,1,Republican,"Marshall, Roger",54,000080
+RUSSELL,Plymouth Township,United States House of Representatives,1,independent,"LaPolice, Alan",36,000090
+RUSSELL,Plymouth Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000090
+RUSSELL,Plymouth Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000090
+RUSSELL,Plymouth Township,United States House of Representatives,1,Republican,"Marshall, Roger",93,000090
+RUSSELL,Russell Township,United States House of Representatives,1,independent,"LaPolice, Alan",28,000100
+RUSSELL,Russell Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000100
+RUSSELL,Russell Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000100
+RUSSELL,Russell Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000100
+RUSSELL,Russell Ward 1,United States House of Representatives,1,independent,"LaPolice, Alan",128,000110
+RUSSELL,Russell Ward 1,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000110
+RUSSELL,Russell Ward 1,United States House of Representatives,1,Libertarian,"Burt, Kerry",18,000110
+RUSSELL,Russell Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",290,000110
+RUSSELL,Russell Ward 2,United States House of Representatives,1,independent,"LaPolice, Alan",166,000120
+RUSSELL,Russell Ward 2,United States House of Representatives,1,write - in,"Huelskamp, Tim",2,000120
+RUSSELL,Russell Ward 2,United States House of Representatives,1,Libertarian,"Burt, Kerry",12,000120
+RUSSELL,Russell Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",333,000120
+RUSSELL,Russell Ward 3,United States House of Representatives,1,independent,"LaPolice, Alan",132,000130
+RUSSELL,Russell Ward 3,United States House of Representatives,1,write - in,"Huelskamp, Tim",3,000130
+RUSSELL,Russell Ward 3,United States House of Representatives,1,Libertarian,"Burt, Kerry",10,000130
+RUSSELL,Russell Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",312,000130
+RUSSELL,Russell Ward 4,United States House of Representatives,1,independent,"LaPolice, Alan",145,00014A
+RUSSELL,Russell Ward 4,United States House of Representatives,1,write - in,"Huelskamp, Tim",3,00014A
+RUSSELL,Russell Ward 4,United States House of Representatives,1,Libertarian,"Burt, Kerry",17,00014A
+RUSSELL,Russell Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",306,00014A
+RUSSELL,Russell Ward 4 Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00014B
+RUSSELL,Russell Ward 4 Exclave Airport,United States House of Representatives,1,independent,"LaPolice, Alan",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States House of Representatives,1,Republican,"Marshall, Roger",0,00014C
+RUSSELL,Waldo Township,United States House of Representatives,1,independent,"LaPolice, Alan",15,000150
+RUSSELL,Waldo Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,000150
+RUSSELL,Waldo Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",4,000150
+RUSSELL,Waldo Township,United States House of Representatives,1,Republican,"Marshall, Roger",39,000150
+RUSSELL,Winterset Township,United States House of Representatives,1,independent,"LaPolice, Alan",10,000160
+RUSSELL,Winterset Township,United States House of Representatives,1,write - in,"Huelskamp, Tim",1,000160
+RUSSELL,Winterset Township,United States House of Representatives,1,Libertarian,"Burt, Kerry",2,000160
+RUSSELL,Winterset Township,United States House of Representatives,1,Republican,"Marshall, Roger",24,000160
+RUSSELL,Russell Township Exclave,United States House of Representatives,1,independent,"LaPolice, Alan",0,900010
+RUSSELL,Russell Township Exclave,United States House of Representatives,1,write - in,"Huelskamp, Tim",0,900010
+RUSSELL,Russell Township Exclave,United States House of Representatives,1,Libertarian,"Burt, Kerry",0,900010
+RUSSELL,Russell Township Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,900010
+RUSSELL,Big Creek Township,United States Senate,,write - in,"Smith, DJ",0,000010
+RUSSELL,Big Creek Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000010
+RUSSELL,Big Creek Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000010
+RUSSELL,Big Creek Township,United States Senate,,Republican,"Moran, Jerry",202,000010
+RUSSELL,Center Township,United States Senate,,write - in,"Smith, DJ",0,000020
+RUSSELL,Center Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000020
+RUSSELL,Center Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000020
+RUSSELL,Center Township,United States Senate,,Republican,"Moran, Jerry",115,000020
+RUSSELL,Fairfield Township,United States Senate,,write - in,"Smith, DJ",0,000030
+RUSSELL,Fairfield Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000030
+RUSSELL,Fairfield Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+RUSSELL,Fairfield Township,United States Senate,,Republican,"Moran, Jerry",19,000030
+RUSSELL,Fairview Township,United States Senate,,write - in,"Smith, DJ",0,000040
+RUSSELL,Fairview Township,United States Senate,,Democratic,"Wiesner, Patrick",41,000040
+RUSSELL,Fairview Township,United States Senate,,Libertarian,"Garrard, Robert D.",12,000040
+RUSSELL,Fairview Township,United States Senate,,Republican,"Moran, Jerry",175,000040
+RUSSELL,Grant Township,United States Senate,,write - in,"Smith, DJ",0,000050
+RUSSELL,Grant Township,United States Senate,,Democratic,"Wiesner, Patrick",5,000050
+RUSSELL,Grant Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000050
+RUSSELL,Grant Township,United States Senate,,Republican,"Moran, Jerry",99,000050
+RUSSELL,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000060
+RUSSELL,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000060
+RUSSELL,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000060
+RUSSELL,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",62,000060
+RUSSELL,Luray Township,United States Senate,,write - in,"Smith, DJ",0,000070
+RUSSELL,Luray Township,United States Senate,,Democratic,"Wiesner, Patrick",18,000070
+RUSSELL,Luray Township,United States Senate,,Libertarian,"Garrard, Robert D.",7,000070
+RUSSELL,Luray Township,United States Senate,,Republican,"Moran, Jerry",84,000070
+RUSSELL,Paradise Township,United States Senate,,write - in,"Smith, DJ",0,000080
+RUSSELL,Paradise Township,United States Senate,,Democratic,"Wiesner, Patrick",10,000080
+RUSSELL,Paradise Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000080
+RUSSELL,Paradise Township,United States Senate,,Republican,"Moran, Jerry",73,000080
+RUSSELL,Plymouth Township,United States Senate,,write - in,"Smith, DJ",0,000090
+RUSSELL,Plymouth Township,United States Senate,,Democratic,"Wiesner, Patrick",13,000090
+RUSSELL,Plymouth Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000090
+RUSSELL,Plymouth Township,United States Senate,,Republican,"Moran, Jerry",118,000090
+RUSSELL,Russell Township,United States Senate,,write - in,"Smith, DJ",0,000100
+RUSSELL,Russell Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000100
+RUSSELL,Russell Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000100
+RUSSELL,Russell Township,United States Senate,,Republican,"Moran, Jerry",56,000100
+RUSSELL,Russell Ward 1,United States Senate,,write - in,"Smith, DJ",0,000110
+RUSSELL,Russell Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",45,000110
+RUSSELL,Russell Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",32,000110
+RUSSELL,Russell Ward 1,United States Senate,,Republican,"Moran, Jerry",366,000110
+RUSSELL,Russell Ward 2,United States Senate,,write - in,"Smith, DJ",0,000120
+RUSSELL,Russell Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",62,000120
+RUSSELL,Russell Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",27,000120
+RUSSELL,Russell Ward 2,United States Senate,,Republican,"Moran, Jerry",423,000120
+RUSSELL,Russell Ward 3,United States Senate,,write - in,"Smith, DJ",0,000130
+RUSSELL,Russell Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",61,000130
+RUSSELL,Russell Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",22,000130
+RUSSELL,Russell Ward 3,United States Senate,,Republican,"Moran, Jerry",375,000130
+RUSSELL,Russell Ward 4,United States Senate,,write - in,"Smith, DJ",0,00014A
+RUSSELL,Russell Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",65,00014A
+RUSSELL,Russell Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",23,00014A
+RUSSELL,Russell Ward 4,United States Senate,,Republican,"Moran, Jerry",387,00014A
+RUSSELL,Russell Ward 4 Exclave,United States Senate,,write - in,"Smith, DJ",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00014B
+RUSSELL,Russell Ward 4 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00014B
+RUSSELL,Russell Ward 4 Exclave Airport,United States Senate,,write - in,"Smith, DJ",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States Senate,,Democratic,"Wiesner, Patrick",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States Senate,,Libertarian,"Garrard, Robert D.",0,00014C
+RUSSELL,Russell Ward 4 Exclave Airport,United States Senate,,Republican,"Moran, Jerry",0,00014C
+RUSSELL,Waldo Township,United States Senate,,write - in,"Smith, DJ",0,000150
+RUSSELL,Waldo Township,United States Senate,,Democratic,"Wiesner, Patrick",7,000150
+RUSSELL,Waldo Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000150
+RUSSELL,Waldo Township,United States Senate,,Republican,"Moran, Jerry",48,000150
+RUSSELL,Winterset Township,United States Senate,,write - in,"Smith, DJ",0,000160
+RUSSELL,Winterset Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000160
+RUSSELL,Winterset Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000160
+RUSSELL,Winterset Township,United States Senate,,Republican,"Moran, Jerry",33,000160
+RUSSELL,Russell Township Exclave,United States Senate,,write - in,"Smith, DJ",0,900010
+RUSSELL,Russell Township Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+RUSSELL,Russell Township Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+RUSSELL,Russell Township Exclave,United States Senate,,Republican,"Moran, Jerry",0,900010

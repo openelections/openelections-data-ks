@@ -1,197 +1,469 @@
-county,precinct,office,district,party,candidate,votes
-Edwards,01 Kinsley Ward 1,Voters,,Republican,Ballots,118
-Edwards,01 Kinsley Ward 1,Voters,,Democratic,Ballots,25
-Edwards,01 Kinsley Ward 1,U.S. Senate,,Republican,Jerry Moran,95
-Edwards,01 Kinsley Ward 1,U.S. Senate,,Republican,DJ Smith,17
-Edwards,01 Kinsley Ward 1,U.S. House,4,Republican,Michael Pompeo,102
-Edwards,01 Kinsley Ward 1,State Senate,33,Republican,Larry Salwans,61
-Edwards,01 Kinsley Ward 1,State Senate,33,Republican,Mary Jo Taylor,52
-Edwards,01 Kinsley Ward 1,State House,117,Republican,Leonard Mastroni,82
-Edwards,01 Kinsley Ward 1,U.S. Senate,,Democratic,Monique Singh,5
-Edwards,01 Kinsley Ward 1,U.S. Senate,,Democratic,Patrick Wiesner,14
-Edwards,01 Kinsley Ward 1,U.S. House,4,Democratic,Robert Tillman,14
-Edwards,01 Kinsley Ward 1,State Senate,33,Democratic,Daniel Giroux,6
-Edwards,01 Kinsley Ward 1,State Senate,33,Democratic,Matt Bristow,15
-Edwards,02 Kinsley Ward 2,Voters,,Republican,Ballots,129
-Edwards,02 Kinsley Ward 2,Voters,,Democratic,Ballots,20
-Edwards,02 Kinsley Ward 2,U.S. Senate,,Republican,Jerry Moran,98
-Edwards,02 Kinsley Ward 2,U.S. Senate,,Republican,DJ Smith,29
-Edwards,02 Kinsley Ward 2,U.S. House,4,Republican,Michael Pompeo,102
-Edwards,02 Kinsley Ward 2,State Senate,33,Republican,Larry Salwans,50
-Edwards,02 Kinsley Ward 2,State Senate,33,Republican,Mary Jo Taylor,79
-Edwards,02 Kinsley Ward 2,State House,117,Republican,Leonard Mastroni,95
-Edwards,02 Kinsley Ward 2,U.S. Senate,,Democratic,Monique Singh,2
-Edwards,02 Kinsley Ward 2,U.S. Senate,,Democratic,Patrick Wiesner,16
-Edwards,02 Kinsley Ward 2,U.S. House,4,Democratic,Robert Tillman,10
-Edwards,02 Kinsley Ward 2,State Senate,33,Democratic,Daniel Giroux,10
-Edwards,02 Kinsley Ward 2,State Senate,33,Democratic,Matt Bristow,15
-Edwards,03 Lewis City,Voters,,Republican,Ballots,50
-Edwards,03 Lewis City,Voters,,Democratic,Ballots,10
-Edwards,03 Lewis City,U.S. Senate,,Republican,Jerry Moran,44
-Edwards,03 Lewis City,U.S. Senate,,Republican,DJ Smith,5
-Edwards,03 Lewis City,U.S. House,4,Republican,Michael Pompeo,42
-Edwards,03 Lewis City,State Senate,33,Republican,Larry Salwans,28
-Edwards,03 Lewis City,State Senate,33,Republican,Mary Jo Taylor,22
-Edwards,03 Lewis City,State House,117,Republican,Leonard Mastroni,34
-Edwards,03 Lewis City,U.S. Senate,,Democratic,Monique Singh,4
-Edwards,03 Lewis City,U.S. Senate,,Democratic,Patrick Wiesner,6
-Edwards,03 Lewis City,U.S. House,4,Democratic,Robert Tillman,6
-Edwards,03 Lewis City,State Senate,33,Democratic,Daniel Giroux,4
-Edwards,03 Lewis City,State Senate,33,Democratic,Matt Bristow,8
-Edwards,04 Offerle City,Voters,,Republican,Ballots,43
-Edwards,04 Offerle City,Voters,,Democratic,Ballots,4
-Edwards,04 Offerle City,U.S. Senate,,Republican,Jerry Moran,40
-Edwards,04 Offerle City,U.S. Senate,,Republican,DJ Smith,2
-Edwards,04 Offerle City,U.S. House,4,Republican,Michael Pompeo,40
-Edwards,04 Offerle City,State Senate,33,Republican,Larry Salwans,32
-Edwards,04 Offerle City,State Senate,33,Republican,Mary Jo Taylor,10
-Edwards,04 Offerle City,State House,117,Republican,Leonard Mastroni,38
-Edwards,04 Offerle City,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,04 Offerle City,U.S. Senate,,Democratic,Patrick Wiesner,4
-Edwards,04 Offerle City,U.S. House,4,Democratic,Robert Tillman,2
-Edwards,04 Offerle City,State Senate,33,Democratic,Daniel Giroux,2
-Edwards,04 Offerle City,State Senate,33,Democratic,Matt Bristow,4
-Edwards,05 Belpre City,Voters,,Republican,Ballots,12
-Edwards,05 Belpre City,Voters,,Democratic,Ballots,1
-Edwards,05 Belpre City,U.S. Senate,,Republican,Jerry Moran,9
-Edwards,05 Belpre City,U.S. Senate,,Republican,DJ Smith,3
-Edwards,05 Belpre City,U.S. House,4,Republican,Michael Pompeo,11
-Edwards,05 Belpre City,State Senate,33,Republican,Larry Salwans,7
-Edwards,05 Belpre City,State Senate,33,Republican,Mary Jo Taylor,5
-Edwards,05 Belpre City,State House,117,Republican,Leonard Mastroni,10
-Edwards,05 Belpre City,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,05 Belpre City,U.S. Senate,,Democratic,Patrick Wiesner,1
-Edwards,05 Belpre City,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,05 Belpre City,State Senate,33,Democratic,Daniel Giroux,0
-Edwards,05 Belpre City,State Senate,33,Democratic,Matt Bristow,1
-Edwards,06 Logan twp,Voters,,Republican,Ballots,7
-Edwards,06 Logan twp,Voters,,Democratic,Ballots,1
-Edwards,06 Logan twp,U.S. Senate,,Republican,Jerry Moran,7
-Edwards,06 Logan twp,U.S. Senate,,Republican,DJ Smith,0
-Edwards,06 Logan twp,U.S. House,4,Republican,Michael Pompeo,5
-Edwards,06 Logan twp,State Senate,33,Republican,Larry Salwans,5
-Edwards,06 Logan twp,State Senate,33,Republican,Mary Jo Taylor,2
-Edwards,06 Logan twp,State House,117,Republican,Leonard Mastroni,6
-Edwards,06 Logan twp,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,06 Logan twp,U.S. Senate,,Democratic,Patrick Wiesner,0
-Edwards,06 Logan twp,U.S. House,4,Democratic,Robert Tillman,0
-Edwards,06 Logan twp,State Senate,33,Democratic,Daniel Giroux,1
-Edwards,06 Logan twp,State Senate,33,Democratic,Matt Bristow,1
-Edwards,07 Jackson twp,Voters,,Republican,Ballots,9
-Edwards,07 Jackson twp,Voters,,Democratic,Ballots,7
-Edwards,07 Jackson twp,U.S. Senate,,Republican,Jerry Moran,9
-Edwards,07 Jackson twp,U.S. Senate,,Republican,DJ Smith,0
-Edwards,07 Jackson twp,U.S. House,4,Republican,Michael Pompeo,9
-Edwards,07 Jackson twp,State Senate,33,Republican,Larry Salwans,8
-Edwards,07 Jackson twp,State Senate,33,Republican,Mary Jo Taylor,1
-Edwards,07 Jackson twp,State House,117,Republican,Leonard Mastroni,6
-Edwards,07 Jackson twp,U.S. Senate,,Democratic,Monique Singh,2
-Edwards,07 Jackson twp,U.S. Senate,,Democratic,Patrick Wiesner,4
-Edwards,07 Jackson twp,U.S. House,4,Democratic,Robert Tillman,4
-Edwards,07 Jackson twp,State Senate,33,Democratic,Daniel Giroux,2
-Edwards,07 Jackson twp,State Senate,33,Democratic,Matt Bristow,4
-Edwards,08 Kinsley twp,Voters,,Republican,Ballots,28
-Edwards,08 Kinsley twp,Voters,,Democratic,Ballots,5
-Edwards,08 Kinsley twp,U.S. Senate,,Republican,Jerry Moran,27
-Edwards,08 Kinsley twp,U.S. Senate,,Republican,DJ Smith,1
-Edwards,08 Kinsley twp,U.S. House,4,Republican,Michael Pompeo,25
-Edwards,08 Kinsley twp,State Senate,33,Republican,Larry Salwans,21
-Edwards,08 Kinsley twp,State Senate,33,Republican,Mary Jo Taylor,7
-Edwards,08 Kinsley twp,State House,117,Republican,Leonard Mastroni,18
-Edwards,08 Kinsley twp,U.S. Senate,,Democratic,Monique Singh,2
-Edwards,08 Kinsley twp,U.S. Senate,,Democratic,Patrick Wiesner,3
-Edwards,08 Kinsley twp,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,08 Kinsley twp,State Senate,33,Democratic,Daniel Giroux,3
-Edwards,08 Kinsley twp,State Senate,33,Democratic,Matt Bristow,4
-Edwards,09 Wayne twp,Voters,,Republican,Ballots,30
-Edwards,09 Wayne twp,Voters,,Democratic,Ballots,2
-Edwards,09 Wayne twp,U.S. Senate,,Republican,Jerry Moran,26
-Edwards,09 Wayne twp,U.S. Senate,,Republican,DJ Smith,3
-Edwards,09 Wayne twp,U.S. House,4,Republican,Michael Pompeo,26
-Edwards,09 Wayne twp,State Senate,33,Republican,Larry Salwans,21
-Edwards,09 Wayne twp,State Senate,33,Republican,Mary Jo Taylor,8
-Edwards,09 Wayne twp,State House,117,Republican,Leonard Mastroni,26
-Edwards,09 Wayne twp,U.S. Senate,,Democratic,Monique Singh,1
-Edwards,09 Wayne twp,U.S. Senate,,Democratic,Patrick Wiesner,1
-Edwards,09 Wayne twp,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,09 Wayne twp,State Senate,33,Democratic,Daniel Giroux,1
-Edwards,09 Wayne twp,State Senate,33,Democratic,Matt Bristow,2
-Edwards,09 Wayne twp,State House,117,Democratic,Write-ins,1
-Edwards,10 Belpre twp,Voters,,Republican,Ballots,20
-Edwards,10 Belpre twp,Voters,,Democratic,Ballots,3
-Edwards,10 Belpre twp,U.S. Senate,,Republican,Jerry Moran,17
-Edwards,10 Belpre twp,U.S. Senate,,Republican,DJ Smith,3
-Edwards,10 Belpre twp,U.S. House,4,Republican,Michael Pompeo,18
-Edwards,10 Belpre twp,State Senate,33,Republican,Larry Salwans,11
-Edwards,10 Belpre twp,State Senate,33,Republican,Mary Jo Taylor,8
-Edwards,10 Belpre twp,State House,117,Republican,Leonard Mastroni,16
-Edwards,10 Belpre twp,U.S. Senate,,Democratic,Monique Singh,1
-Edwards,10 Belpre twp,U.S. Senate,,Democratic,Patrick Wiesner,2
-Edwards,10 Belpre twp,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,10 Belpre twp,State Senate,33,Democratic,Daniel Giroux,2
-Edwards,10 Belpre twp,State Senate,33,Democratic,Matt Bristow,3
-Edwards,11 Lincoln twp,Voters,,Republican,Ballots,34
-Edwards,11 Lincoln twp,Voters,,Democratic,Ballots,3
-Edwards,11 Lincoln twp,U.S. Senate,,Republican,Jerry Moran,30
-Edwards,11 Lincoln twp,U.S. Senate,,Republican,DJ Smith,4
-Edwards,11 Lincoln twp,U.S. House,4,Republican,Michael Pompeo,33
-Edwards,11 Lincoln twp,State Senate,33,Republican,Larry Salwans,19
-Edwards,11 Lincoln twp,State Senate,33,Republican,Mary Jo Taylor,14
-Edwards,11 Lincoln twp,State House,117,Republican,Leonard Mastroni,21
-Edwards,11 Lincoln twp,U.S. Senate,,Democratic,Monique Singh,1
-Edwards,11 Lincoln twp,U.S. Senate,,Democratic,Patrick Wiesner,2
-Edwards,11 Lincoln twp,U.S. House,4,Democratic,Robert Tillman,0
-Edwards,11 Lincoln twp,State Senate,33,Democratic,Daniel Giroux,3
-Edwards,11 Lincoln twp,State Senate,33,Democratic,Matt Bristow,3
-Edwards,12 Franklin twp,Voters,,Republican,Ballots,21
-Edwards,12 Franklin twp,Voters,,Democratic,Ballots,0
-Edwards,12 Franklin twp,U.S. Senate,,Republican,Jerry Moran,17
-Edwards,12 Franklin twp,U.S. Senate,,Republican,DJ Smith,3
-Edwards,12 Franklin twp,U.S. House,4,Republican,Michael Pompeo,18
-Edwards,12 Franklin twp,State Senate,33,Republican,Larry Salwans,10
-Edwards,12 Franklin twp,State Senate,33,Republican,Mary Jo Taylor,10
-Edwards,12 Franklin twp,State House,117,Republican,Leonard Mastroni,16
-Edwards,12 Franklin twp,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,12 Franklin twp,U.S. Senate,,Democratic,Patrick Wiesner,0
-Edwards,12 Franklin twp,U.S. House,4,Democratic,Robert Tillman,0
-Edwards,12 Franklin twp,State Senate,33,Democratic,Daniel Giroux,0
-Edwards,12 Franklin twp,State Senate,33,Democratic,Matt Bristow,0
-Edwards,13 N Brown twp,Voters,,Republican,Ballots,20
-Edwards,13 N Brown twp,Voters,,Democratic,Ballots,2
-Edwards,13 N Brown twp,U.S. Senate,,Republican,Jerry Moran,19
-Edwards,13 N Brown twp,U.S. Senate,,Republican,DJ Smith,1
-Edwards,13 N Brown twp,U.S. House,4,Republican,Michael Pompeo,18
-Edwards,13 N Brown twp,State Senate,33,Republican,Larry Salwans,11
-Edwards,13 N Brown twp,State Senate,33,Republican,Mary Jo Taylor,9
-Edwards,13 N Brown twp,State House,117,Republican,Leonard Mastroni,16
-Edwards,13 N Brown twp,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,13 N Brown twp,U.S. Senate,,Democratic,Patrick Wiesner,0
-Edwards,13 N Brown twp,U.S. House,4,Democratic,Robert Tillman,0
-Edwards,13 N Brown twp,State Senate,33,Democratic,Daniel Giroux,0
-Edwards,13 N Brown twp,State Senate,33,Democratic,Matt Bristow,1
-Edwards,14 Trenton twp,Voters,,Republican,Ballots,20
-Edwards,14 Trenton twp,Voters,,Democratic,Ballots,1
-Edwards,14 Trenton twp,U.S. Senate,,Republican,Jerry Moran,16
-Edwards,14 Trenton twp,U.S. Senate,,Republican,DJ Smith,4
-Edwards,14 Trenton twp,U.S. House,4,Republican,Michael Pompeo,18
-Edwards,14 Trenton twp,State Senate,33,Republican,Larry Salwans,16
-Edwards,14 Trenton twp,State Senate,33,Republican,Mary Jo Taylor,4
-Edwards,14 Trenton twp,State House,117,Republican,Leonard Mastroni,18
-Edwards,14 Trenton twp,U.S. Senate,,Democratic,Monique Singh,0
-Edwards,14 Trenton twp,U.S. Senate,,Democratic,Patrick Wiesner,1
-Edwards,14 Trenton twp,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,14 Trenton twp,State Senate,33,Democratic,Daniel Giroux,0
-Edwards,14 Trenton twp,State Senate,33,Democratic,Matt Bristow,1
-Edwards,15 S Brown twp,Voters,,Republican,Ballots,29
-Edwards,15 S Brown twp,Voters,,Democratic,Ballots,1
-Edwards,15 S Brown twp,U.S. Senate,,Republican,Jerry Moran,25
-Edwards,15 S Brown twp,U.S. Senate,,Republican,DJ Smith,3
-Edwards,15 S Brown twp,U.S. House,4,Republican,Michael Pompeo,26
-Edwards,15 S Brown twp,State Senate,33,Republican,Larry Salwans,14
-Edwards,15 S Brown twp,State Senate,33,Republican,Mary Jo Taylor,14
-Edwards,15 S Brown twp,State House,117,Republican,Leonard Mastroni,23
-Edwards,15 S Brown twp,U.S. Senate,,Democratic,Monique Singh,1
-Edwards,15 S Brown twp,U.S. Senate,,Democratic,Patrick Wiesner,0
-Edwards,15 S Brown twp,U.S. House,4,Democratic,Robert Tillman,1
-Edwards,15 S Brown twp,State Senate,33,Democratic,Daniel Giroux,0
-Edwards,15 S Brown twp,State Senate,33,Democratic,Matt Bristow,1
+county,precinct,office,district,party,candidate,votes,vtd
+EDWARDS,Belpre Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",58,000010
+EDWARDS,Franklin Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",40,000020
+EDWARDS,Jackson Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",31,000030
+EDWARDS,Kinsley Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",47,000040
+EDWARDS,Kinsley Ward 1,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",251,000050
+EDWARDS,Kinsley Ward 2,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",255,00006A
+EDWARDS,Kinsley Ward 2 Exclave,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",0,00006B
+EDWARDS,Lincoln Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",56,000070
+EDWARDS,Logan Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",16,000080
+EDWARDS,North Brown Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",25,000090
+EDWARDS,South Brown Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",35,000100
+EDWARDS,Trenton Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",128,000110
+EDWARDS,Wayne Township,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",138,000120
+EDWARDS,Belpre Township,Kansas Senate,33,Democratic,"Bristow, Matt",13,000010
+EDWARDS,Belpre Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",54,000010
+EDWARDS,Franklin Township,Kansas Senate,33,Democratic,"Bristow, Matt",2,000020
+EDWARDS,Franklin Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",45,000020
+EDWARDS,Jackson Township,Kansas Senate,33,Democratic,"Bristow, Matt",5,000030
+EDWARDS,Jackson Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",30,000030
+EDWARDS,Kinsley Township,Kansas Senate,33,Democratic,"Bristow, Matt",13,000040
+EDWARDS,Kinsley Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",51,000040
+EDWARDS,Kinsley Ward 1,Kansas Senate,33,Democratic,"Bristow, Matt",65,000050
+EDWARDS,Kinsley Ward 1,Kansas Senate,33,Republican,"Taylor, Mary Jo",235,000050
+EDWARDS,Kinsley Ward 2,Kansas Senate,33,Democratic,"Bristow, Matt",56,00006A
+EDWARDS,Kinsley Ward 2,Kansas Senate,33,Republican,"Taylor, Mary Jo",250,00006A
+EDWARDS,Kinsley Ward 2 Exclave,Kansas Senate,33,Democratic,"Bristow, Matt",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,Kansas Senate,33,Republican,"Taylor, Mary Jo",0,00006B
+EDWARDS,Lincoln Township,Kansas Senate,33,Democratic,"Bristow, Matt",8,000070
+EDWARDS,Lincoln Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",57,000070
+EDWARDS,Logan Township,Kansas Senate,33,Democratic,"Bristow, Matt",1,000080
+EDWARDS,Logan Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",18,000080
+EDWARDS,North Brown Township,Kansas Senate,33,Democratic,"Bristow, Matt",4,000090
+EDWARDS,North Brown Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",26,000090
+EDWARDS,South Brown Township,Kansas Senate,33,Democratic,"Bristow, Matt",0,000100
+EDWARDS,South Brown Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",39,000100
+EDWARDS,Trenton Township,Kansas Senate,33,Democratic,"Bristow, Matt",16,000110
+EDWARDS,Trenton Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",122,000110
+EDWARDS,Wayne Township,Kansas Senate,33,Democratic,"Bristow, Matt",33,000120
+EDWARDS,Wayne Township,Kansas Senate,33,Republican,"Taylor, Mary Jo",132,000120
+EDWARDS,Belpre Township,President / Vice President,,independent,"Stein, Jill",3,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+EDWARDS,Belpre Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+EDWARDS,Belpre Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000010
+EDWARDS,Belpre Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000010
+EDWARDS,Belpre Township,President / Vice President,,Republican,"Trump, Donald J.",58,000010
+EDWARDS,Franklin Township,President / Vice President,,independent,"Stein, Jill",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+EDWARDS,Franklin Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+EDWARDS,Franklin Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,000020
+EDWARDS,Franklin Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+EDWARDS,Franklin Township,President / Vice President,,Republican,"Trump, Donald J.",48,000020
+EDWARDS,Jackson Township,President / Vice President,,independent,"Stein, Jill",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+EDWARDS,Jackson Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+EDWARDS,Jackson Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",6,000030
+EDWARDS,Jackson Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000030
+EDWARDS,Jackson Township,President / Vice President,,Republican,"Trump, Donald J.",30,000030
+EDWARDS,Kinsley Township,President / Vice President,,independent,"Stein, Jill",2,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+EDWARDS,Kinsley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000040
+EDWARDS,Kinsley Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+EDWARDS,Kinsley Township,President / Vice President,,Republican,"Trump, Donald J.",55,000040
+EDWARDS,Kinsley Ward 1,President / Vice President,,independent,"Stein, Jill",11,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",61,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",7,000050
+EDWARDS,Kinsley Ward 1,President / Vice President,,Republican,"Trump, Donald J.",230,000050
+EDWARDS,Kinsley Ward 2,President / Vice President,,independent,"Stein, Jill",7,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Hedges, James A",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Smith, Mike",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",69,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",11,00006A
+EDWARDS,Kinsley Ward 2,President / Vice President,,Republican,"Trump, Donald J.",217,00006A
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,00006B
+EDWARDS,Lincoln Township,President / Vice President,,independent,"Stein, Jill",2,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000070
+EDWARDS,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",7,000070
+EDWARDS,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000070
+EDWARDS,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",60,000070
+EDWARDS,Logan Township,President / Vice President,,independent,"Stein, Jill",1,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+EDWARDS,Logan Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+EDWARDS,Logan Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",3,000080
+EDWARDS,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000080
+EDWARDS,Logan Township,President / Vice President,,Republican,"Trump, Donald J.",15,000080
+EDWARDS,North Brown Township,President / Vice President,,independent,"Stein, Jill",2,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+EDWARDS,North Brown Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+EDWARDS,North Brown Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",2,000090
+EDWARDS,North Brown Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000090
+EDWARDS,North Brown Township,President / Vice President,,Republican,"Trump, Donald J.",24,000090
+EDWARDS,South Brown Township,President / Vice President,,independent,"Stein, Jill",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+EDWARDS,South Brown Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+EDWARDS,South Brown Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",4,000100
+EDWARDS,South Brown Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+EDWARDS,South Brown Township,President / Vice President,,Republican,"Trump, Donald J.",40,000100
+EDWARDS,Trenton Township,President / Vice President,,independent,"Stein, Jill",2,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Castle, Darrell L",1,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Hedges, James A",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"McMullin, Evan",2,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Perry, Darryl",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Smith, Mike",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Sood, Ajay",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+EDWARDS,Trenton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+EDWARDS,Trenton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",14,000110
+EDWARDS,Trenton Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
+EDWARDS,Trenton Township,President / Vice President,,Republican,"Trump, Donald J.",123,000110
+EDWARDS,Wayne Township,President / Vice President,,independent,"Stein, Jill",4,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Hedges, James A",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"McMullin, Evan",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Perry, Darryl",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Smith, Mike",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Sood, Ajay",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+EDWARDS,Wayne Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+EDWARDS,Wayne Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000120
+EDWARDS,Wayne Township,President / Vice President,,Libertarian,"Johnson, Gary",7,000120
+EDWARDS,Wayne Township,President / Vice President,,Republican,"Trump, Donald J.",137,000120
+EDWARDS,Belpre Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000010
+EDWARDS,Belpre Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",7,000010
+EDWARDS,Belpre Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",1,000010
+EDWARDS,Belpre Township,United States House of Representatives,4,Republican,"Pompeo, Michael",55,000010
+EDWARDS,Franklin Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000020
+EDWARDS,Franklin Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000020
+EDWARDS,Franklin Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000020
+EDWARDS,Franklin Township,United States House of Representatives,4,Republican,"Pompeo, Michael",45,000020
+EDWARDS,Jackson Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000030
+EDWARDS,Jackson Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",4,000030
+EDWARDS,Jackson Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000030
+EDWARDS,Jackson Township,United States House of Representatives,4,Republican,"Pompeo, Michael",31,000030
+EDWARDS,Kinsley Township,United States House of Representatives,4,independent,"Allen, Miranda",5,000040
+EDWARDS,Kinsley Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",10,000040
+EDWARDS,Kinsley Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000040
+EDWARDS,Kinsley Township,United States House of Representatives,4,Republican,"Pompeo, Michael",53,000040
+EDWARDS,Kinsley Ward 1,United States House of Representatives,4,independent,"Allen, Miranda",28,000050
+EDWARDS,Kinsley Ward 1,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",50,000050
+EDWARDS,Kinsley Ward 1,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",8,000050
+EDWARDS,Kinsley Ward 1,United States House of Representatives,4,Republican,"Pompeo, Michael",227,000050
+EDWARDS,Kinsley Ward 2,United States House of Representatives,4,independent,"Allen, Miranda",28,00006A
+EDWARDS,Kinsley Ward 2,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",38,00006A
+EDWARDS,Kinsley Ward 2,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",10,00006A
+EDWARDS,Kinsley Ward 2,United States House of Representatives,4,Republican,"Pompeo, Michael",230,00006A
+EDWARDS,Kinsley Ward 2 Exclave,United States House of Representatives,4,independent,"Allen, Miranda",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States House of Representatives,4,Republican,"Pompeo, Michael",0,00006B
+EDWARDS,Lincoln Township,United States House of Representatives,4,independent,"Allen, Miranda",6,000070
+EDWARDS,Lincoln Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",5,000070
+EDWARDS,Lincoln Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000070
+EDWARDS,Lincoln Township,United States House of Representatives,4,Republican,"Pompeo, Michael",58,000070
+EDWARDS,Logan Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000080
+EDWARDS,Logan Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",2,000080
+EDWARDS,Logan Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000080
+EDWARDS,Logan Township,United States House of Representatives,4,Republican,"Pompeo, Michael",15,000080
+EDWARDS,North Brown Township,United States House of Representatives,4,independent,"Allen, Miranda",2,000090
+EDWARDS,North Brown Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",2,000090
+EDWARDS,North Brown Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000090
+EDWARDS,North Brown Township,United States House of Representatives,4,Republican,"Pompeo, Michael",26,000090
+EDWARDS,South Brown Township,United States House of Representatives,4,independent,"Allen, Miranda",3,000100
+EDWARDS,South Brown Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",1,000100
+EDWARDS,South Brown Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",0,000100
+EDWARDS,South Brown Township,United States House of Representatives,4,Republican,"Pompeo, Michael",39,000100
+EDWARDS,Trenton Township,United States House of Representatives,4,independent,"Allen, Miranda",15,000110
+EDWARDS,Trenton Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",7,000110
+EDWARDS,Trenton Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",7,000110
+EDWARDS,Trenton Township,United States House of Representatives,4,Republican,"Pompeo, Michael",111,000110
+EDWARDS,Wayne Township,United States House of Representatives,4,independent,"Allen, Miranda",12,000120
+EDWARDS,Wayne Township,United States House of Representatives,4,Democratic,"Giroux, Daniel B.",27,000120
+EDWARDS,Wayne Township,United States House of Representatives,4,Libertarian,"Bakken, Gorden J.",4,000120
+EDWARDS,Wayne Township,United States House of Representatives,4,Republican,"Pompeo, Michael",126,000120
+EDWARDS,Belpre Township,United States Senate,,write - in,"Smith, DJ",0,000010
+EDWARDS,Belpre Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000010
+EDWARDS,Belpre Township,United States Senate,,Libertarian,"Garrard, Robert D.",5,000010
+EDWARDS,Belpre Township,United States Senate,,Republican,"Moran, Jerry",58,000010
+EDWARDS,Franklin Township,United States Senate,,write - in,"Smith, DJ",0,000020
+EDWARDS,Franklin Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000020
+EDWARDS,Franklin Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000020
+EDWARDS,Franklin Township,United States Senate,,Republican,"Moran, Jerry",47,000020
+EDWARDS,Jackson Township,United States Senate,,write - in,"Smith, DJ",0,000030
+EDWARDS,Jackson Township,United States Senate,,Democratic,"Wiesner, Patrick",4,000030
+EDWARDS,Jackson Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000030
+EDWARDS,Jackson Township,United States Senate,,Republican,"Moran, Jerry",32,000030
+EDWARDS,Kinsley Township,United States Senate,,write - in,"Smith, DJ",0,000040
+EDWARDS,Kinsley Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000040
+EDWARDS,Kinsley Township,United States Senate,,Libertarian,"Garrard, Robert D.",3,000040
+EDWARDS,Kinsley Township,United States Senate,,Republican,"Moran, Jerry",58,000040
+EDWARDS,Kinsley Ward 1,United States Senate,,write - in,"Smith, DJ",0,000050
+EDWARDS,Kinsley Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",51,000050
+EDWARDS,Kinsley Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",22,000050
+EDWARDS,Kinsley Ward 1,United States Senate,,Republican,"Moran, Jerry",237,000050
+EDWARDS,Kinsley Ward 2,United States Senate,,write - in,"Smith, DJ",0,00006A
+EDWARDS,Kinsley Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",51,00006A
+EDWARDS,Kinsley Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",23,00006A
+EDWARDS,Kinsley Ward 2,United States Senate,,Republican,"Moran, Jerry",234,00006A
+EDWARDS,Kinsley Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,00006B
+EDWARDS,Kinsley Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,00006B
+EDWARDS,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000070
+EDWARDS,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",6,000070
+EDWARDS,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000070
+EDWARDS,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",62,000070
+EDWARDS,Logan Township,United States Senate,,write - in,"Smith, DJ",0,000080
+EDWARDS,Logan Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000080
+EDWARDS,Logan Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000080
+EDWARDS,Logan Township,United States Senate,,Republican,"Moran, Jerry",17,000080
+EDWARDS,North Brown Township,United States Senate,,write - in,"Smith, DJ",0,000090
+EDWARDS,North Brown Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000090
+EDWARDS,North Brown Township,United States Senate,,Libertarian,"Garrard, Robert D.",1,000090
+EDWARDS,North Brown Township,United States Senate,,Republican,"Moran, Jerry",29,000090
+EDWARDS,South Brown Township,United States Senate,,write - in,"Smith, DJ",0,000100
+EDWARDS,South Brown Township,United States Senate,,Democratic,"Wiesner, Patrick",1,000100
+EDWARDS,South Brown Township,United States Senate,,Libertarian,"Garrard, Robert D.",0,000100
+EDWARDS,South Brown Township,United States Senate,,Republican,"Moran, Jerry",42,000100
+EDWARDS,Trenton Township,United States Senate,,write - in,"Smith, DJ",0,000110
+EDWARDS,Trenton Township,United States Senate,,Democratic,"Wiesner, Patrick",8,000110
+EDWARDS,Trenton Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000110
+EDWARDS,Trenton Township,United States Senate,,Republican,"Moran, Jerry",124,000110
+EDWARDS,Wayne Township,United States Senate,,write - in,"Smith, DJ",0,000120
+EDWARDS,Wayne Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000120
+EDWARDS,Wayne Township,United States Senate,,Libertarian,"Garrard, Robert D.",11,000120
+EDWARDS,Wayne Township,United States Senate,,Republican,"Moran, Jerry",138,000120

@@ -1,452 +1,1004 @@
-county,precinct,office,district,party,candidate,votes
-Osage,0001 AGENCY,President,,DEM,Clinton & Kaine,31
-Osage,0002 ARVONIA,President,,DEM,Clinton & Kaine,18
-Osage,0003 BARCLAY,President,,DEM,Clinton & Kaine,20
-Osage,0004 NORTH BURLINGAME,President,,DEM,Clinton & Kaine,97
-Osage,0005 SOUTH BURLINGAME,President,,DEM,Clinton & Kaine,63
-Osage,0006 DRAGOON,President,,DEM,Clinton & Kaine,28
-Osage,0007 ELK,President,,DEM,Clinton & Kaine,211
-Osage,0008 FAIRFAX,President,,DEM,Clinton & Kaine,79
-Osage,0009 GRANT,President,,DEM,Clinton & Kaine,32
-Osage,0010 MICHIGAN VALLEY,President,,DEM,Clinton & Kaine,65
-Osage,0011 VASSAR,President,,DEM,Clinton & Kaine,86
-Osage,0012 LINCOLN,President,,DEM,Clinton & Kaine,10
-Osage,0013 MELVERN,President,,DEM,Clinton & Kaine,62
-Osage,0014 OLIVET,President,,DEM,Clinton & Kaine,26
-Osage,0015 NORTH RIDGEWAY,President,,DEM,Clinton & Kaine,142
-Osage,0016 SOUTH RIDGEWAY,President,,DEM,Clinton & Kaine,143
-Osage,0017 SCRANTON,President,,DEM,Clinton & Kaine,117
-Osage,0018 SUPERIOR,President,,DEM,Clinton & Kaine,37
-Osage,0019 NORTH VALLEY BROOK,President,,DEM,Clinton & Kaine,111
-Osage,0020 SOUTH VALLEY BROOK,President,,DEM,Clinton & Kaine,44
-Osage,0021 WARD 1,President,,DEM,Clinton & Kaine,108
-Osage,0022 WARD 2,President,,DEM,Clinton & Kaine,59
-Osage,0023 WARD 3,President,,DEM,Clinton & Kaine,76
-Osage,0024 WARD 4,President,,DEM,Clinton & Kaine,88
-Osage,0001 AGENCY,President,,LBT,Johnson & Weld,6
-Osage,0002 ARVONIA,President,,LBT,Johnson & Weld,6
-Osage,0003 BARCLAY,President,,LBT,Johnson & Weld,8
-Osage,0004 NORTH BURLINGAME,President,,LBT,Johnson & Weld,18
-Osage,0005 SOUTH BURLINGAME,President,,LBT,Johnson & Weld,18
-Osage,0006 DRAGOON,President,,LBT,Johnson & Weld,4
-Osage,0007 ELK,President,,LBT,Johnson & Weld,46
-Osage,0008 FAIRFAX,President,,LBT,Johnson & Weld,5
-Osage,0009 GRANT,President,,LBT,Johnson & Weld,5
-Osage,0010 MICHIGAN VALLEY,President,,LBT,Johnson & Weld,16
-Osage,0011 VASSAR,President,,LBT,Johnson & Weld,13
-Osage,0012 LINCOLN,President,,LBT,Johnson & Weld,2
-Osage,0013 MELVERN,President,,LBT,Johnson & Weld,14
-Osage,0014 OLIVET,President,,LBT,Johnson & Weld,2
-Osage,0015 NORTH RIDGEWAY,President,,LBT,Johnson & Weld,19
-Osage,0016 SOUTH RIDGEWAY,President,,LBT,Johnson & Weld,25
-Osage,0017 SCRANTON,President,,LBT,Johnson & Weld,20
-Osage,0018 SUPERIOR,President,,LBT,Johnson & Weld,4
-Osage,0019 NORTH VALLEY BROOK,President,,LBT,Johnson & Weld,26
-Osage,0020 SOUTH VALLEY BROOK,President,,LBT,Johnson & Weld,6
-Osage,0021 WARD 1,President,,LBT,Johnson & Weld,10
-Osage,0022 WARD 2,President,,LBT,Johnson & Weld,6
-Osage,0023 WARD 3,President,,LBT,Johnson & Weld,9
-Osage,0024 WARD 4,President,,LBT,Johnson & Weld,14
-Osage,0001 AGENCY,President,,IND,Stein & Baraka,6
-Osage,0002 ARVONIA,President,,IND,Stein & Baraka,0
-Osage,0003 BARCLAY,President,,IND,Stein & Baraka,2
-Osage,0004 NORTH BURLINGAME,President,,IND,Stein & Baraka,9
-Osage,0005 SOUTH BURLINGAME,President,,IND,Stein & Baraka,17
-Osage,0006 DRAGOON,President,,IND,Stein & Baraka,2
-Osage,0007 ELK,President,,IND,Stein & Baraka,21
-Osage,0008 FAIRFAX,President,,IND,Stein & Baraka,9
-Osage,0009 GRANT,President,,IND,Stein & Baraka,4
-Osage,0010 MICHIGAN VALLEY,President,,IND,Stein & Baraka,4
-Osage,0011 VASSAR,President,,IND,Stein & Baraka,11
-Osage,0012 LINCOLN,President,,IND,Stein & Baraka,0
-Osage,0013 MELVERN,President,,IND,Stein & Baraka,9
-Osage,0014 OLIVET,President,,IND,Stein & Baraka,1
-Osage,0015 NORTH RIDGEWAY,President,,IND,Stein & Baraka,10
-Osage,0016 SOUTH RIDGEWAY,President,,IND,Stein & Baraka,13
-Osage,0017 SCRANTON,President,,IND,Stein & Baraka,6
-Osage,0018 SUPERIOR,President,,IND,Stein & Baraka,3
-Osage,0019 NORTH VALLEY BROOK,President,,IND,Stein & Baraka,12
-Osage,0020 SOUTH VALLEY BROOK,President,,IND,Stein & Baraka,5
-Osage,0021 WARD 1,President,,IND,Stein & Baraka,8
-Osage,0022 WARD 2,President,,IND,Stein & Baraka,3
-Osage,0023 WARD 3,President,,IND,Stein & Baraka,4
-Osage,0024 WARD 4,President,,IND,Stein & Baraka,6
-Osage,0001 AGENCY,President,,REP,Trump & Pence,153
-Osage,0002 ARVONIA,President,,REP,Trump & Pence,32
-Osage,0003 BARCLAY,President,,REP,Trump & Pence,68
-Osage,0004 NORTH BURLINGAME,President,,REP,Trump & Pence,291
-Osage,0005 SOUTH BURLINGAME,President,,REP,Trump & Pence,254
-Osage,0006 DRAGOON,President,,REP,Trump & Pence,82
-Osage,0007 ELK,President,,REP,Trump & Pence,611
-Osage,0008 FAIRFAX,President,,REP,Trump & Pence,192
-Osage,0009 GRANT,President,,REP,Trump & Pence,101
-Osage,0010 MICHIGAN VALLEY,President,,REP,Trump & Pence,167
-Osage,0011 VASSAR,President,,REP,Trump & Pence,247
-Osage,0012 LINCOLN,President,,REP,Trump & Pence,44
-Osage,0013 MELVERN,President,,REP,Trump & Pence,232
-Osage,0014 OLIVET,President,,REP,Trump & Pence,93
-Osage,0015 NORTH RIDGEWAY,President,,REP,Trump & Pence,366
-Osage,0016 SOUTH RIDGEWAY,President,,REP,Trump & Pence,321
-Osage,0017 SCRANTON,President,,REP,Trump & Pence,327
-Osage,0018 SUPERIOR,President,,REP,Trump & Pence,88
-Osage,0019 NORTH VALLEY BROOK,President,,REP,Trump & Pence,317
-Osage,0020 SOUTH VALLEY BROOK,President,,REP,Trump & Pence,153
-Osage,0021 WARD 1,President,,REP,Trump & Pence,203
-Osage,0022 WARD 2,President,,REP,Trump & Pence,122
-Osage,0023 WARD 3,President,,REP,Trump & Pence,155
-Osage,0024 WARD 4,President,,REP,Trump & Pence,207
-Osage,0001 AGENCY,President,,,Write-ins,1
-Osage,0002 ARVONIA,President,,,Write-ins,1
-Osage,0003 BARCLAY,President,,,Write-ins,1
-Osage,0004 NORTH BURLINGAME,President,,,Write-ins,6
-Osage,0005 SOUTH BURLINGAME,President,,,Write-ins,4
-Osage,0006 DRAGOON,President,,,Write-ins,0
-Osage,0007 ELK,President,,,Write-ins,19
-Osage,0008 FAIRFAX,President,,,Write-ins,6
-Osage,0009 GRANT,President,,,Write-ins,1
-Osage,0010 MICHIGAN VALLEY,President,,,Write-ins,2
-Osage,0011 VASSAR,President,,,Write-ins,8
-Osage,0012 LINCOLN,President,,,Write-ins,0
-Osage,0013 MELVERN,President,,,Write-ins,1
-Osage,0014 OLIVET,President,,,Write-ins,2
-Osage,0015 NORTH RIDGEWAY,President,,,Write-ins,12
-Osage,0016 SOUTH RIDGEWAY,President,,,Write-ins,6
-Osage,0017 SCRANTON,President,,,Write-ins,6
-Osage,0018 SUPERIOR,President,,,Write-ins,0
-Osage,0019 NORTH VALLEY BROOK,President,,,Write-ins,5
-Osage,0020 SOUTH VALLEY BROOK,President,,,Write-ins,6
-Osage,0021 WARD 1,President,,,Write-ins,9
-Osage,0022 WARD 2,President,,,Write-ins,5
-Osage,0023 WARD 3,President,,,Write-ins,2
-Osage,0024 WARD 4,President,,,Write-ins,4
-Osage,0015 NORTH RIDGEWAY,State House,54,REP,Ken Corbet,303
-Osage,0016 SOUTH RIDGEWAY,State House,54,REP,Ken Corbet,273
-Osage,0017 SCRANTON,State House,54,REP,Ken Corbet,279
-Osage,0015 NORTH RIDGEWAY,State House,54,DEM,Renae Hansen,238
-Osage,0016 SOUTH RIDGEWAY,State House,54,DEM,Renae Hansen,230
-Osage,0017 SCRANTON,State House,54,DEM,Renae Hansen,164
-Osage,0015 NORTH RIDGEWAY,State House,54,,Write-ins,0
-Osage,0016 SOUTH RIDGEWAY,State House,54,,Write-ins,0
-Osage,0017 SCRANTON,State House,54,,Write-ins,1
-Osage,0010 MICHIGAN VALLEY,State House,59,REP,Blaine Finch ,215
-Osage,0011 VASSAR,State House,59,REP,Blaine Finch ,310
-Osage,0019 NORTH VALLEY BROOK,State House,59,REP,Blaine Finch ,393
-Osage,0020 SOUTH VALLEY BROOK,State House,59,REP,Blaine Finch ,184
-Osage,0010 MICHIGAN VALLEY,State House,59,,Write-ins,5
-Osage,0011 VASSAR,State House,59,,Write-ins,8
-Osage,0019 NORTH VALLEY BROOK,State House,59,,Write-ins,5
-Osage,0020 SOUTH VALLEY BROOK,State House,59,,Write-ins,4
-Osage,0008 FAIRFAX,State House,59,REP,Blaine Finch ,252
-Osage,0001 AGENCY,State House,76,REP,Eric Smith,130
-Osage,0002 ARVONIA,State House,76,REP,Eric Smith,25
-Osage,0003 BARCLAY,State House,76,REP,Eric Smith,52
-Osage,0006 DRAGOON,State House,76,REP,Eric Smith,75
-Osage,0009 GRANT,State House,76,REP,Eric Smith,90
-Osage,0012 LINCOLN,State House,76,REP,Eric Smith,39
-Osage,0013 MELVERN,State House,76,REP,Eric Smith,200
-Osage,0014 OLIVET,State House,76,REP,Eric Smith,83
-Osage,0018 SUPERIOR,State House,76,REP,Eric Smith,64
-Osage,0021 WARD 1,State House,76,REP,Eric Smith,161
-Osage,0022 WARD 2,State House,76,REP,Eric Smith,106
-Osage,0023 WARD 3,State House,76,REP,Eric Smith,122
-Osage,0024 WARD 4,State House,76,REP,Eric Smith,181
-Osage,0004 NORTH BURLINGAME,State House,54,REP,Ken Corbet ,258
-Osage,0005 SOUTH BURLINGAME,State House,54,REP,Ken Corbet ,221
-Osage,0007 ELK,State House,54,REP,Ken Corbet ,497
-Osage,0004 NORTH BURLINGAME,State House,54,DEM,Renae Hansen,153
-Osage,0005 SOUTH BURLINGAME,State House,54,DEM,Renae Hansen,124
-Osage,0007 ELK,State House,54,DEM,Renae Hansen,398
-Osage,0001 AGENCY,State House,76,DEM,Teresa Briggs,64
-Osage,0002 ARVONIA,State House,76,DEM,Teresa Briggs,31
-Osage,0003 BARCLAY,State House,76,DEM,Teresa Briggs,39
-Osage,0006 DRAGOON,State House,76,DEM,Teresa Briggs,37
-Osage,0009 GRANT,State House,76,DEM,Teresa Briggs,50
-Osage,0012 LINCOLN,State House,76,DEM,Teresa Briggs,15
-Osage,0013 MELVERN,State House,76,DEM,Teresa Briggs,122
-Osage,0014 OLIVET,State House,76,DEM,Teresa Briggs,38
-Osage,0018 SUPERIOR,State House,76,DEM,Teresa Briggs,66
-Osage,0021 WARD 1,State House,76,DEM,Teresa Briggs,168
-Osage,0022 WARD 2,State House,76,DEM,Teresa Briggs,84
-Osage,0023 WARD 3,State House,76,DEM,Teresa Briggs,122
-Osage,0024 WARD 4,State House,76,DEM,Teresa Briggs,128
-Osage,0001 AGENCY,State House,76,,Write-ins,1
-Osage,0002 ARVONIA,State House,76,,Write-ins,0
-Osage,0003 BARCLAY,State House,76,,Write-ins,0
-Osage,0004 NORTH BURLINGAME,State House,54,,Write-ins,1
-Osage,0005 SOUTH BURLINGAME,State House,54,,Write-ins,1
-Osage,0006 DRAGOON,State House,76,,Write-ins,0
-Osage,0007 ELK,State House,54,,Write-ins,1
-Osage,0008 FAIRFAX,State House,59,,Write-ins,3
-Osage,0009 GRANT,State House,76,,Write-ins,0
-Osage,0012 LINCOLN,State House,76,,Write-ins,0
-Osage,0013 MELVERN,State House,76,,Write-ins,0
-Osage,0014 OLIVET,State House,76,,Write-ins,0
-Osage,0018 SUPERIOR,State House,76,,Write-ins,0
-Osage,0021 WARD 1,State House,76,,Write-ins,3
-Osage,0022 WARD 2,State House,76,,Write-ins,0
-Osage,0023 WARD 3,State House,76,,Write-ins,0
-Osage,0024 WARD 4,State House,76,,Write-ins,0
-Osage,0021 WARD 1,State Senate,19,DEM,Anthony Hensley,182
-Osage,0022 WARD 2,State Senate,19,DEM,Anthony Hensley,109
-Osage,0023 WARD 3,State Senate,19,DEM,Anthony Hensley,146
-Osage,0024 WARD 4,State Senate,19,DEM,Anthony Hensley,158
-Osage,0021 WARD 1,State Senate,19,,Write-ins,1
-Osage,0022 WARD 2,State Senate,19,,Write-ins,0
-Osage,0023 WARD 3,State Senate,19,,Write-ins,0
-Osage,0024 WARD 4,State Senate,19,,Write-ins,0
-Osage,0021 WARD 1,State Senate,19,REP,Zach Haney,151
-Osage,0022 WARD 2,State Senate,19,REP,Zach Haney,86
-Osage,0023 WARD 3,State Senate,19,REP,Zach Haney,101
-Osage,0024 WARD 4,State Senate,19,REP,Zach Haney,157
-Osage,0001 AGENCY,State Senate,19,DEM,Anthony Hensley,67
-Osage,0002 ARVONIA,State Senate,19,DEM,Anthony Hensley,27
-Osage,0003 BARCLAY,State Senate,19,DEM,Anthony Hensley,40
-Osage,0004 NORTH BURLINGAME,State Senate,19,DEM,Anthony Hensley,182
-Osage,0005 SOUTH BURLINGAME,State Senate,19,DEM,Anthony Hensley,161
-Osage,0006 DRAGOON,State Senate,19,DEM,Anthony Hensley,56
-Osage,0007 ELK,State Senate,19,DEM,Anthony Hensley,427
-Osage,0008 FAIRFAX,State Senate,19,DEM,Anthony Hensley,125
-Osage,0009 GRANT,State Senate,19,DEM,Anthony Hensley,62
-Osage,0010 MICHIGAN VALLEY,State Senate,19,DEM,Anthony Hensley,120
-Osage,0011 VASSAR,State Senate,19,DEM,Anthony Hensley,160
-Osage,0012 LINCOLN,State Senate,19,DEM,Anthony Hensley,15
-Osage,0013 MELVERN,State Senate,19,DEM,Anthony Hensley,136
-Osage,0014 OLIVET,State Senate,19,DEM,Anthony Hensley,45
-Osage,0015 NORTH RIDGEWAY,State Senate,19,DEM,Anthony Hensley,267
-Osage,0016 SOUTH RIDGEWAY,State Senate,19,DEM,Anthony Hensley,259
-Osage,0017 SCRANTON,State Senate,19,DEM,Anthony Hensley,214
-Osage,0018 SUPERIOR,State Senate,19,DEM,Anthony Hensley,66
-Osage,0019 NORTH VALLEY BROOK,State Senate,19,DEM,Anthony Hensley,210
-Osage,0020 SOUTH VALLEY BROOK,State Senate,19,DEM,Anthony Hensley,87
-Osage,0001 AGENCY,State Senate,19,,Write-ins,1
-Osage,0002 ARVONIA,State Senate,19,,Write-ins,0
-Osage,0003 BARCLAY,State Senate,19,,Write-ins,0
-Osage,0004 NORTH BURLINGAME,State Senate,19,,Write-ins,1
-Osage,0005 SOUTH BURLINGAME,State Senate,19,,Write-ins,1
-Osage,0006 DRAGOON,State Senate,19,,Write-ins,0
-Osage,0007 ELK,State Senate,19,,Write-ins,0
-Osage,0008 FAIRFAX,State Senate,19,,Write-ins,1
-Osage,0009 GRANT,State Senate,19,,Write-ins,0
-Osage,0010 MICHIGAN VALLEY,State Senate,19,,Write-ins,0
-Osage,0011 VASSAR,State Senate,19,,Write-ins,1
-Osage,0012 LINCOLN,State Senate,19,,Write-ins,0
-Osage,0013 MELVERN,State Senate,19,,Write-ins,0
-Osage,0014 OLIVET,State Senate,19,,Write-ins,0
-Osage,0015 NORTH RIDGEWAY,State Senate,19,,Write-ins,0
-Osage,0016 SOUTH RIDGEWAY,State Senate,19,,Write-ins,0
-Osage,0017 SCRANTON,State Senate,19,,Write-ins,1
-Osage,0018 SUPERIOR,State Senate,19,,Write-ins,0
-Osage,0019 NORTH VALLEY BROOK,State Senate,19,,Write-ins,0
-Osage,0020 SOUTH VALLEY BROOK,State Senate,19,,Write-ins,2
-Osage,0001 AGENCY,State Senate,19,REP,Zach Haney,127
-Osage,0002 ARVONIA,State Senate,19,REP,Zach Haney,29
-Osage,0003 BARCLAY,State Senate,19,REP,Zach Haney,52
-Osage,0004 NORTH BURLINGAME,State Senate,19,REP,Zach Haney,226
-Osage,0005 SOUTH BURLINGAME,State Senate,19,REP,Zach Haney,186
-Osage,0006 DRAGOON,State Senate,19,REP,Zach Haney,59
-Osage,0007 ELK,State Senate,19,REP,Zach Haney,475
-Osage,0008 FAIRFAX,State Senate,19,REP,Zach Haney,167
-Osage,0009 GRANT,State Senate,19,REP,Zach Haney,80
-Osage,0010 MICHIGAN VALLEY,State Senate,19,REP,Zach Haney,131
-Osage,0011 VASSAR,State Senate,19,REP,Zach Haney,204
-Osage,0012 LINCOLN,State Senate,19,REP,Zach Haney,42
-Osage,0013 MELVERN,State Senate,19,REP,Zach Haney,186
-Osage,0014 OLIVET,State Senate,19,REP,Zach Haney,77
-Osage,0015 NORTH RIDGEWAY,State Senate,19,REP,Zach Haney,275
-Osage,0016 SOUTH RIDGEWAY,State Senate,19,REP,Zach Haney,248
-Osage,0017 SCRANTON,State Senate,19,REP,Zach Haney,237
-Osage,0018 SUPERIOR,State Senate,19,REP,Zach Haney,64
-Osage,0019 NORTH VALLEY BROOK,State Senate,19,REP,Zach Haney,247
-Osage,0020 SOUTH VALLEY BROOK,State Senate,19,REP,Zach Haney,126
-Osage,0001 AGENCY,U.S. House,2,DEM,Britani Potter,32
-Osage,0002 ARVONIA,U.S. House,2,DEM,Britani Potter,15
-Osage,0003 BARCLAY,U.S. House,2,DEM,Britani Potter,21
-Osage,0004 NORTH BURLINGAME,U.S. House,2,DEM,Britani Potter,101
-Osage,0005 SOUTH BURLINGAME,U.S. House,2,DEM,Britani Potter,70
-Osage,0006 DRAGOON,U.S. House,2,DEM,Britani Potter,23
-Osage,0007 ELK,U.S. House,2,DEM,Britani Potter,203
-Osage,0008 FAIRFAX,U.S. House,2,DEM,Britani Potter,66
-Osage,0009 GRANT,U.S. House,2,DEM,Britani Potter,23
-Osage,0010 MICHIGAN VALLEY,U.S. House,2,DEM,Britani Potter,67
-Osage,0011 VASSAR,U.S. House,2,DEM,Britani Potter,102
-Osage,0012 LINCOLN,U.S. House,2,DEM,Britani Potter,11
-Osage,0013 MELVERN,U.S. House,2,DEM,Britani Potter,65
-Osage,0014 OLIVET,U.S. House,2,DEM,Britani Potter,28
-Osage,0015 NORTH RIDGEWAY,U.S. House,2,DEM,Britani Potter,138
-Osage,0016 SOUTH RIDGEWAY,U.S. House,2,DEM,Britani Potter,117
-Osage,0017 SCRANTON,U.S. House,2,DEM,Britani Potter,104
-Osage,0018 SUPERIOR,U.S. House,2,DEM,Britani Potter,25
-Osage,0019 NORTH VALLEY BROOK,U.S. House,2,DEM,Britani Potter,96
-Osage,0020 SOUTH VALLEY BROOK,U.S. House,2,DEM,Britani Potter,40
-Osage,0021 WARD 1,U.S. House,2,DEM,Britani Potter,87
-Osage,0022 WARD 2,U.S. House,2,DEM,Britani Potter,55
-Osage,0023 WARD 3,U.S. House,2,DEM,Britani Potter,73
-Osage,0024 WARD 4,U.S. House,2,DEM,Britani Potter,70
-Osage,0001 AGENCY,U.S. House,2,LBT,James Bales,10
-Osage,0002 ARVONIA,U.S. House,2,LBT,James Bales,1
-Osage,0003 BARCLAY,U.S. House,2,LBT,James Bales,5
-Osage,0004 NORTH BURLINGAME,U.S. House,2,LBT,James Bales,25
-Osage,0005 SOUTH BURLINGAME,U.S. House,2,LBT,James Bales,40
-Osage,0006 DRAGOON,U.S. House,2,LBT,James Bales,8
-Osage,0007 ELK,U.S. House,2,LBT,James Bales,64
-Osage,0008 FAIRFAX,U.S. House,2,LBT,James Bales,13
-Osage,0009 GRANT,U.S. House,2,LBT,James Bales,14
-Osage,0010 MICHIGAN VALLEY,U.S. House,2,LBT,James Bales,14
-Osage,0011 VASSAR,U.S. House,2,LBT,James Bales,17
-Osage,0012 LINCOLN,U.S. House,2,LBT,James Bales,3
-Osage,0013 MELVERN,U.S. House,2,LBT,James Bales,15
-Osage,0014 OLIVET,U.S. House,2,LBT,James Bales,9
-Osage,0015 NORTH RIDGEWAY,U.S. House,2,LBT,James Bales,47
-Osage,0016 SOUTH RIDGEWAY,U.S. House,2,LBT,James Bales,28
-Osage,0017 SCRANTON,U.S. House,2,LBT,James Bales,36
-Osage,0018 SUPERIOR,U.S. House,2,LBT,James Bales,3
-Osage,0019 NORTH VALLEY BROOK,U.S. House,2,LBT,James Bales,28
-Osage,0020 SOUTH VALLEY BROOK,U.S. House,2,LBT,James Bales,19
-Osage,0021 WARD 1,U.S. House,2,LBT,James Bales,18
-Osage,0022 WARD 2,U.S. House,2,LBT,James Bales,9
-Osage,0023 WARD 3,U.S. House,2,LBT,James Bales,7
-Osage,0024 WARD 4,U.S. House,2,LBT,James Bales,17
-Osage,0001 AGENCY,U.S. House,2,REP,Lynn Jenkins,153
-Osage,0002 ARVONIA,U.S. House,2,REP,Lynn Jenkins,41
-Osage,0003 BARCLAY,U.S. House,2,REP,Lynn Jenkins,70
-Osage,0004 NORTH BURLINGAME,U.S. House,2,REP,Lynn Jenkins,289
-Osage,0005 SOUTH BURLINGAME,U.S. House,2,REP,Lynn Jenkins,239
-Osage,0006 DRAGOON,U.S. House,2,REP,Lynn Jenkins,81
-Osage,0007 ELK,U.S. House,2,REP,Lynn Jenkins,638
-Osage,0008 FAIRFAX,U.S. House,2,REP,Lynn Jenkins,214
-Osage,0009 GRANT,U.S. House,2,REP,Lynn Jenkins,105
-Osage,0010 MICHIGAN VALLEY,U.S. House,2,REP,Lynn Jenkins,171
-Osage,0011 VASSAR,U.S. House,2,REP,Lynn Jenkins,247
-Osage,0012 LINCOLN,U.S. House,2,REP,Lynn Jenkins,43
-Osage,0013 MELVERN,U.S. House,2,REP,Lynn Jenkins,239
-Osage,0014 OLIVET,U.S. House,2,REP,Lynn Jenkins,85
-Osage,0015 NORTH RIDGEWAY,U.S. House,2,REP,Lynn Jenkins,359
-Osage,0016 SOUTH RIDGEWAY,U.S. House,2,REP,Lynn Jenkins,361
-Osage,0017 SCRANTON,U.S. House,2,REP,Lynn Jenkins,321
-Osage,0018 SUPERIOR,U.S. House,2,REP,Lynn Jenkins,102
-Osage,0019 NORTH VALLEY BROOK,U.S. House,2,REP,Lynn Jenkins,339
-Osage,0020 SOUTH VALLEY BROOK,U.S. House,2,REP,Lynn Jenkins,156
-Osage,0021 WARD 1,U.S. House,2,REP,Lynn Jenkins,230
-Osage,0022 WARD 2,U.S. House,2,REP,Lynn Jenkins,128
-Osage,0023 WARD 3,U.S. House,2,REP,Lynn Jenkins,166
-Osage,0024 WARD 4,U.S. House,2,REP,Lynn Jenkins,228
-Osage,0001 AGENCY,U.S. House,2,,Write-ins,2
-Osage,0002 ARVONIA,U.S. House,2,,Write-ins,0
-Osage,0003 BARCLAY,U.S. House,2,,Write-ins,0
-Osage,0004 NORTH BURLINGAME,U.S. House,2,,Write-ins,0
-Osage,0005 SOUTH BURLINGAME,U.S. House,2,,Write-ins,3
-Osage,0006 DRAGOON,U.S. House,2,,Write-ins,0
-Osage,0007 ELK,U.S. House,2,,Write-ins,0
-Osage,0008 FAIRFAX,U.S. House,2,,Write-ins,1
-Osage,0009 GRANT,U.S. House,2,,Write-ins,0
-Osage,0010 MICHIGAN VALLEY,U.S. House,2,,Write-ins,1
-Osage,0011 VASSAR,U.S. House,2,,Write-ins,2
-Osage,0012 LINCOLN,U.S. House,2,,Write-ins,0
-Osage,0013 MELVERN,U.S. House,2,,Write-ins,1
-Osage,0014 OLIVET,U.S. House,2,,Write-ins,0
-Osage,0015 NORTH RIDGEWAY,U.S. House,2,,Write-ins,0
-Osage,0016 SOUTH RIDGEWAY,U.S. House,2,,Write-ins,2
-Osage,0017 SCRANTON,U.S. House,2,,Write-ins,1
-Osage,0018 SUPERIOR,U.S. House,2,,Write-ins,0
-Osage,0019 NORTH VALLEY BROOK,U.S. House,2,,Write-ins,0
-Osage,0020 SOUTH VALLEY BROOK,U.S. House,2,,Write-ins,1
-Osage,0021 WARD 1,U.S. House,2,,Write-ins,0
-Osage,0022 WARD 2,U.S. House,2,,Write-ins,0
-Osage,0023 WARD 3,U.S. House,2,,Write-ins,0
-Osage,0024 WARD 4,U.S. House,2,,Write-ins,0
-Osage,0001 AGENCY,U.S. Senate,,REP,Jerry Moran,147
-Osage,0002 ARVONIA,U.S. Senate,,REP,Jerry Moran,39
-Osage,0003 BARCLAY,U.S. Senate,,REP,Jerry Moran,77
-Osage,0004 NORTH BURLINGAME,U.S. Senate,,REP,Jerry Moran,293
-Osage,0005 SOUTH BURLINGAME,U.S. Senate,,REP,Jerry Moran,245
-Osage,0006 DRAGOON,U.S. Senate,,REP,Jerry Moran,78
-Osage,0007 ELK,U.S. Senate,,REP,Jerry Moran,649
-Osage,0008 FAIRFAX,U.S. Senate,,REP,Jerry Moran,225
-Osage,0009 GRANT,U.S. Senate,,REP,Jerry Moran,110
-Osage,0010 MICHIGAN VALLEY,U.S. Senate,,REP,Jerry Moran,168
-Osage,0011 VASSAR,U.S. Senate,,REP,Jerry Moran,250
-Osage,0012 LINCOLN,U.S. Senate,,REP,Jerry Moran,43
-Osage,0013 MELVERN,U.S. Senate,,REP,Jerry Moran,242
-Osage,0014 OLIVET,U.S. Senate,,REP,Jerry Moran,87
-Osage,0015 NORTH RIDGEWAY,U.S. Senate,,REP,Jerry Moran,359
-Osage,0016 SOUTH RIDGEWAY,U.S. Senate,,REP,Jerry Moran,333
-Osage,0017 SCRANTON,U.S. Senate,,REP,Jerry Moran,317
-Osage,0018 SUPERIOR,U.S. Senate,,REP,Jerry Moran,95
-Osage,0019 NORTH VALLEY BROOK,U.S. Senate,,REP,Jerry Moran,331
-Osage,0020 SOUTH VALLEY BROOK,U.S. Senate,,REP,Jerry Moran,149
-Osage,0021 WARD 1,U.S. Senate,,REP,Jerry Moran,221
-Osage,0022 WARD 2,U.S. Senate,,REP,Jerry Moran,126
-Osage,0023 WARD 3,U.S. Senate,,REP,Jerry Moran,170
-Osage,0024 WARD 4,U.S. Senate,,REP,Jerry Moran,223
-Osage,0001 AGENCY,U.S. Senate,,DEM,Patrick Wiesner,32
-Osage,0002 ARVONIA,U.S. Senate,,DEM,Patrick Wiesner,16
-Osage,0003 BARCLAY,U.S. Senate,,DEM,Patrick Wiesner,15
-Osage,0004 NORTH BURLINGAME,U.S. Senate,,DEM,Patrick Wiesner,96
-Osage,0005 SOUTH BURLINGAME,U.S. Senate,,DEM,Patrick Wiesner,70
-Osage,0006 DRAGOON,U.S. Senate,,DEM,Patrick Wiesner,25
-Osage,0007 ELK,U.S. Senate,,DEM,Patrick Wiesner,190
-Osage,0008 FAIRFAX,U.S. Senate,,DEM,Patrick Wiesner,61
-Osage,0009 GRANT,U.S. Senate,,DEM,Patrick Wiesner,21
-Osage,0010 MICHIGAN VALLEY,U.S. Senate,,DEM,Patrick Wiesner,63
-Osage,0011 VASSAR,U.S. Senate,,DEM,Patrick Wiesner,93
-Osage,0012 LINCOLN,U.S. Senate,,DEM,Patrick Wiesner,9
-Osage,0013 MELVERN,U.S. Senate,,DEM,Patrick Wiesner,68
-Osage,0014 OLIVET,U.S. Senate,,DEM,Patrick Wiesner,25
-Osage,0015 NORTH RIDGEWAY,U.S. Senate,,DEM,Patrick Wiesner,139
-Osage,0016 SOUTH RIDGEWAY,U.S. Senate,,DEM,Patrick Wiesner,129
-Osage,0017 SCRANTON,U.S. Senate,,DEM,Patrick Wiesner,115
-Osage,0018 SUPERIOR,U.S. Senate,,DEM,Patrick Wiesner,31
-Osage,0019 NORTH VALLEY BROOK,U.S. Senate,,DEM,Patrick Wiesner,95
-Osage,0020 SOUTH VALLEY BROOK,U.S. Senate,,DEM,Patrick Wiesner,52
-Osage,0021 WARD 1,U.S. Senate,,DEM,Patrick Wiesner,91
-Osage,0022 WARD 2,U.S. Senate,,DEM,Patrick Wiesner,57
-Osage,0023 WARD 3,U.S. Senate,,DEM,Patrick Wiesner,66
-Osage,0024 WARD 4,U.S. Senate,,DEM,Patrick Wiesner,77
-Osage,0001 AGENCY,U.S. Senate,,LBT,Robert Garrard,17
-Osage,0002 ARVONIA,U.S. Senate,,LBT,Robert Garrard,2
-Osage,0003 BARCLAY,U.S. Senate,,LBT,Robert Garrard,4
-Osage,0004 NORTH BURLINGAME,U.S. Senate,,LBT,Robert Garrard,25
-Osage,0005 SOUTH BURLINGAME,U.S. Senate,,LBT,Robert Garrard,35
-Osage,0006 DRAGOON,U.S. Senate,,LBT,Robert Garrard,8
-Osage,0007 ELK,U.S. Senate,,LBT,Robert Garrard,69
-Osage,0008 FAIRFAX,U.S. Senate,,LBT,Robert Garrard,9
-Osage,0009 GRANT,U.S. Senate,,LBT,Robert Garrard,10
-Osage,0010 MICHIGAN VALLEY,U.S. Senate,,LBT,Robert Garrard,22
-Osage,0011 VASSAR,U.S. Senate,,LBT,Robert Garrard,24
-Osage,0012 LINCOLN,U.S. Senate,,LBT,Robert Garrard,4
-Osage,0013 MELVERN,U.S. Senate,,LBT,Robert Garrard,15
-Osage,0014 OLIVET,U.S. Senate,,LBT,Robert Garrard,10
-Osage,0015 NORTH RIDGEWAY,U.S. Senate,,LBT,Robert Garrard,46
-Osage,0016 SOUTH RIDGEWAY,U.S. Senate,,LBT,Robert Garrard,43
-Osage,0017 SCRANTON,U.S. Senate,,LBT,Robert Garrard,32
-Osage,0018 SUPERIOR,U.S. Senate,,LBT,Robert Garrard,6
-Osage,0019 NORTH VALLEY BROOK,U.S. Senate,,LBT,Robert Garrard,39
-Osage,0020 SOUTH VALLEY BROOK,U.S. Senate,,LBT,Robert Garrard,15
-Osage,0021 WARD 1,U.S. Senate,,LBT,Robert Garrard,22
-Osage,0022 WARD 2,U.S. Senate,,LBT,Robert Garrard,9
-Osage,0023 WARD 3,U.S. Senate,,LBT,Robert Garrard,12
-Osage,0024 WARD 4,U.S. Senate,,LBT,Robert Garrard,16
-Osage,0001 AGENCY,U.S. Senate,,,Write-ins,2
-Osage,0002 ARVONIA,U.S. Senate,,,Write-ins,0
-Osage,0003 BARCLAY,U.S. Senate,,,Write-ins,0
-Osage,0004 NORTH BURLINGAME,U.S. Senate,,,Write-ins,1
-Osage,0005 SOUTH BURLINGAME,U.S. Senate,,,Write-ins,2
-Osage,0006 DRAGOON,U.S. Senate,,,Write-ins,0
-Osage,0007 ELK,U.S. Senate,,,Write-ins,2
-Osage,0008 FAIRFAX,U.S. Senate,,,Write-ins,0
-Osage,0009 GRANT,U.S. Senate,,,Write-ins,0
-Osage,0010 MICHIGAN VALLEY,U.S. Senate,,,Write-ins,1
-Osage,0011 VASSAR,U.S. Senate,,,Write-ins,1
-Osage,0012 LINCOLN,U.S. Senate,,,Write-ins,0
-Osage,0013 MELVERN,U.S. Senate,,,Write-ins,0
-Osage,0014 OLIVET,U.S. Senate,,,Write-ins,0
-Osage,0015 NORTH RIDGEWAY,U.S. Senate,,,Write-ins,0
-Osage,0016 SOUTH RIDGEWAY,U.S. Senate,,,Write-ins,2
-Osage,0017 SCRANTON,U.S. Senate,,,Write-ins,1
-Osage,0018 SUPERIOR,U.S. Senate,,,Write-ins,0
-Osage,0019 NORTH VALLEY BROOK,U.S. Senate,,,Write-ins,0
-Osage,0020 SOUTH VALLEY BROOK,U.S. Senate,,,Write-ins,0
-Osage,0021 WARD 1,U.S. Senate,,,Write-ins,0
-Osage,0022 WARD 2,U.S. Senate,,,Write-ins,0
-Osage,0023 WARD 3,U.S. Senate,,,Write-ins,0
-Osage,0024 WARD 4,U.S. Senate,,,Write-ins,1
+county,precinct,office,district,party,candidate,votes,vtd
+OSAGE,Grant Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",50,000007
+OSAGE,Grant Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",90,000007
+OSAGE,Agency Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",64,000010
+OSAGE,Agency Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",130,000010
+OSAGE,Arvonia Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",31,000020
+OSAGE,Arvonia Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",25,000020
+OSAGE,Barclay Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",39,000030
+OSAGE,Barclay Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",52,000030
+OSAGE,Dragoon Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",37,000040
+OSAGE,Dragoon Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",75,000040
+OSAGE,Elk Township,Kansas House of Representatives,54,Democratic,"Hansen, Renae",398,000050
+OSAGE,Elk Township,Kansas House of Representatives,54,Republican,"Corbet, Ken",497,000050
+OSAGE,Fairfax Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",252,000060
+OSAGE,Lincoln Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",15,000080
+OSAGE,Lincoln Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",39,000080
+OSAGE,Melvern Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",122,000090
+OSAGE,Melvern Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",200,000090
+OSAGE,Michigan Valley Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",215,000100
+OSAGE,North Burlingame,Kansas House of Representatives,54,Democratic,"Hansen, Renae",153,000110
+OSAGE,North Burlingame,Kansas House of Representatives,54,Republican,"Corbet, Ken",258,000110
+OSAGE,North Ridgeway,Kansas House of Representatives,54,Democratic,"Hansen, Renae",238,000120
+OSAGE,North Ridgeway,Kansas House of Representatives,54,Republican,"Corbet, Ken",303,000120
+OSAGE,North Valleybrook,Kansas House of Representatives,59,Republican,"Finch, Blaine",393,000130
+OSAGE,Olivet Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",38,000140
+OSAGE,Olivet Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",83,000140
+OSAGE,Osage City Ward 1,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",168,000150
+OSAGE,Osage City Ward 1,Kansas House of Representatives,76,Republican,"Smith, Eric L.",161,000150
+OSAGE,Osage City Ward 2,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",84,000160
+OSAGE,Osage City Ward 2,Kansas House of Representatives,76,Republican,"Smith, Eric L.",106,000160
+OSAGE,Osage City Ward 3,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",122,000170
+OSAGE,Osage City Ward 3,Kansas House of Representatives,76,Republican,"Smith, Eric L.",122,000170
+OSAGE,Osage City Ward 4,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",128,000180
+OSAGE,Osage City Ward 4,Kansas House of Representatives,76,Republican,"Smith, Eric L.",181,000180
+OSAGE,Scranton Township,Kansas House of Representatives,54,Democratic,"Hansen, Renae",164,000190
+OSAGE,Scranton Township,Kansas House of Representatives,54,Republican,"Corbet, Ken",279,000190
+OSAGE,South Burlingame,Kansas House of Representatives,54,Democratic,"Hansen, Renae",124,000200
+OSAGE,South Burlingame,Kansas House of Representatives,54,Republican,"Corbet, Ken",221,000200
+OSAGE,South Ridgeway,Kansas House of Representatives,54,Democratic,"Hansen, Renae",230,000210
+OSAGE,South Ridgeway,Kansas House of Representatives,54,Republican,"Corbet, Ken",273,000210
+OSAGE,South Valleybrook,Kansas House of Representatives,59,Republican,"Finch, Blaine",184,000220
+OSAGE,Superior Township,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",66,000230
+OSAGE,Superior Township,Kansas House of Representatives,76,Republican,"Smith, Eric L.",64,000230
+OSAGE,Vassar Township,Kansas House of Representatives,59,Republican,"Finch, Blaine",310,000240
+OSAGE,Superior Township Enclave 1,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",0,900010
+OSAGE,Superior Township Enclave 1,Kansas House of Representatives,76,Republican,"Smith, Eric L.",0,900010
+OSAGE,Grant Township Enclave 1,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",0,900020
+OSAGE,Grant Township Enclave 1,Kansas House of Representatives,76,Republican,"Smith, Eric L.",0,900020
+OSAGE,Grant Township Enclave 2,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",0,900030
+OSAGE,Grant Township Enclave 2,Kansas House of Representatives,76,Republican,"Smith, Eric L.",0,900030
+OSAGE,Osage City Ward 2 Exclave,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",0,900040
+OSAGE,Osage City Ward 2 Exclave,Kansas House of Representatives,76,Republican,"Smith, Eric L.",0,900040
+OSAGE,Grant Township,Kansas Senate,19,Democratic,"Hensley, Anthony",62,000007
+OSAGE,Grant Township,Kansas Senate,19,Republican,"Haney, Zach",80,000007
+OSAGE,Agency Township,Kansas Senate,19,Democratic,"Hensley, Anthony",67,000010
+OSAGE,Agency Township,Kansas Senate,19,Republican,"Haney, Zach",127,000010
+OSAGE,Arvonia Township,Kansas Senate,19,Democratic,"Hensley, Anthony",27,000020
+OSAGE,Arvonia Township,Kansas Senate,19,Republican,"Haney, Zach",29,000020
+OSAGE,Barclay Township,Kansas Senate,19,Democratic,"Hensley, Anthony",40,000030
+OSAGE,Barclay Township,Kansas Senate,19,Republican,"Haney, Zach",52,000030
+OSAGE,Dragoon Township,Kansas Senate,19,Democratic,"Hensley, Anthony",56,000040
+OSAGE,Dragoon Township,Kansas Senate,19,Republican,"Haney, Zach",59,000040
+OSAGE,Elk Township,Kansas Senate,19,Democratic,"Hensley, Anthony",427,000050
+OSAGE,Elk Township,Kansas Senate,19,Republican,"Haney, Zach",475,000050
+OSAGE,Fairfax Township,Kansas Senate,19,Democratic,"Hensley, Anthony",125,000060
+OSAGE,Fairfax Township,Kansas Senate,19,Republican,"Haney, Zach",167,000060
+OSAGE,Lincoln Township,Kansas Senate,19,Democratic,"Hensley, Anthony",15,000080
+OSAGE,Lincoln Township,Kansas Senate,19,Republican,"Haney, Zach",42,000080
+OSAGE,Melvern Township,Kansas Senate,19,Democratic,"Hensley, Anthony",136,000090
+OSAGE,Melvern Township,Kansas Senate,19,Republican,"Haney, Zach",186,000090
+OSAGE,Michigan Valley Township,Kansas Senate,19,Democratic,"Hensley, Anthony",120,000100
+OSAGE,Michigan Valley Township,Kansas Senate,19,Republican,"Haney, Zach",131,000100
+OSAGE,North Burlingame,Kansas Senate,19,Democratic,"Hensley, Anthony",182,000110
+OSAGE,North Burlingame,Kansas Senate,19,Republican,"Haney, Zach",226,000110
+OSAGE,North Ridgeway,Kansas Senate,19,Democratic,"Hensley, Anthony",267,000120
+OSAGE,North Ridgeway,Kansas Senate,19,Republican,"Haney, Zach",275,000120
+OSAGE,North Valleybrook,Kansas Senate,19,Democratic,"Hensley, Anthony",210,000130
+OSAGE,North Valleybrook,Kansas Senate,19,Republican,"Haney, Zach",247,000130
+OSAGE,Olivet Township,Kansas Senate,19,Democratic,"Hensley, Anthony",45,000140
+OSAGE,Olivet Township,Kansas Senate,19,Republican,"Haney, Zach",77,000140
+OSAGE,Osage City Ward 1,Kansas Senate,19,Democratic,"Hensley, Anthony",182,000150
+OSAGE,Osage City Ward 1,Kansas Senate,19,Republican,"Haney, Zach",151,000150
+OSAGE,Osage City Ward 2,Kansas Senate,19,Democratic,"Hensley, Anthony",109,000160
+OSAGE,Osage City Ward 2,Kansas Senate,19,Republican,"Haney, Zach",86,000160
+OSAGE,Osage City Ward 3,Kansas Senate,19,Democratic,"Hensley, Anthony",146,000170
+OSAGE,Osage City Ward 3,Kansas Senate,19,Republican,"Haney, Zach",101,000170
+OSAGE,Osage City Ward 4,Kansas Senate,19,Democratic,"Hensley, Anthony",158,000180
+OSAGE,Osage City Ward 4,Kansas Senate,19,Republican,"Haney, Zach",157,000180
+OSAGE,Scranton Township,Kansas Senate,19,Democratic,"Hensley, Anthony",214,000190
+OSAGE,Scranton Township,Kansas Senate,19,Republican,"Haney, Zach",237,000190
+OSAGE,South Burlingame,Kansas Senate,19,Democratic,"Hensley, Anthony",161,000200
+OSAGE,South Burlingame,Kansas Senate,19,Republican,"Haney, Zach",186,000200
+OSAGE,South Ridgeway,Kansas Senate,19,Democratic,"Hensley, Anthony",259,000210
+OSAGE,South Ridgeway,Kansas Senate,19,Republican,"Haney, Zach",248,000210
+OSAGE,South Valleybrook,Kansas Senate,19,Democratic,"Hensley, Anthony",87,000220
+OSAGE,South Valleybrook,Kansas Senate,19,Republican,"Haney, Zach",126,000220
+OSAGE,Superior Township,Kansas Senate,19,Democratic,"Hensley, Anthony",66,000230
+OSAGE,Superior Township,Kansas Senate,19,Republican,"Haney, Zach",64,000230
+OSAGE,Vassar Township,Kansas Senate,19,Democratic,"Hensley, Anthony",160,000240
+OSAGE,Vassar Township,Kansas Senate,19,Republican,"Haney, Zach",204,000240
+OSAGE,Superior Township Enclave 1,Kansas Senate,19,Democratic,"Hensley, Anthony",0,900010
+OSAGE,Superior Township Enclave 1,Kansas Senate,19,Republican,"Haney, Zach",0,900010
+OSAGE,Grant Township Enclave 1,Kansas Senate,19,Democratic,"Hensley, Anthony",0,900020
+OSAGE,Grant Township Enclave 1,Kansas Senate,19,Republican,"Haney, Zach",0,900020
+OSAGE,Grant Township Enclave 2,Kansas Senate,19,Democratic,"Hensley, Anthony",0,900030
+OSAGE,Grant Township Enclave 2,Kansas Senate,19,Republican,"Haney, Zach",0,900030
+OSAGE,Osage City Ward 2 Exclave,Kansas Senate,19,Democratic,"Hensley, Anthony",0,900040
+OSAGE,Osage City Ward 2 Exclave,Kansas Senate,19,Republican,"Haney, Zach",0,900040
+OSAGE,Grant Township,President / Vice President,,independent,"Stein, Jill",4,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Castle, Darrell L",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Giordani, Rocky",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Hedges, James A",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Kahn, Lynn",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"La Riva, Gloria",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Maturen, Michael A",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"McMullin, Evan",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Perry, Darryl",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Schriner, Joe C",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Smith, Mike",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Sood, Ajay",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Sterling, Shawna",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000007
+OSAGE,Grant Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000007
+OSAGE,Grant Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",32,000007
+OSAGE,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000007
+OSAGE,Grant Township,President / Vice President,,Republican,"Trump, Donald J.",101,000007
+OSAGE,Agency Township,President / Vice President,,independent,"Stein, Jill",6,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Castle, Darrell L",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Giordani, Rocky",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Hedges, James A",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Kahn, Lynn",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"La Riva, Gloria",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Maturen, Michael A",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"McMullin, Evan",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Perry, Darryl",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Schriner, Joe C",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Smith, Mike",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Sood, Ajay",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Sterling, Shawna",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000010
+OSAGE,Agency Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000010
+OSAGE,Agency Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",31,000010
+OSAGE,Agency Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000010
+OSAGE,Agency Township,President / Vice President,,Republican,"Trump, Donald J.",153,000010
+OSAGE,Arvonia Township,President / Vice President,,independent,"Stein, Jill",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Castle, Darrell L",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Giordani, Rocky",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Hedges, James A",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Kahn, Lynn",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"La Riva, Gloria",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Maturen, Michael A",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"McMullin, Evan",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Perry, Darryl",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Schriner, Joe C",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Smith, Mike",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Sood, Ajay",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Sterling, Shawna",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000020
+OSAGE,Arvonia Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000020
+OSAGE,Arvonia Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",18,000020
+OSAGE,Arvonia Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000020
+OSAGE,Arvonia Township,President / Vice President,,Republican,"Trump, Donald J.",32,000020
+OSAGE,Barclay Township,President / Vice President,,independent,"Stein, Jill",2,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Castle, Darrell L",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Giordani, Rocky",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Hedges, James A",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Kahn, Lynn",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"La Riva, Gloria",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Maturen, Michael A",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"McMullin, Evan",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Perry, Darryl",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Schriner, Joe C",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Smith, Mike",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Sood, Ajay",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Sterling, Shawna",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000030
+OSAGE,Barclay Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000030
+OSAGE,Barclay Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",20,000030
+OSAGE,Barclay Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000030
+OSAGE,Barclay Township,President / Vice President,,Republican,"Trump, Donald J.",68,000030
+OSAGE,Dragoon Township,President / Vice President,,independent,"Stein, Jill",2,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Castle, Darrell L",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Giordani, Rocky",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Hedges, James A",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Kahn, Lynn",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"La Riva, Gloria",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Maturen, Michael A",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"McMullin, Evan",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Perry, Darryl",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Schriner, Joe C",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Smith, Mike",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Sood, Ajay",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Sterling, Shawna",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000040
+OSAGE,Dragoon Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000040
+OSAGE,Dragoon Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",28,000040
+OSAGE,Dragoon Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000040
+OSAGE,Dragoon Township,President / Vice President,,Republican,"Trump, Donald J.",82,000040
+OSAGE,Elk Township,President / Vice President,,independent,"Stein, Jill",21,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Castle, Darrell L",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Giordani, Rocky",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Hedges, James A",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Kahn, Lynn",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"La Riva, Gloria",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Maturen, Michael A",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"McMullin, Evan",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Perry, Darryl",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Schriner, Joe C",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Smith, Mike",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Sood, Ajay",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Sterling, Shawna",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000050
+OSAGE,Elk Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000050
+OSAGE,Elk Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",211,000050
+OSAGE,Elk Township,President / Vice President,,Libertarian,"Johnson, Gary",46,000050
+OSAGE,Elk Township,President / Vice President,,Republican,"Trump, Donald J.",611,000050
+OSAGE,Fairfax Township,President / Vice President,,independent,"Stein, Jill",9,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Castle, Darrell L",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Giordani, Rocky",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Hedges, James A",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Kahn, Lynn",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"La Riva, Gloria",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Maturen, Michael A",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"McMullin, Evan",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Perry, Darryl",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Schriner, Joe C",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Smith, Mike",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Sood, Ajay",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Sterling, Shawna",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000060
+OSAGE,Fairfax Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000060
+OSAGE,Fairfax Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",79,000060
+OSAGE,Fairfax Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000060
+OSAGE,Fairfax Township,President / Vice President,,Republican,"Trump, Donald J.",192,000060
+OSAGE,Lincoln Township,President / Vice President,,independent,"Stein, Jill",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Castle, Darrell L",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Giordani, Rocky",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Hedges, James A",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Kahn, Lynn",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"La Riva, Gloria",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Maturen, Michael A",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"McMullin, Evan",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Perry, Darryl",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Schriner, Joe C",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Smith, Mike",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Sood, Ajay",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Sterling, Shawna",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000080
+OSAGE,Lincoln Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000080
+OSAGE,Lincoln Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",10,000080
+OSAGE,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000080
+OSAGE,Lincoln Township,President / Vice President,,Republican,"Trump, Donald J.",44,000080
+OSAGE,Melvern Township,President / Vice President,,independent,"Stein, Jill",9,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Castle, Darrell L",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Giordani, Rocky",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Hedges, James A",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Kahn, Lynn",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"La Riva, Gloria",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Maturen, Michael A",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"McMullin, Evan",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Perry, Darryl",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Schriner, Joe C",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Smith, Mike",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Sood, Ajay",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Sterling, Shawna",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000090
+OSAGE,Melvern Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000090
+OSAGE,Melvern Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",62,000090
+OSAGE,Melvern Township,President / Vice President,,Libertarian,"Johnson, Gary",14,000090
+OSAGE,Melvern Township,President / Vice President,,Republican,"Trump, Donald J.",232,000090
+OSAGE,Michigan Valley Township,President / Vice President,,independent,"Stein, Jill",4,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Castle, Darrell L",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Giordani, Rocky",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Hedges, James A",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Kahn, Lynn",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"La Riva, Gloria",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Maturen, Michael A",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"McMullin, Evan",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Perry, Darryl",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Schriner, Joe C",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Smith, Mike",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Sood, Ajay",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Sterling, Shawna",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000100
+OSAGE,Michigan Valley Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",65,000100
+OSAGE,Michigan Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",16,000100
+OSAGE,Michigan Valley Township,President / Vice President,,Republican,"Trump, Donald J.",167,000100
+OSAGE,North Burlingame,President / Vice President,,independent,"Stein, Jill",9,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Basiago, Andrew D.",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Castle, Darrell L",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Giordani, Rocky",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Hedges, James A",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Kahn, Lynn",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"La Riva, Gloria",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Levinson, Michael S.",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Maturen, Michael A",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"McMullin, Evan",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Moorehead, Monica G.",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Perry, Darryl",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Schriner, Joe C",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Smith, Mike",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Sood, Ajay",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Sterling, Shawna",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Valdivia, Anthony J",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000110
+OSAGE,North Burlingame,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000110
+OSAGE,North Burlingame,President / Vice President,,Democratic,"Clinton, Hillary Rodham",97,000110
+OSAGE,North Burlingame,President / Vice President,,Libertarian,"Johnson, Gary",18,000110
+OSAGE,North Burlingame,President / Vice President,,Republican,"Trump, Donald J.",291,000110
+OSAGE,North Ridgeway,President / Vice President,,independent,"Stein, Jill",10,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Basiago, Andrew D.",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Castle, Darrell L",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Giordani, Rocky",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Hedges, James A",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Kahn, Lynn",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"La Riva, Gloria",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Levinson, Michael S.",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Maturen, Michael A",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"McMullin, Evan",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Moorehead, Monica G.",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Perry, Darryl",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Schriner, Joe C",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Smith, Mike",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Sood, Ajay",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Sterling, Shawna",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Valdivia, Anthony J",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000120
+OSAGE,North Ridgeway,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000120
+OSAGE,North Ridgeway,President / Vice President,,Democratic,"Clinton, Hillary Rodham",142,000120
+OSAGE,North Ridgeway,President / Vice President,,Libertarian,"Johnson, Gary",19,000120
+OSAGE,North Ridgeway,President / Vice President,,Republican,"Trump, Donald J.",366,000120
+OSAGE,North Valleybrook,President / Vice President,,independent,"Stein, Jill",12,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Basiago, Andrew D.",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Castle, Darrell L",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Giordani, Rocky",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Hedges, James A",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Kahn, Lynn",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"La Riva, Gloria",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Levinson, Michael S.",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Maturen, Michael A",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"McMullin, Evan",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Moorehead, Monica G.",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Perry, Darryl",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Schriner, Joe C",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Smith, Mike",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Sood, Ajay",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Sterling, Shawna",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Valdivia, Anthony J",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000130
+OSAGE,North Valleybrook,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000130
+OSAGE,North Valleybrook,President / Vice President,,Democratic,"Clinton, Hillary Rodham",111,000130
+OSAGE,North Valleybrook,President / Vice President,,Libertarian,"Johnson, Gary",26,000130
+OSAGE,North Valleybrook,President / Vice President,,Republican,"Trump, Donald J.",317,000130
+OSAGE,Olivet Township,President / Vice President,,independent,"Stein, Jill",1,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Castle, Darrell L",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Giordani, Rocky",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Hedges, James A",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Kahn, Lynn",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"La Riva, Gloria",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Maturen, Michael A",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"McMullin, Evan",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Perry, Darryl",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Schriner, Joe C",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Smith, Mike",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Sood, Ajay",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Sterling, Shawna",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000140
+OSAGE,Olivet Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000140
+OSAGE,Olivet Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",26,000140
+OSAGE,Olivet Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000140
+OSAGE,Olivet Township,President / Vice President,,Republican,"Trump, Donald J.",93,000140
+OSAGE,Osage City Ward 1,President / Vice President,,independent,"Stein, Jill",8,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Castle, Darrell L",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Giordani, Rocky",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Hedges, James A",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Kahn, Lynn",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"La Riva, Gloria",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Levinson, Michael S.",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Maturen, Michael A",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"McMullin, Evan",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Perry, Darryl",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Schriner, Joe C",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Smith, Mike",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Sood, Ajay",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Sterling, Shawna",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000150
+OSAGE,Osage City Ward 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",108,000150
+OSAGE,Osage City Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",10,000150
+OSAGE,Osage City Ward 1,President / Vice President,,Republican,"Trump, Donald J.",203,000150
+OSAGE,Osage City Ward 2,President / Vice President,,independent,"Stein, Jill",3,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Castle, Darrell L",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Giordani, Rocky",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Hedges, James A",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Kahn, Lynn",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"La Riva, Gloria",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Levinson, Michael S.",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Maturen, Michael A",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"McMullin, Evan",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Perry, Darryl",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Schriner, Joe C",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Smith, Mike",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Sood, Ajay",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Sterling, Shawna",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000160
+OSAGE,Osage City Ward 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",59,000160
+OSAGE,Osage City Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",6,000160
+OSAGE,Osage City Ward 2,President / Vice President,,Republican,"Trump, Donald J.",122,000160
+OSAGE,Osage City Ward 3,President / Vice President,,independent,"Stein, Jill",4,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Basiago, Andrew D.",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Castle, Darrell L",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Giordani, Rocky",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Hedges, James A",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Kahn, Lynn",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"La Riva, Gloria",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Levinson, Michael S.",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Maturen, Michael A",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"McMullin, Evan",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Moorehead, Monica G.",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Perry, Darryl",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Schriner, Joe C",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Smith, Mike",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Sood, Ajay",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Sterling, Shawna",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Valdivia, Anthony J",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000170
+OSAGE,Osage City Ward 3,President / Vice President,,Democratic,"Clinton, Hillary Rodham",76,000170
+OSAGE,Osage City Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",9,000170
+OSAGE,Osage City Ward 3,President / Vice President,,Republican,"Trump, Donald J.",155,000170
+OSAGE,Osage City Ward 4,President / Vice President,,independent,"Stein, Jill",6,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Basiago, Andrew D.",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Castle, Darrell L",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Giordani, Rocky",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Hedges, James A",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Kahn, Lynn",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"La Riva, Gloria",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Levinson, Michael S.",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Maturen, Michael A",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"McMullin, Evan",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Moorehead, Monica G.",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Perry, Darryl",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Schriner, Joe C",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Smith, Mike",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Sood, Ajay",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Sterling, Shawna",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Valdivia, Anthony J",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000180
+OSAGE,Osage City Ward 4,President / Vice President,,Democratic,"Clinton, Hillary Rodham",88,000180
+OSAGE,Osage City Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",14,000180
+OSAGE,Osage City Ward 4,President / Vice President,,Republican,"Trump, Donald J.",207,000180
+OSAGE,Scranton Township,President / Vice President,,independent,"Stein, Jill",6,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Castle, Darrell L",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Giordani, Rocky",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Hedges, James A",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Kahn, Lynn",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"La Riva, Gloria",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Maturen, Michael A",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"McMullin, Evan",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Perry, Darryl",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Schriner, Joe C",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Smith, Mike",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Sood, Ajay",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Sterling, Shawna",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000190
+OSAGE,Scranton Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000190
+OSAGE,Scranton Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",117,000190
+OSAGE,Scranton Township,President / Vice President,,Libertarian,"Johnson, Gary",20,000190
+OSAGE,Scranton Township,President / Vice President,,Republican,"Trump, Donald J.",327,000190
+OSAGE,South Burlingame,President / Vice President,,independent,"Stein, Jill",17,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Basiago, Andrew D.",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Castle, Darrell L",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Giordani, Rocky",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Hedges, James A",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Kahn, Lynn",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"La Riva, Gloria",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Levinson, Michael S.",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Maturen, Michael A",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"McMullin, Evan",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Moorehead, Monica G.",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Perry, Darryl",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Schriner, Joe C",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Smith, Mike",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Sood, Ajay",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Sterling, Shawna",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Valdivia, Anthony J",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000200
+OSAGE,South Burlingame,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000200
+OSAGE,South Burlingame,President / Vice President,,Democratic,"Clinton, Hillary Rodham",63,000200
+OSAGE,South Burlingame,President / Vice President,,Libertarian,"Johnson, Gary",18,000200
+OSAGE,South Burlingame,President / Vice President,,Republican,"Trump, Donald J.",254,000200
+OSAGE,South Ridgeway,President / Vice President,,independent,"Stein, Jill",13,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Basiago, Andrew D.",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Castle, Darrell L",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Giordani, Rocky",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Hedges, James A",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Kahn, Lynn",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"La Riva, Gloria",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Levinson, Michael S.",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Maturen, Michael A",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"McMullin, Evan",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Moorehead, Monica G.",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Perry, Darryl",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Schriner, Joe C",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Smith, Mike",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Sood, Ajay",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Sterling, Shawna",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Valdivia, Anthony J",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000210
+OSAGE,South Ridgeway,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000210
+OSAGE,South Ridgeway,President / Vice President,,Democratic,"Clinton, Hillary Rodham",143,000210
+OSAGE,South Ridgeway,President / Vice President,,Libertarian,"Johnson, Gary",25,000210
+OSAGE,South Ridgeway,President / Vice President,,Republican,"Trump, Donald J.",321,000210
+OSAGE,South Valleybrook,President / Vice President,,independent,"Stein, Jill",5,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Basiago, Andrew D.",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Castle, Darrell L",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Giordani, Rocky",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Hedges, James A",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Kahn, Lynn",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"La Riva, Gloria",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Levinson, Michael S.",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Maturen, Michael A",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"McMullin, Evan",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Moorehead, Monica G.",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Perry, Darryl",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Schriner, Joe C",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Smith, Mike",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Sood, Ajay",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Sterling, Shawna",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Valdivia, Anthony J",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000220
+OSAGE,South Valleybrook,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000220
+OSAGE,South Valleybrook,President / Vice President,,Democratic,"Clinton, Hillary Rodham",44,000220
+OSAGE,South Valleybrook,President / Vice President,,Libertarian,"Johnson, Gary",6,000220
+OSAGE,South Valleybrook,President / Vice President,,Republican,"Trump, Donald J.",153,000220
+OSAGE,Superior Township,President / Vice President,,independent,"Stein, Jill",3,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Castle, Darrell L",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Giordani, Rocky",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Hedges, James A",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Kahn, Lynn",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"La Riva, Gloria",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Maturen, Michael A",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"McMullin, Evan",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Perry, Darryl",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Schriner, Joe C",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Smith, Mike",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Sood, Ajay",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Sterling, Shawna",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000230
+OSAGE,Superior Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000230
+OSAGE,Superior Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",37,000230
+OSAGE,Superior Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000230
+OSAGE,Superior Township,President / Vice President,,Republican,"Trump, Donald J.",88,000230
+OSAGE,Vassar Township,President / Vice President,,independent,"Stein, Jill",11,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Basiago, Andrew D.",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Castle, Darrell L",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Giordani, Rocky",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Hedges, James A",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Kahn, Lynn",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"La Riva, Gloria",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Levinson, Michael S.",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Maturen, Michael A",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"McMullin, Evan",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Moorehead, Monica G.",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Perry, Darryl",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Schoenke, Marshall R.",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Schriner, Joe C",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Smith, Mike",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Sood, Ajay",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Sterling, Shawna",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Valdivia, Anthony J",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,000240
+OSAGE,Vassar Township,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,000240
+OSAGE,Vassar Township,President / Vice President,,Democratic,"Clinton, Hillary Rodham",86,000240
+OSAGE,Vassar Township,President / Vice President,,Libertarian,"Johnson, Gary",13,000240
+OSAGE,Vassar Township,President / Vice President,,Republican,"Trump, Donald J.",247,000240
+OSAGE,Superior Township Enclave 1,President / Vice President,,independent,"Stein, Jill",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Hedges, James A",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Smith, Mike",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+OSAGE,Superior Township Enclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900010
+OSAGE,Grant Township Enclave 1,President / Vice President,,independent,"Stein, Jill",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Basiago, Andrew D.",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Castle, Darrell L",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Giordani, Rocky",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Hedges, James A",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Kahn, Lynn",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"La Riva, Gloria",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Levinson, Michael S.",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Maturen, Michael A",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"McMullin, Evan",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Moorehead, Monica G.",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Perry, Darryl",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Schriner, Joe C",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Smith, Mike",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Sood, Ajay",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Sterling, Shawna",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Valdivia, Anthony J",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+OSAGE,Grant Township Enclave 1,President / Vice President,,Republican,"Trump, Donald J.",0,900020
+OSAGE,Grant Township Enclave 2,President / Vice President,,independent,"Stein, Jill",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Basiago, Andrew D.",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Castle, Darrell L",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Giordani, Rocky",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Hedges, James A",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Kahn, Lynn",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"La Riva, Gloria",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Levinson, Michael S.",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Maturen, Michael A",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"McMullin, Evan",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Moorehead, Monica G.",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Perry, Darryl",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Schriner, Joe C",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Smith, Mike",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Sood, Ajay",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Sterling, Shawna",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Valdivia, Anthony J",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+OSAGE,Grant Township Enclave 2,President / Vice President,,Republican,"Trump, Donald J.",0,900030
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,independent,"Stein, Jill",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Basiago, Andrew D.",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Castle, Darrell L",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"De La Fuente, ""Rocky"" Roque",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Giordani, Rocky",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Hedges, James A",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Kahn, Lynn",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"La Riva, Gloria",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Levinson, Michael S.",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Maturen, Michael A",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"McMullin, Evan",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Moorehead, Monica G.",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Perry, Darryl",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Schoenke, Marshall R.",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Schriner, Joe C",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Smith, Mike",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Sood, Ajay",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Sterling, Shawna",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Valdivia, Anthony J",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Vogel-Walcutt, J.J.",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,write - in,"Wysinger, Demetra Jefferson",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,Democratic,"Clinton, Hillary Rodham",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900040
+OSAGE,Osage City Ward 2 Exclave,President / Vice President,,Republican,"Trump, Donald J.",0,900040
+OSAGE,Grant Township,United States House of Representatives,2,Democratic,"Potter, Britani",23,000007
+OSAGE,Grant Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000007
+OSAGE,Grant Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",105,000007
+OSAGE,Agency Township,United States House of Representatives,2,Democratic,"Potter, Britani",32,000010
+OSAGE,Agency Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",10,000010
+OSAGE,Agency Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",153,000010
+OSAGE,Arvonia Township,United States House of Representatives,2,Democratic,"Potter, Britani",15,000020
+OSAGE,Arvonia Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",1,000020
+OSAGE,Arvonia Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",41,000020
+OSAGE,Barclay Township,United States House of Representatives,2,Democratic,"Potter, Britani",21,000030
+OSAGE,Barclay Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",5,000030
+OSAGE,Barclay Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",70,000030
+OSAGE,Dragoon Township,United States House of Representatives,2,Democratic,"Potter, Britani",23,000040
+OSAGE,Dragoon Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",8,000040
+OSAGE,Dragoon Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",81,000040
+OSAGE,Elk Township,United States House of Representatives,2,Democratic,"Potter, Britani",203,000050
+OSAGE,Elk Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",64,000050
+OSAGE,Elk Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",638,000050
+OSAGE,Fairfax Township,United States House of Representatives,2,Democratic,"Potter, Britani",66,000060
+OSAGE,Fairfax Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",13,000060
+OSAGE,Fairfax Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",214,000060
+OSAGE,Lincoln Township,United States House of Representatives,2,Democratic,"Potter, Britani",11,000080
+OSAGE,Lincoln Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000080
+OSAGE,Lincoln Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",43,000080
+OSAGE,Melvern Township,United States House of Representatives,2,Democratic,"Potter, Britani",65,000090
+OSAGE,Melvern Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",15,000090
+OSAGE,Melvern Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",239,000090
+OSAGE,Michigan Valley Township,United States House of Representatives,2,Democratic,"Potter, Britani",67,000100
+OSAGE,Michigan Valley Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",14,000100
+OSAGE,Michigan Valley Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",171,000100
+OSAGE,North Burlingame,United States House of Representatives,2,Democratic,"Potter, Britani",101,000110
+OSAGE,North Burlingame,United States House of Representatives,2,Libertarian,"Bales, James Houston",25,000110
+OSAGE,North Burlingame,United States House of Representatives,2,Republican,"Jenkins, Lynn",289,000110
+OSAGE,North Ridgeway,United States House of Representatives,2,Democratic,"Potter, Britani",138,000120
+OSAGE,North Ridgeway,United States House of Representatives,2,Libertarian,"Bales, James Houston",47,000120
+OSAGE,North Ridgeway,United States House of Representatives,2,Republican,"Jenkins, Lynn",359,000120
+OSAGE,North Valleybrook,United States House of Representatives,2,Democratic,"Potter, Britani",96,000130
+OSAGE,North Valleybrook,United States House of Representatives,2,Libertarian,"Bales, James Houston",28,000130
+OSAGE,North Valleybrook,United States House of Representatives,2,Republican,"Jenkins, Lynn",339,000130
+OSAGE,Olivet Township,United States House of Representatives,2,Democratic,"Potter, Britani",28,000140
+OSAGE,Olivet Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000140
+OSAGE,Olivet Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",85,000140
+OSAGE,Osage City Ward 1,United States House of Representatives,2,Democratic,"Potter, Britani",87,000150
+OSAGE,Osage City Ward 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",18,000150
+OSAGE,Osage City Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",230,000150
+OSAGE,Osage City Ward 2,United States House of Representatives,2,Democratic,"Potter, Britani",55,000160
+OSAGE,Osage City Ward 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",9,000160
+OSAGE,Osage City Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",128,000160
+OSAGE,Osage City Ward 3,United States House of Representatives,2,Democratic,"Potter, Britani",73,000170
+OSAGE,Osage City Ward 3,United States House of Representatives,2,Libertarian,"Bales, James Houston",7,000170
+OSAGE,Osage City Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",166,000170
+OSAGE,Osage City Ward 4,United States House of Representatives,2,Democratic,"Potter, Britani",70,000180
+OSAGE,Osage City Ward 4,United States House of Representatives,2,Libertarian,"Bales, James Houston",17,000180
+OSAGE,Osage City Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",228,000180
+OSAGE,Scranton Township,United States House of Representatives,2,Democratic,"Potter, Britani",104,000190
+OSAGE,Scranton Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",36,000190
+OSAGE,Scranton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",321,000190
+OSAGE,South Burlingame,United States House of Representatives,2,Democratic,"Potter, Britani",70,000200
+OSAGE,South Burlingame,United States House of Representatives,2,Libertarian,"Bales, James Houston",40,000200
+OSAGE,South Burlingame,United States House of Representatives,2,Republican,"Jenkins, Lynn",239,000200
+OSAGE,South Ridgeway,United States House of Representatives,2,Democratic,"Potter, Britani",117,000210
+OSAGE,South Ridgeway,United States House of Representatives,2,Libertarian,"Bales, James Houston",28,000210
+OSAGE,South Ridgeway,United States House of Representatives,2,Republican,"Jenkins, Lynn",361,000210
+OSAGE,South Valleybrook,United States House of Representatives,2,Democratic,"Potter, Britani",40,000220
+OSAGE,South Valleybrook,United States House of Representatives,2,Libertarian,"Bales, James Houston",19,000220
+OSAGE,South Valleybrook,United States House of Representatives,2,Republican,"Jenkins, Lynn",156,000220
+OSAGE,Superior Township,United States House of Representatives,2,Democratic,"Potter, Britani",25,000230
+OSAGE,Superior Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",3,000230
+OSAGE,Superior Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",102,000230
+OSAGE,Vassar Township,United States House of Representatives,2,Democratic,"Potter, Britani",102,000240
+OSAGE,Vassar Township,United States House of Representatives,2,Libertarian,"Bales, James Houston",17,000240
+OSAGE,Vassar Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",247,000240
+OSAGE,Superior Township Enclave 1,United States House of Representatives,2,Democratic,"Potter, Britani",0,900010
+OSAGE,Superior Township Enclave 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900010
+OSAGE,Superior Township Enclave 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+OSAGE,Grant Township Enclave 1,United States House of Representatives,2,Democratic,"Potter, Britani",0,900020
+OSAGE,Grant Township Enclave 1,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900020
+OSAGE,Grant Township Enclave 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+OSAGE,Grant Township Enclave 2,United States House of Representatives,2,Democratic,"Potter, Britani",0,900030
+OSAGE,Grant Township Enclave 2,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900030
+OSAGE,Grant Township Enclave 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900030
+OSAGE,Osage City Ward 2 Exclave,United States House of Representatives,2,Democratic,"Potter, Britani",0,900040
+OSAGE,Osage City Ward 2 Exclave,United States House of Representatives,2,Libertarian,"Bales, James Houston",0,900040
+OSAGE,Osage City Ward 2 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900040
+OSAGE,Grant Township,United States Senate,,write - in,"Smith, DJ",0,000007
+OSAGE,Grant Township,United States Senate,,Democratic,"Wiesner, Patrick",21,000007
+OSAGE,Grant Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000007
+OSAGE,Grant Township,United States Senate,,Republican,"Moran, Jerry",110,000007
+OSAGE,Agency Township,United States Senate,,write - in,"Smith, DJ",0,000010
+OSAGE,Agency Township,United States Senate,,Democratic,"Wiesner, Patrick",32,000010
+OSAGE,Agency Township,United States Senate,,Libertarian,"Garrard, Robert D.",17,000010
+OSAGE,Agency Township,United States Senate,,Republican,"Moran, Jerry",147,000010
+OSAGE,Arvonia Township,United States Senate,,write - in,"Smith, DJ",0,000020
+OSAGE,Arvonia Township,United States Senate,,Democratic,"Wiesner, Patrick",16,000020
+OSAGE,Arvonia Township,United States Senate,,Libertarian,"Garrard, Robert D.",2,000020
+OSAGE,Arvonia Township,United States Senate,,Republican,"Moran, Jerry",39,000020
+OSAGE,Barclay Township,United States Senate,,write - in,"Smith, DJ",0,000030
+OSAGE,Barclay Township,United States Senate,,Democratic,"Wiesner, Patrick",15,000030
+OSAGE,Barclay Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000030
+OSAGE,Barclay Township,United States Senate,,Republican,"Moran, Jerry",77,000030
+OSAGE,Dragoon Township,United States Senate,,write - in,"Smith, DJ",0,000040
+OSAGE,Dragoon Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000040
+OSAGE,Dragoon Township,United States Senate,,Libertarian,"Garrard, Robert D.",8,000040
+OSAGE,Dragoon Township,United States Senate,,Republican,"Moran, Jerry",78,000040
+OSAGE,Elk Township,United States Senate,,write - in,"Smith, DJ",0,000050
+OSAGE,Elk Township,United States Senate,,Democratic,"Wiesner, Patrick",190,000050
+OSAGE,Elk Township,United States Senate,,Libertarian,"Garrard, Robert D.",69,000050
+OSAGE,Elk Township,United States Senate,,Republican,"Moran, Jerry",649,000050
+OSAGE,Fairfax Township,United States Senate,,write - in,"Smith, DJ",0,000060
+OSAGE,Fairfax Township,United States Senate,,Democratic,"Wiesner, Patrick",61,000060
+OSAGE,Fairfax Township,United States Senate,,Libertarian,"Garrard, Robert D.",9,000060
+OSAGE,Fairfax Township,United States Senate,,Republican,"Moran, Jerry",225,000060
+OSAGE,Lincoln Township,United States Senate,,write - in,"Smith, DJ",0,000080
+OSAGE,Lincoln Township,United States Senate,,Democratic,"Wiesner, Patrick",9,000080
+OSAGE,Lincoln Township,United States Senate,,Libertarian,"Garrard, Robert D.",4,000080
+OSAGE,Lincoln Township,United States Senate,,Republican,"Moran, Jerry",43,000080
+OSAGE,Melvern Township,United States Senate,,write - in,"Smith, DJ",0,000090
+OSAGE,Melvern Township,United States Senate,,Democratic,"Wiesner, Patrick",68,000090
+OSAGE,Melvern Township,United States Senate,,Libertarian,"Garrard, Robert D.",15,000090
+OSAGE,Melvern Township,United States Senate,,Republican,"Moran, Jerry",242,000090
+OSAGE,Michigan Valley Township,United States Senate,,write - in,"Smith, DJ",0,000100
+OSAGE,Michigan Valley Township,United States Senate,,Democratic,"Wiesner, Patrick",63,000100
+OSAGE,Michigan Valley Township,United States Senate,,Libertarian,"Garrard, Robert D.",22,000100
+OSAGE,Michigan Valley Township,United States Senate,,Republican,"Moran, Jerry",168,000100
+OSAGE,North Burlingame,United States Senate,,write - in,"Smith, DJ",0,000110
+OSAGE,North Burlingame,United States Senate,,Democratic,"Wiesner, Patrick",96,000110
+OSAGE,North Burlingame,United States Senate,,Libertarian,"Garrard, Robert D.",25,000110
+OSAGE,North Burlingame,United States Senate,,Republican,"Moran, Jerry",293,000110
+OSAGE,North Ridgeway,United States Senate,,write - in,"Smith, DJ",0,000120
+OSAGE,North Ridgeway,United States Senate,,Democratic,"Wiesner, Patrick",139,000120
+OSAGE,North Ridgeway,United States Senate,,Libertarian,"Garrard, Robert D.",46,000120
+OSAGE,North Ridgeway,United States Senate,,Republican,"Moran, Jerry",359,000120
+OSAGE,North Valleybrook,United States Senate,,write - in,"Smith, DJ",0,000130
+OSAGE,North Valleybrook,United States Senate,,Democratic,"Wiesner, Patrick",95,000130
+OSAGE,North Valleybrook,United States Senate,,Libertarian,"Garrard, Robert D.",39,000130
+OSAGE,North Valleybrook,United States Senate,,Republican,"Moran, Jerry",331,000130
+OSAGE,Olivet Township,United States Senate,,write - in,"Smith, DJ",0,000140
+OSAGE,Olivet Township,United States Senate,,Democratic,"Wiesner, Patrick",25,000140
+OSAGE,Olivet Township,United States Senate,,Libertarian,"Garrard, Robert D.",10,000140
+OSAGE,Olivet Township,United States Senate,,Republican,"Moran, Jerry",87,000140
+OSAGE,Osage City Ward 1,United States Senate,,write - in,"Smith, DJ",0,000150
+OSAGE,Osage City Ward 1,United States Senate,,Democratic,"Wiesner, Patrick",91,000150
+OSAGE,Osage City Ward 1,United States Senate,,Libertarian,"Garrard, Robert D.",22,000150
+OSAGE,Osage City Ward 1,United States Senate,,Republican,"Moran, Jerry",221,000150
+OSAGE,Osage City Ward 2,United States Senate,,write - in,"Smith, DJ",0,000160
+OSAGE,Osage City Ward 2,United States Senate,,Democratic,"Wiesner, Patrick",57,000160
+OSAGE,Osage City Ward 2,United States Senate,,Libertarian,"Garrard, Robert D.",9,000160
+OSAGE,Osage City Ward 2,United States Senate,,Republican,"Moran, Jerry",126,000160
+OSAGE,Osage City Ward 3,United States Senate,,write - in,"Smith, DJ",0,000170
+OSAGE,Osage City Ward 3,United States Senate,,Democratic,"Wiesner, Patrick",66,000170
+OSAGE,Osage City Ward 3,United States Senate,,Libertarian,"Garrard, Robert D.",12,000170
+OSAGE,Osage City Ward 3,United States Senate,,Republican,"Moran, Jerry",170,000170
+OSAGE,Osage City Ward 4,United States Senate,,write - in,"Smith, DJ",0,000180
+OSAGE,Osage City Ward 4,United States Senate,,Democratic,"Wiesner, Patrick",77,000180
+OSAGE,Osage City Ward 4,United States Senate,,Libertarian,"Garrard, Robert D.",16,000180
+OSAGE,Osage City Ward 4,United States Senate,,Republican,"Moran, Jerry",223,000180
+OSAGE,Scranton Township,United States Senate,,write - in,"Smith, DJ",0,000190
+OSAGE,Scranton Township,United States Senate,,Democratic,"Wiesner, Patrick",115,000190
+OSAGE,Scranton Township,United States Senate,,Libertarian,"Garrard, Robert D.",32,000190
+OSAGE,Scranton Township,United States Senate,,Republican,"Moran, Jerry",317,000190
+OSAGE,South Burlingame,United States Senate,,write - in,"Smith, DJ",0,000200
+OSAGE,South Burlingame,United States Senate,,Democratic,"Wiesner, Patrick",70,000200
+OSAGE,South Burlingame,United States Senate,,Libertarian,"Garrard, Robert D.",35,000200
+OSAGE,South Burlingame,United States Senate,,Republican,"Moran, Jerry",245,000200
+OSAGE,South Ridgeway,United States Senate,,write - in,"Smith, DJ",0,000210
+OSAGE,South Ridgeway,United States Senate,,Democratic,"Wiesner, Patrick",129,000210
+OSAGE,South Ridgeway,United States Senate,,Libertarian,"Garrard, Robert D.",43,000210
+OSAGE,South Ridgeway,United States Senate,,Republican,"Moran, Jerry",333,000210
+OSAGE,South Valleybrook,United States Senate,,write - in,"Smith, DJ",0,000220
+OSAGE,South Valleybrook,United States Senate,,Democratic,"Wiesner, Patrick",52,000220
+OSAGE,South Valleybrook,United States Senate,,Libertarian,"Garrard, Robert D.",15,000220
+OSAGE,South Valleybrook,United States Senate,,Republican,"Moran, Jerry",149,000220
+OSAGE,Superior Township,United States Senate,,write - in,"Smith, DJ",0,000230
+OSAGE,Superior Township,United States Senate,,Democratic,"Wiesner, Patrick",31,000230
+OSAGE,Superior Township,United States Senate,,Libertarian,"Garrard, Robert D.",6,000230
+OSAGE,Superior Township,United States Senate,,Republican,"Moran, Jerry",95,000230
+OSAGE,Vassar Township,United States Senate,,write - in,"Smith, DJ",0,000240
+OSAGE,Vassar Township,United States Senate,,Democratic,"Wiesner, Patrick",93,000240
+OSAGE,Vassar Township,United States Senate,,Libertarian,"Garrard, Robert D.",24,000240
+OSAGE,Vassar Township,United States Senate,,Republican,"Moran, Jerry",250,000240
+OSAGE,Superior Township Enclave 1,United States Senate,,write - in,"Smith, DJ",0,900010
+OSAGE,Superior Township Enclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900010
+OSAGE,Superior Township Enclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900010
+OSAGE,Superior Township Enclave 1,United States Senate,,Republican,"Moran, Jerry",0,900010
+OSAGE,Grant Township Enclave 1,United States Senate,,write - in,"Smith, DJ",0,900020
+OSAGE,Grant Township Enclave 1,United States Senate,,Democratic,"Wiesner, Patrick",0,900020
+OSAGE,Grant Township Enclave 1,United States Senate,,Libertarian,"Garrard, Robert D.",0,900020
+OSAGE,Grant Township Enclave 1,United States Senate,,Republican,"Moran, Jerry",0,900020
+OSAGE,Grant Township Enclave 2,United States Senate,,write - in,"Smith, DJ",0,900030
+OSAGE,Grant Township Enclave 2,United States Senate,,Democratic,"Wiesner, Patrick",0,900030
+OSAGE,Grant Township Enclave 2,United States Senate,,Libertarian,"Garrard, Robert D.",0,900030
+OSAGE,Grant Township Enclave 2,United States Senate,,Republican,"Moran, Jerry",0,900030
+OSAGE,Osage City Ward 2 Exclave,United States Senate,,write - in,"Smith, DJ",0,900040
+OSAGE,Osage City Ward 2 Exclave,United States Senate,,Democratic,"Wiesner, Patrick",0,900040
+OSAGE,Osage City Ward 2 Exclave,United States Senate,,Libertarian,"Garrard, Robert D.",0,900040
+OSAGE,Osage City Ward 2 Exclave,United States Senate,,Republican,"Moran, Jerry",0,900040
