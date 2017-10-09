@@ -1,0 +1,976 @@
+county,precinct,office,district,party,candidate,votes,vtd
+FORD,Bloom Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",11,000010
+FORD,Bloom Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",30,000010
+FORD,Bucklin City,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",141,000020
+FORD,Bucklin City,Kansas House of Representatives,117,Republican,"Ewy, John L.",179,000020
+FORD,Bucklin Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",28,000030
+FORD,Bucklin Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",35,000030
+FORD,Concord Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",12,000040
+FORD,Concord Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",34,000040
+FORD,Dodge City Precinct 01,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",270,00005A
+FORD,Dodge City Precinct 01,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",281,00005A
+FORD,Dodge City Airport,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,00005B
+FORD,Dodge City Airport,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,00005B
+FORD,Dodge City Industrial Park,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",0,00005C
+FORD,Dodge City Industrial Park,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",0,00005C
+FORD,Dodge City Precinct 02,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",141,000060
+FORD,Dodge City Precinct 02,Kansas House of Representatives,119,Republican,"Weber, Brian A.",214,000060
+FORD,Dodge City Precinct 03,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",214,000070
+FORD,Dodge City Precinct 03,Kansas House of Representatives,119,Republican,"Weber, Brian A.",226,000070
+FORD,Dodge City Precinct 04,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",339,00008A
+FORD,Dodge City Precinct 04,Kansas House of Representatives,119,Republican,"Weber, Brian A.",590,00008A
+FORD,Dodge City Excel #1,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,00008B
+FORD,Dodge City Excel #1,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,00008B
+FORD,Dodge City Excel #2,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,00008C
+FORD,Dodge City Excel #2,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,00008C
+FORD,Dodge City Millard,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,00008D
+FORD,Dodge City Millard,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,00008D
+FORD,Dodge City Precinct 05,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",395,000090
+FORD,Dodge City Precinct 05,Kansas House of Representatives,119,Republican,"Weber, Brian A.",1075,000090
+FORD,Dodge City Precinct 06,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",456,000100
+FORD,Dodge City Precinct 06,Kansas House of Representatives,119,Republican,"Weber, Brian A.",1292,000100
+FORD,Dodge Township Ward 3,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",8,000200
+FORD,Dodge Township Ward 3,Kansas House of Representatives,119,Republican,"Weber, Brian A.",26,000200
+FORD,Fairview Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",25,000220
+FORD,Fairview Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",97,000220
+FORD,Ford City,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",18,000230
+FORD,Ford City,Kansas House of Representatives,117,Republican,"Ewy, John L.",75,000230
+FORD,Ford Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",18,000240
+FORD,Ford Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",60,000240
+FORD,Richland Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",65,000260
+FORD,Richland Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",132,000260
+FORD,Royal Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",22,000270
+FORD,Royal Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",88,000270
+FORD,Sodville Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",11,000280
+FORD,Sodville Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",34,000280
+FORD,Spearville City,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",115,000300
+FORD,Spearville City,Kansas House of Representatives,117,Republican,"Ewy, John L.",248,000300
+FORD,Spearville Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",42,000310
+FORD,Spearville Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",142,000310
+FORD,Wheatland Township,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",19,000320
+FORD,Wheatland Township,Kansas House of Representatives,117,Republican,"Ewy, John L.",56,000320
+FORD,Wilburn Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",5,000330
+FORD,Wilburn Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",29,000330
+FORD,Dodge Township H115,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",61,120020
+FORD,Dodge Township H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",129,120020
+FORD,Dodge Township H119 A,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,12003A
+FORD,Dodge Township H119 A,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,12003A
+FORD,Dodge Township H119,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",7,120030
+FORD,Dodge Township H119,Kansas House of Representatives,119,Republican,"Weber, Brian A.",33,120030
+FORD,Enterprise Township H115,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",67,120040
+FORD,Enterprise Township H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",112,120040
+FORD,Enterprise Township H119,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",1,120050
+FORD,Enterprise Township H119,Kansas House of Representatives,119,Republican,"Weber, Brian A.",2,120050
+FORD,Grandview Township H115,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",48,120060
+FORD,Grandview Township H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",115,120060
+FORD,Grandview Township H119 A,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,12007A
+FORD,Grandview Township H119 A,Kansas House of Representatives,119,Republican,"Weber, Brian A.",0,12007A
+FORD,Grandview Township H119,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,120070
+FORD,Grandview Township H119,Kansas House of Representatives,119,Republican,"Weber, Brian A.",3,120070
+FORD,Grandview Township Ward 2 H115,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",31,120080
+FORD,Grandview Township Ward 2 H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",38,120080
+FORD,Grandview Township Ward 2 H119,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,120090
+FORD,Grandview Township Ward 2 H119,Kansas House of Representatives,119,Republican,"Weber, Brian A.",4,120090
+FORD,Dodge City Precinct 07,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",13,600010
+FORD,Dodge City Precinct 07,Kansas House of Representatives,119,Republican,"Weber, Brian A.",39,600010
+FORD,Dodge City Precinct 08,Kansas House of Representatives,119,Democratic,"Blake, Lawrence ""Larry""",0,800010
+FORD,Dodge City Precinct 08,Kansas House of Representatives,119,Republican,"Weber, Brian A.",2,800010
+FORD,Dodge City Precinct 09,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",6,900010
+FORD,Dodge City Precinct 09,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",9,900010
+FORD,Bloom Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",7,000010
+FORD,Bloom Township,Kansas Senate,38,Republican,"Love, Garrett",34,000010
+FORD,Bucklin City,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",46,000020
+FORD,Bucklin City,Kansas Senate,38,Republican,"Love, Garrett",275,000020
+FORD,Bucklin Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",11,000030
+FORD,Bucklin Township,Kansas Senate,38,Republican,"Love, Garrett",51,000030
+FORD,Concord Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",8,000040
+FORD,Concord Township,Kansas Senate,38,Republican,"Love, Garrett",42,000040
+FORD,Dodge City Precinct 01,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",209,00005A
+FORD,Dodge City Precinct 01,Kansas Senate,38,Republican,"Love, Garrett",360,00005A
+FORD,Dodge City Airport,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,00005B
+FORD,Dodge City Airport,Kansas Senate,38,Republican,"Love, Garrett",0,00005B
+FORD,Dodge City Industrial Park,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,00005C
+FORD,Dodge City Industrial Park,Kansas Senate,38,Republican,"Love, Garrett",0,00005C
+FORD,Dodge City Precinct 02,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",140,000060
+FORD,Dodge City Precinct 02,Kansas Senate,38,Republican,"Love, Garrett",215,000060
+FORD,Dodge City Precinct 03,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",201,000070
+FORD,Dodge City Precinct 03,Kansas Senate,38,Republican,"Love, Garrett",229,000070
+FORD,Dodge City Precinct 04,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",326,00008A
+FORD,Dodge City Precinct 04,Kansas Senate,38,Republican,"Love, Garrett",587,00008A
+FORD,Dodge City Excel #1,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,00008B
+FORD,Dodge City Excel #1,Kansas Senate,38,Republican,"Love, Garrett",0,00008B
+FORD,Dodge City Excel #2,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,00008C
+FORD,Dodge City Excel #2,Kansas Senate,38,Republican,"Love, Garrett",0,00008C
+FORD,Dodge City Millard,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,00008D
+FORD,Dodge City Millard,Kansas Senate,38,Republican,"Love, Garrett",0,00008D
+FORD,Dodge City Precinct 05,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",381,000090
+FORD,Dodge City Precinct 05,Kansas Senate,38,Republican,"Love, Garrett",1082,000090
+FORD,Dodge City Precinct 06,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",383,000100
+FORD,Dodge City Precinct 06,Kansas Senate,38,Republican,"Love, Garrett",1352,000100
+FORD,Dodge Township Ward 3,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",9,000200
+FORD,Dodge Township Ward 3,Kansas Senate,38,Republican,"Love, Garrett",26,000200
+FORD,Fairview Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",19,000220
+FORD,Fairview Township,Kansas Senate,38,Republican,"Love, Garrett",107,000220
+FORD,Ford City,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",15,000230
+FORD,Ford City,Kansas Senate,38,Republican,"Love, Garrett",79,000230
+FORD,Ford Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",11,000240
+FORD,Ford Township,Kansas Senate,38,Republican,"Love, Garrett",67,000240
+FORD,Richland Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",43,000260
+FORD,Richland Township,Kansas Senate,38,Republican,"Love, Garrett",158,000260
+FORD,Royal Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",16,000270
+FORD,Royal Township,Kansas Senate,38,Republican,"Love, Garrett",103,000270
+FORD,Sodville Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",6,000280
+FORD,Sodville Township,Kansas Senate,38,Republican,"Love, Garrett",38,000280
+FORD,Spearville City,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",87,000300
+FORD,Spearville City,Kansas Senate,38,Republican,"Love, Garrett",276,000300
+FORD,Spearville Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",35,000310
+FORD,Spearville Township,Kansas Senate,38,Republican,"Love, Garrett",147,000310
+FORD,Wheatland Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",16,000320
+FORD,Wheatland Township,Kansas Senate,38,Republican,"Love, Garrett",58,000320
+FORD,Wilburn Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",2,000330
+FORD,Wilburn Township,Kansas Senate,38,Republican,"Love, Garrett",33,000330
+FORD,Dodge Township H115,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",40,120020
+FORD,Dodge Township H115,Kansas Senate,38,Republican,"Love, Garrett",161,120020
+FORD,Dodge Township H119 A,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,12003A
+FORD,Dodge Township H119 A,Kansas Senate,38,Republican,"Love, Garrett",0,12003A
+FORD,Dodge Township H119,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",3,120030
+FORD,Dodge Township H119,Kansas Senate,38,Republican,"Love, Garrett",36,120030
+FORD,Enterprise Township H115,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",53,120040
+FORD,Enterprise Township H115,Kansas Senate,38,Republican,"Love, Garrett",128,120040
+FORD,Enterprise Township H119,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",2,120050
+FORD,Enterprise Township H119,Kansas Senate,38,Republican,"Love, Garrett",1,120050
+FORD,Grandview Township H115,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",45,120060
+FORD,Grandview Township H115,Kansas Senate,38,Republican,"Love, Garrett",132,120060
+FORD,Grandview Township H119 A,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,12007A
+FORD,Grandview Township H119 A,Kansas Senate,38,Republican,"Love, Garrett",0,12007A
+FORD,Grandview Township H119,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",1,120070
+FORD,Grandview Township H119,Kansas Senate,38,Republican,"Love, Garrett",2,120070
+FORD,Grandview Township Ward 2 H115,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",25,120080
+FORD,Grandview Township Ward 2 H115,Kansas Senate,38,Republican,"Love, Garrett",51,120080
+FORD,Grandview Township Ward 2 H119,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",2,120090
+FORD,Grandview Township Ward 2 H119,Kansas Senate,38,Republican,"Love, Garrett",2,120090
+FORD,Dodge City Precinct 07,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",7,600010
+FORD,Dodge City Precinct 07,Kansas Senate,38,Republican,"Love, Garrett",45,600010
+FORD,Dodge City Precinct 08,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",0,800010
+FORD,Dodge City Precinct 08,Kansas Senate,38,Republican,"Love, Garrett",2,800010
+FORD,Dodge City Precinct 09,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",5,900010
+FORD,Dodge City Precinct 09,Kansas Senate,38,Republican,"Love, Garrett",10,900010
+FORD,Bloom Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Bush, Kent W",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Christensen, Will",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Goode, Virgil",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Stein, Jill E",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+FORD,Bloom Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+FORD,Bloom Township,President / Vice President,,Democratic,"Obama, Barack",5,000010
+FORD,Bloom Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000010
+FORD,Bloom Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000010
+FORD,Bloom Township,President / Vice President,,Republican,"Romney, Mitt",33,000010
+FORD,Bucklin City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Barnett, Andre",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Bush, Kent W",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Christensen, Will",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Goode, Virgil",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Stein, Jill E",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+FORD,Bucklin City,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+FORD,Bucklin City,President / Vice President,,Democratic,"Obama, Barack",43,000020
+FORD,Bucklin City,President / Vice President,,Libertarian,"Johnson, Gary",5,000020
+FORD,Bucklin City,President / Vice President,,Reform,"Baldwin, Chuck",0,000020
+FORD,Bucklin City,President / Vice President,,Republican,"Romney, Mitt",279,000020
+FORD,Bucklin Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Barnett, Andre",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Bush, Kent W",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Christensen, Will",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Goode, Virgil",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Stein, Jill E",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+FORD,Bucklin Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+FORD,Bucklin Township,President / Vice President,,Democratic,"Obama, Barack",11,000030
+FORD,Bucklin Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000030
+FORD,Bucklin Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000030
+FORD,Bucklin Township,President / Vice President,,Republican,"Romney, Mitt",50,000030
+FORD,Concord Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Barnett, Andre",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Bush, Kent W",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Christensen, Will",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Goode, Virgil",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Stein, Jill E",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+FORD,Concord Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+FORD,Concord Township,President / Vice President,,Democratic,"Obama, Barack",7,000040
+FORD,Concord Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000040
+FORD,Concord Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000040
+FORD,Concord Township,President / Vice President,,Republican,"Romney, Mitt",42,000040
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Ayers, Avery L",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Barnett, Andre",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Barr, Roseanne C",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Bush, Kent W",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Christensen, Will",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Duncan, Richard A",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Goode, Virgil",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Hoefling, Tom",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Knill, Dennis J",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Reed, Jill A.",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Rogers, Rick L",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Stein, Jill E",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Thorne, Kevin M",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,write - in,"Warner, Gerald L.",0,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,Democratic,"Obama, Barack",261,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,Libertarian,"Johnson, Gary",11,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,Reform,"Baldwin, Chuck",4,00005A
+FORD,Dodge City Precinct 01,President / Vice President,,Republican,"Romney, Mitt",320,00005A
+FORD,Dodge City Airport,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Ayers, Avery L",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Barnett, Andre",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Barr, Roseanne C",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Bush, Kent W",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Christensen, Will",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Duncan, Richard A",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Goode, Virgil",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Hoefling, Tom",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Knill, Dennis J",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Reed, Jill A.",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Rogers, Rick L",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Stein, Jill E",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Thorne, Kevin M",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005B
+FORD,Dodge City Airport,President / Vice President,,write - in,"Warner, Gerald L.",0,00005B
+FORD,Dodge City Airport,President / Vice President,,Democratic,"Obama, Barack",0,00005B
+FORD,Dodge City Airport,President / Vice President,,Libertarian,"Johnson, Gary",0,00005B
+FORD,Dodge City Airport,President / Vice President,,Reform,"Baldwin, Chuck",0,00005B
+FORD,Dodge City Airport,President / Vice President,,Republican,"Romney, Mitt",0,00005B
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Ayers, Avery L",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Barnett, Andre",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Barr, Roseanne C",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Bush, Kent W",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Christensen, Will",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Duncan, Richard A",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Goode, Virgil",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Hoefling, Tom",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Knill, Dennis J",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Reed, Jill A.",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Rogers, Rick L",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Stein, Jill E",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Thorne, Kevin M",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,write - in,"Warner, Gerald L.",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,Democratic,"Obama, Barack",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,Libertarian,"Johnson, Gary",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,Reform,"Baldwin, Chuck",0,00005C
+FORD,Dodge City Industrial Park,President / Vice President,,Republican,"Romney, Mitt",0,00005C
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Barnett, Andre",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Bush, Kent W",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Christensen, Will",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Goode, Virgil",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Stein, Jill E",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+FORD,Dodge City Precinct 02,President / Vice President,,Democratic,"Obama, Barack",175,000060
+FORD,Dodge City Precinct 02,President / Vice President,,Libertarian,"Johnson, Gary",9,000060
+FORD,Dodge City Precinct 02,President / Vice President,,Reform,"Baldwin, Chuck",4,000060
+FORD,Dodge City Precinct 02,President / Vice President,,Republican,"Romney, Mitt",190,000060
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Barnett, Andre",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Bush, Kent W",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Christensen, Will",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Goode, Virgil",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Stein, Jill E",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+FORD,Dodge City Precinct 03,President / Vice President,,Democratic,"Obama, Barack",288,000070
+FORD,Dodge City Precinct 03,President / Vice President,,Libertarian,"Johnson, Gary",3,000070
+FORD,Dodge City Precinct 03,President / Vice President,,Reform,"Baldwin, Chuck",5,000070
+FORD,Dodge City Precinct 03,President / Vice President,,Republican,"Romney, Mitt",176,000070
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Ayers, Avery L",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Barnett, Andre",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Barr, Roseanne C",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Bush, Kent W",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Christensen, Will",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Duncan, Richard A",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Goode, Virgil",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Hoefling, Tom",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Knill, Dennis J",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Reed, Jill A.",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Rogers, Rick L",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Stein, Jill E",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Thorne, Kevin M",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,write - in,"Warner, Gerald L.",0,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,Democratic,"Obama, Barack",389,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,Libertarian,"Johnson, Gary",22,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,Reform,"Baldwin, Chuck",2,00008A
+FORD,Dodge City Precinct 04,President / Vice President,,Republican,"Romney, Mitt",545,00008A
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Ayers, Avery L",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Barnett, Andre",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Barr, Roseanne C",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Bush, Kent W",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Christensen, Will",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Duncan, Richard A",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Goode, Virgil",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Hoefling, Tom",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Knill, Dennis J",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Reed, Jill A.",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Rogers, Rick L",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Stein, Jill E",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Thorne, Kevin M",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,write - in,"Warner, Gerald L.",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,Democratic,"Obama, Barack",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,Libertarian,"Johnson, Gary",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,Reform,"Baldwin, Chuck",0,00008B
+FORD,Dodge City Excel #1,President / Vice President,,Republican,"Romney, Mitt",0,00008B
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Ayers, Avery L",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Barnett, Andre",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Barr, Roseanne C",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Bush, Kent W",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Christensen, Will",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Duncan, Richard A",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Goode, Virgil",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Hoefling, Tom",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Knill, Dennis J",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Reed, Jill A.",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Rogers, Rick L",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Stein, Jill E",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Thorne, Kevin M",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,write - in,"Warner, Gerald L.",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,Democratic,"Obama, Barack",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,Libertarian,"Johnson, Gary",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,Reform,"Baldwin, Chuck",0,00008C
+FORD,Dodge City Excel #2,President / Vice President,,Republican,"Romney, Mitt",0,00008C
+FORD,Dodge City Millard,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Ayers, Avery L",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Barnett, Andre",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Barr, Roseanne C",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Bush, Kent W",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Christensen, Will",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Duncan, Richard A",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Goode, Virgil",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Hoefling, Tom",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Knill, Dennis J",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Reed, Jill A.",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Rogers, Rick L",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Stein, Jill E",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Thorne, Kevin M",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008D
+FORD,Dodge City Millard,President / Vice President,,write - in,"Warner, Gerald L.",0,00008D
+FORD,Dodge City Millard,President / Vice President,,Democratic,"Obama, Barack",0,00008D
+FORD,Dodge City Millard,President / Vice President,,Libertarian,"Johnson, Gary",0,00008D
+FORD,Dodge City Millard,President / Vice President,,Reform,"Baldwin, Chuck",0,00008D
+FORD,Dodge City Millard,President / Vice President,,Republican,"Romney, Mitt",0,00008D
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Barnett, Andre",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Bush, Kent W",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Christensen, Will",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Goode, Virgil",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Stein, Jill E",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+FORD,Dodge City Precinct 05,President / Vice President,,Democratic,"Obama, Barack",485,000090
+FORD,Dodge City Precinct 05,President / Vice President,,Libertarian,"Johnson, Gary",16,000090
+FORD,Dodge City Precinct 05,President / Vice President,,Reform,"Baldwin, Chuck",10,000090
+FORD,Dodge City Precinct 05,President / Vice President,,Republican,"Romney, Mitt",1013,000090
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Barnett, Andre",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Bush, Kent W",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Christensen, Will",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Goode, Virgil",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Stein, Jill E",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+FORD,Dodge City Precinct 06,President / Vice President,,Democratic,"Obama, Barack",508,000100
+FORD,Dodge City Precinct 06,President / Vice President,,Libertarian,"Johnson, Gary",11,000100
+FORD,Dodge City Precinct 06,President / Vice President,,Reform,"Baldwin, Chuck",8,000100
+FORD,Dodge City Precinct 06,President / Vice President,,Republican,"Romney, Mitt",1266,000100
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,Democratic,"Obama, Barack",8,000200
+FORD,Dodge Township Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000200
+FORD,Dodge Township Ward 3,President / Vice President,,Republican,"Romney, Mitt",27,000200
+FORD,Fairview Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Ayers, Avery L",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Barnett, Andre",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Bush, Kent W",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Christensen, Will",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Duncan, Richard A",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Goode, Virgil",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Knill, Dennis J",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Reed, Jill A.",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Rogers, Rick L",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Stein, Jill E",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000220
+FORD,Fairview Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000220
+FORD,Fairview Township,President / Vice President,,Democratic,"Obama, Barack",22,000220
+FORD,Fairview Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000220
+FORD,Fairview Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000220
+FORD,Fairview Township,President / Vice President,,Republican,"Romney, Mitt",106,000220
+FORD,Ford City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Ayers, Avery L",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Barnett, Andre",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Barr, Roseanne C",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Bush, Kent W",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Christensen, Will",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Duncan, Richard A",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Goode, Virgil",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Knill, Dennis J",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Reed, Jill A.",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Rogers, Rick L",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Stein, Jill E",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Thorne, Kevin M",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000230
+FORD,Ford City,President / Vice President,,write - in,"Warner, Gerald L.",0,000230
+FORD,Ford City,President / Vice President,,Democratic,"Obama, Barack",12,000230
+FORD,Ford City,President / Vice President,,Libertarian,"Johnson, Gary",1,000230
+FORD,Ford City,President / Vice President,,Reform,"Baldwin, Chuck",0,000230
+FORD,Ford City,President / Vice President,,Republican,"Romney, Mitt",81,000230
+FORD,Ford Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Ayers, Avery L",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Barnett, Andre",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Bush, Kent W",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Christensen, Will",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Duncan, Richard A",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Goode, Virgil",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Knill, Dennis J",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Reed, Jill A.",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Rogers, Rick L",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Stein, Jill E",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000240
+FORD,Ford Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000240
+FORD,Ford Township,President / Vice President,,Democratic,"Obama, Barack",7,000240
+FORD,Ford Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000240
+FORD,Ford Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000240
+FORD,Ford Township,President / Vice President,,Republican,"Romney, Mitt",69,000240
+FORD,Richland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Barnett, Andre",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Bush, Kent W",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Christensen, Will",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Goode, Virgil",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Stein, Jill E",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000260
+FORD,Richland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000260
+FORD,Richland Township,President / Vice President,,Democratic,"Obama, Barack",54,000260
+FORD,Richland Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000260
+FORD,Richland Township,President / Vice President,,Reform,"Baldwin, Chuck",2,000260
+FORD,Richland Township,President / Vice President,,Republican,"Romney, Mitt",152,000260
+FORD,Royal Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Ayers, Avery L",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Barnett, Andre",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Bush, Kent W",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Christensen, Will",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Duncan, Richard A",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Goode, Virgil",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Knill, Dennis J",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Reed, Jill A.",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Rogers, Rick L",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Stein, Jill E",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000270
+FORD,Royal Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000270
+FORD,Royal Township,President / Vice President,,Democratic,"Obama, Barack",24,000270
+FORD,Royal Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000270
+FORD,Royal Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000270
+FORD,Royal Township,President / Vice President,,Republican,"Romney, Mitt",97,000270
+FORD,Sodville Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Ayers, Avery L",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Barnett, Andre",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Bush, Kent W",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Christensen, Will",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Duncan, Richard A",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Goode, Virgil",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Knill, Dennis J",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Reed, Jill A.",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Rogers, Rick L",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Stein, Jill E",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000280
+FORD,Sodville Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000280
+FORD,Sodville Township,President / Vice President,,Democratic,"Obama, Barack",4,000280
+FORD,Sodville Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000280
+FORD,Sodville Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000280
+FORD,Sodville Township,President / Vice President,,Republican,"Romney, Mitt",40,000280
+FORD,Spearville City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Ayers, Avery L",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Barnett, Andre",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Barr, Roseanne C",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Bush, Kent W",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Christensen, Will",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Duncan, Richard A",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Goode, Virgil",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Knill, Dennis J",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Reed, Jill A.",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Rogers, Rick L",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Stein, Jill E",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Thorne, Kevin M",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000300
+FORD,Spearville City,President / Vice President,,write - in,"Warner, Gerald L.",0,000300
+FORD,Spearville City,President / Vice President,,Democratic,"Obama, Barack",79,000300
+FORD,Spearville City,President / Vice President,,Libertarian,"Johnson, Gary",9,000300
+FORD,Spearville City,President / Vice President,,Reform,"Baldwin, Chuck",1,000300
+FORD,Spearville City,President / Vice President,,Republican,"Romney, Mitt",281,000300
+FORD,Spearville Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Ayers, Avery L",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Barnett, Andre",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Bush, Kent W",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Christensen, Will",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Duncan, Richard A",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Goode, Virgil",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Knill, Dennis J",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Reed, Jill A.",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Rogers, Rick L",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Stein, Jill E",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000310
+FORD,Spearville Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000310
+FORD,Spearville Township,President / Vice President,,Democratic,"Obama, Barack",16,000310
+FORD,Spearville Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000310
+FORD,Spearville Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000310
+FORD,Spearville Township,President / Vice President,,Republican,"Romney, Mitt",165,000310
+FORD,Wheatland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Barnett, Andre",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Bush, Kent W",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Christensen, Will",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Goode, Virgil",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Stein, Jill E",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000320
+FORD,Wheatland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000320
+FORD,Wheatland Township,President / Vice President,,Democratic,"Obama, Barack",13,000320
+FORD,Wheatland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000320
+FORD,Wheatland Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000320
+FORD,Wheatland Township,President / Vice President,,Republican,"Romney, Mitt",63,000320
+FORD,Wilburn Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Ayers, Avery L",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Barnett, Andre",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Bush, Kent W",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Christensen, Will",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Duncan, Richard A",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Goode, Virgil",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Hoefling, Tom",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Knill, Dennis J",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Reed, Jill A.",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Rogers, Rick L",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Stein, Jill E",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000330
+FORD,Wilburn Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000330
+FORD,Wilburn Township,President / Vice President,,Democratic,"Obama, Barack",7,000330
+FORD,Wilburn Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000330
+FORD,Wilburn Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000330
+FORD,Wilburn Township,President / Vice President,,Republican,"Romney, Mitt",29,000330
+FORD,Dodge Township H115,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Ayers, Avery L",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Barnett, Andre",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Barr, Roseanne C",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Bush, Kent W",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Christensen, Will",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Duncan, Richard A",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Goode, Virgil",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Knill, Dennis J",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Reed, Jill A.",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Rogers, Rick L",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Stein, Jill E",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Thorne, Kevin M",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120020
+FORD,Dodge Township H115,President / Vice President,,write - in,"Warner, Gerald L.",0,120020
+FORD,Dodge Township H115,President / Vice President,,Democratic,"Obama, Barack",42,120020
+FORD,Dodge Township H115,President / Vice President,,Libertarian,"Johnson, Gary",1,120020
+FORD,Dodge Township H115,President / Vice President,,Reform,"Baldwin, Chuck",0,120020
+FORD,Dodge Township H115,President / Vice President,,Republican,"Romney, Mitt",163,120020
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Ayers, Avery L",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Barnett, Andre",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Barr, Roseanne C",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Bush, Kent W",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Christensen, Will",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Duncan, Richard A",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Goode, Virgil",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Hoefling, Tom",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Knill, Dennis J",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Reed, Jill A.",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Rogers, Rick L",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Stein, Jill E",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Thorne, Kevin M",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,write - in,"Warner, Gerald L.",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,Democratic,"Obama, Barack",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,Libertarian,"Johnson, Gary",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,Reform,"Baldwin, Chuck",0,12003A
+FORD,Dodge Township H119 A,President / Vice President,,Republican,"Romney, Mitt",0,12003A
+FORD,Dodge Township H119,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Ayers, Avery L",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Barnett, Andre",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Barr, Roseanne C",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Bush, Kent W",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Christensen, Will",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Duncan, Richard A",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Goode, Virgil",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Knill, Dennis J",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Reed, Jill A.",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Rogers, Rick L",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Stein, Jill E",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Thorne, Kevin M",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120030
+FORD,Dodge Township H119,President / Vice President,,write - in,"Warner, Gerald L.",0,120030
+FORD,Dodge Township H119,President / Vice President,,Democratic,"Obama, Barack",3,120030
+FORD,Dodge Township H119,President / Vice President,,Libertarian,"Johnson, Gary",0,120030
+FORD,Dodge Township H119,President / Vice President,,Reform,"Baldwin, Chuck",0,120030
+FORD,Dodge Township H119,President / Vice President,,Republican,"Romney, Mitt",38,120030
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Ayers, Avery L",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Barnett, Andre",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Barr, Roseanne C",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Bush, Kent W",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Christensen, Will",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Duncan, Richard A",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Goode, Virgil",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Knill, Dennis J",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Reed, Jill A.",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Rogers, Rick L",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Stein, Jill E",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Thorne, Kevin M",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120040
+FORD,Enterprise Township H115,President / Vice President,,write - in,"Warner, Gerald L.",0,120040
+FORD,Enterprise Township H115,President / Vice President,,Democratic,"Obama, Barack",58,120040
+FORD,Enterprise Township H115,President / Vice President,,Libertarian,"Johnson, Gary",3,120040
+FORD,Enterprise Township H115,President / Vice President,,Reform,"Baldwin, Chuck",3,120040
+FORD,Enterprise Township H115,President / Vice President,,Republican,"Romney, Mitt",127,120040
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Ayers, Avery L",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Barnett, Andre",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Barr, Roseanne C",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Bush, Kent W",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Christensen, Will",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Duncan, Richard A",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Goode, Virgil",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Knill, Dennis J",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Reed, Jill A.",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Rogers, Rick L",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Stein, Jill E",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Thorne, Kevin M",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120050
+FORD,Enterprise Township H119,President / Vice President,,write - in,"Warner, Gerald L.",0,120050
+FORD,Enterprise Township H119,President / Vice President,,Democratic,"Obama, Barack",3,120050
+FORD,Enterprise Township H119,President / Vice President,,Libertarian,"Johnson, Gary",0,120050
+FORD,Enterprise Township H119,President / Vice President,,Reform,"Baldwin, Chuck",0,120050
+FORD,Enterprise Township H119,President / Vice President,,Republican,"Romney, Mitt",1,120050
+FORD,Grandview Township H115,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Ayers, Avery L",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Barnett, Andre",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Barr, Roseanne C",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Bush, Kent W",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Christensen, Will",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Duncan, Richard A",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Goode, Virgil",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Hoefling, Tom",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Knill, Dennis J",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Reed, Jill A.",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Rogers, Rick L",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Stein, Jill E",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Thorne, Kevin M",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120060
+FORD,Grandview Township H115,President / Vice President,,write - in,"Warner, Gerald L.",0,120060
+FORD,Grandview Township H115,President / Vice President,,Democratic,"Obama, Barack",27,120060
+FORD,Grandview Township H115,President / Vice President,,Libertarian,"Johnson, Gary",5,120060
+FORD,Grandview Township H115,President / Vice President,,Reform,"Baldwin, Chuck",0,120060
+FORD,Grandview Township H115,President / Vice President,,Republican,"Romney, Mitt",148,120060
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Ayers, Avery L",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Barnett, Andre",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Barr, Roseanne C",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Bush, Kent W",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Christensen, Will",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Duncan, Richard A",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Goode, Virgil",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Hoefling, Tom",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Knill, Dennis J",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Reed, Jill A.",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Rogers, Rick L",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Stein, Jill E",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Thorne, Kevin M",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,write - in,"Warner, Gerald L.",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,Democratic,"Obama, Barack",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,Libertarian,"Johnson, Gary",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,Reform,"Baldwin, Chuck",0,12007A
+FORD,Grandview Township H119 A,President / Vice President,,Republican,"Romney, Mitt",0,12007A
+FORD,Grandview Township H119,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Ayers, Avery L",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Barnett, Andre",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Barr, Roseanne C",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Bush, Kent W",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Christensen, Will",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Duncan, Richard A",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Goode, Virgil",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Hoefling, Tom",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Knill, Dennis J",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Reed, Jill A.",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Rogers, Rick L",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Stein, Jill E",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Thorne, Kevin M",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120070
+FORD,Grandview Township H119,President / Vice President,,write - in,"Warner, Gerald L.",0,120070
+FORD,Grandview Township H119,President / Vice President,,Democratic,"Obama, Barack",1,120070
+FORD,Grandview Township H119,President / Vice President,,Libertarian,"Johnson, Gary",0,120070
+FORD,Grandview Township H119,President / Vice President,,Reform,"Baldwin, Chuck",0,120070
+FORD,Grandview Township H119,President / Vice President,,Republican,"Romney, Mitt",2,120070
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Ayers, Avery L",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Barnett, Andre",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Barr, Roseanne C",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Bush, Kent W",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Christensen, Will",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Duncan, Richard A",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Goode, Virgil",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Hoefling, Tom",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Knill, Dennis J",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Reed, Jill A.",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Rogers, Rick L",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Stein, Jill E",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Thorne, Kevin M",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,write - in,"Warner, Gerald L.",0,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,Democratic,"Obama, Barack",30,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,Libertarian,"Johnson, Gary",6,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,Reform,"Baldwin, Chuck",1,120080
+FORD,Grandview Township Ward 2 H115,President / Vice President,,Republican,"Romney, Mitt",41,120080
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Ayers, Avery L",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Barnett, Andre",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Barr, Roseanne C",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Bush, Kent W",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Christensen, Will",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Duncan, Richard A",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Goode, Virgil",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Hoefling, Tom",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Knill, Dennis J",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Reed, Jill A.",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Rogers, Rick L",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Stein, Jill E",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Thorne, Kevin M",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,write - in,"Warner, Gerald L.",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,Democratic,"Obama, Barack",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,Libertarian,"Johnson, Gary",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,Reform,"Baldwin, Chuck",0,120090
+FORD,Grandview Township Ward 2 H119,President / Vice President,,Republican,"Romney, Mitt",4,120090
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Ayers, Avery L",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Barnett, Andre",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Barr, Roseanne C",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Bush, Kent W",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Christensen, Will",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Duncan, Richard A",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Goode, Virgil",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Hoefling, Tom",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Knill, Dennis J",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Reed, Jill A.",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Rogers, Rick L",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Stein, Jill E",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Thorne, Kevin M",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,write - in,"Warner, Gerald L.",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,Democratic,"Obama, Barack",12,600010
+FORD,Dodge City Precinct 07,President / Vice President,,Libertarian,"Johnson, Gary",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,Reform,"Baldwin, Chuck",0,600010
+FORD,Dodge City Precinct 07,President / Vice President,,Republican,"Romney, Mitt",41,600010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Ayers, Avery L",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Barnett, Andre",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Barr, Roseanne C",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Bush, Kent W",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Christensen, Will",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Duncan, Richard A",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Goode, Virgil",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Hoefling, Tom",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Knill, Dennis J",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Reed, Jill A.",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Rogers, Rick L",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Stein, Jill E",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Thorne, Kevin M",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,write - in,"Warner, Gerald L.",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,Democratic,"Obama, Barack",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,Libertarian,"Johnson, Gary",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,Reform,"Baldwin, Chuck",0,800010
+FORD,Dodge City Precinct 08,President / Vice President,,Republican,"Romney, Mitt",2,800010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Ayers, Avery L",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Barnett, Andre",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Barr, Roseanne C",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Bush, Kent W",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Christensen, Will",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Duncan, Richard A",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Goode, Virgil",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Knill, Dennis J",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Reed, Jill A.",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Rogers, Rick L",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Stein, Jill E",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Thorne, Kevin M",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,write - in,"Warner, Gerald L.",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,Democratic,"Obama, Barack",6,900010
+FORD,Dodge City Precinct 09,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,Reform,"Baldwin, Chuck",0,900010
+FORD,Dodge City Precinct 09,President / Vice President,,Republican,"Romney, Mitt",11,900010
+FORD,Bloom Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",38,000010
+FORD,Bucklin City,United States House of Representatives,1,Republican,"Huelskamp, Tim",278,000020
+FORD,Bucklin Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",54,000030
+FORD,Concord Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",48,000040
+FORD,Dodge City Precinct 01,United States House of Representatives,1,Republican,"Huelskamp, Tim",468,00005A
+FORD,Dodge City Airport,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00005B
+FORD,Dodge City Industrial Park,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00005C
+FORD,Dodge City Precinct 02,United States House of Representatives,1,Republican,"Huelskamp, Tim",289,000060
+FORD,Dodge City Precinct 03,United States House of Representatives,1,Republican,"Huelskamp, Tim",354,000070
+FORD,Dodge City Precinct 04,United States House of Representatives,1,Republican,"Huelskamp, Tim",727,00008A
+FORD,Dodge City Excel #1,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00008B
+FORD,Dodge City Excel #2,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00008C
+FORD,Dodge City Millard,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00008D
+FORD,Dodge City Precinct 05,United States House of Representatives,1,Republican,"Huelskamp, Tim",1224,000090
+FORD,Dodge City Precinct 06,United States House of Representatives,1,Republican,"Huelskamp, Tim",1431,000100
+FORD,Dodge Township Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",32,000200
+FORD,Fairview Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",113,000220
+FORD,Ford City,United States House of Representatives,1,Republican,"Huelskamp, Tim",91,000230
+FORD,Ford Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",72,000240
+FORD,Richland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",180,000260
+FORD,Royal Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",103,000270
+FORD,Sodville Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",44,000280
+FORD,Spearville City,United States House of Representatives,1,Republican,"Huelskamp, Tim",308,000300
+FORD,Spearville Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",167,000310
+FORD,Wheatland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",66,000320
+FORD,Wilburn Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",32,000330
+FORD,Dodge Township H115,United States House of Representatives,1,Republican,"Huelskamp, Tim",175,120020
+FORD,Dodge Township H119 A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,12003A
+FORD,Dodge Township H119,United States House of Representatives,1,Republican,"Huelskamp, Tim",36,120030
+FORD,Enterprise Township H115,United States House of Representatives,1,Republican,"Huelskamp, Tim",157,120040
+FORD,Enterprise Township H119,United States House of Representatives,1,Republican,"Huelskamp, Tim",1,120050
+FORD,Grandview Township H115,United States House of Representatives,1,Republican,"Huelskamp, Tim",152,120060
+FORD,Grandview Township H119 A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,12007A
+FORD,Grandview Township H119,United States House of Representatives,1,Republican,"Huelskamp, Tim",3,120070
+FORD,Grandview Township Ward 2 H115,United States House of Representatives,1,Republican,"Huelskamp, Tim",55,120080
+FORD,Grandview Township Ward 2 H119,United States House of Representatives,1,Republican,"Huelskamp, Tim",4,120090
+FORD,Dodge City Precinct 07,United States House of Representatives,1,Republican,"Huelskamp, Tim",53,600010
+FORD,Dodge City Precinct 08,United States House of Representatives,1,Republican,"Huelskamp, Tim",1,800010
+FORD,Dodge City Precinct 09,United States House of Representatives,1,Republican,"Huelskamp, Tim",16,900010

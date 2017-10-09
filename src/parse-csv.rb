@@ -90,6 +90,10 @@ end
 ARGV.each do |filename|
   puts filename
   CSV.foreach(filename, headers: true, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
+    if !row['county']
+      puts "No county in row: #{row.inspect}"
+      next
+    end
     write_to_csv(csv_out_file(row['county']), row)
   end
 end
