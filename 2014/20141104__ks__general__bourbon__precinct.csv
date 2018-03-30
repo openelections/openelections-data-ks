@@ -1,360 +1,569 @@
-county,precinct,office,district,party,candidate,votes
-Bourbon,Fort Scott Ward 1,U.S. Senate,,R,Pat Roberts,162
-Bourbon,Fort Scott Ward 2,U.S. Senate,,R,Pat Roberts,167
-Bourbon,Fort Scott Ward 3,U.S. Senate,,R,Pat Roberts,71
-Bourbon,Fort Scott Ward 4,U.S. Senate,,R,Pat Roberts,182
-Bourbon,Fort Scott Ward 5,U.S. Senate,,R,Pat Roberts,242
-Bourbon,Fort Scott Ward 6,U.S. Senate,,R,Pat Roberts,308
-Bourbon,Fort Scott Ward 7,U.S. Senate,,R,Pat Roberts,240
-Bourbon,Drywood Township,U.S. Senate,,R,Pat Roberts,124
-Bourbon,Franklin Township,U.S. Senate,,R,Pat Roberts,79
-Bourbon,Freedom Township,U.S. Senate,,R,Pat Roberts,106
-Bourbon,Marion Township,U.S. Senate,,R,Pat Roberts,267
-Bourbon,Marmaton Township,U.S. Senate,,R,Pat Roberts,198
-Bourbon,Mill Creek Township,U.S. Senate,,R,Pat Roberts,107
-Bourbon,North Scott Township,U.S. Senate,,R,Pat Roberts,188
-Bourbon,Osage Township,U.S. Senate,,R,Pat Roberts,94
-Bourbon,Pawnee Township,U.S. Senate,,R,Pat Roberts,84
-Bourbon,South Scott Township,U.S. Senate,,R,Pat Roberts,483
-Bourbon,Timberhill Township,U.S. Senate,,R,Pat Roberts,58
-Bourbon,Walnut Twp,U.S. Senate,,R,Pat Roberts,30
-Bourbon,Fort Scott Ward 1,U.S. Senate,,I ,Greg Orman,114
-Bourbon,Fort Scott Ward 2,U.S. Senate,,I ,Greg Orman,98
-Bourbon,Fort Scott Ward 3,U.S. Senate,,I ,Greg Orman,38
-Bourbon,Fort Scott Ward 4,U.S. Senate,,I ,Greg Orman,107
-Bourbon,Fort Scott Ward 5,U.S. Senate,,I ,Greg Orman,120
-Bourbon,Fort Scott Ward 6,U.S. Senate,,I ,Greg Orman,143
-Bourbon,Fort Scott Ward 7,U.S. Senate,,I ,Greg Orman,141
-Bourbon,Drywood Township,U.S. Senate,,I ,Greg Orman,33
-Bourbon,Franklin Township,U.S. Senate,,I ,Greg Orman,33
-Bourbon,Freedom Township,U.S. Senate,,I ,Greg Orman,40
-Bourbon,Marion Township,U.S. Senate,,I ,Greg Orman,114
-Bourbon,Marmaton Township,U.S. Senate,,I ,Greg Orman,83
-Bourbon,Mill Creek Township,U.S. Senate,,I ,Greg Orman,48
-Bourbon,North Scott Township,U.S. Senate,,I ,Greg Orman,96
-Bourbon,Osage Township,U.S. Senate,,I ,Greg Orman,35
-Bourbon,Pawnee Township,U.S. Senate,,I ,Greg Orman,26
-Bourbon,South Scott Township,U.S. Senate,,I ,Greg Orman,159
-Bourbon,Timberhill Township,U.S. Senate,,I ,Greg Orman,22
-Bourbon,Walnut Twp,U.S. Senate,,I ,Greg Orman,6
-Bourbon,Fort Scott Ward 1,U.S. Senate,,L,Randall Batson,24
-Bourbon,Fort Scott Ward 2,U.S. Senate,,L,Randall Batson,42
-Bourbon,Fort Scott Ward 3,U.S. Senate,,L,Randall Batson,9
-Bourbon,Fort Scott Ward 4,U.S. Senate,,L,Randall Batson,20
-Bourbon,Fort Scott Ward 5,U.S. Senate,,L,Randall Batson,16
-Bourbon,Fort Scott Ward 6,U.S. Senate,,L,Randall Batson,25
-Bourbon,Fort Scott Ward 7,U.S. Senate,,L,Randall Batson,31
-Bourbon,Drywood Township,U.S. Senate,,L,Randall Batson,7
-Bourbon,Franklin Township,U.S. Senate,,L,Randall Batson,6
-Bourbon,Freedom Township,U.S. Senate,,L,Randall Batson,9
-Bourbon,Marion Township,U.S. Senate,,L,Randall Batson,26
-Bourbon,Marmaton Township,U.S. Senate,,L,Randall Batson,16
-Bourbon,Mill Creek Township,U.S. Senate,,L,Randall Batson,11
-Bourbon,North Scott Township,U.S. Senate,,L,Randall Batson,21
-Bourbon,Osage Township,U.S. Senate,,L,Randall Batson,8
-Bourbon,Pawnee Township,U.S. Senate,,L,Randall Batson,5
-Bourbon,South Scott Township,U.S. Senate,,L,Randall Batson,32
-Bourbon,Timberhill Township,U.S. Senate,,L,Randall Batson,3
-Bourbon,Walnut Twp,U.S. Senate,,L,Randall Batson,1
-Bourbon,Fort Scott Ward 1,U.S. House,2,D,Margie Wakefield,104
-Bourbon,Fort Scott Ward 2,U.S. House,2,D,Margie Wakefield,105
-Bourbon,Fort Scott Ward 3,U.S. House,2,D,Margie Wakefield,34
-Bourbon,Fort Scott Ward 4,U.S. House,2,D,Margie Wakefield,94
-Bourbon,Fort Scott Ward 5,U.S. House,2,D,Margie Wakefield,91
-Bourbon,Fort Scott Ward 6,U.S. House,2,D,Margie Wakefield,106
-Bourbon,Fort Scott Ward 7,U.S. House,2,D,Margie Wakefield,119
-Bourbon,Drywood Township,U.S. House,2,D,Margie Wakefield,23
-Bourbon,Franklin Township,U.S. House,2,D,Margie Wakefield,26
-Bourbon,Freedom Township,U.S. House,2,D,Margie Wakefield,28
-Bourbon,Marion Township,U.S. House,2,D,Margie Wakefield,87
-Bourbon,Marmaton Township,U.S. House,2,D,Margie Wakefield,66
-Bourbon,Mill Creek Township,U.S. House,2,D,Margie Wakefield,41
-Bourbon,North Scott Township,U.S. House,2,D,Margie Wakefield,82
-Bourbon,Osage Township,U.S. House,2,D,Margie Wakefield,30
-Bourbon,Pawnee Township,U.S. House,2,D,Margie Wakefield,26
-Bourbon,South Scott Township,U.S. House,2,D,Margie Wakefield,138
-Bourbon,Timberhill Township,U.S. House,2,D,Margie Wakefield,19
-Bourbon,Walnut Twp,U.S. House,2,D,Margie Wakefield,2
-Bourbon,Fort Scott Ward 1,U.S. House,2,R,Lynn Jenkins,179
-Bourbon,Fort Scott Ward 2,U.S. House,2,R,Lynn Jenkins,188
-Bourbon,Fort Scott Ward 3,U.S. House,2,R,Lynn Jenkins,72
-Bourbon,Fort Scott Ward 4,U.S. House,2,R,Lynn Jenkins,208
-Bourbon,Fort Scott Ward 5,U.S. House,2,R,Lynn Jenkins,273
-Bourbon,Fort Scott Ward 6,U.S. House,2,R,Lynn Jenkins,360
-Bourbon,Fort Scott Ward 7,U.S. House,2,R,Lynn Jenkins,285
-Bourbon,Drywood Township,U.S. House,2,R,Lynn Jenkins,133
-Bourbon,Franklin Township,U.S. House,2,R,Lynn Jenkins,90
-Bourbon,Freedom Township,U.S. House,2,R,Lynn Jenkins,116
-Bourbon,Marion Township,U.S. House,2,R,Lynn Jenkins,301
-Bourbon,Marmaton Township,U.S. House,2,R,Lynn Jenkins,221
-Bourbon,Mill Creek Township,U.S. House,2,R,Lynn Jenkins,125
-Bourbon,North Scott Township,U.S. House,2,R,Lynn Jenkins,204
-Bourbon,Osage Township,U.S. House,2,R,Lynn Jenkins,101
-Bourbon,Pawnee Township,U.S. House,2,R,Lynn Jenkins,86
-Bourbon,South Scott Township,U.S. House,2,R,Lynn Jenkins,512
-Bourbon,Timberhill Township,U.S. House,2,R,Lynn Jenkins,57
-Bourbon,Walnut Twp,U.S. House,2,R,Lynn Jenkins,31
-Bourbon,Fort Scott Ward 1,U.S. House,2,L,Chris Clemmons,21
-Bourbon,Fort Scott Ward 2,U.S. House,2,L,Chris Clemmons,24
-Bourbon,Fort Scott Ward 3,U.S. House,2,L,Chris Clemmons,9
-Bourbon,Fort Scott Ward 4,U.S. House,2,L,Chris Clemmons,18
-Bourbon,Fort Scott Ward 5,U.S. House,2,L,Chris Clemmons,15
-Bourbon,Fort Scott Ward 6,U.S. House,2,L,Chris Clemmons,18
-Bourbon,Fort Scott Ward 7,U.S. House,2,L,Chris Clemmons,20
-Bourbon,Drywood Township,U.S. House,2,L,Chris Clemmons,6
-Bourbon,Franklin Township,U.S. House,2,L,Chris Clemmons,3
-Bourbon,Freedom Township,U.S. House,2,L,Chris Clemmons,11
-Bourbon,Marion Township,U.S. House,2,L,Chris Clemmons,24
-Bourbon,Marmaton Township,U.S. House,2,L,Chris Clemmons,14
-Bourbon,Mill Creek Township,U.S. House,2,L,Chris Clemmons,3
-Bourbon,North Scott Township,U.S. House,2,L,Chris Clemmons,19
-Bourbon,Osage Township,U.S. House,2,L,Chris Clemmons,8
-Bourbon,Pawnee Township,U.S. House,2,L,Chris Clemmons,6
-Bourbon,South Scott Township,U.S. House,2,L,Chris Clemmons,25
-Bourbon,Timberhill Township,U.S. House,2,L,Chris Clemmons,4
-Bourbon,Walnut Twp,U.S. House,2,L,Chris Clemmons,4
-Bourbon,Fort Scott Ward 1,Governor,,D,Paul Davis,126
-Bourbon,Fort Scott Ward 2,Governor,,D,Paul Davis,145
-Bourbon,Fort Scott Ward 3,Governor,,D,Paul Davis,45
-Bourbon,Fort Scott Ward 4,Governor,,D,Paul Davis,144
-Bourbon,Fort Scott Ward 5,Governor,,D,Paul Davis,144
-Bourbon,Fort Scott Ward 6,Governor,,D,Paul Davis,186
-Bourbon,Fort Scott Ward 7,Governor,,D,Paul Davis,176
-Bourbon,Drywood Township,Governor,,D,Paul Davis,32
-Bourbon,Franklin Township,Governor,,D,Paul Davis,32
-Bourbon,Freedom Township,Governor,,D,Paul Davis,45
-Bourbon,Marion Township,Governor,,D,Paul Davis,132
-Bourbon,Marmaton Township,Governor,,D,Paul Davis,99
-Bourbon,Mill Creek Township,Governor,,D,Paul Davis,59
-Bourbon,North Scott Township,Governor,,D,Paul Davis,130
-Bourbon,Osage Township,Governor,,D,Paul Davis,45
-Bourbon,Pawnee Township,Governor,,D,Paul Davis,43
-Bourbon,South Scott Township,Governor,,D,Paul Davis,224
-Bourbon,Timberhill Township,Governor,,D,Paul Davis,28
-Bourbon,Walnut Twp,Governor,,D,Paul Davis,9
-Bourbon,Fort Scott Ward 1,Governor,,R,Sam Brownback,158
-Bourbon,Fort Scott Ward 2,Governor,,R,Sam Brownback,163
-Bourbon,Fort Scott Ward 3,Governor,,R,Sam Brownback,64
-Bourbon,Fort Scott Ward 4,Governor,,R,Sam Brownback,159
-Bourbon,Fort Scott Ward 5,Governor,,R,Sam Brownback,217
-Bourbon,Fort Scott Ward 6,Governor,,R,Sam Brownback,287
-Bourbon,Fort Scott Ward 7,Governor,,R,Sam Brownback,231
-Bourbon,Drywood Township,Governor,,R,Sam Brownback,123
-Bourbon,Franklin Township,Governor,,R,Sam Brownback,84
-Bourbon,Freedom Township,Governor,,R,Sam Brownback,110
-Bourbon,Marion Township,Governor,,R,Sam Brownback,266
-Bourbon,Marmaton Township,Governor,,R,Sam Brownback,192
-Bourbon,Mill Creek Township,Governor,,R,Sam Brownback,107
-Bourbon,North Scott Township,Governor,,R,Sam Brownback,173
-Bourbon,Osage Township,Governor,,R,Sam Brownback,87
-Bourbon,Pawnee Township,Governor,,R,Sam Brownback,75
-Bourbon,South Scott Township,Governor,,R,Sam Brownback,434
-Bourbon,Timberhill Township,Governor,,R,Sam Brownback,53
-Bourbon,Walnut Twp,Governor,,R,Sam Brownback,27
-Bourbon,Fort Scott Ward 1,Governor,,L,Keen Umbehr,22
-Bourbon,Fort Scott Ward 2,Governor,,L,Keen Umbehr,12
-Bourbon,Fort Scott Ward 3,Governor,,L,Keen Umbehr,9
-Bourbon,Fort Scott Ward 4,Governor,,L,Keen Umbehr,14
-Bourbon,Fort Scott Ward 5,Governor,,L,Keen Umbehr,16
-Bourbon,Fort Scott Ward 6,Governor,,L,Keen Umbehr,12
-Bourbon,Fort Scott Ward 7,Governor,,L,Keen Umbehr,16
-Bourbon,Drywood Township,Governor,,L,Keen Umbehr,5
-Bourbon,Franklin Township,Governor,,L,Keen Umbehr,7
-Bourbon,Freedom Township,Governor,,L,Keen Umbehr,4
-Bourbon,Marion Township,Governor,,L,Keen Umbehr,20
-Bourbon,Marmaton Township,Governor,,L,Keen Umbehr,14
-Bourbon,Mill Creek Township,Governor,,L,Keen Umbehr,6
-Bourbon,North Scott Township,Governor,,L,Keen Umbehr,5
-Bourbon,Osage Township,Governor,,L,Keen Umbehr,7
-Bourbon,Pawnee Township,Governor,,L,Keen Umbehr,2
-Bourbon,South Scott Township,Governor,,L,Keen Umbehr,21
-Bourbon,Timberhill Township,Governor,,L,Keen Umbehr,3
-Bourbon,Walnut Twp,Governor,,L,Keen Umbehr,1
-Bourbon,Fort Scott Ward 1,Secretary of State,,D,Jean Schodorf,118
-Bourbon,Fort Scott Ward 2,Secretary of State,,D,Jean Schodorf,126
-Bourbon,Fort Scott Ward 3,Secretary of State,,D,Jean Schodorf,42
-Bourbon,Fort Scott Ward 4,Secretary of State,,D,Jean Schodorf,115
-Bourbon,Fort Scott Ward 5,Secretary of State,,D,Jean Schodorf,112
-Bourbon,Fort Scott Ward 6,Secretary of State,,D,Jean Schodorf,144
-Bourbon,Fort Scott Ward 7,Secretary of State,,D,Jean Schodorf,146
-Bourbon,Drywood Township,Secretary of State,,D,Jean Schodorf,34
-Bourbon,Franklin Township,Secretary of State,,D,Jean Schodorf,33
-Bourbon,Freedom Township,Secretary of State,,D,Jean Schodorf,41
-Bourbon,Marion Township,Secretary of State,,D,Jean Schodorf,100
-Bourbon,Marmaton Township,Secretary of State,,D,Jean Schodorf,80
-Bourbon,Mill Creek Township,Secretary of State,,D,Jean Schodorf,44
-Bourbon,North Scott Township,Secretary of State,,D,Jean Schodorf,101
-Bourbon,Osage Township,Secretary of State,,D,Jean Schodorf,39
-Bourbon,Pawnee Township,Secretary of State,,D,Jean Schodorf,30
-Bourbon,South Scott Township,Secretary of State,,D,Jean Schodorf,185
-Bourbon,Timberhill Township,Secretary of State,,D,Jean Schodorf,21
-Bourbon,Walnut Twp,Secretary of State,,D,Jean Schodorf,7
-Bourbon,Fort Scott Ward 1,Secretary of State,,R,Kris Kobach,180
-Bourbon,Fort Scott Ward 2,Secretary of State,,R,Kris Kobach,183
-Bourbon,Fort Scott Ward 3,Secretary of State,,R,Kris Kobach,74
-Bourbon,Fort Scott Ward 4,Secretary of State,,R,Kris Kobach,198
-Bourbon,Fort Scott Ward 5,Secretary of State,,R,Kris Kobach,261
-Bourbon,Fort Scott Ward 6,Secretary of State,,R,Kris Kobach,330
-Bourbon,Fort Scott Ward 7,Secretary of State,,R,Kris Kobach,265
-Bourbon,Drywood Township,Secretary of State,,R,Kris Kobach,125
-Bourbon,Franklin Township,Secretary of State,,R,Kris Kobach,83
-Bourbon,Freedom Township,Secretary of State,,R,Kris Kobach,114
-Bourbon,Marion Township,Secretary of State,,R,Kris Kobach,292
-Bourbon,Marmaton Township,Secretary of State,,R,Kris Kobach,218
-Bourbon,Mill Creek Township,Secretary of State,,R,Kris Kobach,122
-Bourbon,North Scott Township,Secretary of State,,R,Kris Kobach,203
-Bourbon,Osage Township,Secretary of State,,R,Kris Kobach,100
-Bourbon,Pawnee Township,Secretary of State,,R,Kris Kobach,88
-Bourbon,South Scott Township,Secretary of State,,R,Kris Kobach,480
-Bourbon,Timberhill Township,Secretary of State,,R,Kris Kobach,56
-Bourbon,Walnut Twp,Secretary of State,,R,Kris Kobach,30
-Bourbon,Fort Scott Ward 1,Attorney General,,D,A J Kotich,116
-Bourbon,Fort Scott Ward 2,Attorney General,,D,A J Kotich,116
-Bourbon,Fort Scott Ward 3,Attorney General,,D,A J Kotich,36
-Bourbon,Fort Scott Ward 4,Attorney General,,D,A J Kotich,103
-Bourbon,Fort Scott Ward 5,Attorney General,,D,A J Kotich,102
-Bourbon,Fort Scott Ward 6,Attorney General,,D,A J Kotich,125
-Bourbon,Fort Scott Ward 7,Attorney General,,D,A J Kotich,133
-Bourbon,Drywood Township,Attorney General,,D,A J Kotich,23
-Bourbon,Franklin Township,Attorney General,,D,A J Kotich,29
-Bourbon,Freedom Township,Attorney General,,D,A J Kotich,41
-Bourbon,Marion Township,Attorney General,,D,A J Kotich,85
-Bourbon,Marmaton Township,Attorney General,,D,A J Kotich,68
-Bourbon,Mill Creek Township,Attorney General,,D,A J Kotich,40
-Bourbon,North Scott Township,Attorney General,,D,A J Kotich,101
-Bourbon,Osage Township,Attorney General,,D,A J Kotich,36
-Bourbon,Pawnee Township,Attorney General,,D,A J Kotich,31
-Bourbon,South Scott Township,Attorney General,,D,A J Kotich,148
-Bourbon,Timberhill Township,Attorney General,,D,A J Kotich,23
-Bourbon,Walnut Twp,Attorney General,,D,A J Kotich,5
-Bourbon,Fort Scott Ward 1,Attorney General,,R,Derek Schmidt,180
-Bourbon,Fort Scott Ward 2,Attorney General,,R,Derek Schmidt,193
-Bourbon,Fort Scott Ward 3,Attorney General,,R,Derek Schmidt,81
-Bourbon,Fort Scott Ward 4,Attorney General,,R,Derek Schmidt,209
-Bourbon,Fort Scott Ward 5,Attorney General,,R,Derek Schmidt,269
-Bourbon,Fort Scott Ward 6,Attorney General,,R,Derek Schmidt,342
-Bourbon,Fort Scott Ward 7,Attorney General,,R,Derek Schmidt,275
-Bourbon,Drywood Township,Attorney General,,R,Derek Schmidt,134
-Bourbon,Franklin Township,Attorney General,,R,Derek Schmidt,84
-Bourbon,Freedom Township,Attorney General,,R,Derek Schmidt,116
-Bourbon,Marion Township,Attorney General,,R,Derek Schmidt,308
-Bourbon,Marmaton Township,Attorney General,,R,Derek Schmidt,230
-Bourbon,Mill Creek Township,Attorney General,,R,Derek Schmidt,125
-Bourbon,North Scott Township,Attorney General,,R,Derek Schmidt,195
-Bourbon,Osage Township,Attorney General,,R,Derek Schmidt,102
-Bourbon,Pawnee Township,Attorney General,,R,Derek Schmidt,87
-Bourbon,South Scott Township,Attorney General,,R,Derek Schmidt,514
-Bourbon,Timberhill Township,Attorney General,,R,Derek Schmidt,56
-Bourbon,Walnut Twp,Attorney General,,R,Derek Schmidt,32
-Bourbon,Fort Scott Ward 1,State Treasurer,,D,Carmen Alldritt,119
-Bourbon,Fort Scott Ward 2,State Treasurer,,D,Carmen Alldritt,121
-Bourbon,Fort Scott Ward 3,State Treasurer,,D,Carmen Alldritt,37
-Bourbon,Fort Scott Ward 4,State Treasurer,,D,Carmen Alldritt,104
-Bourbon,Fort Scott Ward 5,State Treasurer,,D,Carmen Alldritt,109
-Bourbon,Fort Scott Ward 6,State Treasurer,,D,Carmen Alldritt,123
-Bourbon,Fort Scott Ward 7,State Treasurer,,D,Carmen Alldritt,139
-Bourbon,Drywood Township,State Treasurer,,D,Carmen Alldritt,25
-Bourbon,Franklin Township,State Treasurer,,D,Carmen Alldritt,29
-Bourbon,Freedom Township,State Treasurer,,D,Carmen Alldritt,41
-Bourbon,Marion Township,State Treasurer,,D,Carmen Alldritt,90
-Bourbon,Marmaton Township,State Treasurer,,D,Carmen Alldritt,72
-Bourbon,Mill Creek Township,State Treasurer,,D,Carmen Alldritt,40
-Bourbon,North Scott Township,State Treasurer,,D,Carmen Alldritt,105
-Bourbon,Osage Township,State Treasurer,,D,Carmen Alldritt,38
-Bourbon,Pawnee Township,State Treasurer,,D,Carmen Alldritt,27
-Bourbon,South Scott Township,State Treasurer,,D,Carmen Alldritt,151
-Bourbon,Timberhill Township,State Treasurer,,D,Carmen Alldritt,23
-Bourbon,Walnut Twp,State Treasurer,,D,Carmen Alldritt,4
-Bourbon,Fort Scott Ward 1,State Treasurer,,R,Ron Estes,174
-Bourbon,Fort Scott Ward 2,State Treasurer,,R,Ron Estes,186
-Bourbon,Fort Scott Ward 3,State Treasurer,,R,Ron Estes,79
-Bourbon,Fort Scott Ward 4,State Treasurer,,R,Ron Estes,209
-Bourbon,Fort Scott Ward 5,State Treasurer,,R,Ron Estes,262
-Bourbon,Fort Scott Ward 6,State Treasurer,,R,Ron Estes,338
-Bourbon,Fort Scott Ward 7,State Treasurer,,R,Ron Estes,266
-Bourbon,Drywood Township,State Treasurer,,R,Ron Estes,128
-Bourbon,Franklin Township,State Treasurer,,R,Ron Estes,81
-Bourbon,Freedom Township,State Treasurer,,R,Ron Estes,116
-Bourbon,Marion Township,State Treasurer,,R,Ron Estes,302
-Bourbon,Marmaton Township,State Treasurer,,R,Ron Estes,223
-Bourbon,Mill Creek Township,State Treasurer,,R,Ron Estes,124
-Bourbon,North Scott Township,State Treasurer,,R,Ron Estes,193
-Bourbon,Osage Township,State Treasurer,,R,Ron Estes,100
-Bourbon,Pawnee Township,State Treasurer,,R,Ron Estes,91
-Bourbon,South Scott Township,State Treasurer,,R,Ron Estes,510
-Bourbon,Timberhill Township,State Treasurer,,R,Ron Estes,53
-Bourbon,Walnut Twp,State Treasurer,,R,Ron Estes,33
-Bourbon,Fort Scott Ward 1,Insurance Commissioner,,D,Dennis Anderson,127
-Bourbon,Fort Scott Ward 2,Insurance Commissioner,,D,Dennis Anderson,142
-Bourbon,Fort Scott Ward 3,Insurance Commissioner,,D,Dennis Anderson,43
-Bourbon,Fort Scott Ward 4,Insurance Commissioner,,D,Dennis Anderson,110
-Bourbon,Fort Scott Ward 5,Insurance Commissioner,,D,Dennis Anderson,115
-Bourbon,Fort Scott Ward 6,Insurance Commissioner,,D,Dennis Anderson,144
-Bourbon,Fort Scott Ward 7,Insurance Commissioner,,D,Dennis Anderson,151
-Bourbon,Drywood Township,Insurance Commissioner,,D,Dennis Anderson,31
-Bourbon,Franklin Township,Insurance Commissioner,,D,Dennis Anderson,31
-Bourbon,Freedom Township,Insurance Commissioner,,D,Dennis Anderson,46
-Bourbon,Marion Township,Insurance Commissioner,,D,Dennis Anderson,97
-Bourbon,Marmaton Township,Insurance Commissioner,,D,Dennis Anderson,93
-Bourbon,Mill Creek Township,Insurance Commissioner,,D,Dennis Anderson,48
-Bourbon,North Scott Township,Insurance Commissioner,,D,Dennis Anderson,113
-Bourbon,Osage Township,Insurance Commissioner,,D,Dennis Anderson,46
-Bourbon,Pawnee Township,Insurance Commissioner,,D,Dennis Anderson,33
-Bourbon,South Scott Township,Insurance Commissioner,,D,Dennis Anderson,177
-Bourbon,Timberhill Township,Insurance Commissioner,,D,Dennis Anderson,27
-Bourbon,Walnut Twp,Insurance Commissioner,,D,Dennis Anderson,5
-Bourbon,Fort Scott Ward 1,Insurance Commissioner,,R,Ken Setzer,165
-Bourbon,Fort Scott Ward 2,Insurance Commissioner,,R,Ken Setzer,168
-Bourbon,Fort Scott Ward 3,Insurance Commissioner,,R,Ken Setzer,73
-Bourbon,Fort Scott Ward 4,Insurance Commissioner,,R,Ken Setzer,197
-Bourbon,Fort Scott Ward 5,Insurance Commissioner,,R,Ken Setzer,249
-Bourbon,Fort Scott Ward 6,Insurance Commissioner,,R,Ken Setzer,322
-Bourbon,Fort Scott Ward 7,Insurance Commissioner,,R,Ken Setzer,258
-Bourbon,Drywood Township,Insurance Commissioner,,R,Ken Setzer,125
-Bourbon,Franklin Township,Insurance Commissioner,,R,Ken Setzer,81
-Bourbon,Freedom Township,Insurance Commissioner,,R,Ken Setzer,112
-Bourbon,Marion Township,Insurance Commissioner,,R,Ken Setzer,280
-Bourbon,Marmaton Township,Insurance Commissioner,,R,Ken Setzer,199
-Bourbon,Mill Creek Township,Insurance Commissioner,,R,Ken Setzer,115
-Bourbon,North Scott Township,Insurance Commissioner,,R,Ken Setzer,184
-Bourbon,Osage Township,Insurance Commissioner,,R,Ken Setzer,90
-Bourbon,Pawnee Township,Insurance Commissioner,,R,Ken Setzer,84
-Bourbon,South Scott Township,Insurance Commissioner,,R,Ken Setzer,479
-Bourbon,Timberhill Township,Insurance Commissioner,,R,Ken Setzer,50
-Bourbon,Walnut Twp,Insurance Commissioner,,R,Ken Setzer,32
-Bourbon,Fort Scott Ward 1,State House,4,R,Marty Read,143
-Bourbon,Fort Scott Ward 2,State House,4,R,Marty Read,163
-Bourbon,Fort Scott Ward 3,State House,4,R,Marty Read,58
-Bourbon,Fort Scott Ward 4,State House,4,R,Marty Read,160
-Bourbon,Fort Scott Ward 5,State House,4,R,Marty Read,226
-Bourbon,Fort Scott Ward 6,State House,4,R,Marty Read,283
-Bourbon,Fort Scott Ward 7,State House,4,R,Marty Read,236
-Bourbon,Franklin Township,State House,4,R,Marty Read,128
-Bourbon,Freedom Township,State House,4,R,Marty Read,95
-Bourbon,Marion Township,State House,4,R,Marty Read,118
-Bourbon,Mill Creek Township,State House,4,R,Marty Read,223
-Bourbon,North Scott Township,State House,4,R,Marty Read,124
-Bourbon,Osage Township,State House,4,R,Marty Read,181
-Bourbon,Pawnee Township,State House,4,R,Marty Read,92
-Bourbon,South Scott Township,State House,4,R,Marty Read,80
-Bourbon,Timberhill Township,State House,4,R,Marty Read,457
-Bourbon,Walnut Twp,State House,4,R,Marty Read,57
-Bourbon,Fort Scott Ward 1,State House,4,D,Lucas B Cosens,165
-Bourbon,Fort Scott Ward 2,State House,4,D,Lucas B Cosens,153
-Bourbon,Fort Scott Ward 3,State House,4,D,Lucas B Cosens,61
-Bourbon,Fort Scott Ward 4,State House,4,D,Lucas B Cosens,159
-Bourbon,Fort Scott Ward 5,State House,4,D,Lucas B Cosens,157
-Bourbon,Fort Scott Ward 6,State House,4,D,Lucas B Cosens,207
-Bourbon,Fort Scott Ward 7,State House,4,D,Lucas B Cosens,188
-Bourbon,Drywood Township,State House,4,D,Lucas B Cosens,33
-Bourbon,Franklin Township,State House,4,D,Lucas B Cosens,26
-Bourbon,Freedom Township,State House,4,D,Lucas B Cosens,40
-Bourbon,Marion Township,State House,2,D,Adam Lusker,234
-Bourbon,Marmaton Township,State House,4,D,Lucas B Cosens,84
-Bourbon,Mill Creek Township,State House,4,D,Lucas B Cosens,47
-Bourbon,North Scott Township,State House,4,D,Lucas B Cosens,129
-Bourbon,Osage Township,State House,4,D,Lucas B Cosens,47
-Bourbon,Pawnee Township,State House,4,D,Lucas B Cosens,39
-Bourbon,South Scott Township,State House,4,D,Lucas B Cosens,227
-Bourbon,Timberhill Township,State House,4,D,Lucas B Cosens,25
-Bourbon,Walnut Twp,State House,2,D,Adam Lusker,23
+county,precinct,office,district,party,candidate,votes,vtd
+BOURBON,Drywood Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",32,000010
+BOURBON,Drywood Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000010
+BOURBON,Drywood Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",123,000010
+BOURBON,Fort Scott Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",126,00002A
+BOURBON,Fort Scott Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",22,00002A
+BOURBON,Fort Scott Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",158,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002F
+BOURBON,Fort Scott Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",145,00003A
+BOURBON,Fort Scott Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,00003A
+BOURBON,Fort Scott Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",163,00003A
+BOURBON,Fort Scott Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000040
+BOURBON,Fort Scott Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000040
+BOURBON,Fort Scott Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",64,000040
+BOURBON,Fort Scott Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",144,00005A
+BOURBON,Fort Scott Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,00005A
+BOURBON,Fort Scott Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",159,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005D
+BOURBON,Fort Scott Ward 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",144,000060
+BOURBON,Fort Scott Ward 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,000060
+BOURBON,Fort Scott Ward 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",217,000060
+BOURBON,Fort Scott Ward 6,Governor / Lt. Governor,,Democratic,"Davis, Paul",186,000070
+BOURBON,Fort Scott Ward 6,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000070
+BOURBON,Fort Scott Ward 6,Governor / Lt. Governor,,Republican,"Brownback, Sam",287,000070
+BOURBON,Fort Scott Ward 7,Governor / Lt. Governor,,Democratic,"Davis, Paul",176,000080
+BOURBON,Fort Scott Ward 7,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,000080
+BOURBON,Fort Scott Ward 7,Governor / Lt. Governor,,Republican,"Brownback, Sam",231,000080
+BOURBON,Franklin Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",32,000090
+BOURBON,Franklin Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000090
+BOURBON,Franklin Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",84,000090
+BOURBON,Freedom Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000100
+BOURBON,Freedom Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000100
+BOURBON,Freedom Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",110,000100
+BOURBON,Marion Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",132,000110
+BOURBON,Marion Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,000110
+BOURBON,Marion Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",266,000110
+BOURBON,Marmaton Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",99,000120
+BOURBON,Marmaton Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000120
+BOURBON,Marmaton Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",192,000120
+BOURBON,Mill Creek Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",59,000130
+BOURBON,Mill Creek Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000130
+BOURBON,Mill Creek Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000130
+BOURBON,North Scott Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",130,000140
+BOURBON,North Scott Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000140
+BOURBON,North Scott Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",173,000140
+BOURBON,Osage Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000150
+BOURBON,Osage Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000150
+BOURBON,Osage Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",87,000150
+BOURBON,Pawnee Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",43,000160
+BOURBON,Pawnee Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000160
+BOURBON,Pawnee Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",75,000160
+BOURBON,South Scott Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",224,000170
+BOURBON,South Scott Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,000170
+BOURBON,South Scott Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",434,000170
+BOURBON,Timberhill Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",28,000180
+BOURBON,Timberhill Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000180
+BOURBON,Timberhill Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",53,000180
+BOURBON,Walnut Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000190
+BOURBON,Walnut Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000190
+BOURBON,Walnut Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",27,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900030
+BOURBON,Drywood Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",33,000010
+BOURBON,Drywood Township,Kansas House of Representatives,4,Republican,"Read, Marty",128,000010
+BOURBON,Fort Scott Ward 1,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",165,00002A
+BOURBON,Fort Scott Ward 1,Kansas House of Representatives,4,Republican,"Read, Marty",143,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Kansas House of Representatives,4,Republican,"Read, Marty",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Kansas House of Representatives,4,Republican,"Read, Marty",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Kansas House of Representatives,4,Republican,"Read, Marty",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Kansas House of Representatives,4,Republican,"Read, Marty",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Kansas House of Representatives,4,Republican,"Read, Marty",0,00002F
+BOURBON,Fort Scott Ward 2,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",153,00003A
+BOURBON,Fort Scott Ward 2,Kansas House of Representatives,4,Republican,"Read, Marty",163,00003A
+BOURBON,Fort Scott Ward 3,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",61,000040
+BOURBON,Fort Scott Ward 3,Kansas House of Representatives,4,Republican,"Read, Marty",58,000040
+BOURBON,Fort Scott Ward 4,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",159,00005A
+BOURBON,Fort Scott Ward 4,Kansas House of Representatives,4,Republican,"Read, Marty",160,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Kansas House of Representatives,4,Republican,"Read, Marty",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Kansas House of Representatives,4,Republican,"Read, Marty",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Republican,"Read, Marty",0,00005D
+BOURBON,Fort Scott Ward 5,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",157,000060
+BOURBON,Fort Scott Ward 5,Kansas House of Representatives,4,Republican,"Read, Marty",226,000060
+BOURBON,Fort Scott Ward 6,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",207,000070
+BOURBON,Fort Scott Ward 6,Kansas House of Representatives,4,Republican,"Read, Marty",283,000070
+BOURBON,Fort Scott Ward 7,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",188,000080
+BOURBON,Fort Scott Ward 7,Kansas House of Representatives,4,Republican,"Read, Marty",236,000080
+BOURBON,Franklin Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",26,000090
+BOURBON,Franklin Township,Kansas House of Representatives,4,Republican,"Read, Marty",95,000090
+BOURBON,Freedom Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",40,000100
+BOURBON,Freedom Township,Kansas House of Representatives,4,Republican,"Read, Marty",118,000100
+BOURBON,Marion Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",234,000110
+BOURBON,Marmaton Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",84,000120
+BOURBON,Marmaton Township,Kansas House of Representatives,4,Republican,"Read, Marty",223,000120
+BOURBON,Mill Creek Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",47,000130
+BOURBON,Mill Creek Township,Kansas House of Representatives,4,Republican,"Read, Marty",124,000130
+BOURBON,North Scott Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",129,000140
+BOURBON,North Scott Township,Kansas House of Representatives,4,Republican,"Read, Marty",181,000140
+BOURBON,Osage Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",47,000150
+BOURBON,Osage Township,Kansas House of Representatives,4,Republican,"Read, Marty",92,000150
+BOURBON,Pawnee Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",39,000160
+BOURBON,Pawnee Township,Kansas House of Representatives,4,Republican,"Read, Marty",80,000160
+BOURBON,South Scott Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",227,000170
+BOURBON,South Scott Township,Kansas House of Representatives,4,Republican,"Read, Marty",457,000170
+BOURBON,Timberhill Township,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",25,000180
+BOURBON,Timberhill Township,Kansas House of Representatives,4,Republican,"Read, Marty",57,000180
+BOURBON,Walnut Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",23,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Kansas House of Representatives,4,Republican,"Read, Marty",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Kansas House of Representatives,4,Republican,"Read, Marty",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Kansas House of Representatives,4,Democratic,"Cosens, Lucas B",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Kansas House of Representatives,4,Republican,"Read, Marty",0,900030
+BOURBON,Drywood Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",23,000010
+BOURBON,Drywood Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000010
+BOURBON,Drywood Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",133,000010
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",104,00002A
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",21,00002A
+BOURBON,Fort Scott Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",179,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00002F
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",105,00003A
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",24,00003A
+BOURBON,Fort Scott Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",188,00003A
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",34,000040
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000040
+BOURBON,Fort Scott Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",72,000040
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",94,00005A
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",18,00005A
+BOURBON,Fort Scott Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",208,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005D
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Democratic,"Wakefield, Margie",91,000060
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",15,000060
+BOURBON,Fort Scott Ward 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",273,000060
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Democratic,"Wakefield, Margie",106,000070
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",18,000070
+BOURBON,Fort Scott Ward 6,United States House of Representatives,2,Republican,"Jenkins, Lynn",360,000070
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Democratic,"Wakefield, Margie",119,000080
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",20,000080
+BOURBON,Fort Scott Ward 7,United States House of Representatives,2,Republican,"Jenkins, Lynn",285,000080
+BOURBON,Franklin Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000090
+BOURBON,Franklin Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000090
+BOURBON,Franklin Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",90,000090
+BOURBON,Freedom Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",28,000100
+BOURBON,Freedom Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000100
+BOURBON,Freedom Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",116,000100
+BOURBON,Marion Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",87,000110
+BOURBON,Marion Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",24,000110
+BOURBON,Marion Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",301,000110
+BOURBON,Marmaton Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",66,000120
+BOURBON,Marmaton Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",14,000120
+BOURBON,Marmaton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",221,000120
+BOURBON,Mill Creek Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",41,000130
+BOURBON,Mill Creek Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000130
+BOURBON,Mill Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",125,000130
+BOURBON,North Scott Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",82,000140
+BOURBON,North Scott Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",19,000140
+BOURBON,North Scott Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",204,000140
+BOURBON,Osage Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",30,000150
+BOURBON,Osage Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000150
+BOURBON,Osage Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",101,000150
+BOURBON,Pawnee Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000160
+BOURBON,Pawnee Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000160
+BOURBON,Pawnee Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",86,000160
+BOURBON,South Scott Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",138,000170
+BOURBON,South Scott Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",25,000170
+BOURBON,South Scott Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",512,000170
+BOURBON,Timberhill Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",19,000180
+BOURBON,Timberhill Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000180
+BOURBON,Timberhill Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",57,000180
+BOURBON,Walnut Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",2,000190
+BOURBON,Walnut Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000190
+BOURBON,Walnut Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",31,000190
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900030
+BOURBON,Drywood Township,Attorney General,,Democratic,"Kotich, A.J.",23,000010
+BOURBON,Drywood Township,Attorney General,,Republican,"Schmidt, Derek",134,000010
+BOURBON,Fort Scott Ward 1,Attorney General,,Democratic,"Kotich, A.J.",116,00002A
+BOURBON,Fort Scott Ward 1,Attorney General,,Republican,"Schmidt, Derek",180,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Attorney General,,Democratic,"Kotich, A.J.",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Attorney General,,Republican,"Schmidt, Derek",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Attorney General,,Democratic,"Kotich, A.J.",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Attorney General,,Republican,"Schmidt, Derek",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Attorney General,,Democratic,"Kotich, A.J.",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Attorney General,,Republican,"Schmidt, Derek",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Attorney General,,Democratic,"Kotich, A.J.",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Attorney General,,Republican,"Schmidt, Derek",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Attorney General,,Democratic,"Kotich, A.J.",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Attorney General,,Republican,"Schmidt, Derek",0,00002F
+BOURBON,Fort Scott Ward 2,Attorney General,,Democratic,"Kotich, A.J.",116,00003A
+BOURBON,Fort Scott Ward 2,Attorney General,,Republican,"Schmidt, Derek",193,00003A
+BOURBON,Fort Scott Ward 3,Attorney General,,Democratic,"Kotich, A.J.",36,000040
+BOURBON,Fort Scott Ward 3,Attorney General,,Republican,"Schmidt, Derek",81,000040
+BOURBON,Fort Scott Ward 4,Attorney General,,Democratic,"Kotich, A.J.",103,00005A
+BOURBON,Fort Scott Ward 4,Attorney General,,Republican,"Schmidt, Derek",209,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Attorney General,,Democratic,"Kotich, A.J.",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Attorney General,,Republican,"Schmidt, Derek",0,00005D
+BOURBON,Fort Scott Ward 5,Attorney General,,Democratic,"Kotich, A.J.",102,000060
+BOURBON,Fort Scott Ward 5,Attorney General,,Republican,"Schmidt, Derek",269,000060
+BOURBON,Fort Scott Ward 6,Attorney General,,Democratic,"Kotich, A.J.",125,000070
+BOURBON,Fort Scott Ward 6,Attorney General,,Republican,"Schmidt, Derek",342,000070
+BOURBON,Fort Scott Ward 7,Attorney General,,Democratic,"Kotich, A.J.",133,000080
+BOURBON,Fort Scott Ward 7,Attorney General,,Republican,"Schmidt, Derek",275,000080
+BOURBON,Franklin Township,Attorney General,,Democratic,"Kotich, A.J.",29,000090
+BOURBON,Franklin Township,Attorney General,,Republican,"Schmidt, Derek",84,000090
+BOURBON,Freedom Township,Attorney General,,Democratic,"Kotich, A.J.",41,000100
+BOURBON,Freedom Township,Attorney General,,Republican,"Schmidt, Derek",116,000100
+BOURBON,Marion Township,Attorney General,,Democratic,"Kotich, A.J.",85,000110
+BOURBON,Marion Township,Attorney General,,Republican,"Schmidt, Derek",308,000110
+BOURBON,Marmaton Township,Attorney General,,Democratic,"Kotich, A.J.",68,000120
+BOURBON,Marmaton Township,Attorney General,,Republican,"Schmidt, Derek",230,000120
+BOURBON,Mill Creek Township,Attorney General,,Democratic,"Kotich, A.J.",40,000130
+BOURBON,Mill Creek Township,Attorney General,,Republican,"Schmidt, Derek",125,000130
+BOURBON,North Scott Township,Attorney General,,Democratic,"Kotich, A.J.",101,000140
+BOURBON,North Scott Township,Attorney General,,Republican,"Schmidt, Derek",195,000140
+BOURBON,Osage Township,Attorney General,,Democratic,"Kotich, A.J.",36,000150
+BOURBON,Osage Township,Attorney General,,Republican,"Schmidt, Derek",102,000150
+BOURBON,Pawnee Township,Attorney General,,Democratic,"Kotich, A.J.",31,000160
+BOURBON,Pawnee Township,Attorney General,,Republican,"Schmidt, Derek",87,000160
+BOURBON,South Scott Township,Attorney General,,Democratic,"Kotich, A.J.",148,000170
+BOURBON,South Scott Township,Attorney General,,Republican,"Schmidt, Derek",514,000170
+BOURBON,Timberhill Township,Attorney General,,Democratic,"Kotich, A.J.",23,000180
+BOURBON,Timberhill Township,Attorney General,,Republican,"Schmidt, Derek",56,000180
+BOURBON,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",5,000190
+BOURBON,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",32,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Attorney General,,Republican,"Schmidt, Derek",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Attorney General,,Democratic,"Kotich, A.J.",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Attorney General,,Republican,"Schmidt, Derek",0,900030
+BOURBON,Drywood Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000010
+BOURBON,Drywood Township,Commissioner of Insurance,,Republican,"Selzer, Ken",125,000010
+BOURBON,Fort Scott Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",127,00002A
+BOURBON,Fort Scott Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",165,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002F
+BOURBON,Fort Scott Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",142,00003A
+BOURBON,Fort Scott Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",168,00003A
+BOURBON,Fort Scott Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",43,000040
+BOURBON,Fort Scott Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",73,000040
+BOURBON,Fort Scott Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",110,00005A
+BOURBON,Fort Scott Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",197,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005D
+BOURBON,Fort Scott Ward 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",115,000060
+BOURBON,Fort Scott Ward 5,Commissioner of Insurance,,Republican,"Selzer, Ken",249,000060
+BOURBON,Fort Scott Ward 6,Commissioner of Insurance,,Democratic,"Anderson, Dennis",144,000070
+BOURBON,Fort Scott Ward 6,Commissioner of Insurance,,Republican,"Selzer, Ken",322,000070
+BOURBON,Fort Scott Ward 7,Commissioner of Insurance,,Democratic,"Anderson, Dennis",151,000080
+BOURBON,Fort Scott Ward 7,Commissioner of Insurance,,Republican,"Selzer, Ken",258,000080
+BOURBON,Franklin Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000090
+BOURBON,Franklin Township,Commissioner of Insurance,,Republican,"Selzer, Ken",81,000090
+BOURBON,Freedom Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",46,000100
+BOURBON,Freedom Township,Commissioner of Insurance,,Republican,"Selzer, Ken",112,000100
+BOURBON,Marion Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,000110
+BOURBON,Marion Township,Commissioner of Insurance,,Republican,"Selzer, Ken",280,000110
+BOURBON,Marmaton Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",93,000120
+BOURBON,Marmaton Township,Commissioner of Insurance,,Republican,"Selzer, Ken",199,000120
+BOURBON,Mill Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",48,000130
+BOURBON,Mill Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",115,000130
+BOURBON,North Scott Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",113,000140
+BOURBON,North Scott Township,Commissioner of Insurance,,Republican,"Selzer, Ken",184,000140
+BOURBON,Osage Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",46,000150
+BOURBON,Osage Township,Commissioner of Insurance,,Republican,"Selzer, Ken",90,000150
+BOURBON,Pawnee Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000160
+BOURBON,Pawnee Township,Commissioner of Insurance,,Republican,"Selzer, Ken",84,000160
+BOURBON,South Scott Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",177,000170
+BOURBON,South Scott Township,Commissioner of Insurance,,Republican,"Selzer, Ken",479,000170
+BOURBON,Timberhill Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",27,000180
+BOURBON,Timberhill Township,Commissioner of Insurance,,Republican,"Selzer, Ken",50,000180
+BOURBON,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000190
+BOURBON,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",32,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900030
+BOURBON,Drywood Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",34,000010
+BOURBON,Drywood Township,Secretary of State,,Republican,"Kobach, Kris",125,000010
+BOURBON,Fort Scott Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",118,00002A
+BOURBON,Fort Scott Ward 1,Secretary of State,,Republican,"Kobach, Kris",180,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,Secretary of State,,Republican,"Kobach, Kris",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,Secretary of State,,Republican,"Kobach, Kris",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,Secretary of State,,Republican,"Kobach, Kris",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,Secretary of State,,Republican,"Kobach, Kris",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,Secretary of State,,Republican,"Kobach, Kris",0,00002F
+BOURBON,Fort Scott Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",126,00003A
+BOURBON,Fort Scott Ward 2,Secretary of State,,Republican,"Kobach, Kris",183,00003A
+BOURBON,Fort Scott Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",42,000040
+BOURBON,Fort Scott Ward 3,Secretary of State,,Republican,"Kobach, Kris",74,000040
+BOURBON,Fort Scott Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",115,00005A
+BOURBON,Fort Scott Ward 4,Secretary of State,,Republican,"Kobach, Kris",198,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,Secretary of State,,Republican,"Kobach, Kris",0,00005D
+BOURBON,Fort Scott Ward 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",112,000060
+BOURBON,Fort Scott Ward 5,Secretary of State,,Republican,"Kobach, Kris",261,000060
+BOURBON,Fort Scott Ward 6,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",144,000070
+BOURBON,Fort Scott Ward 6,Secretary of State,,Republican,"Kobach, Kris",330,000070
+BOURBON,Fort Scott Ward 7,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",146,000080
+BOURBON,Fort Scott Ward 7,Secretary of State,,Republican,"Kobach, Kris",265,000080
+BOURBON,Franklin Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",33,000090
+BOURBON,Franklin Township,Secretary of State,,Republican,"Kobach, Kris",83,000090
+BOURBON,Freedom Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",41,000100
+BOURBON,Freedom Township,Secretary of State,,Republican,"Kobach, Kris",114,000100
+BOURBON,Marion Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",100,000110
+BOURBON,Marion Township,Secretary of State,,Republican,"Kobach, Kris",292,000110
+BOURBON,Marmaton Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",80,000120
+BOURBON,Marmaton Township,Secretary of State,,Republican,"Kobach, Kris",218,000120
+BOURBON,Mill Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",44,000130
+BOURBON,Mill Creek Township,Secretary of State,,Republican,"Kobach, Kris",122,000130
+BOURBON,North Scott Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",101,000140
+BOURBON,North Scott Township,Secretary of State,,Republican,"Kobach, Kris",203,000140
+BOURBON,Osage Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,000150
+BOURBON,Osage Township,Secretary of State,,Republican,"Kobach, Kris",100,000150
+BOURBON,Pawnee Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,000160
+BOURBON,Pawnee Township,Secretary of State,,Republican,"Kobach, Kris",88,000160
+BOURBON,South Scott Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",185,000170
+BOURBON,South Scott Township,Secretary of State,,Republican,"Kobach, Kris",480,000170
+BOURBON,Timberhill Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000180
+BOURBON,Timberhill Township,Secretary of State,,Republican,"Kobach, Kris",56,000180
+BOURBON,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000190
+BOURBON,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",30,000190
+BOURBON,Fort Scott Ward 6 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,Secretary of State,,Republican,"Kobach, Kris",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,Secretary of State,,Republican,"Kobach, Kris",0,900030
+BOURBON,Drywood Township,State Treasurer,,Democratic,"Alldritt, Carmen",25,000010
+BOURBON,Drywood Township,State Treasurer,,Republican,"Estes, Ron",128,000010
+BOURBON,Fort Scott Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",119,00002A
+BOURBON,Fort Scott Ward 1,State Treasurer,,Republican,"Estes, Ron",174,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,State Treasurer,,Republican,"Estes, Ron",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,State Treasurer,,Republican,"Estes, Ron",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,State Treasurer,,Republican,"Estes, Ron",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,State Treasurer,,Republican,"Estes, Ron",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,State Treasurer,,Republican,"Estes, Ron",0,00002F
+BOURBON,Fort Scott Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",121,00003A
+BOURBON,Fort Scott Ward 2,State Treasurer,,Republican,"Estes, Ron",186,00003A
+BOURBON,Fort Scott Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",37,000040
+BOURBON,Fort Scott Ward 3,State Treasurer,,Republican,"Estes, Ron",79,000040
+BOURBON,Fort Scott Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",104,00005A
+BOURBON,Fort Scott Ward 4,State Treasurer,,Republican,"Estes, Ron",209,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,State Treasurer,,Republican,"Estes, Ron",0,00005D
+BOURBON,Fort Scott Ward 5,State Treasurer,,Democratic,"Alldritt, Carmen",109,000060
+BOURBON,Fort Scott Ward 5,State Treasurer,,Republican,"Estes, Ron",262,000060
+BOURBON,Fort Scott Ward 6,State Treasurer,,Democratic,"Alldritt, Carmen",123,000070
+BOURBON,Fort Scott Ward 6,State Treasurer,,Republican,"Estes, Ron",338,000070
+BOURBON,Fort Scott Ward 7,State Treasurer,,Democratic,"Alldritt, Carmen",139,000080
+BOURBON,Fort Scott Ward 7,State Treasurer,,Republican,"Estes, Ron",266,000080
+BOURBON,Franklin Township,State Treasurer,,Democratic,"Alldritt, Carmen",29,000090
+BOURBON,Franklin Township,State Treasurer,,Republican,"Estes, Ron",81,000090
+BOURBON,Freedom Township,State Treasurer,,Democratic,"Alldritt, Carmen",41,000100
+BOURBON,Freedom Township,State Treasurer,,Republican,"Estes, Ron",116,000100
+BOURBON,Marion Township,State Treasurer,,Democratic,"Alldritt, Carmen",90,000110
+BOURBON,Marion Township,State Treasurer,,Republican,"Estes, Ron",302,000110
+BOURBON,Marmaton Township,State Treasurer,,Democratic,"Alldritt, Carmen",72,000120
+BOURBON,Marmaton Township,State Treasurer,,Republican,"Estes, Ron",223,000120
+BOURBON,Mill Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",40,000130
+BOURBON,Mill Creek Township,State Treasurer,,Republican,"Estes, Ron",124,000130
+BOURBON,North Scott Township,State Treasurer,,Democratic,"Alldritt, Carmen",105,000140
+BOURBON,North Scott Township,State Treasurer,,Republican,"Estes, Ron",193,000140
+BOURBON,Osage Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000150
+BOURBON,Osage Township,State Treasurer,,Republican,"Estes, Ron",100,000150
+BOURBON,Pawnee Township,State Treasurer,,Democratic,"Alldritt, Carmen",27,000160
+BOURBON,Pawnee Township,State Treasurer,,Republican,"Estes, Ron",91,000160
+BOURBON,South Scott Township,State Treasurer,,Democratic,"Alldritt, Carmen",151,000170
+BOURBON,South Scott Township,State Treasurer,,Republican,"Estes, Ron",510,000170
+BOURBON,Timberhill Township,State Treasurer,,Democratic,"Alldritt, Carmen",23,000180
+BOURBON,Timberhill Township,State Treasurer,,Republican,"Estes, Ron",53,000180
+BOURBON,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000190
+BOURBON,Walnut Township,State Treasurer,,Republican,"Estes, Ron",33,000190
+BOURBON,Fort Scott Ward 6 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,State Treasurer,,Republican,"Estes, Ron",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,State Treasurer,,Democratic,"Alldritt, Carmen",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,State Treasurer,,Republican,"Estes, Ron",0,900030
+BOURBON,Drywood Township,United States Senate,,independent,"Orman, Greg",33,000010
+BOURBON,Drywood Township,United States Senate,,Libertarian,"Batson, Randall",7,000010
+BOURBON,Drywood Township,United States Senate,,Republican,"Roberts, Pat",124,000010
+BOURBON,Fort Scott Ward 1,United States Senate,,independent,"Orman, Greg",114,00002A
+BOURBON,Fort Scott Ward 1,United States Senate,,Libertarian,"Batson, Randall",24,00002A
+BOURBON,Fort Scott Ward 1,United States Senate,,Republican,"Roberts, Pat",162,00002A
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,independent,"Orman, Greg",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,Libertarian,"Batson, Randall",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Colonial,United States Senate,,Republican,"Roberts, Pat",0,00002B
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,independent,"Orman, Greg",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,Libertarian,"Batson, Randall",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Halls,United States Senate,,Republican,"Roberts, Pat",0,00002C
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,independent,"Orman, Greg",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,Libertarian,"Batson, Randall",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Barn,United States Senate,,Republican,"Roberts, Pat",0,00002D
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,independent,"Orman, Greg",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,Libertarian,"Batson, Randall",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram A,United States Senate,,Republican,"Roberts, Pat",0,00002E
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,independent,"Orman, Greg",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,Libertarian,"Batson, Randall",0,00002F
+BOURBON,Fort Scott Ward 1 Exclave Red Ram B,United States Senate,,Republican,"Roberts, Pat",0,00002F
+BOURBON,Fort Scott Ward 2,United States Senate,,independent,"Orman, Greg",98,00003A
+BOURBON,Fort Scott Ward 2,United States Senate,,Libertarian,"Batson, Randall",42,00003A
+BOURBON,Fort Scott Ward 2,United States Senate,,Republican,"Roberts, Pat",167,00003A
+BOURBON,Fort Scott Ward 3,United States Senate,,independent,"Orman, Greg",38,000040
+BOURBON,Fort Scott Ward 3,United States Senate,,Libertarian,"Batson, Randall",9,000040
+BOURBON,Fort Scott Ward 3,United States Senate,,Republican,"Roberts, Pat",71,000040
+BOURBON,Fort Scott Ward 4,United States Senate,,independent,"Orman, Greg",107,00005A
+BOURBON,Fort Scott Ward 4,United States Senate,,Libertarian,"Batson, Randall",20,00005A
+BOURBON,Fort Scott Ward 4,United States Senate,,Republican,"Roberts, Pat",182,00005A
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,independent,"Orman, Greg",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,00005B
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,independent,"Orman, Greg",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,Libertarian,"Batson, Randall",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave B,United States Senate,,Republican,"Roberts, Pat",0,00005C
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,independent,"Orman, Greg",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Libertarian,"Batson, Randall",0,00005D
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Republican,"Roberts, Pat",0,00005D
+BOURBON,Fort Scott Ward 5,United States Senate,,independent,"Orman, Greg",120,000060
+BOURBON,Fort Scott Ward 5,United States Senate,,Libertarian,"Batson, Randall",16,000060
+BOURBON,Fort Scott Ward 5,United States Senate,,Republican,"Roberts, Pat",242,000060
+BOURBON,Fort Scott Ward 6,United States Senate,,independent,"Orman, Greg",143,000070
+BOURBON,Fort Scott Ward 6,United States Senate,,Libertarian,"Batson, Randall",25,000070
+BOURBON,Fort Scott Ward 6,United States Senate,,Republican,"Roberts, Pat",308,000070
+BOURBON,Fort Scott Ward 7,United States Senate,,independent,"Orman, Greg",141,000080
+BOURBON,Fort Scott Ward 7,United States Senate,,Libertarian,"Batson, Randall",31,000080
+BOURBON,Fort Scott Ward 7,United States Senate,,Republican,"Roberts, Pat",240,000080
+BOURBON,Franklin Township,United States Senate,,independent,"Orman, Greg",33,000090
+BOURBON,Franklin Township,United States Senate,,Libertarian,"Batson, Randall",6,000090
+BOURBON,Franklin Township,United States Senate,,Republican,"Roberts, Pat",79,000090
+BOURBON,Freedom Township,United States Senate,,independent,"Orman, Greg",40,000100
+BOURBON,Freedom Township,United States Senate,,Libertarian,"Batson, Randall",9,000100
+BOURBON,Freedom Township,United States Senate,,Republican,"Roberts, Pat",106,000100
+BOURBON,Marion Township,United States Senate,,independent,"Orman, Greg",114,000110
+BOURBON,Marion Township,United States Senate,,Libertarian,"Batson, Randall",26,000110
+BOURBON,Marion Township,United States Senate,,Republican,"Roberts, Pat",267,000110
+BOURBON,Marmaton Township,United States Senate,,independent,"Orman, Greg",83,000120
+BOURBON,Marmaton Township,United States Senate,,Libertarian,"Batson, Randall",16,000120
+BOURBON,Marmaton Township,United States Senate,,Republican,"Roberts, Pat",198,000120
+BOURBON,Mill Creek Township,United States Senate,,independent,"Orman, Greg",48,000130
+BOURBON,Mill Creek Township,United States Senate,,Libertarian,"Batson, Randall",11,000130
+BOURBON,Mill Creek Township,United States Senate,,Republican,"Roberts, Pat",107,000130
+BOURBON,North Scott Township,United States Senate,,independent,"Orman, Greg",96,000140
+BOURBON,North Scott Township,United States Senate,,Libertarian,"Batson, Randall",21,000140
+BOURBON,North Scott Township,United States Senate,,Republican,"Roberts, Pat",188,000140
+BOURBON,Osage Township,United States Senate,,independent,"Orman, Greg",35,000150
+BOURBON,Osage Township,United States Senate,,Libertarian,"Batson, Randall",8,000150
+BOURBON,Osage Township,United States Senate,,Republican,"Roberts, Pat",94,000150
+BOURBON,Pawnee Township,United States Senate,,independent,"Orman, Greg",26,000160
+BOURBON,Pawnee Township,United States Senate,,Libertarian,"Batson, Randall",5,000160
+BOURBON,Pawnee Township,United States Senate,,Republican,"Roberts, Pat",84,000160
+BOURBON,South Scott Township,United States Senate,,independent,"Orman, Greg",159,000170
+BOURBON,South Scott Township,United States Senate,,Libertarian,"Batson, Randall",32,000170
+BOURBON,South Scott Township,United States Senate,,Republican,"Roberts, Pat",483,000170
+BOURBON,Timberhill Township,United States Senate,,independent,"Orman, Greg",22,000180
+BOURBON,Timberhill Township,United States Senate,,Libertarian,"Batson, Randall",3,000180
+BOURBON,Timberhill Township,United States Senate,,Republican,"Roberts, Pat",58,000180
+BOURBON,Walnut Township,United States Senate,,independent,"Orman, Greg",6,000190
+BOURBON,Walnut Township,United States Senate,,Libertarian,"Batson, Randall",1,000190
+BOURBON,Walnut Township,United States Senate,,Republican,"Roberts, Pat",30,000190
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,independent,"Orman, Greg",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,900010
+BOURBON,Fort Scott Ward 6 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,900010
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,independent,"Orman, Greg",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Libertarian,"Batson, Randall",0,900020
+BOURBON,Fort Scott Ward 4 Exclave C,United States Senate,,Republican,"Roberts, Pat",0,900020
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,independent,"Orman, Greg",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,Libertarian,"Batson, Randall",0,900030
+BOURBON,Fort Scott Ward 4 Exclave D,United States Senate,,Republican,"Roberts, Pat",0,900030

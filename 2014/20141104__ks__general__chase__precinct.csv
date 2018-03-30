@@ -1,232 +1,199 @@
-county,precinct,office,district,party,candidate,votes
-Chase,Bazaar Township,U.S. Senate,,R,Pat Roberts,35
-Chase,Cedar Township,U.S. Senate,,R,Pat Roberts,21
-Chase,Cottonwood Township,U.S. Senate,,R,Pat Roberts,38
-Chase,Diamond Township,U.S. Senate,,R,Pat Roberts,81
-Chase,East Falls Township,U.S. Senate,,R,Pat Roberts,111
-Chase,East Strong Township,U.S. Senate,,R,Pat Roberts,92
-Chase,Homestead Township,U.S. Senate,,R,Pat Roberts,14
-Chase,Matfield Township,U.S. Senate,,R,Pat Roberts,33
-Chase,Toledo Township,U.S. Senate,,R,Pat Roberts,85
-Chase,West Falls Township,U.S. Senate,,R,Pat Roberts,111
-Chase,West Strong Township,U.S. Senate,,R,Pat Roberts,28
-Chase,CHASE KS,U.S. Senate,,R,Pat Roberts,649
-Chase,Bazaar Township,U.S. Senate,,I,Greg Orman,5
-Chase,Cedar Township,U.S. Senate,,I,Greg Orman,12
-Chase,Cottonwood Township,U.S. Senate,,I,Greg Orman,21
-Chase,Diamond Township,U.S. Senate,,I,Greg Orman,28
-Chase,East Falls Township,U.S. Senate,,I,Greg Orman,39
-Chase,East Strong Township,U.S. Senate,,I,Greg Orman,76
-Chase,Homestead Township,U.S. Senate,,I,Greg Orman,8
-Chase,Matfield Township,U.S. Senate,,I,Greg Orman,22
-Chase,Toledo Township,U.S. Senate,,I,Greg Orman,55
-Chase,West Falls Township,U.S. Senate,,I,Greg Orman,89
-Chase,West Strong Township,U.S. Senate,,I,Greg Orman,22
-CHASE,CHASE KS,U.S. Senate,,I,greg Orman,377
-Chase,Bazaar Township,U.S. Senate,,L,Nathan Batson,1
-Chase,Cedar Township,U.S. Senate,,L,Nathan Batson,3
-Chase,Cottonwood Township,U.S. Senate,,L,Nathan Batson,2
-Chase,Diamond Township,U.S. Senate,,L,Nathan Batson,3
-Chase,East Falls Township,U.S. Senate,,L,Nathan Batson,8
-Chase,East Strong Township,U.S. Senate,,L,Nathan Batson,16
-Chase,Homestead Township,U.S. Senate,,L,Nathan Batson,0
-Chase,Matfield Township,U.S. Senate,,L,Nathan Batson,3
-Chase,Toledo Township,U.S. Senate,,L,Nathan Batson,6
-Chase,West Falls Township,U.S. Senate,,L,Nathan Batson,13
-Chase,West Strong Township,U.S. Senate,,L,Nathan Batson,2
-Chase,PROVISIONALS,U.S. Senate,,L,Nathan Batson,0
-CHASE,CHASE KS,U.S. Senate,,L,Nathan Batson,57
-Chase,Bazaar Township,U.S. House,1,R,Tim Huelskamp,38
-Chase,Cedar Township,U.S. House,1,R,Tim Huelskamp,22
-Chase,Cottonwood Township,U.S. House,1,R,Tim Huelskamp,41
-Chase,Diamond Township,U.S. House,1,R,Tim Huelskamp,76
-Chase,East Falls Township,U.S. House,1,R,Tim Huelskamp,112
-Chase,East Strong Township,U.S. House,1,R,Tim Huelskamp,97
-Chase,Homestead Township,U.S. House,1,R,Tim Huelskamp,15
-Chase,Matfield Township,U.S. House,1,R,Tim Huelskamp,39
-Chase,Toledo Township,U.S. House,1,R,Tim Huelskamp,90
-Chase,West Falls Township,U.S. House,1,R,Tim Huelskamp,132
-Chase,West Strong Township,U.S. House,1,R,Tim Huelskamp,30
-Chase,PROVISIONALS,U.S. House,1,R,Tim Huelskamp,19
-CHASE,CHASE KS,U.S. House,1,R,Tim Huelskamp,711
-Chase,Bazaar Township,U.S. House,1,D,James Sherow,4
-Chase,Cedar Township,U.S. House,1,D,James Sherow,13
-Chase,Cottonwood Township,U.S. House,1,D,James Sherow,20
-Chase,Diamond Township,U.S. House,1,D,James Sherow,26
-Chase,East Falls Township,U.S. House,1,D,James Sherow,38
-Chase,East Strong Township,U.S. House,1,D,James Sherow,77
-Chase,Homestead Township,U.S. House,1,D,James Sherow,7
-Chase,Matfield Township,U.S. House,1,D,James Sherow,18
-Chase,Toledo Township,U.S. House,1,D,James Sherow,53
-Chase,West Falls Township,U.S. House,1,D,James Sherow,74
-Chase,West Strong Township,U.S. House,1,D,James Sherow,22
-Chase,PROVISIONALS,U.S. House,1,D,James Sherow,4
-CHASE,CHASE KS,U.S. House,1,D,James Sherow,356
-Chase,Bazaar Township,Governor,,R,Sam Brownback,37
-Chase,Cedar Township,Governor,,R,Sam Brownback,21
-Chase,Cottonwood Township,Governor,,R,Sam Brownback,36
-Chase,Diamond Township,Governor,,R,Sam Brownback,72
-Chase,East Falls Township,Governor,,R,Sam Brownback,91
-Chase,East Strong Township,Governor,,R,Sam Brownback,74
-Chase,Homestead Township,Governor,,R,Sam Brownback,12
-Chase,Matfield Township,Governor,,R,Sam Brownback,30
-Chase,Toledo Township,Governor,,R,Sam Brownback,79
-Chase,West Falls Township,Governor,,R,Sam Brownback,95
-Chase,West Strong Township,Governor,,R,Sam Brownback,25
-Chase,PROVISIONALS,Governor,,R,Sam Brownback,14
-CHASE,CHASE KS,Governor,,R,Sam Brownback,586
-Chase,Bazaar Township,Governor,,D,Paul Davis,5
-Chase,Cedar Township,Governor,,D,Paul Davis,13
-Chase,Cottonwood Township,Governor,,D,Paul Davis,21
-Chase,Diamond Township,Governor,,D,Paul Davis,32
-Chase,East Falls Township,Governor,,D,Paul Davis,54
-Chase,East Strong Township,Governor,,D,Paul Davis,94
-Chase,Homestead Township,Governor,,D,Paul Davis,10
-Chase,Matfield Township,Governor,,D,Paul Davis,24
-Chase,Toledo Township,Governor,,D,Paul Davis,56
-Chase,West Falls Township,Governor,,D,Paul Davis,101
-Chase,West Strong Township,Governor,,D,Paul Davis,23
-Chase,PROVISIONALS,Governor,,D,Paul Davis,7
-CHASE,CHASE KS,Governor,,D,Paul Davis,440
-Chase,Bazaar Township,Governor,,L,Keen Umbehr,0
-Chase,Cedar Township,Governor,,L,Keen Umbehr,2
-Chase,Cottonwood Township,Governor,,L,Keen Umbehr,4
-Chase,Diamond Township,Governor,,L,Keen Umbehr,3
-Chase,East Falls Township,Governor,,L,Keen Umbehr,7
-Chase,East Strong Township,Governor,,L,Keen Umbehr,10
-Chase,Homestead Township,Governor,,L,Keen Umbehr,0
-Chase,Matfield Township,Governor,,L,Keen Umbehr,2
-Chase,Toledo Township,Governor,,L,Keen Umbehr,9
-Chase,West Falls Township,Governor,,L,Keen Umbehr,13
-Chase,West Strong Township,Governor,,L,Keen Umbehr,4
-Chase,PROVISIONALS,Governor,,L,Keen Umbehr,1
-CHASE,CHASE KS,Governor,,L,Keen Umbehr,55
-Chase,Bazaar Township,Secretary of State,,R,Kris Kobach,38
-Chase,Cedar Township,Secretary of State,,R,Kris Kobach,20
-Chase,Cottonwood Township,Secretary of State,,R,Kris Kobach,39
-Chase,Diamond Township,Secretary of State,,R,Kris Kobach,75
-Chase,East Falls Township,Secretary of State,,R,Kris Kobach,118
-Chase,East Strong Township,Secretary of State,,R,Kris Kobach,96
-Chase,Homestead Township,Secretary of State,,R,Kris Kobach,13
-Chase,Matfield Township,Secretary of State,,R,Kris Kobach,36
-Chase,Toledo Township,Secretary of State,,R,Kris Kobach,92
-Chase,West Falls Township,Secretary of State,,R,Kris Kobach,132
-Chase,West Strong Township,Secretary of State,,R,Kris Kobach,29
-Chase,PROVISIONALS,Secretary of State,,R,Kris Kobach,19
-CHASE,CHASE KS,Secretary of State,,R,Kris Kobach,707
-Chase,Bazaar Township,Secretary of State,,D,Jean Schodorf,3
-Chase,Cedar Township,Secretary of State,,D,Jean Schodorf,16
-Chase,Cottonwood Township,Secretary of State,,D,Jean Schodorf,22
-Chase,Diamond Township,Secretary of State,,D,Jean Schodorf,31
-Chase,East Falls Township,Secretary of State,,D,Jean Schodorf,30
-Chase,East Strong Township,Secretary of State,,D,Jean Schodorf,77
-Chase,Homestead Township,Secretary of State,,D,Jean Schodorf,9
-Chase,Matfield Township,Secretary of State,,D,Jean Schodorf,21
-Chase,Toledo Township,Secretary of State,,D,Jean Schodorf,51
-Chase,West Falls Township,Secretary of State,,D,Jean Schodorf,77
-Chase,West Strong Township,Secretary of State,,D,Jean Schodorf,23
-Chase,PROVISIONALS,Secretary of State,,D,Jean Schodorf,4
-Chase,CHASE KS,Secretary of State,,D,Jean Schodorf,364
-Chase,Bazaar Township,Attorney General,,R,Derek Schmidt,38
-Chase,Cedar Township,Attorney General,,R,Derek Schmidt,25
-Chase,Cottonwood Township,Attorney General,,R,Derek Schmidt,44
-Chase,Diamond Township,Attorney General,,R,Derek Schmidt,87
-Chase,East Falls Township,Attorney General,,R,Derek Schmidt,126
-Chase,East Strong Township,Attorney General,,R,Derek Schmidt,111
-Chase,Homestead Township,Attorney General,,R,Derek Schmidt,17
-Chase,Matfield Township,Attorney General,,R,Derek Schmidt,37
-Chase,Toledo Township,Attorney General,,R,Derek Schmidt,105
-Chase,West Falls Township,Attorney General,,R,Derek Schmidt,153
-Chase,West Strong Township,Attorney General,,R,Derek Schmidt,33
-Chase,PROVISIONALS,Attorney General,,R,Derek Schmidt,18
-CHASE,CHASE KS,Attorney General,,R,Derek Schmidt,794
-Chase,Bazaar Township,Attorney General,,D,AJ Kotich,1
-Chase,Cedar Township,Attorney General,,D,AJ Kotich,11
-Chase,Cottonwood Township,Attorney General,,D,AJ Kotich,15
-Chase,Diamond Township,Attorney General,,D,AJ Kotich,16
-Chase,East Falls Township,Attorney General,,D,AJ Kotich,22
-Chase,East Strong Township,Attorney General,,D,AJ Kotich,61
-Chase,Homestead Township,Attorney General,,D,AJ Kotich,4
-Chase,Matfield Township,Attorney General,,D,AJ Kotich,16
-Chase,Toledo Township,Attorney General,,D,AJ Kotich,35
-Chase,West Falls Township,Attorney General,,D,AJ Kotich,52
-Chase,West Strong Township,Attorney General,,D,AJ Kotich,18
-Chase,PROVISIONALS,Attorney General,,D,AJ Kotich,5
-CHASE,CHASE KS,Attorney General,,D,AJ Kotich,256
-Chase,Bazaar Township,State Treasurer,,R,Ron Estes,38
-Chase,Cedar Township,State Treasurer,,R,Ron Estes,22
-Chase,Cottonwood Township,State Treasurer,,R,Ron Estes,43
-Chase,Diamond Township,State Treasurer,,R,Ron Estes,81
-Chase,East Falls Township,State Treasurer,,R,Ron Estes,124
-Chase,East Strong Township,State Treasurer,,R,Ron Estes,121
-Chase,Homestead Township,State Treasurer,,R,Ron Estes,17
-Chase,Matfield Township,State Treasurer,,R,Ron Estes,42
-Chase,Toledo Township,State Treasurer,,R,Ron Estes,101
-Chase,West Falls Township,State Treasurer,,R,Ron Estes,156
-Chase,West Strong Township,State Treasurer,,R,Ron Estes,34
-Chase,PROVISIONALS,State Treasurer,,R,Ron Estes,19
-CHASE,CHASE KS,State Treasurer,,R,Ron Estes,798
-Chase,Bazaar Township,State Treasurer,,D,Carmen Alldritt,1
-Chase,Cedar Township,State Treasurer,,D,Carmen Alldritt,13
-Chase,Cottonwood Township,State Treasurer,,D,Carmen Alldritt,16
-Chase,Diamond Township,State Treasurer,,D,Carmen Alldritt,22
-Chase,East Falls Township,State Treasurer,,D,Carmen Alldritt,25
-Chase,East Strong Township,State Treasurer,,D,Carmen Alldritt,51
-Chase,Homestead Township,State Treasurer,,D,Carmen Alldritt,4
-Chase,Matfield Township,State Treasurer,,D,Carmen Alldritt,13
-Chase,Toledo Township,State Treasurer,,D,Carmen Alldritt,40
-Chase,West Falls Township,State Treasurer,,D,Carmen Alldritt,48
-Chase,West Strong Township,State Treasurer,,D,Carmen Alldritt,15
-Chase,PROVISIONALS,State Treasurer,,D,Carmen Alldritt,3
-CHASE,CHASE KS,State Treasurer,,D,Carmen Alldritt,251
-Chase,Bazaar Township,Insurance Commissioner,,R,Ken Selzer,35
-Chase,Cedar Township,Insurance Commissioner,,R,Ken Selzer,23
-Chase,Cottonwood Township,Insurance Commissioner,,R,Ken Selzer,42
-Chase,Diamond Township,Insurance Commissioner,,R,Ken Selzer,81
-Chase,East Falls Township,Insurance Commissioner,,R,Ken Selzer,107
-Chase,East Strong Township,Insurance Commissioner,,R,Ken Selzer,108
-Chase,Homestead Township,Insurance Commissioner,,R,Ken Selzer,17
-Chase,Matfield Township,Insurance Commissioner,,R,Ken Selzer,37
-Chase,Toledo Township,Insurance Commissioner,,R,Ken Selzer,100
-Chase,West Falls Township,Insurance Commissioner,,R,Ken Selzer,139
-Chase,West Strong Township,Insurance Commissioner,,R,Ken Selzer,31
-Chase,PROVISIONALS,Insurance Commissioner,,R,Ken Selzer,17
-CHASE,CHASE KS,Insurance Commissioner,,R,Ken Selzer,737
-Chase,Bazaar Township,Insurance Commissioner,,D,Dennis Anderson,4
-Chase,Cedar Township,Insurance Commissioner,,D,Dennis Anderson,13
-Chase,Cottonwood Township,Insurance Commissioner,,D,Dennis Anderson,17
-Chase,Diamond Township,Insurance Commissioner,,D,Dennis Anderson,20
-Chase,East Falls Township,Insurance Commissioner,,D,Dennis Anderson,35
-Chase,East Strong Township,Insurance Commissioner,,D,Dennis Anderson,61
-Chase,Homestead Township,Insurance Commissioner,,D,Dennis Anderson,5
-Chase,Matfield Township,Insurance Commissioner,,D,Dennis Anderson,17
-Chase,Toledo Township,Insurance Commissioner,,D,Dennis Anderson,40
-Chase,West Falls Township,Insurance Commissioner,,D,Dennis Anderson,62
-Chase,West Strong Township,Insurance Commissioner,,D,Dennis Anderson,19
-Chase,PROVISIONALS,Insurance Commissioner,,D,Dennis Anderson,4
-CHASE,CHASE KS,Insurance Commissioner,,D,Dennis Anderson,297
-Chase,Bazaar Township,State Senate,35,R,Richard Wilborn,34
-Chase,Cedar Township,State Senate,35,R,Richard Wilborn,28
-Chase,Cottonwood Township,State Senate,35,R,Richard Wilborn,45
-Chase,Diamond Township,State Senate,35,R,Richard Wilborn,85
-Chase,East Falls Township,State Senate,35,R,Richard Wilborn,132
-Chase,East Strong Township,State Senate,35,R,Richard Wilborn,128
-Chase,Homestead Township,State Senate,35,R,Richard Wilborn,17
-Chase,Matfield Township,State Senate,35,R,Richard Wilborn,44
-Chase,Toledo Township,State Senate,35,R,Richard Wilborn,117
-Chase,West Falls Township,State Senate,35,R,Richard Wilborn,167
-Chase,West Strong Township,State Senate,35,R,Richard Wilborn,39
-Chase,PROVISIONALS,State Senate,35,R,Richard Wilborn,0
-Chase,Bazaar Township,State House,68,R,Tom Moxley,37
-Chase,Cedar Township,State House,68,R,Tom Moxley,30
-Chase,Cottonwood Township,State House,68,R,Tom Moxley,42
-Chase,Diamond Township,State House,68,R,Tom Moxley,90
-Chase,East Falls Township,State House,68,R,Tom Moxley,139
-Chase,East Strong Township,State House,68,R,Tom Moxley,143
-Chase,Homestead Township,State House,68,R,Tom Moxley,18
-Chase,Matfield Township,State House,68,R,Tom Moxley,45
-Chase,Toledo Township,State House,68,R,Tom Moxley,126
-Chase,West Falls Township,State House,68,R,Tom Moxley,187
-Chase,West Strong Township,State House,68,R,Tom Moxley,44
-Chase,PROVISIONALS,State House,68,R,Tom Moxley,0
-CHASE,CHASE KS,State House,68,R,Tom Moxley,901
+county,precinct,office,district,party,candidate,votes,vtd
+CHASE,Bazaar Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000010
+CHASE,Bazaar Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000010
+CHASE,Bazaar Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",37,000010
+CHASE,Cedar Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",13,000020
+CHASE,Cedar Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000020
+CHASE,Cedar Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",21,000020
+CHASE,Cottonwood Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",21,000030
+CHASE,Cottonwood Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000030
+CHASE,Cottonwood Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",36,000030
+CHASE,Diamond Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",32,000040
+CHASE,Diamond Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000040
+CHASE,Diamond Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",78,000040
+CHASE,East Falls Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000050
+CHASE,East Falls Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000050
+CHASE,East Falls Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",94,000050
+CHASE,East Strong Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",96,000060
+CHASE,East Strong Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000060
+CHASE,East Strong Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",76,000060
+CHASE,Homestead Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",10,000070
+CHASE,Homestead Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000070
+CHASE,Homestead Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",12,000070
+CHASE,Matfield Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",25,000080
+CHASE,Matfield Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000080
+CHASE,Matfield Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",30,000080
+CHASE,Toledo Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000090
+CHASE,Toledo Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000090
+CHASE,Toledo Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",81,000090
+CHASE,West Falls Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",102,000100
+CHASE,West Falls Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000100
+CHASE,West Falls Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",96,000100
+CHASE,West Strong Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",24,000110
+CHASE,West Strong Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000110
+CHASE,West Strong Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",25,000110
+CHASE,Bazaar Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",37,000010
+CHASE,Cedar Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",30,000020
+CHASE,Cottonwood Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",42,000030
+CHASE,Diamond Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",96,000040
+CHASE,East Falls Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",139,000050
+CHASE,East Strong Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",146,000060
+CHASE,Homestead Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",18,000070
+CHASE,Matfield Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",45,000080
+CHASE,Toledo Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",128,000090
+CHASE,West Falls Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",191,000100
+CHASE,West Strong Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",45,000110
+CHASE,Bazaar Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000010
+CHASE,Bazaar Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",38,000010
+CHASE,Cedar Township,United States House of Representatives,1,Democratic,"Sherow, James E.",13,000020
+CHASE,Cedar Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,000020
+CHASE,Cottonwood Township,United States House of Representatives,1,Democratic,"Sherow, James E.",20,000030
+CHASE,Cottonwood Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",41,000030
+CHASE,Diamond Township,United States House of Representatives,1,Democratic,"Sherow, James E.",26,000040
+CHASE,Diamond Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",82,000040
+CHASE,East Falls Township,United States House of Representatives,1,Democratic,"Sherow, James E.",40,000050
+CHASE,East Falls Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",115,000050
+CHASE,East Strong Township,United States House of Representatives,1,Democratic,"Sherow, James E.",78,000060
+CHASE,East Strong Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",100,000060
+CHASE,Homestead Township,United States House of Representatives,1,Democratic,"Sherow, James E.",7,000070
+CHASE,Homestead Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",15,000070
+CHASE,Matfield Township,United States House of Representatives,1,Democratic,"Sherow, James E.",19,000080
+CHASE,Matfield Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",39,000080
+CHASE,Toledo Township,United States House of Representatives,1,Democratic,"Sherow, James E.",53,000090
+CHASE,Toledo Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",92,000090
+CHASE,West Falls Township,United States House of Representatives,1,Democratic,"Sherow, James E.",74,000100
+CHASE,West Falls Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",136,000100
+CHASE,West Strong Township,United States House of Representatives,1,Democratic,"Sherow, James E.",22,000110
+CHASE,West Strong Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",31,000110
+CHASE,Bazaar Township,Attorney General,,Democratic,"Kotich, A.J.",1,000010
+CHASE,Bazaar Township,Attorney General,,Republican,"Schmidt, Derek",38,000010
+CHASE,Cedar Township,Attorney General,,Democratic,"Kotich, A.J.",11,000020
+CHASE,Cedar Township,Attorney General,,Republican,"Schmidt, Derek",25,000020
+CHASE,Cottonwood Township,Attorney General,,Democratic,"Kotich, A.J.",15,000030
+CHASE,Cottonwood Township,Attorney General,,Republican,"Schmidt, Derek",44,000030
+CHASE,Diamond Township,Attorney General,,Democratic,"Kotich, A.J.",16,000040
+CHASE,Diamond Township,Attorney General,,Republican,"Schmidt, Derek",93,000040
+CHASE,East Falls Township,Attorney General,,Democratic,"Kotich, A.J.",23,000050
+CHASE,East Falls Township,Attorney General,,Republican,"Schmidt, Derek",130,000050
+CHASE,East Strong Township,Attorney General,,Democratic,"Kotich, A.J.",62,000060
+CHASE,East Strong Township,Attorney General,,Republican,"Schmidt, Derek",114,000060
+CHASE,Homestead Township,Attorney General,,Democratic,"Kotich, A.J.",4,000070
+CHASE,Homestead Township,Attorney General,,Republican,"Schmidt, Derek",17,000070
+CHASE,Matfield Township,Attorney General,,Democratic,"Kotich, A.J.",17,000080
+CHASE,Matfield Township,Attorney General,,Republican,"Schmidt, Derek",37,000080
+CHASE,Toledo Township,Attorney General,,Democratic,"Kotich, A.J.",35,000090
+CHASE,Toledo Township,Attorney General,,Republican,"Schmidt, Derek",107,000090
+CHASE,West Falls Township,Attorney General,,Democratic,"Kotich, A.J.",54,000100
+CHASE,West Falls Township,Attorney General,,Republican,"Schmidt, Derek",155,000100
+CHASE,West Strong Township,Attorney General,,Democratic,"Kotich, A.J.",18,000110
+CHASE,West Strong Township,Attorney General,,Republican,"Schmidt, Derek",34,000110
+CHASE,Bazaar Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000010
+CHASE,Bazaar Township,Commissioner of Insurance,,Republican,"Selzer, Ken",35,000010
+CHASE,Cedar Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000020
+CHASE,Cedar Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000020
+CHASE,Cottonwood Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000030
+CHASE,Cottonwood Township,Commissioner of Insurance,,Republican,"Selzer, Ken",42,000030
+CHASE,Diamond Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",20,000040
+CHASE,Diamond Township,Commissioner of Insurance,,Republican,"Selzer, Ken",87,000040
+CHASE,East Falls Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",37,000050
+CHASE,East Falls Township,Commissioner of Insurance,,Republican,"Selzer, Ken",110,000050
+CHASE,East Strong Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",62,000060
+CHASE,East Strong Township,Commissioner of Insurance,,Republican,"Selzer, Ken",110,000060
+CHASE,Homestead Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000070
+CHASE,Homestead Township,Commissioner of Insurance,,Republican,"Selzer, Ken",17,000070
+CHASE,Matfield Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000080
+CHASE,Matfield Township,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000080
+CHASE,Toledo Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",40,000090
+CHASE,Toledo Township,Commissioner of Insurance,,Republican,"Selzer, Ken",102,000090
+CHASE,West Falls Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",63,000100
+CHASE,West Falls Township,Commissioner of Insurance,,Republican,"Selzer, Ken",141,000100
+CHASE,West Strong Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000110
+CHASE,West Strong Township,Commissioner of Insurance,,Republican,"Selzer, Ken",32,000110
+CHASE,Bazaar Township,Kansas Senate,35,Republican,"Wilborn, Richard",34,000010
+CHASE,Cedar Township,Kansas Senate,35,Republican,"Wilborn, Richard",28,000020
+CHASE,Cottonwood Township,Kansas Senate,35,Republican,"Wilborn, Richard",45,000030
+CHASE,Diamond Township,Kansas Senate,35,Republican,"Wilborn, Richard",91,000040
+CHASE,East Falls Township,Kansas Senate,35,Republican,"Wilborn, Richard",137,000050
+CHASE,East Strong Township,Kansas Senate,35,Republican,"Wilborn, Richard",131,000060
+CHASE,Homestead Township,Kansas Senate,35,Republican,"Wilborn, Richard",17,000070
+CHASE,Matfield Township,Kansas Senate,35,Republican,"Wilborn, Richard",44,000080
+CHASE,Toledo Township,Kansas Senate,35,Republican,"Wilborn, Richard",119,000090
+CHASE,West Falls Township,Kansas Senate,35,Republican,"Wilborn, Richard",170,000100
+CHASE,West Strong Township,Kansas Senate,35,Republican,"Wilborn, Richard",40,000110
+CHASE,Bazaar Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000010
+CHASE,Bazaar Township,Secretary of State,,Republican,"Kobach, Kris",38,000010
+CHASE,Cedar Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",16,000020
+CHASE,Cedar Township,Secretary of State,,Republican,"Kobach, Kris",20,000020
+CHASE,Cottonwood Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000030
+CHASE,Cottonwood Township,Secretary of State,,Republican,"Kobach, Kris",39,000030
+CHASE,Diamond Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",31,000040
+CHASE,Diamond Township,Secretary of State,,Republican,"Kobach, Kris",81,000040
+CHASE,East Falls Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",32,000050
+CHASE,East Falls Township,Secretary of State,,Republican,"Kobach, Kris",121,000050
+CHASE,East Strong Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",78,000060
+CHASE,East Strong Township,Secretary of State,,Republican,"Kobach, Kris",99,000060
+CHASE,Homestead Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,000070
+CHASE,Homestead Township,Secretary of State,,Republican,"Kobach, Kris",13,000070
+CHASE,Matfield Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000080
+CHASE,Matfield Township,Secretary of State,,Republican,"Kobach, Kris",36,000080
+CHASE,Toledo Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",51,000090
+CHASE,Toledo Township,Secretary of State,,Republican,"Kobach, Kris",94,000090
+CHASE,West Falls Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",77,000100
+CHASE,West Falls Township,Secretary of State,,Republican,"Kobach, Kris",136,000100
+CHASE,West Strong Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",23,000110
+CHASE,West Strong Township,Secretary of State,,Republican,"Kobach, Kris",30,000110
+CHASE,Bazaar Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000010
+CHASE,Bazaar Township,State Treasurer,,Republican,"Estes, Ron",38,000010
+CHASE,Cedar Township,State Treasurer,,Democratic,"Alldritt, Carmen",13,000020
+CHASE,Cedar Township,State Treasurer,,Republican,"Estes, Ron",22,000020
+CHASE,Cottonwood Township,State Treasurer,,Democratic,"Alldritt, Carmen",16,000030
+CHASE,Cottonwood Township,State Treasurer,,Republican,"Estes, Ron",43,000030
+CHASE,Diamond Township,State Treasurer,,Democratic,"Alldritt, Carmen",22,000040
+CHASE,Diamond Township,State Treasurer,,Republican,"Estes, Ron",87,000040
+CHASE,East Falls Township,State Treasurer,,Democratic,"Alldritt, Carmen",26,000050
+CHASE,East Falls Township,State Treasurer,,Republican,"Estes, Ron",128,000050
+CHASE,East Strong Township,State Treasurer,,Democratic,"Alldritt, Carmen",52,000060
+CHASE,East Strong Township,State Treasurer,,Republican,"Estes, Ron",123,000060
+CHASE,Homestead Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000070
+CHASE,Homestead Township,State Treasurer,,Republican,"Estes, Ron",17,000070
+CHASE,Matfield Township,State Treasurer,,Democratic,"Alldritt, Carmen",14,000080
+CHASE,Matfield Township,State Treasurer,,Republican,"Estes, Ron",42,000080
+CHASE,Toledo Township,State Treasurer,,Democratic,"Alldritt, Carmen",40,000090
+CHASE,Toledo Township,State Treasurer,,Republican,"Estes, Ron",103,000090
+CHASE,West Falls Township,State Treasurer,,Democratic,"Alldritt, Carmen",48,000100
+CHASE,West Falls Township,State Treasurer,,Republican,"Estes, Ron",160,000100
+CHASE,West Strong Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000110
+CHASE,West Strong Township,State Treasurer,,Republican,"Estes, Ron",35,000110
+CHASE,Bazaar Township,United States Senate,,independent,"Orman, Greg",5,000010
+CHASE,Bazaar Township,United States Senate,,Libertarian,"Batson, Randall",1,000010
+CHASE,Bazaar Township,United States Senate,,Republican,"Roberts, Pat",35,000010
+CHASE,Cedar Township,United States Senate,,independent,"Orman, Greg",12,000020
+CHASE,Cedar Township,United States Senate,,Libertarian,"Batson, Randall",3,000020
+CHASE,Cedar Township,United States Senate,,Republican,"Roberts, Pat",21,000020
+CHASE,Cottonwood Township,United States Senate,,independent,"Orman, Greg",21,000030
+CHASE,Cottonwood Township,United States Senate,,Libertarian,"Batson, Randall",2,000030
+CHASE,Cottonwood Township,United States Senate,,Republican,"Roberts, Pat",38,000030
+CHASE,Diamond Township,United States Senate,,independent,"Orman, Greg",28,000040
+CHASE,Diamond Township,United States Senate,,Libertarian,"Batson, Randall",3,000040
+CHASE,Diamond Township,United States Senate,,Republican,"Roberts, Pat",81,000040
+CHASE,East Falls Township,United States Senate,,independent,"Orman, Greg",39,000050
+CHASE,East Falls Township,United States Senate,,Libertarian,"Batson, Randall",8,000050
+CHASE,East Falls Township,United States Senate,,Republican,"Roberts, Pat",111,000050
+CHASE,East Strong Township,United States Senate,,independent,"Orman, Greg",76,000060
+CHASE,East Strong Township,United States Senate,,Libertarian,"Batson, Randall",16,000060
+CHASE,East Strong Township,United States Senate,,Republican,"Roberts, Pat",92,000060
+CHASE,Homestead Township,United States Senate,,independent,"Orman, Greg",8,000070
+CHASE,Homestead Township,United States Senate,,Libertarian,"Batson, Randall",0,000070
+CHASE,Homestead Township,United States Senate,,Republican,"Roberts, Pat",14,000070
+CHASE,Matfield Township,United States Senate,,independent,"Orman, Greg",22,000080
+CHASE,Matfield Township,United States Senate,,Libertarian,"Batson, Randall",3,000080
+CHASE,Matfield Township,United States Senate,,Republican,"Roberts, Pat",33,000080
+CHASE,Toledo Township,United States Senate,,independent,"Orman, Greg",55,000090
+CHASE,Toledo Township,United States Senate,,Libertarian,"Batson, Randall",6,000090
+CHASE,Toledo Township,United States Senate,,Republican,"Roberts, Pat",85,000090
+CHASE,West Falls Township,United States Senate,,independent,"Orman, Greg",89,000100
+CHASE,West Falls Township,United States Senate,,Libertarian,"Batson, Randall",13,000100
+CHASE,West Falls Township,United States Senate,,Republican,"Roberts, Pat",111,000100
+CHASE,West Strong Township,United States Senate,,independent,"Orman, Greg",22,000110
+CHASE,West Strong Township,United States Senate,,Libertarian,"Batson, Randall",2,000110
+CHASE,West Strong Township,United States Senate,,Republican,"Roberts, Pat",28,000110

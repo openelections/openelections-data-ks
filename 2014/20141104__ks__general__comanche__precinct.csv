@@ -1,87 +1,87 @@
-county,precinct,office,district,party,candidate,votes
-Comanche,Avilla,U.S. Senate,,R,Pat Roberts,25
-Comanche,Coldwater,U.S. Senate,,R,Pat Roberts,242
-Comanche,Powell,U.S. Senate,,R,Pat Roberts,28
-Comanche,Protection 115,U.S. Senate,,R,Pat Roberts,112
-Comanche,Protection 116,U.S. Senate,,R,Pat Roberts,89
-Comanche,Avilla,U.S. Senate,,I,Greg Orman,5
-Comanche,Coldwater,U.S. Senate,,I,Greg Orman,104
-Comanche,Powell,U.S. Senate,,I,Greg Orman,9
-Comanche,Protection 115,U.S. Senate,,I,Greg Orman,43
-Comanche,Protection 116,U.S. Senate,,I,Greg Orman,2
-Comanche,Avilla,U.S. Senate,,L,Randall Batson,4
-Comanche,Coldwater,U.S. Senate,,L,Randall Batson,23
-Comanche,Powell,U.S. Senate,,L,Randall Batson,0
-Comanche,Protection 115,U.S. Senate,,L,Randall Batson,7
-Comanche,Protection 116,U.S. Senate,,L,Randall Batson,3
-Comanche,Avilla,U.S. House,4,R,Mike Pompeo,33
-Comanche,Coldwater,U.S. House,4,R,Mike Pompeo,285
-Comanche,Powell,U.S. House,4,R,Mike Pompeo,30
-Comanche,Protection 115,U.S. House,4,R,Mike Pompeo,182
-Comanche,Protection 116,U.S. House,4,R,Mike Pompeo,32
-Comanche,Avilla,U.S. House,4,D,Perry Schuckman,1
-Comanche,Coldwater,U.S. House,4,D,Perry Schuckman,77
-Comanche,Powell,U.S. House,4,D,Perry Schuckman,5
-Comanche,Protection 115,U.S. House,4,D,Perry Schuckman,35
-Comanche,Protection 116,U.S. House,4,D,Perry Schuckman,2
-Comanche,Avilla,Governor,,R,Sam Brownback,26
-Comanche,Coldwater,Governor,,R,Sam Brownback,224
-Comanche,Powell,Governor,,R,Sam Brownback,28
-Comanche,Protection 115,Governor,,R,Sam Brownback,108
-Comanche,Protection 116,Governor,,R,Sam Brownback,76
-Comanche,Avilla,Governor,,D,Paul Davis,5
-Comanche,Coldwater,Governor,,D,Paul Davis,124
-Comanche,Powell,Governor,,D,Paul Davis,8
-Comanche,Protection 115,Governor,,D,Paul Davis,46
-Comanche,Protection 116,Governor,,D,Paul Davis,4
-Comanche,Avilla,Governor,,L,Keen Umbehr,2
-Comanche,Coldwater,Governor,,L,Keen Umbehr,4
-Comanche,Powell,Governor,,L,Keen Umbehr,1
-Comanche,Protection 115,Governor,,L,Keen Umbehr,10
-Comanche,Protection 116,Governor,,L,Keen Umbehr,14
-Comanche,Avilla,Secretary of State,,R,Kris Kobach,28
-Comanche,Coldwater,Secretary of State,,R,Kris Kobach,249
-Comanche,Powell,Secretary of State,,R,Kris Kobach,28
-Comanche,Protection 115,Secretary of State,,R,Kris Kobach,120
-Comanche,Protection 116,Secretary of State,,R,Kris Kobach,94
-Comanche,Avilla,Secretary of State,,D,Jean Schodorf,5
-Comanche,Coldwater,Secretary of State,,D,Jean Schodorf,112
-Comanche,Powell,Secretary of State,,D,Jean Schodorf,7
-Comanche,Protection 115,Secretary of State,,D,Jean Schodorf,29
-Comanche,Protection 116,Secretary of State,,D,Jean Schodorf,10
-Comanche,Avilla,Attorney General,,R,Derek Schmidt,27
-Comanche,Coldwater,Attorney General,,R,Derek Schmidt,273
-Comanche,Powell,Attorney General,,R,Derek Schmidt,27
-Comanche,Protection 115,Attorney General,,R,Derek Schmidt,180
-Comanche,Protection 116,Attorney General,,R,Derek Schmidt,46
-Comanche,Avilla,Attorney General,,D,A J Kotich,5
-Comanche,Coldwater,Attorney General,,D,A J Kotich,79
-Comanche,Powell,Attorney General,,D,A J Kotich,5
-Comanche,Protection 115,Attorney General,,D,A J Kotich,26
-Comanche,Protection 116,Attorney General,,D,A J Kotich,4
-Comanche,Avilla,State Treasurer,,R,Ron Estes,31
-Comanche,Coldwater,State Treasurer,,R,Ron Estes,261
-Comanche,Powell,State Treasurer,,R,Ron Estes,29
-Comanche,Protection 115,State Treasurer,,R,Ron Estes,188
-Comanche,Protection 116,State Treasurer,,R,Ron Estes,45
-Comanche,Avilla,State Treasurer,,D,Carmen Alldritt,2
-Comanche,Coldwater,State Treasurer,,D,Carmen Alldritt,90
-Comanche,Powell,State Treasurer,,D,Carmen Alldritt,4
-Comanche,Protection 115,State Treasurer,,D,Carmen Alldritt,12
-Comanche,Protection 116,State Treasurer,,D,Carmen Alldritt,16
-Comanche,Avilla,Insurance Commissioner,,R,Ken Selzer,28
-Comanche,Coldwater,Insurance Commissioner,,R,Ken Selzer,268
-Comanche,Powell,Insurance Commissioner,,R,Ken Selzer,26
-Comanche,Protection 115,Insurance Commissioner,,R,Ken Selzer,176
-Comanche,Protection 116,Insurance Commissioner,,R,Ken Selzer,33
-Comanche,Avilla,Insurance Commissioner,,D,Dennis Anderson,6
-Comanche,Coldwater,Insurance Commissioner,,D,Dennis Anderson,89
-Comanche,Powell,Insurance Commissioner,,D,Dennis Anderson,6
-Comanche,Protection 115,Insurance Commissioner,,D,Dennis Anderson,33
-Comanche,Protection 116,Insurance Commissioner,,D,Dennis Anderson,7
-Comanche,Avilla,State House,116,R,Kyle Hoffman,27
-Comanche,Coldwater,State House,116,R,Kyle Hoffman,274
-Comanche,Powell,State House,116,R,Kyle Hoffman,30
-Comanche,Protection 115,State House,115,R,Ronald Ryckman,167
-Comanche,Protection 116,State House,116,R,Kyle Hoffman,43
-Comanche,Protection 115,State House,115,D,Mark Low,38
+county,precinct,office,district,party,candidate,votes,vtd
+COMANCHE,Avilla Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000010
+COMANCHE,Avilla Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000010
+COMANCHE,Avilla Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",26,000010
+COMANCHE,Coldwater Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000020
+COMANCHE,Coldwater Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000020
+COMANCHE,Coldwater Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",224,000020
+COMANCHE,Powell Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",8,000030
+COMANCHE,Powell Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000030
+COMANCHE,Powell Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",28,000030
+COMANCHE,Protection Township H115,Governor / Lt. Governor,,Democratic,"Davis, Paul",46,120020
+COMANCHE,Protection Township H115,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,120020
+COMANCHE,Protection Township H115,Governor / Lt. Governor,,Republican,"Brownback, Sam",108,120020
+COMANCHE,Protection Township H116,Governor / Lt. Governor,,Democratic,"Davis, Paul",4,120030
+COMANCHE,Protection Township H116,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,120030
+COMANCHE,Protection Township H116,Governor / Lt. Governor,,Republican,"Brownback, Sam",76,120030
+COMANCHE,Avilla Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D",27,000010
+COMANCHE,Coldwater Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D",274,000020
+COMANCHE,Powell Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D",30,000030
+COMANCHE,Protection Township H115,Kansas House of Representatives,115,Democratic,"Low, Mark",38,120020
+COMANCHE,Protection Township H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",167,120020
+COMANCHE,Protection Township H116,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D",43,120030
+COMANCHE,Avilla Township,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",1,000010
+COMANCHE,Avilla Township,United States House of Representatives,4,Republican,"Pompeo, Mike",33,000010
+COMANCHE,Coldwater Township,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",77,000020
+COMANCHE,Coldwater Township,United States House of Representatives,4,Republican,"Pompeo, Mike",285,000020
+COMANCHE,Powell Township,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",5,000030
+COMANCHE,Powell Township,United States House of Representatives,4,Republican,"Pompeo, Mike",30,000030
+COMANCHE,Protection Township H115,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",35,120020
+COMANCHE,Protection Township H115,United States House of Representatives,4,Republican,"Pompeo, Mike",182,120020
+COMANCHE,Protection Township H116,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",2,120030
+COMANCHE,Protection Township H116,United States House of Representatives,4,Republican,"Pompeo, Mike",32,120030
+COMANCHE,Avilla Township,Attorney General,,Democratic,"Kotich, A.J.",5,000010
+COMANCHE,Avilla Township,Attorney General,,Republican,"Schmidt, Derek",27,000010
+COMANCHE,Coldwater Township,Attorney General,,Democratic,"Kotich, A.J.",79,000020
+COMANCHE,Coldwater Township,Attorney General,,Republican,"Schmidt, Derek",273,000020
+COMANCHE,Powell Township,Attorney General,,Democratic,"Kotich, A.J.",5,000030
+COMANCHE,Powell Township,Attorney General,,Republican,"Schmidt, Derek",27,000030
+COMANCHE,Protection Township H115,Attorney General,,Democratic,"Kotich, A.J.",25,120020
+COMANCHE,Protection Township H115,Attorney General,,Republican,"Schmidt, Derek",180,120020
+COMANCHE,Protection Township H116,Attorney General,,Democratic,"Kotich, A.J.",5,120030
+COMANCHE,Protection Township H116,Attorney General,,Republican,"Schmidt, Derek",46,120030
+COMANCHE,Avilla Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000010
+COMANCHE,Avilla Township,Commissioner of Insurance,,Republican,"Selzer, Ken",28,000010
+COMANCHE,Coldwater Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",89,000020
+COMANCHE,Coldwater Township,Commissioner of Insurance,,Republican,"Selzer, Ken",268,000020
+COMANCHE,Powell Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000030
+COMANCHE,Powell Township,Commissioner of Insurance,,Republican,"Selzer, Ken",26,000030
+COMANCHE,Protection Township H115,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,120020
+COMANCHE,Protection Township H115,Commissioner of Insurance,,Republican,"Selzer, Ken",176,120020
+COMANCHE,Protection Township H116,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,120030
+COMANCHE,Protection Township H116,Commissioner of Insurance,,Republican,"Selzer, Ken",33,120030
+COMANCHE,Avilla Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000010
+COMANCHE,Avilla Township,Secretary of State,,Republican,"Kobach, Kris",28,000010
+COMANCHE,Coldwater Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",112,000020
+COMANCHE,Coldwater Township,Secretary of State,,Republican,"Kobach, Kris",249,000020
+COMANCHE,Powell Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000030
+COMANCHE,Powell Township,Secretary of State,,Republican,"Kobach, Kris",28,000030
+COMANCHE,Protection Township H115,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,120020
+COMANCHE,Protection Township H115,Secretary of State,,Republican,"Kobach, Kris",120,120020
+COMANCHE,Protection Township H116,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,120030
+COMANCHE,Protection Township H116,Secretary of State,,Republican,"Kobach, Kris",94,120030
+COMANCHE,Avilla Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000010
+COMANCHE,Avilla Township,State Treasurer,,Republican,"Estes, Ron",31,000010
+COMANCHE,Coldwater Township,State Treasurer,,Democratic,"Alldritt, Carmen",90,000020
+COMANCHE,Coldwater Township,State Treasurer,,Republican,"Estes, Ron",261,000020
+COMANCHE,Powell Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000030
+COMANCHE,Powell Township,State Treasurer,,Republican,"Estes, Ron",29,000030
+COMANCHE,Protection Township H115,State Treasurer,,Democratic,"Alldritt, Carmen",12,120020
+COMANCHE,Protection Township H115,State Treasurer,,Republican,"Estes, Ron",188,120020
+COMANCHE,Protection Township H116,State Treasurer,,Democratic,"Alldritt, Carmen",16,120030
+COMANCHE,Protection Township H116,State Treasurer,,Republican,"Estes, Ron",45,120030
+COMANCHE,Avilla Township,United States Senate,,independent,"Orman, Greg",5,000010
+COMANCHE,Avilla Township,United States Senate,,Libertarian,"Batson, Randall",4,000010
+COMANCHE,Avilla Township,United States Senate,,Republican,"Roberts, Pat",25,000010
+COMANCHE,Coldwater Township,United States Senate,,independent,"Orman, Greg",104,000020
+COMANCHE,Coldwater Township,United States Senate,,Libertarian,"Batson, Randall",23,000020
+COMANCHE,Coldwater Township,United States Senate,,Republican,"Roberts, Pat",242,000020
+COMANCHE,Powell Township,United States Senate,,independent,"Orman, Greg",9,000030
+COMANCHE,Powell Township,United States Senate,,Libertarian,"Batson, Randall",0,000030
+COMANCHE,Powell Township,United States Senate,,Republican,"Roberts, Pat",28,000030
+COMANCHE,Protection Township H115,United States Senate,,independent,"Orman, Greg",43,120020
+COMANCHE,Protection Township H115,United States Senate,,Libertarian,"Batson, Randall",7,120020
+COMANCHE,Protection Township H115,United States Senate,,Republican,"Roberts, Pat",112,120020
+COMANCHE,Protection Township H116,United States Senate,,independent,"Orman, Greg",2,120030
+COMANCHE,Protection Township H116,United States Senate,,Libertarian,"Batson, Randall",3,120030
+COMANCHE,Protection Township H116,United States Senate,,Republican,"Roberts, Pat",89,120030
