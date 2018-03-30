@@ -22,6 +22,7 @@
 # SOFTWARE.
 
 require 'csv'
+require 'zlib'
 
 # filename template
 # date__state__{party}__{special}__election_type__{jurisdiction}{office}__{office_district}__{reporting_level}.format
@@ -86,14 +87,37 @@ def format_csv_row(row)
     (row['vtd']),
   ].to_csv
 end
+
+def process_csv_row(row)
+  if !row['county']
+    puts "No county in row: #{row.inspect}"
+  else
+    write_to_csv(csv_out_file(row['county']), row)
+  end
+end
+
+def read_csv(filename)
+  CSV.foreach(filename, headers: true, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
+    process_csv_row(row)
+  end
+end
+
+def read_csv_gz(filename)
+  Zlib::GzipReader.open(filename) do |gzip|
+    csv = CSV.new(gzip, headers: true, header_converters: [:downcase])
+    csv.each do |row|
+      process_csv_row(row) 
+    end
+  end
+end
   
 ARGV.each do |filename|
   puts filename
-  CSV.foreach(filename, headers: true, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
-    if !row['county']
-      puts "No county in row: #{row.inspect}"
-      next
-    end
-    write_to_csv(csv_out_file(row['county']), row)
+  if filename.match(/\.csv$/)
+    read_csv(filename)
+  elsif filename.match(/\.csv\.gz$/)
+    read_csv_gz(filename)
+  else
+    puts "Unsupported file format: #{filename}";
   end
 end
