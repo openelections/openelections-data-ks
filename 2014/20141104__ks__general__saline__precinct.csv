@@ -1,943 +1,1128 @@
-county,precinct,office,district,party,candidate,votes
-Saline,1,U.S. Senate,,R,Pat Roberts,105
-Saline,2,U.S. Senate,,R,Pat Roberts,110
-Saline,3,U.S. Senate,,R,Pat Roberts,73
-Saline,4,U.S. Senate,,R,Pat Roberts,101
-Saline,5,U.S. Senate,,R,Pat Roberts,113
-Saline,6,U.S. Senate,,R,Pat Roberts,89
-Saline,7,U.S. Senate,,R,Pat Roberts,126
-Saline,8,U.S. Senate,,R,Pat Roberts,129
-Saline,9,U.S. Senate,,R,Pat Roberts,145
-Saline,10,U.S. Senate,,R,Pat Roberts,140
-Saline,11,U.S. Senate,,R,Pat Roberts,141
-Saline,12,U.S. Senate,,R,Pat Roberts,192
-Saline,13,U.S. Senate,,R,Pat Roberts,130
-Saline,14,U.S. Senate,,R,Pat Roberts,178
-Saline,15,U.S. Senate,,R,Pat Roberts,123
-Saline,16,U.S. Senate,,R,Pat Roberts,112
-Saline,17,U.S. Senate,,R,Pat Roberts,128
-Saline,18,U.S. Senate,,R,Pat Roberts,157
-Saline,19,U.S. Senate,,R,Pat Roberts,264
-Saline,20,U.S. Senate,,R,Pat Roberts,530
-Saline,21,U.S. Senate,,R,Pat Roberts,474
-Saline,22,U.S. Senate,,R,Pat Roberts,432
-Saline,23,U.S. Senate,,R,Pat Roberts,479
-Saline,24,U.S. Senate,,R,Pat Roberts,170
-Saline,25,U.S. Senate,,R,Pat Roberts,109
-Saline,26,U.S. Senate,,R,Pat Roberts,142
-Saline,27,U.S. Senate,,R,Pat Roberts,228
-Saline,28,U.S. Senate,,R,Pat Roberts,160
-Saline,29,U.S. Senate,,R,Pat Roberts,254
-Saline,30,U.S. Senate,,R,Pat Roberts,212
-Saline,31,U.S. Senate,,R,Pat Roberts,557
-Saline,32,U.S. Senate,,R,Pat Roberts,150
-Saline,33,U.S. Senate,,R,Pat Roberts,300
-Saline,34,U.S. Senate,,R,Pat Roberts,459
-Saline,35,U.S. Senate,,R,Pat Roberts,268
-Saline,CAMBRIA,U.S. Senate,,R,Pat Roberts,101
-Saline,DAYTON,U.S. Senate,,R,Pat Roberts,29
-Saline,ELM CREEK,U.S. Senate,,R,Pat Roberts,246
-Saline,EUREKA,U.S. Senate,,R,Pat Roberts,143
-Saline,FALUN,U.S. Senate,,R,Pat Roberts,72
-Saline,GLENDALE,U.S. Senate,,R,Pat Roberts,27
-Saline,GREELEY,U.S. Senate,,R,Pat Roberts,278
-Saline,GYPSUM,U.S. Senate,,R,Pat Roberts,54
-Saline,LIBERTY,U.S. Senate,,R,Pat Roberts,58
-Saline,OHIO,U.S. Senate,,R,Pat Roberts,107
-Saline,PLEASANT VLY,U.S. Senate,,R,Pat Roberts,102
-Saline,SMOKY HILL,U.S. Senate,,R,Pat Roberts,68
-Saline,SMOKY VIEW,U.S. Senate,,R,Pat Roberts,199
-Saline,SMOLAN,U.S. Senate,,R,Pat Roberts,192
-Saline,SOLOMON,U.S. Senate,,R,Pat Roberts,139
-Saline,SPRING CREEK,U.S. Senate,,R,Pat Roberts,101
-Saline,WALNUT,U.S. Senate,,R,Pat Roberts,164
-Saline,WASHINGTON,U.S. Senate,,R,Pat Roberts,49
-Saline,Paper Ballots,U.S. Senate,,R,Pat Roberts,85
-Saline,1,U.S. Senate,,I,Greg Orman,109
-Saline,2,U.S. Senate,,I,Greg Orman,105
-Saline,3,U.S. Senate,,I,Greg Orman,86
-Saline,4,U.S. Senate,,I,Greg Orman,140
-Saline,5,U.S. Senate,,I,Greg Orman,116
-Saline,6,U.S. Senate,,I,Greg Orman,94
-Saline,7,U.S. Senate,,I,Greg Orman,149
-Saline,8,U.S. Senate,,I,Greg Orman,144
-Saline,9,U.S. Senate,,I,Greg Orman,140
-Saline,10,U.S. Senate,,I,Greg Orman,139
-Saline,11,U.S. Senate,,I,Greg Orman,96
-Saline,12,U.S. Senate,,I,Greg Orman,209
-Saline,13,U.S. Senate,,I,Greg Orman,101
-Saline,14,U.S. Senate,,I,Greg Orman,147
-Saline,15,U.S. Senate,,I,Greg Orman,144
-Saline,16,U.S. Senate,,I,Greg Orman,89
-Saline,17,U.S. Senate,,I,Greg Orman,114
-Saline,18,U.S. Senate,,I,Greg Orman,125
-Saline,19,U.S. Senate,,I,Greg Orman,160
-Saline,20,U.S. Senate,,I,Greg Orman,342
-Saline,21,U.S. Senate,,I,Greg Orman,320
-Saline,22,U.S. Senate,,I,Greg Orman,235
-Saline,23,U.S. Senate,,I,Greg Orman,379
-Saline,24,U.S. Senate,,I,Greg Orman,121
-Saline,25,U.S. Senate,,I,Greg Orman,89
-Saline,26,U.S. Senate,,I,Greg Orman,139
-Saline,27,U.S. Senate,,I,Greg Orman,155
-Saline,28,U.S. Senate,,I,Greg Orman,95
-Saline,29,U.S. Senate,,I,Greg Orman,167
-Saline,30,U.S. Senate,,I,Greg Orman,156
-Saline,31,U.S. Senate,,I,Greg Orman,350
-Saline,32,U.S. Senate,,I,Greg Orman,94
-Saline,33,U.S. Senate,,I,Greg Orman,206
-Saline,34,U.S. Senate,,I,Greg Orman,321
-Saline,35,U.S. Senate,,I,Greg Orman,214
-Saline,CAMBRIA,U.S. Senate,,I,Greg Orman,48
-Saline,DAYTON,U.S. Senate,,I,Greg Orman,13
-Saline,ELM CREEK,U.S. Senate,,I,Greg Orman,115
-Saline,EUREKA,U.S. Senate,,I,Greg Orman,65
-Saline,FALUN,U.S. Senate,,I,Greg Orman,25
-Saline,GLENDALE,U.S. Senate,,I,Greg Orman,7
-Saline,GREELEY,U.S. Senate,,I,Greg Orman,93
-Saline,GYPSUM,U.S. Senate,,I,Greg Orman,10
-Saline,LIBERTY,U.S. Senate,,I,Greg Orman,15
-Saline,OHIO,U.S. Senate,,I,Greg Orman,41
-Saline,PLEASANT VLY,U.S. Senate,,I,Greg Orman,34
-Saline,SMOKY HILL,U.S. Senate,,I,Greg Orman,31
-Saline,SMOKY VIEW,U.S. Senate,,I,Greg Orman,105
-Saline,SMOLAN,U.S. Senate,,I,Greg Orman,95
-Saline,SOLOMON,U.S. Senate,,I,Greg Orman,43
-Saline,SPRING CREEK,U.S. Senate,,I,Greg Orman,47
-Saline,WALNUT,U.S. Senate,,I,Greg Orman,73
-Saline,WASHINGTON,U.S. Senate,,I,Greg Orman,18
-Saline,Paper Ballots,U.S. Senate,,I,Greg Orman,52
-Saline,1,U.S. Senate,,L,Randall Batson,23
-Saline,2,U.S. Senate,,L,Randall Batson,28
-Saline,3,U.S. Senate,,L,Randall Batson,19
-Saline,4,U.S. Senate,,L,Randall Batson,30
-Saline,5,U.S. Senate,,L,Randall Batson,19
-Saline,6,U.S. Senate,,L,Randall Batson,17
-Saline,7,U.S. Senate,,L,Randall Batson,28
-Saline,8,U.S. Senate,,L,Randall Batson,12
-Saline,9,U.S. Senate,,L,Randall Batson,28
-Saline,10,U.S. Senate,,L,Randall Batson,18
-Saline,11,U.S. Senate,,L,Randall Batson,25
-Saline,12,U.S. Senate,,L,Randall Batson,21
-Saline,13,U.S. Senate,,L,Randall Batson,18
-Saline,14,U.S. Senate,,L,Randall Batson,28
-Saline,15,U.S. Senate,,L,Randall Batson,19
-Saline,16,U.S. Senate,,L,Randall Batson,18
-Saline,17,U.S. Senate,,L,Randall Batson,18
-Saline,18,U.S. Senate,,L,Randall Batson,22
-Saline,19,U.S. Senate,,L,Randall Batson,11
-Saline,20,U.S. Senate,,L,Randall Batson,31
-Saline,21,U.S. Senate,,L,Randall Batson,20
-Saline,22,U.S. Senate,,L,Randall Batson,18
-Saline,23,U.S. Senate,,L,Randall Batson,42
-Saline,24,U.S. Senate,,L,Randall Batson,19
-Saline,25,U.S. Senate,,L,Randall Batson,13
-Saline,26,U.S. Senate,,L,Randall Batson,23
-Saline,27,U.S. Senate,,L,Randall Batson,21
-Saline,28,U.S. Senate,,L,Randall Batson,20
-Saline,29,U.S. Senate,,L,Randall Batson,20
-Saline,30,U.S. Senate,,L,Randall Batson,13
-Saline,31,U.S. Senate,,L,Randall Batson,48
-Saline,32,U.S. Senate,,L,Randall Batson,15
-Saline,33,U.S. Senate,,L,Randall Batson,21
-Saline,34,U.S. Senate,,L,Randall Batson,58
-Saline,35,U.S. Senate,,L,Randall Batson,36
-Saline,CAMBRIA,U.S. Senate,,L,Randall Batson,10
-Saline,DAYTON,U.S. Senate,,L,Randall Batson,1
-Saline,ELM CREEK,U.S. Senate,,L,Randall Batson,21
-Saline,EUREKA,U.S. Senate,,L,Randall Batson,10
-Saline,FALUN,U.S. Senate,,L,Randall Batson,11
-Saline,GLENDALE,U.S. Senate,,L,Randall Batson,3
-Saline,GREELEY,U.S. Senate,,L,Randall Batson,15
-Saline,GYPSUM,U.S. Senate,,L,Randall Batson,4
-Saline,LIBERTY,U.S. Senate,,L,Randall Batson,7
-Saline,OHIO,U.S. Senate,,L,Randall Batson,24
-Saline,PLEASANT VLY,U.S. Senate,,L,Randall Batson,11
-Saline,SMOKY HILL,U.S. Senate,,L,Randall Batson,5
-Saline,SMOKY VIEW,U.S. Senate,,L,Randall Batson,26
-Saline,SMOLAN,U.S. Senate,,L,Randall Batson,12
-Saline,SOLOMON,U.S. Senate,,L,Randall Batson,5
-Saline,SPRING CREEK,U.S. Senate,,L,Randall Batson,10
-Saline,WALNUT,U.S. Senate,,L,Randall Batson,7
-Saline,WASHINGTON,U.S. Senate,,L,Randall Batson,3
-Saline,Paper Ballots,U.S. Senate,,L,Randall Batson,10
-Saline,1,U.S. House,1,R,Tim Huelskamp,123
-Saline,2,U.S. House,1,R,Tim Huelskamp,142
-Saline,3,U.S. House,1,R,Tim Huelskamp,92
-Saline,4,U.S. House,1,R,Tim Huelskamp,126
-Saline,5,U.S. House,1,R,Tim Huelskamp,138
-Saline,6,U.S. House,1,R,Tim Huelskamp,104
-Saline,7,U.S. House,1,R,Tim Huelskamp,159
-Saline,8,U.S. House,1,R,Tim Huelskamp,141
-Saline,9,U.S. House,1,R,Tim Huelskamp,170
-Saline,10,U.S. House,1,R,Tim Huelskamp,150
-Saline,11,U.S. House,1,R,Tim Huelskamp,164
-Saline,12,U.S. House,1,R,Tim Huelskamp,202
-Saline,13,U.S. House,1,R,Tim Huelskamp,145
-Saline,14,U.S. House,1,R,Tim Huelskamp,219
-Saline,15,U.S. House,1,R,Tim Huelskamp,133
-Saline,16,U.S. House,1,R,Tim Huelskamp,130
-Saline,17,U.S. House,1,R,Tim Huelskamp,154
-Saline,18,U.S. House,1,R,Tim Huelskamp,181
-Saline,19,U.S. House,1,R,Tim Huelskamp,274
-Saline,20,U.S. House,1,R,Tim Huelskamp,496
-Saline,21,U.S. House,1,R,Tim Huelskamp,470
-Saline,22,U.S. House,1,R,Tim Huelskamp,424
-Saline,23,U.S. House,1,R,Tim Huelskamp,536
-Saline,24,U.S. House,1,R,Tim Huelskamp,177
-Saline,25,U.S. House,1,R,Tim Huelskamp,119
-Saline,26,U.S. House,1,R,Tim Huelskamp,161
-Saline,27,U.S. House,1,R,Tim Huelskamp,247
-Saline,28,U.S. House,1,R,Tim Huelskamp,181
-Saline,29,U.S. House,1,R,Tim Huelskamp,276
-Saline,30,U.S. House,1,R,Tim Huelskamp,226
-Saline,31,U.S. House,1,R,Tim Huelskamp,590
-Saline,32,U.S. House,1,R,Tim Huelskamp,170
-Saline,33,U.S. House,1,R,Tim Huelskamp,320
-Saline,34,U.S. House,1,R,Tim Huelskamp,511
-Saline,35,U.S. House,1,R,Tim Huelskamp,314
-Saline,CAMBRIA,U.S. House,1,R,Tim Huelskamp,113
-Saline,DAYTON,U.S. House,1,R,Tim Huelskamp,29
-Saline,ELM CREEK,U.S. House,1,R,Tim Huelskamp,273
-Saline,EUREKA,U.S. House,1,R,Tim Huelskamp,158
-Saline,FALUN,U.S. House,1,R,Tim Huelskamp,80
-Saline,GLENDALE,U.S. House,1,R,Tim Huelskamp,29
-Saline,GREELEY,U.S. House,1,R,Tim Huelskamp,268
-Saline,GYPSUM,U.S. House,1,R,Tim Huelskamp,59
-Saline,LIBERTY,U.S. House,1,R,Tim Huelskamp,56
-Saline,OHIO,U.S. House,1,R,Tim Huelskamp,124
-Saline,PLEASANT VLY,U.S. House,1,R,Tim Huelskamp,111
-Saline,SMOKY HILL,U.S. House,1,R,Tim Huelskamp,69
-Saline,SMOKY VIEW,U.S. House,1,R,Tim Huelskamp,216
-Saline,SMOLAN,U.S. House,1,R,Tim Huelskamp,202
-Saline,SOLOMON,U.S. House,1,R,Tim Huelskamp,141
-Saline,SPRING CREEK,U.S. House,1,R,Tim Huelskamp,110
-Saline,WALNUT,U.S. House,1,R,Tim Huelskamp,161
-Saline,WASHINGTON,U.S. House,1,R,Tim Huelskamp,53
-Saline,Paper Ballots,U.S. House,1,R,Tim Huelskamp,84
-Saline,1,U.S. House,1,D,James Sherow,113
-Saline,2,U.S. House,1,D,James Sherow,97
-Saline,3,U.S. House,1,D,James Sherow,86
-Saline,4,U.S. House,1,D,James Sherow,141
-Saline,5,U.S. House,1,D,James Sherow,110
-Saline,6,U.S. House,1,D,James Sherow,95
-Saline,7,U.S. House,1,D,James Sherow,145
-Saline,8,U.S. House,1,D,James Sherow,144
-Saline,9,U.S. House,1,D,James Sherow,140
-Saline,10,U.S. House,1,D,James Sherow,146
-Saline,11,U.S. House,1,D,James Sherow,97
-Saline,12,U.S. House,1,D,James Sherow,214
-Saline,13,U.S. House,1,D,James Sherow,102
-Saline,14,U.S. House,1,D,James Sherow,132
-Saline,15,U.S. House,1,D,James Sherow,148
-Saline,16,U.S. House,1,D,James Sherow,85
-Saline,17,U.S. House,1,D,James Sherow,106
-Saline,18,U.S. House,1,D,James Sherow,121
-Saline,19,U.S. House,1,D,James Sherow,160
-Saline,20,U.S. House,1,D,James Sherow,400
-Saline,21,U.S. House,1,D,James Sherow,333
-Saline,22,U.S. House,1,D,James Sherow,260
-Saline,23,U.S. House,1,D,James Sherow,355
-Saline,24,U.S. House,1,D,James Sherow,124
-Saline,25,U.S. House,1,D,James Sherow,94
-Saline,26,U.S. House,1,D,James Sherow,132
-Saline,27,U.S. House,1,D,James Sherow,157
-Saline,28,U.S. House,1,D,James Sherow,94
-Saline,29,U.S. House,1,D,James Sherow,157
-Saline,30,U.S. House,1,D,James Sherow,155
-Saline,31,U.S. House,1,D,James Sherow,357
-Saline,32,U.S. House,1,D,James Sherow,83
-Saline,33,U.S. House,1,D,James Sherow,192
-Saline,34,U.S. House,1,D,James Sherow,321
-Saline,35,U.S. House,1,D,James Sherow,205
-Saline,CAMBRIA,U.S. House,1,D,James Sherow,45
-Saline,DAYTON,U.S. House,1,D,James Sherow,16
-Saline,ELM CREEK,U.S. House,1,D,James Sherow,107
-Saline,EUREKA,U.S. House,1,D,James Sherow,63
-Saline,FALUN,U.S. House,1,D,James Sherow,27
-Saline,GLENDALE,U.S. House,1,D,James Sherow,9
-Saline,GREELEY,U.S. House,1,D,James Sherow,112
-Saline,GYPSUM,U.S. House,1,D,James Sherow,8
-Saline,LIBERTY,U.S. House,1,D,James Sherow,22
-Saline,OHIO,U.S. House,1,D,James Sherow,48
-Saline,PLEASANT VLY,U.S. House,1,D,James Sherow,36
-Saline,SMOKY HILL,U.S. House,1,D,James Sherow,34
-Saline,SMOKY VIEW,U.S. House,1,D,James Sherow,109
-Saline,SMOLAN,U.S. House,1,D,James Sherow,95
-Saline,SOLOMON,U.S. House,1,D,James Sherow,49
-Saline,SPRING CREEK,U.S. House,1,D,James Sherow,45
-Saline,WALNUT,U.S. House,1,D,James Sherow,83
-Saline,WASHINGTON,U.S. House,1,D,James Sherow,17
-Saline,Paper Ballots,U.S. House,1,D,James Sherow,63
-Saline,1,Governor,,R,Sam Brownback,98
-Saline,2,Governor,,R,Sam Brownback,99
-Saline,3,Governor,,R,Sam Brownback,69
-Saline,4,Governor,,R,Sam Brownback,89
-Saline,5,Governor,,R,Sam Brownback,103
-Saline,6,Governor,,R,Sam Brownback,75
-Saline,7,Governor,,R,Sam Brownback,107
-Saline,8,Governor,,R,Sam Brownback,109
-Saline,9,Governor,,R,Sam Brownback,111
-Saline,10,Governor,,R,Sam Brownback,115
-Saline,11,Governor,,R,Sam Brownback,128
-Saline,12,Governor,,R,Sam Brownback,149
-Saline,13,Governor,,R,Sam Brownback,107
-Saline,14,Governor,,R,Sam Brownback,163
-Saline,15,Governor,,R,Sam Brownback,114
-Saline,16,Governor,,R,Sam Brownback,104
-Saline,17,Governor,,R,Sam Brownback,119
-Saline,18,Governor,,R,Sam Brownback,138
-Saline,19,Governor,,R,Sam Brownback,235
-Saline,20,Governor,,R,Sam Brownback,443
-Saline,21,Governor,,R,Sam Brownback,422
-Saline,22,Governor,,R,Sam Brownback,366
-Saline,23,Governor,,R,Sam Brownback,428
-Saline,24,Governor,,R,Sam Brownback,141
-Saline,25,Governor,,R,Sam Brownback,101
-Saline,26,Governor,,R,Sam Brownback,118
-Saline,27,Governor,,R,Sam Brownback,197
-Saline,28,Governor,,R,Sam Brownback,140
-Saline,29,Governor,,R,Sam Brownback,208
-Saline,30,Governor,,R,Sam Brownback,183
-Saline,31,Governor,,R,Sam Brownback,468
-Saline,32,Governor,,R,Sam Brownback,130
-Saline,33,Governor,,R,Sam Brownback,258
-Saline,34,Governor,,R,Sam Brownback,401
-Saline,35,Governor,,R,Sam Brownback,249
-Saline,CAMBRIA,Governor,,R,Sam Brownback,96
-Saline,DAYTON,Governor,,R,Sam Brownback,27
-Saline,ELM CREEK,Governor,,R,Sam Brownback,228
-Saline,EUREKA,Governor,,R,Sam Brownback,125
-Saline,FALUN,Governor,,R,Sam Brownback,67
-Saline,GLENDALE,Governor,,R,Sam Brownback,25
-Saline,GREELEY,Governor,,R,Sam Brownback,249
-Saline,GYPSUM,Governor,,R,Sam Brownback,53
-Saline,LIBERTY,Governor,,R,Sam Brownback,54
-Saline,OHIO,Governor,,R,Sam Brownback,92
-Saline,PLEASANT VLY,Governor,,R,Sam Brownback,91
-Saline,SMOKY HILL,Governor,,R,Sam Brownback,62
-Saline,SMOKY VIEW,Governor,,R,Sam Brownback,174
-Saline,SMOLAN,Governor,,R,Sam Brownback,172
-Saline,SOLOMON,Governor,,R,Sam Brownback,125
-Saline,SPRING CREEK,Governor,,R,Sam Brownback,100
-Saline,WALNUT,Governor,,R,Sam Brownback,136
-Saline,WASHINGTON,Governor,,R,Sam Brownback,45
-Saline,Paper Ballots,Governor,,R,Sam Brownback,73
-Saline,1,Governor,,D,Paul Davis,123
-Saline,2,Governor,,D,Paul Davis,119
-Saline,3,Governor,,D,Paul Davis,98
-Saline,4,Governor,,D,Paul Davis,151
-Saline,5,Governor,,D,Paul Davis,128
-Saline,6,Governor,,D,Paul Davis,101
-Saline,7,Governor,,D,Paul Davis,161
-Saline,8,Governor,,D,Paul Davis,162
-Saline,9,Governor,,D,Paul Davis,167
-Saline,10,Governor,,D,Paul Davis,160
-Saline,11,Governor,,D,Paul Davis,111
-Saline,12,Governor,,D,Paul Davis,238
-Saline,13,Governor,,D,Paul Davis,124
-Saline,14,Governor,,D,Paul Davis,158
-Saline,15,Governor,,D,Paul Davis,152
-Saline,16,Governor,,D,Paul Davis,91
-Saline,17,Governor,,D,Paul Davis,122
-Saline,18,Governor,,D,Paul Davis,137
-Saline,19,Governor,,D,Paul Davis,188
-Saline,20,Governor,,D,Paul Davis,432
-Saline,21,Governor,,D,Paul Davis,362
-Saline,22,Governor,,D,Paul Davis,297
-Saline,23,Governor,,D,Paul Davis,431
-Saline,24,Governor,,D,Paul Davis,149
-Saline,25,Governor,,D,Paul Davis,98
-Saline,26,Governor,,D,Paul Davis,159
-Saline,27,Governor,,D,Paul Davis,186
-Saline,28,Governor,,D,Paul Davis,113
-Saline,29,Governor,,D,Paul Davis,211
-Saline,30,Governor,,D,Paul Davis,186
-Saline,31,Governor,,D,Paul Davis,420
-Saline,32,Governor,,D,Paul Davis,111
-Saline,33,Governor,,D,Paul Davis,245
-Saline,34,Governor,,D,Paul Davis,380
-Saline,35,Governor,,D,Paul Davis,226
-Saline,CAMBRIA,Governor,,D,Paul Davis,55
-Saline,DAYTON,Governor,,D,Paul Davis,18
-Saline,ELM CREEK,Governor,,D,Paul Davis,134
-Saline,EUREKA,Governor,,D,Paul Davis,76
-Saline,FALUN,Governor,,D,Paul Davis,30
-Saline,GLENDALE,Governor,,D,Paul Davis,11
-Saline,GREELEY,Governor,,D,Paul Davis,113
-Saline,GYPSUM,Governor,,D,Paul Davis,10
-Saline,LIBERTY,Governor,,D,Paul Davis,21
-Saline,OHIO,Governor,,D,Paul Davis,62
-Saline,PLEASANT VLY,Governor,,D,Paul Davis,47
-Saline,SMOKY HILL,Governor,,D,Paul Davis,38
-Saline,SMOKY VIEW,Governor,,D,Paul Davis,127
-Saline,SMOLAN,Governor,,D,Paul Davis,112
-Saline,SOLOMON,Governor,,D,Paul Davis,62
-Saline,SPRING CREEK,Governor,,D,Paul Davis,42
-Saline,WALNUT,Governor,,D,Paul Davis,94
-Saline,WASHINGTON,Governor,,D,Paul Davis,20
-Saline,Paper Ballots,Governor,,D,Paul Davis,61
-Saline,1,Governor,,L,Keen Umbehr,19
-Saline,2,Governor,,L,Keen Umbehr,28
-Saline,3,Governor,,L,Keen Umbehr,14
-Saline,4,Governor,,L,Keen Umbehr,33
-Saline,5,Governor,,L,Keen Umbehr,19
-Saline,6,Governor,,L,Keen Umbehr,24
-Saline,7,Governor,,L,Keen Umbehr,36
-Saline,8,Governor,,L,Keen Umbehr,15
-Saline,9,Governor,,L,Keen Umbehr,35
-Saline,10,Governor,,L,Keen Umbehr,22
-Saline,11,Governor,,L,Keen Umbehr,25
-Saline,12,Governor,,L,Keen Umbehr,34
-Saline,13,Governor,,L,Keen Umbehr,17
-Saline,14,Governor,,L,Keen Umbehr,33
-Saline,15,Governor,,L,Keen Umbehr,25
-Saline,16,Governor,,L,Keen Umbehr,23
-Saline,17,Governor,,L,Keen Umbehr,24
-Saline,18,Governor,,L,Keen Umbehr,28
-Saline,19,Governor,,L,Keen Umbehr,17
-Saline,20,Governor,,L,Keen Umbehr,31
-Saline,21,Governor,,L,Keen Umbehr,33
-Saline,22,Governor,,L,Keen Umbehr,28
-Saline,23,Governor,,L,Keen Umbehr,43
-Saline,24,Governor,,L,Keen Umbehr,21
-Saline,25,Governor,,L,Keen Umbehr,15
-Saline,26,Governor,,L,Keen Umbehr,26
-Saline,27,Governor,,L,Keen Umbehr,21
-Saline,28,Governor,,L,Keen Umbehr,23
-Saline,29,Governor,,L,Keen Umbehr,23
-Saline,30,Governor,,L,Keen Umbehr,20
-Saline,31,Governor,,L,Keen Umbehr,68
-Saline,32,Governor,,L,Keen Umbehr,18
-Saline,33,Governor,,L,Keen Umbehr,24
-Saline,34,Governor,,L,Keen Umbehr,55
-Saline,35,Governor,,L,Keen Umbehr,48
-Saline,CAMBRIA,Governor,,L,Keen Umbehr,7
-Saline,DAYTON,Governor,,L,Keen Umbehr,0
-Saline,ELM CREEK,Governor,,L,Keen Umbehr,22
-Saline,EUREKA,Governor,,L,Keen Umbehr,19
-Saline,FALUN,Governor,,L,Keen Umbehr,12
-Saline,GLENDALE,Governor,,L,Keen Umbehr,3
-Saline,GREELEY,Governor,,L,Keen Umbehr,24
-Saline,GYPSUM,Governor,,L,Keen Umbehr,5
-Saline,LIBERTY,Governor,,L,Keen Umbehr,5
-Saline,OHIO,Governor,,L,Keen Umbehr,19
-Saline,PLEASANT VLY,Governor,,L,Keen Umbehr,9
-Saline,SMOKY HILL,Governor,,L,Keen Umbehr,5
-Saline,SMOKY VIEW,Governor,,L,Keen Umbehr,28
-Saline,SMOLAN,Governor,,L,Keen Umbehr,16
-Saline,SOLOMON,Governor,,L,Keen Umbehr,2
-Saline,SPRING CREEK,Governor,,L,Keen Umbehr,16
-Saline,WALNUT,Governor,,L,Keen Umbehr,14
-Saline,WASHINGTON,Governor,,L,Keen Umbehr,5
-Saline,Paper Ballots,Governor,,L,Keen Umbehr,13
-Saline,1,Secretary of State,,R,Kris Kobach,120
-Saline,2,Secretary of State,,R,Kris Kobach,127
-Saline,3,Secretary of State,,R,Kris Kobach,87
-Saline,4,Secretary of State,,R,Kris Kobach,124
-Saline,5,Secretary of State,,R,Kris Kobach,137
-Saline,6,Secretary of State,,R,Kris Kobach,102
-Saline,7,Secretary of State,,R,Kris Kobach,157
-Saline,8,Secretary of State,,R,Kris Kobach,140
-Saline,9,Secretary of State,,R,Kris Kobach,159
-Saline,10,Secretary of State,,R,Kris Kobach,148
-Saline,11,Secretary of State,,R,Kris Kobach,160
-Saline,12,Secretary of State,,R,Kris Kobach,202
-Saline,13,Secretary of State,,R,Kris Kobach,133
-Saline,14,Secretary of State,,R,Kris Kobach,206
-Saline,15,Secretary of State,,R,Kris Kobach,140
-Saline,16,Secretary of State,,R,Kris Kobach,130
-Saline,17,Secretary of State,,R,Kris Kobach,147
-Saline,18,Secretary of State,,R,Kris Kobach,187
-Saline,19,Secretary of State,,R,Kris Kobach,278
-Saline,20,Secretary of State,,R,Kris Kobach,533
-Saline,21,Secretary of State,,R,Kris Kobach,490
-Saline,22,Secretary of State,,R,Kris Kobach,434
-Saline,23,Secretary of State,,R,Kris Kobach,536
-Saline,24,Secretary of State,,R,Kris Kobach,176
-Saline,25,Secretary of State,,R,Kris Kobach,121
-Saline,26,Secretary of State,,R,Kris Kobach,157
-Saline,27,Secretary of State,,R,Kris Kobach,236
-Saline,28,Secretary of State,,R,Kris Kobach,173
-Saline,29,Secretary of State,,R,Kris Kobach,265
-Saline,30,Secretary of State,,R,Kris Kobach,225
-Saline,31,Secretary of State,,R,Kris Kobach,599
-Saline,32,Secretary of State,,R,Kris Kobach,156
-Saline,33,Secretary of State,,R,Kris Kobach,318
-Saline,34,Secretary of State,,R,Kris Kobach,512
-Saline,35,Secretary of State,,R,Kris Kobach,307
-Saline,CAMBRIA,Secretary of State,,R,Kris Kobach,108
-Saline,DAYTON,Secretary of State,,R,Kris Kobach,26
-Saline,ELM CREEK,Secretary of State,,R,Kris Kobach,269
-Saline,EUREKA,Secretary of State,,R,Kris Kobach,158
-Saline,FALUN,Secretary of State,,R,Kris Kobach,75
-Saline,GLENDALE,Secretary of State,,R,Kris Kobach,30
-Saline,GREELEY,Secretary of State,,R,Kris Kobach,281
-Saline,GYPSUM,Secretary of State,,R,Kris Kobach,59
-Saline,LIBERTY,Secretary of State,,R,Kris Kobach,53
-Saline,OHIO,Secretary of State,,R,Kris Kobach,113
-Saline,PLEASANT VLY,Secretary of State,,R,Kris Kobach,109
-Saline,SMOKY HILL,Secretary of State,,R,Kris Kobach,69
-Saline,SMOKY VIEW,Secretary of State,,R,Kris Kobach,215
-Saline,SMOLAN,Secretary of State,,R,Kris Kobach,211
-Saline,SOLOMON,Secretary of State,,R,Kris Kobach,136
-Saline,SPRING CREEK,Secretary of State,,R,Kris Kobach,107
-Saline,WALNUT,Secretary of State,,R,Kris Kobach,161
-Saline,WASHINGTON,Secretary of State,,R,Kris Kobach,50
-Saline,Paper Ballots,Secretary of State,,R,Kris Kobach,90
-Saline,1,Secretary of State,,D,Jean Schodorf,117
-Saline,2,Secretary of State,,D,Jean Schodorf,109
-Saline,3,Secretary of State,,D,Jean Schodorf,90
-Saline,4,Secretary of State,,D,Jean Schodorf,147
-Saline,5,Secretary of State,,D,Jean Schodorf,109
-Saline,6,Secretary of State,,D,Jean Schodorf,98
-Saline,7,Secretary of State,,D,Jean Schodorf,145
-Saline,8,Secretary of State,,D,Jean Schodorf,146
-Saline,9,Secretary of State,,D,Jean Schodorf,152
-Saline,10,Secretary of State,,D,Jean Schodorf,149
-Saline,11,Secretary of State,,D,Jean Schodorf,100
-Saline,12,Secretary of State,,D,Jean Schodorf,214
-Saline,13,Secretary of State,,D,Jean Schodorf,115
-Saline,14,Secretary of State,,D,Jean Schodorf,146
-Saline,15,Secretary of State,,D,Jean Schodorf,141
-Saline,16,Secretary of State,,D,Jean Schodorf,86
-Saline,17,Secretary of State,,D,Jean Schodorf,111
-Saline,18,Secretary of State,,D,Jean Schodorf,115
-Saline,19,Secretary of State,,D,Jean Schodorf,156
-Saline,20,Secretary of State,,D,Jean Schodorf,369
-Saline,21,Secretary of State,,D,Jean Schodorf,309
-Saline,22,Secretary of State,,D,Jean Schodorf,250
-Saline,23,Secretary of State,,D,Jean Schodorf,350
-Saline,24,Secretary of State,,D,Jean Schodorf,131
-Saline,25,Secretary of State,,D,Jean Schodorf,90
-Saline,26,Secretary of State,,D,Jean Schodorf,143
-Saline,27,Secretary of State,,D,Jean Schodorf,163
-Saline,28,Secretary of State,,D,Jean Schodorf,99
-Saline,29,Secretary of State,,D,Jean Schodorf,165
-Saline,30,Secretary of State,,D,Jean Schodorf,155
-Saline,31,Secretary of State,,D,Jean Schodorf,342
-Saline,32,Secretary of State,,D,Jean Schodorf,97
-Saline,33,Secretary of State,,D,Jean Schodorf,199
-Saline,34,Secretary of State,,D,Jean Schodorf,320
-Saline,35,Secretary of State,,D,Jean Schodorf,206
-Saline,CAMBRIA,Secretary of State,,D,Jean Schodorf,50
-Saline,DAYTON,Secretary of State,,D,Jean Schodorf,18
-Saline,ELM CREEK,Secretary of State,,D,Jean Schodorf,113
-Saline,EUREKA,Secretary of State,,D,Jean Schodorf,61
-Saline,FALUN,Secretary of State,,D,Jean Schodorf,33
-Saline,GLENDALE,Secretary of State,,D,Jean Schodorf,8
-Saline,GREELEY,Secretary of State,,D,Jean Schodorf,103
-Saline,GYPSUM,Secretary of State,,D,Jean Schodorf,9
-Saline,LIBERTY,Secretary of State,,D,Jean Schodorf,26
-Saline,OHIO,Secretary of State,,D,Jean Schodorf,59
-Saline,PLEASANT VLY,Secretary of State,,D,Jean Schodorf,38
-Saline,SMOKY HILL,Secretary of State,,D,Jean Schodorf,33
-Saline,SMOKY VIEW,Secretary of State,,D,Jean Schodorf,112
-Saline,SMOLAN,Secretary of State,,D,Jean Schodorf,88
-Saline,SOLOMON,Secretary of State,,D,Jean Schodorf,52
-Saline,SPRING CREEK,Secretary of State,,D,Jean Schodorf,46
-Saline,WALNUT,Secretary of State,,D,Jean Schodorf,81
-Saline,WASHINGTON,Secretary of State,,D,Jean Schodorf,19
-Saline,Paper Ballots,Secretary of State,,D,Jean Schodorf,60
-Saline,1,Attorney General,,R,Derek Schmidt,143
-Saline,2,Attorney General,,R,Derek Schmidt,149
-Saline,3,Attorney General,,R,Derek Schmidt,110
-Saline,4,Attorney General,,R,Derek Schmidt,148
-Saline,5,Attorney General,,R,Derek Schmidt,146
-Saline,6,Attorney General,,R,Derek Schmidt,123
-Saline,7,Attorney General,,R,Derek Schmidt,181
-Saline,8,Attorney General,,R,Derek Schmidt,172
-Saline,9,Attorney General,,R,Derek Schmidt,190
-Saline,10,Attorney General,,R,Derek Schmidt,172
-Saline,11,Attorney General,,R,Derek Schmidt,183
-Saline,12,Attorney General,,R,Derek Schmidt,246
-Saline,13,Attorney General,,R,Derek Schmidt,170
-Saline,14,Attorney General,,R,Derek Schmidt,242
-Saline,15,Attorney General,,R,Derek Schmidt,174
-Saline,16,Attorney General,,R,Derek Schmidt,139
-Saline,17,Attorney General,,R,Derek Schmidt,171
-Saline,18,Attorney General,,R,Derek Schmidt,216
-Saline,19,Attorney General,,R,Derek Schmidt,317
-Saline,20,Attorney General,,R,Derek Schmidt,653
-Saline,21,Attorney General,,R,Derek Schmidt,606
-Saline,22,Attorney General,,R,Derek Schmidt,526
-Saline,23,Attorney General,,R,Derek Schmidt,637
-Saline,24,Attorney General,,R,Derek Schmidt,211
-Saline,25,Attorney General,,R,Derek Schmidt,142
-Saline,26,Attorney General,,R,Derek Schmidt,197
-Saline,27,Attorney General,,R,Derek Schmidt,287
-Saline,28,Attorney General,,R,Derek Schmidt,194
-Saline,29,Attorney General,,R,Derek Schmidt,308
-Saline,30,Attorney General,,R,Derek Schmidt,260
-Saline,31,Attorney General,,R,Derek Schmidt,706
-Saline,32,Attorney General,,R,Derek Schmidt,182
-Saline,33,Attorney General,,R,Derek Schmidt,380
-Saline,34,Attorney General,,R,Derek Schmidt,602
-Saline,35,Attorney General,,R,Derek Schmidt,340
-Saline,CAMBRIA,Attorney General,,R,Derek Schmidt,131
-Saline,DAYTON,Attorney General,,R,Derek Schmidt,31
-Saline,ELM CREEK,Attorney General,,R,Derek Schmidt,313
-Saline,EUREKA,Attorney General,,R,Derek Schmidt,176
-Saline,FALUN,Attorney General,,R,Derek Schmidt,88
-Saline,GLENDALE,Attorney General,,R,Derek Schmidt,31
-Saline,GREELEY,Attorney General,,R,Derek Schmidt,320
-Saline,GYPSUM,Attorney General,,R,Derek Schmidt,64
-Saline,LIBERTY,Attorney General,,R,Derek Schmidt,61
-Saline,OHIO,Attorney General,,R,Derek Schmidt,137
-Saline,PLEASANT VLY,Attorney General,,R,Derek Schmidt,122
-Saline,SMOKY HILL,Attorney General,,R,Derek Schmidt,86
-Saline,SMOKY VIEW,Attorney General,,R,Derek Schmidt,245
-Saline,SMOLAN,Attorney General,,R,Derek Schmidt,240
-Saline,SOLOMON,Attorney General,,R,Derek Schmidt,153
-Saline,SPRING CREEK,Attorney General,,R,Derek Schmidt,126
-Saline,WALNUT,Attorney General,,R,Derek Schmidt,195
-Saline,WASHINGTON,Attorney General,,R,Derek Schmidt,59
-Saline,Paper Ballots,Attorney General,,R,Derek Schmidt,95
-Saline,1,Attorney General,,D,A J Kotich,91
-Saline,2,Attorney General,,D,A J Kotich,88
-Saline,3,Attorney General,,D,A J Kotich,67
-Saline,4,Attorney General,,D,A J Kotich,120
-Saline,5,Attorney General,,D,A J Kotich,95
-Saline,6,Attorney General,,D,A J Kotich,76
-Saline,7,Attorney General,,D,A J Kotich,115
-Saline,8,Attorney General,,D,A J Kotich,108
-Saline,9,Attorney General,,D,A J Kotich,112
-Saline,10,Attorney General,,D,A J Kotich,121
-Saline,11,Attorney General,,D,A J Kotich,73
-Saline,12,Attorney General,,D,A J Kotich,167
-Saline,13,Attorney General,,D,A J Kotich,77
-Saline,14,Attorney General,,D,A J Kotich,106
-Saline,15,Attorney General,,D,A J Kotich,106
-Saline,16,Attorney General,,D,A J Kotich,75
-Saline,17,Attorney General,,D,A J Kotich,87
-Saline,18,Attorney General,,D,A J Kotich,83
-Saline,19,Attorney General,,D,A J Kotich,108
-Saline,20,Attorney General,,D,A J Kotich,233
-Saline,21,Attorney General,,D,A J Kotich,183
-Saline,22,Attorney General,,D,A J Kotich,150
-Saline,23,Attorney General,,D,A J Kotich,237
-Saline,24,Attorney General,,D,A J Kotich,86
-Saline,25,Attorney General,,D,A J Kotich,68
-Saline,26,Attorney General,,D,A J Kotich,100
-Saline,27,Attorney General,,D,A J Kotich,112
-Saline,28,Attorney General,,D,A J Kotich,73
-Saline,29,Attorney General,,D,A J Kotich,117
-Saline,30,Attorney General,,D,A J Kotich,114
-Saline,31,Attorney General,,D,A J Kotich,225
-Saline,32,Attorney General,,D,A J Kotich,69
-Saline,33,Attorney General,,D,A J Kotich,129
-Saline,34,Attorney General,,D,A J Kotich,218
-Saline,35,Attorney General,,D,A J Kotich,164
-Saline,CAMBRIA,Attorney General,,D,A J Kotich,25
-Saline,DAYTON,Attorney General,,D,A J Kotich,13
-Saline,ELM CREEK,Attorney General,,D,A J Kotich,64
-Saline,EUREKA,Attorney General,,D,A J Kotich,41
-Saline,FALUN,Attorney General,,D,A J Kotich,15
-Saline,GLENDALE,Attorney General,,D,A J Kotich,7
-Saline,GREELEY,Attorney General,,D,A J Kotich,60
-Saline,GYPSUM,Attorney General,,D,A J Kotich,3
-Saline,LIBERTY,Attorney General,,D,A J Kotich,17
-Saline,OHIO,Attorney General,,D,A J Kotich,33
-Saline,PLEASANT VLY,Attorney General,,D,A J Kotich,25
-Saline,SMOKY HILL,Attorney General,,D,A J Kotich,15
-Saline,SMOKY VIEW,Attorney General,,D,A J Kotich,78
-Saline,SMOLAN,Attorney General,,D,A J Kotich,56
-Saline,SOLOMON,Attorney General,,D,A J Kotich,33
-Saline,SPRING CREEK,Attorney General,,D,A J Kotich,27
-Saline,WALNUT,Attorney General,,D,A J Kotich,47
-Saline,WASHINGTON,Attorney General,,D,A J Kotich,10
-Saline,Paper Ballots,Attorney General,,D,A J Kotich,49
-Saline,1,State Treasurer,,R,Ron Estes,133
-Saline,2,State Treasurer,,R,Ron Estes,150
-Saline,3,State Treasurer,,R,Ron Estes,101
-Saline,4,State Treasurer,,R,Ron Estes,147
-Saline,5,State Treasurer,,R,Ron Estes,147
-Saline,6,State Treasurer,,R,Ron Estes,117
-Saline,7,State Treasurer,,R,Ron Estes,176
-Saline,8,State Treasurer,,R,Ron Estes,176
-Saline,9,State Treasurer,,R,Ron Estes,199
-Saline,10,State Treasurer,,R,Ron Estes,172
-Saline,11,State Treasurer,,R,Ron Estes,178
-Saline,12,State Treasurer,,R,Ron Estes,254
-Saline,13,State Treasurer,,R,Ron Estes,160
-Saline,14,State Treasurer,,R,Ron Estes,236
-Saline,15,State Treasurer,,R,Ron Estes,167
-Saline,16,State Treasurer,,R,Ron Estes,131
-Saline,17,State Treasurer,,R,Ron Estes,175
-Saline,18,State Treasurer,,R,Ron Estes,212
-Saline,19,State Treasurer,,R,Ron Estes,326
-Saline,20,State Treasurer,,R,Ron Estes,681
-Saline,21,State Treasurer,,R,Ron Estes,603
-Saline,22,State Treasurer,,R,Ron Estes,540
-Saline,23,State Treasurer,,R,Ron Estes,632
-Saline,24,State Treasurer,,R,Ron Estes,194
-Saline,25,State Treasurer,,R,Ron Estes,132
-Saline,26,State Treasurer,,R,Ron Estes,189
-Saline,27,State Treasurer,,R,Ron Estes,286
-Saline,28,State Treasurer,,R,Ron Estes,199
-Saline,29,State Treasurer,,R,Ron Estes,311
-Saline,30,State Treasurer,,R,Ron Estes,262
-Saline,31,State Treasurer,,R,Ron Estes,690
-Saline,32,State Treasurer,,R,Ron Estes,187
-Saline,33,State Treasurer,,R,Ron Estes,373
-Saline,34,State Treasurer,,R,Ron Estes,611
-Saline,35,State Treasurer,,R,Ron Estes,341
-Saline,CAMBRIA,State Treasurer,,R,Ron Estes,129
-Saline,DAYTON,State Treasurer,,R,Ron Estes,27
-Saline,ELM CREEK,State Treasurer,,R,Ron Estes,313
-Saline,EUREKA,State Treasurer,,R,Ron Estes,174
-Saline,FALUN,State Treasurer,,R,Ron Estes,83
-Saline,GLENDALE,State Treasurer,,R,Ron Estes,30
-Saline,GREELEY,State Treasurer,,R,Ron Estes,319
-Saline,GYPSUM,State Treasurer,,R,Ron Estes,62
-Saline,LIBERTY,State Treasurer,,R,Ron Estes,65
-Saline,OHIO,State Treasurer,,R,Ron Estes,134
-Saline,PLEASANT VLY,State Treasurer,,R,Ron Estes,120
-Saline,SMOKY HILL,State Treasurer,,R,Ron Estes,89
-Saline,SMOKY VIEW,State Treasurer,,R,Ron Estes,246
-Saline,SMOLAN,State Treasurer,,R,Ron Estes,240
-Saline,SOLOMON,State Treasurer,,R,Ron Estes,146
-Saline,SPRING CREEK,State Treasurer,,R,Ron Estes,120
-Saline,WALNUT,State Treasurer,,R,Ron Estes,192
-Saline,WASHINGTON,State Treasurer,,R,Ron Estes,56
-Saline,Paper Ballots,State Treasurer,,R,Ron Estes,101
-Saline,1,State Treasurer,,D,Carmen Alldritt,98
-Saline,2,State Treasurer,,D,Carmen Alldritt,86
-Saline,3,State Treasurer,,D,Carmen Alldritt,71
-Saline,4,State Treasurer,,D,Carmen Alldritt,121
-Saline,5,State Treasurer,,D,Carmen Alldritt,96
-Saline,6,State Treasurer,,D,Carmen Alldritt,80
-Saline,7,State Treasurer,,D,Carmen Alldritt,119
-Saline,8,State Treasurer,,D,Carmen Alldritt,104
-Saline,9,State Treasurer,,D,Carmen Alldritt,105
-Saline,10,State Treasurer,,D,Carmen Alldritt,122
-Saline,11,State Treasurer,,D,Carmen Alldritt,76
-Saline,12,State Treasurer,,D,Carmen Alldritt,152
-Saline,13,State Treasurer,,D,Carmen Alldritt,83
-Saline,14,State Treasurer,,D,Carmen Alldritt,109
-Saline,15,State Treasurer,,D,Carmen Alldritt,111
-Saline,16,State Treasurer,,D,Carmen Alldritt,78
-Saline,17,State Treasurer,,D,Carmen Alldritt,83
-Saline,18,State Treasurer,,D,Carmen Alldritt,84
-Saline,19,State Treasurer,,D,Carmen Alldritt,100
-Saline,20,State Treasurer,,D,Carmen Alldritt,205
-Saline,21,State Treasurer,,D,Carmen Alldritt,184
-Saline,22,State Treasurer,,D,Carmen Alldritt,131
-Saline,23,State Treasurer,,D,Carmen Alldritt,235
-Saline,24,State Treasurer,,D,Carmen Alldritt,102
-Saline,25,State Treasurer,,D,Carmen Alldritt,73
-Saline,26,State Treasurer,,D,Carmen Alldritt,103
-Saline,27,State Treasurer,,D,Carmen Alldritt,115
-Saline,28,State Treasurer,,D,Carmen Alldritt,70
-Saline,29,State Treasurer,,D,Carmen Alldritt,108
-Saline,30,State Treasurer,,D,Carmen Alldritt,110
-Saline,31,State Treasurer,,D,Carmen Alldritt,231
-Saline,32,State Treasurer,,D,Carmen Alldritt,63
-Saline,33,State Treasurer,,D,Carmen Alldritt,134
-Saline,34,State Treasurer,,D,Carmen Alldritt,206
-Saline,35,State Treasurer,,D,Carmen Alldritt,164
-Saline,CAMBRIA,State Treasurer,,D,Carmen Alldritt,23
-Saline,DAYTON,State Treasurer,,D,Carmen Alldritt,15
-Saline,ELM CREEK,State Treasurer,,D,Carmen Alldritt,69
-Saline,EUREKA,State Treasurer,,D,Carmen Alldritt,44
-Saline,FALUN,State Treasurer,,D,Carmen Alldritt,17
-Saline,GLENDALE,State Treasurer,,D,Carmen Alldritt,7
-Saline,GREELEY,State Treasurer,,D,Carmen Alldritt,62
-Saline,GYPSUM,State Treasurer,,D,Carmen Alldritt,6
-Saline,LIBERTY,State Treasurer,,D,Carmen Alldritt,14
-Saline,OHIO,State Treasurer,,D,Carmen Alldritt,33
-Saline,PLEASANT VLY,State Treasurer,,D,Carmen Alldritt,23
-Saline,SMOKY HILL,State Treasurer,,D,Carmen Alldritt,13
-Saline,SMOKY VIEW,State Treasurer,,D,Carmen Alldritt,75
-Saline,SMOLAN,State Treasurer,,D,Carmen Alldritt,53
-Saline,SOLOMON,State Treasurer,,D,Carmen Alldritt,38
-Saline,SPRING CREEK,State Treasurer,,D,Carmen Alldritt,29
-Saline,WALNUT,State Treasurer,,D,Carmen Alldritt,45
-Saline,WASHINGTON,State Treasurer,,D,Carmen Alldritt,11
-Saline,Paper Ballots,State Treasurer,,D,Carmen Alldritt,45
-Saline,1,Insurance Commissioner,,R,Ken Selzer,120
-Saline,2,Insurance Commissioner,,R,Ken Selzer,138
-Saline,3,Insurance Commissioner,,R,Ken Selzer,92
-Saline,4,Insurance Commissioner,,R,Ken Selzer,133
-Saline,5,Insurance Commissioner,,R,Ken Selzer,137
-Saline,6,Insurance Commissioner,,R,Ken Selzer,103
-Saline,7,Insurance Commissioner,,R,Ken Selzer,155
-Saline,8,Insurance Commissioner,,R,Ken Selzer,152
-Saline,9,Insurance Commissioner,,R,Ken Selzer,173
-Saline,10,Insurance Commissioner,,R,Ken Selzer,158
-Saline,11,Insurance Commissioner,,R,Ken Selzer,165
-Saline,12,Insurance Commissioner,,R,Ken Selzer,211
-Saline,13,Insurance Commissioner,,R,Ken Selzer,144
-Saline,14,Insurance Commissioner,,R,Ken Selzer,212
-Saline,15,Insurance Commissioner,,R,Ken Selzer,136
-Saline,16,Insurance Commissioner,,R,Ken Selzer,129
-Saline,17,Insurance Commissioner,,R,Ken Selzer,146
-Saline,18,Insurance Commissioner,,R,Ken Selzer,193
-Saline,19,Insurance Commissioner,,R,Ken Selzer,298
-Saline,20,Insurance Commissioner,,R,Ken Selzer,619
-Saline,21,Insurance Commissioner,,R,Ken Selzer,531
-Saline,22,Insurance Commissioner,,R,Ken Selzer,495
-Saline,23,Insurance Commissioner,,R,Ken Selzer,568
-Saline,24,Insurance Commissioner,,R,Ken Selzer,178
-Saline,25,Insurance Commissioner,,R,Ken Selzer,126
-Saline,26,Insurance Commissioner,,R,Ken Selzer,174
-Saline,27,Insurance Commissioner,,R,Ken Selzer,255
-Saline,28,Insurance Commissioner,,R,Ken Selzer,185
-Saline,29,Insurance Commissioner,,R,Ken Selzer,281
-Saline,30,Insurance Commissioner,,R,Ken Selzer,237
-Saline,31,Insurance Commissioner,,R,Ken Selzer,632
-Saline,32,Insurance Commissioner,,R,Ken Selzer,170
-Saline,33,Insurance Commissioner,,R,Ken Selzer,341
-Saline,34,Insurance Commissioner,,R,Ken Selzer,540
-Saline,35,Insurance Commissioner,,R,Ken Selzer,308
-Saline,CAMBRIA,Insurance Commissioner,,R,Ken Selzer,120
-Saline,DAYTON,Insurance Commissioner,,R,Ken Selzer,28
-Saline,ELM CREEK,Insurance Commissioner,,R,Ken Selzer,287
-Saline,EUREKA,Insurance Commissioner,,R,Ken Selzer,163
-Saline,FALUN,Insurance Commissioner,,R,Ken Selzer,85
-Saline,GLENDALE,Insurance Commissioner,,R,Ken Selzer,29
-Saline,GREELEY,Insurance Commissioner,,R,Ken Selzer,298
-Saline,GYPSUM,Insurance Commissioner,,R,Ken Selzer,61
-Saline,LIBERTY,Insurance Commissioner,,R,Ken Selzer,59
-Saline,OHIO,Insurance Commissioner,,R,Ken Selzer,127
-Saline,PLEASANT VLY,Insurance Commissioner,,R,Ken Selzer,115
-Saline,SMOKY HILL,Insurance Commissioner,,R,Ken Selzer,71
-Saline,SMOKY VIEW,Insurance Commissioner,,R,Ken Selzer,241
-Saline,SMOLAN,Insurance Commissioner,,R,Ken Selzer,221
-Saline,SOLOMON,Insurance Commissioner,,R,Ken Selzer,141
-Saline,SPRING CREEK,Insurance Commissioner,,R,Ken Selzer,109
-Saline,WALNUT,Insurance Commissioner,,R,Ken Selzer,180
-Saline,WASHINGTON,Insurance Commissioner,,R,Ken Selzer,55
-Saline,Paper Ballots,Insurance Commissioner,,R,Ken Selzer,91
-Saline,1,Insurance Commissioner,,D,Dennis Anderson,109
-Saline,2,Insurance Commissioner,,D,Dennis Anderson,97
-Saline,3,Insurance Commissioner,,D,Dennis Anderson,81
-Saline,4,Insurance Commissioner,,D,Dennis Anderson,135
-Saline,5,Insurance Commissioner,,D,Dennis Anderson,104
-Saline,6,Insurance Commissioner,,D,Dennis Anderson,94
-Saline,7,Insurance Commissioner,,D,Dennis Anderson,133
-Saline,8,Insurance Commissioner,,D,Dennis Anderson,123
-Saline,9,Insurance Commissioner,,D,Dennis Anderson,127
-Saline,10,Insurance Commissioner,,D,Dennis Anderson,130
-Saline,11,Insurance Commissioner,,D,Dennis Anderson,84
-Saline,12,Insurance Commissioner,,D,Dennis Anderson,190
-Saline,13,Insurance Commissioner,,D,Dennis Anderson,99
-Saline,14,Insurance Commissioner,,D,Dennis Anderson,130
-Saline,15,Insurance Commissioner,,D,Dennis Anderson,134
-Saline,16,Insurance Commissioner,,D,Dennis Anderson,74
-Saline,17,Insurance Commissioner,,D,Dennis Anderson,106
-Saline,18,Insurance Commissioner,,D,Dennis Anderson,96
-Saline,19,Insurance Commissioner,,D,Dennis Anderson,122
-Saline,20,Insurance Commissioner,,D,Dennis Anderson,259
-Saline,21,Insurance Commissioner,,D,Dennis Anderson,236
-Saline,22,Insurance Commissioner,,D,Dennis Anderson,171
-Saline,23,Insurance Commissioner,,D,Dennis Anderson,290
-Saline,24,Insurance Commissioner,,D,Dennis Anderson,112
-Saline,25,Insurance Commissioner,,D,Dennis Anderson,79
-Saline,26,Insurance Commissioner,,D,Dennis Anderson,116
-Saline,27,Insurance Commissioner,,D,Dennis Anderson,138
-Saline,28,Insurance Commissioner,,D,Dennis Anderson,78
-Saline,29,Insurance Commissioner,,D,Dennis Anderson,137
-Saline,30,Insurance Commissioner,,D,Dennis Anderson,133
-Saline,31,Insurance Commissioner,,D,Dennis Anderson,276
-Saline,32,Insurance Commissioner,,D,Dennis Anderson,72
-Saline,33,Insurance Commissioner,,D,Dennis Anderson,152
-Saline,34,Insurance Commissioner,,D,Dennis Anderson,275
-Saline,35,Insurance Commissioner,,D,Dennis Anderson,189
-Saline,CAMBRIA,Insurance Commissioner,,D,Dennis Anderson,33
-Saline,DAYTON,Insurance Commissioner,,D,Dennis Anderson,14
-Saline,ELM CREEK,Insurance Commissioner,,D,Dennis Anderson,90
-Saline,EUREKA,Insurance Commissioner,,D,Dennis Anderson,54
-Saline,FALUN,Insurance Commissioner,,D,Dennis Anderson,17
-Saline,GLENDALE,Insurance Commissioner,,D,Dennis Anderson,8
-Saline,GREELEY,Insurance Commissioner,,D,Dennis Anderson,72
-Saline,GYPSUM,Insurance Commissioner,,D,Dennis Anderson,5
-Saline,LIBERTY,Insurance Commissioner,,D,Dennis Anderson,18
-Saline,OHIO,Insurance Commissioner,,D,Dennis Anderson,39
-Saline,PLEASANT VLY,Insurance Commissioner,,D,Dennis Anderson,29
-Saline,SMOKY HILL,Insurance Commissioner,,D,Dennis Anderson,26
-Saline,SMOKY VIEW,Insurance Commissioner,,D,Dennis Anderson,76
-Saline,SMOLAN,Insurance Commissioner,,D,Dennis Anderson,71
-Saline,SOLOMON,Insurance Commissioner,,D,Dennis Anderson,42
-Saline,SPRING CREEK,Insurance Commissioner,,D,Dennis Anderson,38
-Saline,WALNUT,Insurance Commissioner,,D,Dennis Anderson,55
-Saline,WASHINGTON,Insurance Commissioner,,D,Dennis Anderson,14
-Saline,Paper Ballots,Insurance Commissioner,,D,Dennis Anderson,52
-Saline,1,State House,69,R,J R Claeys,122
-Saline,2,State House,69,R,J R Claeys,125
-Saline,3,State House,69,R,J R Claeys,94
-Saline,4,State House,69,R,J R Claeys,136
-Saline,5,State House,71,R,Diana Dierks,213
-Saline,6,State House,69,R,J R Claeys,116
-Saline,7,State House,69,R,J R Claeys,167
-Saline,8,State House,71,R,Diana Dierks,238
-Saline,9,State House,69,R,J R Claeys,157
-Saline,10,State House,71,R,Diana Dierks,253
-Saline,11,State House,69,R,J R Claeys,171
-Saline,12,State House,69,R,J R Claeys,208
-Saline,13,State House,69,R,J R Claeys,139
-Saline,14,State House,69,R,J R Claeys,205
-Saline,15,State House,71,R,Diana Dierks,244
-Saline,16,State House,71,R,Diana Dierks,185
-Saline,17,State House,71,R,Diana Dierks,231
-Saline,18,State House,71,R,Diana Dierks,263
-Saline,19,State House,71,R,Diana Dierks,400
-Saline,20,State House,71,R,Diana Dierks,826
-Saline,21,State House,71,R,Diana Dierks,734
-Saline,22,State House,71,R,Diana Dierks,632
-Saline,23,State House,71,R,Diana Dierks,800
-Saline,24,State House,71,R,Diana Dierks,269
-Saline,25,State House,71,R,Diana Dierks,182
-Saline,26,State House,71,R,Diana Dierks,262
-Saline,27,State House,69,R,J R Claeys,241
-Saline,28,State House,71,R,Diana Dierks,243
-Saline,29,State House,71,R,Diana Dierks,398
-Saline,30,State House,69,R,J R Claeys,229
-Saline,31,State House,69,R,J R Claeys,617
-Saline,32,State House,69,R,J R Claeys,173
-Saline,33,State House,108,R,Steven Johnson,476
-Saline,34,State House,108,R,Steven Johnson,756
-Saline,35,State House,108,R,Steven Johnson,431
-Saline,CAMBRIA,State House,71,R,Diana Dierks,146
-Saline,DAYTON,State House,71,R,Diana Dierks,37
-Saline,ELM CREEK 69,State House,71,R,Diana Dierks,279
-Saline,ELM CREEK 71,State House,71,R,Diana Dierks,1
-Saline,EUREKA,State House,108,R,Steven Johnson,205
-Saline,FALUN,State House,108,R,Steven Johnson,100
-Saline,GLENDALE,State House,69,R,J R Claeys,30
-Saline,GREELEY,State House,71,R,Diana Dierks,335
-Saline,GYPSUM,State House,108,R,Steven Johnson,66
-Saline,LIBERTY,State House,108,R,Steven Johnson,75
-Saline,OHIO,State House,108,R,Steven Johnson,157
-Saline,PLEASANT VLY,State House,69,R,J R Claeys,104
-Saline,SMOKY HILL 69,State House,69,R,J R Claeys,67
-Saline,SMOKY HILL 71,State House,71,R,Diana Dierks,4
-Saline,SMOKY VIEW,State House,69,R,J R Claeys,306
-Saline,SMOLAN,State House,69,R,J R Claeys,283
-Saline,SOLOMON,State House,71,R,Diana Dierks,158
-Saline,SPRING CREEK,State House,69,R,J R Claeys,144
-Saline,WALNUT,State House,69,R,J R Claeys,231
-Saline,WASHINGTON,State House,69,R,J R Claeys,66
-Saline,Paper Ballots,State House,69,R,J R Claeys,15
-Saline,Paper Ballots,State House,71,R,Diana Dierks,30
-Saline,Paper Ballots,State House,108,R,Steven Johnson,57
-Saline,1,State House,69,D,Gary Swartzendruber,114
-Saline,2,State House,69,D,Gary Swartzendruber,113
-Saline,3,State House,69,D,Gary Swartzendruber,81
-Saline,4,State House,69,D,Gary Swartzendruber,127
-Saline,6,State House,69,D,Gary Swartzendruber,79
-Saline,7,State House,69,D,Gary Swartzendruber,122
-Saline,9,State House,69,D,Gary Swartzendruber,145
-Saline,11,State House,69,D,Gary Swartzendruber,88
-Saline,12,State House,69,D,Gary Swartzendruber,199
-Saline,13,State House,69,D,Gary Swartzendruber,107
-Saline,14,State House,69,D,Gary Swartzendruber,142
-Saline,27,State House,69,D,Gary Swartzendruber,149
-Saline,30,State House,69,D,Gary Swartzendruber,136
-Saline,31,State House,69,D,Gary Swartzendruber,291
-Saline,32,State House,69,D,Gary Swartzendruber,72
-Saline,ELM CREEK 69,State House,69,D,Gary Swartzendruber,96
-Saline,GLENDALE,State House,69,D,Gary Swartzendruber,8
-Saline,PLEASANT VLY,State House,69,D,Gary Swartzendruber,38
-Saline,SMOKY HILL 69,State House,69,D,Gary Swartzendruber,28
-Saline,Paper Ballots,State House,69,D,Gary Swartzendruber,19
+county,precinct,office,district,party,candidate,votes,vtd
+SALINE,Cambria Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",55,000010
+SALINE,Cambria Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000010
+SALINE,Cambria Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",96,000010
+SALINE,Dayton Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",18,000020
+SALINE,Dayton Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000020
+SALINE,Dayton Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",27,000020
+SALINE,Eureka Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",76,000040
+SALINE,Eureka Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000040
+SALINE,Eureka Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",125,000040
+SALINE,Falun Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",30,000050
+SALINE,Falun Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000050
+SALINE,Falun Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",67,000050
+SALINE,Glendale Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",11,000060
+SALINE,Glendale Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000060
+SALINE,Glendale Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",25,000060
+SALINE,Greeley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",113,000070
+SALINE,Greeley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",24,000070
+SALINE,Greeley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",249,000070
+SALINE,Gypsum Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",10,000080
+SALINE,Gypsum Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000080
+SALINE,Gypsum Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",53,000080
+SALINE,Liberty Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",21,000090
+SALINE,Liberty Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000090
+SALINE,Liberty Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",54,000090
+SALINE,Ohio Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",62,000100
+SALINE,Ohio Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000100
+SALINE,Ohio Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",92,000100
+SALINE,Pleasant Valley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",47,000110
+SALINE,Pleasant Valley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000110
+SALINE,Pleasant Valley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",91,000110
+SALINE,Salina Precinct 01 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",123,00012A
+SALINE,Salina Precinct 01 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,00012A
+SALINE,Salina Precinct 01 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",98,00012A
+SALINE,Salina Precinct 02,Governor / Lt. Governor,,Democratic,"Davis, Paul",119,00013A
+SALINE,Salina Precinct 02,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",28,00013A
+SALINE,Salina Precinct 02,Governor / Lt. Governor,,Republican,"Brownback, Sam",99,00013A
+SALINE,Salina Precinct 03,Governor / Lt. Governor,,Democratic,"Davis, Paul",98,000140
+SALINE,Salina Precinct 03,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000140
+SALINE,Salina Precinct 03,Governor / Lt. Governor,,Republican,"Brownback, Sam",69,000140
+SALINE,Salina Precinct 04,Governor / Lt. Governor,,Democratic,"Davis, Paul",151,000150
+SALINE,Salina Precinct 04,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",33,000150
+SALINE,Salina Precinct 04,Governor / Lt. Governor,,Republican,"Brownback, Sam",89,000150
+SALINE,Salina Precinct 05,Governor / Lt. Governor,,Democratic,"Davis, Paul",128,000160
+SALINE,Salina Precinct 05,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000160
+SALINE,Salina Precinct 05,Governor / Lt. Governor,,Republican,"Brownback, Sam",103,000160
+SALINE,Salina Precinct 06,Governor / Lt. Governor,,Democratic,"Davis, Paul",101,000170
+SALINE,Salina Precinct 06,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",24,000170
+SALINE,Salina Precinct 06,Governor / Lt. Governor,,Republican,"Brownback, Sam",75,000170
+SALINE,Salina Precinct 07,Governor / Lt. Governor,,Democratic,"Davis, Paul",161,000180
+SALINE,Salina Precinct 07,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",36,000180
+SALINE,Salina Precinct 07,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000180
+SALINE,Salina Precinct 08,Governor / Lt. Governor,,Democratic,"Davis, Paul",162,000190
+SALINE,Salina Precinct 08,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000190
+SALINE,Salina Precinct 08,Governor / Lt. Governor,,Republican,"Brownback, Sam",109,000190
+SALINE,Salina Precinct 09,Governor / Lt. Governor,,Democratic,"Davis, Paul",167,000200
+SALINE,Salina Precinct 09,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",35,000200
+SALINE,Salina Precinct 09,Governor / Lt. Governor,,Republican,"Brownback, Sam",111,000200
+SALINE,Salina Precinct 10,Governor / Lt. Governor,,Democratic,"Davis, Paul",160,000210
+SALINE,Salina Precinct 10,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",22,000210
+SALINE,Salina Precinct 10,Governor / Lt. Governor,,Republican,"Brownback, Sam",115,000210
+SALINE,Salina Precinct 11,Governor / Lt. Governor,,Democratic,"Davis, Paul",111,000220
+SALINE,Salina Precinct 11,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",25,000220
+SALINE,Salina Precinct 11,Governor / Lt. Governor,,Republican,"Brownback, Sam",128,000220
+SALINE,Salina Precinct 12,Governor / Lt. Governor,,Democratic,"Davis, Paul",238,000230
+SALINE,Salina Precinct 12,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",34,000230
+SALINE,Salina Precinct 12,Governor / Lt. Governor,,Republican,"Brownback, Sam",149,000230
+SALINE,Salina Precinct 13,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000240
+SALINE,Salina Precinct 13,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000240
+SALINE,Salina Precinct 13,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000240
+SALINE,Salina Precinct 14 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",158,00025A
+SALINE,Salina Precinct 14 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",33,00025A
+SALINE,Salina Precinct 14 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",163,00025A
+SALINE,Salina Precinct 15 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",152,00026A
+SALINE,Salina Precinct 15 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",25,00026A
+SALINE,Salina Precinct 15 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",114,00026A
+SALINE,Salina Precinct 16,Governor / Lt. Governor,,Democratic,"Davis, Paul",91,000270
+SALINE,Salina Precinct 16,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",23,000270
+SALINE,Salina Precinct 16,Governor / Lt. Governor,,Republican,"Brownback, Sam",104,000270
+SALINE,Salina Precinct 17,Governor / Lt. Governor,,Democratic,"Davis, Paul",122,000280
+SALINE,Salina Precinct 17,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",24,000280
+SALINE,Salina Precinct 17,Governor / Lt. Governor,,Republican,"Brownback, Sam",119,000280
+SALINE,Salina Precinct 18,Governor / Lt. Governor,,Democratic,"Davis, Paul",137,000290
+SALINE,Salina Precinct 18,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",28,000290
+SALINE,Salina Precinct 18,Governor / Lt. Governor,,Republican,"Brownback, Sam",138,000290
+SALINE,Salina Precinct 19,Governor / Lt. Governor,,Democratic,"Davis, Paul",188,000300
+SALINE,Salina Precinct 19,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",30,000300
+SALINE,Salina Precinct 19,Governor / Lt. Governor,,Republican,"Brownback, Sam",235,000300
+SALINE,Salina Precinct 20 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",493,00031A
+SALINE,Salina Precinct 20 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",31,00031A
+SALINE,Salina Precinct 20 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",516,00031A
+SALINE,Salina Precinct 21 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",362,00032A
+SALINE,Salina Precinct 21 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",33,00032A
+SALINE,Salina Precinct 21 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",422,00032A
+SALINE,Salina Precinct 22 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",297,00033A
+SALINE,Salina Precinct 22 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",28,00033A
+SALINE,Salina Precinct 22 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",366,00033A
+SALINE,Salina Precinct 23,Governor / Lt. Governor,,Democratic,"Davis, Paul",431,000340
+SALINE,Salina Precinct 23,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",43,000340
+SALINE,Salina Precinct 23,Governor / Lt. Governor,,Republican,"Brownback, Sam",428,000340
+SALINE,Salina Precinct 24,Governor / Lt. Governor,,Democratic,"Davis, Paul",149,000350
+SALINE,Salina Precinct 24,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,000350
+SALINE,Salina Precinct 24,Governor / Lt. Governor,,Republican,"Brownback, Sam",141,000350
+SALINE,Salina Precinct 25,Governor / Lt. Governor,,Democratic,"Davis, Paul",98,000360
+SALINE,Salina Precinct 25,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000360
+SALINE,Salina Precinct 25,Governor / Lt. Governor,,Republican,"Brownback, Sam",101,000360
+SALINE,Salina Precinct 26,Governor / Lt. Governor,,Democratic,"Davis, Paul",159,000370
+SALINE,Salina Precinct 26,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",26,000370
+SALINE,Salina Precinct 26,Governor / Lt. Governor,,Republican,"Brownback, Sam",118,000370
+SALINE,Salina Precinct 27,Governor / Lt. Governor,,Democratic,"Davis, Paul",186,000380
+SALINE,Salina Precinct 27,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,000380
+SALINE,Salina Precinct 27,Governor / Lt. Governor,,Republican,"Brownback, Sam",197,000380
+SALINE,Salina Precinct 28,Governor / Lt. Governor,,Democratic,"Davis, Paul",113,000390
+SALINE,Salina Precinct 28,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",23,000390
+SALINE,Salina Precinct 28,Governor / Lt. Governor,,Republican,"Brownback, Sam",140,000390
+SALINE,Salina Precinct 29,Governor / Lt. Governor,,Democratic,"Davis, Paul",211,000400
+SALINE,Salina Precinct 29,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",23,000400
+SALINE,Salina Precinct 29,Governor / Lt. Governor,,Republican,"Brownback, Sam",208,000400
+SALINE,Salina Precinct 30,Governor / Lt. Governor,,Democratic,"Davis, Paul",186,000410
+SALINE,Salina Precinct 30,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,000410
+SALINE,Salina Precinct 30,Governor / Lt. Governor,,Republican,"Brownback, Sam",183,000410
+SALINE,Salina Precinct 31 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",420,00042A
+SALINE,Salina Precinct 31 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",68,00042A
+SALINE,Salina Precinct 31 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",468,00042A
+SALINE,Salina Precinct 32,Governor / Lt. Governor,,Democratic,"Davis, Paul",111,000430
+SALINE,Salina Precinct 32,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",18,000430
+SALINE,Salina Precinct 32,Governor / Lt. Governor,,Republican,"Brownback, Sam",130,000430
+SALINE,Salina Precinct 33,Governor / Lt. Governor,,Democratic,"Davis, Paul",245,000440
+SALINE,Salina Precinct 33,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",24,000440
+SALINE,Salina Precinct 33,Governor / Lt. Governor,,Republican,"Brownback, Sam",258,000440
+SALINE,Salina Precinct 34,Governor / Lt. Governor,,Democratic,"Davis, Paul",380,000450
+SALINE,Salina Precinct 34,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",55,000450
+SALINE,Salina Precinct 34,Governor / Lt. Governor,,Republican,"Brownback, Sam",401,000450
+SALINE,Salina Precinct 35,Governor / Lt. Governor,,Democratic,"Davis, Paul",226,00046A
+SALINE,Salina Precinct 35,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",48,00046A
+SALINE,Salina Precinct 35,Governor / Lt. Governor,,Republican,"Brownback, Sam",249,00046A
+SALINE,Smokey Hill Township Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",38,00047B
+SALINE,Smokey Hill Township Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,00047B
+SALINE,Smokey Hill Township Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",62,00047B
+SALINE,Smoky View Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",127,000480
+SALINE,Smoky View Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",28,000480
+SALINE,Smoky View Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",174,000480
+SALINE,Smolan Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",112,000490
+SALINE,Smolan Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,000490
+SALINE,Smolan Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",172,000490
+SALINE,Solomon Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",62,000500
+SALINE,Solomon Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000500
+SALINE,Solomon Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",125,000500
+SALINE,Spring Creek Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",42,000510
+SALINE,Spring Creek Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,000510
+SALINE,Spring Creek Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",100,000510
+SALINE,Walnut Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",94,000520
+SALINE,Walnut Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000520
+SALINE,Walnut Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",136,000520
+SALINE,Elm Creek Township H69,Governor / Lt. Governor,,Democratic,"Davis, Paul",134,120020
+SALINE,Elm Creek Township H69,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",22,120020
+SALINE,Elm Creek Township H69,Governor / Lt. Governor,,Republican,"Brownback, Sam",228,120020
+SALINE,Elm Creek Township H71,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,120030
+SALINE,Elm Creek Township H71,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,120030
+SALINE,Elm Creek Township H71,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,120030
+SALINE,Washington Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",20,300010
+SALINE,Washington Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,300010
+SALINE,Washington Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",45,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900070
+SALINE,Salina Precinct 33 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900080
+SALINE,Salina Precinct 33 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900080
+SALINE,Salina Precinct 33 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900080
+SALINE,Salina Precinct 35 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900090
+SALINE,Salina Precinct 35 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900090
+SALINE,Salina Precinct 35 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900110
+SALINE,Cambria Township,Kansas House of Representatives,71,Republican,"Dierks, Diana",146,000010
+SALINE,Dayton Township,Kansas House of Representatives,71,Republican,"Dierks, Diana",37,000020
+SALINE,Eureka Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",205,000040
+SALINE,Falun Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",100,000050
+SALINE,Glendale Township,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",8,000060
+SALINE,Glendale Township,Kansas House of Representatives,69,Republican,"Claeys, J.R.",30,000060
+SALINE,Greeley Township,Kansas House of Representatives,71,Republican,"Dierks, Diana",335,000070
+SALINE,Gypsum Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",66,000080
+SALINE,Liberty Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",75,000090
+SALINE,Ohio Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",157,000100
+SALINE,Pleasant Valley Township,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",38,000110
+SALINE,Pleasant Valley Township,Kansas House of Representatives,69,Republican,"Claeys, J.R.",104,000110
+SALINE,Salina Precinct 01 Part A,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",114,00012A
+SALINE,Salina Precinct 01 Part A,Kansas House of Representatives,69,Republican,"Claeys, J.R.",122,00012A
+SALINE,Salina Precinct 02,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",113,00013A
+SALINE,Salina Precinct 02,Kansas House of Representatives,69,Republican,"Claeys, J.R.",125,00013A
+SALINE,Salina Precinct 03,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",81,000140
+SALINE,Salina Precinct 03,Kansas House of Representatives,69,Republican,"Claeys, J.R.",94,000140
+SALINE,Salina Precinct 04,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",127,000150
+SALINE,Salina Precinct 04,Kansas House of Representatives,69,Republican,"Claeys, J.R.",136,000150
+SALINE,Salina Precinct 05,Kansas House of Representatives,71,Republican,"Dierks, Diana",213,000160
+SALINE,Salina Precinct 06,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",79,000170
+SALINE,Salina Precinct 06,Kansas House of Representatives,69,Republican,"Claeys, J.R.",116,000170
+SALINE,Salina Precinct 07,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",122,000180
+SALINE,Salina Precinct 07,Kansas House of Representatives,69,Republican,"Claeys, J.R.",167,000180
+SALINE,Salina Precinct 08,Kansas House of Representatives,71,Republican,"Dierks, Diana",238,000190
+SALINE,Salina Precinct 09,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",145,000200
+SALINE,Salina Precinct 09,Kansas House of Representatives,69,Republican,"Claeys, J.R.",157,000200
+SALINE,Salina Precinct 10,Kansas House of Representatives,71,Republican,"Dierks, Diana",253,000210
+SALINE,Salina Precinct 11,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",88,000220
+SALINE,Salina Precinct 11,Kansas House of Representatives,69,Republican,"Claeys, J.R.",171,000220
+SALINE,Salina Precinct 12,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",199,000230
+SALINE,Salina Precinct 12,Kansas House of Representatives,69,Republican,"Claeys, J.R.",208,000230
+SALINE,Salina Precinct 13,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",107,000240
+SALINE,Salina Precinct 13,Kansas House of Representatives,69,Republican,"Claeys, J.R.",139,000240
+SALINE,Salina Precinct 14 Part A,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",142,00025A
+SALINE,Salina Precinct 14 Part A,Kansas House of Representatives,69,Republican,"Claeys, J.R.",205,00025A
+SALINE,Salina Precinct 15 Part A,Kansas House of Representatives,71,Republican,"Dierks, Diana",244,00026A
+SALINE,Salina Precinct 16,Kansas House of Representatives,71,Republican,"Dierks, Diana",185,000270
+SALINE,Salina Precinct 17,Kansas House of Representatives,71,Republican,"Dierks, Diana",231,000280
+SALINE,Salina Precinct 18,Kansas House of Representatives,71,Republican,"Dierks, Diana",263,000290
+SALINE,Salina Precinct 19,Kansas House of Representatives,71,Republican,"Dierks, Diana",430,000300
+SALINE,Salina Precinct 20 Part A,Kansas House of Representatives,71,Republican,"Dierks, Diana",826,00031A
+SALINE,Salina Precinct 21 Part A,Kansas House of Representatives,71,Republican,"Dierks, Diana",734,00032A
+SALINE,Salina Precinct 22 Part A,Kansas House of Representatives,71,Republican,"Dierks, Diana",632,00033A
+SALINE,Salina Precinct 23,Kansas House of Representatives,71,Republican,"Dierks, Diana",800,000340
+SALINE,Salina Precinct 24,Kansas House of Representatives,71,Republican,"Dierks, Diana",269,000350
+SALINE,Salina Precinct 25,Kansas House of Representatives,71,Republican,"Dierks, Diana",182,000360
+SALINE,Salina Precinct 26,Kansas House of Representatives,71,Republican,"Dierks, Diana",262,000370
+SALINE,Salina Precinct 27,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",149,000380
+SALINE,Salina Precinct 27,Kansas House of Representatives,69,Republican,"Claeys, J.R.",241,000380
+SALINE,Salina Precinct 28,Kansas House of Representatives,71,Republican,"Dierks, Diana",243,000390
+SALINE,Salina Precinct 29,Kansas House of Representatives,71,Republican,"Dierks, Diana",398,000400
+SALINE,Salina Precinct 30,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",136,000410
+SALINE,Salina Precinct 30,Kansas House of Representatives,69,Republican,"Claeys, J.R.",229,000410
+SALINE,Salina Precinct 31 Part A,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",310,00042A
+SALINE,Salina Precinct 31 Part A,Kansas House of Representatives,69,Republican,"Claeys, J.R.",632,00042A
+SALINE,Salina Precinct 32,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",72,000430
+SALINE,Salina Precinct 32,Kansas House of Representatives,69,Republican,"Claeys, J.R.",173,000430
+SALINE,Salina Precinct 33,Kansas House of Representatives,108,Republican,"Johnson, Steven",476,000440
+SALINE,Salina Precinct 34,Kansas House of Representatives,108,Republican,"Johnson, Steven",813,000450
+SALINE,Salina Precinct 35,Kansas House of Representatives,108,Republican,"Johnson, Steven",431,00046A
+SALINE,Smokey Hill Township Part B,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",28,00047B
+SALINE,Smokey Hill Township Part B,Kansas House of Representatives,69,Republican,"Claeys, J.R.",67,00047B
+SALINE,Smoky View Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",306,000480
+SALINE,Smolan Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",283,000490
+SALINE,Solomon Township,Kansas House of Representatives,71,Republican,"Dierks, Diana",158,000500
+SALINE,Spring Creek Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",144,000510
+SALINE,Walnut Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",231,000520
+SALINE,Elm Creek Township H69,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",96,120020
+SALINE,Elm Creek Township H69,Kansas House of Representatives,69,Republican,"Claeys, J.R.",279,120020
+SALINE,Elm Creek Township H71,Kansas House of Representatives,71,Republican,"Dierks, Diana",1,120030
+SALINE,Washington Township,Kansas House of Representatives,108,Republican,"Johnson, Steven",66,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Kansas House of Representatives,69,Republican,"Claeys, J.R.",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Kansas House of Representatives,69,Republican,"Claeys, J.R.",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,Kansas House of Representatives,71,Republican,"Dierks, Diana",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,Kansas House of Representatives,71,Republican,"Dierks, Diana",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,Kansas House of Representatives,71,Republican,"Dierks, Diana",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,Kansas House of Representatives,71,Republican,"Dierks, Diana",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,Kansas House of Representatives,71,Republican,"Dierks, Diana",0,900070
+SALINE,Salina Precinct 33 Exclave,Kansas House of Representatives,108,Republican,"Johnson, Steven",0,900080
+SALINE,Salina Precinct 35 Exclave,Kansas House of Representatives,108,Republican,"Johnson, Steven",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,Kansas House of Representatives,71,Republican,"Dierks, Diana",4,900100
+SALINE,Smokey Hill Township Part B Enclave 1,Kansas House of Representatives,69,Democratic,"Swartzendruber, Gary",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Kansas House of Representatives,69,Republican,"Claeys, J.R.",0,900110
+SALINE,Cambria Township,United States House of Representatives,1,Democratic,"Sherow, James E.",45,000010
+SALINE,Cambria Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",113,000010
+SALINE,Dayton Township,United States House of Representatives,1,Democratic,"Sherow, James E.",16,000020
+SALINE,Dayton Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",29,000020
+SALINE,Eureka Township,United States House of Representatives,1,Democratic,"Sherow, James E.",63,000040
+SALINE,Eureka Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",158,000040
+SALINE,Falun Township,United States House of Representatives,1,Democratic,"Sherow, James E.",27,000050
+SALINE,Falun Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",80,000050
+SALINE,Glendale Township,United States House of Representatives,1,Democratic,"Sherow, James E.",9,000060
+SALINE,Glendale Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",29,000060
+SALINE,Greeley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",112,000070
+SALINE,Greeley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",268,000070
+SALINE,Gypsum Township,United States House of Representatives,1,Democratic,"Sherow, James E.",8,000080
+SALINE,Gypsum Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",59,000080
+SALINE,Liberty Township,United States House of Representatives,1,Democratic,"Sherow, James E.",22,000090
+SALINE,Liberty Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",56,000090
+SALINE,Ohio Township,United States House of Representatives,1,Democratic,"Sherow, James E.",48,000100
+SALINE,Ohio Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",124,000100
+SALINE,Pleasant Valley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",36,000110
+SALINE,Pleasant Valley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",111,000110
+SALINE,Salina Precinct 01 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",113,00012A
+SALINE,Salina Precinct 01 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",123,00012A
+SALINE,Salina Precinct 02,United States House of Representatives,1,Democratic,"Sherow, James E.",97,00013A
+SALINE,Salina Precinct 02,United States House of Representatives,1,Republican,"Huelskamp, Tim",142,00013A
+SALINE,Salina Precinct 03,United States House of Representatives,1,Democratic,"Sherow, James E.",86,000140
+SALINE,Salina Precinct 03,United States House of Representatives,1,Republican,"Huelskamp, Tim",92,000140
+SALINE,Salina Precinct 04,United States House of Representatives,1,Democratic,"Sherow, James E.",141,000150
+SALINE,Salina Precinct 04,United States House of Representatives,1,Republican,"Huelskamp, Tim",126,000150
+SALINE,Salina Precinct 05,United States House of Representatives,1,Democratic,"Sherow, James E.",110,000160
+SALINE,Salina Precinct 05,United States House of Representatives,1,Republican,"Huelskamp, Tim",138,000160
+SALINE,Salina Precinct 06,United States House of Representatives,1,Democratic,"Sherow, James E.",95,000170
+SALINE,Salina Precinct 06,United States House of Representatives,1,Republican,"Huelskamp, Tim",104,000170
+SALINE,Salina Precinct 07,United States House of Representatives,1,Democratic,"Sherow, James E.",145,000180
+SALINE,Salina Precinct 07,United States House of Representatives,1,Republican,"Huelskamp, Tim",159,000180
+SALINE,Salina Precinct 08,United States House of Representatives,1,Democratic,"Sherow, James E.",144,000190
+SALINE,Salina Precinct 08,United States House of Representatives,1,Republican,"Huelskamp, Tim",141,000190
+SALINE,Salina Precinct 09,United States House of Representatives,1,Democratic,"Sherow, James E.",140,000200
+SALINE,Salina Precinct 09,United States House of Representatives,1,Republican,"Huelskamp, Tim",170,000200
+SALINE,Salina Precinct 10,United States House of Representatives,1,Democratic,"Sherow, James E.",146,000210
+SALINE,Salina Precinct 10,United States House of Representatives,1,Republican,"Huelskamp, Tim",150,000210
+SALINE,Salina Precinct 11,United States House of Representatives,1,Democratic,"Sherow, James E.",97,000220
+SALINE,Salina Precinct 11,United States House of Representatives,1,Republican,"Huelskamp, Tim",164,000220
+SALINE,Salina Precinct 12,United States House of Representatives,1,Democratic,"Sherow, James E.",214,000230
+SALINE,Salina Precinct 12,United States House of Representatives,1,Republican,"Huelskamp, Tim",202,000230
+SALINE,Salina Precinct 13,United States House of Representatives,1,Democratic,"Sherow, James E.",102,000240
+SALINE,Salina Precinct 13,United States House of Representatives,1,Republican,"Huelskamp, Tim",145,000240
+SALINE,Salina Precinct 14 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",132,00025A
+SALINE,Salina Precinct 14 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",219,00025A
+SALINE,Salina Precinct 15 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",148,00026A
+SALINE,Salina Precinct 15 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",133,00026A
+SALINE,Salina Precinct 16,United States House of Representatives,1,Democratic,"Sherow, James E.",85,000270
+SALINE,Salina Precinct 16,United States House of Representatives,1,Republican,"Huelskamp, Tim",130,000270
+SALINE,Salina Precinct 17,United States House of Representatives,1,Democratic,"Sherow, James E.",106,000280
+SALINE,Salina Precinct 17,United States House of Representatives,1,Republican,"Huelskamp, Tim",154,000280
+SALINE,Salina Precinct 18,United States House of Representatives,1,Democratic,"Sherow, James E.",121,000290
+SALINE,Salina Precinct 18,United States House of Representatives,1,Republican,"Huelskamp, Tim",181,000290
+SALINE,Salina Precinct 19,United States House of Representatives,1,Democratic,"Sherow, James E.",160,000300
+SALINE,Salina Precinct 19,United States House of Representatives,1,Republican,"Huelskamp, Tim",274,000300
+SALINE,Salina Precinct 20 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",463,00031A
+SALINE,Salina Precinct 20 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",536,00031A
+SALINE,Salina Precinct 21 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",333,00032A
+SALINE,Salina Precinct 21 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",514,00032A
+SALINE,Salina Precinct 22 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",260,00033A
+SALINE,Salina Precinct 22 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",424,00033A
+SALINE,Salina Precinct 23,United States House of Representatives,1,Democratic,"Sherow, James E.",355,000340
+SALINE,Salina Precinct 23,United States House of Representatives,1,Republican,"Huelskamp, Tim",536,000340
+SALINE,Salina Precinct 24,United States House of Representatives,1,Democratic,"Sherow, James E.",124,000350
+SALINE,Salina Precinct 24,United States House of Representatives,1,Republican,"Huelskamp, Tim",177,000350
+SALINE,Salina Precinct 25,United States House of Representatives,1,Democratic,"Sherow, James E.",94,000360
+SALINE,Salina Precinct 25,United States House of Representatives,1,Republican,"Huelskamp, Tim",119,000360
+SALINE,Salina Precinct 26,United States House of Representatives,1,Democratic,"Sherow, James E.",132,000370
+SALINE,Salina Precinct 26,United States House of Representatives,1,Republican,"Huelskamp, Tim",161,000370
+SALINE,Salina Precinct 27,United States House of Representatives,1,Democratic,"Sherow, James E.",157,000380
+SALINE,Salina Precinct 27,United States House of Representatives,1,Republican,"Huelskamp, Tim",247,000380
+SALINE,Salina Precinct 28,United States House of Representatives,1,Democratic,"Sherow, James E.",94,000390
+SALINE,Salina Precinct 28,United States House of Representatives,1,Republican,"Huelskamp, Tim",181,000390
+SALINE,Salina Precinct 29,United States House of Representatives,1,Democratic,"Sherow, James E.",157,000400
+SALINE,Salina Precinct 29,United States House of Representatives,1,Republican,"Huelskamp, Tim",276,000400
+SALINE,Salina Precinct 30,United States House of Representatives,1,Democratic,"Sherow, James E.",155,000410
+SALINE,Salina Precinct 30,United States House of Representatives,1,Republican,"Huelskamp, Tim",226,000410
+SALINE,Salina Precinct 31 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",357,00042A
+SALINE,Salina Precinct 31 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",590,00042A
+SALINE,Salina Precinct 32,United States House of Representatives,1,Democratic,"Sherow, James E.",83,000430
+SALINE,Salina Precinct 32,United States House of Representatives,1,Republican,"Huelskamp, Tim",170,000430
+SALINE,Salina Precinct 33,United States House of Representatives,1,Democratic,"Sherow, James E.",192,000440
+SALINE,Salina Precinct 33,United States House of Representatives,1,Republican,"Huelskamp, Tim",320,000440
+SALINE,Salina Precinct 34,United States House of Representatives,1,Democratic,"Sherow, James E.",321,000450
+SALINE,Salina Precinct 34,United States House of Representatives,1,Republican,"Huelskamp, Tim",511,000450
+SALINE,Salina Precinct 35,United States House of Representatives,1,Democratic,"Sherow, James E.",205,00046A
+SALINE,Salina Precinct 35,United States House of Representatives,1,Republican,"Huelskamp, Tim",314,00046A
+SALINE,Smokey Hill Township Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",34,00047B
+SALINE,Smokey Hill Township Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",69,00047B
+SALINE,Smoky View Township,United States House of Representatives,1,Democratic,"Sherow, James E.",109,000480
+SALINE,Smoky View Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",216,000480
+SALINE,Smolan Township,United States House of Representatives,1,Democratic,"Sherow, James E.",95,000490
+SALINE,Smolan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",202,000490
+SALINE,Solomon Township,United States House of Representatives,1,Democratic,"Sherow, James E.",49,000500
+SALINE,Solomon Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",141,000500
+SALINE,Spring Creek Township,United States House of Representatives,1,Democratic,"Sherow, James E.",45,000510
+SALINE,Spring Creek Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",110,000510
+SALINE,Walnut Township,United States House of Representatives,1,Democratic,"Sherow, James E.",83,000520
+SALINE,Walnut Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",161,000520
+SALINE,Elm Creek Township H69,United States House of Representatives,1,Democratic,"Sherow, James E.",107,120020
+SALINE,Elm Creek Township H69,United States House of Representatives,1,Republican,"Huelskamp, Tim",273,120020
+SALINE,Elm Creek Township H71,United States House of Representatives,1,Democratic,"Sherow, James E.",0,120030
+SALINE,Elm Creek Township H71,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,120030
+SALINE,Washington Township,United States House of Representatives,1,Democratic,"Sherow, James E.",17,300010
+SALINE,Washington Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",53,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900070
+SALINE,Salina Precinct 33 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900080
+SALINE,Salina Precinct 33 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900080
+SALINE,Salina Precinct 35 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900090
+SALINE,Salina Precinct 35 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900110
+SALINE,Cambria Township,Attorney General,,Democratic,"Kotich, A.J.",25,000010
+SALINE,Cambria Township,Attorney General,,Republican,"Schmidt, Derek",131,000010
+SALINE,Dayton Township,Attorney General,,Democratic,"Kotich, A.J.",13,000020
+SALINE,Dayton Township,Attorney General,,Republican,"Schmidt, Derek",31,000020
+SALINE,Eureka Township,Attorney General,,Democratic,"Kotich, A.J.",41,000040
+SALINE,Eureka Township,Attorney General,,Republican,"Schmidt, Derek",176,000040
+SALINE,Falun Township,Attorney General,,Democratic,"Kotich, A.J.",15,000050
+SALINE,Falun Township,Attorney General,,Republican,"Schmidt, Derek",88,000050
+SALINE,Glendale Township,Attorney General,,Democratic,"Kotich, A.J.",7,000060
+SALINE,Glendale Township,Attorney General,,Republican,"Schmidt, Derek",31,000060
+SALINE,Greeley Township,Attorney General,,Democratic,"Kotich, A.J.",60,000070
+SALINE,Greeley Township,Attorney General,,Republican,"Schmidt, Derek",320,000070
+SALINE,Gypsum Township,Attorney General,,Democratic,"Kotich, A.J.",3,000080
+SALINE,Gypsum Township,Attorney General,,Republican,"Schmidt, Derek",64,000080
+SALINE,Liberty Township,Attorney General,,Democratic,"Kotich, A.J.",17,000090
+SALINE,Liberty Township,Attorney General,,Republican,"Schmidt, Derek",61,000090
+SALINE,Ohio Township,Attorney General,,Democratic,"Kotich, A.J.",33,000100
+SALINE,Ohio Township,Attorney General,,Republican,"Schmidt, Derek",137,000100
+SALINE,Pleasant Valley Township,Attorney General,,Democratic,"Kotich, A.J.",25,000110
+SALINE,Pleasant Valley Township,Attorney General,,Republican,"Schmidt, Derek",122,000110
+SALINE,Salina Precinct 01 Part A,Attorney General,,Democratic,"Kotich, A.J.",91,00012A
+SALINE,Salina Precinct 01 Part A,Attorney General,,Republican,"Schmidt, Derek",143,00012A
+SALINE,Salina Precinct 02,Attorney General,,Democratic,"Kotich, A.J.",88,00013A
+SALINE,Salina Precinct 02,Attorney General,,Republican,"Schmidt, Derek",149,00013A
+SALINE,Salina Precinct 03,Attorney General,,Democratic,"Kotich, A.J.",67,000140
+SALINE,Salina Precinct 03,Attorney General,,Republican,"Schmidt, Derek",110,000140
+SALINE,Salina Precinct 04,Attorney General,,Democratic,"Kotich, A.J.",120,000150
+SALINE,Salina Precinct 04,Attorney General,,Republican,"Schmidt, Derek",148,000150
+SALINE,Salina Precinct 05,Attorney General,,Democratic,"Kotich, A.J.",95,000160
+SALINE,Salina Precinct 05,Attorney General,,Republican,"Schmidt, Derek",146,000160
+SALINE,Salina Precinct 06,Attorney General,,Democratic,"Kotich, A.J.",76,000170
+SALINE,Salina Precinct 06,Attorney General,,Republican,"Schmidt, Derek",123,000170
+SALINE,Salina Precinct 07,Attorney General,,Democratic,"Kotich, A.J.",115,000180
+SALINE,Salina Precinct 07,Attorney General,,Republican,"Schmidt, Derek",181,000180
+SALINE,Salina Precinct 08,Attorney General,,Democratic,"Kotich, A.J.",108,000190
+SALINE,Salina Precinct 08,Attorney General,,Republican,"Schmidt, Derek",172,000190
+SALINE,Salina Precinct 09,Attorney General,,Democratic,"Kotich, A.J.",112,000200
+SALINE,Salina Precinct 09,Attorney General,,Republican,"Schmidt, Derek",190,000200
+SALINE,Salina Precinct 10,Attorney General,,Democratic,"Kotich, A.J.",121,000210
+SALINE,Salina Precinct 10,Attorney General,,Republican,"Schmidt, Derek",172,000210
+SALINE,Salina Precinct 11,Attorney General,,Democratic,"Kotich, A.J.",73,000220
+SALINE,Salina Precinct 11,Attorney General,,Republican,"Schmidt, Derek",183,000220
+SALINE,Salina Precinct 12,Attorney General,,Democratic,"Kotich, A.J.",167,000230
+SALINE,Salina Precinct 12,Attorney General,,Republican,"Schmidt, Derek",246,000230
+SALINE,Salina Precinct 13,Attorney General,,Democratic,"Kotich, A.J.",77,000240
+SALINE,Salina Precinct 13,Attorney General,,Republican,"Schmidt, Derek",170,000240
+SALINE,Salina Precinct 14 Part A,Attorney General,,Democratic,"Kotich, A.J.",106,00025A
+SALINE,Salina Precinct 14 Part A,Attorney General,,Republican,"Schmidt, Derek",242,00025A
+SALINE,Salina Precinct 15 Part A,Attorney General,,Democratic,"Kotich, A.J.",106,00026A
+SALINE,Salina Precinct 15 Part A,Attorney General,,Republican,"Schmidt, Derek",174,00026A
+SALINE,Salina Precinct 16,Attorney General,,Democratic,"Kotich, A.J.",75,000270
+SALINE,Salina Precinct 16,Attorney General,,Republican,"Schmidt, Derek",139,000270
+SALINE,Salina Precinct 17,Attorney General,,Democratic,"Kotich, A.J.",87,000280
+SALINE,Salina Precinct 17,Attorney General,,Republican,"Schmidt, Derek",171,000280
+SALINE,Salina Precinct 18,Attorney General,,Democratic,"Kotich, A.J.",83,000290
+SALINE,Salina Precinct 18,Attorney General,,Republican,"Schmidt, Derek",216,000290
+SALINE,Salina Precinct 19,Attorney General,,Democratic,"Kotich, A.J.",108,000300
+SALINE,Salina Precinct 19,Attorney General,,Republican,"Schmidt, Derek",317,000300
+SALINE,Salina Precinct 20 Part A,Attorney General,,Democratic,"Kotich, A.J.",282,00031A
+SALINE,Salina Precinct 20 Part A,Attorney General,,Republican,"Schmidt, Derek",748,00031A
+SALINE,Salina Precinct 21 Part A,Attorney General,,Democratic,"Kotich, A.J.",183,00032A
+SALINE,Salina Precinct 21 Part A,Attorney General,,Republican,"Schmidt, Derek",606,00032A
+SALINE,Salina Precinct 22 Part A,Attorney General,,Democratic,"Kotich, A.J.",150,00033A
+SALINE,Salina Precinct 22 Part A,Attorney General,,Republican,"Schmidt, Derek",526,00033A
+SALINE,Salina Precinct 23,Attorney General,,Democratic,"Kotich, A.J.",237,000340
+SALINE,Salina Precinct 23,Attorney General,,Republican,"Schmidt, Derek",637,000340
+SALINE,Salina Precinct 24,Attorney General,,Democratic,"Kotich, A.J.",86,000350
+SALINE,Salina Precinct 24,Attorney General,,Republican,"Schmidt, Derek",211,000350
+SALINE,Salina Precinct 25,Attorney General,,Democratic,"Kotich, A.J.",68,000360
+SALINE,Salina Precinct 25,Attorney General,,Republican,"Schmidt, Derek",142,000360
+SALINE,Salina Precinct 26,Attorney General,,Democratic,"Kotich, A.J.",100,000370
+SALINE,Salina Precinct 26,Attorney General,,Republican,"Schmidt, Derek",197,000370
+SALINE,Salina Precinct 27,Attorney General,,Democratic,"Kotich, A.J.",112,000380
+SALINE,Salina Precinct 27,Attorney General,,Republican,"Schmidt, Derek",287,000380
+SALINE,Salina Precinct 28,Attorney General,,Democratic,"Kotich, A.J.",73,000390
+SALINE,Salina Precinct 28,Attorney General,,Republican,"Schmidt, Derek",194,000390
+SALINE,Salina Precinct 29,Attorney General,,Democratic,"Kotich, A.J.",117,000400
+SALINE,Salina Precinct 29,Attorney General,,Republican,"Schmidt, Derek",308,000400
+SALINE,Salina Precinct 30,Attorney General,,Democratic,"Kotich, A.J.",114,000410
+SALINE,Salina Precinct 30,Attorney General,,Republican,"Schmidt, Derek",260,000410
+SALINE,Salina Precinct 31 Part A,Attorney General,,Democratic,"Kotich, A.J.",225,00042A
+SALINE,Salina Precinct 31 Part A,Attorney General,,Republican,"Schmidt, Derek",706,00042A
+SALINE,Salina Precinct 32,Attorney General,,Democratic,"Kotich, A.J.",69,000430
+SALINE,Salina Precinct 32,Attorney General,,Republican,"Schmidt, Derek",182,000430
+SALINE,Salina Precinct 33,Attorney General,,Democratic,"Kotich, A.J.",129,000440
+SALINE,Salina Precinct 33,Attorney General,,Republican,"Schmidt, Derek",380,000440
+SALINE,Salina Precinct 34,Attorney General,,Democratic,"Kotich, A.J.",218,000450
+SALINE,Salina Precinct 34,Attorney General,,Republican,"Schmidt, Derek",602,000450
+SALINE,Salina Precinct 35,Attorney General,,Democratic,"Kotich, A.J.",164,00046A
+SALINE,Salina Precinct 35,Attorney General,,Republican,"Schmidt, Derek",340,00046A
+SALINE,Smokey Hill Township Part B,Attorney General,,Democratic,"Kotich, A.J.",15,00047B
+SALINE,Smokey Hill Township Part B,Attorney General,,Republican,"Schmidt, Derek",86,00047B
+SALINE,Smoky View Township,Attorney General,,Democratic,"Kotich, A.J.",78,000480
+SALINE,Smoky View Township,Attorney General,,Republican,"Schmidt, Derek",245,000480
+SALINE,Smolan Township,Attorney General,,Democratic,"Kotich, A.J.",56,000490
+SALINE,Smolan Township,Attorney General,,Republican,"Schmidt, Derek",240,000490
+SALINE,Solomon Township,Attorney General,,Democratic,"Kotich, A.J.",33,000500
+SALINE,Solomon Township,Attorney General,,Republican,"Schmidt, Derek",153,000500
+SALINE,Spring Creek Township,Attorney General,,Democratic,"Kotich, A.J.",27,000510
+SALINE,Spring Creek Township,Attorney General,,Republican,"Schmidt, Derek",126,000510
+SALINE,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",47,000520
+SALINE,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",195,000520
+SALINE,Elm Creek Township H69,Attorney General,,Democratic,"Kotich, A.J.",64,120020
+SALINE,Elm Creek Township H69,Attorney General,,Republican,"Schmidt, Derek",313,120020
+SALINE,Elm Creek Township H71,Attorney General,,Democratic,"Kotich, A.J.",0,120030
+SALINE,Elm Creek Township H71,Attorney General,,Republican,"Schmidt, Derek",0,120030
+SALINE,Washington Township,Attorney General,,Democratic,"Kotich, A.J.",10,300010
+SALINE,Washington Township,Attorney General,,Republican,"Schmidt, Derek",59,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,Attorney General,,Democratic,"Kotich, A.J.",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,Attorney General,,Republican,"Schmidt, Derek",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,Attorney General,,Democratic,"Kotich, A.J.",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,Attorney General,,Republican,"Schmidt, Derek",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900070
+SALINE,Salina Precinct 33 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900080
+SALINE,Salina Precinct 33 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900080
+SALINE,Salina Precinct 35 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900090
+SALINE,Salina Precinct 35 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900110
+SALINE,Cambria Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000010
+SALINE,Cambria Township,Commissioner of Insurance,,Republican,"Selzer, Ken",120,000010
+SALINE,Dayton Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,000020
+SALINE,Dayton Township,Commissioner of Insurance,,Republican,"Selzer, Ken",28,000020
+SALINE,Eureka Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,000040
+SALINE,Eureka Township,Commissioner of Insurance,,Republican,"Selzer, Ken",163,000040
+SALINE,Falun Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000050
+SALINE,Falun Township,Commissioner of Insurance,,Republican,"Selzer, Ken",85,000050
+SALINE,Glendale Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,000060
+SALINE,Glendale Township,Commissioner of Insurance,,Republican,"Selzer, Ken",29,000060
+SALINE,Greeley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,000070
+SALINE,Greeley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",298,000070
+SALINE,Gypsum Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000080
+SALINE,Gypsum Township,Commissioner of Insurance,,Republican,"Selzer, Ken",61,000080
+SALINE,Liberty Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000090
+SALINE,Liberty Township,Commissioner of Insurance,,Republican,"Selzer, Ken",59,000090
+SALINE,Ohio Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000100
+SALINE,Ohio Township,Commissioner of Insurance,,Republican,"Selzer, Ken",127,000100
+SALINE,Pleasant Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,000110
+SALINE,Pleasant Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",115,000110
+SALINE,Salina Precinct 01 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",109,00012A
+SALINE,Salina Precinct 01 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",120,00012A
+SALINE,Salina Precinct 02,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,00013A
+SALINE,Salina Precinct 02,Commissioner of Insurance,,Republican,"Selzer, Ken",138,00013A
+SALINE,Salina Precinct 03,Commissioner of Insurance,,Democratic,"Anderson, Dennis",81,000140
+SALINE,Salina Precinct 03,Commissioner of Insurance,,Republican,"Selzer, Ken",92,000140
+SALINE,Salina Precinct 04,Commissioner of Insurance,,Democratic,"Anderson, Dennis",135,000150
+SALINE,Salina Precinct 04,Commissioner of Insurance,,Republican,"Selzer, Ken",133,000150
+SALINE,Salina Precinct 05,Commissioner of Insurance,,Democratic,"Anderson, Dennis",104,000160
+SALINE,Salina Precinct 05,Commissioner of Insurance,,Republican,"Selzer, Ken",137,000160
+SALINE,Salina Precinct 06,Commissioner of Insurance,,Democratic,"Anderson, Dennis",94,000170
+SALINE,Salina Precinct 06,Commissioner of Insurance,,Republican,"Selzer, Ken",103,000170
+SALINE,Salina Precinct 07,Commissioner of Insurance,,Democratic,"Anderson, Dennis",133,000180
+SALINE,Salina Precinct 07,Commissioner of Insurance,,Republican,"Selzer, Ken",155,000180
+SALINE,Salina Precinct 08,Commissioner of Insurance,,Democratic,"Anderson, Dennis",123,000190
+SALINE,Salina Precinct 08,Commissioner of Insurance,,Republican,"Selzer, Ken",152,000190
+SALINE,Salina Precinct 09,Commissioner of Insurance,,Democratic,"Anderson, Dennis",127,000200
+SALINE,Salina Precinct 09,Commissioner of Insurance,,Republican,"Selzer, Ken",173,000200
+SALINE,Salina Precinct 10,Commissioner of Insurance,,Democratic,"Anderson, Dennis",130,000210
+SALINE,Salina Precinct 10,Commissioner of Insurance,,Republican,"Selzer, Ken",158,000210
+SALINE,Salina Precinct 11,Commissioner of Insurance,,Democratic,"Anderson, Dennis",84,000220
+SALINE,Salina Precinct 11,Commissioner of Insurance,,Republican,"Selzer, Ken",165,000220
+SALINE,Salina Precinct 12,Commissioner of Insurance,,Democratic,"Anderson, Dennis",190,000230
+SALINE,Salina Precinct 12,Commissioner of Insurance,,Republican,"Selzer, Ken",211,000230
+SALINE,Salina Precinct 13,Commissioner of Insurance,,Democratic,"Anderson, Dennis",99,000240
+SALINE,Salina Precinct 13,Commissioner of Insurance,,Republican,"Selzer, Ken",144,000240
+SALINE,Salina Precinct 14 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",130,00025A
+SALINE,Salina Precinct 14 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",212,00025A
+SALINE,Salina Precinct 15 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",134,00026A
+SALINE,Salina Precinct 15 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",136,00026A
+SALINE,Salina Precinct 16,Commissioner of Insurance,,Democratic,"Anderson, Dennis",74,000270
+SALINE,Salina Precinct 16,Commissioner of Insurance,,Republican,"Selzer, Ken",129,000270
+SALINE,Salina Precinct 17,Commissioner of Insurance,,Democratic,"Anderson, Dennis",106,000280
+SALINE,Salina Precinct 17,Commissioner of Insurance,,Republican,"Selzer, Ken",146,000280
+SALINE,Salina Precinct 18,Commissioner of Insurance,,Democratic,"Anderson, Dennis",96,000290
+SALINE,Salina Precinct 18,Commissioner of Insurance,,Republican,"Selzer, Ken",193,000290
+SALINE,Salina Precinct 19,Commissioner of Insurance,,Democratic,"Anderson, Dennis",122,000300
+SALINE,Salina Precinct 19,Commissioner of Insurance,,Republican,"Selzer, Ken",298,000300
+SALINE,Salina Precinct 20 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",311,00031A
+SALINE,Salina Precinct 20 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",710,00031A
+SALINE,Salina Precinct 21 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",236,00032A
+SALINE,Salina Precinct 21 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",531,00032A
+SALINE,Salina Precinct 22 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",171,00033A
+SALINE,Salina Precinct 22 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",495,00033A
+SALINE,Salina Precinct 23,Commissioner of Insurance,,Democratic,"Anderson, Dennis",290,000340
+SALINE,Salina Precinct 23,Commissioner of Insurance,,Republican,"Selzer, Ken",568,000340
+SALINE,Salina Precinct 24,Commissioner of Insurance,,Democratic,"Anderson, Dennis",112,000350
+SALINE,Salina Precinct 24,Commissioner of Insurance,,Republican,"Selzer, Ken",178,000350
+SALINE,Salina Precinct 25,Commissioner of Insurance,,Democratic,"Anderson, Dennis",79,000360
+SALINE,Salina Precinct 25,Commissioner of Insurance,,Republican,"Selzer, Ken",126,000360
+SALINE,Salina Precinct 26,Commissioner of Insurance,,Democratic,"Anderson, Dennis",116,000370
+SALINE,Salina Precinct 26,Commissioner of Insurance,,Republican,"Selzer, Ken",174,000370
+SALINE,Salina Precinct 27,Commissioner of Insurance,,Democratic,"Anderson, Dennis",138,000380
+SALINE,Salina Precinct 27,Commissioner of Insurance,,Republican,"Selzer, Ken",255,000380
+SALINE,Salina Precinct 28,Commissioner of Insurance,,Democratic,"Anderson, Dennis",78,000390
+SALINE,Salina Precinct 28,Commissioner of Insurance,,Republican,"Selzer, Ken",185,000390
+SALINE,Salina Precinct 29,Commissioner of Insurance,,Democratic,"Anderson, Dennis",137,000400
+SALINE,Salina Precinct 29,Commissioner of Insurance,,Republican,"Selzer, Ken",281,000400
+SALINE,Salina Precinct 30,Commissioner of Insurance,,Democratic,"Anderson, Dennis",133,000410
+SALINE,Salina Precinct 30,Commissioner of Insurance,,Republican,"Selzer, Ken",237,000410
+SALINE,Salina Precinct 31 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",276,00042A
+SALINE,Salina Precinct 31 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",632,00042A
+SALINE,Salina Precinct 32,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,000430
+SALINE,Salina Precinct 32,Commissioner of Insurance,,Republican,"Selzer, Ken",170,000430
+SALINE,Salina Precinct 33,Commissioner of Insurance,,Democratic,"Anderson, Dennis",152,000440
+SALINE,Salina Precinct 33,Commissioner of Insurance,,Republican,"Selzer, Ken",341,000440
+SALINE,Salina Precinct 34,Commissioner of Insurance,,Democratic,"Anderson, Dennis",275,000450
+SALINE,Salina Precinct 34,Commissioner of Insurance,,Republican,"Selzer, Ken",540,000450
+SALINE,Salina Precinct 35,Commissioner of Insurance,,Democratic,"Anderson, Dennis",189,00046A
+SALINE,Salina Precinct 35,Commissioner of Insurance,,Republican,"Selzer, Ken",308,00046A
+SALINE,Smokey Hill Township Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",26,00047B
+SALINE,Smokey Hill Township Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",71,00047B
+SALINE,Smoky View Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",76,000480
+SALINE,Smoky View Township,Commissioner of Insurance,,Republican,"Selzer, Ken",241,000480
+SALINE,Smolan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",71,000490
+SALINE,Smolan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",221,000490
+SALINE,Solomon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",42,000500
+SALINE,Solomon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",141,000500
+SALINE,Spring Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000510
+SALINE,Spring Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",109,000510
+SALINE,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",55,000520
+SALINE,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",180,000520
+SALINE,Elm Creek Township H69,Commissioner of Insurance,,Democratic,"Anderson, Dennis",90,120020
+SALINE,Elm Creek Township H69,Commissioner of Insurance,,Republican,"Selzer, Ken",287,120020
+SALINE,Elm Creek Township H71,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120030
+SALINE,Elm Creek Township H71,Commissioner of Insurance,,Republican,"Selzer, Ken",0,120030
+SALINE,Washington Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,300010
+SALINE,Washington Township,Commissioner of Insurance,,Republican,"Selzer, Ken",55,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900070
+SALINE,Salina Precinct 33 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900080
+SALINE,Salina Precinct 33 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900080
+SALINE,Salina Precinct 35 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900090
+SALINE,Salina Precinct 35 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900110
+SALINE,Cambria Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",50,000010
+SALINE,Cambria Township,Secretary of State,,Republican,"Kobach, Kris",108,000010
+SALINE,Dayton Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",18,000020
+SALINE,Dayton Township,Secretary of State,,Republican,"Kobach, Kris",26,000020
+SALINE,Eureka Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",61,000040
+SALINE,Eureka Township,Secretary of State,,Republican,"Kobach, Kris",158,000040
+SALINE,Falun Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",33,000050
+SALINE,Falun Township,Secretary of State,,Republican,"Kobach, Kris",75,000050
+SALINE,Glendale Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000060
+SALINE,Glendale Township,Secretary of State,,Republican,"Kobach, Kris",30,000060
+SALINE,Greeley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",103,000070
+SALINE,Greeley Township,Secretary of State,,Republican,"Kobach, Kris",281,000070
+SALINE,Gypsum Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,000080
+SALINE,Gypsum Township,Secretary of State,,Republican,"Kobach, Kris",59,000080
+SALINE,Liberty Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",26,000090
+SALINE,Liberty Township,Secretary of State,,Republican,"Kobach, Kris",53,000090
+SALINE,Ohio Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",59,000100
+SALINE,Ohio Township,Secretary of State,,Republican,"Kobach, Kris",113,000100
+SALINE,Pleasant Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000110
+SALINE,Pleasant Valley Township,Secretary of State,,Republican,"Kobach, Kris",109,000110
+SALINE,Salina Precinct 01 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",117,00012A
+SALINE,Salina Precinct 01 Part A,Secretary of State,,Republican,"Kobach, Kris",120,00012A
+SALINE,Salina Precinct 02,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",109,00013A
+SALINE,Salina Precinct 02,Secretary of State,,Republican,"Kobach, Kris",127,00013A
+SALINE,Salina Precinct 03,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",90,000140
+SALINE,Salina Precinct 03,Secretary of State,,Republican,"Kobach, Kris",87,000140
+SALINE,Salina Precinct 04,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",147,000150
+SALINE,Salina Precinct 04,Secretary of State,,Republican,"Kobach, Kris",124,000150
+SALINE,Salina Precinct 05,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",109,000160
+SALINE,Salina Precinct 05,Secretary of State,,Republican,"Kobach, Kris",137,000160
+SALINE,Salina Precinct 06,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",98,000170
+SALINE,Salina Precinct 06,Secretary of State,,Republican,"Kobach, Kris",102,000170
+SALINE,Salina Precinct 07,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",145,000180
+SALINE,Salina Precinct 07,Secretary of State,,Republican,"Kobach, Kris",157,000180
+SALINE,Salina Precinct 08,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",146,000190
+SALINE,Salina Precinct 08,Secretary of State,,Republican,"Kobach, Kris",140,000190
+SALINE,Salina Precinct 09,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",152,000200
+SALINE,Salina Precinct 09,Secretary of State,,Republican,"Kobach, Kris",159,000200
+SALINE,Salina Precinct 10,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",149,000210
+SALINE,Salina Precinct 10,Secretary of State,,Republican,"Kobach, Kris",148,000210
+SALINE,Salina Precinct 11,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",100,000220
+SALINE,Salina Precinct 11,Secretary of State,,Republican,"Kobach, Kris",160,000220
+SALINE,Salina Precinct 12,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",214,000230
+SALINE,Salina Precinct 12,Secretary of State,,Republican,"Kobach, Kris",202,000230
+SALINE,Salina Precinct 13,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",115,000240
+SALINE,Salina Precinct 13,Secretary of State,,Republican,"Kobach, Kris",133,000240
+SALINE,Salina Precinct 14 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",146,00025A
+SALINE,Salina Precinct 14 Part A,Secretary of State,,Republican,"Kobach, Kris",206,00025A
+SALINE,Salina Precinct 15 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",141,00026A
+SALINE,Salina Precinct 15 Part A,Secretary of State,,Republican,"Kobach, Kris",140,00026A
+SALINE,Salina Precinct 16,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",86,000270
+SALINE,Salina Precinct 16,Secretary of State,,Republican,"Kobach, Kris",130,000270
+SALINE,Salina Precinct 17,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",111,000280
+SALINE,Salina Precinct 17,Secretary of State,,Republican,"Kobach, Kris",147,000280
+SALINE,Salina Precinct 18,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",115,000290
+SALINE,Salina Precinct 18,Secretary of State,,Republican,"Kobach, Kris",187,000290
+SALINE,Salina Precinct 19,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",156,000300
+SALINE,Salina Precinct 19,Secretary of State,,Republican,"Kobach, Kris",278,000300
+SALINE,Salina Precinct 20 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",429,00031A
+SALINE,Salina Precinct 20 Part A,Secretary of State,,Republican,"Kobach, Kris",623,00031A
+SALINE,Salina Precinct 21 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",309,00032A
+SALINE,Salina Precinct 21 Part A,Secretary of State,,Republican,"Kobach, Kris",490,00032A
+SALINE,Salina Precinct 22 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",250,00033A
+SALINE,Salina Precinct 22 Part A,Secretary of State,,Republican,"Kobach, Kris",434,00033A
+SALINE,Salina Precinct 23,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",350,000340
+SALINE,Salina Precinct 23,Secretary of State,,Republican,"Kobach, Kris",536,000340
+SALINE,Salina Precinct 24,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",131,000350
+SALINE,Salina Precinct 24,Secretary of State,,Republican,"Kobach, Kris",176,000350
+SALINE,Salina Precinct 25,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",90,000360
+SALINE,Salina Precinct 25,Secretary of State,,Republican,"Kobach, Kris",121,000360
+SALINE,Salina Precinct 26,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",143,000370
+SALINE,Salina Precinct 26,Secretary of State,,Republican,"Kobach, Kris",157,000370
+SALINE,Salina Precinct 27,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",163,000380
+SALINE,Salina Precinct 27,Secretary of State,,Republican,"Kobach, Kris",236,000380
+SALINE,Salina Precinct 28,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",99,000390
+SALINE,Salina Precinct 28,Secretary of State,,Republican,"Kobach, Kris",173,000390
+SALINE,Salina Precinct 29,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",165,000400
+SALINE,Salina Precinct 29,Secretary of State,,Republican,"Kobach, Kris",265,000400
+SALINE,Salina Precinct 30,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",155,000410
+SALINE,Salina Precinct 30,Secretary of State,,Republican,"Kobach, Kris",225,000410
+SALINE,Salina Precinct 31 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",342,00042A
+SALINE,Salina Precinct 31 Part A,Secretary of State,,Republican,"Kobach, Kris",599,00042A
+SALINE,Salina Precinct 32,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",97,000430
+SALINE,Salina Precinct 32,Secretary of State,,Republican,"Kobach, Kris",156,000430
+SALINE,Salina Precinct 33,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",199,000440
+SALINE,Salina Precinct 33,Secretary of State,,Republican,"Kobach, Kris",318,000440
+SALINE,Salina Precinct 34,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",320,000450
+SALINE,Salina Precinct 34,Secretary of State,,Republican,"Kobach, Kris",512,000450
+SALINE,Salina Precinct 35,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",206,00046A
+SALINE,Salina Precinct 35,Secretary of State,,Republican,"Kobach, Kris",307,00046A
+SALINE,Smokey Hill Township Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",33,00047B
+SALINE,Smokey Hill Township Part B,Secretary of State,,Republican,"Kobach, Kris",69,00047B
+SALINE,Smoky View Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",112,000480
+SALINE,Smoky View Township,Secretary of State,,Republican,"Kobach, Kris",215,000480
+SALINE,Smolan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",88,000490
+SALINE,Smolan Township,Secretary of State,,Republican,"Kobach, Kris",211,000490
+SALINE,Solomon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",52,000500
+SALINE,Solomon Township,Secretary of State,,Republican,"Kobach, Kris",136,000500
+SALINE,Spring Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",46,000510
+SALINE,Spring Creek Township,Secretary of State,,Republican,"Kobach, Kris",107,000510
+SALINE,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",81,000520
+SALINE,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",161,000520
+SALINE,Elm Creek Township H69,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",113,120020
+SALINE,Elm Creek Township H69,Secretary of State,,Republican,"Kobach, Kris",269,120020
+SALINE,Elm Creek Township H71,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120030
+SALINE,Elm Creek Township H71,Secretary of State,,Republican,"Kobach, Kris",0,120030
+SALINE,Washington Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,300010
+SALINE,Washington Township,Secretary of State,,Republican,"Kobach, Kris",50,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,Secretary of State,,Republican,"Kobach, Kris",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,Secretary of State,,Republican,"Kobach, Kris",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900070
+SALINE,Salina Precinct 33 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900080
+SALINE,Salina Precinct 33 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900080
+SALINE,Salina Precinct 35 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900090
+SALINE,Salina Precinct 35 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900110
+SALINE,Cambria Township,State Treasurer,,Democratic,"Alldritt, Carmen",23,000010
+SALINE,Cambria Township,State Treasurer,,Republican,"Estes, Ron",129,000010
+SALINE,Dayton Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000020
+SALINE,Dayton Township,State Treasurer,,Republican,"Estes, Ron",27,000020
+SALINE,Eureka Township,State Treasurer,,Democratic,"Alldritt, Carmen",44,000040
+SALINE,Eureka Township,State Treasurer,,Republican,"Estes, Ron",174,000040
+SALINE,Falun Township,State Treasurer,,Democratic,"Alldritt, Carmen",17,000050
+SALINE,Falun Township,State Treasurer,,Republican,"Estes, Ron",83,000050
+SALINE,Glendale Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000060
+SALINE,Glendale Township,State Treasurer,,Republican,"Estes, Ron",30,000060
+SALINE,Greeley Township,State Treasurer,,Democratic,"Alldritt, Carmen",62,000070
+SALINE,Greeley Township,State Treasurer,,Republican,"Estes, Ron",319,000070
+SALINE,Gypsum Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000080
+SALINE,Gypsum Township,State Treasurer,,Republican,"Estes, Ron",62,000080
+SALINE,Liberty Township,State Treasurer,,Democratic,"Alldritt, Carmen",14,000090
+SALINE,Liberty Township,State Treasurer,,Republican,"Estes, Ron",65,000090
+SALINE,Ohio Township,State Treasurer,,Democratic,"Alldritt, Carmen",33,000100
+SALINE,Ohio Township,State Treasurer,,Republican,"Estes, Ron",134,000100
+SALINE,Pleasant Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",23,000110
+SALINE,Pleasant Valley Township,State Treasurer,,Republican,"Estes, Ron",120,000110
+SALINE,Salina Precinct 01 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",98,00012A
+SALINE,Salina Precinct 01 Part A,State Treasurer,,Republican,"Estes, Ron",133,00012A
+SALINE,Salina Precinct 02,State Treasurer,,Democratic,"Alldritt, Carmen",86,00013A
+SALINE,Salina Precinct 02,State Treasurer,,Republican,"Estes, Ron",150,00013A
+SALINE,Salina Precinct 03,State Treasurer,,Democratic,"Alldritt, Carmen",71,000140
+SALINE,Salina Precinct 03,State Treasurer,,Republican,"Estes, Ron",101,000140
+SALINE,Salina Precinct 04,State Treasurer,,Democratic,"Alldritt, Carmen",121,000150
+SALINE,Salina Precinct 04,State Treasurer,,Republican,"Estes, Ron",147,000150
+SALINE,Salina Precinct 05,State Treasurer,,Democratic,"Alldritt, Carmen",96,000160
+SALINE,Salina Precinct 05,State Treasurer,,Republican,"Estes, Ron",147,000160
+SALINE,Salina Precinct 06,State Treasurer,,Democratic,"Alldritt, Carmen",80,000170
+SALINE,Salina Precinct 06,State Treasurer,,Republican,"Estes, Ron",117,000170
+SALINE,Salina Precinct 07,State Treasurer,,Democratic,"Alldritt, Carmen",119,000180
+SALINE,Salina Precinct 07,State Treasurer,,Republican,"Estes, Ron",176,000180
+SALINE,Salina Precinct 08,State Treasurer,,Democratic,"Alldritt, Carmen",104,000190
+SALINE,Salina Precinct 08,State Treasurer,,Republican,"Estes, Ron",176,000190
+SALINE,Salina Precinct 09,State Treasurer,,Democratic,"Alldritt, Carmen",105,000200
+SALINE,Salina Precinct 09,State Treasurer,,Republican,"Estes, Ron",199,000200
+SALINE,Salina Precinct 10,State Treasurer,,Democratic,"Alldritt, Carmen",122,000210
+SALINE,Salina Precinct 10,State Treasurer,,Republican,"Estes, Ron",172,000210
+SALINE,Salina Precinct 11,State Treasurer,,Democratic,"Alldritt, Carmen",76,000220
+SALINE,Salina Precinct 11,State Treasurer,,Republican,"Estes, Ron",178,000220
+SALINE,Salina Precinct 12,State Treasurer,,Democratic,"Alldritt, Carmen",152,000230
+SALINE,Salina Precinct 12,State Treasurer,,Republican,"Estes, Ron",254,000230
+SALINE,Salina Precinct 13,State Treasurer,,Democratic,"Alldritt, Carmen",83,000240
+SALINE,Salina Precinct 13,State Treasurer,,Republican,"Estes, Ron",160,000240
+SALINE,Salina Precinct 14 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",109,00025A
+SALINE,Salina Precinct 14 Part A,State Treasurer,,Republican,"Estes, Ron",236,00025A
+SALINE,Salina Precinct 15 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",111,00026A
+SALINE,Salina Precinct 15 Part A,State Treasurer,,Republican,"Estes, Ron",167,00026A
+SALINE,Salina Precinct 16,State Treasurer,,Democratic,"Alldritt, Carmen",78,000270
+SALINE,Salina Precinct 16,State Treasurer,,Republican,"Estes, Ron",131,000270
+SALINE,Salina Precinct 17,State Treasurer,,Democratic,"Alldritt, Carmen",83,000280
+SALINE,Salina Precinct 17,State Treasurer,,Republican,"Estes, Ron",175,000280
+SALINE,Salina Precinct 18,State Treasurer,,Democratic,"Alldritt, Carmen",84,000290
+SALINE,Salina Precinct 18,State Treasurer,,Republican,"Estes, Ron",212,000290
+SALINE,Salina Precinct 19,State Treasurer,,Democratic,"Alldritt, Carmen",100,000300
+SALINE,Salina Precinct 19,State Treasurer,,Republican,"Estes, Ron",326,000300
+SALINE,Salina Precinct 20 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",250,00031A
+SALINE,Salina Precinct 20 Part A,State Treasurer,,Republican,"Estes, Ron",782,00031A
+SALINE,Salina Precinct 21 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",184,00032A
+SALINE,Salina Precinct 21 Part A,State Treasurer,,Republican,"Estes, Ron",603,00032A
+SALINE,Salina Precinct 22 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",131,00033A
+SALINE,Salina Precinct 22 Part A,State Treasurer,,Republican,"Estes, Ron",540,00033A
+SALINE,Salina Precinct 23,State Treasurer,,Democratic,"Alldritt, Carmen",235,000340
+SALINE,Salina Precinct 23,State Treasurer,,Republican,"Estes, Ron",632,000340
+SALINE,Salina Precinct 24,State Treasurer,,Democratic,"Alldritt, Carmen",102,000350
+SALINE,Salina Precinct 24,State Treasurer,,Republican,"Estes, Ron",194,000350
+SALINE,Salina Precinct 25,State Treasurer,,Democratic,"Alldritt, Carmen",73,000360
+SALINE,Salina Precinct 25,State Treasurer,,Republican,"Estes, Ron",132,000360
+SALINE,Salina Precinct 26,State Treasurer,,Democratic,"Alldritt, Carmen",103,000370
+SALINE,Salina Precinct 26,State Treasurer,,Republican,"Estes, Ron",189,000370
+SALINE,Salina Precinct 27,State Treasurer,,Democratic,"Alldritt, Carmen",115,000380
+SALINE,Salina Precinct 27,State Treasurer,,Republican,"Estes, Ron",286,000380
+SALINE,Salina Precinct 28,State Treasurer,,Democratic,"Alldritt, Carmen",70,000390
+SALINE,Salina Precinct 28,State Treasurer,,Republican,"Estes, Ron",199,000390
+SALINE,Salina Precinct 29,State Treasurer,,Democratic,"Alldritt, Carmen",108,000400
+SALINE,Salina Precinct 29,State Treasurer,,Republican,"Estes, Ron",311,000400
+SALINE,Salina Precinct 30,State Treasurer,,Democratic,"Alldritt, Carmen",110,000410
+SALINE,Salina Precinct 30,State Treasurer,,Republican,"Estes, Ron",262,000410
+SALINE,Salina Precinct 31 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",231,00042A
+SALINE,Salina Precinct 31 Part A,State Treasurer,,Republican,"Estes, Ron",690,00042A
+SALINE,Salina Precinct 32,State Treasurer,,Democratic,"Alldritt, Carmen",63,000430
+SALINE,Salina Precinct 32,State Treasurer,,Republican,"Estes, Ron",187,000430
+SALINE,Salina Precinct 33,State Treasurer,,Democratic,"Alldritt, Carmen",134,000440
+SALINE,Salina Precinct 33,State Treasurer,,Republican,"Estes, Ron",373,000440
+SALINE,Salina Precinct 34,State Treasurer,,Democratic,"Alldritt, Carmen",206,000450
+SALINE,Salina Precinct 34,State Treasurer,,Republican,"Estes, Ron",611,000450
+SALINE,Salina Precinct 35,State Treasurer,,Democratic,"Alldritt, Carmen",164,00046A
+SALINE,Salina Precinct 35,State Treasurer,,Republican,"Estes, Ron",341,00046A
+SALINE,Smokey Hill Township Part B,State Treasurer,,Democratic,"Alldritt, Carmen",13,00047B
+SALINE,Smokey Hill Township Part B,State Treasurer,,Republican,"Estes, Ron",89,00047B
+SALINE,Smoky View Township,State Treasurer,,Democratic,"Alldritt, Carmen",75,000480
+SALINE,Smoky View Township,State Treasurer,,Republican,"Estes, Ron",246,000480
+SALINE,Smolan Township,State Treasurer,,Democratic,"Alldritt, Carmen",53,000490
+SALINE,Smolan Township,State Treasurer,,Republican,"Estes, Ron",240,000490
+SALINE,Solomon Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000500
+SALINE,Solomon Township,State Treasurer,,Republican,"Estes, Ron",146,000500
+SALINE,Spring Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",29,000510
+SALINE,Spring Creek Township,State Treasurer,,Republican,"Estes, Ron",120,000510
+SALINE,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",45,000520
+SALINE,Walnut Township,State Treasurer,,Republican,"Estes, Ron",192,000520
+SALINE,Elm Creek Township H69,State Treasurer,,Democratic,"Alldritt, Carmen",69,120020
+SALINE,Elm Creek Township H69,State Treasurer,,Republican,"Estes, Ron",313,120020
+SALINE,Elm Creek Township H71,State Treasurer,,Democratic,"Alldritt, Carmen",0,120030
+SALINE,Elm Creek Township H71,State Treasurer,,Republican,"Estes, Ron",0,120030
+SALINE,Washington Township,State Treasurer,,Democratic,"Alldritt, Carmen",11,300010
+SALINE,Washington Township,State Treasurer,,Republican,"Estes, Ron",56,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,State Treasurer,,Republican,"Estes, Ron",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,State Treasurer,,Republican,"Estes, Ron",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,State Treasurer,,Republican,"Estes, Ron",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,State Treasurer,,Republican,"Estes, Ron",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,State Treasurer,,Democratic,"Alldritt, Carmen",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,State Treasurer,,Republican,"Estes, Ron",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,State Treasurer,,Democratic,"Alldritt, Carmen",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,State Treasurer,,Republican,"Estes, Ron",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,State Treasurer,,Republican,"Estes, Ron",0,900070
+SALINE,Salina Precinct 33 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900080
+SALINE,Salina Precinct 33 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900080
+SALINE,Salina Precinct 35 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900090
+SALINE,Salina Precinct 35 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,State Treasurer,,Republican,"Estes, Ron",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,State Treasurer,,Republican,"Estes, Ron",0,900110
+SALINE,Cambria Township,United States Senate,,independent,"Orman, Greg",48,000010
+SALINE,Cambria Township,United States Senate,,Libertarian,"Batson, Randall",10,000010
+SALINE,Cambria Township,United States Senate,,Republican,"Roberts, Pat",101,000010
+SALINE,Dayton Township,United States Senate,,independent,"Orman, Greg",13,000020
+SALINE,Dayton Township,United States Senate,,Libertarian,"Batson, Randall",1,000020
+SALINE,Dayton Township,United States Senate,,Republican,"Roberts, Pat",29,000020
+SALINE,Eureka Township,United States Senate,,independent,"Orman, Greg",65,000040
+SALINE,Eureka Township,United States Senate,,Libertarian,"Batson, Randall",10,000040
+SALINE,Eureka Township,United States Senate,,Republican,"Roberts, Pat",143,000040
+SALINE,Falun Township,United States Senate,,independent,"Orman, Greg",25,000050
+SALINE,Falun Township,United States Senate,,Libertarian,"Batson, Randall",11,000050
+SALINE,Falun Township,United States Senate,,Republican,"Roberts, Pat",72,000050
+SALINE,Glendale Township,United States Senate,,independent,"Orman, Greg",7,000060
+SALINE,Glendale Township,United States Senate,,Libertarian,"Batson, Randall",3,000060
+SALINE,Glendale Township,United States Senate,,Republican,"Roberts, Pat",27,000060
+SALINE,Greeley Township,United States Senate,,independent,"Orman, Greg",93,000070
+SALINE,Greeley Township,United States Senate,,Libertarian,"Batson, Randall",15,000070
+SALINE,Greeley Township,United States Senate,,Republican,"Roberts, Pat",278,000070
+SALINE,Gypsum Township,United States Senate,,independent,"Orman, Greg",10,000080
+SALINE,Gypsum Township,United States Senate,,Libertarian,"Batson, Randall",4,000080
+SALINE,Gypsum Township,United States Senate,,Republican,"Roberts, Pat",54,000080
+SALINE,Liberty Township,United States Senate,,independent,"Orman, Greg",15,000090
+SALINE,Liberty Township,United States Senate,,Libertarian,"Batson, Randall",7,000090
+SALINE,Liberty Township,United States Senate,,Republican,"Roberts, Pat",58,000090
+SALINE,Ohio Township,United States Senate,,independent,"Orman, Greg",41,000100
+SALINE,Ohio Township,United States Senate,,Libertarian,"Batson, Randall",24,000100
+SALINE,Ohio Township,United States Senate,,Republican,"Roberts, Pat",107,000100
+SALINE,Pleasant Valley Township,United States Senate,,independent,"Orman, Greg",34,000110
+SALINE,Pleasant Valley Township,United States Senate,,Libertarian,"Batson, Randall",11,000110
+SALINE,Pleasant Valley Township,United States Senate,,Republican,"Roberts, Pat",102,000110
+SALINE,Salina Precinct 01 Part A,United States Senate,,independent,"Orman, Greg",109,00012A
+SALINE,Salina Precinct 01 Part A,United States Senate,,Libertarian,"Batson, Randall",23,00012A
+SALINE,Salina Precinct 01 Part A,United States Senate,,Republican,"Roberts, Pat",105,00012A
+SALINE,Salina Precinct 02,United States Senate,,independent,"Orman, Greg",105,00013A
+SALINE,Salina Precinct 02,United States Senate,,Libertarian,"Batson, Randall",28,00013A
+SALINE,Salina Precinct 02,United States Senate,,Republican,"Roberts, Pat",110,00013A
+SALINE,Salina Precinct 03,United States Senate,,independent,"Orman, Greg",86,000140
+SALINE,Salina Precinct 03,United States Senate,,Libertarian,"Batson, Randall",19,000140
+SALINE,Salina Precinct 03,United States Senate,,Republican,"Roberts, Pat",73,000140
+SALINE,Salina Precinct 04,United States Senate,,independent,"Orman, Greg",140,000150
+SALINE,Salina Precinct 04,United States Senate,,Libertarian,"Batson, Randall",30,000150
+SALINE,Salina Precinct 04,United States Senate,,Republican,"Roberts, Pat",101,000150
+SALINE,Salina Precinct 05,United States Senate,,independent,"Orman, Greg",116,000160
+SALINE,Salina Precinct 05,United States Senate,,Libertarian,"Batson, Randall",19,000160
+SALINE,Salina Precinct 05,United States Senate,,Republican,"Roberts, Pat",113,000160
+SALINE,Salina Precinct 06,United States Senate,,independent,"Orman, Greg",94,000170
+SALINE,Salina Precinct 06,United States Senate,,Libertarian,"Batson, Randall",17,000170
+SALINE,Salina Precinct 06,United States Senate,,Republican,"Roberts, Pat",89,000170
+SALINE,Salina Precinct 07,United States Senate,,independent,"Orman, Greg",149,000180
+SALINE,Salina Precinct 07,United States Senate,,Libertarian,"Batson, Randall",28,000180
+SALINE,Salina Precinct 07,United States Senate,,Republican,"Roberts, Pat",126,000180
+SALINE,Salina Precinct 08,United States Senate,,independent,"Orman, Greg",144,000190
+SALINE,Salina Precinct 08,United States Senate,,Libertarian,"Batson, Randall",12,000190
+SALINE,Salina Precinct 08,United States Senate,,Republican,"Roberts, Pat",129,000190
+SALINE,Salina Precinct 09,United States Senate,,independent,"Orman, Greg",140,000200
+SALINE,Salina Precinct 09,United States Senate,,Libertarian,"Batson, Randall",28,000200
+SALINE,Salina Precinct 09,United States Senate,,Republican,"Roberts, Pat",145,000200
+SALINE,Salina Precinct 10,United States Senate,,independent,"Orman, Greg",139,000210
+SALINE,Salina Precinct 10,United States Senate,,Libertarian,"Batson, Randall",18,000210
+SALINE,Salina Precinct 10,United States Senate,,Republican,"Roberts, Pat",140,000210
+SALINE,Salina Precinct 11,United States Senate,,independent,"Orman, Greg",96,000220
+SALINE,Salina Precinct 11,United States Senate,,Libertarian,"Batson, Randall",25,000220
+SALINE,Salina Precinct 11,United States Senate,,Republican,"Roberts, Pat",141,000220
+SALINE,Salina Precinct 12,United States Senate,,independent,"Orman, Greg",209,000230
+SALINE,Salina Precinct 12,United States Senate,,Libertarian,"Batson, Randall",21,000230
+SALINE,Salina Precinct 12,United States Senate,,Republican,"Roberts, Pat",192,000230
+SALINE,Salina Precinct 13,United States Senate,,independent,"Orman, Greg",101,000240
+SALINE,Salina Precinct 13,United States Senate,,Libertarian,"Batson, Randall",18,000240
+SALINE,Salina Precinct 13,United States Senate,,Republican,"Roberts, Pat",130,000240
+SALINE,Salina Precinct 14 Part A,United States Senate,,independent,"Orman, Greg",147,00025A
+SALINE,Salina Precinct 14 Part A,United States Senate,,Libertarian,"Batson, Randall",28,00025A
+SALINE,Salina Precinct 14 Part A,United States Senate,,Republican,"Roberts, Pat",178,00025A
+SALINE,Salina Precinct 15 Part A,United States Senate,,independent,"Orman, Greg",144,00026A
+SALINE,Salina Precinct 15 Part A,United States Senate,,Libertarian,"Batson, Randall",19,00026A
+SALINE,Salina Precinct 15 Part A,United States Senate,,Republican,"Roberts, Pat",123,00026A
+SALINE,Salina Precinct 16,United States Senate,,independent,"Orman, Greg",89,000270
+SALINE,Salina Precinct 16,United States Senate,,Libertarian,"Batson, Randall",18,000270
+SALINE,Salina Precinct 16,United States Senate,,Republican,"Roberts, Pat",112,000270
+SALINE,Salina Precinct 17,United States Senate,,independent,"Orman, Greg",114,000280
+SALINE,Salina Precinct 17,United States Senate,,Libertarian,"Batson, Randall",18,000280
+SALINE,Salina Precinct 17,United States Senate,,Republican,"Roberts, Pat",128,000280
+SALINE,Salina Precinct 18,United States Senate,,independent,"Orman, Greg",125,000290
+SALINE,Salina Precinct 18,United States Senate,,Libertarian,"Batson, Randall",22,000290
+SALINE,Salina Precinct 18,United States Senate,,Republican,"Roberts, Pat",157,000290
+SALINE,Salina Precinct 19,United States Senate,,independent,"Orman, Greg",160,000300
+SALINE,Salina Precinct 19,United States Senate,,Libertarian,"Batson, Randall",11,000300
+SALINE,Salina Precinct 19,United States Senate,,Republican,"Roberts, Pat",264,000300
+SALINE,Salina Precinct 20 Part A,United States Senate,,independent,"Orman, Greg",394,00031A
+SALINE,Salina Precinct 20 Part A,United States Senate,,Libertarian,"Batson, Randall",41,00031A
+SALINE,Salina Precinct 20 Part A,United States Senate,,Republican,"Roberts, Pat",575,00031A
+SALINE,Salina Precinct 21 Part A,United States Senate,,independent,"Orman, Greg",320,00032A
+SALINE,Salina Precinct 21 Part A,United States Senate,,Libertarian,"Batson, Randall",20,00032A
+SALINE,Salina Precinct 21 Part A,United States Senate,,Republican,"Roberts, Pat",514,00032A
+SALINE,Salina Precinct 22 Part A,United States Senate,,independent,"Orman, Greg",235,00033A
+SALINE,Salina Precinct 22 Part A,United States Senate,,Libertarian,"Batson, Randall",18,00033A
+SALINE,Salina Precinct 22 Part A,United States Senate,,Republican,"Roberts, Pat",432,00033A
+SALINE,Salina Precinct 23,United States Senate,,independent,"Orman, Greg",379,000340
+SALINE,Salina Precinct 23,United States Senate,,Libertarian,"Batson, Randall",42,000340
+SALINE,Salina Precinct 23,United States Senate,,Republican,"Roberts, Pat",479,000340
+SALINE,Salina Precinct 24,United States Senate,,independent,"Orman, Greg",121,000350
+SALINE,Salina Precinct 24,United States Senate,,Libertarian,"Batson, Randall",19,000350
+SALINE,Salina Precinct 24,United States Senate,,Republican,"Roberts, Pat",170,000350
+SALINE,Salina Precinct 25,United States Senate,,independent,"Orman, Greg",89,000360
+SALINE,Salina Precinct 25,United States Senate,,Libertarian,"Batson, Randall",13,000360
+SALINE,Salina Precinct 25,United States Senate,,Republican,"Roberts, Pat",109,000360
+SALINE,Salina Precinct 26,United States Senate,,independent,"Orman, Greg",139,000370
+SALINE,Salina Precinct 26,United States Senate,,Libertarian,"Batson, Randall",23,000370
+SALINE,Salina Precinct 26,United States Senate,,Republican,"Roberts, Pat",142,000370
+SALINE,Salina Precinct 27,United States Senate,,independent,"Orman, Greg",155,000380
+SALINE,Salina Precinct 27,United States Senate,,Libertarian,"Batson, Randall",21,000380
+SALINE,Salina Precinct 27,United States Senate,,Republican,"Roberts, Pat",228,000380
+SALINE,Salina Precinct 28,United States Senate,,independent,"Orman, Greg",95,000390
+SALINE,Salina Precinct 28,United States Senate,,Libertarian,"Batson, Randall",20,000390
+SALINE,Salina Precinct 28,United States Senate,,Republican,"Roberts, Pat",160,000390
+SALINE,Salina Precinct 29,United States Senate,,independent,"Orman, Greg",167,000400
+SALINE,Salina Precinct 29,United States Senate,,Libertarian,"Batson, Randall",20,000400
+SALINE,Salina Precinct 29,United States Senate,,Republican,"Roberts, Pat",254,000400
+SALINE,Salina Precinct 30,United States Senate,,independent,"Orman, Greg",156,000410
+SALINE,Salina Precinct 30,United States Senate,,Libertarian,"Batson, Randall",13,000410
+SALINE,Salina Precinct 30,United States Senate,,Republican,"Roberts, Pat",212,000410
+SALINE,Salina Precinct 31 Part A,United States Senate,,independent,"Orman, Greg",350,00042A
+SALINE,Salina Precinct 31 Part A,United States Senate,,Libertarian,"Batson, Randall",48,00042A
+SALINE,Salina Precinct 31 Part A,United States Senate,,Republican,"Roberts, Pat",557,00042A
+SALINE,Salina Precinct 32,United States Senate,,independent,"Orman, Greg",94,000430
+SALINE,Salina Precinct 32,United States Senate,,Libertarian,"Batson, Randall",15,000430
+SALINE,Salina Precinct 32,United States Senate,,Republican,"Roberts, Pat",150,000430
+SALINE,Salina Precinct 33,United States Senate,,independent,"Orman, Greg",206,000440
+SALINE,Salina Precinct 33,United States Senate,,Libertarian,"Batson, Randall",21,000440
+SALINE,Salina Precinct 33,United States Senate,,Republican,"Roberts, Pat",300,000440
+SALINE,Salina Precinct 34,United States Senate,,independent,"Orman, Greg",321,000450
+SALINE,Salina Precinct 34,United States Senate,,Libertarian,"Batson, Randall",58,000450
+SALINE,Salina Precinct 34,United States Senate,,Republican,"Roberts, Pat",459,000450
+SALINE,Salina Precinct 35,United States Senate,,independent,"Orman, Greg",214,00046A
+SALINE,Salina Precinct 35,United States Senate,,Libertarian,"Batson, Randall",36,00046A
+SALINE,Salina Precinct 35,United States Senate,,Republican,"Roberts, Pat",268,00046A
+SALINE,Smokey Hill Township Part B,United States Senate,,independent,"Orman, Greg",31,00047B
+SALINE,Smokey Hill Township Part B,United States Senate,,Libertarian,"Batson, Randall",5,00047B
+SALINE,Smokey Hill Township Part B,United States Senate,,Republican,"Roberts, Pat",68,00047B
+SALINE,Smoky View Township,United States Senate,,independent,"Orman, Greg",105,000480
+SALINE,Smoky View Township,United States Senate,,Libertarian,"Batson, Randall",26,000480
+SALINE,Smoky View Township,United States Senate,,Republican,"Roberts, Pat",199,000480
+SALINE,Smolan Township,United States Senate,,independent,"Orman, Greg",95,000490
+SALINE,Smolan Township,United States Senate,,Libertarian,"Batson, Randall",12,000490
+SALINE,Smolan Township,United States Senate,,Republican,"Roberts, Pat",192,000490
+SALINE,Solomon Township,United States Senate,,independent,"Orman, Greg",43,000500
+SALINE,Solomon Township,United States Senate,,Libertarian,"Batson, Randall",5,000500
+SALINE,Solomon Township,United States Senate,,Republican,"Roberts, Pat",139,000500
+SALINE,Spring Creek Township,United States Senate,,independent,"Orman, Greg",47,000510
+SALINE,Spring Creek Township,United States Senate,,Libertarian,"Batson, Randall",10,000510
+SALINE,Spring Creek Township,United States Senate,,Republican,"Roberts, Pat",101,000510
+SALINE,Walnut Township,United States Senate,,independent,"Orman, Greg",73,000520
+SALINE,Walnut Township,United States Senate,,Libertarian,"Batson, Randall",7,000520
+SALINE,Walnut Township,United States Senate,,Republican,"Roberts, Pat",164,000520
+SALINE,Elm Creek Township H69,United States Senate,,independent,"Orman, Greg",115,120020
+SALINE,Elm Creek Township H69,United States Senate,,Libertarian,"Batson, Randall",21,120020
+SALINE,Elm Creek Township H69,United States Senate,,Republican,"Roberts, Pat",246,120020
+SALINE,Elm Creek Township H71,United States Senate,,independent,"Orman, Greg",0,120030
+SALINE,Elm Creek Township H71,United States Senate,,Libertarian,"Batson, Randall",0,120030
+SALINE,Elm Creek Township H71,United States Senate,,Republican,"Roberts, Pat",0,120030
+SALINE,Washington Township,United States Senate,,independent,"Orman, Greg",18,300010
+SALINE,Washington Township,United States Senate,,Libertarian,"Batson, Randall",3,300010
+SALINE,Washington Township,United States Senate,,Republican,"Roberts, Pat",49,300010
+SALINE,Salina Precinct 01 Part A Exclave 1,United States Senate,,independent,"Orman, Greg",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,United States Senate,,Libertarian,"Batson, Randall",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 1,United States Senate,,Republican,"Roberts, Pat",0,900010
+SALINE,Salina Precinct 01 Part A Exclave 2,United States Senate,,independent,"Orman, Greg",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,United States Senate,,Libertarian,"Batson, Randall",0,900020
+SALINE,Salina Precinct 01 Part A Exclave 2,United States Senate,,Republican,"Roberts, Pat",0,900020
+SALINE,Salina Precinct 15 Part A Exclave 1,United States Senate,,independent,"Orman, Greg",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,United States Senate,,Libertarian,"Batson, Randall",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 1,United States Senate,,Republican,"Roberts, Pat",0,900030
+SALINE,Salina Precinct 15 Part A Exclave 2,United States Senate,,independent,"Orman, Greg",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,United States Senate,,Libertarian,"Batson, Randall",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 2,United States Senate,,Republican,"Roberts, Pat",0,900040
+SALINE,Salina Precinct 15 Part A Exclave 3,United States Senate,,independent,"Orman, Greg",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,United States Senate,,Libertarian,"Batson, Randall",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 3,United States Senate,,Republican,"Roberts, Pat",0,900050
+SALINE,Salina Precinct 15 Part A Exclave 4,United States Senate,,independent,"Orman, Greg",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,United States Senate,,Libertarian,"Batson, Randall",0,900060
+SALINE,Salina Precinct 15 Part A Exclave 4,United States Senate,,Republican,"Roberts, Pat",0,900060
+SALINE,Salina Precinct 22 Part A Exclave,United States Senate,,independent,"Orman, Greg",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900070
+SALINE,Salina Precinct 22 Part A Exclave,United States Senate,,Republican,"Roberts, Pat",0,900070
+SALINE,Salina Precinct 33 Exclave,United States Senate,,independent,"Orman, Greg",0,900080
+SALINE,Salina Precinct 33 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900080
+SALINE,Salina Precinct 33 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900080
+SALINE,Salina Precinct 35 Exclave,United States Senate,,independent,"Orman, Greg",0,900090
+SALINE,Salina Precinct 35 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900090
+SALINE,Salina Precinct 35 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900090
+SALINE,Smokey Hill Township Part B Exclave 1,United States Senate,,independent,"Orman, Greg",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,United States Senate,,Libertarian,"Batson, Randall",0,900100
+SALINE,Smokey Hill Township Part B Exclave 1,United States Senate,,Republican,"Roberts, Pat",0,900100
+SALINE,Smokey Hill Township Part B Enclave 1,United States Senate,,independent,"Orman, Greg",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,United States Senate,,Libertarian,"Batson, Randall",0,900110
+SALINE,Smokey Hill Township Part B Enclave 1,United States Senate,,Republican,"Roberts, Pat",0,900110

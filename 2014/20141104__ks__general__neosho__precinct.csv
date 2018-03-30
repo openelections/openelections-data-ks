@@ -1,451 +1,595 @@
-county,precinct,office,district,party,candidate,votes
-Neosho,Big Creek Township,U.S. Senate,,R,Pat Roberts,149
-Neosho,Canville Township,U.S. Senate,,R,Pat Roberts,143
-Neosho,Centerville Township,U.S. Senate,,R,Pat Roberts,117
-Neosho,Chetopa Township H9,U.S. Senate,,R,Pat Roberts,66
-Neosho,Chetopa Township H13,U.S. Senate,,R,Pat Roberts,171
-Neosho,East Erie,U.S. Senate,,R,Pat Roberts,98
-Neosho,West Erie,U.S. Senate,,R,Pat Roberts,159
-Neosho,Grant Township,U.S. Senate,,R,Pat Roberts,91
-Neosho,Ladore Township,U.S. Senate,,R,Pat Roberts,54
-Neosho,Lincoln Township,U.S. Senate,,R,Pat Roberts,37
-Neosho,Mission Township,U.S. Senate,,R,Pat Roberts,223
-Neosho,North Tioga Township,U.S. Senate,,R,Pat Roberts,125
-Neosho,South Tioga East Township,U.S. Senate,,R,Pat Roberts,57
-Neosho,South Tioga West Township,U.S. Senate,,R,Pat Roberts,36
-Neosho,Shiloh Township,U.S. Senate,,R,Pat Roberts,92
-Neosho,Walnut Grove Township,U.S. Senate,,R,Pat Roberts,69
-Neosho,Chanute Ward 1,U.S. Senate,,R,Pat Roberts,40
-Neosho,Chanute Ward 2 Precinct 1,U.S. Senate,,R,Pat Roberts,100
-Neosho,Chanute Ward 2 Precinct 2,U.S. Senate,,R,Pat Roberts,148
-Neosho,Chanute Ward 3 Precinct 1,U.S. Senate,,R,Pat Roberts,177
-Neosho,Chanute Ward 3 Precinct 2,U.S. Senate,,R,Pat Roberts,145
-Neosho,Chanute Ward 3 Precinct 3,U.S. Senate,,R,Pat Roberts,286
-Neosho,Chanute Ward 4 Precinct 1,U.S. Senate,,R,Pat Roberts,140
-Neosho,Chanute Ward 4 Precinct 2,U.S. Senate,,R,Pat Roberts,87
-Neosho,Chanute Ward 4 Precinct 3,U.S. Senate,,R,Pat Roberts,95
-Neosho,Big Creek Township,U.S. Senate,,IND,Greg Orman,43
-Neosho,Canville Township,U.S. Senate,,IND,Greg Orman,80
-Neosho,Centerville Township,U.S. Senate,,IND,Greg Orman,67
-Neosho,Chetopa Township H9,U.S. Senate,,IND,Greg Orman,12
-Neosho,Chetopa Township H13,U.S. Senate,,IND,Greg Orman,41
-Neosho,East Erie,U.S. Senate,,IND,Greg Orman,89
-Neosho,West Erie,U.S. Senate,,IND,Greg Orman,77
-Neosho,Grant Township,U.S. Senate,,IND,Greg Orman,55
-Neosho,Ladore Township,U.S. Senate,,IND,Greg Orman,70
-Neosho,Lincoln Township,U.S. Senate,,IND,Greg Orman,29
-Neosho,Mission Township,U.S. Senate,,IND,Greg Orman,88
-Neosho,North Tioga Township,U.S. Senate,,IND,Greg Orman,37
-Neosho,South Tioga East Township,U.S. Senate,,IND,Greg Orman,28
-Neosho,South Tioga West Township,U.S. Senate,,IND,Greg Orman,14
-Neosho,Shiloh Township,U.S. Senate,,IND,Greg Orman,15
-Neosho,Walnut Grove Township,U.S. Senate,,IND,Greg Orman,49
-Neosho,Chanute Ward 1,U.S. Senate,,IND,Greg Orman,17
-Neosho,Chanute Ward 2 Precinct 1,U.S. Senate,,IND,Greg Orman,66
-Neosho,Chanute Ward 2 Precinct 2,U.S. Senate,,IND,Greg Orman,61
-Neosho,Chanute Ward 3 Precinct 1,U.S. Senate,,IND,Greg Orman,127
-Neosho,Chanute Ward 3 Precinct 2,U.S. Senate,,IND,Greg Orman,84
-Neosho,Chanute Ward 3 Precinct 3,U.S. Senate,,IND,Greg Orman,155
-Neosho,Chanute Ward 4 Precinct 1,U.S. Senate,,IND,Greg Orman,118
-Neosho,Chanute Ward 4 Precinct 2,U.S. Senate,,IND,Greg Orman,90
-Neosho,Chanute Ward 4 Precinct 3,U.S. Senate,,IND,Greg Orman,53
-Neosho,Big Creek Township,U.S. Senate,,LBT,Randall Batson,9
-Neosho,Canville Township,U.S. Senate,,LBT,Randall Batson,22
-Neosho,Centerville Township,U.S. Senate,,LBT,Randall Batson,14
-Neosho,Chetopa Township H9,U.S. Senate,,LBT,Randall Batson,2
-Neosho,Chetopa Township H13,U.S. Senate,,LBT,Randall Batson,6
-Neosho,East Erie,U.S. Senate,,LBT,Randall Batson,23
-Neosho,West Erie,U.S. Senate,,LBT,Randall Batson,13
-Neosho,Grant Township,U.S. Senate,,LBT,Randall Batson,9
-Neosho,Ladore Township,U.S. Senate,,LBT,Randall Batson,13
-Neosho,Lincoln Township,U.S. Senate,,LBT,Randall Batson,6
-Neosho,Mission Township,U.S. Senate,,LBT,Randall Batson,12
-Neosho,North Tioga Township,U.S. Senate,,LBT,Randall Batson,11
-Neosho,South Tioga East Township,U.S. Senate,,LBT,Randall Batson,7
-Neosho,South Tioga West Township,U.S. Senate,,LBT,Randall Batson,3
-Neosho,Shiloh Township,U.S. Senate,,LBT,Randall Batson,10
-Neosho,Walnut Grove Township,U.S. Senate,,LBT,Randall Batson,6
-Neosho,Chanute Ward 1,U.S. Senate,,LBT,Randall Batson,5
-Neosho,Chanute Ward 2 Precinct 1,U.S. Senate,,LBT,Randall Batson,9
-Neosho,Chanute Ward 2 Precinct 2,U.S. Senate,,LBT,Randall Batson,22
-Neosho,Chanute Ward 3 Precinct 1,U.S. Senate,,LBT,Randall Batson,39
-Neosho,Chanute Ward 3 Precinct 2,U.S. Senate,,LBT,Randall Batson,16
-Neosho,Chanute Ward 3 Precinct 3,U.S. Senate,,LBT,Randall Batson,28
-Neosho,Chanute Ward 4 Precinct 1,U.S. Senate,,LBT,Randall Batson,21
-Neosho,Chanute Ward 4 Precinct 2,U.S. Senate,,LBT,Randall Batson,18
-Neosho,Chanute Ward 4 Precinct 3,U.S. Senate,,LBT,Randall Batson,14
-Neosho,Big Creek Township,U.S. House,2,R,Lynn Jenkins,162
-Neosho,Canville Township,U.S. House,2,R,Lynn Jenkins,169
-Neosho,Centerville Township,U.S. House,2,R,Lynn Jenkins,130
-Neosho,Chetopa Township H9,U.S. House,2,R,Lynn Jenkins,71
-Neosho,Chetopa Township H13,U.S. House,2,R,Lynn Jenkins,180
-Neosho,East Erie,U.S. House,2,R,Lynn Jenkins,120
-Neosho,West Erie,U.S. House,2,R,Lynn Jenkins,176
-Neosho,Grant Township,U.S. House,2,R,Lynn Jenkins,106
-Neosho,Ladore Township,U.S. House,2,R,Lynn Jenkins,63
-Neosho,Lincoln Township,U.S. House,2,R,Lynn Jenkins,47
-Neosho,Mission Township,U.S. House,2,R,Lynn Jenkins,230
-Neosho,North Tioga Township,U.S. House,2,R,Lynn Jenkins,138
-Neosho,South Tioga East Township,U.S. House,2,R,Lynn Jenkins,65
-Neosho,South Tioga West Township,U.S. House,2,R,Lynn Jenkins,44
-Neosho,Shiloh Township,U.S. House,2,R,Lynn Jenkins,99
-Neosho,Walnut Grove Township,U.S. House,2,R,Lynn Jenkins,73
-Neosho,Chanute Ward 1,U.S. House,2,R,Lynn Jenkins,41
-Neosho,Chanute Ward 2 Precinct 1,U.S. House,2,R,Lynn Jenkins,119
-Neosho,Chanute Ward 2 Precinct 2,U.S. House,2,R,Lynn Jenkins,167
-Neosho,Chanute Ward 3 Precinct 1,U.S. House,2,R,Lynn Jenkins,210
-Neosho,Chanute Ward 3 Precinct 2,U.S. House,2,R,Lynn Jenkins,160
-Neosho,Chanute Ward 3 Precinct 3,U.S. House,2,R,Lynn Jenkins,316
-Neosho,Chanute Ward 4 Precinct 1,U.S. House,2,R,Lynn Jenkins,166
-Neosho,Chanute Ward 4 Precinct 2,U.S. House,2,R,Lynn Jenkins,102
-Neosho,Chanute Ward 4 Precinct 3,U.S. House,2,R,Lynn Jenkins,103
-Neosho,Big Creek Township,U.S. House,2,D,Margie Wakefield,31
-Neosho,Canville Township,U.S. House,2,D,Margie Wakefield,66
-Neosho,Centerville Township,U.S. House,2,D,Margie Wakefield,67
-Neosho,Chetopa Township H9,U.S. House,2,D,Margie Wakefield,8
-Neosho,Chetopa Township H13,U.S. House,2,D,Margie Wakefield,32
-Neosho,East Erie,U.S. House,2,D,Margie Wakefield,82
-Neosho,West Erie,U.S. House,2,D,Margie Wakefield,63
-Neosho,Grant Township,U.S. House,2,D,Margie Wakefield,42
-Neosho,Ladore Township,U.S. House,2,D,Margie Wakefield,63
-Neosho,Lincoln Township,U.S. House,2,D,Margie Wakefield,23
-Neosho,Mission Township,U.S. House,2,D,Margie Wakefield,88
-Neosho,North Tioga Township,U.S. House,2,D,Margie Wakefield,27
-Neosho,South Tioga East Township,U.S. House,2,D,Margie Wakefield,21
-Neosho,South Tioga West Township,U.S. House,2,D,Margie Wakefield,8
-Neosho,Shiloh Township,U.S. House,2,D,Margie Wakefield,10
-Neosho,Walnut Grove Township,U.S. House,2,D,Margie Wakefield,50
-Neosho,Chanute Ward 1,U.S. House,2,D,Margie Wakefield,14
-Neosho,Chanute Ward 2 Precinct 1,U.S. House,2,D,Margie Wakefield,44
-Neosho,Chanute Ward 2 Precinct 2,U.S. House,2,D,Margie Wakefield,57
-Neosho,Chanute Ward 3 Precinct 1,U.S. House,2,D,Margie Wakefield,107
-Neosho,Chanute Ward 3 Precinct 2,U.S. House,2,D,Margie Wakefield,76
-Neosho,Chanute Ward 3 Precinct 3,U.S. House,2,D,Margie Wakefield,139
-Neosho,Chanute Ward 4 Precinct 1,U.S. House,2,D,Margie Wakefield,101
-Neosho,Chanute Ward 4 Precinct 2,U.S. House,2,D,Margie Wakefield,82
-Neosho,Chanute Ward 4 Precinct 3,U.S. House,2,D,Margie Wakefield,53
-Neosho,Big Creek Township,U.S. House,2,LBT,Christopher Clemmons,8
-Neosho,Canville Township,U.S. House,2,LBT,Christopher Clemmons,12
-Neosho,Centerville Township,U.S. House,2,LBT,Christopher Clemmons,7
-Neosho,Chetopa Township H9,U.S. House,2,LBT,Christopher Clemmons,2
-Neosho,Chetopa Township H13,U.S. House,2,LBT,Christopher Clemmons,8
-Neosho,East Erie,U.S. House,2,LBT,Christopher Clemmons,14
-Neosho,West Erie,U.S. House,2,LBT,Christopher Clemmons,8
-Neosho,Grant Township,U.S. House,2,LBT,Christopher Clemmons,10
-Neosho,Ladore Township,U.S. House,2,LBT,Christopher Clemmons,10
-Neosho,Lincoln Township,U.S. House,2,LBT,Christopher Clemmons,4
-Neosho,Mission Township,U.S. House,2,LBT,Christopher Clemmons,11
-Neosho,North Tioga Township,U.S. House,2,LBT,Christopher Clemmons,8
-Neosho,South Tioga East Township,U.S. House,2,LBT,Christopher Clemmons,6
-Neosho,South Tioga West Township,U.S. House,2,LBT,Christopher Clemmons,2
-Neosho,Shiloh Township,U.S. House,2,LBT,Christopher Clemmons,9
-Neosho,Walnut Grove Township,U.S. House,2,LBT,Christopher Clemmons,5
-Neosho,Chanute Ward 1,U.S. House,2,LBT,Christopher Clemmons,7
-Neosho,Chanute Ward 2 Precinct 1,U.S. House,2,LBT,Christopher Clemmons,11
-Neosho,Chanute Ward 2 Precinct 2,U.S. House,2,LBT,Christopher Clemmons,12
-Neosho,Chanute Ward 3 Precinct 1,U.S. House,2,LBT,Christopher Clemmons,34
-Neosho,Chanute Ward 3 Precinct 2,U.S. House,2,LBT,Christopher Clemmons,12
-Neosho,Chanute Ward 3 Precinct 3,U.S. House,2,LBT,Christopher Clemmons,17
-Neosho,Chanute Ward 4 Precinct 1,U.S. House,2,LBT,Christopher Clemmons,16
-Neosho,Chanute Ward 4 Precinct 2,U.S. House,2,LBT,Christopher Clemmons,12
-Neosho,Chanute Ward 4 Precinct 3,U.S. House,2,LBT,Christopher Clemmons,11
-Neosho,Big Creek Township,Governor,,R,Sam Brownback,123
-Neosho,Canville Township,Governor,,R,Sam Brownback,132
-Neosho,Centerville Township,Governor,,R,Sam Brownback,107
-Neosho,Chetopa Township H9,Governor,,R,Sam Brownback,65
-Neosho,Chetopa Township H13,Governor,,R,Sam Brownback,163
-Neosho,East Erie,Governor,,R,Sam Brownback,83
-Neosho,West Erie,Governor,,R,Sam Brownback,147
-Neosho,Grant Township,Governor,,R,Sam Brownback,85
-Neosho,Ladore Township,Governor,,R,Sam Brownback,53
-Neosho,Lincoln Township,Governor,,R,Sam Brownback,39
-Neosho,Mission Township,Governor,,R,Sam Brownback,193
-Neosho,North Tioga Township,Governor,,R,Sam Brownback,116
-Neosho,South Tioga East Township,Governor,,R,Sam Brownback,50
-Neosho,South Tioga West Township,Governor,,R,Sam Brownback,33
-Neosho,Shiloh Township,Governor,,R,Sam Brownback,91
-Neosho,Walnut Grove Township,Governor,,R,Sam Brownback,57
-Neosho,Chanute Ward 1,Governor,,R,Sam Brownback,36
-Neosho,Chanute Ward 2 Precinct 1,Governor,,R,Sam Brownback,92
-Neosho,Chanute Ward 2 Precinct 2,Governor,,R,Sam Brownback,147
-Neosho,Chanute Ward 3 Precinct 1,Governor,,R,Sam Brownback,155
-Neosho,Chanute Ward 3 Precinct 2,Governor,,R,Sam Brownback,129
-Neosho,Chanute Ward 3 Precinct 3,Governor,,R,Sam Brownback,255
-Neosho,Chanute Ward 4 Precinct 1,Governor,,R,Sam Brownback,123
-Neosho,Chanute Ward 4 Precinct 2,Governor,,R,Sam Brownback,76
-Neosho,Chanute Ward 4 Precinct 3,Governor,,R,Sam Brownback,94
-Neosho,Big Creek Township,Governor,,D,Paul Davis,69
-Neosho,Canville Township,Governor,,D,Paul Davis,105
-Neosho,Centerville Township,Governor,,D,Paul Davis,88
-Neosho,Chetopa Township H9,Governor,,D,Paul Davis,15
-Neosho,Chetopa Township H13,Governor,,D,Paul Davis,49
-Neosho,East Erie,Governor,,D,Paul Davis,116
-Neosho,West Erie,Governor,,D,Paul Davis,100
-Neosho,Grant Township,Governor,,D,Paul Davis,62
-Neosho,Ladore Township,Governor,,D,Paul Davis,76
-Neosho,Lincoln Township,Governor,,D,Paul Davis,31
-Neosho,Mission Township,Governor,,D,Paul Davis,127
-Neosho,North Tioga Township,Governor,,D,Paul Davis,52
-Neosho,South Tioga East Township,Governor,,D,Paul Davis,36
-Neosho,South Tioga West Township,Governor,,D,Paul Davis,18
-Neosho,Shiloh Township,Governor,,D,Paul Davis,20
-Neosho,Walnut Grove Township,Governor,,D,Paul Davis,65
-Neosho,Chanute Ward 1,Governor,,D,Paul Davis,22
-Neosho,Chanute Ward 2 Precinct 1,Governor,,D,Paul Davis,78
-Neosho,Chanute Ward 2 Precinct 2,Governor,,D,Paul Davis,78
-Neosho,Chanute Ward 3 Precinct 1,Governor,,D,Paul Davis,160
-Neosho,Chanute Ward 3 Precinct 2,Governor,,D,Paul Davis,111
-Neosho,Chanute Ward 3 Precinct 3,Governor,,D,Paul Davis,204
-Neosho,Chanute Ward 4 Precinct 1,Governor,,D,Paul Davis,148
-Neosho,Chanute Ward 4 Precinct 2,Governor,,D,Paul Davis,111
-Neosho,Chanute Ward 4 Precinct 3,Governor,,D,Paul Davis,64
-Neosho,Big Creek Township,Governor,,LBT,Keen Umbehr,8
-Neosho,Canville Township,Governor,,LBT,Keen Umbehr,13
-Neosho,Centerville Township,Governor,,LBT,Keen Umbehr,6
-Neosho,Chetopa Township H9,Governor,,LBT,Keen Umbehr,2
-Neosho,Chetopa Township H13,Governor,,LBT,Keen Umbehr,8
-Neosho,East Erie,Governor,,LBT,Keen Umbehr,15
-Neosho,West Erie,Governor,,LBT,Keen Umbehr,3
-Neosho,Grant Township,Governor,,LBT,Keen Umbehr,9
-Neosho,Ladore Township,Governor,,LBT,Keen Umbehr,6
-Neosho,Lincoln Township,Governor,,LBT,Keen Umbehr,4
-Neosho,Mission Township,Governor,,LBT,Keen Umbehr,6
-Neosho,North Tioga Township,Governor,,LBT,Keen Umbehr,6
-Neosho,South Tioga East Township,Governor,,LBT,Keen Umbehr,5
-Neosho,South Tioga West Township,Governor,,LBT,Keen Umbehr,3
-Neosho,Shiloh Township,Governor,,LBT,Keen Umbehr,7
-Neosho,Walnut Grove Township,Governor,,LBT,Keen Umbehr,5
-Neosho,Chanute Ward 1,Governor,,LBT,Keen Umbehr,3
-Neosho,Chanute Ward 2 Precinct 1,Governor,,LBT,Keen Umbehr,8
-Neosho,Chanute Ward 2 Precinct 2,Governor,,LBT,Keen Umbehr,11
-Neosho,Chanute Ward 3 Precinct 1,Governor,,LBT,Keen Umbehr,34
-Neosho,Chanute Ward 3 Precinct 2,Governor,,LBT,Keen Umbehr,8
-Neosho,Chanute Ward 3 Precinct 3,Governor,,LBT,Keen Umbehr,11
-Neosho,Chanute Ward 4 Precinct 1,Governor,,LBT,Keen Umbehr,13
-Neosho,Chanute Ward 4 Precinct 2,Governor,,LBT,Keen Umbehr,9
-Neosho,Chanute Ward 4 Precinct 3,Governor,,LBT,Keen Umbehr,11
-Neosho,Big Creek Township,Secretary of State,,R,Kris Kobach,160
-Neosho,Canville Township,Secretary of State,,R,Kris Kobach,171
-Neosho,Centerville Township,Secretary of State,,R,Kris Kobach,133
-Neosho,Chetopa Township H9,Secretary of State,,R,Kris Kobach,69
-Neosho,Chetopa Township H13,Secretary of State,,R,Kris Kobach,176
-Neosho,East Erie,Secretary of State,,R,Kris Kobach,115
-Neosho,West Erie,Secretary of State,,R,Kris Kobach,175
-Neosho,Grant Township,Secretary of State,,R,Kris Kobach,105
-Neosho,Ladore Township,Secretary of State,,R,Kris Kobach,64
-Neosho,Lincoln Township,Secretary of State,,R,Kris Kobach,47
-Neosho,Mission Township,Secretary of State,,R,Kris Kobach,217
-Neosho,North Tioga Township,Secretary of State,,R,Kris Kobach,138
-Neosho,South Tioga East Township,Secretary of State,,R,Kris Kobach,62
-Neosho,South Tioga West Township,Secretary of State,,R,Kris Kobach,41
-Neosho,Shiloh Township,Secretary of State,,R,Kris Kobach,100
-Neosho,Walnut Grove Township,Secretary of State,,R,Kris Kobach,78
-Neosho,Chanute Ward 1,Secretary of State,,R,Kris Kobach,39
-Neosho,Chanute Ward 2 Precinct 1,Secretary of State,,R,Kris Kobach,116
-Neosho,Chanute Ward 2 Precinct 2,Secretary of State,,R,Kris Kobach,169
-Neosho,Chanute Ward 3 Precinct 1,Secretary of State,,R,Kris Kobach,222
-Neosho,Chanute Ward 3 Precinct 2,Secretary of State,,R,Kris Kobach,154
-Neosho,Chanute Ward 3 Precinct 3,Secretary of State,,R,Kris Kobach,301
-Neosho,Chanute Ward 4 Precinct 1,Secretary of State,,R,Kris Kobach,162
-Neosho,Chanute Ward 4 Precinct 2,Secretary of State,,R,Kris Kobach,108
-Neosho,Chanute Ward 4 Precinct 3,Secretary of State,,R,Kris Kobach,111
-Neosho,Big Creek Township,Secretary of State,,D,Jean Schodorf,38
-Neosho,Canville Township,Secretary of State,,D,Jean Schodorf,75
-Neosho,Centerville Township,Secretary of State,,D,Jean Schodorf,71
-Neosho,Chetopa Township H9,Secretary of State,,D,Jean Schodorf,10
-Neosho,Chetopa Township H13,Secretary of State,,D,Jean Schodorf,39
-Neosho,East Erie,Secretary of State,,D,Jean Schodorf,93
-Neosho,West Erie,Secretary of State,,D,Jean Schodorf,72
-Neosho,Grant Township,Secretary of State,,D,Jean Schodorf,49
-Neosho,Ladore Township,Secretary of State,,D,Jean Schodorf,70
-Neosho,Lincoln Township,Secretary of State,,D,Jean Schodorf,26
-Neosho,Mission Township,Secretary of State,,D,Jean Schodorf,101
-Neosho,North Tioga Township,Secretary of State,,D,Jean Schodorf,36
-Neosho,South Tioga East Township,Secretary of State,,D,Jean Schodorf,27
-Neosho,South Tioga West Township,Secretary of State,,D,Jean Schodorf,12
-Neosho,Shiloh Township,Secretary of State,,D,Jean Schodorf,17
-Neosho,Walnut Grove Township,Secretary of State,,D,Jean Schodorf,44
-Neosho,Chanute Ward 1,Secretary of State,,D,Jean Schodorf,23
-Neosho,Chanute Ward 2 Precinct 1,Secretary of State,,D,Jean Schodorf,57
-Neosho,Chanute Ward 2 Precinct 2,Secretary of State,,D,Jean Schodorf,61
-Neosho,Chanute Ward 3 Precinct 1,Secretary of State,,D,Jean Schodorf,117
-Neosho,Chanute Ward 3 Precinct 2,Secretary of State,,D,Jean Schodorf,90
-Neosho,Chanute Ward 3 Precinct 3,Secretary of State,,D,Jean Schodorf,163
-Neosho,Chanute Ward 4 Precinct 1,Secretary of State,,D,Jean Schodorf,112
-Neosho,Chanute Ward 4 Precinct 2,Secretary of State,,D,Jean Schodorf,83
-Neosho,Chanute Ward 4 Precinct 3,Secretary of State,,D,Jean Schodorf,55
-Neosho,Big Creek Township,Attorney General,,R,Derek Schmidt,172
-Neosho,Canville Township,Attorney General,,R,Derek Schmidt,181
-Neosho,Centerville Township,Attorney General,,R,Derek Schmidt,136
-Neosho,Chetopa Township H9,Attorney General,,R,Derek Schmidt,69
-Neosho,Chetopa Township H13,Attorney General,,R,Derek Schmidt,183
-Neosho,East Erie,Attorney General,,R,Derek Schmidt,140
-Neosho,West Erie,Attorney General,,R,Derek Schmidt,183
-Neosho,Grant Township,Attorney General,,R,Derek Schmidt,110
-Neosho,Ladore Township,Attorney General,,R,Derek Schmidt,68
-Neosho,Lincoln Township,Attorney General,,R,Derek Schmidt,47
-Neosho,Mission Township,Attorney General,,R,Derek Schmidt,224
-Neosho,North Tioga Township,Attorney General,,R,Derek Schmidt,144
-Neosho,South Tioga East Township,Attorney General,,R,Derek Schmidt,68
-Neosho,South Tioga West Township,Attorney General,,R,Derek Schmidt,43
-Neosho,Shiloh Township,Attorney General,,R,Derek Schmidt,101
-Neosho,Walnut Grove Township,Attorney General,,R,Derek Schmidt,94
-Neosho,Chanute Ward 1,Attorney General,,R,Derek Schmidt,45
-Neosho,Chanute Ward 2 Precinct 1,Attorney General,,R,Derek Schmidt,134
-Neosho,Chanute Ward 2 Precinct 2,Attorney General,,R,Derek Schmidt,176
-Neosho,Chanute Ward 3 Precinct 1,Attorney General,,R,Derek Schmidt,234
-Neosho,Chanute Ward 3 Precinct 2,Attorney General,,R,Derek Schmidt,173
-Neosho,Chanute Ward 3 Precinct 3,Attorney General,,R,Derek Schmidt,332
-Neosho,Chanute Ward 4 Precinct 1,Attorney General,,R,Derek Schmidt,179
-Neosho,Chanute Ward 4 Precinct 2,Attorney General,,R,Derek Schmidt,113
-Neosho,Chanute Ward 4 Precinct 3,Attorney General,,R,Derek Schmidt,117
-Neosho,Big Creek Township,Attorney General,,D,A.J. Kotich,28
-Neosho,Canville Township,Attorney General,,D,A.J. Kotich,63
-Neosho,Centerville Township,Attorney General,,D,A.J. Kotich,66
-Neosho,Chetopa Township H9,Attorney General,,D,A.J. Kotich,10
-Neosho,Chetopa Township H13,Attorney General,,D,A.J. Kotich,31
-Neosho,East Erie,Attorney General,,D,A.J. Kotich,63
-Neosho,West Erie,Attorney General,,D,A.J. Kotich,59
-Neosho,Grant Township,Attorney General,,D,A.J. Kotich,43
-Neosho,Ladore Township,Attorney General,,D,A.J. Kotich,65
-Neosho,Lincoln Township,Attorney General,,D,A.J. Kotich,26
-Neosho,Mission Township,Attorney General,,D,A.J. Kotich,86
-Neosho,North Tioga Township,Attorney General,,D,A.J. Kotich,30
-Neosho,South Tioga East Township,Attorney General,,D,A.J. Kotich,23
-Neosho,South Tioga West Township,Attorney General,,D,A.J. Kotich,9
-Neosho,Shiloh Township,Attorney General,,D,A.J. Kotich,15
-Neosho,Walnut Grove Township,Attorney General,,D,A.J. Kotich,28
-Neosho,Chanute Ward 1,Attorney General,,D,A.J. Kotich,17
-Neosho,Chanute Ward 2 Precinct 1,Attorney General,,D,A.J. Kotich,37
-Neosho,Chanute Ward 2 Precinct 2,Attorney General,,D,A.J. Kotich,55
-Neosho,Chanute Ward 3 Precinct 1,Attorney General,,D,A.J. Kotich,109
-Neosho,Chanute Ward 3 Precinct 2,Attorney General,,D,A.J. Kotich,71
-Neosho,Chanute Ward 3 Precinct 3,Attorney General,,D,A.J. Kotich,134
-Neosho,Chanute Ward 4 Precinct 1,Attorney General,,D,A.J. Kotich,90
-Neosho,Chanute Ward 4 Precinct 2,Attorney General,,D,A.J. Kotich,78
-Neosho,Chanute Ward 4 Precinct 3,Attorney General,,D,A.J. Kotich,49
-Neosho,Big Creek Township,State Treasurer,,R,Ron Estes,165
-Neosho,Canville Township,State Treasurer,,R,Ron Estes,186
-Neosho,Centerville Township,State Treasurer,,R,Ron Estes,134
-Neosho,Chetopa Township H9,State Treasurer,,R,Ron Estes,69
-Neosho,Chetopa Township H13,State Treasurer,,R,Ron Estes,180
-Neosho,East Erie,State Treasurer,,R,Ron Estes,132
-Neosho,West Erie,State Treasurer,,R,Ron Estes,183
-Neosho,Grant Township,State Treasurer,,R,Ron Estes,108
-Neosho,Ladore Township,State Treasurer,,R,Ron Estes,71
-Neosho,Lincoln Township,State Treasurer,,R,Ron Estes,44
-Neosho,Mission Township,State Treasurer,,R,Ron Estes,216
-Neosho,North Tioga Township,State Treasurer,,R,Ron Estes,142
-Neosho,South Tioga East Township,State Treasurer,,R,Ron Estes,69
-Neosho,South Tioga West Township,State Treasurer,,R,Ron Estes,44
-Neosho,Shiloh Township,State Treasurer,,R,Ron Estes,101
-Neosho,Walnut Grove Township,State Treasurer,,R,Ron Estes,81
-Neosho,Chanute Ward 1,State Treasurer,,R,Ron Estes,42
-Neosho,Chanute Ward 2 Precinct 1,State Treasurer,,R,Ron Estes,126
-Neosho,Chanute Ward 2 Precinct 2,State Treasurer,,R,Ron Estes,171
-Neosho,Chanute Ward 3 Precinct 1,State Treasurer,,R,Ron Estes,211
-Neosho,Chanute Ward 3 Precinct 2,State Treasurer,,R,Ron Estes,164
-Neosho,Chanute Ward 3 Precinct 3,State Treasurer,,R,Ron Estes,334
-Neosho,Chanute Ward 4 Precinct 1,State Treasurer,,R,Ron Estes,171
-Neosho,Chanute Ward 4 Precinct 2,State Treasurer,,R,Ron Estes,109
-Neosho,Chanute Ward 4 Precinct 3,State Treasurer,,R,Ron Estes,113
-Neosho,Big Creek Township,State Treasurer,,D,Carmen Alldritt,34
-Neosho,Canville Township,State Treasurer,,D,Carmen Alldritt,60
-Neosho,Centerville Township,State Treasurer,,D,Carmen Alldritt,65
-Neosho,Chetopa Township H9,State Treasurer,,D,Carmen Alldritt,9
-Neosho,Chetopa Township H13,State Treasurer,,D,Carmen Alldritt,34
-Neosho,East Erie,State Treasurer,,D,Carmen Alldritt,69
-Neosho,West Erie,State Treasurer,,D,Carmen Alldritt,59
-Neosho,Grant Township,State Treasurer,,D,Carmen Alldritt,45
-Neosho,Ladore Township,State Treasurer,,D,Carmen Alldritt,60
-Neosho,Lincoln Township,State Treasurer,,D,Carmen Alldritt,29
-Neosho,Mission Township,State Treasurer,,D,Carmen Alldritt,89
-Neosho,North Tioga Township,State Treasurer,,D,Carmen Alldritt,31
-Neosho,South Tioga East Township,State Treasurer,,D,Carmen Alldritt,20
-Neosho,South Tioga West Township,State Treasurer,,D,Carmen Alldritt,9
-Neosho,Shiloh Township,State Treasurer,,D,Carmen Alldritt,15
-Neosho,Walnut Grove Township,State Treasurer,,D,Carmen Alldritt,38
-Neosho,Chanute Ward 1,State Treasurer,,D,Carmen Alldritt,20
-Neosho,Chanute Ward 2 Precinct 1,State Treasurer,,D,Carmen Alldritt,44
-Neosho,Chanute Ward 2 Precinct 2,State Treasurer,,D,Carmen Alldritt,59
-Neosho,Chanute Ward 3 Precinct 1,State Treasurer,,D,Carmen Alldritt,126
-Neosho,Chanute Ward 3 Precinct 2,State Treasurer,,D,Carmen Alldritt,76
-Neosho,Chanute Ward 3 Precinct 3,State Treasurer,,D,Carmen Alldritt,131
-Neosho,Chanute Ward 4 Precinct 1,State Treasurer,,D,Carmen Alldritt,99
-Neosho,Chanute Ward 4 Precinct 2,State Treasurer,,D,Carmen Alldritt,82
-Neosho,Chanute Ward 4 Precinct 3,State Treasurer,,D,Carmen Alldritt,54
-Neosho,Big Creek Township,Insurance Commissioner,,R,Ken Selzer,162
-Neosho,Canville Township,Insurance Commissioner,,R,Ken Selzer,166
-Neosho,Centerville Township,Insurance Commissioner,,R,Ken Selzer,132
-Neosho,Chetopa Township H9,Insurance Commissioner,,R,Ken Selzer,59
-Neosho,Chetopa Township H13,Insurance Commissioner,,R,Ken Selzer,171
-Neosho,East Erie,Insurance Commissioner,,R,Ken Selzer,119
-Neosho,West Erie,Insurance Commissioner,,R,Ken Selzer,161
-Neosho,Grant Township,Insurance Commissioner,,R,Ken Selzer,103
-Neosho,Ladore Township,Insurance Commissioner,,R,Ken Selzer,65
-Neosho,Lincoln Township,Insurance Commissioner,,R,Ken Selzer,41
-Neosho,Mission Township,Insurance Commissioner,,R,Ken Selzer,195
-Neosho,North Tioga Township,Insurance Commissioner,,R,Ken Selzer,138
-Neosho,South Tioga East Township,Insurance Commissioner,,R,Ken Selzer,62
-Neosho,South Tioga West Township,Insurance Commissioner,,R,Ken Selzer,41
-Neosho,Shiloh Township,Insurance Commissioner,,R,Ken Selzer,91
-Neosho,Walnut Grove Township,Insurance Commissioner,,R,Ken Selzer,77
-Neosho,Chanute Ward 1,Insurance Commissioner,,R,Ken Selzer,37
-Neosho,Chanute Ward 2 Precinct 1,Insurance Commissioner,,R,Ken Selzer,121
-Neosho,Chanute Ward 2 Precinct 2,Insurance Commissioner,,R,Ken Selzer,163
-Neosho,Chanute Ward 3 Precinct 1,Insurance Commissioner,,R,Ken Selzer,201
-Neosho,Chanute Ward 3 Precinct 2,Insurance Commissioner,,R,Ken Selzer,158
-Neosho,Chanute Ward 3 Precinct 3,Insurance Commissioner,,R,Ken Selzer,312
-Neosho,Chanute Ward 4 Precinct 1,Insurance Commissioner,,R,Ken Selzer,158
-Neosho,Chanute Ward 4 Precinct 2,Insurance Commissioner,,R,Ken Selzer,107
-Neosho,Chanute Ward 4 Precinct 3,Insurance Commissioner,,R,Ken Selzer,110
-Neosho,Big Creek Township,Insurance Commissioner,,D,Dennis Anderson,36
-Neosho,Canville Township,Insurance Commissioner,,D,Dennis Anderson,72
-Neosho,Centerville Township,Insurance Commissioner,,D,Dennis Anderson,65
-Neosho,Chetopa Township H9,Insurance Commissioner,,D,Dennis Anderson,16
-Neosho,Chetopa Township H13,Insurance Commissioner,,D,Dennis Anderson,43
-Neosho,East Erie,Insurance Commissioner,,D,Dennis Anderson,80
-Neosho,West Erie,Insurance Commissioner,,D,Dennis Anderson,73
-Neosho,Grant Township,Insurance Commissioner,,D,Dennis Anderson,50
-Neosho,Ladore Township,Insurance Commissioner,,D,Dennis Anderson,66
-Neosho,Lincoln Township,Insurance Commissioner,,D,Dennis Anderson,32
-Neosho,Mission Township,Insurance Commissioner,,D,Dennis Anderson,110
-Neosho,North Tioga Township,Insurance Commissioner,,D,Dennis Anderson,33
-Neosho,South Tioga East Township,Insurance Commissioner,,D,Dennis Anderson,27
-Neosho,South Tioga West Township,Insurance Commissioner,,D,Dennis Anderson,11
-Neosho,Shiloh Township,Insurance Commissioner,,D,Dennis Anderson,23
-Neosho,Walnut Grove Township,Insurance Commissioner,,D,Dennis Anderson,40
-Neosho,Chanute Ward 1,Insurance Commissioner,,D,Dennis Anderson,25
-Neosho,Chanute Ward 2 Precinct 1,Insurance Commissioner,,D,Dennis Anderson,49
-Neosho,Chanute Ward 2 Precinct 2,Insurance Commissioner,,D,Dennis Anderson,65
-Neosho,Chanute Ward 3 Precinct 1,Insurance Commissioner,,D,Dennis Anderson,128
-Neosho,Chanute Ward 3 Precinct 2,Insurance Commissioner,,D,Dennis Anderson,79
-Neosho,Chanute Ward 3 Precinct 3,Insurance Commissioner,,D,Dennis Anderson,149
-Neosho,Chanute Ward 4 Precinct 1,Insurance Commissioner,,D,Dennis Anderson,109
-Neosho,Chanute Ward 4 Precinct 2,Insurance Commissioner,,D,Dennis Anderson,83
-Neosho,Chanute Ward 4 Precinct 3,Insurance Commissioner,,D,Dennis Anderson,54
-Neosho,Canville Township,State House,9,R,Kent Thompson,217
-Neosho,Chetopa Township H9,State House,9,R,Kent Thompson,73
-Neosho,North Tioga Township,State House,9,R,Kent Thompson,159
-Neosho,South Tioga East Township,State House,9,R,Kent Thompson,84
-Neosho,South Tioga West Township,State House,9,R,Kent Thompson,48
-Neosho,Chanute Ward 1,State House,9,R,Kent Thompson,51
-Neosho,Chanute Ward 2 Precinct 1,State House,9,R,Kent Thompson,154
-Neosho,Chanute Ward 2 Precinct 2,State House,9,R,Kent Thompson,200
-Neosho,Chanute Ward 3 Precinct 1,State House,9,R,Kent Thompson,298
-Neosho,Chanute Ward 3 Precinct 2,State House,9,R,Kent Thompson,203
-Neosho,Chanute Ward 3 Precinct 3,State House,9,R,Kent Thompson,407
-Neosho,Chanute Ward 4 Precinct 1,State House,9,R,Kent Thompson,220
-Neosho,Chanute Ward 4 Precinct 2,State House,9,R,Kent Thompson,151
-Neosho,Chanute Ward 4 Precinct 3,State House,9,R,Kent Thompson,135
-Neosho,Chetopa Township H13,State House,13,R,Larry Hibbard,196
-Neosho,Shiloh Township,State House,13,R,Larry Hibbard,108
-Neosho,Big Creek Township,State House,2,D,Adam Tasker,120
-Neosho,Centerville Township,State House,2,D,Adam Tasker,126
-Neosho,East Erie,State House,2,D,Adam Tasker,147
-Neosho,West Erie,State House,2,D,Adam Tasker,156
-Neosho,Grant Township,State House,2,D,Adam Tasker,89
-Neosho,Ladore Township,State House,2,D,Adam Tasker,100
-Neosho,Lincoln Township,State House,2,D,Adam Tasker,49
-Neosho,Mission Township,State House,2,D,Adam Tasker,217
-Neosho,Walnut Grove Township,State House,2,D,Adam Tasker,86
+county,precinct,office,district,party,candidate,votes,vtd
+NEOSHO,Big Creek Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",69,000010
+NEOSHO,Big Creek Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000010
+NEOSHO,Big Creek Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",123,000010
+NEOSHO,Canville Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",105,00002A
+NEOSHO,Canville Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,00002A
+NEOSHO,Canville Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",132,00002A
+NEOSHO,Centerville Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",88,000030
+NEOSHO,Centerville Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000030
+NEOSHO,Centerville Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000030
+NEOSHO,Chanute Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000040
+NEOSHO,Chanute Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000040
+NEOSHO,Chanute Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",36,000040
+NEOSHO,Chanute Ward 2 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",78,000050
+NEOSHO,Chanute Ward 2 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000050
+NEOSHO,Chanute Ward 2 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",92,000050
+NEOSHO,Chanute Ward 2 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",78,000060
+NEOSHO,Chanute Ward 2 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000060
+NEOSHO,Chanute Ward 2 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",147,000060
+NEOSHO,Chanute Ward 3 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",160,000070
+NEOSHO,Chanute Ward 3 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",34,000070
+NEOSHO,Chanute Ward 3 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",155,000070
+NEOSHO,Chanute Ward 3 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",111,000080
+NEOSHO,Chanute Ward 3 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000080
+NEOSHO,Chanute Ward 3 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",129,000080
+NEOSHO,Chanute Ward 3 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",204,000090
+NEOSHO,Chanute Ward 3 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000090
+NEOSHO,Chanute Ward 3 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",255,000090
+NEOSHO,Chanute Ward 4 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",148,000100
+NEOSHO,Chanute Ward 4 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000100
+NEOSHO,Chanute Ward 4 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",123,000100
+NEOSHO,Chanute Ward 4 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",111,000110
+NEOSHO,Chanute Ward 4 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000110
+NEOSHO,Chanute Ward 4 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",76,000110
+NEOSHO,Chanute Ward 4 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",64,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",94,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00012C
+NEOSHO,East Erie,Governor / Lt. Governor,,Democratic,"Davis, Paul",116,000140
+NEOSHO,East Erie,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000140
+NEOSHO,East Erie,Governor / Lt. Governor,,Republican,"Brownback, Sam",83,000140
+NEOSHO,Grant Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",62,000150
+NEOSHO,Grant Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000150
+NEOSHO,Grant Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",85,000150
+NEOSHO,Ladore Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",78,000160
+NEOSHO,Ladore Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000160
+NEOSHO,Ladore Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",53,000160
+NEOSHO,Lincoln Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",31,000170
+NEOSHO,Lincoln Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000170
+NEOSHO,Lincoln Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,000170
+NEOSHO,Mission Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",127,000180
+NEOSHO,Mission Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000180
+NEOSHO,Mission Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",193,000180
+NEOSHO,North Tioga Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",52,000190
+NEOSHO,North Tioga Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000190
+NEOSHO,North Tioga Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",116,000190
+NEOSHO,Shiloh Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",20,000200
+NEOSHO,Shiloh Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000200
+NEOSHO,Shiloh Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",91,000200
+NEOSHO,South Tioga East Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",36,000210
+NEOSHO,South Tioga East Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000210
+NEOSHO,South Tioga East Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",50,000210
+NEOSHO,South Tioga West Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",18,00022A
+NEOSHO,South Tioga West Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,00022A
+NEOSHO,South Tioga West Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",33,00022A
+NEOSHO,South Tioga West Township Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00022B
+NEOSHO,South Tioga West Township Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00022B
+NEOSHO,South Tioga West Township Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00022B
+NEOSHO,South Tioga West Township Enclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00022C
+NEOSHO,South Tioga West Township Enclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00022C
+NEOSHO,South Tioga West Township Enclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00022C
+NEOSHO,South Tioga West Township Enclave C,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00022D
+NEOSHO,South Tioga West Township Enclave C,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00022D
+NEOSHO,South Tioga West Township Enclave C,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00022D
+NEOSHO,Walnut Grove Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",65,000230
+NEOSHO,Walnut Grove Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000230
+NEOSHO,Walnut Grove Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",57,000230
+NEOSHO,West Erie,Governor / Lt. Governor,,Democratic,"Davis, Paul",100,000240
+NEOSHO,West Erie,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000240
+NEOSHO,West Erie,Governor / Lt. Governor,,Republican,"Brownback, Sam",147,000240
+NEOSHO,Chetopa Township H13,Governor / Lt. Governor,,Democratic,"Davis, Paul",49,120020
+NEOSHO,Chetopa Township H13,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,120020
+NEOSHO,Chetopa Township H13,Governor / Lt. Governor,,Republican,"Brownback, Sam",163,120020
+NEOSHO,Chetopa Township H2,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,120030
+NEOSHO,Chetopa Township H2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,120030
+NEOSHO,Chetopa Township H2,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,120030
+NEOSHO,Chetopa Township H9,Governor / Lt. Governor,,Democratic,"Davis, Paul",15,120040
+NEOSHO,Chetopa Township H9,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,120040
+NEOSHO,Chetopa Township H9,Governor / Lt. Governor,,Republican,"Brownback, Sam",65,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+NEOSHO,Big Creek Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",120,000010
+NEOSHO,Canville Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",217,00002A
+NEOSHO,Centerville Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",126,000030
+NEOSHO,Chanute Ward 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",51,000040
+NEOSHO,Chanute Ward 2 Precinct 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",154,000050
+NEOSHO,Chanute Ward 2 Precinct 2,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",200,000060
+NEOSHO,Chanute Ward 3 Precinct 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",298,000070
+NEOSHO,Chanute Ward 3 Precinct 2,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",203,000080
+NEOSHO,Chanute Ward 3 Precinct 3,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",407,000090
+NEOSHO,Chanute Ward 4 Precinct 1,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",220,000100
+NEOSHO,Chanute Ward 4 Precinct 2,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",151,000110
+NEOSHO,Chanute Ward 4 Precinct 3,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",135,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00012C
+NEOSHO,East Erie,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",147,000140
+NEOSHO,Grant Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",89,000150
+NEOSHO,Ladore Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",100,000160
+NEOSHO,Lincoln Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",49,000170
+NEOSHO,Mission Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",217,000180
+NEOSHO,North Tioga Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",159,000190
+NEOSHO,Shiloh Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",108,000200
+NEOSHO,South Tioga East Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",84,000210
+NEOSHO,South Tioga West Township,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",48,00022A
+NEOSHO,South Tioga West Township Enclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00022B
+NEOSHO,South Tioga West Township Enclave B,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00022C
+NEOSHO,South Tioga West Township Enclave C,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,00022D
+NEOSHO,Walnut Grove Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",86,000230
+NEOSHO,West Erie,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",156,000240
+NEOSHO,Chetopa Township H13,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",196,120020
+NEOSHO,Chetopa Township H2,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",0,120030
+NEOSHO,Chetopa Township H9,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",73,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Kansas House of Representatives,9,Republican,"Thompson, Kent L.",0,900020
+NEOSHO,Big Creek Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",31,000010
+NEOSHO,Big Creek Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000010
+NEOSHO,Big Creek Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",162,000010
+NEOSHO,Canville Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",66,00002A
+NEOSHO,Canville Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,00002A
+NEOSHO,Canville Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",169,00002A
+NEOSHO,Centerville Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",67,000030
+NEOSHO,Centerville Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000030
+NEOSHO,Centerville Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",130,000030
+NEOSHO,Chanute Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",14,000040
+NEOSHO,Chanute Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000040
+NEOSHO,Chanute Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",41,000040
+NEOSHO,Chanute Ward 2 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",44,000050
+NEOSHO,Chanute Ward 2 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000050
+NEOSHO,Chanute Ward 2 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",119,000050
+NEOSHO,Chanute Ward 2 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",57,000060
+NEOSHO,Chanute Ward 2 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000060
+NEOSHO,Chanute Ward 2 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",167,000060
+NEOSHO,Chanute Ward 3 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",107,000070
+NEOSHO,Chanute Ward 3 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",34,000070
+NEOSHO,Chanute Ward 3 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",210,000070
+NEOSHO,Chanute Ward 3 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",76,000080
+NEOSHO,Chanute Ward 3 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000080
+NEOSHO,Chanute Ward 3 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",160,000080
+NEOSHO,Chanute Ward 3 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",139,000090
+NEOSHO,Chanute Ward 3 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",17,000090
+NEOSHO,Chanute Ward 3 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",316,000090
+NEOSHO,Chanute Ward 4 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",101,000100
+NEOSHO,Chanute Ward 4 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",16,000100
+NEOSHO,Chanute Ward 4 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",166,000100
+NEOSHO,Chanute Ward 4 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",82,000110
+NEOSHO,Chanute Ward 4 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000110
+NEOSHO,Chanute Ward 4 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",102,000110
+NEOSHO,Chanute Ward 4 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",53,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",103,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00012C
+NEOSHO,East Erie,United States House of Representatives,2,Democratic,"Wakefield, Margie",82,000140
+NEOSHO,East Erie,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",14,000140
+NEOSHO,East Erie,United States House of Representatives,2,Republican,"Jenkins, Lynn",120,000140
+NEOSHO,Grant Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",42,000150
+NEOSHO,Grant Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000150
+NEOSHO,Grant Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",106,000150
+NEOSHO,Ladore Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",63,000160
+NEOSHO,Ladore Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000160
+NEOSHO,Ladore Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",63,000160
+NEOSHO,Lincoln Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",23,000170
+NEOSHO,Lincoln Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000170
+NEOSHO,Lincoln Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",47,000170
+NEOSHO,Mission Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",88,000180
+NEOSHO,Mission Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000180
+NEOSHO,Mission Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",230,000180
+NEOSHO,North Tioga Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",27,000190
+NEOSHO,North Tioga Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000190
+NEOSHO,North Tioga Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",138,000190
+NEOSHO,Shiloh Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",10,000200
+NEOSHO,Shiloh Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000200
+NEOSHO,Shiloh Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",99,000200
+NEOSHO,South Tioga East Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",21,000210
+NEOSHO,South Tioga East Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000210
+NEOSHO,South Tioga East Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",65,000210
+NEOSHO,South Tioga West Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",8,00022A
+NEOSHO,South Tioga West Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,00022A
+NEOSHO,South Tioga West Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",44,00022A
+NEOSHO,South Tioga West Township Enclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00022B
+NEOSHO,South Tioga West Township Enclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00022B
+NEOSHO,South Tioga West Township Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00022B
+NEOSHO,South Tioga West Township Enclave B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00022C
+NEOSHO,South Tioga West Township Enclave B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00022C
+NEOSHO,South Tioga West Township Enclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00022C
+NEOSHO,South Tioga West Township Enclave C,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00022D
+NEOSHO,South Tioga West Township Enclave C,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00022D
+NEOSHO,South Tioga West Township Enclave C,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00022D
+NEOSHO,Walnut Grove Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",50,000230
+NEOSHO,Walnut Grove Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000230
+NEOSHO,Walnut Grove Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",73,000230
+NEOSHO,West Erie,United States House of Representatives,2,Democratic,"Wakefield, Margie",63,000240
+NEOSHO,West Erie,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000240
+NEOSHO,West Erie,United States House of Representatives,2,Republican,"Jenkins, Lynn",176,000240
+NEOSHO,Chetopa Township H13,United States House of Representatives,2,Democratic,"Wakefield, Margie",32,120020
+NEOSHO,Chetopa Township H13,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,120020
+NEOSHO,Chetopa Township H13,United States House of Representatives,2,Republican,"Jenkins, Lynn",180,120020
+NEOSHO,Chetopa Township H2,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,120030
+NEOSHO,Chetopa Township H2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,120030
+NEOSHO,Chetopa Township H2,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120030
+NEOSHO,Chetopa Township H9,United States House of Representatives,2,Democratic,"Wakefield, Margie",8,120040
+NEOSHO,Chetopa Township H9,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,120040
+NEOSHO,Chetopa Township H9,United States House of Representatives,2,Republican,"Jenkins, Lynn",71,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+NEOSHO,Big Creek Township,Attorney General,,Democratic,"Kotich, A.J.",28,000010
+NEOSHO,Big Creek Township,Attorney General,,Republican,"Schmidt, Derek",172,000010
+NEOSHO,Canville Township,Attorney General,,Democratic,"Kotich, A.J.",63,00002A
+NEOSHO,Canville Township,Attorney General,,Republican,"Schmidt, Derek",181,00002A
+NEOSHO,Centerville Township,Attorney General,,Democratic,"Kotich, A.J.",66,000030
+NEOSHO,Centerville Township,Attorney General,,Republican,"Schmidt, Derek",136,000030
+NEOSHO,Chanute Ward 1,Attorney General,,Democratic,"Kotich, A.J.",17,000040
+NEOSHO,Chanute Ward 1,Attorney General,,Republican,"Schmidt, Derek",45,000040
+NEOSHO,Chanute Ward 2 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",37,000050
+NEOSHO,Chanute Ward 2 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",134,000050
+NEOSHO,Chanute Ward 2 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",55,000060
+NEOSHO,Chanute Ward 2 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",176,000060
+NEOSHO,Chanute Ward 3 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",109,000070
+NEOSHO,Chanute Ward 3 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",234,000070
+NEOSHO,Chanute Ward 3 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",71,000080
+NEOSHO,Chanute Ward 3 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",173,000080
+NEOSHO,Chanute Ward 3 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",134,000090
+NEOSHO,Chanute Ward 3 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",332,000090
+NEOSHO,Chanute Ward 4 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",90,000100
+NEOSHO,Chanute Ward 4 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",179,000100
+NEOSHO,Chanute Ward 4 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",78,000110
+NEOSHO,Chanute Ward 4 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",113,000110
+NEOSHO,Chanute Ward 4 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",49,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",117,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00012C
+NEOSHO,East Erie,Attorney General,,Democratic,"Kotich, A.J.",63,000140
+NEOSHO,East Erie,Attorney General,,Republican,"Schmidt, Derek",140,000140
+NEOSHO,Grant Township,Attorney General,,Democratic,"Kotich, A.J.",43,000150
+NEOSHO,Grant Township,Attorney General,,Republican,"Schmidt, Derek",110,000150
+NEOSHO,Ladore Township,Attorney General,,Democratic,"Kotich, A.J.",65,000160
+NEOSHO,Ladore Township,Attorney General,,Republican,"Schmidt, Derek",68,000160
+NEOSHO,Lincoln Township,Attorney General,,Democratic,"Kotich, A.J.",26,000170
+NEOSHO,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",47,000170
+NEOSHO,Mission Township,Attorney General,,Democratic,"Kotich, A.J.",86,000180
+NEOSHO,Mission Township,Attorney General,,Republican,"Schmidt, Derek",224,000180
+NEOSHO,North Tioga Township,Attorney General,,Democratic,"Kotich, A.J.",30,000190
+NEOSHO,North Tioga Township,Attorney General,,Republican,"Schmidt, Derek",144,000190
+NEOSHO,Shiloh Township,Attorney General,,Democratic,"Kotich, A.J.",15,000200
+NEOSHO,Shiloh Township,Attorney General,,Republican,"Schmidt, Derek",101,000200
+NEOSHO,South Tioga East Township,Attorney General,,Democratic,"Kotich, A.J.",23,000210
+NEOSHO,South Tioga East Township,Attorney General,,Republican,"Schmidt, Derek",68,000210
+NEOSHO,South Tioga West Township,Attorney General,,Democratic,"Kotich, A.J.",9,00022A
+NEOSHO,South Tioga West Township,Attorney General,,Republican,"Schmidt, Derek",43,00022A
+NEOSHO,South Tioga West Township Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00022B
+NEOSHO,South Tioga West Township Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00022B
+NEOSHO,South Tioga West Township Enclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00022C
+NEOSHO,South Tioga West Township Enclave B,Attorney General,,Republican,"Schmidt, Derek",0,00022C
+NEOSHO,South Tioga West Township Enclave C,Attorney General,,Democratic,"Kotich, A.J.",0,00022D
+NEOSHO,South Tioga West Township Enclave C,Attorney General,,Republican,"Schmidt, Derek",0,00022D
+NEOSHO,Walnut Grove Township,Attorney General,,Democratic,"Kotich, A.J.",28,000230
+NEOSHO,Walnut Grove Township,Attorney General,,Republican,"Schmidt, Derek",94,000230
+NEOSHO,West Erie,Attorney General,,Democratic,"Kotich, A.J.",59,000240
+NEOSHO,West Erie,Attorney General,,Republican,"Schmidt, Derek",183,000240
+NEOSHO,Chetopa Township H13,Attorney General,,Democratic,"Kotich, A.J.",31,120020
+NEOSHO,Chetopa Township H13,Attorney General,,Republican,"Schmidt, Derek",183,120020
+NEOSHO,Chetopa Township H2,Attorney General,,Democratic,"Kotich, A.J.",0,120030
+NEOSHO,Chetopa Township H2,Attorney General,,Republican,"Schmidt, Derek",0,120030
+NEOSHO,Chetopa Township H9,Attorney General,,Democratic,"Kotich, A.J.",10,120040
+NEOSHO,Chetopa Township H9,Attorney General,,Republican,"Schmidt, Derek",69,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900020
+NEOSHO,Big Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",36,000010
+NEOSHO,Big Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",162,000010
+NEOSHO,Canville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,00002A
+NEOSHO,Canville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",166,00002A
+NEOSHO,Centerville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",65,000030
+NEOSHO,Centerville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",132,000030
+NEOSHO,Chanute Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,000040
+NEOSHO,Chanute Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",37,000040
+NEOSHO,Chanute Ward 2 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",49,000050
+NEOSHO,Chanute Ward 2 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",121,000050
+NEOSHO,Chanute Ward 2 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",65,000060
+NEOSHO,Chanute Ward 2 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",163,000060
+NEOSHO,Chanute Ward 3 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",128,000070
+NEOSHO,Chanute Ward 3 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",201,000070
+NEOSHO,Chanute Ward 3 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",79,000080
+NEOSHO,Chanute Ward 3 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",158,000080
+NEOSHO,Chanute Ward 3 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",149,000090
+NEOSHO,Chanute Ward 3 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",312,000090
+NEOSHO,Chanute Ward 4 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",109,000100
+NEOSHO,Chanute Ward 4 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",158,000100
+NEOSHO,Chanute Ward 4 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",83,000110
+NEOSHO,Chanute Ward 4 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",107,000110
+NEOSHO,Chanute Ward 4 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",110,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00012C
+NEOSHO,East Erie,Commissioner of Insurance,,Democratic,"Anderson, Dennis",80,000140
+NEOSHO,East Erie,Commissioner of Insurance,,Republican,"Selzer, Ken",119,000140
+NEOSHO,Grant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",50,000150
+NEOSHO,Grant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",103,000150
+NEOSHO,Ladore Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",66,000160
+NEOSHO,Ladore Township,Commissioner of Insurance,,Republican,"Selzer, Ken",65,000160
+NEOSHO,Lincoln Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",32,000170
+NEOSHO,Lincoln Township,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000170
+NEOSHO,Mission Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",110,000180
+NEOSHO,Mission Township,Commissioner of Insurance,,Republican,"Selzer, Ken",195,000180
+NEOSHO,North Tioga Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000190
+NEOSHO,North Tioga Township,Commissioner of Insurance,,Republican,"Selzer, Ken",138,000190
+NEOSHO,Shiloh Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",23,000200
+NEOSHO,Shiloh Township,Commissioner of Insurance,,Republican,"Selzer, Ken",91,000200
+NEOSHO,South Tioga East Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",27,000210
+NEOSHO,South Tioga East Township,Commissioner of Insurance,,Republican,"Selzer, Ken",62,000210
+NEOSHO,South Tioga West Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,00022A
+NEOSHO,South Tioga West Township,Commissioner of Insurance,,Republican,"Selzer, Ken",41,00022A
+NEOSHO,South Tioga West Township Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00022B
+NEOSHO,South Tioga West Township Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00022B
+NEOSHO,South Tioga West Township Enclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00022C
+NEOSHO,South Tioga West Township Enclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00022C
+NEOSHO,South Tioga West Township Enclave C,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00022D
+NEOSHO,South Tioga West Township Enclave C,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00022D
+NEOSHO,Walnut Grove Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",40,000230
+NEOSHO,Walnut Grove Township,Commissioner of Insurance,,Republican,"Selzer, Ken",77,000230
+NEOSHO,West Erie,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,000240
+NEOSHO,West Erie,Commissioner of Insurance,,Republican,"Selzer, Ken",161,000240
+NEOSHO,Chetopa Township H13,Commissioner of Insurance,,Democratic,"Anderson, Dennis",43,120020
+NEOSHO,Chetopa Township H13,Commissioner of Insurance,,Republican,"Selzer, Ken",171,120020
+NEOSHO,Chetopa Township H2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120030
+NEOSHO,Chetopa Township H2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,120030
+NEOSHO,Chetopa Township H9,Commissioner of Insurance,,Democratic,"Anderson, Dennis",16,120040
+NEOSHO,Chetopa Township H9,Commissioner of Insurance,,Republican,"Selzer, Ken",59,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+NEOSHO,Big Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000010
+NEOSHO,Big Creek Township,Secretary of State,,Republican,"Kobach, Kris",160,000010
+NEOSHO,Canville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",75,00002A
+NEOSHO,Canville Township,Secretary of State,,Republican,"Kobach, Kris",171,00002A
+NEOSHO,Centerville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",71,000030
+NEOSHO,Centerville Township,Secretary of State,,Republican,"Kobach, Kris",133,000030
+NEOSHO,Chanute Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",23,000040
+NEOSHO,Chanute Ward 1,Secretary of State,,Republican,"Kobach, Kris",39,000040
+NEOSHO,Chanute Ward 2 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",57,000050
+NEOSHO,Chanute Ward 2 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",116,000050
+NEOSHO,Chanute Ward 2 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",61,000060
+NEOSHO,Chanute Ward 2 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",169,000060
+NEOSHO,Chanute Ward 3 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",117,000070
+NEOSHO,Chanute Ward 3 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",222,000070
+NEOSHO,Chanute Ward 3 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",90,000080
+NEOSHO,Chanute Ward 3 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",154,000080
+NEOSHO,Chanute Ward 3 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",163,000090
+NEOSHO,Chanute Ward 3 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",301,000090
+NEOSHO,Chanute Ward 4 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",112,000100
+NEOSHO,Chanute Ward 4 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",162,000100
+NEOSHO,Chanute Ward 4 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",83,000110
+NEOSHO,Chanute Ward 4 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",108,000110
+NEOSHO,Chanute Ward 4 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",55,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",111,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00012C
+NEOSHO,East Erie,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",93,000140
+NEOSHO,East Erie,Secretary of State,,Republican,"Kobach, Kris",115,000140
+NEOSHO,Grant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",49,000150
+NEOSHO,Grant Township,Secretary of State,,Republican,"Kobach, Kris",105,000150
+NEOSHO,Ladore Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",70,000160
+NEOSHO,Ladore Township,Secretary of State,,Republican,"Kobach, Kris",64,000160
+NEOSHO,Lincoln Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",26,000170
+NEOSHO,Lincoln Township,Secretary of State,,Republican,"Kobach, Kris",47,000170
+NEOSHO,Mission Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",101,000180
+NEOSHO,Mission Township,Secretary of State,,Republican,"Kobach, Kris",217,000180
+NEOSHO,North Tioga Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,000190
+NEOSHO,North Tioga Township,Secretary of State,,Republican,"Kobach, Kris",138,000190
+NEOSHO,Shiloh Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",17,000200
+NEOSHO,Shiloh Township,Secretary of State,,Republican,"Kobach, Kris",100,000200
+NEOSHO,South Tioga East Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000210
+NEOSHO,South Tioga East Township,Secretary of State,,Republican,"Kobach, Kris",62,000210
+NEOSHO,South Tioga West Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,00022A
+NEOSHO,South Tioga West Township,Secretary of State,,Republican,"Kobach, Kris",41,00022A
+NEOSHO,South Tioga West Township Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00022B
+NEOSHO,South Tioga West Township Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00022B
+NEOSHO,South Tioga West Township Enclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00022C
+NEOSHO,South Tioga West Township Enclave B,Secretary of State,,Republican,"Kobach, Kris",0,00022C
+NEOSHO,South Tioga West Township Enclave C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00022D
+NEOSHO,South Tioga West Township Enclave C,Secretary of State,,Republican,"Kobach, Kris",0,00022D
+NEOSHO,Walnut Grove Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",44,000230
+NEOSHO,Walnut Grove Township,Secretary of State,,Republican,"Kobach, Kris",78,000230
+NEOSHO,West Erie,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",72,000240
+NEOSHO,West Erie,Secretary of State,,Republican,"Kobach, Kris",175,000240
+NEOSHO,Chetopa Township H13,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,120020
+NEOSHO,Chetopa Township H13,Secretary of State,,Republican,"Kobach, Kris",176,120020
+NEOSHO,Chetopa Township H2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120030
+NEOSHO,Chetopa Township H2,Secretary of State,,Republican,"Kobach, Kris",0,120030
+NEOSHO,Chetopa Township H9,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,120040
+NEOSHO,Chetopa Township H9,Secretary of State,,Republican,"Kobach, Kris",69,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900020
+NEOSHO,Big Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",34,000010
+NEOSHO,Big Creek Township,State Treasurer,,Republican,"Estes, Ron",165,000010
+NEOSHO,Canville Township,State Treasurer,,Democratic,"Alldritt, Carmen",60,00002A
+NEOSHO,Canville Township,State Treasurer,,Republican,"Estes, Ron",186,00002A
+NEOSHO,Centerville Township,State Treasurer,,Democratic,"Alldritt, Carmen",65,000030
+NEOSHO,Centerville Township,State Treasurer,,Republican,"Estes, Ron",134,000030
+NEOSHO,Chanute Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",20,000040
+NEOSHO,Chanute Ward 1,State Treasurer,,Republican,"Estes, Ron",42,000040
+NEOSHO,Chanute Ward 2 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",44,000050
+NEOSHO,Chanute Ward 2 Precinct 1,State Treasurer,,Republican,"Estes, Ron",126,000050
+NEOSHO,Chanute Ward 2 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",59,000060
+NEOSHO,Chanute Ward 2 Precinct 2,State Treasurer,,Republican,"Estes, Ron",171,000060
+NEOSHO,Chanute Ward 3 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",126,000070
+NEOSHO,Chanute Ward 3 Precinct 1,State Treasurer,,Republican,"Estes, Ron",211,000070
+NEOSHO,Chanute Ward 3 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",76,000080
+NEOSHO,Chanute Ward 3 Precinct 2,State Treasurer,,Republican,"Estes, Ron",164,000080
+NEOSHO,Chanute Ward 3 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",131,000090
+NEOSHO,Chanute Ward 3 Precinct 3,State Treasurer,,Republican,"Estes, Ron",334,000090
+NEOSHO,Chanute Ward 4 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",99,000100
+NEOSHO,Chanute Ward 4 Precinct 1,State Treasurer,,Republican,"Estes, Ron",171,000100
+NEOSHO,Chanute Ward 4 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",82,000110
+NEOSHO,Chanute Ward 4 Precinct 2,State Treasurer,,Republican,"Estes, Ron",109,000110
+NEOSHO,Chanute Ward 4 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",54,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,State Treasurer,,Republican,"Estes, Ron",113,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00012C
+NEOSHO,East Erie,State Treasurer,,Democratic,"Alldritt, Carmen",69,000140
+NEOSHO,East Erie,State Treasurer,,Republican,"Estes, Ron",132,000140
+NEOSHO,Grant Township,State Treasurer,,Democratic,"Alldritt, Carmen",45,000150
+NEOSHO,Grant Township,State Treasurer,,Republican,"Estes, Ron",108,000150
+NEOSHO,Ladore Township,State Treasurer,,Democratic,"Alldritt, Carmen",60,000160
+NEOSHO,Ladore Township,State Treasurer,,Republican,"Estes, Ron",71,000160
+NEOSHO,Lincoln Township,State Treasurer,,Democratic,"Alldritt, Carmen",29,000170
+NEOSHO,Lincoln Township,State Treasurer,,Republican,"Estes, Ron",44,000170
+NEOSHO,Mission Township,State Treasurer,,Democratic,"Alldritt, Carmen",89,000180
+NEOSHO,Mission Township,State Treasurer,,Republican,"Estes, Ron",216,000180
+NEOSHO,North Tioga Township,State Treasurer,,Democratic,"Alldritt, Carmen",31,000190
+NEOSHO,North Tioga Township,State Treasurer,,Republican,"Estes, Ron",142,000190
+NEOSHO,Shiloh Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000200
+NEOSHO,Shiloh Township,State Treasurer,,Republican,"Estes, Ron",101,000200
+NEOSHO,South Tioga East Township,State Treasurer,,Democratic,"Alldritt, Carmen",20,000210
+NEOSHO,South Tioga East Township,State Treasurer,,Republican,"Estes, Ron",69,000210
+NEOSHO,South Tioga West Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,00022A
+NEOSHO,South Tioga West Township,State Treasurer,,Republican,"Estes, Ron",44,00022A
+NEOSHO,South Tioga West Township Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00022B
+NEOSHO,South Tioga West Township Enclave,State Treasurer,,Republican,"Estes, Ron",0,00022B
+NEOSHO,South Tioga West Township Enclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00022C
+NEOSHO,South Tioga West Township Enclave B,State Treasurer,,Republican,"Estes, Ron",0,00022C
+NEOSHO,South Tioga West Township Enclave C,State Treasurer,,Democratic,"Alldritt, Carmen",0,00022D
+NEOSHO,South Tioga West Township Enclave C,State Treasurer,,Republican,"Estes, Ron",0,00022D
+NEOSHO,Walnut Grove Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000230
+NEOSHO,Walnut Grove Township,State Treasurer,,Republican,"Estes, Ron",81,000230
+NEOSHO,West Erie,State Treasurer,,Democratic,"Alldritt, Carmen",59,000240
+NEOSHO,West Erie,State Treasurer,,Republican,"Estes, Ron",183,000240
+NEOSHO,Chetopa Township H13,State Treasurer,,Democratic,"Alldritt, Carmen",34,120020
+NEOSHO,Chetopa Township H13,State Treasurer,,Republican,"Estes, Ron",180,120020
+NEOSHO,Chetopa Township H2,State Treasurer,,Democratic,"Alldritt, Carmen",0,120030
+NEOSHO,Chetopa Township H2,State Treasurer,,Republican,"Estes, Ron",0,120030
+NEOSHO,Chetopa Township H9,State Treasurer,,Democratic,"Alldritt, Carmen",9,120040
+NEOSHO,Chetopa Township H9,State Treasurer,,Republican,"Estes, Ron",69,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900020
+NEOSHO,Big Creek Township,United States Senate,,independent,"Orman, Greg",43,000010
+NEOSHO,Big Creek Township,United States Senate,,Libertarian,"Batson, Randall",9,000010
+NEOSHO,Big Creek Township,United States Senate,,Republican,"Roberts, Pat",149,000010
+NEOSHO,Canville Township,United States Senate,,independent,"Orman, Greg",80,00002A
+NEOSHO,Canville Township,United States Senate,,Libertarian,"Batson, Randall",22,00002A
+NEOSHO,Canville Township,United States Senate,,Republican,"Roberts, Pat",143,00002A
+NEOSHO,Centerville Township,United States Senate,,independent,"Orman, Greg",67,000030
+NEOSHO,Centerville Township,United States Senate,,Libertarian,"Batson, Randall",14,000030
+NEOSHO,Centerville Township,United States Senate,,Republican,"Roberts, Pat",117,000030
+NEOSHO,Chanute Ward 1,United States Senate,,independent,"Orman, Greg",17,000040
+NEOSHO,Chanute Ward 1,United States Senate,,Libertarian,"Batson, Randall",5,000040
+NEOSHO,Chanute Ward 1,United States Senate,,Republican,"Roberts, Pat",40,000040
+NEOSHO,Chanute Ward 2 Precinct 1,United States Senate,,independent,"Orman, Greg",66,000050
+NEOSHO,Chanute Ward 2 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",9,000050
+NEOSHO,Chanute Ward 2 Precinct 1,United States Senate,,Republican,"Roberts, Pat",100,000050
+NEOSHO,Chanute Ward 2 Precinct 2,United States Senate,,independent,"Orman, Greg",61,000060
+NEOSHO,Chanute Ward 2 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",22,000060
+NEOSHO,Chanute Ward 2 Precinct 2,United States Senate,,Republican,"Roberts, Pat",148,000060
+NEOSHO,Chanute Ward 3 Precinct 1,United States Senate,,independent,"Orman, Greg",127,000070
+NEOSHO,Chanute Ward 3 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",39,000070
+NEOSHO,Chanute Ward 3 Precinct 1,United States Senate,,Republican,"Roberts, Pat",177,000070
+NEOSHO,Chanute Ward 3 Precinct 2,United States Senate,,independent,"Orman, Greg",84,000080
+NEOSHO,Chanute Ward 3 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",16,000080
+NEOSHO,Chanute Ward 3 Precinct 2,United States Senate,,Republican,"Roberts, Pat",145,000080
+NEOSHO,Chanute Ward 3 Precinct 3,United States Senate,,independent,"Orman, Greg",155,000090
+NEOSHO,Chanute Ward 3 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",28,000090
+NEOSHO,Chanute Ward 3 Precinct 3,United States Senate,,Republican,"Roberts, Pat",286,000090
+NEOSHO,Chanute Ward 4 Precinct 1,United States Senate,,independent,"Orman, Greg",118,000100
+NEOSHO,Chanute Ward 4 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",21,000100
+NEOSHO,Chanute Ward 4 Precinct 1,United States Senate,,Republican,"Roberts, Pat",140,000100
+NEOSHO,Chanute Ward 4 Precinct 2,United States Senate,,independent,"Orman, Greg",90,000110
+NEOSHO,Chanute Ward 4 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",18,000110
+NEOSHO,Chanute Ward 4 Precinct 2,United States Senate,,Republican,"Roberts, Pat",87,000110
+NEOSHO,Chanute Ward 4 Precinct 3,United States Senate,,independent,"Orman, Greg",53,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",14,00012A
+NEOSHO,Chanute Ward 4 Precinct 3,United States Senate,,Republican,"Roberts, Pat",95,00012A
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States Senate,,independent,"Orman, Greg",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,00012B
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States Senate,,independent,"Orman, Greg",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States Senate,,Libertarian,"Batson, Randall",0,00012C
+NEOSHO,Chanute Ward 4 Precinct 3 Exclave B,United States Senate,,Republican,"Roberts, Pat",0,00012C
+NEOSHO,East Erie,United States Senate,,independent,"Orman, Greg",89,000140
+NEOSHO,East Erie,United States Senate,,Libertarian,"Batson, Randall",23,000140
+NEOSHO,East Erie,United States Senate,,Republican,"Roberts, Pat",98,000140
+NEOSHO,Grant Township,United States Senate,,independent,"Orman, Greg",55,000150
+NEOSHO,Grant Township,United States Senate,,Libertarian,"Batson, Randall",9,000150
+NEOSHO,Grant Township,United States Senate,,Republican,"Roberts, Pat",91,000150
+NEOSHO,Ladore Township,United States Senate,,independent,"Orman, Greg",70,000160
+NEOSHO,Ladore Township,United States Senate,,Libertarian,"Batson, Randall",13,000160
+NEOSHO,Ladore Township,United States Senate,,Republican,"Roberts, Pat",54,000160
+NEOSHO,Lincoln Township,United States Senate,,independent,"Orman, Greg",29,000170
+NEOSHO,Lincoln Township,United States Senate,,Libertarian,"Batson, Randall",6,000170
+NEOSHO,Lincoln Township,United States Senate,,Republican,"Roberts, Pat",37,000170
+NEOSHO,Mission Township,United States Senate,,independent,"Orman, Greg",88,000180
+NEOSHO,Mission Township,United States Senate,,Libertarian,"Batson, Randall",12,000180
+NEOSHO,Mission Township,United States Senate,,Republican,"Roberts, Pat",223,000180
+NEOSHO,North Tioga Township,United States Senate,,independent,"Orman, Greg",37,000190
+NEOSHO,North Tioga Township,United States Senate,,Libertarian,"Batson, Randall",11,000190
+NEOSHO,North Tioga Township,United States Senate,,Republican,"Roberts, Pat",125,000190
+NEOSHO,Shiloh Township,United States Senate,,independent,"Orman, Greg",15,000200
+NEOSHO,Shiloh Township,United States Senate,,Libertarian,"Batson, Randall",10,000200
+NEOSHO,Shiloh Township,United States Senate,,Republican,"Roberts, Pat",92,000200
+NEOSHO,South Tioga East Township,United States Senate,,independent,"Orman, Greg",28,000210
+NEOSHO,South Tioga East Township,United States Senate,,Libertarian,"Batson, Randall",7,000210
+NEOSHO,South Tioga East Township,United States Senate,,Republican,"Roberts, Pat",57,000210
+NEOSHO,South Tioga West Township,United States Senate,,independent,"Orman, Greg",14,00022A
+NEOSHO,South Tioga West Township,United States Senate,,Libertarian,"Batson, Randall",3,00022A
+NEOSHO,South Tioga West Township,United States Senate,,Republican,"Roberts, Pat",36,00022A
+NEOSHO,South Tioga West Township Enclave,United States Senate,,independent,"Orman, Greg",0,00022B
+NEOSHO,South Tioga West Township Enclave,United States Senate,,Libertarian,"Batson, Randall",0,00022B
+NEOSHO,South Tioga West Township Enclave,United States Senate,,Republican,"Roberts, Pat",0,00022B
+NEOSHO,South Tioga West Township Enclave B,United States Senate,,independent,"Orman, Greg",0,00022C
+NEOSHO,South Tioga West Township Enclave B,United States Senate,,Libertarian,"Batson, Randall",0,00022C
+NEOSHO,South Tioga West Township Enclave B,United States Senate,,Republican,"Roberts, Pat",0,00022C
+NEOSHO,South Tioga West Township Enclave C,United States Senate,,independent,"Orman, Greg",0,00022D
+NEOSHO,South Tioga West Township Enclave C,United States Senate,,Libertarian,"Batson, Randall",0,00022D
+NEOSHO,South Tioga West Township Enclave C,United States Senate,,Republican,"Roberts, Pat",0,00022D
+NEOSHO,Walnut Grove Township,United States Senate,,independent,"Orman, Greg",49,000230
+NEOSHO,Walnut Grove Township,United States Senate,,Libertarian,"Batson, Randall",6,000230
+NEOSHO,Walnut Grove Township,United States Senate,,Republican,"Roberts, Pat",69,000230
+NEOSHO,West Erie,United States Senate,,independent,"Orman, Greg",77,000240
+NEOSHO,West Erie,United States Senate,,Libertarian,"Batson, Randall",13,000240
+NEOSHO,West Erie,United States Senate,,Republican,"Roberts, Pat",159,000240
+NEOSHO,Chetopa Township H13,United States Senate,,independent,"Orman, Greg",41,120020
+NEOSHO,Chetopa Township H13,United States Senate,,Libertarian,"Batson, Randall",6,120020
+NEOSHO,Chetopa Township H13,United States Senate,,Republican,"Roberts, Pat",171,120020
+NEOSHO,Chetopa Township H2,United States Senate,,independent,"Orman, Greg",0,120030
+NEOSHO,Chetopa Township H2,United States Senate,,Libertarian,"Batson, Randall",0,120030
+NEOSHO,Chetopa Township H2,United States Senate,,Republican,"Roberts, Pat",0,120030
+NEOSHO,Chetopa Township H9,United States Senate,,independent,"Orman, Greg",12,120040
+NEOSHO,Chetopa Township H9,United States Senate,,Libertarian,"Batson, Randall",2,120040
+NEOSHO,Chetopa Township H9,United States Senate,,Republican,"Roberts, Pat",66,120040
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States Senate,,independent,"Orman, Greg",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900010
+NEOSHO,Chanute Ward 3 Precinct 3 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900010
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States Senate,,independent,"Orman, Greg",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900020
+NEOSHO,Chanute Ward 3 Precinct 1 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900020

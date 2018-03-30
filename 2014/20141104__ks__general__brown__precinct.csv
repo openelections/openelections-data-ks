@@ -1,407 +1,533 @@
-county,precinct,office,district,party,candidate,votes
-Brown,0001 HIAWATHA WARD 1,Attorney General,,D,A. J. Kotich,51
-Brown,0002 HIAWATHA WARD 2,Attorney General,,D,A. J. Kotich,123
-Brown,0003 HIAWATHA WARD 3,Attorney General,,D,A. J. Kotich,103
-Brown,0004 HIAWATHA WARD 4,Attorney General,,D,A. J. Kotich,10
-Brown,0005 HORTON WARD 1,Attorney General,,D,A. J. Kotich,54
-Brown,0006 HORTON WARD 2,Attorney General,,D,A. J. Kotich,33
-Brown,0007 HORTON WARD 3,Attorney General,,D,A. J. Kotich,21
-Brown,0008 RESERVE  PRECINCT,Attorney General,,D,A. J. Kotich,9
-Brown,0009 HAMLIN PRECINCT,Attorney General,,D,A. J. Kotich,12
-Brown,0010 HIAWATHA TWP,Attorney General,,D,A. J. Kotich,48
-Brown,0011 IRVING PRECINCT,Attorney General,,D,A. J. Kotich,23
-Brown,0012 MISSION PRECINCT,Attorney General,,D,A. J. Kotich,57
-Brown,0013 MORRILL PRECINCT,Attorney General,,D,A. J. Kotich,16
-Brown,0014 PADONIA PRECINCT,Attorney General,,D,A. J. Kotich,16
-Brown,0015 POWHATTAN  PRECINCT,Attorney General,,D,A. J. Kotich,74
-Brown,0016 ROBINSON  PRECINCT,Attorney General,,D,A. J. Kotich,45
-Brown,0017 WALNUT  PRECINCT,Attorney General,,D,A. J. Kotich,52
-Brown,0018 WASHINGTON  PRECINCT,Attorney General,,D,A. J. Kotich,27
-Brown,0001 HIAWATHA WARD 1,Attorney General,,R,Derek Schmidt,103
-Brown,0002 HIAWATHA WARD 2,Attorney General,,R,Derek Schmidt,343
-Brown,0003 HIAWATHA WARD 3,Attorney General,,R,Derek Schmidt,260
-Brown,0004 HIAWATHA WARD 4,Attorney General,,R,Derek Schmidt,48
-Brown,0005 HORTON WARD 1,Attorney General,,R,Derek Schmidt,142
-Brown,0006 HORTON WARD 2,Attorney General,,R,Derek Schmidt,99
-Brown,0007 HORTON WARD 3,Attorney General,,R,Derek Schmidt,56
-Brown,0008 RESERVE  PRECINCT,Attorney General,,R,Derek Schmidt,30
-Brown,0009 HAMLIN PRECINCT,Attorney General,,R,Derek Schmidt,58
-Brown,0010 HIAWATHA TWP,Attorney General,,R,Derek Schmidt,205
-Brown,0011 IRVING PRECINCT,Attorney General,,R,Derek Schmidt,70
-Brown,0012 MISSION PRECINCT,Attorney General,,R,Derek Schmidt,194
-Brown,0013 MORRILL PRECINCT,Attorney General,,R,Derek Schmidt,161
-Brown,0014 PADONIA PRECINCT,Attorney General,,R,Derek Schmidt,53
-Brown,0015 POWHATTAN  PRECINCT,Attorney General,,R,Derek Schmidt,129
-Brown,0016 ROBINSON  PRECINCT,Attorney General,,R,Derek Schmidt,119
-Brown,0017 WALNUT  PRECINCT,Attorney General,,R,Derek Schmidt,195
-Brown,0018 WASHINGTON  PRECINCT,Attorney General,,R,Derek Schmidt,129
-Brown,0005 HORTON WARD 1,Attorney General,,,Write-ins,1
-Brown,0014 PADONIA PRECINCT,Attorney General,,,Write-ins,1
-Brown,0015 POWHATTAN  PRECINCT,Attorney General,,,Write-ins,1
-Brown,0018 WASHINGTON  PRECINCT,Attorney General,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,U.S. House,2,L,Christopher Clemmons,5
-Brown,0002 HIAWATHA WARD 2,U.S. House,2,L,Christopher Clemmons,19
-Brown,0003 HIAWATHA WARD 3,U.S. House,2,L,Christopher Clemmons,12
-Brown,0004 HIAWATHA WARD 4,U.S. House,2,L,Christopher Clemmons,4
-Brown,0005 HORTON WARD 1,U.S. House,2,L,Christopher Clemmons,10
-Brown,0006 HORTON WARD 2,U.S. House,2,L,Christopher Clemmons,4
-Brown,0007 HORTON WARD 3,U.S. House,2,L,Christopher Clemmons,8
-Brown,0008 RESERVE  PRECINCT,U.S. House,2,L,Christopher Clemmons,4
-Brown,0009 HAMLIN PRECINCT,U.S. House,2,L,Christopher Clemmons,5
-Brown,0010 HIAWATHA TWP,U.S. House,2,L,Christopher Clemmons,9
-Brown,0011 IRVING PRECINCT,U.S. House,2,L,Christopher Clemmons,2
-Brown,0012 MISSION PRECINCT,U.S. House,2,L,Christopher Clemmons,5
-Brown,0013 MORRILL PRECINCT,U.S. House,2,L,Christopher Clemmons,8
-Brown,0014 PADONIA PRECINCT,U.S. House,2,L,Christopher Clemmons,11
-Brown,0015 POWHATTAN  PRECINCT,U.S. House,2,L,Christopher Clemmons,11
-Brown,0016 ROBINSON  PRECINCT,U.S. House,2,L,Christopher Clemmons,7
-Brown,0017 WALNUT  PRECINCT,U.S. House,2,L,Christopher Clemmons,10
-Brown,0018 WASHINGTON  PRECINCT,U.S. House,2,L,Christopher Clemmons,4
-Brown,0001 HIAWATHA WARD 1,U.S. House,2,R,Lynn Jenkins,96
-Brown,0002 HIAWATHA WARD 2,U.S. House,2,R,Lynn Jenkins,316
-Brown,0003 HIAWATHA WARD 3,U.S. House,2,R,Lynn Jenkins,252
-Brown,0004 HIAWATHA WARD 4,U.S. House,2,R,Lynn Jenkins,44
-Brown,0005 HORTON WARD 1,U.S. House,2,R,Lynn Jenkins,140
-Brown,0006 HORTON WARD 2,U.S. House,2,R,Lynn Jenkins,91
-Brown,0007 HORTON WARD 3,U.S. House,2,R,Lynn Jenkins,46
-Brown,0008 RESERVE  PRECINCT,U.S. House,2,R,Lynn Jenkins,27
-Brown,0009 HAMLIN PRECINCT,U.S. House,2,R,Lynn Jenkins,60
-Brown,0010 HIAWATHA TWP,U.S. House,2,R,Lynn Jenkins,191
-Brown,0011 IRVING PRECINCT,U.S. House,2,R,Lynn Jenkins,69
-Brown,0012 MISSION PRECINCT,U.S. House,2,R,Lynn Jenkins,191
-Brown,0013 MORRILL PRECINCT,U.S. House,2,R,Lynn Jenkins,150
-Brown,0014 PADONIA PRECINCT,U.S. House,2,R,Lynn Jenkins,48
-Brown,0015 POWHATTAN  PRECINCT,U.S. House,2,R,Lynn Jenkins,119
-Brown,0016 ROBINSON  PRECINCT,U.S. House,2,R,Lynn Jenkins,118
-Brown,0017 WALNUT  PRECINCT,U.S. House,2,R,Lynn Jenkins,182
-Brown,0018 WASHINGTON  PRECINCT,U.S. House,2,R,Lynn Jenkins,125
-Brown,0001 HIAWATHA WARD 1,U.S. House,2,D,Margie Wakefield,53
-Brown,0002 HIAWATHA WARD 2,U.S. House,2,D,Margie Wakefield (DEM),139
-Brown,0003 HIAWATHA WARD 3,U.S. House,2,D,Margie Wakefield (DEM),109
-Brown,0004 HIAWATHA WARD 4,U.S. House,2,D,Margie Wakefield (DEM),10
-Brown,0005 HORTON WARD 1,U.S. House,2,D,Margie Wakefield (DEM),47
-Brown,0006 HORTON WARD 2,U.S. House,2,D,Margie Wakefield (DEM),38
-Brown,0007 HORTON WARD 3,U.S. House,2,D,Margie Wakefield (DEM),24
-Brown,0008 RESERVE  PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),11
-Brown,0009 HAMLIN PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),7
-Brown,0010 HIAWATHA TWP,U.S. House,2,D,Margie Wakefield (DEM),53
-Brown,0011 IRVING PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),25
-Brown,0012 MISSION PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),57
-Brown,0013 MORRILL PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),24
-Brown,0014 PADONIA PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),15
-Brown,0015 POWHATTAN  PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),73
-Brown,0016 ROBINSON  PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),40
-Brown,0017 WALNUT  PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),58
-Brown,0018 WASHINGTON  PRECINCT,U.S. House,2,D,Margie Wakefield (DEM),28
-Brown,0002 HIAWATHA WARD 2,U.S. House,2,,Write-ins,1
-Brown,0005 HORTON WARD 1,U.S. House,2,,Write-ins,1
-Brown,0016 ROBINSON  PRECINCT,U.S. House,2,,Write-ins,1
-Brown,0017 WALNUT  PRECINCT,U.S. House,2,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,Governor,,R,Sam Brownback,73
-Brown,0002 HIAWATHA WARD 2,Governor,,R,Sam Brownback,215
-Brown,0003 HIAWATHA WARD 3,Governor,,R,Sam Brownback,188
-Brown,0004 HIAWATHA WARD 4,Governor,,R,Sam Brownback,31
-Brown,0005 HORTON WARD 1,Governor,,R,Sam Brownback,108
-Brown,0006 HORTON WARD 2,Governor,,R,Sam Brownback,76
-Brown,0007 HORTON WARD 3,Governor,,R,Sam Brownback,37
-Brown,0008 RESERVE  PRECINCT,Governor,,R,Sam Brownback,27
-Brown,0009 HAMLIN PRECINCT,Governor,,R,Sam Brownback,50
-Brown,0010 HIAWATHA TWP,Governor,,R,Sam Brownback,161
-Brown,0011 IRVING PRECINCT,Governor,,R,Sam Brownback,57
-Brown,0012 MISSION PRECINCT,Governor,,R,Sam Brownback,151
-Brown,0013 MORRILL PRECINCT,Governor,,R,Sam Brownback,141
-Brown,0014 PADONIA PRECINCT,Governor,,R,Sam Brownback,44
-Brown,0015 POWHATTAN  PRECINCT,Governor,,R,Sam Brownback,101
-Brown,0016 ROBINSON  PRECINCT,Governor,,R,Sam Brownback,101
-Brown,0017 WALNUT  PRECINCT,Governor,,R,Sam Brownback,158
-Brown,0018 WASHINGTON  PRECINCT,Governor,,R,Sam Brownback,106
-Brown,0001 HIAWATHA WARD 1,Governor,,D,Paul Davis,69
-Brown,0002 HIAWATHA WARD 2,Governor,,D,Paul Davis,242
-Brown,0003 HIAWATHA WARD 3,Governor,,D,Paul Davis,174
-Brown,0004 HIAWATHA WARD 4,Governor,,D,Paul Davis,24
-Brown,0005 HORTON WARD 1,Governor,,D,Paul Davis,78
-Brown,0006 HORTON WARD 2,Governor,,D,Paul Davis,45
-Brown,0007 HORTON WARD 3,Governor,,D,Paul Davis,31
-Brown,0008 RESERVE  PRECINCT,Governor,,D,Paul Davis,12
-Brown,0009 HAMLIN PRECINCT,Governor,,D,Paul Davis,15
-Brown,0010 HIAWATHA TWP,Governor,,D,Paul Davis,87
-Brown,0011 IRVING PRECINCT,Governor,,D,Paul Davis,36
-Brown,0012 MISSION PRECINCT,Governor,,D,Paul Davis,92
-Brown,0013 MORRILL PRECINCT,Governor,,D,Paul Davis,36
-Brown,0014 PADONIA PRECINCT,Governor,,D,Paul Davis,21
-Brown,0015 POWHATTAN  PRECINCT,Governor,,D,Paul Davis,93
-Brown,0016 ROBINSON  PRECINCT,Governor,,D,Paul Davis,58
-Brown,0017 WALNUT  PRECINCT,Governor,,D,Paul Davis,77
-Brown,0018 WASHINGTON  PRECINCT,Governor,,D,Paul Davis,46
-Brown,0001 HIAWATHA WARD 1,Governor,,L,Keen Umbehr,13
-Brown,0002 HIAWATHA WARD 2,Governor,,L,Keen Umbehr,14
-Brown,0003 HIAWATHA WARD 3,Governor,,L,Keen Umbehr,10
-Brown,0004 HIAWATHA WARD 4,Governor,,L,Keen Umbehr,2
-Brown,0005 HORTON WARD 1,Governor,,L,Keen Umbehr,9
-Brown,0006 HORTON WARD 2,Governor,,L,Keen Umbehr,8
-Brown,0007 HORTON WARD 3,Governor,,L,Keen Umbehr,7
-Brown,0008 RESERVE  PRECINCT,Governor,,L,Keen Umbehr,3
-Brown,0009 HAMLIN PRECINCT,Governor,,L,Keen Umbehr,7
-Brown,0010 HIAWATHA TWP,Governor,,L,Keen Umbehr,8
-Brown,0011 IRVING PRECINCT,Governor,,L,Keen Umbehr,2
-Brown,0012 MISSION PRECINCT,Governor,,L,Keen Umbehr,6
-Brown,0013 MORRILL PRECINCT,Governor,,L,Keen Umbehr,4
-Brown,0014 PADONIA PRECINCT,Governor,,L,Keen Umbehr,10
-Brown,0015 POWHATTAN  PRECINCT,Governor,,L,Keen Umbehr,7
-Brown,0016 ROBINSON  PRECINCT,Governor,,L,Keen Umbehr,8
-Brown,0017 WALNUT  PRECINCT,Governor,,L,Keen Umbehr,15
-Brown,0018 WASHINGTON  PRECINCT,Governor,,L,Keen Umbehr,6
-Brown,0002 HIAWATHA WARD 2,Governor,,,Write-ins,1
-Brown,0006 HORTON WARD 2,Governor,,,Write-ins,2
-Brown,0007 HORTON WARD 3,Governor,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,Insurance Commissioner,,D,Dennis Anderson,57
-Brown,0002 HIAWATHA WARD 2,Insurance Commissioner,,D,Dennis Anderson,141
-Brown,0003 HIAWATHA WARD 3,Insurance Commissioner,,D,Dennis Anderson,114
-Brown,0004 HIAWATHA WARD 4,Insurance Commissioner,,D,Dennis Anderson,18
-Brown,0005 HORTON WARD 1,Insurance Commissioner,,D,Dennis Anderson,65
-Brown,0006 HORTON WARD 2,Insurance Commissioner,,D,Dennis Anderson,39
-Brown,0007 HORTON WARD 3,Insurance Commissioner,,D,Dennis Anderson,25
-Brown,0008 RESERVE  PRECINCT,Insurance Commissioner,,D,Dennis Anderson,11
-Brown,0009 HAMLIN PRECINCT,Insurance Commissioner,,D,Dennis Anderson,13
-Brown,0010 HIAWATHA TWP,Insurance Commissioner,,D,Dennis Anderson,54
-Brown,0011 IRVING PRECINCT,Insurance Commissioner,,D,Dennis Anderson,29
-Brown,0012 MISSION PRECINCT,Insurance Commissioner,,D,Dennis Anderson,62
-Brown,0013 MORRILL PRECINCT,Insurance Commissioner,,D,Dennis Anderson,22
-Brown,0014 PADONIA PRECINCT,Insurance Commissioner,,D,Dennis Anderson,12
-Brown,0015 POWHATTAN  PRECINCT,Insurance Commissioner,,D,Dennis Anderson,83
-Brown,0016 ROBINSON  PRECINCT,Insurance Commissioner,,D,Dennis Anderson,53
-Brown,0017 WALNUT  PRECINCT,Insurance Commissioner,,D,Dennis Anderson,59
-Brown,0018 WASHINGTON  PRECINCT,Insurance Commissioner,,D,Dennis Anderson,38
-Brown,0001 HIAWATHA WARD 1,Insurance Commissioner,,R,Ken Selzer,94
-Brown,0002 HIAWATHA WARD 2,Insurance Commissioner,,R,Ken Selzer,315
-Brown,0003 HIAWATHA WARD 3,Insurance Commissioner,,R,Ken Selzer,241
-Brown,0004 HIAWATHA WARD 4,Insurance Commissioner,,R,Ken Selzer,40
-Brown,0005 HORTON WARD 1,Insurance Commissioner,,R,Ken Selzer,127
-Brown,0006 HORTON WARD 2,Insurance Commissioner,,R,Ken Selzer,92
-Brown,0007 HORTON WARD 3,Insurance Commissioner,,R,Ken Selzer,51
-Brown,0008 RESERVE  PRECINCT,Insurance Commissioner,,R,Ken Selzer,28
-Brown,0009 HAMLIN PRECINCT,Insurance Commissioner,,R,Ken Selzer,56
-Brown,0010 HIAWATHA TWP,Insurance Commissioner,,R,Ken Selzer,194
-Brown,0011 IRVING PRECINCT,Insurance Commissioner,,R,Ken Selzer,66
-Brown,0012 MISSION PRECINCT,Insurance Commissioner,,R,Ken Selzer,184
-Brown,0013 MORRILL PRECINCT,Insurance Commissioner,,R,Ken Selzer,149
-Brown,0014 PADONIA PRECINCT,Insurance Commissioner,,R,Ken Selzer,57
-Brown,0015 POWHATTAN  PRECINCT,Insurance Commissioner,,R,Ken Selzer,116
-Brown,0016 ROBINSON  PRECINCT,Insurance Commissioner,,R,Ken Selzer,111
-Brown,0017 WALNUT  PRECINCT,Insurance Commissioner,,R,Ken Selzer,181
-Brown,0018 WASHINGTON  PRECINCT,Insurance Commissioner,,R,Ken Selzer,115
-Brown,0002 HIAWATHA WARD 2,Insurance Commissioner,,,Write-ins,1
-Brown,0005 HORTON WARD 1,Insurance Commissioner,,,Write-ins,1
-Brown,0015 POWHATTAN  PRECINCT,Insurance Commissioner,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,Secretary of State,,D,Jean Kurtis Schodorf,54
-Brown,0002 HIAWATHA WARD 2,Secretary of State,,D,Jean Kurtis Schodorf,160
-Brown,0003 HIAWATHA WARD 3,Secretary of State,,D,Jean Kurtis Schodorf,116
-Brown,0004 HIAWATHA WARD 4,Secretary of State,,D,Jean Kurtis Schodorf,12
-Brown,0005 HORTON WARD 1,Secretary of State,,D,Jean Kurtis Schodorf,59
-Brown,0006 HORTON WARD 2,Secretary of State,,D,Jean Kurtis Schodorf,36
-Brown,0007 HORTON WARD 3,Secretary of State,,D,Jean Kurtis Schodorf,30
-Brown,0008 RESERVE  PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,12
-Brown,0009 HAMLIN PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,11
-Brown,0010 HIAWATHA TWP,Secretary of State,,D,Jean Kurtis Schodorf,48
-Brown,0011 IRVING PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,25
-Brown,0012 MISSION PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,60
-Brown,0013 MORRILL PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,18
-Brown,0014 PADONIA PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,13
-Brown,0015 POWHATTAN  PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,86
-Brown,0016 ROBINSON  PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,45
-Brown,0017 WALNUT  PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,67
-Brown,0018 WASHINGTON  PRECINCT,Secretary of State,,D,Jean Kurtis Schodorf,22
-Brown,0001 HIAWATHA WARD 1,Secretary of State,,R,Kris Kobach,101
-Brown,0002 HIAWATHA WARD 2,Secretary of State,,R,Kris Kobach,308
-Brown,0003 HIAWATHA WARD 3,Secretary of State,,R,Kris Kobach,244
-Brown,0004 HIAWATHA WARD 4,Secretary of State,,R,Kris Kobach,45
-Brown,0005 HORTON WARD 1,Secretary of State,,R,Kris Kobach,136
-Brown,0006 HORTON WARD 2,Secretary of State,,R,Kris Kobach,97
-Brown,0007 HORTON WARD 3,Secretary of State,,R,Kris Kobach,46
-Brown,0008 RESERVE  PRECINCT,Secretary of State,,R,Kris Kobach,27
-Brown,0009 HAMLIN PRECINCT,Secretary of State,,R,Kris Kobach,61
-Brown,0010 HIAWATHA TWP,Secretary of State,,R,Kris Kobach,205
-Brown,0011 IRVING PRECINCT,Secretary of State,,R,Kris Kobach,68
-Brown,0012 MISSION PRECINCT,Secretary of State,,R,Kris Kobach,188
-Brown,0013 MORRILL PRECINCT,Secretary of State,,R,Kris Kobach,162
-Brown,0014 PADONIA PRECINCT,Secretary of State,,R,Kris Kobach,58
-Brown,0015 POWHATTAN  PRECINCT,Secretary of State,,R,Kris Kobach,116
-Brown,0016 ROBINSON  PRECINCT,Secretary of State,,R,Kris Kobach,122
-Brown,0017 WALNUT  PRECINCT,Secretary of State,,R,Kris Kobach,185
-Brown,0018 WASHINGTON  PRECINCT,Secretary of State,,R,Kris Kobach,133
-Brown,0002 HIAWATHA WARD 2,Secretary of State,,,Write-ins,1
-Brown,0003 HIAWATHA WARD 3,Secretary of State,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,State House,62,R,Randy Garber,71
-Brown,0002 HIAWATHA WARD 2,State House,62,R,Randy Garber,227
-Brown,0003 HIAWATHA WARD 3,State House,62,R,Randy Garber,207
-Brown,0004 HIAWATHA WARD 4,State House,62,R,Randy Garber,42
-Brown,0005 HORTON WARD 1,State House,62,R,Randy Garber,111
-Brown,0006 HORTON WARD 2,State House,62,R,Randy Garber,82
-Brown,0007 HORTON WARD 3,State House,62,R,Randy Garber,43
-Brown,0008 RESERVE  PRECINCT,State House,62,R,Randy Garber,28
-Brown,0009 HAMLIN PRECINCT,State House,62,R,Randy Garber,50
-Brown,0010 HIAWATHA TWP,State House,62,R,Randy Garber,145
-Brown,0011 IRVING PRECINCT,State House,62,R,Randy Garber,47
-Brown,0012 MISSION PRECINCT,State House,62,R,Randy Garber,152
-Brown,0013 MORRILL PRECINCT,State House,62,R,Randy Garber,139
-Brown,0014 PADONIA PRECINCT,State House,62,R,Randy Garber,43
-Brown,0015 POWHATTAN  PRECINCT,State House,62,R,Randy Garber,104
-Brown,0016 ROBINSON  PRECINCT,State House,62,R,Randy Garber,99
-Brown,0017 WALNUT  PRECINCT,State House,62,R,Randy Garber,148
-Brown,0018 WASHINGTON  PRECINCT,State House,62,R,Randy Garber,99
-Brown,0001 HIAWATHA WARD 1,State House,62,D,Steve Lukert ,83
-Brown,0002 HIAWATHA WARD 2,State House,62,D,Steve Lukert ,247
-Brown,0003 HIAWATHA WARD 3,State House,62,D,Steve Lukert ,161
-Brown,0004 HIAWATHA WARD 4,State House,62,D,Steve Lukert ,15
-Brown,0005 HORTON WARD 1,State House,62,D,Steve Lukert ,85
-Brown,0006 HORTON WARD 2,State House,62,D,Steve Lukert ,52
-Brown,0007 HORTON WARD 3,State House,62,D,Steve Lukert ,33
-Brown,0008 RESERVE  PRECINCT,State House,62,D,Steve Lukert ,13
-Brown,0009 HAMLIN PRECINCT,State House,62,D,Steve Lukert ,22
-Brown,0010 HIAWATHA TWP,State House,62,D,Steve Lukert ,110
-Brown,0011 IRVING PRECINCT,State House,62,D,Steve Lukert ,48
-Brown,0012 MISSION PRECINCT,State House,62,D,Steve Lukert ,101
-Brown,0013 MORRILL PRECINCT,State House,62,D,Steve Lukert ,43
-Brown,0014 PADONIA PRECINCT,State House,62,D,Steve Lukert ,32
-Brown,0015 POWHATTAN  PRECINCT,State House,62,D,Steve Lukert ,98
-Brown,0016 ROBINSON  PRECINCT,State House,62,D,Steve Lukert ,67
-Brown,0017 WALNUT  PRECINCT,State House,62,D,Steve Lukert ,104
-Brown,0018 WASHINGTON  PRECINCT,State House,62,D,Steve Lukert ,58
-Brown,0001 HIAWATHA WARD 1,State House,,,Write-ins,2
-Brown,0002 HIAWATHA WARD 2,State House,,,Write-ins,1
-Brown,0006 HORTON WARD 2,State House,,,Write-ins,1
-Brown,0015 POWHATTAN  PRECINCT,State House,,,Write-ins,2
-Brown,0001 HIAWATHA WARD 1,State Treasurer,,D,Carmen Alldritt ,52
-Brown,0002 HIAWATHA WARD 2,State Treasurer,,D,Carmen Alldritt ,122
-Brown,0003 HIAWATHA WARD 3,State Treasurer,,D,Carmen Alldritt ,92
-Brown,0004 HIAWATHA WARD 4,State Treasurer,,D,Carmen Alldritt ,15
-Brown,0005 HORTON WARD 1,State Treasurer,,D,Carmen Alldritt ,53
-Brown,0006 HORTON WARD 2,State Treasurer,,D,Carmen Alldritt ,28
-Brown,0007 HORTON WARD 3,State Treasurer,,D,Carmen Alldritt ,24
-Brown,0008 RESERVE  PRECINCT,State Treasurer,,D,Carmen Alldritt ,9
-Brown,0009 HAMLIN PRECINCT,State Treasurer,,D,Carmen Alldritt ,12
-Brown,0010 HIAWATHA TWP,State Treasurer,,D,Carmen Alldritt ,38
-Brown,0011 IRVING PRECINCT,State Treasurer,,D,Carmen Alldritt ,22
-Brown,0012 MISSION PRECINCT,State Treasurer,,D,Carmen Alldritt ,48
-Brown,0013 MORRILL PRECINCT,State Treasurer,,D,Carmen Alldritt ,19
-Brown,0014 PADONIA PRECINCT,State Treasurer,,D,Carmen Alldritt ,9
-Brown,0015 POWHATTAN  PRECINCT,State Treasurer,,D,Carmen Alldritt ,74
-Brown,0016 ROBINSON  PRECINCT,State Treasurer,,D,Carmen Alldritt ,41
-Brown,0017 WALNUT  PRECINCT,State Treasurer,,D,Carmen Alldritt ,55
-Brown,0018 WASHINGTON  PRECINCT,State Treasurer,,D,Carmen Alldritt ,26
-Brown,0001 HIAWATHA WARD 1,State Treasurer,,R,Ron Estes,98
-Brown,0002 HIAWATHA WARD 2,State Treasurer,,R,Ron Estes,344
-Brown,0003 HIAWATHA WARD 3,State Treasurer,,R,Ron Estes,267
-Brown,0004 HIAWATHA WARD 4,State Treasurer,,R,Ron Estes,43
-Brown,0005 HORTON WARD 1,State Treasurer,,R,Ron Estes,134
-Brown,0006 HORTON WARD 2,State Treasurer,,R,Ron Estes,101
-Brown,0007 HORTON WARD 3,State Treasurer,,R,Ron Estes,52
-Brown,0008 RESERVE  PRECINCT,State Treasurer,,R,Ron Estes,31
-Brown,0009 HAMLIN PRECINCT,State Treasurer,,R,Ron Estes,58
-Brown,0010 HIAWATHA TWP,State Treasurer,,R,Ron Estes,213
-Brown,0011 IRVING PRECINCT,State Treasurer,,R,Ron Estes,74
-Brown,0012 MISSION PRECINCT,State Treasurer,,R,Ron Estes,201
-Brown,0013 MORRILL PRECINCT,State Treasurer,,R,Ron Estes,157
-Brown,0014 PADONIA PRECINCT,State Treasurer,,R,Ron Estes,62
-Brown,0015 POWHATTAN  PRECINCT,State Treasurer,,R,Ron Estes,129
-Brown,0016 ROBINSON  PRECINCT,State Treasurer,,R,Ron Estes,124
-Brown,0017 WALNUT  PRECINCT,State Treasurer,,R,Ron Estes,189
-Brown,0018 WASHINGTON  PRECINCT,State Treasurer,,R,Ron Estes,130
-Brown,0015 POWHATTAN  PRECINCT,State Treasurer,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,U.S. Senate,,I,Greg Orman,54
-Brown,0002 HIAWATHA WARD 2,U.S. Senate,,I,Greg Orman,174
-Brown,0003 HIAWATHA WARD 3,U.S. Senate,,I,Greg Orman,128
-Brown,0004 HIAWATHA WARD 4,U.S. Senate,,I,Greg Orman,16
-Brown,0005 HORTON WARD 1,U.S. Senate,,I,Greg Orman,58
-Brown,0006 HORTON WARD 2,U.S. Senate,,I,Greg Orman,45
-Brown,0007 HORTON WARD 3,U.S. Senate,,I,Greg Orman,28
-Brown,0008 RESERVE  PRECINCT,U.S. Senate,,I,Greg Orman,9
-Brown,0009 HAMLIN PRECINCT,U.S. Senate,,I,Greg Orman,13
-Brown,0010 HIAWATHA TWP,U.S. Senate,,I,Greg Orman,58
-Brown,0011 IRVING PRECINCT,U.S. Senate,,I,Greg Orman,29
-Brown,0012 MISSION PRECINCT,U.S. Senate,,I,Greg Orman,74
-Brown,0013 MORRILL PRECINCT,U.S. Senate,,I,Greg Orman,24
-Brown,0014 PADONIA PRECINCT,U.S. Senate,,I,Greg Orman,16
-Brown,0015 POWHATTAN  PRECINCT,U.S. Senate,,I,Greg Orman,87
-Brown,0016 ROBINSON  PRECINCT,U.S. Senate,,I,Greg Orman,50
-Brown,0017 WALNUT  PRECINCT,U.S. Senate,,I,Greg Orman,69
-Brown,0018 WASHINGTON  PRECINCT,U.S. Senate,,I,Greg Orman,32
-Brown,0001 HIAWATHA WARD 1,U.S. Senate,,R,Pat Roberts,89
-Brown,0002 HIAWATHA WARD 2,U.S. Senate,,R,Pat Roberts,282
-Brown,0003 HIAWATHA WARD 3,U.S. Senate,,R,Pat Roberts,215
-Brown,0004 HIAWATHA WARD 4,U.S. Senate,,R,Pat Roberts,36
-Brown,0005 HORTON WARD 1,U.S. Senate,,R,Pat Roberts,126
-Brown,0006 HORTON WARD 2,U.S. Senate,,R,Pat Roberts,83
-Brown,0007 HORTON WARD 3,U.S. Senate,,R,Pat Roberts,40
-Brown,0008 RESERVE  PRECINCT,U.S. Senate,,R,Pat Roberts,27
-Brown,0009 HAMLIN PRECINCT,U.S. Senate,,R,Pat Roberts,53
-Brown,0010 HIAWATHA TWP,U.S. Senate,,R,Pat Roberts,187
-Brown,0011 IRVING PRECINCT,U.S. Senate,,R,Pat Roberts,63
-Brown,0012 MISSION PRECINCT,U.S. Senate,,R,Pat Roberts,174
-Brown,0013 MORRILL PRECINCT,U.S. Senate,,R,Pat Roberts,151
-Brown,0014 PADONIA PRECINCT,U.S. Senate,,R,Pat Roberts,47
-Brown,0015 POWHATTAN  PRECINCT,U.S. Senate,,R,Pat Roberts,106
-Brown,0016 ROBINSON  PRECINCT,U.S. Senate,,R,Pat Roberts,102
-Brown,0017 WALNUT  PRECINCT,U.S. Senate,,R,Pat Roberts,173
-Brown,0018 WASHINGTON  PRECINCT,U.S. Senate,,R,Pat Roberts,120
-Brown,0001 HIAWATHA WARD 1,U.S. Senate,,L,Randall Batson,12
-Brown,0002 HIAWATHA WARD 2,U.S. Senate,,L,Randall Batson,17
-Brown,0003 HIAWATHA WARD 3,U.S. Senate,,L,Randall Batson,20
-Brown,0004 HIAWATHA WARD 4,U.S. Senate,,L,Randall Batson,5
-Brown,0005 HORTON WARD 1,U.S. Senate,,L,Randall Batson,11
-Brown,0006 HORTON WARD 2,U.S. Senate,,L,Randall Batson,5
-Brown,0007 HORTON WARD 3,U.S. Senate,,L,Randall Batson,9
-Brown,0008 RESERVE  PRECINCT,U.S. Senate,,L,Randall Batson,5
-Brown,0009 HAMLIN PRECINCT,U.S. Senate,,L,Randall Batson,6
-Brown,0010 HIAWATHA TWP,U.S. Senate,,L,Randall Batson,8
-Brown,0011 IRVING PRECINCT,U.S. Senate,,L,Randall Batson,4
-Brown,0012 MISSION PRECINCT,U.S. Senate,,L,Randall Batson,5
-Brown,0013 MORRILL PRECINCT,U.S. Senate,,L,Randall Batson,6
-Brown,0014 PADONIA PRECINCT,U.S. Senate,,L,Randall Batson,11
-Brown,0015 POWHATTAN  PRECINCT,U.S. Senate,,L,Randall Batson,7
-Brown,0016 ROBINSON  PRECINCT,U.S. Senate,,L,Randall Batson,9
-Brown,0017 WALNUT  PRECINCT,U.S. Senate,,L,Randall Batson,7
-Brown,0018 WASHINGTON  PRECINCT,U.S. Senate,,L,Randall Batson,3
-Brown,0002 HIAWATHA WARD 2,U.S. Senate,,,Write-ins,1
-Brown,0005 HORTON WARD 1,U.S. Senate,,,Write-ins,1
-Brown,0006 HORTON WARD 2,U.S. Senate,,,Write-ins,2
-Brown,0014 PADONIA PRECINCT,U.S. Senate,,,Write-ins,1
-Brown,0015 POWHATTAN  PRECINCT,U.S. Senate,,,Write-ins,1
-Brown,0016 ROBINSON  PRECINCT,U.S. Senate,,,Write-ins,1
-Brown,0017 WALNUT  PRECINCT,U.S. Senate,,,Write-ins,1
-Brown,0001 HIAWATHA WARD 1,Voters,,,BALLOTS CAST - TOTAL,156
-Brown,0002 HIAWATHA WARD 2,Voters,,,BALLOTS CAST - TOTAL,482
-Brown,0003 HIAWATHA WARD 3,Voters,,,BALLOTS CAST - TOTAL,375
-Brown,0004 HIAWATHA WARD 4,Voters,,,BALLOTS CAST - TOTAL,58
-Brown,0005 HORTON WARD 1,Voters,,,BALLOTS CAST - TOTAL,198
-Brown,0006 HORTON WARD 2,Voters,,,BALLOTS CAST - TOTAL,135
-Brown,0007 HORTON WARD 3,Voters,,,BALLOTS CAST - TOTAL,79
-Brown,0008 RESERVE  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,42
-Brown,0009 HAMLIN PRECINCT,Voters,,,BALLOTS CAST - TOTAL,72
-Brown,0010 HIAWATHA TWP,Voters,,,BALLOTS CAST - TOTAL,257
-Brown,0011 IRVING PRECINCT,Voters,,,BALLOTS CAST - TOTAL,96
-Brown,0012 MISSION PRECINCT,Voters,,,BALLOTS CAST - TOTAL,253
-Brown,0013 MORRILL PRECINCT,Voters,,,BALLOTS CAST - TOTAL,182
-Brown,0014 PADONIA PRECINCT,Voters,,,BALLOTS CAST - TOTAL,75
-Brown,0015 POWHATTAN  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,204
-Brown,0016 ROBINSON  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,169
-Brown,0017 WALNUT  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,254
-Brown,0018 WASHINGTON  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,158
-Brown,0001 HIAWATHA WARD 1,Voters,,,REGISTERED VOTERS - TOTAL,279
-Brown,0002 HIAWATHA WARD 2,Voters,,,REGISTERED VOTERS - TOTAL,787
-Brown,0003 HIAWATHA WARD 3,Voters,,,REGISTERED VOTERS - TOTAL,689
-Brown,0004 HIAWATHA WARD 4,Voters,,,REGISTERED VOTERS - TOTAL,159
-Brown,0005 HORTON WARD 1,Voters,,,REGISTERED VOTERS - TOTAL,423
-Brown,0006 HORTON WARD 2,Voters,,,REGISTERED VOTERS - TOTAL,306
-Brown,0007 HORTON WARD 3,Voters,,,REGISTERED VOTERS - TOTAL,225
-Brown,0008 RESERVE  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,88
-Brown,0009 HAMLIN PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,108
-Brown,0010 HIAWATHA TWP,Voters,,,REGISTERED VOTERS - TOTAL,409
-Brown,0011 IRVING PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,189
-Brown,0012 MISSION PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,381
-Brown,0013 MORRILL PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,296
-Brown,0014 PADONIA PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,132
-Brown,0015 POWHATTAN  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,439
-Brown,0016 ROBINSON  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,264
-Brown,0017 WALNUT  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,399
-Brown,0018 WASHINGTON  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,310
+county,precinct,office,district,party,candidate,votes,vtd
+BROWN,Hamlin Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",15,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",50,000010
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",69,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",73,000020
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",242,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",215,000030
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",174,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",188,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00004B
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",24,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",31,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005B
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",87,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",161,000060
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",78,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",108,000070
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",76,000080
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",31,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",37,00009A
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00009B
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00009C
+BROWN,Irving Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",36,000100
+BROWN,Irving Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000100
+BROWN,Irving Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",57,000100
+BROWN,Mission Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",92,000110
+BROWN,Mission Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000110
+BROWN,Mission Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",151,000110
+BROWN,Morrill Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",36,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",141,000120
+BROWN,Padonia Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",21,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",44,000130
+BROWN,Powhattan Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",93,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",101,000140
+BROWN,Reserve Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",12,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",27,000150
+BROWN,Robinson Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",58,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",101,000160
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00017A
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00017B
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00018A
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00018B
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,000190
+BROWN,Walnut Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",77,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",158,000200
+BROWN,Washington Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",46,000210
+BROWN,Washington Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000210
+BROWN,Washington Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",106,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+BROWN,Hamlin Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",22,000010
+BROWN,Hamlin Township,Kansas House of Representatives,62,Republican,"Garber, Randy",50,000010
+BROWN,Hiawatha City Ward 1,Kansas House of Representatives,62,Democratic,"Lukert, Steve",83,000020
+BROWN,Hiawatha City Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",71,000020
+BROWN,Hiawatha City Ward 2,Kansas House of Representatives,62,Democratic,"Lukert, Steve",247,000030
+BROWN,Hiawatha City Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",227,000030
+BROWN,Hiawatha City Ward 3,Kansas House of Representatives,62,Democratic,"Lukert, Steve",161,00004A
+BROWN,Hiawatha City Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",207,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00004B
+BROWN,Hiawatha City Ward 4,Kansas House of Representatives,62,Democratic,"Lukert, Steve",15,00005A
+BROWN,Hiawatha City Ward 4,Kansas House of Representatives,62,Republican,"Garber, Randy",42,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00005B
+BROWN,Hiawatha Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",110,000060
+BROWN,Hiawatha Township,Kansas House of Representatives,62,Republican,"Garber, Randy",145,000060
+BROWN,Horton Ward 1,Kansas House of Representatives,62,Democratic,"Lukert, Steve",85,000070
+BROWN,Horton Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",111,000070
+BROWN,Horton Ward 2,Kansas House of Representatives,62,Democratic,"Lukert, Steve",52,000080
+BROWN,Horton Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",82,000080
+BROWN,Horton Ward 3,Kansas House of Representatives,62,Democratic,"Lukert, Steve",33,00009A
+BROWN,Horton Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",43,00009A
+BROWN,Horton Ward 3 Exclave A,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00009B
+BROWN,Horton Ward 3 Exclave A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00009B
+BROWN,Horton Ward 3 Exclave B,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00009C
+BROWN,Horton Ward 3 Exclave B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00009C
+BROWN,Irving Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",48,000100
+BROWN,Irving Township,Kansas House of Representatives,62,Republican,"Garber, Randy",47,000100
+BROWN,Mission Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",101,000110
+BROWN,Mission Township,Kansas House of Representatives,62,Republican,"Garber, Randy",152,000110
+BROWN,Morrill Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",43,000120
+BROWN,Morrill Township,Kansas House of Representatives,62,Republican,"Garber, Randy",139,000120
+BROWN,Padonia Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",32,000130
+BROWN,Padonia Township,Kansas House of Representatives,62,Republican,"Garber, Randy",43,000130
+BROWN,Powhattan Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",98,000140
+BROWN,Powhattan Township,Kansas House of Representatives,62,Republican,"Garber, Randy",104,000140
+BROWN,Reserve Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",13,000150
+BROWN,Reserve Township,Kansas House of Representatives,62,Republican,"Garber, Randy",28,000150
+BROWN,Robinson Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",67,000160
+BROWN,Robinson Township,Kansas House of Representatives,62,Republican,"Garber, Randy",99,000160
+BROWN,Sabetha Ward 1 Part A,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00017A
+BROWN,Sabetha Ward 1 Part A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00017A
+BROWN,Sabetha Ward 1 Part B,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00017B
+BROWN,Sabetha Ward 1 Part B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00017B
+BROWN,Sabetha Ward 4 Part A,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00018A
+BROWN,Sabetha Ward 4 Part A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00018A
+BROWN,Sabetha Ward 4 Part B,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,00018B
+BROWN,Sabetha Ward 4 Part B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00018B
+BROWN,Sabetha Ward 5,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,000190
+BROWN,Sabetha Ward 5,Kansas House of Representatives,62,Republican,"Garber, Randy",0,000190
+BROWN,Walnut Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",104,000200
+BROWN,Walnut Township,Kansas House of Representatives,62,Republican,"Garber, Randy",148,000200
+BROWN,Washington Township,Kansas House of Representatives,62,Democratic,"Lukert, Steve",58,000210
+BROWN,Washington Township,Kansas House of Representatives,62,Republican,"Garber, Randy",99,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Kansas House of Representatives,62,Democratic,"Lukert, Steve",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900010
+BROWN,Hamlin Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",7,000010
+BROWN,Hamlin Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000010
+BROWN,Hamlin Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",60,000010
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",53,000020
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000020
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",96,000020
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",139,000030
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",19,000030
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",316,000030
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",109,00004A
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,00004A
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",252,00004A
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00004B
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",10,00005A
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,00005A
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",44,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00005B
+BROWN,Hiawatha Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",53,000060
+BROWN,Hiawatha Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000060
+BROWN,Hiawatha Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",191,000060
+BROWN,Horton Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",47,000070
+BROWN,Horton Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000070
+BROWN,Horton Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",140,000070
+BROWN,Horton Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",38,000080
+BROWN,Horton Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000080
+BROWN,Horton Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",91,000080
+BROWN,Horton Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",24,00009A
+BROWN,Horton Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,00009A
+BROWN,Horton Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",46,00009A
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00009B
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00009C
+BROWN,Irving Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",25,000100
+BROWN,Irving Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,000100
+BROWN,Irving Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",69,000100
+BROWN,Mission Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",57,000110
+BROWN,Mission Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000110
+BROWN,Mission Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",191,000110
+BROWN,Morrill Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",24,000120
+BROWN,Morrill Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000120
+BROWN,Morrill Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",150,000120
+BROWN,Padonia Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",15,000130
+BROWN,Padonia Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000130
+BROWN,Padonia Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",48,000130
+BROWN,Powhattan Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",73,000140
+BROWN,Powhattan Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000140
+BROWN,Powhattan Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",119,000140
+BROWN,Reserve Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",11,000150
+BROWN,Reserve Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000150
+BROWN,Reserve Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",27,000150
+BROWN,Robinson Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",40,000160
+BROWN,Robinson Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000160
+BROWN,Robinson Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",118,000160
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00017A
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00017B
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00018A
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00018B
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,000190
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,000190
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,000190
+BROWN,Walnut Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",58,000200
+BROWN,Walnut Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000200
+BROWN,Walnut Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",182,000200
+BROWN,Washington Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",28,000210
+BROWN,Washington Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000210
+BROWN,Washington Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",125,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+BROWN,Hamlin Township,Attorney General,,Democratic,"Kotich, A.J.",12,000010
+BROWN,Hamlin Township,Attorney General,,Republican,"Schmidt, Derek",58,000010
+BROWN,Hiawatha City Ward 1,Attorney General,,Democratic,"Kotich, A.J.",51,000020
+BROWN,Hiawatha City Ward 1,Attorney General,,Republican,"Schmidt, Derek",103,000020
+BROWN,Hiawatha City Ward 2,Attorney General,,Democratic,"Kotich, A.J.",123,000030
+BROWN,Hiawatha City Ward 2,Attorney General,,Republican,"Schmidt, Derek",343,000030
+BROWN,Hiawatha City Ward 3,Attorney General,,Democratic,"Kotich, A.J.",103,00004A
+BROWN,Hiawatha City Ward 3,Attorney General,,Republican,"Schmidt, Derek",260,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00004B
+BROWN,Hiawatha City Ward 4,Attorney General,,Democratic,"Kotich, A.J.",10,00005A
+BROWN,Hiawatha City Ward 4,Attorney General,,Republican,"Schmidt, Derek",48,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+BROWN,Hiawatha Township,Attorney General,,Democratic,"Kotich, A.J.",48,000060
+BROWN,Hiawatha Township,Attorney General,,Republican,"Schmidt, Derek",205,000060
+BROWN,Horton Ward 1,Attorney General,,Democratic,"Kotich, A.J.",54,000070
+BROWN,Horton Ward 1,Attorney General,,Republican,"Schmidt, Derek",142,000070
+BROWN,Horton Ward 2,Attorney General,,Democratic,"Kotich, A.J.",33,000080
+BROWN,Horton Ward 2,Attorney General,,Republican,"Schmidt, Derek",99,000080
+BROWN,Horton Ward 3,Attorney General,,Democratic,"Kotich, A.J.",21,00009A
+BROWN,Horton Ward 3,Attorney General,,Republican,"Schmidt, Derek",56,00009A
+BROWN,Horton Ward 3 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00009B
+BROWN,Horton Ward 3 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00009B
+BROWN,Horton Ward 3 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00009C
+BROWN,Horton Ward 3 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00009C
+BROWN,Irving Township,Attorney General,,Democratic,"Kotich, A.J.",23,000100
+BROWN,Irving Township,Attorney General,,Republican,"Schmidt, Derek",70,000100
+BROWN,Mission Township,Attorney General,,Democratic,"Kotich, A.J.",57,000110
+BROWN,Mission Township,Attorney General,,Republican,"Schmidt, Derek",194,000110
+BROWN,Morrill Township,Attorney General,,Democratic,"Kotich, A.J.",16,000120
+BROWN,Morrill Township,Attorney General,,Republican,"Schmidt, Derek",161,000120
+BROWN,Padonia Township,Attorney General,,Democratic,"Kotich, A.J.",16,000130
+BROWN,Padonia Township,Attorney General,,Republican,"Schmidt, Derek",53,000130
+BROWN,Powhattan Township,Attorney General,,Democratic,"Kotich, A.J.",74,000140
+BROWN,Powhattan Township,Attorney General,,Republican,"Schmidt, Derek",129,000140
+BROWN,Reserve Township,Attorney General,,Democratic,"Kotich, A.J.",9,000150
+BROWN,Reserve Township,Attorney General,,Republican,"Schmidt, Derek",30,000150
+BROWN,Robinson Township,Attorney General,,Democratic,"Kotich, A.J.",45,000160
+BROWN,Robinson Township,Attorney General,,Republican,"Schmidt, Derek",119,000160
+BROWN,Sabetha Ward 1 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00017A
+BROWN,Sabetha Ward 1 Part A,Attorney General,,Republican,"Schmidt, Derek",0,00017A
+BROWN,Sabetha Ward 1 Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+BROWN,Sabetha Ward 1 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+BROWN,Sabetha Ward 4 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00018A
+BROWN,Sabetha Ward 4 Part A,Attorney General,,Republican,"Schmidt, Derek",0,00018A
+BROWN,Sabetha Ward 4 Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00018B
+BROWN,Sabetha Ward 4 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00018B
+BROWN,Sabetha Ward 5,Attorney General,,Democratic,"Kotich, A.J.",0,000190
+BROWN,Sabetha Ward 5,Attorney General,,Republican,"Schmidt, Derek",0,000190
+BROWN,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",52,000200
+BROWN,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",195,000200
+BROWN,Washington Township,Attorney General,,Democratic,"Kotich, A.J.",27,000210
+BROWN,Washington Township,Attorney General,,Republican,"Schmidt, Derek",129,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+BROWN,Hamlin Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000010
+BROWN,Hamlin Township,Commissioner of Insurance,,Republican,"Selzer, Ken",56,000010
+BROWN,Hiawatha City Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",57,000020
+BROWN,Hiawatha City Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",94,000020
+BROWN,Hiawatha City Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",141,000030
+BROWN,Hiawatha City Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",315,000030
+BROWN,Hiawatha City Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",114,00004A
+BROWN,Hiawatha City Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",241,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00004B
+BROWN,Hiawatha City Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,00005A
+BROWN,Hiawatha City Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",40,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+BROWN,Hiawatha Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,000060
+BROWN,Hiawatha Township,Commissioner of Insurance,,Republican,"Selzer, Ken",194,000060
+BROWN,Horton Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",65,000070
+BROWN,Horton Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",127,000070
+BROWN,Horton Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000080
+BROWN,Horton Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",92,000080
+BROWN,Horton Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,00009A
+BROWN,Horton Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",51,00009A
+BROWN,Horton Ward 3 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00009B
+BROWN,Horton Ward 3 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00009B
+BROWN,Horton Ward 3 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00009C
+BROWN,Horton Ward 3 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00009C
+BROWN,Irving Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,000100
+BROWN,Irving Township,Commissioner of Insurance,,Republican,"Selzer, Ken",66,000100
+BROWN,Mission Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",62,000110
+BROWN,Mission Township,Commissioner of Insurance,,Republican,"Selzer, Ken",184,000110
+BROWN,Morrill Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",22,000120
+BROWN,Morrill Township,Commissioner of Insurance,,Republican,"Selzer, Ken",149,000120
+BROWN,Padonia Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",12,000130
+BROWN,Padonia Township,Commissioner of Insurance,,Republican,"Selzer, Ken",57,000130
+BROWN,Powhattan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",83,000140
+BROWN,Powhattan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",116,000140
+BROWN,Reserve Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,000150
+BROWN,Reserve Township,Commissioner of Insurance,,Republican,"Selzer, Ken",28,000150
+BROWN,Robinson Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",53,000160
+BROWN,Robinson Township,Commissioner of Insurance,,Republican,"Selzer, Ken",111,000160
+BROWN,Sabetha Ward 1 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017A
+BROWN,Sabetha Ward 1 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017A
+BROWN,Sabetha Ward 1 Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+BROWN,Sabetha Ward 1 Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+BROWN,Sabetha Ward 4 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00018A
+BROWN,Sabetha Ward 4 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00018A
+BROWN,Sabetha Ward 4 Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00018B
+BROWN,Sabetha Ward 4 Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00018B
+BROWN,Sabetha Ward 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000190
+BROWN,Sabetha Ward 5,Commissioner of Insurance,,Republican,"Selzer, Ken",0,000190
+BROWN,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",59,000200
+BROWN,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",181,000200
+BROWN,Washington Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000210
+BROWN,Washington Township,Commissioner of Insurance,,Republican,"Selzer, Ken",115,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+BROWN,Hamlin Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000010
+BROWN,Hamlin Township,Secretary of State,,Republican,"Kobach, Kris",61,000010
+BROWN,Hiawatha City Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",54,000020
+BROWN,Hiawatha City Ward 1,Secretary of State,,Republican,"Kobach, Kris",101,000020
+BROWN,Hiawatha City Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",160,000030
+BROWN,Hiawatha City Ward 2,Secretary of State,,Republican,"Kobach, Kris",308,000030
+BROWN,Hiawatha City Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",116,00004A
+BROWN,Hiawatha City Ward 3,Secretary of State,,Republican,"Kobach, Kris",244,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00004B
+BROWN,Hiawatha City Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,00005A
+BROWN,Hiawatha City Ward 4,Secretary of State,,Republican,"Kobach, Kris",45,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+BROWN,Hiawatha Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",48,000060
+BROWN,Hiawatha Township,Secretary of State,,Republican,"Kobach, Kris",205,000060
+BROWN,Horton Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",59,000070
+BROWN,Horton Ward 1,Secretary of State,,Republican,"Kobach, Kris",136,000070
+BROWN,Horton Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,000080
+BROWN,Horton Ward 2,Secretary of State,,Republican,"Kobach, Kris",97,000080
+BROWN,Horton Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,00009A
+BROWN,Horton Ward 3,Secretary of State,,Republican,"Kobach, Kris",46,00009A
+BROWN,Horton Ward 3 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00009B
+BROWN,Horton Ward 3 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00009B
+BROWN,Horton Ward 3 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00009C
+BROWN,Horton Ward 3 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00009C
+BROWN,Irving Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,000100
+BROWN,Irving Township,Secretary of State,,Republican,"Kobach, Kris",68,000100
+BROWN,Mission Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",60,000110
+BROWN,Mission Township,Secretary of State,,Republican,"Kobach, Kris",188,000110
+BROWN,Morrill Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",18,000120
+BROWN,Morrill Township,Secretary of State,,Republican,"Kobach, Kris",162,000120
+BROWN,Padonia Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",13,000130
+BROWN,Padonia Township,Secretary of State,,Republican,"Kobach, Kris",58,000130
+BROWN,Powhattan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",86,000140
+BROWN,Powhattan Township,Secretary of State,,Republican,"Kobach, Kris",116,000140
+BROWN,Reserve Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,000150
+BROWN,Reserve Township,Secretary of State,,Republican,"Kobach, Kris",27,000150
+BROWN,Robinson Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",45,000160
+BROWN,Robinson Township,Secretary of State,,Republican,"Kobach, Kris",122,000160
+BROWN,Sabetha Ward 1 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017A
+BROWN,Sabetha Ward 1 Part A,Secretary of State,,Republican,"Kobach, Kris",0,00017A
+BROWN,Sabetha Ward 1 Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+BROWN,Sabetha Ward 1 Part B,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+BROWN,Sabetha Ward 4 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00018A
+BROWN,Sabetha Ward 4 Part A,Secretary of State,,Republican,"Kobach, Kris",0,00018A
+BROWN,Sabetha Ward 4 Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00018B
+BROWN,Sabetha Ward 4 Part B,Secretary of State,,Republican,"Kobach, Kris",0,00018B
+BROWN,Sabetha Ward 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000190
+BROWN,Sabetha Ward 5,Secretary of State,,Republican,"Kobach, Kris",0,000190
+BROWN,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",67,000200
+BROWN,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",185,000200
+BROWN,Washington Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000210
+BROWN,Washington Township,Secretary of State,,Republican,"Kobach, Kris",133,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900010
+BROWN,Hamlin Township,State Treasurer,,Democratic,"Alldritt, Carmen",12,000010
+BROWN,Hamlin Township,State Treasurer,,Republican,"Estes, Ron",58,000010
+BROWN,Hiawatha City Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",52,000020
+BROWN,Hiawatha City Ward 1,State Treasurer,,Republican,"Estes, Ron",98,000020
+BROWN,Hiawatha City Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",122,000030
+BROWN,Hiawatha City Ward 2,State Treasurer,,Republican,"Estes, Ron",344,000030
+BROWN,Hiawatha City Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",92,00004A
+BROWN,Hiawatha City Ward 3,State Treasurer,,Republican,"Estes, Ron",267,00004A
+BROWN,Hiawatha City Ward 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00004B
+BROWN,Hiawatha City Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",15,00005A
+BROWN,Hiawatha City Ward 4,State Treasurer,,Republican,"Estes, Ron",43,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,State Treasurer,,Republican,"Estes, Ron",0,00005B
+BROWN,Hiawatha Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000060
+BROWN,Hiawatha Township,State Treasurer,,Republican,"Estes, Ron",213,000060
+BROWN,Horton Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",53,000070
+BROWN,Horton Ward 1,State Treasurer,,Republican,"Estes, Ron",134,000070
+BROWN,Horton Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",28,000080
+BROWN,Horton Ward 2,State Treasurer,,Republican,"Estes, Ron",101,000080
+BROWN,Horton Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",24,00009A
+BROWN,Horton Ward 3,State Treasurer,,Republican,"Estes, Ron",52,00009A
+BROWN,Horton Ward 3 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00009B
+BROWN,Horton Ward 3 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00009B
+BROWN,Horton Ward 3 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00009C
+BROWN,Horton Ward 3 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00009C
+BROWN,Irving Township,State Treasurer,,Democratic,"Alldritt, Carmen",22,000100
+BROWN,Irving Township,State Treasurer,,Republican,"Estes, Ron",74,000100
+BROWN,Mission Township,State Treasurer,,Democratic,"Alldritt, Carmen",48,000110
+BROWN,Mission Township,State Treasurer,,Republican,"Estes, Ron",201,000110
+BROWN,Morrill Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000120
+BROWN,Morrill Township,State Treasurer,,Republican,"Estes, Ron",157,000120
+BROWN,Padonia Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000130
+BROWN,Padonia Township,State Treasurer,,Republican,"Estes, Ron",62,000130
+BROWN,Powhattan Township,State Treasurer,,Democratic,"Alldritt, Carmen",74,000140
+BROWN,Powhattan Township,State Treasurer,,Republican,"Estes, Ron",129,000140
+BROWN,Reserve Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000150
+BROWN,Reserve Township,State Treasurer,,Republican,"Estes, Ron",31,000150
+BROWN,Robinson Township,State Treasurer,,Democratic,"Alldritt, Carmen",41,000160
+BROWN,Robinson Township,State Treasurer,,Republican,"Estes, Ron",124,000160
+BROWN,Sabetha Ward 1 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017A
+BROWN,Sabetha Ward 1 Part A,State Treasurer,,Republican,"Estes, Ron",0,00017A
+BROWN,Sabetha Ward 1 Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+BROWN,Sabetha Ward 1 Part B,State Treasurer,,Republican,"Estes, Ron",0,00017B
+BROWN,Sabetha Ward 4 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00018A
+BROWN,Sabetha Ward 4 Part A,State Treasurer,,Republican,"Estes, Ron",0,00018A
+BROWN,Sabetha Ward 4 Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00018B
+BROWN,Sabetha Ward 4 Part B,State Treasurer,,Republican,"Estes, Ron",0,00018B
+BROWN,Sabetha Ward 5,State Treasurer,,Democratic,"Alldritt, Carmen",0,000190
+BROWN,Sabetha Ward 5,State Treasurer,,Republican,"Estes, Ron",0,000190
+BROWN,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",55,000200
+BROWN,Walnut Township,State Treasurer,,Republican,"Estes, Ron",189,000200
+BROWN,Washington Township,State Treasurer,,Democratic,"Alldritt, Carmen",26,000210
+BROWN,Washington Township,State Treasurer,,Republican,"Estes, Ron",130,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900010
+BROWN,Hamlin Township,United States Senate,,independent,"Orman, Greg",13,000010
+BROWN,Hamlin Township,United States Senate,,Libertarian,"Batson, Randall",6,000010
+BROWN,Hamlin Township,United States Senate,,Republican,"Roberts, Pat",53,000010
+BROWN,Hiawatha City Ward 1,United States Senate,,independent,"Orman, Greg",54,000020
+BROWN,Hiawatha City Ward 1,United States Senate,,Libertarian,"Batson, Randall",12,000020
+BROWN,Hiawatha City Ward 1,United States Senate,,Republican,"Roberts, Pat",89,000020
+BROWN,Hiawatha City Ward 2,United States Senate,,independent,"Orman, Greg",174,000030
+BROWN,Hiawatha City Ward 2,United States Senate,,Libertarian,"Batson, Randall",17,000030
+BROWN,Hiawatha City Ward 2,United States Senate,,Republican,"Roberts, Pat",282,000030
+BROWN,Hiawatha City Ward 3,United States Senate,,independent,"Orman, Greg",128,00004A
+BROWN,Hiawatha City Ward 3,United States Senate,,Libertarian,"Batson, Randall",20,00004A
+BROWN,Hiawatha City Ward 3,United States Senate,,Republican,"Roberts, Pat",215,00004A
+BROWN,Hiawatha City Ward 3 Exclave,United States Senate,,independent,"Orman, Greg",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00004B
+BROWN,Hiawatha City Ward 4,United States Senate,,independent,"Orman, Greg",16,00005A
+BROWN,Hiawatha City Ward 4,United States Senate,,Libertarian,"Batson, Randall",5,00005A
+BROWN,Hiawatha City Ward 4,United States Senate,,Republican,"Roberts, Pat",36,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,United States Senate,,independent,"Orman, Greg",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States Senate,,Libertarian,"Batson, Randall",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States Senate,,Republican,"Roberts, Pat",0,00005B
+BROWN,Hiawatha Township,United States Senate,,independent,"Orman, Greg",58,000060
+BROWN,Hiawatha Township,United States Senate,,Libertarian,"Batson, Randall",8,000060
+BROWN,Hiawatha Township,United States Senate,,Republican,"Roberts, Pat",187,000060
+BROWN,Horton Ward 1,United States Senate,,independent,"Orman, Greg",58,000070
+BROWN,Horton Ward 1,United States Senate,,Libertarian,"Batson, Randall",11,000070
+BROWN,Horton Ward 1,United States Senate,,Republican,"Roberts, Pat",126,000070
+BROWN,Horton Ward 2,United States Senate,,independent,"Orman, Greg",45,000080
+BROWN,Horton Ward 2,United States Senate,,Libertarian,"Batson, Randall",5,000080
+BROWN,Horton Ward 2,United States Senate,,Republican,"Roberts, Pat",83,000080
+BROWN,Horton Ward 3,United States Senate,,independent,"Orman, Greg",28,00009A
+BROWN,Horton Ward 3,United States Senate,,Libertarian,"Batson, Randall",9,00009A
+BROWN,Horton Ward 3,United States Senate,,Republican,"Roberts, Pat",40,00009A
+BROWN,Horton Ward 3 Exclave A,United States Senate,,independent,"Orman, Greg",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,00009B
+BROWN,Horton Ward 3 Exclave B,United States Senate,,independent,"Orman, Greg",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States Senate,,Libertarian,"Batson, Randall",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States Senate,,Republican,"Roberts, Pat",0,00009C
+BROWN,Irving Township,United States Senate,,independent,"Orman, Greg",29,000100
+BROWN,Irving Township,United States Senate,,Libertarian,"Batson, Randall",4,000100
+BROWN,Irving Township,United States Senate,,Republican,"Roberts, Pat",63,000100
+BROWN,Mission Township,United States Senate,,independent,"Orman, Greg",74,000110
+BROWN,Mission Township,United States Senate,,Libertarian,"Batson, Randall",5,000110
+BROWN,Mission Township,United States Senate,,Republican,"Roberts, Pat",174,000110
+BROWN,Morrill Township,United States Senate,,independent,"Orman, Greg",24,000120
+BROWN,Morrill Township,United States Senate,,Libertarian,"Batson, Randall",6,000120
+BROWN,Morrill Township,United States Senate,,Republican,"Roberts, Pat",151,000120
+BROWN,Padonia Township,United States Senate,,independent,"Orman, Greg",16,000130
+BROWN,Padonia Township,United States Senate,,Libertarian,"Batson, Randall",11,000130
+BROWN,Padonia Township,United States Senate,,Republican,"Roberts, Pat",47,000130
+BROWN,Powhattan Township,United States Senate,,independent,"Orman, Greg",87,000140
+BROWN,Powhattan Township,United States Senate,,Libertarian,"Batson, Randall",7,000140
+BROWN,Powhattan Township,United States Senate,,Republican,"Roberts, Pat",106,000140
+BROWN,Reserve Township,United States Senate,,independent,"Orman, Greg",9,000150
+BROWN,Reserve Township,United States Senate,,Libertarian,"Batson, Randall",5,000150
+BROWN,Reserve Township,United States Senate,,Republican,"Roberts, Pat",27,000150
+BROWN,Robinson Township,United States Senate,,independent,"Orman, Greg",50,000160
+BROWN,Robinson Township,United States Senate,,Libertarian,"Batson, Randall",9,000160
+BROWN,Robinson Township,United States Senate,,Republican,"Roberts, Pat",102,000160
+BROWN,Sabetha Ward 1 Part A,United States Senate,,independent,"Orman, Greg",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States Senate,,Libertarian,"Batson, Randall",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States Senate,,Republican,"Roberts, Pat",0,00017A
+BROWN,Sabetha Ward 1 Part B,United States Senate,,independent,"Orman, Greg",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States Senate,,Libertarian,"Batson, Randall",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States Senate,,Republican,"Roberts, Pat",0,00017B
+BROWN,Sabetha Ward 4 Part A,United States Senate,,independent,"Orman, Greg",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States Senate,,Libertarian,"Batson, Randall",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States Senate,,Republican,"Roberts, Pat",0,00018A
+BROWN,Sabetha Ward 4 Part B,United States Senate,,independent,"Orman, Greg",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States Senate,,Libertarian,"Batson, Randall",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States Senate,,Republican,"Roberts, Pat",0,00018B
+BROWN,Sabetha Ward 5,United States Senate,,independent,"Orman, Greg",0,000190
+BROWN,Sabetha Ward 5,United States Senate,,Libertarian,"Batson, Randall",0,000190
+BROWN,Sabetha Ward 5,United States Senate,,Republican,"Roberts, Pat",0,000190
+BROWN,Walnut Township,United States Senate,,independent,"Orman, Greg",69,000200
+BROWN,Walnut Township,United States Senate,,Libertarian,"Batson, Randall",7,000200
+BROWN,Walnut Township,United States Senate,,Republican,"Roberts, Pat",173,000200
+BROWN,Washington Township,United States Senate,,independent,"Orman, Greg",32,000210
+BROWN,Washington Township,United States Senate,,Libertarian,"Batson, Randall",3,000210
+BROWN,Washington Township,United States Senate,,Republican,"Roberts, Pat",120,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States Senate,,independent,"Orman, Greg",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900010

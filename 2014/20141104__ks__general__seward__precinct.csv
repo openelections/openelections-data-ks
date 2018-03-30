@@ -1,430 +1,392 @@
-county,precinct,office,district,party,candidate,votes,advance,poll,provisional
-Seward,Fargo twp 1,Attorney General,,D,AJ Kotich,3,1,2,0
-Seward,Fargo twp 2,Attorney General,,D,AJ Kotich,2,0,2,0
-Seward,Fargo twp 3,Attorney General,,D,AJ Kotich,0,0,0,0
-Seward,Fargo twp 4,Attorney General,,D,AJ Kotich,14,2,12,0
-Seward,Kismet City,Attorney General,,D,AJ Kotich,13,1,11,1
-Seward,Liberal twp 1,Attorney General,,D,AJ Kotich,8,1,7,0
-Seward,Liberal twp 2,Attorney General,,D,AJ Kotich,3,1,2,0
-Seward,Liberal twp 3,Attorney General,,D,AJ Kotich,5,1,4,0
-Seward,Liberal twp 4,Attorney General,,D,AJ Kotich,4,2,2,0
-Seward,Liberal twp 5,Attorney General,,D,AJ Kotich,3,1,2,0
-Seward,Seward twp 1,Attorney General,,D,AJ Kotich,3,0,3,0
-Seward,Seward twp 2,Attorney General,,D,AJ Kotich,4,1,2,1
-Seward,Seward twp 3,Attorney General,,D,AJ Kotich,1,0,1,0
-Seward,Fargo twp 1,Attorney General,,R,Derek Schmidt,35,8,26,1
-Seward,Fargo twp 2,Attorney General,,R,Derek Schmidt,32,10,22,0
-Seward,Fargo twp 3,Attorney General,,R,Derek Schmidt,18,6,12,0
-Seward,Fargo twp 4,Attorney General,,R,Derek Schmidt,56,20,34,2
-Seward,Kismet City,Attorney General,,R,Derek Schmidt,88,10,77,1
-Seward,Liberal twp 1,Attorney General,,R,Derek Schmidt,49,12,37,0
-Seward,Liberal twp 2,Attorney General,,R,Derek Schmidt,27,11,15,1
-Seward,Liberal twp 3,Attorney General,,R,Derek Schmidt,47,16,29,2
-Seward,Liberal twp 4,Attorney General,,R,Derek Schmidt,30,11,19,0
-Seward,Liberal twp 5,Attorney General,,R,Derek Schmidt,24,12,12,0
-Seward,Seward twp 1,Attorney General,,R,Derek Schmidt,22,9,13,0
-Seward,Seward twp 2,Attorney General,,R,Derek Schmidt,22,6,16,0
-Seward,Seward twp 3,Attorney General,,R,Derek Schmidt,16,0,16,0
-Seward,Fargo twp 1,U.S. House,1,R,Tim Huelskamp,35,8,26,1
-Seward,Fargo twp 2,U.S. House,1,R,Tim Huelskamp,31,9,22,0
-Seward,Fargo twp 3,U.S. House,1,R,Tim Huelskamp,16,4,12,0
-Seward,Fargo twp 4,U.S. House,1,R,Tim Huelskamp,46,13,32,1
-Seward,Kismet City,U.S. House,1,R,Tim Huelskamp,78,11,66,1
-Seward,Liberal twp 1,U.S. House,1,R,Tim Huelskamp,45,9,36,0
-Seward,Liberal twp 2,U.S. House,1,R,Tim Huelskamp,22,5,16,1
-Seward,Liberal twp 3,U.S. House,1,R,Tim Huelskamp,41,15,25,1
-Seward,Liberal twp 4,U.S. House,1,R,Tim Huelskamp,29,9,20,0
-Seward,Liberal twp 5,U.S. House,1,R,Tim Huelskamp,23,11,12,0
-Seward,Seward twp 1,U.S. House,1,R,Tim Huelskamp,20,7,13,0
-Seward,Seward twp 2,U.S. House,1,R,Tim Huelskamp,24,7,16,1
-Seward,Seward twp 3,U.S. House,1,R,Tim Huelskamp,12,0,12,0
-Seward,Fargo twp 1,U.S. House,1,D,James Sherow,4,1,3,0
-Seward,Fargo twp 2,U.S. House,1,D,James Sherow,5,1,4,0
-Seward,Fargo twp 3,U.S. House,1,D,James Sherow,1,1,0,0
-Seward,Fargo twp 4,U.S. House,1,D,James Sherow,27,9,17,1
-Seward,Kismet City,U.S. House,1,D,James Sherow,24,0,23,1
-Seward,Liberal twp 1,U.S. House,1,D,James Sherow,11,2,9,0
-Seward,Liberal twp 2,U.S. House,1,D,James Sherow,7,5,2,0
-Seward,Liberal twp 3,U.S. House,1,D,James Sherow,10,2,7,1
-Seward,Liberal twp 4,U.S. House,1,D,James Sherow,5,4,1,0
-Seward,Liberal twp 5,U.S. House,1,D,James Sherow,4,2,2,0
-Seward,Seward twp 1,U.S. House,1,D,James Sherow,5,2,3,0
-Seward,Seward twp 2,U.S. House,1,D,James Sherow,3,0,3,0
-Seward,Seward twp 3,U.S. House,1,D,James Sherow,4,0,4,0
-Seward,Liberal twp 1,U.S. House,1,,Write-ins,1,0,1,0
-Seward,Liberal twp 2,U.S. House,1,,Write-ins,1,1,0,0
-Seward,Fargo twp 1,Governor,,R,Sam Brownback,30,8,22,0
-Seward,Fargo twp 2,Governor,,R,Sam Brownback,31,9,22,0
-Seward,Fargo twp 3,Governor,,R,Sam Brownback,15,3,12,0
-Seward,Fargo twp 4,Governor,,R,Sam Brownback,42,11,29,2
-Seward,Kismet City,Governor,,R,Sam Brownback,66,9,57,0
-Seward,Liberal twp 1,Governor,,R,Sam Brownback,45,11,34,0
-Seward,Liberal twp 2,Governor,,R,Sam Brownback,23,7,15,1
-Seward,Liberal twp 3,Governor,,R,Sam Brownback,46,15,29,2
-Seward,Liberal twp 4,Governor,,R,Sam Brownback,25,8,17,0
-Seward,Liberal twp 5,Governor,,R,Sam Brownback,23,12,11,0
-Seward,Seward twp 1,Governor,,R,Sam Brownback,20,7,13,0
-Seward,Seward twp 2,Governor,,R,Sam Brownback,24,6,17,1
-Seward,Seward twp 3,Governor,,R,Sam Brownback,14,0,14,0
-Seward,Fargo twp 1,Governor,,D,Paul Davis,7,1,5,1
-Seward,Fargo twp 2,Governor,,D,Paul Davis,5,1,4,0
-Seward,Fargo twp 3,Governor,,D,Paul Davis,3,3,0,0
-Seward,Fargo twp 4,Governor,,D,Paul Davis,27,10,17,0
-Seward,Kismet City,Governor,,D,Paul Davis,29,1,27,1
-Seward,Liberal twp 1,Governor,,D,Paul Davis,12,2,10,0
-Seward,Liberal twp 2,Governor,,D,Paul Davis,9,6,3,0
-Seward,Liberal twp 3,Governor,,D,Paul Davis,7,2,5,0
-Seward,Liberal twp 4,Governor,,D,Paul Davis,8,4,4,0
-Seward,Liberal twp 5,Governor,,D,Paul Davis,3,1,2,0
-Seward,Seward twp 1,Governor,,D,Paul Davis,5,2,3,0
-Seward,Seward twp 2,Governor,,D,Paul Davis,3,1,2,0
-Seward,Seward twp 3,Governor,,D,Paul Davis,3,0,3,0
-Seward,Fargo twp 1,Governor,,L,Keen Umbehr,2,0,2,0
-Seward,Fargo twp 2,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Fargo twp 3,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Fargo twp 4,Governor,,L,Keen Umbehr,2,1,1,0
-Seward,Kismet City,Governor,,L,Keen Umbehr,8,1,6,1
-Seward,Liberal twp 1,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Liberal twp 2,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Liberal twp 3,Governor,,L,Keen Umbehr,2,0,2,0
-Seward,Liberal twp 4,Governor,,L,Keen Umbehr,2,1,1,0
-Seward,Liberal twp 5,Governor,,L,Keen Umbehr,1,0,1,0
-Seward,Seward twp 1,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Seward twp 2,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Seward twp 3,Governor,,L,Keen Umbehr,0,0,0,0
-Seward,Fargo twp 1,Insurance Commissioner,,D,Dennis Anderson,6,2,3,1
-Seward,Fargo twp 2,Insurance Commissioner,,D,Dennis Anderson,3,0,3,0
-Seward,Fargo twp 3,Insurance Commissioner,,D,Dennis Anderson,3,3,0,0
-Seward,Fargo twp 4,Insurance Commissioner,,D,Dennis Anderson,19,3,16,0
-Seward,Kismet City,Insurance Commissioner,,D,Dennis Anderson,16,1,14,1
-Seward,Liberal twp 1,Insurance Commissioner,,D,Dennis Anderson,9,1,8,0
-Seward,Liberal twp 2,Insurance Commissioner,,D,Dennis Anderson,4,3,1,0
-Seward,Liberal twp 3,Insurance Commissioner,,D,Dennis Anderson,4,1,3,0
-Seward,Liberal twp 4,Insurance Commissioner,,D,Dennis Anderson,5,2,3,0
-Seward,Liberal twp 5,Insurance Commissioner,,D,Dennis Anderson,3,2,1,0
-Seward,Seward twp 1,Insurance Commissioner,,D,Dennis Anderson,4,1,3,0
-Seward,Seward twp 2,Insurance Commissioner,,D,Dennis Anderson,4,1,3,0
-Seward,Seward twp 3,Insurance Commissioner,,D,Dennis Anderson,1,0,1,0
-Seward,Fargo twp 1,Insurance Commissioner,,R,Ken Selzer,31,7,24,0
-Seward,Fargo twp 2,Insurance Commissioner,,R,Ken Selzer,32,10,22,0
-Seward,Fargo twp 3,Insurance Commissioner,,R,Ken Selzer,15,3,12,0
-Seward,Fargo twp 4,Insurance Commissioner,,R,Ken Selzer,52,18,32,2
-Seward,Kismet City,Insurance Commissioner,,R,Ken Selzer,87,10,76,1
-Seward,Liberal twp 1,Insurance Commissioner,,R,Ken Selzer,46,9,37,0
-Seward,Liberal twp 2,Insurance Commissioner,,R,Ken Selzer,27,9,17,1
-Seward,Liberal twp 3,Insurance Commissioner,,R,Ken Selzer,48,16,30,2
-Seward,Liberal twp 4,Insurance Commissioner,,R,Ken Selzer,26,10,16,0
-Seward,Liberal twp 5,Insurance Commissioner,,R,Ken Selzer,22,10,12,0
-Seward,Seward twp 1,Insurance Commissioner,,R,Ken Selzer,21,8,13,0
-Seward,Seward twp 2,Insurance Commissioner,,R,Ken Selzer,21,6,14,1
-Seward,Seward twp 3,Insurance Commissioner,,R,Ken Selzer,16,0,16,0
-Seward,Liberal twp 1,Insurance Commissioner,,,Write-ins,1,0,1,0
-Seward,Fargo twp 1,Secretary of State,,R,Kris Kobach,33,8,25,0
-Seward,Fargo twp 2,Secretary of State,,R,Kris Kobach,31,9,22,0
-Seward,Fargo twp 3,Secretary of State,,R,Kris Kobach,17,6,11,0
-Seward,Fargo twp 4,Secretary of State,,R,Kris Kobach,50,16,32,2
-Seward,Kismet City,Secretary of State,,R,Kris Kobach,81,11,69,1
-Seward,Liberal twp 1,Secretary of State,,R,Kris Kobach,48,12,36,0
-Seward,Liberal twp 2,Secretary of State,,R,Kris Kobach,26,8,17,1
-Seward,Liberal twp 3,Secretary of State,,R,Kris Kobach,51,16,33,2
-Seward,Liberal twp 4,Secretary of State,,R,Kris Kobach,29,9,20,0
-Seward,Liberal twp 5,Secretary of State,,R,Kris Kobach,23,11,12,0
-Seward,Seward twp 1,Secretary of State,,R,Kris Kobach,21,8,13,0
-Seward,Seward twp 2,Secretary of State,,R,Kris Kobach,23,6,16,1
-Seward,Seward twp 3,Secretary of State,,R,Kris Kobach,16,0,16,0
-Seward,Fargo twp 1,Secretary of State,,D,Jean Schodorf,6,1,4,1
-Seward,Fargo twp 2,Secretary of State,,D,Jean Schodorf,5,1,4,0
-Seward,Fargo twp 3,Secretary of State,,D,Jean Schodorf,1,0,1,0
-Seward,Fargo twp 4,Secretary of State,,D,Jean Schodorf,23,6,17,0
-Seward,Kismet City,Secretary of State,,D,Jean Schodorf,22,0,21,1
-Seward,Liberal twp 1,Secretary of State,,D,Jean Schodorf,9,0,9,0
-Seward,Liberal twp 2,Secretary of State,,D,Jean Schodorf,6,5,1,0
-Seward,Liberal twp 3,Secretary of State,,D,Jean Schodorf,3,1,2,0
-Seward,Liberal twp 4,Secretary of State,,D,Jean Schodorf,5,4,1,0
-Seward,Liberal twp 5,Secretary of State,,D,Jean Schodorf,4,2,2,0
-Seward,Seward twp 1,Secretary of State,,D,Jean Schodorf,4,1,3,0
-Seward,Seward twp 2,Secretary of State,,D,Jean Schodorf,4,1,3,0
-Seward,Seward twp 3,Secretary of State,,D,Jean Schodorf,1,0,1,0
-Seward,Liberal twp 1,Secretary of State,,,Write-ins,1,0,1,0
-Seward,Seward twp 1,State House,124,R,J. Stephen Alford,25,9,16,0
-Seward,Seward twp 2,State House,124,R,J. Stephen Alford,23,6,16,1
-Seward,Seward twp 3,State House,124,R,J. Stephen Alford,14,0,14,0
-Seward,Fargo twp 1,State House,125,R,Shannon Francis,38,9,28,1
-Seward,Fargo twp 2,State House,125,R,Shannon Francis,34,10,24,0
-Seward,Fargo twp 3,State House,125,R,Shannon Francis,17,6,11,0
-Seward,Fargo twp 4,State House,125,R,Shannon Francis,63,21,40,2
-Seward,Kismet City,State House,125,R,Shannon Francis,102,11,90,1
-Seward,Liberal twp 1,State House,125,R,Shannon Francis,47,9,38,0
-Seward,Liberal twp 2,State House,125,R,Shannon Francis,28,12,15,1
-Seward,Liberal twp 3,State House,125,R,Shannon Francis,45,14,29,2
-Seward,Liberal twp 4,State House,125,R,Shannon Francis,33,13,20,0
-Seward,Liberal twp 5,State House,125,R,Shannon Francis,25,12,13,0
-Seward,Fargo twp 2,State House,125,,Write-ins,1,0,1,0
-Seward,Fargo twp 4,State House,125,,Write-ins,3,0,3,0
-Seward,Liberal twp 1,State House,125,,Write-ins,1,0,1,0
-Seward,Liberal twp 2,State House,125,,Write-ins,2,0,2,0
-Seward,Liberal twp 3,State House,125,,Write-ins,3,1,2,0
-Seward,Fargo twp 1,State Treasurer,,D,Carmen Alldritt,3,0,2,1
-Seward,Fargo twp 2,State Treasurer,,D,Carmen Alldritt,3,0,3,0
-Seward,Fargo twp 3,State Treasurer,,D,Carmen Alldritt,0,0,0,0
-Seward,Fargo twp 4,State Treasurer,,D,Carmen Alldritt,15,2,13,0
-Seward,Kismet City,State Treasurer,,D,Carmen Alldritt,12,1,10,1
-Seward,Liberal twp 1,State Treasurer,,D,Carmen Alldritt,8,0,8,0
-Seward,Liberal twp 2,State Treasurer,,D,Carmen Alldritt,4,2,2,0
-Seward,Liberal twp 3,State Treasurer,,D,Carmen Alldritt,4,1,3,0
-Seward,Liberal twp 4,State Treasurer,,D,Carmen Alldritt,4,2,2,0
-Seward,Liberal twp 5,State Treasurer,,D,Carmen Alldritt,2,1,1,0
-Seward,Seward twp 1,State Treasurer,,D,Carmen Alldritt,5,1,4,0
-Seward,Seward twp 2,State Treasurer,,D,Carmen Alldritt,2,0,2,0
-Seward,Seward twp 3,State Treasurer,,D,Carmen Alldritt,1,0,1,0
-Seward,Fargo twp 1,State Treasurer,,R,Ron Estes,35,9,26,0
-Seward,Fargo twp 2,State Treasurer,,R,Ron Estes,33,10,23,0
-Seward,Fargo twp 3,State Treasurer,,R,Ron Estes,18,6,12,0
-Seward,Fargo twp 4,State Treasurer,,R,Ron Estes,56,19,35,2
-Seward,Kismet City,State Treasurer,,R,Ron Estes,91,10,80,1
-Seward,Liberal twp 1,State Treasurer,,R,Ron Estes,49,12,37,0
-Seward,Liberal twp 2,State Treasurer,,R,Ron Estes,28,11,16,1
-Seward,Liberal twp 3,State Treasurer,,R,Ron Estes,48,15,31,2
-Seward,Liberal twp 4,State Treasurer,,R,Ron Estes,28,10,18,0
-Seward,Liberal twp 5,State Treasurer,,R,Ron Estes,25,12,13,0
-Seward,Seward twp 1,State Treasurer,,R,Ron Estes,20,8,12,0
-Seward,Seward twp 2,State Treasurer,,R,Ron Estes,23,7,15,1
-Seward,Seward twp 3,State Treasurer,,R,Ron Estes,16,0,16,0
-Seward,Liberal twp 1,State Treasurer,,,Write-ins,1,0,1,0
-Seward,Fargo twp 1,U.S. Senate,,L,Randall Batson,2,0,2,0
-Seward,Fargo twp 2,U.S. Senate,,L,Randall Batson,1,0,1,0
-Seward,Fargo twp 3,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Fargo twp 4,U.S. Senate,,L,Randall Batson,6,2,4,0
-Seward,Kismet City,U.S. Senate,,L,Randall Batson,7,0,7,0
-Seward,Liberal twp 1,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Liberal twp 2,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Liberal twp 3,U.S. Senate,,L,Randall Batson,4,1,3,0
-Seward,Liberal twp 4,U.S. Senate,,L,Randall Batson,5,2,3,0
-Seward,Liberal twp 5,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Seward twp 1,U.S. Senate,,L,Randall Batson,1,0,I,0
-Seward,Seward twp 2,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Seward twp 3,U.S. Senate,,L,Randall Batson,0,0,0,0
-Seward,Fargo twp 1,U.S. Senate,,I,Greg Orman,10,2,7,1
-Seward,Fargo twp 2,U.S. Senate,,I,Greg Orman,3,0,3,0
-Seward,Fargo twp 3,U.S. Senate,,I,Greg Orman,0,0,0,0
-Seward,Fargo twp 4,U.S. Senate,,I,Greg Orman,20,8,12,0
-Seward,Kismet City,U.S. Senate,,I,Greg Orman,24,1,22,1
-Seward,Liberal twp 1,U.S. Senate,,I,Greg Orman,14,2,12,0
-Seward,Liberal twp 2,U.S. Senate,,I,Greg Orman,6,3,3,0
-Seward,Liberal twp 3,U.S. Senate,,I,Greg Orman,8,1,7,0
-Seward,Liberal twp 4,U.S. Senate,,I,Greg Orman,6,3,3,0
-Seward,Liberal twp 5,U.S. Senate,,I,Greg Orman,3,1,2,0
-Seward,Seward twp 1,U.S. Senate,,I,Greg Orman,4,1,3,0
-Seward,Seward twp 2,U.S. Senate,,I,Greg Orman,5,2,2,1
-Seward,Seward twp 3,U.S. Senate,,I,Greg Orman,1,0,1,0
-Seward,Fargo twp 1,U.S. Senate,,R,Pat Roberts,27,7,20,0
-Seward,Fargo twp 2,U.S. Senate,,R,Pat Roberts,32,10,22,0
-Seward,Fargo twp 3,U.S. Senate,,R,Pat Roberts,17,5,12,0
-Seward,Fargo twp 4,U.S. Senate,,R,Pat Roberts,46,14,30,2
-Seward,Kismet City,U.S. Senate,,R,Pat Roberts,75,10,64,1
-Seward,Liberal twp 1,U.S. Senate,,R,Pat Roberts,44,11,33,0
-Seward,Liberal twp 2,U.S. Senate,,R,Pat Roberts,26,10,15,1
-Seward,Liberal twp 3,U.S. Senate,,R,Pat Roberts,43,15,26,2
-Seward,Liberal twp 4,U.S. Senate,,R,Pat Roberts,24,8,16,0
-Seward,Liberal twp 5,U.S. Senate,,R,Pat Roberts,24,12,12,0
-Seward,Seward twp 1,U.S. Senate,,R,Pat Roberts,20,8,12,0
-Seward,Seward twp 2,U.S. Senate,,R,Pat Roberts,22,5,17,0
-Seward,Seward twp 3,U.S. Senate,,R,Pat Roberts,16,0,16,0
-Seward,W1P1,Voters,,,Reg,894,894,0,0
-Seward,W1P2,Voters,,,Reg,1395,1395,0,0
-Seward,W1P3,Voters,,,Reg,952,952,0,0
-Seward,W2,Voters,,,Reg,924,924,0,0
-Seward,W3,Voters,,,Reg,839,839,0,0
-Seward,W4,Voters,,,Reg,589,589,0,0
-Seward,W5,Voters,,,Reg,537,537,0,0
-Seward,W6P1,Voters,,,Reg,1456,1456,0,0
-Seward,W6P2,Voters,,,Reg,1077,1077,0,0
-Seward,W1P1,Voters,,,Cast,213,150,54,9
-Seward,W1P2,Voters,,,Cast,283,186,95,2
-Seward,W1P3,Voters,,,Cast,272,165,99,8
-Seward,W2,Voters,,,Cast,323,226,86,11
-Seward,W3,Voters,,,Cast,152,93,54,5
-Seward,W4,Voters,,,Cast,220,151,63,6
-Seward,W5,Voters,,,Cast,193,127,62,4
-Seward,W6P1,Voters,,,Cast,718,473,232,13
-Seward,W6P2,Voters,,,Cast,430,283,132,15
-Seward,W1P1,Attorney General,,D,AJ Kotich,44,34,8,2
-Seward,W1P2,Attorney General,,D,AJ Kotich,84,55,27,2
-Seward,W1P3,Attorney General,,D,AJ Kotich,78,56,20,2
-Seward,W2,Attorney General,,D,AJ Kotich,62,36,23,3
-Seward,W3,Attorney General,,D,AJ Kotich,48,36,12,0
-Seward,W4,Attorney General,,D,AJ Kotich,48,31,14,3
-Seward,W5,Attorney General,,D,AJ Kotich,38,21,16,1
-Seward,W6P1,Attorney General,,D,AJ Kotich,103,65,36,2
-Seward,W6P2,Attorney General,,D,AJ Kotich,54,30,22,2
-Seward,W1P1,Attorney General,,R,Derek Schmidt,154,106,41,7
-Seward,W1P2,Attorney General,,R,Derek Schmidt,186,122,64,0
-Seward,W1P3,Attorney General,,R,Derek Schmidt,184,103,75,6
-Seward,W2,Attorney General,,R,Derek Schmidt,247,178,61,8
-Seward,W3,Attorney General,,R,Derek Schmidt,91,51,36,4
-Seward,W4,Attorney General,,R,Derek Schmidt,167,117,47,3
-Seward,W5,Attorney General,,R,Derek Schmidt,143,98,42,3
-Seward,W6P1,Attorney General,,R,Derek Schmidt,588,389,189,10
-Seward,W6P2,Attorney General,,R,Derek Schmidt,363,243,107,13
-Seward,W1P3,Attorney General,,,Write-ins,1,1,0,0
-Seward,W6P1,Attorney General,,,Write-ins,2,2,0,0
-Seward,W1P1,U.S. House,1,R,Tim Huelskamp,147,98,42,7
-Seward,W1P2,U.S. House,1,R,Tim Huelskamp,201,129,72,0
-Seward,W1P3,U.S. House,1,R,Tim Huelskamp,177,98,74,5
-Seward,W2,U.S. House,1,R,Tim Huelskamp,234,169,57,8
-Seward,W3,U.S. House,1,R,Tim Huelskamp,101,60,38,3
-Seward,W4,U.S. House,1,R,Tim Huelskamp,161,112,45,4
-Seward,W5,U.S. House,1,R,Tim Huelskamp,130,91,36,3
-Seward,W6P1,U.S. House,1,R,Tim Huelskamp,520,347,164,9
-Seward,W6P2,U.S. House,1,R,Tim Huelskamp,324,215,98,11
-Seward,W1P1,U.S. House,1,D,James Sherow,61,49,10,2
-Seward,W1P2,U.S. House,1,D,James Sherow,74,52,20,2
-Seward,W1P3,U.S. House,1,D,James Sherow,90,64,23,3
-Seward,W2,U.S. House,1,D,James Sherow,78,48,27,3
-Seward,W3,U.S. House,1,D,James Sherow,48,32,14,2
-Seward,W4,U.S. House,1,D,James Sherow,55,37,16,2
-Seward,W5,U.S. House,1,D,James Sherow,55,31,23,1
-Seward,W6P1,U.S. House,1,D,James Sherow,179,112,63,4
-Seward,W6P2,U.S. House,1,D,James Sherow,92,59,29,4
-Seward,W1P2,U.S. House,1,,Write-ins,1,1,0,0
-Seward,W2,U.S. House,1,,Write-ins,3,3,0,0
-Seward,W6P1,U.S. House,1,,Write-ins,1,0,1,0
-Seward,W6P2,U.S. House,1,,Write-ins,1,1,0,0
-Seward,W1P1,Governor,,R,Sam Brownback,135,92,37,6
-Seward,W1P2,Governor,,R,Sam Brownback,179,113,66,0
-Seward,W1P3,Governor,,R,Sam Brownback,153,80,68,5
-Seward,W2,Governor,,R,Sam Brownback,213,150,56,7
-Seward,W3,Governor,,R,Sam Brownback,88,50,34,4
-Seward,W4,Governor,,R,Sam Brownback,140,93,44,3
-Seward,W5,Governor,,R,Sam Brownback,128,88,37,3
-Seward,W6P1,Governor,,R,Sam Brownback,483,319,156,8
-Seward,W6P2,Governor,,R,Sam Brownback,302,197,96,9
-Seward,W1P1,Governor,,D,Paul Davis,52,41,8,3
-Seward,W1P2,Governor,,D,Paul Davis,74,48,24,2
-Seward,W1P3,Governor,,D,Paul Davis,105,77,26,2
-Seward,W2,Governor,,D,Paul Davis,89,61,24,4
-Seward,W3,Governor,,D,Paul Davis,52,33,18,1
-Seward,W4,Governor,,D,Paul Davis,65,44,18,3
-Seward,W5,Governor,,D,Paul Davis,56,35,20,1
-Seward,W6P1,Governor,,D,Paul Davis,196,124,68,4
-Seward,W6P2,Governor,,D,Paul Davis,115,76,33,6
-Seward,W1P1,Governor,,L,Keen Umbehr,17,11,6,0
-Seward,W1P2,Governor,,L,Keen Umbehr,21,19,2,0
-Seward,W1P3,Governor,,L,Keen Umbehr,9,6,2,1
-Seward,W2,Governor,,L,Keen Umbehr,15,11,4,0
-Seward,W3,Governor,,L,Keen Umbehr,7,5,2,0
-Seward,W4,Governor,,L,Keen Umbehr,12,12,0,0
-Seward,W5,Governor,,L,Keen Umbehr,6,3,3,0
-Seward,W6P1,Governor,,L,Keen Umbehr,30,23,6,1
-Seward,W6P2,Governor,,L,Keen Umbehr,11,8,3,0
-Seward,W4,Governor,,,Write-ins,2,1,1,0
-Seward,W6P1,Governor,,,Write-ins,1,1,0,0
-Seward,W1P1,Insurance Commissioner,,D,Dennis Anderson,54,44,8,2
-Seward,W1P2,Insurance Commissioner,,D,Dennis Anderson,80,55,23,2
-Seward,W1P3,Insurance Commissioner,,D,Dennis Anderson,83,59,22,2
-Seward,W2,Insurance Commissioner,,D,Dennis Anderson,74,48,24,2
-Seward,W3,Insurance Commissioner,,D,Dennis Anderson,52,36,14,2
-Seward,W4,Insurance Commissioner,,D,Dennis Anderson,52,36,14,2
-Seward,W5,Insurance Commissioner,,D,Dennis Anderson,42,23,18,1
-Seward,W6P1,Insurance Commissioner,,D,Dennis Anderson,123,76,44,3
-Seward,W6P2,Insurance Commissioner,,D,Dennis Anderson,66,39,24,3
-Seward,W1P1,Insurance Commissioner,,R,Ken Selzer,143,96,41,6
-Seward,W1P2,Insurance Commissioner,,R,Ken Selzer,186,122,64,0
-Seward,W1P3,Insurance Commissioner,,R,Ken Selzer,178,98,75,5
-Seward,W2,Insurance Commissioner,,R,Ken Selzer,229,164,58,7
-Seward,W3,Insurance Commissioner,,R,Ken Selzer,85,48,34,3
-Seward,W4,Insurance Commissioner,,R,Ken Selzer,159,112,44,3
-Seward,W5,Insurance Commissioner,,R,Ken Selzer,139,98,38,3
-Seward,W6P1,Insurance Commissioner,,R,Ken Selzer,565,379,177,9
-Seward,W6P2,Insurance Commissioner,,R,Ken Selzer,342,229,101,12
-Seward,W2,Insurance Commissioner,,,Write-ins,1,1,0,0
-Seward,W6P2,Insurance Commissioner,,,Write-ins,1,1,0,0
-Seward,W1P1,Secretary of State,,R,Kris Kobach,144,97,41,6
-Seward,W1P2,Secretary of State,,R,Kris Kobach,186,120,66,0
-Seward,W1P3,Secretary of State,,R,Kris Kobach,170,95,69,6
-Seward,W2,Secretary of State,,R,Kris Kobach,224,162,54,8
-Seward,W3,Secretary of State,,R,Kris Kobach,96,52,40,4
-Seward,W4,Secretary of State,,R,Kris Kobach,162,112,47,3
-Seward,W5,Secretary of State,,R,Kris Kobach,140,98,39,3
-Seward,W6P1,Secretary of State,,R,Kris Kobach,556,376,169,11
-Seward,W6P2,Secretary of State,,R,Kris Kobach,345,230,103,12
-Seward,W1P1,Secretary of State,,D,Jean Schodorf,59,47,10,2
-Seward,W1P2,Secretary of State,,D,Jean Schodorf,88,60,26,2
-Seward,W1P3,Secretary of State,,D,Jean Schodorf,95,67,26,2
-Seward,W2,Secretary of State,,D,Jean Schodorf,87,55,29,3
-Seward,W3,Secretary of State,,D,Jean Schodorf,48,35,13,0
-Seward,W4,Secretary of State,,D,Jean Schodorf,54,37,15,2
-Seward,W5,Secretary of State,,D,Jean Schodorf,45,25,19,1
-Seward,W6P1,Secretary of State,,D,Jean Schodorf,145,85,58,2
-Seward,W6P2,Secretary of State,,D,Jean Schodorf,75,47,25,3
-Seward,W4,Secretary of State,,,Write-ins,1,1,0,0
-Seward,W6P1,Secretary of State,,,Write-ins,1,1,0,0
-Seward,W6P2,Secretary of State,,,Write-ins,1,1,0,0
-Seward,W1P1,State House,125,R,Shannon Francis,186,130,48,8
-Seward,W1P2,State House,125,R,Shannon Francis,231,156,75,0
-Seward,W1P3,State House,125,R,Shannon Francis,220,129,85,5
-Seward,W2,State House,125,R,Shannon Francis,280,198,73,9
-Seward,W3,State House,125,R,Shannon Francis,127,75,48,4
-Seward,W4,State House,125,R,Shannon Francis,191,130,56,5
-Seward,W5,State House,125,R,Shannon Francis,162,108,51,3
-Seward,W6P1,State House,125,R,Shannon Francis,642,429,201,12
-Seward,W6P2,State House,125,R,Shannon Francis,392,257,122,13
-Seward,W1P1,State House,125,,Write-ins,2,2,0,0
-Seward,W1P2,State House,125,,Write-ins,2,1,1,0
-Seward,W1P3,State House,125,,Write-ins,5,3,2,0
-Seward,W2,State House,125,,Write-ins,3,2,1,0
-Seward,W3,State House,125,,Write-ins,1,0,1,0
-Seward,W4,State House,125,,Write-ins,6,5,1,0
-Seward,W6P1,State House,125,,Write-ins,1,0,1,0
-Seward,W6P2,State House,125,,Write-ins,6,6,0,0
-Seward,W1P1,State Treasurer,,D,Carmen Alldritt,46,36,8,2
-Seward,W1P2,State Treasurer,,D,Carmen Alldritt,64,43,19,2
-Seward,W1P3,State Treasurer,,D,Carmen Alldritt,82,58,23,1
-Seward,W2,State Treasurer,,D,Carmen Alldritt,62,38,21,3
-Seward,W3,State Treasurer,,D,Carmen Alldritt,47,34,11,2
-Seward,W4,State Treasurer,,D,Carmen Alldritt,49,34,12,3
-Seward,W5,State Treasurer,,D,Carmen Alldritt,37,20,16,1
-Seward,W6P1,State Treasurer,,D,Carmen Alldritt,102,63,36,3
-Seward,W6P2,State Treasurer,,D,Carmen Alldritt,50,29,17,4
-Seward,W1P1,State Treasurer,,R,Ron Estes,153,104,42,7
-Seward,W1P2,State Treasurer,,R,Ron Estes,206,134,72,0
-Seward,W1P3,State Treasurer,,R,Ron Estes,185,104,74,7
-Seward,W2,State Treasurer,,R,Ron Estes,251,182,62,7
-Seward,W3,State Treasurer,,R,Ron Estes,93,53,37,3
-Seward,W4,State Treasurer,,R,Ron Estes,165,114,48,3
-Seward,W5,State Treasurer,,R,Ron Estes,146,100,43,3
-Seward,W6P1,State Treasurer,,R,Ron Estes,592,395,188,9
-Seward,W6P2,State Treasurer,,R,Ron Estes,363,243,109,11
-Seward,W6P2,State Treasurer,,,Write-ins,1,1,0,0
-Seward,W1P1,U.S. Senate,,L,Randall Batson,13,8,4,1
-Seward,W1P2,U.S. Senate,,L,Randall Batson,20,17,2,1
-Seward,W1P3,U.S. Senate,,L,Randall Batson,16,14,1,1
-Seward,W2,U.S. Senate,,L,Randall Batson,16,11,4,1
-Seward,W3,U.S. Senate,,L,Randall Batson,10,7,3,0
-Seward,W4,U.S. Senate,,L,Randall Batson,7,7,0,0
-Seward,W5,U.S. Senate,,L,Randall Batson,7,5,2,0
-Seward,W6P1,U.S. Senate,,L,Randall Batson,30,22,7,1
-Seward,W6P2,U.S. Senate,,L,Randall Batson,6,4,2,0
-Seward,W1P1,U.S. Senate,,I,Greg Orman,48,39,7,2
-Seward,W1P2,U.S. Senate,,I,Greg Orman,54,37,16,1
-Seward,W1P3,U.S. Senate,,I,Greg Orman,76,52,22,2
-Seward,W2,U.S. Senate,,I,Greg Orman,71,47,22,2
-Seward,W3,U.S. Senate,,I,Greg Orman,42,25,16,1
-Seward,W4,U.S. Senate,,I,Greg Orman,51,31,17,3
-Seward,W5,U.S. Senate,,I,Greg Orman,46,28,18,0
-Seward,W6P1,U.S. Senate,,I,Greg Orman,147,91,54,2
-Seward,W6P2,U.S. Senate,,I,Greg Orman,90,55,30,5
-Seward,W1P1,U.S. Senate,,R,Pat Roberts,144,96,42,6
-Seward,W1P2,U.S. Senate,,R,Pat Roberts,195,124,71,0
-Seward,W1P3,U.S. Senate,,R,Pat Roberts,170,91,74,5
-Seward,W2,U.S. Senate,,R,Pat Roberts,232,166,58,8
-Seward,W3,U.S. Senate,,R,Pat Roberts,92,54,35,3
-Seward,W4,U.S. Senate,,R,Pat Roberts,156,108,45,3
-Seward,W5,U.S. Senate,,R,Pat Roberts,134,92,40,2
-Seward,W6P1,U.S. Senate,,R,Pat Roberts,534,356,168,10
-Seward,W6P2,U.S. Senate,,R,Pat Roberts,326,218,98,10
-Seward,W1P3,U.S. Senate,,,Write-ins,1,1,0,0
-Seward,W4,U.S. Senate,,,Write-ins,1,1,0,0
-Seward,W5,U.S. Senate,,,Write-ins,1,0,0,1
-Seward,W6P1,U.S. Senate,,,Write-ins,1,0,1,0
-Seward,W6P2,U.S. Senate,,,Write-ins,1,1,0,0
+county,precinct,office,district,party,candidate,votes,vtd
+SEWARD,Fargo Township 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000010
+SEWARD,Fargo Township 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000010
+SEWARD,Fargo Township 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",30,000010
+SEWARD,Fargo Township 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",34,000020
+SEWARD,Fargo Township 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000020
+SEWARD,Fargo Township 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",97,000020
+SEWARD,Fargo Township 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000030
+SEWARD,Fargo Township 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+SEWARD,Fargo Township 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",15,000030
+SEWARD,Fargo Township 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",27,000040
+SEWARD,Fargo Township 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000040
+SEWARD,Fargo Township 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",42,000040
+SEWARD,Liberal Township 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",12,00005A
+SEWARD,Liberal Township 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005A
+SEWARD,Liberal Township 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",45,00005A
+SEWARD,Liberal Township 1 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005B
+SEWARD,Liberal Township 1 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+SEWARD,Liberal Township 1 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005B
+SEWARD,Liberal Township 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000060
+SEWARD,Liberal Township 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000060
+SEWARD,Liberal Township 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000060
+SEWARD,Liberal Township 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000070
+SEWARD,Liberal Township 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000070
+SEWARD,Liberal Township 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",46,000070
+SEWARD,Liberal Township 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",8,00008A
+SEWARD,Liberal Township 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,00008A
+SEWARD,Liberal Township 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",25,00008A
+SEWARD,Liberal Township 4 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00008B
+SEWARD,Liberal Township 4 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00008B
+SEWARD,Liberal Township 4 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00008B
+SEWARD,Liberal Township 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000090
+SEWARD,Liberal Township 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000090
+SEWARD,Liberal Township 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000090
+SEWARD,Liberal Ward 1 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",52,000100
+SEWARD,Liberal Ward 1 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000100
+SEWARD,Liberal Ward 1 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",135,000100
+SEWARD,Liberal Ward 1 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",74,000110
+SEWARD,Liberal Ward 1 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,000110
+SEWARD,Liberal Ward 1 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",179,000110
+SEWARD,Liberal Ward 1 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",105,000120
+SEWARD,Liberal Ward 1 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000120
+SEWARD,Liberal Ward 1 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",153,000120
+SEWARD,Liberal Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",89,000130
+SEWARD,Liberal Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000130
+SEWARD,Liberal Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",213,000130
+SEWARD,Liberal Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",52,000140
+SEWARD,Liberal Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000140
+SEWARD,Liberal Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",88,000140
+SEWARD,Liberal Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",65,000150
+SEWARD,Liberal Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000150
+SEWARD,Liberal Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",140,000150
+SEWARD,Liberal Ward 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000160
+SEWARD,Liberal Ward 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000160
+SEWARD,Liberal Ward 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",128,000160
+SEWARD,Liberal Ward 6 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",196,000170
+SEWARD,Liberal Ward 6 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",30,000170
+SEWARD,Liberal Ward 6 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",483,000170
+SEWARD,Liberal Ward 6 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",115,000180
+SEWARD,Liberal Ward 6 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000180
+SEWARD,Liberal Ward 6 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",302,000180
+SEWARD,Seward Township 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000190
+SEWARD,Seward Township 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000190
+SEWARD,Seward Township 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",20,000190
+SEWARD,Seward Township 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000200
+SEWARD,Seward Township 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000200
+SEWARD,Seward Township 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",24,000200
+SEWARD,Seward Township 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000210
+SEWARD,Seward Township 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000210
+SEWARD,Seward Township 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",14,000210
+SEWARD,Fargo Township 1,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",38,000010
+SEWARD,Fargo Township 2,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",136,000020
+SEWARD,Fargo Township 3,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",17,000030
+SEWARD,Fargo Township 4,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",63,000040
+SEWARD,Liberal Township 1,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",47,00005A
+SEWARD,Liberal Township 1 Exclave,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",0,00005B
+SEWARD,Liberal Township 2,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",28,000060
+SEWARD,Liberal Township 3,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",45,000070
+SEWARD,Liberal Township 4,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",33,00008A
+SEWARD,Liberal Township 4 Exclave,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",0,00008B
+SEWARD,Liberal Township 5,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",25,000090
+SEWARD,Liberal Ward 1 Precinct 1,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",186,000100
+SEWARD,Liberal Ward 1 Precinct 2,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",231,000110
+SEWARD,Liberal Ward 1 Precinct 3,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",220,000120
+SEWARD,Liberal Ward 2,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",280,000130
+SEWARD,Liberal Ward 3,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",127,000140
+SEWARD,Liberal Ward 4,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",191,000150
+SEWARD,Liberal Ward 5,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",162,000160
+SEWARD,Liberal Ward 6 Precinct 1,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",642,000170
+SEWARD,Liberal Ward 6 Precinct 2,Kansas House of Representatives,125,Republican,"Francis, Shannon G.",392,000180
+SEWARD,Seward Township 1,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",25,000190
+SEWARD,Seward Township 2,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",23,000200
+SEWARD,Seward Township 3,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",14,000210
+SEWARD,Fargo Township 1,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000010
+SEWARD,Fargo Township 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",35,000010
+SEWARD,Fargo Township 2,United States House of Representatives,1,Democratic,"Sherow, James E.",29,000020
+SEWARD,Fargo Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",109,000020
+SEWARD,Fargo Township 3,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000030
+SEWARD,Fargo Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",16,000030
+SEWARD,Fargo Township 4,United States House of Representatives,1,Democratic,"Sherow, James E.",27,000040
+SEWARD,Fargo Township 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",46,000040
+SEWARD,Liberal Township 1,United States House of Representatives,1,Democratic,"Sherow, James E.",11,00005A
+SEWARD,Liberal Township 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",45,00005A
+SEWARD,Liberal Township 1 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00005B
+SEWARD,Liberal Township 1 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00005B
+SEWARD,Liberal Township 2,United States House of Representatives,1,Democratic,"Sherow, James E.",7,000060
+SEWARD,Liberal Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,000060
+SEWARD,Liberal Township 3,United States House of Representatives,1,Democratic,"Sherow, James E.",10,000070
+SEWARD,Liberal Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",41,000070
+SEWARD,Liberal Township 4,United States House of Representatives,1,Democratic,"Sherow, James E.",5,00008A
+SEWARD,Liberal Township 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",29,00008A
+SEWARD,Liberal Township 4 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00008B
+SEWARD,Liberal Township 4 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00008B
+SEWARD,Liberal Township 5,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000090
+SEWARD,Liberal Township 5,United States House of Representatives,1,Republican,"Huelskamp, Tim",23,000090
+SEWARD,Liberal Ward 1 Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",61,000100
+SEWARD,Liberal Ward 1 Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",147,000100
+SEWARD,Liberal Ward 1 Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",74,000110
+SEWARD,Liberal Ward 1 Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",201,000110
+SEWARD,Liberal Ward 1 Precinct 3,United States House of Representatives,1,Democratic,"Sherow, James E.",90,000120
+SEWARD,Liberal Ward 1 Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",177,000120
+SEWARD,Liberal Ward 2,United States House of Representatives,1,Democratic,"Sherow, James E.",78,000130
+SEWARD,Liberal Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",234,000130
+SEWARD,Liberal Ward 3,United States House of Representatives,1,Democratic,"Sherow, James E.",48,000140
+SEWARD,Liberal Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",101,000140
+SEWARD,Liberal Ward 4,United States House of Representatives,1,Democratic,"Sherow, James E.",55,000150
+SEWARD,Liberal Ward 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",161,000150
+SEWARD,Liberal Ward 5,United States House of Representatives,1,Democratic,"Sherow, James E.",55,000160
+SEWARD,Liberal Ward 5,United States House of Representatives,1,Republican,"Huelskamp, Tim",130,000160
+SEWARD,Liberal Ward 6 Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",179,000170
+SEWARD,Liberal Ward 6 Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",520,000170
+SEWARD,Liberal Ward 6 Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",92,000180
+SEWARD,Liberal Ward 6 Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",324,000180
+SEWARD,Seward Township 1,United States House of Representatives,1,Democratic,"Sherow, James E.",5,000190
+SEWARD,Seward Township 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",20,000190
+SEWARD,Seward Township 2,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000200
+SEWARD,Seward Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",24,000200
+SEWARD,Seward Township 3,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000210
+SEWARD,Seward Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000210
+SEWARD,Fargo Township 1,Attorney General,,Democratic,"Kotich, A.J.",3,000010
+SEWARD,Fargo Township 1,Attorney General,,Republican,"Schmidt, Derek",35,000010
+SEWARD,Fargo Township 2,Attorney General,,Democratic,"Kotich, A.J.",15,000020
+SEWARD,Fargo Township 2,Attorney General,,Republican,"Schmidt, Derek",120,000020
+SEWARD,Fargo Township 3,Attorney General,,Democratic,"Kotich, A.J.",0,000030
+SEWARD,Fargo Township 3,Attorney General,,Republican,"Schmidt, Derek",18,000030
+SEWARD,Fargo Township 4,Attorney General,,Democratic,"Kotich, A.J.",14,000040
+SEWARD,Fargo Township 4,Attorney General,,Republican,"Schmidt, Derek",56,000040
+SEWARD,Liberal Township 1,Attorney General,,Democratic,"Kotich, A.J.",8,00005A
+SEWARD,Liberal Township 1,Attorney General,,Republican,"Schmidt, Derek",49,00005A
+SEWARD,Liberal Township 1 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+SEWARD,Liberal Township 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+SEWARD,Liberal Township 2,Attorney General,,Democratic,"Kotich, A.J.",3,000060
+SEWARD,Liberal Township 2,Attorney General,,Republican,"Schmidt, Derek",27,000060
+SEWARD,Liberal Township 3,Attorney General,,Democratic,"Kotich, A.J.",5,000070
+SEWARD,Liberal Township 3,Attorney General,,Republican,"Schmidt, Derek",47,000070
+SEWARD,Liberal Township 4,Attorney General,,Democratic,"Kotich, A.J.",4,00008A
+SEWARD,Liberal Township 4,Attorney General,,Republican,"Schmidt, Derek",30,00008A
+SEWARD,Liberal Township 4 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00008B
+SEWARD,Liberal Township 4 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00008B
+SEWARD,Liberal Township 5,Attorney General,,Democratic,"Kotich, A.J.",3,000090
+SEWARD,Liberal Township 5,Attorney General,,Republican,"Schmidt, Derek",24,000090
+SEWARD,Liberal Ward 1 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",44,000100
+SEWARD,Liberal Ward 1 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",154,000100
+SEWARD,Liberal Ward 1 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",84,000110
+SEWARD,Liberal Ward 1 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",186,000110
+SEWARD,Liberal Ward 1 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",78,000120
+SEWARD,Liberal Ward 1 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",184,000120
+SEWARD,Liberal Ward 2,Attorney General,,Democratic,"Kotich, A.J.",62,000130
+SEWARD,Liberal Ward 2,Attorney General,,Republican,"Schmidt, Derek",247,000130
+SEWARD,Liberal Ward 3,Attorney General,,Democratic,"Kotich, A.J.",48,000140
+SEWARD,Liberal Ward 3,Attorney General,,Republican,"Schmidt, Derek",91,000140
+SEWARD,Liberal Ward 4,Attorney General,,Democratic,"Kotich, A.J.",48,000150
+SEWARD,Liberal Ward 4,Attorney General,,Republican,"Schmidt, Derek",167,000150
+SEWARD,Liberal Ward 5,Attorney General,,Democratic,"Kotich, A.J.",38,000160
+SEWARD,Liberal Ward 5,Attorney General,,Republican,"Schmidt, Derek",143,000160
+SEWARD,Liberal Ward 6 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",103,000170
+SEWARD,Liberal Ward 6 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",588,000170
+SEWARD,Liberal Ward 6 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",54,000180
+SEWARD,Liberal Ward 6 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",363,000180
+SEWARD,Seward Township 1,Attorney General,,Democratic,"Kotich, A.J.",3,000190
+SEWARD,Seward Township 1,Attorney General,,Republican,"Schmidt, Derek",22,000190
+SEWARD,Seward Township 2,Attorney General,,Democratic,"Kotich, A.J.",4,000200
+SEWARD,Seward Township 2,Attorney General,,Republican,"Schmidt, Derek",22,000200
+SEWARD,Seward Township 3,Attorney General,,Democratic,"Kotich, A.J.",1,000210
+SEWARD,Seward Township 3,Attorney General,,Republican,"Schmidt, Derek",16,000210
+SEWARD,Fargo Township 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000010
+SEWARD,Fargo Township 1,Commissioner of Insurance,,Republican,"Selzer, Ken",31,000010
+SEWARD,Fargo Township 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000020
+SEWARD,Fargo Township 2,Commissioner of Insurance,,Republican,"Selzer, Ken",119,000020
+SEWARD,Fargo Township 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000030
+SEWARD,Fargo Township 3,Commissioner of Insurance,,Republican,"Selzer, Ken",15,000030
+SEWARD,Fargo Township 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000040
+SEWARD,Fargo Township 4,Commissioner of Insurance,,Republican,"Selzer, Ken",52,000040
+SEWARD,Liberal Township 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,00005A
+SEWARD,Liberal Township 1,Commissioner of Insurance,,Republican,"Selzer, Ken",46,00005A
+SEWARD,Liberal Township 1 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+SEWARD,Liberal Township 1 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+SEWARD,Liberal Township 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000060
+SEWARD,Liberal Township 2,Commissioner of Insurance,,Republican,"Selzer, Ken",27,000060
+SEWARD,Liberal Township 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000070
+SEWARD,Liberal Township 3,Commissioner of Insurance,,Republican,"Selzer, Ken",48,000070
+SEWARD,Liberal Township 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,00008A
+SEWARD,Liberal Township 4,Commissioner of Insurance,,Republican,"Selzer, Ken",26,00008A
+SEWARD,Liberal Township 4 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00008B
+SEWARD,Liberal Township 4 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00008B
+SEWARD,Liberal Township 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000090
+SEWARD,Liberal Township 5,Commissioner of Insurance,,Republican,"Selzer, Ken",22,000090
+SEWARD,Liberal Ward 1 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,000100
+SEWARD,Liberal Ward 1 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",143,000100
+SEWARD,Liberal Ward 1 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",80,000110
+SEWARD,Liberal Ward 1 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",186,000110
+SEWARD,Liberal Ward 1 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",83,000120
+SEWARD,Liberal Ward 1 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",178,000120
+SEWARD,Liberal Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",74,000130
+SEWARD,Liberal Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",229,000130
+SEWARD,Liberal Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",52,000140
+SEWARD,Liberal Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",85,000140
+SEWARD,Liberal Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",52,000150
+SEWARD,Liberal Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",159,000150
+SEWARD,Liberal Ward 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",42,000160
+SEWARD,Liberal Ward 5,Commissioner of Insurance,,Republican,"Selzer, Ken",139,000160
+SEWARD,Liberal Ward 6 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",123,000170
+SEWARD,Liberal Ward 6 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",565,000170
+SEWARD,Liberal Ward 6 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",66,000180
+SEWARD,Liberal Ward 6 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",342,000180
+SEWARD,Seward Township 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000190
+SEWARD,Seward Township 1,Commissioner of Insurance,,Republican,"Selzer, Ken",21,000190
+SEWARD,Seward Township 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000200
+SEWARD,Seward Township 2,Commissioner of Insurance,,Republican,"Selzer, Ken",21,000200
+SEWARD,Seward Township 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000210
+SEWARD,Seward Township 3,Commissioner of Insurance,,Republican,"Selzer, Ken",16,000210
+SEWARD,Fargo Township 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000010
+SEWARD,Fargo Township 1,Secretary of State,,Republican,"Kobach, Kris",33,000010
+SEWARD,Fargo Township 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000020
+SEWARD,Fargo Township 2,Secretary of State,,Republican,"Kobach, Kris",112,000020
+SEWARD,Fargo Township 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000030
+SEWARD,Fargo Township 3,Secretary of State,,Republican,"Kobach, Kris",17,000030
+SEWARD,Fargo Township 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",23,000040
+SEWARD,Fargo Township 4,Secretary of State,,Republican,"Kobach, Kris",50,000040
+SEWARD,Liberal Township 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,00005A
+SEWARD,Liberal Township 1,Secretary of State,,Republican,"Kobach, Kris",48,00005A
+SEWARD,Liberal Township 1 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+SEWARD,Liberal Township 1 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+SEWARD,Liberal Township 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000060
+SEWARD,Liberal Township 2,Secretary of State,,Republican,"Kobach, Kris",26,000060
+SEWARD,Liberal Township 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000070
+SEWARD,Liberal Township 3,Secretary of State,,Republican,"Kobach, Kris",51,000070
+SEWARD,Liberal Township 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,00008A
+SEWARD,Liberal Township 4,Secretary of State,,Republican,"Kobach, Kris",29,00008A
+SEWARD,Liberal Township 4 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00008B
+SEWARD,Liberal Township 4 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00008B
+SEWARD,Liberal Township 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000090
+SEWARD,Liberal Township 5,Secretary of State,,Republican,"Kobach, Kris",23,000090
+SEWARD,Liberal Ward 1 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",59,000100
+SEWARD,Liberal Ward 1 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",144,000100
+SEWARD,Liberal Ward 1 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",88,000110
+SEWARD,Liberal Ward 1 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",186,000110
+SEWARD,Liberal Ward 1 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",95,000120
+SEWARD,Liberal Ward 1 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",170,000120
+SEWARD,Liberal Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",87,000130
+SEWARD,Liberal Ward 2,Secretary of State,,Republican,"Kobach, Kris",224,000130
+SEWARD,Liberal Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",48,000140
+SEWARD,Liberal Ward 3,Secretary of State,,Republican,"Kobach, Kris",96,000140
+SEWARD,Liberal Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",54,000150
+SEWARD,Liberal Ward 4,Secretary of State,,Republican,"Kobach, Kris",162,000150
+SEWARD,Liberal Ward 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",45,000160
+SEWARD,Liberal Ward 5,Secretary of State,,Republican,"Kobach, Kris",140,000160
+SEWARD,Liberal Ward 6 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",145,000170
+SEWARD,Liberal Ward 6 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",556,000170
+SEWARD,Liberal Ward 6 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",75,000180
+SEWARD,Liberal Ward 6 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",345,000180
+SEWARD,Seward Township 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000190
+SEWARD,Seward Township 1,Secretary of State,,Republican,"Kobach, Kris",21,000190
+SEWARD,Seward Township 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000200
+SEWARD,Seward Township 2,Secretary of State,,Republican,"Kobach, Kris",23,000200
+SEWARD,Seward Township 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000210
+SEWARD,Seward Township 3,Secretary of State,,Republican,"Kobach, Kris",16,000210
+SEWARD,Fargo Township 1,State Treasurer,,Democratic,"Alldritt, Carmen",3,000010
+SEWARD,Fargo Township 1,State Treasurer,,Republican,"Estes, Ron",35,000010
+SEWARD,Fargo Township 2,State Treasurer,,Democratic,"Alldritt, Carmen",15,000020
+SEWARD,Fargo Township 2,State Treasurer,,Republican,"Estes, Ron",124,000020
+SEWARD,Fargo Township 3,State Treasurer,,Democratic,"Alldritt, Carmen",0,000030
+SEWARD,Fargo Township 3,State Treasurer,,Republican,"Estes, Ron",18,000030
+SEWARD,Fargo Township 4,State Treasurer,,Democratic,"Alldritt, Carmen",15,000040
+SEWARD,Fargo Township 4,State Treasurer,,Republican,"Estes, Ron",56,000040
+SEWARD,Liberal Township 1,State Treasurer,,Democratic,"Alldritt, Carmen",8,00005A
+SEWARD,Liberal Township 1,State Treasurer,,Republican,"Estes, Ron",49,00005A
+SEWARD,Liberal Township 1 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+SEWARD,Liberal Township 1 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00005B
+SEWARD,Liberal Township 2,State Treasurer,,Democratic,"Alldritt, Carmen",4,000060
+SEWARD,Liberal Township 2,State Treasurer,,Republican,"Estes, Ron",28,000060
+SEWARD,Liberal Township 3,State Treasurer,,Democratic,"Alldritt, Carmen",4,000070
+SEWARD,Liberal Township 3,State Treasurer,,Republican,"Estes, Ron",48,000070
+SEWARD,Liberal Township 4,State Treasurer,,Democratic,"Alldritt, Carmen",4,00008A
+SEWARD,Liberal Township 4,State Treasurer,,Republican,"Estes, Ron",28,00008A
+SEWARD,Liberal Township 4 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00008B
+SEWARD,Liberal Township 4 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00008B
+SEWARD,Liberal Township 5,State Treasurer,,Democratic,"Alldritt, Carmen",2,000090
+SEWARD,Liberal Township 5,State Treasurer,,Republican,"Estes, Ron",25,000090
+SEWARD,Liberal Ward 1 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",46,000100
+SEWARD,Liberal Ward 1 Precinct 1,State Treasurer,,Republican,"Estes, Ron",153,000100
+SEWARD,Liberal Ward 1 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",64,000110
+SEWARD,Liberal Ward 1 Precinct 2,State Treasurer,,Republican,"Estes, Ron",206,000110
+SEWARD,Liberal Ward 1 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",82,000120
+SEWARD,Liberal Ward 1 Precinct 3,State Treasurer,,Republican,"Estes, Ron",185,000120
+SEWARD,Liberal Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",62,000130
+SEWARD,Liberal Ward 2,State Treasurer,,Republican,"Estes, Ron",251,000130
+SEWARD,Liberal Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",47,000140
+SEWARD,Liberal Ward 3,State Treasurer,,Republican,"Estes, Ron",93,000140
+SEWARD,Liberal Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",49,000150
+SEWARD,Liberal Ward 4,State Treasurer,,Republican,"Estes, Ron",165,000150
+SEWARD,Liberal Ward 5,State Treasurer,,Democratic,"Alldritt, Carmen",37,000160
+SEWARD,Liberal Ward 5,State Treasurer,,Republican,"Estes, Ron",146,000160
+SEWARD,Liberal Ward 6 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",102,000170
+SEWARD,Liberal Ward 6 Precinct 1,State Treasurer,,Republican,"Estes, Ron",592,000170
+SEWARD,Liberal Ward 6 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",50,000180
+SEWARD,Liberal Ward 6 Precinct 2,State Treasurer,,Republican,"Estes, Ron",363,000180
+SEWARD,Seward Township 1,State Treasurer,,Democratic,"Alldritt, Carmen",5,000190
+SEWARD,Seward Township 1,State Treasurer,,Republican,"Estes, Ron",20,000190
+SEWARD,Seward Township 2,State Treasurer,,Democratic,"Alldritt, Carmen",2,000200
+SEWARD,Seward Township 2,State Treasurer,,Republican,"Estes, Ron",23,000200
+SEWARD,Seward Township 3,State Treasurer,,Democratic,"Alldritt, Carmen",1,000210
+SEWARD,Seward Township 3,State Treasurer,,Republican,"Estes, Ron",16,000210
+SEWARD,Fargo Township 1,United States Senate,,independent,"Orman, Greg",10,000010
+SEWARD,Fargo Township 1,United States Senate,,Libertarian,"Batson, Randall",2,000010
+SEWARD,Fargo Township 1,United States Senate,,Republican,"Roberts, Pat",27,000010
+SEWARD,Fargo Township 2,United States Senate,,independent,"Orman, Greg",27,000020
+SEWARD,Fargo Township 2,United States Senate,,Libertarian,"Batson, Randall",8,000020
+SEWARD,Fargo Township 2,United States Senate,,Republican,"Roberts, Pat",107,000020
+SEWARD,Fargo Township 3,United States Senate,,independent,"Orman, Greg",0,000030
+SEWARD,Fargo Township 3,United States Senate,,Libertarian,"Batson, Randall",0,000030
+SEWARD,Fargo Township 3,United States Senate,,Republican,"Roberts, Pat",17,000030
+SEWARD,Fargo Township 4,United States Senate,,independent,"Orman, Greg",20,000040
+SEWARD,Fargo Township 4,United States Senate,,Libertarian,"Batson, Randall",6,000040
+SEWARD,Fargo Township 4,United States Senate,,Republican,"Roberts, Pat",46,000040
+SEWARD,Liberal Township 1,United States Senate,,independent,"Orman, Greg",14,00005A
+SEWARD,Liberal Township 1,United States Senate,,Libertarian,"Batson, Randall",0,00005A
+SEWARD,Liberal Township 1,United States Senate,,Republican,"Roberts, Pat",44,00005A
+SEWARD,Liberal Township 1 Exclave,United States Senate,,independent,"Orman, Greg",0,00005B
+SEWARD,Liberal Township 1 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00005B
+SEWARD,Liberal Township 1 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00005B
+SEWARD,Liberal Township 2,United States Senate,,independent,"Orman, Greg",6,000060
+SEWARD,Liberal Township 2,United States Senate,,Libertarian,"Batson, Randall",0,000060
+SEWARD,Liberal Township 2,United States Senate,,Republican,"Roberts, Pat",26,000060
+SEWARD,Liberal Township 3,United States Senate,,independent,"Orman, Greg",8,000070
+SEWARD,Liberal Township 3,United States Senate,,Libertarian,"Batson, Randall",4,000070
+SEWARD,Liberal Township 3,United States Senate,,Republican,"Roberts, Pat",43,000070
+SEWARD,Liberal Township 4,United States Senate,,independent,"Orman, Greg",6,00008A
+SEWARD,Liberal Township 4,United States Senate,,Libertarian,"Batson, Randall",5,00008A
+SEWARD,Liberal Township 4,United States Senate,,Republican,"Roberts, Pat",24,00008A
+SEWARD,Liberal Township 4 Exclave,United States Senate,,independent,"Orman, Greg",0,00008B
+SEWARD,Liberal Township 4 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00008B
+SEWARD,Liberal Township 4 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00008B
+SEWARD,Liberal Township 5,United States Senate,,independent,"Orman, Greg",3,000090
+SEWARD,Liberal Township 5,United States Senate,,Libertarian,"Batson, Randall",0,000090
+SEWARD,Liberal Township 5,United States Senate,,Republican,"Roberts, Pat",24,000090
+SEWARD,Liberal Ward 1 Precinct 1,United States Senate,,independent,"Orman, Greg",48,000100
+SEWARD,Liberal Ward 1 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",13,000100
+SEWARD,Liberal Ward 1 Precinct 1,United States Senate,,Republican,"Roberts, Pat",144,000100
+SEWARD,Liberal Ward 1 Precinct 2,United States Senate,,independent,"Orman, Greg",54,000110
+SEWARD,Liberal Ward 1 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",20,000110
+SEWARD,Liberal Ward 1 Precinct 2,United States Senate,,Republican,"Roberts, Pat",195,000110
+SEWARD,Liberal Ward 1 Precinct 3,United States Senate,,independent,"Orman, Greg",76,000120
+SEWARD,Liberal Ward 1 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",16,000120
+SEWARD,Liberal Ward 1 Precinct 3,United States Senate,,Republican,"Roberts, Pat",170,000120
+SEWARD,Liberal Ward 2,United States Senate,,independent,"Orman, Greg",71,000130
+SEWARD,Liberal Ward 2,United States Senate,,Libertarian,"Batson, Randall",16,000130
+SEWARD,Liberal Ward 2,United States Senate,,Republican,"Roberts, Pat",232,000130
+SEWARD,Liberal Ward 3,United States Senate,,independent,"Orman, Greg",42,000140
+SEWARD,Liberal Ward 3,United States Senate,,Libertarian,"Batson, Randall",10,000140
+SEWARD,Liberal Ward 3,United States Senate,,Republican,"Roberts, Pat",92,000140
+SEWARD,Liberal Ward 4,United States Senate,,independent,"Orman, Greg",51,000150
+SEWARD,Liberal Ward 4,United States Senate,,Libertarian,"Batson, Randall",7,000150
+SEWARD,Liberal Ward 4,United States Senate,,Republican,"Roberts, Pat",156,000150
+SEWARD,Liberal Ward 5,United States Senate,,independent,"Orman, Greg",46,000160
+SEWARD,Liberal Ward 5,United States Senate,,Libertarian,"Batson, Randall",7,000160
+SEWARD,Liberal Ward 5,United States Senate,,Republican,"Roberts, Pat",134,000160
+SEWARD,Liberal Ward 6 Precinct 1,United States Senate,,independent,"Orman, Greg",147,000170
+SEWARD,Liberal Ward 6 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",30,000170
+SEWARD,Liberal Ward 6 Precinct 1,United States Senate,,Republican,"Roberts, Pat",534,000170
+SEWARD,Liberal Ward 6 Precinct 2,United States Senate,,independent,"Orman, Greg",90,000180
+SEWARD,Liberal Ward 6 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",6,000180
+SEWARD,Liberal Ward 6 Precinct 2,United States Senate,,Republican,"Roberts, Pat",326,000180
+SEWARD,Seward Township 1,United States Senate,,independent,"Orman, Greg",4,000190
+SEWARD,Seward Township 1,United States Senate,,Libertarian,"Batson, Randall",1,000190
+SEWARD,Seward Township 1,United States Senate,,Republican,"Roberts, Pat",20,000190
+SEWARD,Seward Township 2,United States Senate,,independent,"Orman, Greg",5,000200
+SEWARD,Seward Township 2,United States Senate,,Libertarian,"Batson, Randall",0,000200
+SEWARD,Seward Township 2,United States Senate,,Republican,"Roberts, Pat",22,000200
+SEWARD,Seward Township 3,United States Senate,,independent,"Orman, Greg",1,000210
+SEWARD,Seward Township 3,United States Senate,,Libertarian,"Batson, Randall",0,000210
+SEWARD,Seward Township 3,United States Senate,,Republican,"Roberts, Pat",16,000210

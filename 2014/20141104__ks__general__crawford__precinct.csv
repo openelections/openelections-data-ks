@@ -1,1370 +1,1142 @@
-county,precinct,office,district,party,candidate,votes,adv,ed,prov
-Crawford,01 Arcadia,Attorney General,,D,A.J. Kotich,55,16,36,3
-Crawford,02 Baker,Attorney General,,D,A.J. Kotich,139,39,92,8
-Crawford,03 Beulah,Attorney General,,D,A.J. Kotich,31,6,25,0
-Crawford,04 Brazilton,Attorney General,,D,A.J. Kotich,6,0,6,0
-Crawford,05 Capaldo,Attorney General,,D,A.J. Kotich,8,1,7,0
-Crawford,06 Capaldo,Attorney General,,D,A.J. Kotich,60,13,46,1
-Crawford,07 Cherokee,Attorney General,,D,A.J. Kotich,70,5,64,1
-Crawford,08 Cherokee-Sheridan,Attorney General,,D,A.J. Kotich,39,2,37,0
-Crawford,09 Chicopee,Attorney General,,D,A.J. Kotich,83,17,63,3
-Crawford,10 Crawford,Attorney General,,D,A.J. Kotich,30,3,26,1
-Crawford,11 Crowe,Attorney General,,D,A.J. Kotich,37,12,23,2
-Crawford,12 Franklin,Attorney General,,D,A.J. Kotich,66,17,47,2
-Crawford,13 Franklin,Attorney General,,D,A.J. Kotich,2,0,2,0
-Crawford,14 Frontenac W1,Attorney General,,D,A.J. Kotich,164,56,102,6
-Crawford,15 Frontenac W2,Attorney General,,D,A.J. Kotich,254,50,200,4
-Crawford,16 Frontenac W3,Attorney General,,D,A.J. Kotich,93,19,71,3
-Crawford,17 Frontenac W4,Attorney General,,D,A.J. Kotich,82,26,54,2
-Crawford,18 Girard W1,Attorney General,,D,A.J. Kotich,31,5,26,0
-Crawford,19 Girard W2,Attorney General,,D,A.J. Kotich,92,17,75,0
-Crawford,20 Girard W3,Attorney General,,D,A.J. Kotich,80,16,63,1
-Crawford,21 Girard W4,Attorney General,,D,A.J. Kotich,87,11,75,1
-Crawford,22 Grant,Attorney General,,D,A.J. Kotich,34,6,28,0
-Crawford,23 Hepler,Attorney General,,D,A.J. Kotich,16,4,11,1
-Crawford,24 Lincoln,Attorney General,,D,A.J. Kotich,48,12,35,1
-Crawford,25 Lincoln,Attorney General,,D,A.J. Kotich,0,0,0,
-Crawford,26 Lincoln-Arcadia,Attorney General,,D,A.J. Kotich,17,2,15,0
-Crawford,27 Lone Star,Attorney General,,D,A.J. Kotich,174,30,140,4
-Crawford,28 McCune,Attorney General,,D,A.J. Kotich,50,6,42,2
-Crawford,29 Mulberry W1,Attorney General,,D,A.J. Kotich,18,0,18,0
-Crawford,30 Mulberry W2,Attorney General,,D,A.J. Kotich,15,6,9,0
-Crawford,31 North Arma,Attorney General,,D,A.J. Kotich,104,27,75,2
-Crawford,32 Opolis,Attorney General,,D,A.J. Kotich,45,10,33,2
-Crawford,33 Osage-McCune,Attorney General,,D,A.J. Kotich,29,4,25,0
-Crawford,34 Parkview,Attorney General,,D,A.J. Kotich,43,13,28,2
-Crawford,35 Parkview,Attorney General,,D,A.J. Kotich,47,12,30,5
-Crawford,36 Pittsburg W1P1,Attorney General,,D,A.J. Kotich,68,16,46,6
-Crawford,37 Pittsburg W1P2,Attorney General,,D,A.J. Kotich,161,39,114,8
-Crawford,38 Pittsburg W1P3,Attorney General,,D,A.J. Kotich,348,101,236,11
-Crawford,39 Pittsburg W2P1,Attorney General,,D,A.J. Kotich,71,10,58,3
-Crawford,40 Pittsburg W2P2,Attorney General,,D,A.J. Kotich,112,28,79,5
-Crawford,41 Pittsburg W2P3,Attorney General,,D,A.J. Kotich,135,35,94,6
-Crawford,42 Pittsburg W2P4,Attorney General,,D,A.J. Kotich,89,26,61,2
-Crawford,43 Pittsburg W2P5,Attorney General,,D,A.J. Kotich,95,25,62,8
-Crawford,44 Pittsburg W3P1,Attorney General,,D,A.J. Kotich,104,20,78,6
-Crawford,45 Pittsburg W3P2,Attorney General,,D,A.J. Kotich,109,29,75,5
-Crawford,46 Pittsburg W4P1,Attorney General,,D,A.J. Kotich,48,8,37,3
-Crawford,47 Pittsburg W4P2,Attorney General,,D,A.J. Kotich,84,28,50,6
-Crawford,48 Pittsburg W4P3,Attorney General,,D,A.J. Kotich,152,47,102,3
-Crawford,49 Pittsburg W4P4,Attorney General,,D,A.J. Kotich,72,16,51,5
-Crawford,50 Pittsburg W4P5,Attorney General,,D,A.J. Kotich,188,47,137,4
-Crawford,51 Pittsburg W4P6,Attorney General,,D,A.J. Kotich,22,7,15,0
-Crawford,52 Raymond,Attorney General,,D,A.J. Kotich,88,18,68,2
-Crawford,53 Sheridan-Cherokee,Attorney General,,D,A.J. Kotich,22,2,19,1
-Crawford,54 Sheridan,Attorney General,,D,A.J. Kotich,20,2,18,0
-Crawford,55 Sherman,Attorney General,,D,A.J. Kotich,69,13,56,0
-Crawford,56 Smelter,Attorney General,,D,A.J. Kotich,94,29,63,2
-Crawford,57 South Arma,Attorney General,,D,A.J. Kotich,132,37,91,4
-Crawford,58 Walnut,Attorney General,,D,A.J. Kotich,16,4,12,0
-Crawford,59 Walnut twp,Attorney General,,D,A.J. Kotich,2,0,2,0
-Crawford,60 Walnut twp,Attorney General,,D,A.J. Kotich,5,0,5,0
-Crawford,61 Walnut-Hepler,Attorney General,,D,A.J. Kotich,1,0,1,0
-Crawford,62 Walnut-Hepler,Attorney General,,D,A.J. Kotich,5,0,5,0
-Crawford,01 Arcadia,Attorney General,,R,Derek Schmidt,43,6,37,0
-Crawford,02 Baker,Attorney General,,R,Derek Schmidt,247,18,220,9
-Crawford,03 Beulah,Attorney General,,R,Derek Schmidt,56,8,46,2
-Crawford,04 Brazilton,Attorney General,,R,Derek Schmidt,24,2,21,1
-Crawford,05 Capaldo,Attorney General,,R,Derek Schmidt,13,1,12,0
-Crawford,06 Capaldo,Attorney General,,R,Derek Schmidt,86,17,69,0
-Crawford,07 Cherokee,Attorney General,,R,Derek Schmidt,115,8,101,6
-Crawford,08 Cherokee-Sheridan,Attorney General,,R,Derek Schmidt,83,6,76,1
-Crawford,09 Chicopee,Attorney General,,R,Derek Schmidt,146,24,120,2
-Crawford,10 Crawford,Attorney General,,R,Derek Schmidt,136,13,120,3
-Crawford,11 Crowe,Attorney General,,R,Derek Schmidt,43,4,39,0
-Crawford,12 Franklin,Attorney General,,R,Derek Schmidt,65,8,54,3
-Crawford,13 Franklin,Attorney General,,R,Derek Schmidt,4,1,3,0
-Crawford,14 Frontenac W1,Attorney General,,R,Derek Schmidt,130,18,107,5
-Crawford,15 Frontenac W2,Attorney General,,R,Derek Schmidt,189,38,146,5
-Crawford,16 Frontenac W3,Attorney General,,R,Derek Schmidt,81,8,71,2
-Crawford,17 Frontenac W4,Attorney General,,R,Derek Schmidt,50,7,42,1
-Crawford,18 Girard W1,Attorney General,,R,Derek Schmidt,50,3,47,0
-Crawford,19 Girard W2,Attorney General,,R,Derek Schmidt,157,29,126,2
-Crawford,20 Girard W3,Attorney General,,R,Derek Schmidt,89,11,74,4
-Crawford,21 Girard W4,Attorney General,,R,Derek Schmidt,152,27,119,6
-Crawford,22 Grant,Attorney General,,R,Derek Schmidt,73,6,67,0
-Crawford,23 Hepler,Attorney General,,R,Derek Schmidt,17,0,16,1
-Crawford,24 Lincoln,Attorney General,,R,Derek Schmidt,75,9,66,0
-Crawford,25 Lincoln,Attorney General,,R,Derek Schmidt,4,0,4,0
-Crawford,26 Lincoln-Arcadia,Attorney General,,R,Derek Schmidt,14,3,10,1
-Crawford,27 Lone Star,Attorney General,,R,Derek Schmidt,263,25,234,4
-Crawford,28 McCune,Attorney General,,R,Derek Schmidt,67,6,60,1
-Crawford,29 Mulberry W1,Attorney General,,R,Derek Schmidt,32,4,28,0
-Crawford,30 Mulberry W2,Attorney General,,R,Derek Schmidt,30,1,29,0
-Crawford,31 North Arma,Attorney General,,R,Derek Schmidt,129,18,109,2
-Crawford,32 Opolis,Attorney General,,R,Derek Schmidt,89,12,76,1
-Crawford,33 Osage-McCune,Attorney General,,R,Derek Schmidt,130,10,120,0
-Crawford,34 Parkview,Attorney General,,R,Derek Schmidt,34,2,30,2
-Crawford,35 Parkview,Attorney General,,R,Derek Schmidt,41,4,35,2
-Crawford,36 Pittsburg W1P1,Attorney General,,R,Derek Schmidt,103,15,82,6
-Crawford,37 Pittsburg W1P2,Attorney General,,R,Derek Schmidt,188,23,160,5
-Crawford,38 Pittsburg W1P3,Attorney General,,R,Derek Schmidt,495,83,405,7
-Crawford,39 Pittsburg W2P1,Attorney General,,R,Derek Schmidt,75,7,67,1
-Crawford,40 Pittsburg W2P2,Attorney General,,R,Derek Schmidt,104,13,88,3
-Crawford,41 Pittsburg W2P3,Attorney General,,R,Derek Schmidt,110,20,87,3
-Crawford,42 Pittsburg W2P4,Attorney General,,R,Derek Schmidt,124,14,108,2
-Crawford,43 Pittsburg W2P5,Attorney General,,R,Derek Schmidt,188,20,163,5
-Crawford,44 Pittsburg W3P1,Attorney General,,R,Derek Schmidt,96,10,80,6
-Crawford,45 Pittsburg W3P2,Attorney General,,R,Derek Schmidt,125,19,103,3
-Crawford,46 Pittsburg W4P1,Attorney General,,R,Derek Schmidt,34,4,28,2
-Crawford,47 Pittsburg W4P2,Attorney General,,R,Derek Schmidt,63,12,44,7
-Crawford,48 Pittsburg W4P3,Attorney General,,R,Derek Schmidt,163,18,137,8
-Crawford,49 Pittsburg W4P4,Attorney General,,R,Derek Schmidt,69,8,56,5
-Crawford,50 Pittsburg W4P5,Attorney General,,R,Derek Schmidt,287,47,236,4
-Crawford,51 Pittsburg W4P6,Attorney General,,R,Derek Schmidt,55,4,51,0
-Crawford,52 Raymond,Attorney General,,R,Derek Schmidt,182,26,152,4
-Crawford,53 Sheridan-Cherokee,Attorney General,,R,Derek Schmidt,19,1,18,0
-Crawford,54 Sheridan,Attorney General,,R,Derek Schmidt,24,1,23,0
-Crawford,55 Sherman,Attorney General,,R,Derek Schmidt,151,9,140,2
-Crawford,56 Smelter,Attorney General,,R,Derek Schmidt,156,8,146,2
-Crawford,57 South Arma,Attorney General,,R,Derek Schmidt,138,21,115,2
-Crawford,58 Walnut,Attorney General,,R,Derek Schmidt,30,1,29,0
-Crawford,59 Walnut twp,Attorney General,,R,Derek Schmidt,0,0,0,0
-Crawford,60 Walnut twp,Attorney General,,R,Derek Schmidt,11,0,9,2
-Crawford,61 Walnut-Hepler,Attorney General,,R,Derek Schmidt,0,0,0,0
-Crawford,62 Walnut-Hepler,Attorney General,,R,Derek Schmidt,14,2,12,0
-Crawford,08 Cherokee-Sheridan,Attorney General,,,Write-ins,1,0,1,0
-Crawford,09 Chicopee,Attorney General,,,Write-ins,1,0,1,0
-Crawford,15 Frontenac W2,Attorney General,,,Write-ins,1,0,1,0
-Crawford,27 Lone Star,Attorney General,,,Write-ins,2,0,2,0
-Crawford,28 McCune,Attorney General,,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,Attorney General,,,Write-ins,2,1,1,0
-Crawford,48 Pittsburg W4P3,Attorney General,,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,Ballots,,,Ballots Cast,99,22,73,4
-Crawford,02 Baker,Ballots,,,Ballots Cast,409,59,333,17
-Crawford,03 Beulah,Ballots,,,Ballots Cast,93,14,77,2
-Crawford,04 Brazilton,Ballots,,,Ballots Cast,30,2,27,1
-Crawford,05 Capaldo,Ballots,,,Ballots Cast,21,2,19,0
-Crawford,06 Capaldo,Ballots,,,Ballots Cast,150,30,119,1
-Crawford,07 Cherokee,Ballots,,,Ballots Cast,193,16,170,7
-Crawford,08 Cherokee-Sheridan,Ballots,,,Ballots Cast,125,9,115,1
-Crawford,09 Chicopee,Ballots,,,Ballots Cast,241,43,193,5
-Crawford,10 Crawford,Ballots,,,Ballots Cast,174,16,154,4
-Crawford,11 Crowe,Ballots,,,Ballots Cast,84,17,65,2
-Crawford,12 Franklin,Ballots,,,Ballots Cast,132,25,102,5
-Crawford,13 Franklin,Ballots,,,Ballots Cast,6,1,5,0
-Crawford,14 Frontenac W1,Ballots,,,Ballots Cast,306,77,216,13
-Crawford,15 Frontenac W2,Ballots,,,Ballots Cast,461,97,353,11
-Crawford,16 Frontenac W3,Ballots,,,Ballots Cast,184,30,149,5
-Crawford,17 Frontenac W4,Ballots,,,Ballots Cast,141,33,104,4
-Crawford,18 Girard W1,Ballots,,,Ballots Cast,83,9,74,0
-Crawford,19 Girard W2,Ballots,,,Ballots Cast,270,50,218,2
-Crawford,20 Girard W3,Ballots,,,Ballots Cast,171,27,139,5
-Crawford,21 Girard W4,Ballots,,,Ballots Cast,250,41,202,7
-Crawford,22 Grant,Ballots,,,Ballots Cast,116,13,103,0
-Crawford,23 Hepler,Ballots,,,Ballots Cast,36,4,30,2
-Crawford,24 Lincoln,Ballots,,,Ballots Cast,126,21,104,1
-Crawford,25 Lincoln,Ballots,,,Ballots Cast,5,0,5,0
-Crawford,26 Lincoln-Arcadia,Ballots,,,Ballots Cast,32,6,25,1
-Crawford,27 Lone Star,Ballots,,,Ballots Cast,451,57,386,8
-Crawford,28 McCune,Ballots,,,Ballots Cast,121,13,105,3
-Crawford,29 Mulberry W1,Ballots,,,Ballots Cast,51,4,47,0
-Crawford,30 Mulberry W2,Ballots,,,Ballots Cast,49,7,42,0
-Crawford,31 North Arma,Ballots,,,Ballots Cast,247,48,195,4
-Crawford,32 Opolis,Ballots,,,Ballots Cast,134,22,109,3
-Crawford,33 Osage-McCune,Ballots,,,Ballots Cast,164,14,150,0
-Crawford,34 Parkview,Ballots,,,Ballots Cast,78,16,58,4
-Crawford,35 Parkview,Ballots,,,Ballots Cast,94,17,70,7
-Crawford,36 Pittsburg W1P1,Ballots,,,Ballots Cast,182,31,138,13
-Crawford,37 Pittsburg W1P2,Ballots,,,Ballots Cast,369,68,288,13
-Crawford,38 Pittsburg W1P3,Ballots,,,Ballots Cast,875,190,666,19
-Crawford,39 Pittsburg W2P1,Ballots,,,Ballots Cast,153,19,130,4
-Crawford,40 Pittsburg W2P2,Ballots,,,Ballots Cast,219,42,169,8
-Crawford,41 Pittsburg W2P3,Ballots,,,Ballots Cast,253,57,187,9
-Crawford,42 Pittsburg W2P4,Ballots,,,Ballots Cast,218,43,171,4
-Crawford,43 Pittsburg W2P5,Ballots,,,Ballots Cast,295,48,232,15
-Crawford,44 Pittsburg W3P1,Ballots,,,Ballots Cast,205,32,161,12
-Crawford,45 Pittsburg W3P2,Ballots,,,Ballots Cast,243,49,186,8
-Crawford,46 Pittsburg W4P1,Ballots,,,Ballots Cast,85,13,67,5
-Crawford,47 Pittsburg W4P2,Ballots,,,Ballots Cast,158,42,100,16
-Crawford,48 Pittsburg W4P3,Ballots,,,Ballots Cast,328,67,249,12
-Crawford,49 Pittsburg W4P4,Ballots,,,Ballots Cast,147,28,108,11
-Crawford,50 Pittsburg W4P5,Ballots,,,Ballots Cast,496,97,390,9
-Crawford,51 Pittsburg W4P6,Ballots,,,Ballots Cast,78,11,67,0
-Crawford,52 Raymond,Ballots,,,Ballots Cast,279,46,227,6
-Crawford,53 Sheridan-Cherokee,Ballots,,,Ballots Cast,43,3,39,1
-Crawford,54 Sheridan,Ballots,,,Ballots Cast,46,4,42,0
-Crawford,55 Sherman,Ballots,,,Ballots Cast,231,23,206,2
-Crawford,56 Smelter,Ballots,,,Ballots Cast,253,37,212,4
-Crawford,57 South Arma,Ballots,,,Ballots Cast,279,61,212,6
-Crawford,58 Walnut,Ballots,,,Ballots Cast,49,5,44,0
-Crawford,59 Walnut twp,Ballots,,,Ballots Cast,2,0,2,0
-Crawford,60 Walnut twp,Ballots,,,Ballots Cast,17,1,14,2
-Crawford,61 Walnut-Hepler,Ballots,,,Ballots Cast,2,0,2,0
-Crawford,62 Walnut-Hepler,Ballots,,,Ballots Cast,19,2,17,0
-Crawford,01 Arcadia,U.S. House,2,L,Christopher Clemmons,7,0,7,0
-Crawford,02 Baker,U.S. House,2,L,Christopher Clemmons,16,4,12,0
-Crawford,03 Beulah,U.S. House,2,L,Christopher Clemmons,7,1,6,0
-Crawford,04 Brazilton,U.S. House,2,L,Christopher Clemmons,2,0,2,0
-Crawford,05 Capaldo,U.S. House,2,L,Christopher Clemmons,0,0,0,
-Crawford,06 Capaldo,U.S. House,2,L,Christopher Clemmons,6,0,6,0
-Crawford,07 Cherokee,U.S. House,2,L,Christopher Clemmons,23,2,21,0
-Crawford,08 Cherokee-Sheridan,U.S. House,2,L,Christopher Clemmons,7,0,7,0
-Crawford,09 Chicopee,U.S. House,2,L,Christopher Clemmons,10,1,9,0
-Crawford,10 Crawford,U.S. House,2,L,Christopher Clemmons,10,0,10,0
-Crawford,11 Crowe,U.S. House,2,L,Christopher Clemmons,9,5,4,0
-Crawford,12 Franklin,U.S. House,2,L,Christopher Clemmons,8,0,7,1
-Crawford,13 Franklin,U.S. House,2,L,Christopher Clemmons,1,0,1,0
-Crawford,14 Frontenac W1,U.S. House,2,L,Christopher Clemmons,10,3,7,0
-Crawford,15 Frontenac W2,U.S. House,2,L,Christopher Clemmons,27,8,19,0
-Crawford,16 Frontenac W3,U.S. House,2,L,Christopher Clemmons,10,2,8,0
-Crawford,17 Frontenac W4,U.S. House,2,L,Christopher Clemmons,6,0,5,1
-Crawford,18 Girard W1,U.S. House,2,L,Christopher Clemmons,7,0,7,0
-Crawford,19 Girard W2,U.S. House,2,L,Christopher Clemmons,8,1,7,0
-Crawford,20 Girard W3,U.S. House,2,L,Christopher Clemmons,13,1,11,1
-Crawford,21 Girard W4,U.S. House,2,L,Christopher Clemmons,17,3,13,1
-Crawford,22 Grant,U.S. House,2,L,Christopher Clemmons,3,0,3,0
-Crawford,23 Hepler,U.S. House,2,L,Christopher Clemmons,5,0,5,0
-Crawford,24 Lincoln,U.S. House,2,L,Christopher Clemmons,7,2,5,0
-Crawford,25 Lincoln,U.S. House,2,L,Christopher Clemmons,0,0,0,
-Crawford,26 Lincoln-Arcadia,U.S. House,2,L,Christopher Clemmons,3,1,2,0
-Crawford,27 Lone Star,U.S. House,2,L,Christopher Clemmons,28,1,27,0
-Crawford,28 McCune,U.S. House,2,L,Christopher Clemmons,13,0,13,0
-Crawford,29 Mulberry W1,U.S. House,2,L,Christopher Clemmons,4,0,4,0
-Crawford,30 Mulberry W2,U.S. House,2,L,Christopher Clemmons,6,2,4,0
-Crawford,31 North Arma,U.S. House,2,L,Christopher Clemmons,5,0,5,0
-Crawford,32 Opolis,U.S. House,2,L,Christopher Clemmons,7,1,6,0
-Crawford,33 Osage-McCune,U.S. House,2,L,Christopher Clemmons,5,0,5,0
-Crawford,34 Parkview,U.S. House,2,L,Christopher Clemmons,4,0,4,0
-Crawford,35 Parkview,U.S. House,2,L,Christopher Clemmons,4,0,4,0
-Crawford,36 Pittsburg W1P1,U.S. House,2,L,Christopher Clemmons,7,2,3,2
-Crawford,37 Pittsburg W1P2,U.S. House,2,L,Christopher Clemmons,7,1,5,1
-Crawford,38 Pittsburg W1P3,U.S. House,2,L,Christopher Clemmons,29,1,26,2
-Crawford,39 Pittsburg W2P1,U.S. House,2,L,Christopher Clemmons,11,0,11,0
-Crawford,40 Pittsburg W2P2,U.S. House,2,L,Christopher Clemmons,10,1,6,3
-Crawford,41 Pittsburg W2P3,U.S. House,2,L,Christopher Clemmons,10,3,6,1
-Crawford,42 Pittsburg W2P4,U.S. House,2,L,Christopher Clemmons,2,0,2,0
-Crawford,43 Pittsburg W2P5,U.S. House,2,L,Christopher Clemmons,13,1,12,0
-Crawford,44 Pittsburg W3P1,U.S. House,2,L,Christopher Clemmons,9,1,8,0
-Crawford,45 Pittsburg W3P2,U.S. House,2,L,Christopher Clemmons,11,2,9,0
-Crawford,46 Pittsburg W4P1,U.S. House,2,L,Christopher Clemmons,6,2,3,1
-Crawford,47 Pittsburg W4P2,U.S. House,2,L,Christopher Clemmons,4,2,2,0
-Crawford,48 Pittsburg W4P3,U.S. House,2,L,Christopher Clemmons,26,1,24,1
-Crawford,49 Pittsburg W4P4,U.S. House,2,L,Christopher Clemmons,6,1,4,1
-Crawford,50 Pittsburg W4P5,U.S. House,2,L,Christopher Clemmons,24,3,20,1
-Crawford,51 Pittsburg W4P6,U.S. House,2,L,Christopher Clemmons,4,3,1,0
-Crawford,52 Raymond,U.S. House,2,L,Christopher Clemmons,12,0,11,1
-Crawford,53 Sheridan-Cherokee,U.S. House,2,L,Christopher Clemmons,6,1,5,0
-Crawford,54 Sheridan,U.S. House,2,L,Christopher Clemmons,3,0,3,0
-Crawford,55 Sherman,U.S. House,2,L,Christopher Clemmons,15,2,13,0
-Crawford,56 Smelter,U.S. House,2,L,Christopher Clemmons,10,2,8,0
-Crawford,57 South Arma,U.S. House,2,L,Christopher Clemmons,12,4,8,0
-Crawford,58 Walnut,U.S. House,2,L,Christopher Clemmons,5,1,4,0
-Crawford,59 Walnut twp,U.S. House,2,L,Christopher Clemmons,1,0,1,0
-Crawford,60 Walnut twp,U.S. House,2,L,Christopher Clemmons,1,0,1,0
-Crawford,61 Walnut-Hepler,U.S. House,2,L,Christopher Clemmons,1,0,1,0
-Crawford,62 Walnut-Hepler,U.S. House,2,L,Christopher Clemmons,1,0,1,0
-Crawford,01 Arcadia,U.S. House,2,R,Lynn Jenkins,49,8,41,0
-Crawford,02 Baker,U.S. House,2,R,Lynn Jenkins,244,19,218,7
-Crawford,03 Beulah,U.S. House,2,R,Lynn Jenkins,55,7,46,2
-Crawford,04 Brazilton,U.S. House,2,R,Lynn Jenkins,21,2,19,0
-Crawford,05 Capaldo,U.S. House,2,R,Lynn Jenkins,14,1,13,0
-Crawford,06 Capaldo,U.S. House,2,R,Lynn Jenkins,75,11,64,0
-Crawford,07 Cherokee,U.S. House,2,R,Lynn Jenkins,96,8,83,5
-Crawford,08 Cherokee-Sheridan,U.S. House,2,R,Lynn Jenkins,81,6,74,1
-Crawford,09 Chicopee,U.S. House,2,R,Lynn Jenkins,143,22,118,3
-Crawford,10 Crawford,U.S. House,2,R,Lynn Jenkins,125,12,109,4
-Crawford,11 Crowe,U.S. House,2,R,Lynn Jenkins,40,1,38,1
-Crawford,12 Franklin,U.S. House,2,R,Lynn Jenkins,62,7,53,2
-Crawford,13 Franklin,U.S. House,2,R,Lynn Jenkins,3,1,2,0
-Crawford,14 Frontenac W1,U.S. House,2,R,Lynn Jenkins,123,20,97,6
-Crawford,15 Frontenac W2,U.S. House,2,R,Lynn Jenkins,179,31,140,8
-Crawford,16 Frontenac W3,U.S. House,2,R,Lynn Jenkins,78,8,67,3
-Crawford,17 Frontenac W4,U.S. House,2,R,Lynn Jenkins,59,9,48,2
-Crawford,18 Girard W1,U.S. House,2,R,Lynn Jenkins,43,4,39,0
-Crawford,19 Girard W2,U.S. House,2,R,Lynn Jenkins,155,25,128,2
-Crawford,20 Girard W3,U.S. House,2,R,Lynn Jenkins,76,8,64,4
-Crawford,21 Girard W4,U.S. House,2,R,Lynn Jenkins,143,24,116,3
-Crawford,22 Grant,U.S. House,2,R,Lynn Jenkins,87,7,80,0
-Crawford,23 Hepler,U.S. House,2,R,Lynn Jenkins,22,2,18,2
-Crawford,24 Lincoln,U.S. House,2,R,Lynn Jenkins,73,8,65,0
-Crawford,25 Lincoln,U.S. House,2,R,Lynn Jenkins,4,0,4,0
-Crawford,26 Lincoln-Arcadia,U.S. House,2,R,Lynn Jenkins,14,2,11,1
-Crawford,27 Lone Star,U.S. House,2,R,Lynn Jenkins,241,24,214,3
-Crawford,28 McCune,U.S. House,2,R,Lynn Jenkins,60,7,51,2
-Crawford,29 Mulberry W1,U.S. House,2,R,Lynn Jenkins,33,4,29,0
-Crawford,30 Mulberry W2,U.S. House,2,R,Lynn Jenkins,25,1,24,0
-Crawford,31 North Arma,U.S. House,2,R,Lynn Jenkins,134,16,116,2
-Crawford,32 Opolis,U.S. House,2,R,Lynn Jenkins,76,10,65,1
-Crawford,33 Osage-McCune,U.S. House,2,R,Lynn Jenkins,132,11,121,0
-Crawford,34 Parkview,U.S. House,2,R,Lynn Jenkins,27,5,20,2
-Crawford,35 Parkview,U.S. House,2,R,Lynn Jenkins,43,4,37,2
-Crawford,36 Pittsburg W1P1,U.S. House,2,R,Lynn Jenkins,105,12,89,4
-Crawford,37 Pittsburg W1P2,U.S. House,2,R,Lynn Jenkins,185,23,159,3
-Crawford,38 Pittsburg W1P3,U.S. House,2,R,Lynn Jenkins,472,78,387,7
-Crawford,39 Pittsburg W2P1,U.S. House,2,R,Lynn Jenkins,73,6,66,1
-Crawford,40 Pittsburg W2P2,U.S. House,2,R,Lynn Jenkins,100,10,88,2
-Crawford,41 Pittsburg W2P3,U.S. House,2,R,Lynn Jenkins,103,15,85,3
-Crawford,42 Pittsburg W2P4,U.S. House,2,R,Lynn Jenkins,122,17,102,3
-Crawford,43 Pittsburg W2P5,U.S. House,2,R,Lynn Jenkins,170,20,146,4
-Crawford,44 Pittsburg W3P1,U.S. House,2,R,Lynn Jenkins,97,11,80,6
-Crawford,45 Pittsburg W3P2,U.S. House,2,R,Lynn Jenkins,122,16,102,4
-Crawford,46 Pittsburg W4P1,U.S. House,2,R,Lynn Jenkins,32,5,25,2
-Crawford,47 Pittsburg W4P2,U.S. House,2,R,Lynn Jenkins,66,9,47,10
-Crawford,48 Pittsburg W4P3,U.S. House,2,R,Lynn Jenkins,151,19,125,7
-Crawford,49 Pittsburg W4P4,U.S. House,2,R,Lynn Jenkins,69,11,51,7
-Crawford,50 Pittsburg W4P5,U.S. House,2,R,Lynn Jenkins,278,45,229,4
-Crawford,51 Pittsburg W4P6,U.S. House,2,R,Lynn Jenkins,52,4,48,0
-Crawford,52 Raymond,U.S. House,2,R,Lynn Jenkins,171,19,148,4
-Crawford,53 Sheridan-Cherokee,U.S. House,2,R,Lynn Jenkins,19,1,18,0
-Crawford,54 Sheridan,U.S. House,2,R,Lynn Jenkins,22,1,21,0
-Crawford,55 Sherman,U.S. House,2,R,Lynn Jenkins,138,8,128,2
-Crawford,56 Smelter,U.S. House,2,R,Lynn Jenkins,152,9,141,2
-Crawford,57 South Arma,U.S. House,2,R,Lynn Jenkins,141,18,121,2
-Crawford,58 Walnut,U.S. House,2,R,Lynn Jenkins,33,2,31,0
-Crawford,59 Walnut twp,U.S. House,2,R,Lynn Jenkins,0,0,0,
-Crawford,60 Walnut twp,U.S. House,2,R,Lynn Jenkins,10,0,9,1
-Crawford,61 Walnut-Hepler,U.S. House,2,R,Lynn Jenkins,0,0,0,
-Crawford,62 Walnut-Hepler,U.S. House,2,R,Lynn Jenkins,10,2,8,0
-Crawford,01 Arcadia,U.S. House,2,D,Margie Wakefield,41,14,24,3
-Crawford,02 Baker,U.S. House,2,D,Margie Wakefield,144,35,99,10
-Crawford,03 Beulah,U.S. House,2,D,Margie Wakefield,28,6,22,0
-Crawford,04 Brazilton,U.S. House,2,D,Margie Wakefield,7,0,6,1
-Crawford,05 Capaldo,U.S. House,2,D,Margie Wakefield,7,1,6,0
-Crawford,06 Capaldo,U.S. House,2,D,Margie Wakefield,68,19,48,1
-Crawford,07 Cherokee,U.S. House,2,D,Margie Wakefield,72,6,64,2
-Crawford,08 Cherokee-Sheridan,U.S. House,2,D,Margie Wakefield,36,3,33,0
-Crawford,09 Chicopee,U.S. House,2,D,Margie Wakefield,84,19,63,2
-Crawford,10 Crawford,U.S. House,2,D,Margie Wakefield,37,4,33,0
-Crawford,11 Crowe,U.S. House,2,D,Margie Wakefield,32,10,21,1
-Crawford,12 Franklin,U.S. House,2,D,Margie Wakefield,62,18,42,2
-Crawford,13 Franklin,U.S. House,2,D,Margie Wakefield,2,0,2,0
-Crawford,14 Frontenac W1,U.S. House,2,D,Margie Wakefield,166,52,108,6
-Crawford,15 Frontenac W2,U.S. House,2,D,Margie Wakefield,245,53,189,3
-Crawford,16 Frontenac W3,U.S. House,2,D,Margie Wakefield,91,18,71,2
-Crawford,17 Frontenac W4,U.S. House,2,D,Margie Wakefield,76,24,51,1
-Crawford,18 Girard W1,U.S. House,2,D,Margie Wakefield,31,4,27,0
-Crawford,19 Girard W2,U.S. House,2,D,Margie Wakefield,102,24,78,0
-Crawford,20 Girard W3,U.S. House,2,D,Margie Wakefield,82,18,64,0
-Crawford,21 Girard W4,U.S. House,2,D,Margie Wakefield,84,14,67,3
-Crawford,22 Grant,U.S. House,2,D,Margie Wakefield,26,6,20,0
-Crawford,23 Hepler,U.S. House,2,D,Margie Wakefield,7,2,5,0
-Crawford,24 Lincoln,U.S. House,2,D,Margie Wakefield,45,11,33,1
-Crawford,25 Lincoln,U.S. House,2,D,Margie Wakefield,1,0,1,0
-Crawford,26 Lincoln-Arcadia,U.S. House,2,D,Margie Wakefield,14,3,11,0
-Crawford,27 Lone Star,U.S. House,2,D,Margie Wakefield,177,31,141,5
-Crawford,28 McCune,U.S. House,2,D,Margie Wakefield,47,6,40,1
-Crawford,29 Mulberry W1,U.S. House,2,D,Margie Wakefield,13,0,13,0
-Crawford,30 Mulberry W2,U.S. House,2,D,Margie Wakefield,16,3,13,0
-Crawford,31 North Arma,U.S. House,2,D,Margie Wakefield,101,28,71,2
-Crawford,32 Opolis,U.S. House,2,D,Margie Wakefield,48,11,35,2
-Crawford,33 Osage-McCune,U.S. House,2,D,Margie Wakefield,26,3,23,0
-Crawford,34 Parkview,U.S. House,2,D,Margie Wakefield,47,11,34,2
-Crawford,35 Parkview,U.S. House,2,D,Margie Wakefield,45,13,27,5
-Crawford,36 Pittsburg W1P1,U.S. House,2,D,Margie Wakefield,68,17,45,6
-Crawford,37 Pittsburg W1P2,U.S. House,2,D,Margie Wakefield,166,41,116,9
-Crawford,38 Pittsburg W1P3,U.S. House,2,D,Margie Wakefield,358,109,239,10
-Crawford,39 Pittsburg W2P1,U.S. House,2,D,Margie Wakefield,66,13,50,3
-Crawford,40 Pittsburg W2P2,U.S. House,2,D,Margie Wakefield,107,30,74,3
-Crawford,41 Pittsburg W2P3,U.S. House,2,D,Margie Wakefield,139,39,95,5
-Crawford,42 Pittsburg W2P4,U.S. House,2,D,Margie Wakefield,91,24,66,1
-Crawford,43 Pittsburg W2P5,U.S. House,2,D,Margie Wakefield,108,27,71,10
-Crawford,44 Pittsburg W3P1,U.S. House,2,D,Margie Wakefield,96,18,72,6
-Crawford,45 Pittsburg W3P2,U.S. House,2,D,Margie Wakefield,106,29,74,3
-Crawford,46 Pittsburg W4P1,U.S. House,2,D,Margie Wakefield,45,6,37,2
-Crawford,47 Pittsburg W4P2,U.S. House,2,D,Margie Wakefield,82,30,48,4
-Crawford,48 Pittsburg W4P3,U.S. House,2,D,Margie Wakefield,146,47,95,4
-Crawford,49 Pittsburg W4P4,U.S. House,2,D,Margie Wakefield,71,16,52,3
-Crawford,50 Pittsburg W4P5,U.S. House,2,D,Margie Wakefield,185,49,133,3
-Crawford,51 Pittsburg W4P6,U.S. House,2,D,Margie Wakefield,21,3,18,0
-Crawford,52 Raymond,U.S. House,2,D,Margie Wakefield,93,26,66,1
-Crawford,53 Sheridan-Cherokee,U.S. House,2,D,Margie Wakefield,18,1,16,1
-Crawford,54 Sheridan,U.S. House,2,D,Margie Wakefield,19,2,17,0
-Crawford,55 Sherman,U.S. House,2,D,Margie Wakefield,74,13,61,0
-Crawford,56 Smelter,U.S. House,2,D,Margie Wakefield,87,26,59,2
-Crawford,57 South Arma,U.S. House,2,D,Margie Wakefield,120,36,80,4
-Crawford,58 Walnut,U.S. House,2,D,Margie Wakefield,8,2,6,0
-Crawford,59 Walnut twp,U.S. House,2,D,Margie Wakefield,1,0,1,0
-Crawford,60 Walnut twp,U.S. House,2,D,Margie Wakefield,5,0,4,1
-Crawford,61 Walnut-Hepler,U.S. House,2,D,Margie Wakefield,1,0,1,0
-Crawford,62 Walnut-Hepler,U.S. House,2,D,Margie Wakefield,8,0,8,0
-Crawford,09 Chicopee,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,15 Frontenac W2,U.S. House,2,,Write-ins,2,0,2,0
-Crawford,27 Lone Star,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,31 North Arma,U.S. House,2,,Write-ins,1,1,0,0
-Crawford,32 Opolis,U.S. House,2,,Write-ins,2,0,2,0
-Crawford,37 Pittsburg W1P2,U.S. House,2,,Write-ins,4,0,4,0
-Crawford,40 Pittsburg W2P2,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,U.S. House,2,,Write-ins,1,1,0,0
-Crawford,46 Pittsburg W4P1,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,47 Pittsburg W4P2,U.S. House,2,,Write-ins,2,0,2,0
-Crawford,48 Pittsburg W4P3,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,56 Smelter,U.S. House,2,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,Governor,,L,Keen Umbehr,6,1,5,0
-Crawford,02 Baker,Governor,,L,Keen Umbehr,12,3,9,0
-Crawford,03 Beulah,Governor,,L,Keen Umbehr,2,0,2,0
-Crawford,04 Brazilton,Governor,,L,Keen Umbehr,3,0,3,0
-Crawford,05 Capaldo,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,06 Capaldo,Governor,,L,Keen Umbehr,5,1,4,0
-Crawford,07 Cherokee,Governor,,L,Keen Umbehr,9,2,7,0
-Crawford,08 Cherokee-Sheridan,Governor,,L,Keen Umbehr,6,0,6,0
-Crawford,09 Chicopee,Governor,,L,Keen Umbehr,4,0,4,0
-Crawford,10 Crawford,Governor,,L,Keen Umbehr,10,0,10,0
-Crawford,11 Crowe,Governor,,L,Keen Umbehr,4,2,2,0
-Crawford,12 Franklin,Governor,,L,Keen Umbehr,5,0,5,0
-Crawford,13 Franklin,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,14 Frontenac W1,Governor,,L,Keen Umbehr,7,0,6,1
-Crawford,15 Frontenac W2,Governor,,L,Keen Umbehr,11,2,9,0
-Crawford,16 Frontenac W3,Governor,,L,Keen Umbehr,10,1,9,0
-Crawford,17 Frontenac W4,Governor,,L,Keen Umbehr,4,0,3,1
-Crawford,18 Girard W1,Governor,,L,Keen Umbehr,6,0,6,0
-Crawford,19 Girard W2,Governor,,L,Keen Umbehr,8,0,8,0
-Crawford,20 Girard W3,Governor,,L,Keen Umbehr,7,2,5,0
-Crawford,21 Girard W4,Governor,,L,Keen Umbehr,13,2,10,1
-Crawford,22 Grant,Governor,,L,Keen Umbehr,3,0,3,0
-Crawford,23 Hepler,Governor,,L,Keen Umbehr,1,0,1,0
-Crawford,24 Lincoln,Governor,,L,Keen Umbehr,5,1,4,0
-Crawford,25 Lincoln,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,26 Lincoln-Arcadia,Governor,,L,Keen Umbehr,2,0,2,0
-Crawford,27 Lone Star,Governor,,L,Keen Umbehr,13,0,12,1
-Crawford,28 McCune,Governor,,L,Keen Umbehr,10,0,10,0
-Crawford,29 Mulberry W1,Governor,,L,Keen Umbehr,2,0,2,0
-Crawford,30 Mulberry W2,Governor,,L,Keen Umbehr,3,0,3,0
-Crawford,31 North Arma,Governor,,L,Keen Umbehr,2,0,1,1
-Crawford,32 Opolis,Governor,,L,Keen Umbehr,1,1,0,0
-Crawford,33 Osage-McCune,Governor,,L,Keen Umbehr,3,0,3,0
-Crawford,34 Parkview,Governor,,L,Keen Umbehr,3,0,3,0
-Crawford,35 Parkview,Governor,,L,Keen Umbehr,4,0,4,0
-Crawford,36 Pittsburg W1P1,Governor,,L,Keen Umbehr,7,1,5,1
-Crawford,37 Pittsburg W1P2,Governor,,L,Keen Umbehr,6,0,4,2
-Crawford,38 Pittsburg W1P3,Governor,,L,Keen Umbehr,25,4,20,1
-Crawford,39 Pittsburg W2P1,Governor,,L,Keen Umbehr,5,0,5,0
-Crawford,40 Pittsburg W2P2,Governor,,L,Keen Umbehr,5,0,3,2
-Crawford,41 Pittsburg W2P3,Governor,,L,Keen Umbehr,8,1,7,0
-Crawford,42 Pittsburg W2P4,Governor,,L,Keen Umbehr,4,2,2,0
-Crawford,43 Pittsburg W2P5,Governor,,L,Keen Umbehr,5,1,3,1
-Crawford,44 Pittsburg W3P1,Governor,,L,Keen Umbehr,8,0,8,0
-Crawford,45 Pittsburg W3P2,Governor,,L,Keen Umbehr,11,1,10,0
-Crawford,46 Pittsburg W4P1,Governor,,L,Keen Umbehr,2,1,1,0
-Crawford,47 Pittsburg W4P2,Governor,,L,Keen Umbehr,5,0,5,0
-Crawford,48 Pittsburg W4P3,Governor,,L,Keen Umbehr,12,0,10,2
-Crawford,49 Pittsburg W4P4,Governor,,L,Keen Umbehr,6,0,5,1
-Crawford,50 Pittsburg W4P5,Governor,,L,Keen Umbehr,10,3,7,0
-Crawford,51 Pittsburg W4P6,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,52 Raymond,Governor,,L,Keen Umbehr,9,0,9,0
-Crawford,53 Sheridan-Cherokee,Governor,,L,Keen Umbehr,6,1,5,0
-Crawford,54 Sheridan,Governor,,L,Keen Umbehr,4,0,4,0
-Crawford,55 Sherman,Governor,,L,Keen Umbehr,8,1,7,0
-Crawford,56 Smelter,Governor,,L,Keen Umbehr,7,2,5,0
-Crawford,57 South Arma,Governor,,L,Keen Umbehr,13,2,11,0
-Crawford,58 Walnut,Governor,,L,Keen Umbehr,3,1,2,0
-Crawford,59 Walnut twp,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,60 Walnut twp,Governor,,L,Keen Umbehr,0,0,0,
-Crawford,61 Walnut-Hepler,Governor,,L,Keen Umbehr,1,0,1,0
-Crawford,62 Walnut-Hepler,Governor,,L,Keen Umbehr,2,0,2,0
-Crawford,01 Arcadia,Governor,,D,Paul Davis,53,16,33,4
-Crawford,02 Baker,Governor,,D,Paul Davis,192,40,142,10
-Crawford,03 Beulah,Governor,,D,Paul Davis,45,8,36,1
-Crawford,04 Brazilton,Governor,,D,Paul Davis,12,0,11,1
-Crawford,05 Capaldo,Governor,,D,Paul Davis,13,1,12,0
-Crawford,06 Capaldo,Governor,,D,Paul Davis,85,19,65,1
-Crawford,07 Cherokee,Governor,,D,Paul Davis,89,7,80,2
-Crawford,08 Cherokee-Sheridan,Governor,,D,Paul Davis,57,5,52,0
-Crawford,09 Chicopee,Governor,,D,Paul Davis,125,23,98,4
-Crawford,10 Crawford,Governor,,D,Paul Davis,59,7,49,3
-Crawford,11 Crowe,Governor,,D,Paul Davis,42,11,30,1
-Crawford,12 Franklin,Governor,,D,Paul Davis,73,20,50,3
-Crawford,13 Franklin,Governor,,D,Paul Davis,4,0,4,0
-Crawford,14 Frontenac W1,Governor,,D,Paul Davis,204,60,137,7
-Crawford,15 Frontenac W2,Governor,,D,Paul Davis,302,60,237,5
-Crawford,16 Frontenac W3,Governor,,D,Paul Davis,116,24,89,3
-Crawford,17 Frontenac W4,Governor,,D,Paul Davis,96,29,65,2
-Crawford,18 Girard W1,Governor,,D,Paul Davis,42,7,35,0
-Crawford,19 Girard W2,Governor,,D,Paul Davis,133,24,109,0
-Crawford,20 Girard W3,Governor,,D,Paul Davis,108,20,86,2
-Crawford,21 Girard W4,Governor,,D,Paul Davis,116,19,95,2
-Crawford,22 Grant,Governor,,D,Paul Davis,45,6,39,0
-Crawford,23 Hepler,Governor,,D,Paul Davis,22,4,17,1
-Crawford,24 Lincoln,Governor,,D,Paul Davis,56,13,42,1
-Crawford,25 Lincoln,Governor,,D,Paul Davis,1,0,1,0
-Crawford,26 Lincoln-Arcadia,Governor,,D,Paul Davis,19,5,14,0
-Crawford,27 Lone Star,Governor,,D,Paul Davis,233,40,189,4
-Crawford,28 McCune,Governor,,D,Paul Davis,61,7,52,2
-Crawford,29 Mulberry W1,Governor,,D,Paul Davis,26,0,26,0
-Crawford,30 Mulberry W2,Governor,,D,Paul Davis,19,6,13,0
-Crawford,31 North Arma,Governor,,D,Paul Davis,122,30,90,2
-Crawford,32 Opolis,Governor,,D,Paul Davis,69,13,54,2
-Crawford,33 Osage-McCune,Governor,,D,Paul Davis,45,6,39,0
-Crawford,34 Parkview,Governor,,D,Paul Davis,55,16,37,2
-Crawford,35 Parkview,Governor,,D,Paul Davis,50,14,30,6
-Crawford,36 Pittsburg W1P1,Governor,,D,Paul Davis,84,18,58,8
-Crawford,37 Pittsburg W1P2,Governor,,D,Paul Davis,211,50,151,10
-Crawford,38 Pittsburg W1P3,Governor,,D,Paul Davis,450,123,317,10
-Crawford,39 Pittsburg W2P1,Governor,,D,Paul Davis,90,13,74,3
-Crawford,40 Pittsburg W2P2,Governor,,D,Paul Davis,128,33,90,5
-Crawford,41 Pittsburg W2P3,Governor,,D,Paul Davis,160,40,114,6
-Crawford,42 Pittsburg W2P4,Governor,,D,Paul Davis,114,29,84,1
-Crawford,43 Pittsburg W2P5,Governor,,D,Paul Davis,143,27,107,9
-Crawford,44 Pittsburg W3P1,Governor,,D,Paul Davis,110,19,86,5
-Crawford,45 Pittsburg W3P2,Governor,,D,Paul Davis,131,33,94,4
-Crawford,46 Pittsburg W4P1,Governor,,D,Paul Davis,56,8,44,4
-Crawford,47 Pittsburg W4P2,Governor,,D,Paul Davis,103,31,67,5
-Crawford,48 Pittsburg W4P3,Governor,,D,Paul Davis,192,53,132,7
-Crawford,49 Pittsburg W4P4,Governor,,D,Paul Davis,87,20,61,6
-Crawford,50 Pittsburg W4P5,Governor,,D,Paul Davis,253,53,196,4
-Crawford,51 Pittsburg W4P6,Governor,,D,Paul Davis,29,7,22,0
-Crawford,52 Raymond,Governor,,D,Paul Davis,142,28,111,3
-Crawford,53 Sheridan-Cherokee,Governor,,D,Paul Davis,22,1,20,1
-Crawford,54 Sheridan,Governor,,D,Paul Davis,19,1,18,0
-Crawford,55 Sherman,Governor,,D,Paul Davis,105,17,87,1
-Crawford,56 Smelter,Governor,,D,Paul Davis,114,29,83,2
-Crawford,57 South Arma,Governor,,D,Paul Davis,159,41,113,5
-Crawford,58 Walnut,Governor,,D,Paul Davis,22,2,20,0
-Crawford,59 Walnut twp,Governor,,D,Paul Davis,2,0,2,0
-Crawford,60 Walnut twp,Governor,,D,Paul Davis,7,0,5,2
-Crawford,61 Walnut-Hepler,Governor,,D,Paul Davis,1,0,1,0
-Crawford,62 Walnut-Hepler,Governor,,D,Paul Davis,9,1,8,0
-Crawford,01 Arcadia,Governor,,R,Sam Brownback,39,5,34,0
-Crawford,02 Baker,Governor,,R,Sam Brownback,197,16,174,7
-Crawford,03 Beulah,Governor,,R,Sam Brownback,45,6,38,1
-Crawford,04 Brazilton,Governor,,R,Sam Brownback,15,2,13,0
-Crawford,05 Capaldo,Governor,,R,Sam Brownback,7,1,6,0
-Crawford,06 Capaldo,Governor,,R,Sam Brownback,59,10,49,0
-Crawford,07 Cherokee,Governor,,R,Sam Brownback,93,7,81,5
-Crawford,08 Cherokee-Sheridan,Governor,,R,Sam Brownback,60,4,55,1
-Crawford,09 Chicopee,Governor,,R,Sam Brownback,111,20,90,1
-Crawford,10 Crawford,Governor,,R,Sam Brownback,100,8,91,1
-Crawford,11 Crowe,Governor,,R,Sam Brownback,35,3,31,1
-Crawford,12 Franklin,Governor,,R,Sam Brownback,54,5,47,2
-Crawford,13 Franklin,Governor,,R,Sam Brownback,2,1,1,0
-Crawford,14 Frontenac W1,Governor,,R,Sam Brownback,93,17,71,5
-Crawford,15 Frontenac W2,Governor,,R,Sam Brownback,144,33,106,5
-Crawford,16 Frontenac W3,Governor,,R,Sam Brownback,56,4,50,2
-Crawford,17 Frontenac W4,Governor,,R,Sam Brownback,39,3,35,1
-Crawford,18 Girard W1,Governor,,R,Sam Brownback,34,2,32,0
-Crawford,19 Girard W2,Governor,,R,Sam Brownback,125,24,99,2
-Crawford,20 Girard W3,Governor,,R,Sam Brownback,55,5,47,3
-Crawford,21 Girard W4,Governor,,R,Sam Brownback,118,20,94,4
-Crawford,22 Grant,Governor,,R,Sam Brownback,65,6,59,0
-Crawford,23 Hepler,Governor,,R,Sam Brownback,10,0,9,1
-Crawford,24 Lincoln,Governor,,R,Sam Brownback,63,7,56,0
-Crawford,25 Lincoln,Governor,,R,Sam Brownback,4,0,4,0
-Crawford,26 Lincoln-Arcadia,Governor,,R,Sam Brownback,11,1,9,1
-Crawford,27 Lone Star,Governor,,R,Sam Brownback,202,17,182,3
-Crawford,28 McCune,Governor,,R,Sam Brownback,50,6,43,1
-Crawford,29 Mulberry W1,Governor,,R,Sam Brownback,23,4,19,0
-Crawford,30 Mulberry W2,Governor,,R,Sam Brownback,26,1,25,0
-Crawford,31 North Arma,Governor,,R,Sam Brownback,120,17,102,1
-Crawford,32 Opolis,Governor,,R,Sam Brownback,65,8,56,1
-Crawford,33 Osage-McCune,Governor,,R,Sam Brownback,116,8,108,0
-Crawford,34 Parkview,Governor,,R,Sam Brownback,20,0,18,2
-Crawford,35 Parkview,Governor,,R,Sam Brownback,40,3,36,1
-Crawford,36 Pittsburg W1P1,Governor,,R,Sam Brownback,90,12,74,4
-Crawford,37 Pittsburg W1P2,Governor,,R,Sam Brownback,147,16,130,1
-Crawford,38 Pittsburg W1P3,Governor,,R,Sam Brownback,393,61,325,7
-Crawford,39 Pittsburg W2P1,Governor,,R,Sam Brownback,55,4,50,1
-Crawford,40 Pittsburg W2P2,Governor,,R,Sam Brownback,85,8,76,1
-Crawford,41 Pittsburg W2P3,Governor,,R,Sam Brownback,84,15,66,3
-Crawford,42 Pittsburg W2P4,Governor,,R,Sam Brownback,97,11,83,3
-Crawford,43 Pittsburg W2P5,Governor,,R,Sam Brownback,146,20,121,5
-Crawford,44 Pittsburg W3P1,Governor,,R,Sam Brownback,85,12,67,6
-Crawford,45 Pittsburg W3P2,Governor,,R,Sam Brownback,100,14,82,4
-Crawford,46 Pittsburg W4P1,Governor,,R,Sam Brownback,27,4,22,1
-Crawford,47 Pittsburg W4P2,Governor,,R,Sam Brownback,48,10,29,9
-Crawford,48 Pittsburg W4P3,Governor,,R,Sam Brownback,121,14,104,3
-Crawford,49 Pittsburg W4P4,Governor,,R,Sam Brownback,53,7,42,4
-Crawford,50 Pittsburg W4P5,Governor,,R,Sam Brownback,227,38,185,4
-Crawford,51 Pittsburg W4P6,Governor,,R,Sam Brownback,49,4,45,0
-Crawford,52 Raymond,Governor,,R,Sam Brownback,127,18,106,3
-Crawford,53 Sheridan-Cherokee,Governor,,R,Sam Brownback,15,1,14,0
-Crawford,54 Sheridan,Governor,,R,Sam Brownback,21,2,19,0
-Crawford,55 Sherman,Governor,,R,Sam Brownback,114,5,108,1
-Crawford,56 Smelter,Governor,,R,Sam Brownback,130,6,122,2
-Crawford,57 South Arma,Governor,,R,Sam Brownback,103,16,86,1
-Crawford,58 Walnut,Governor,,R,Sam Brownback,22,2,20,0
-Crawford,59 Walnut twp,Governor,,R,Sam Brownback,0,0,0,
-Crawford,60 Walnut twp,Governor,,R,Sam Brownback,9,0,9,0
-Crawford,61 Walnut-Hepler,Governor,,R,Sam Brownback,0,0,0,
-Crawford,62 Walnut-Hepler,Governor,,R,Sam Brownback,8,1,7,0
-Crawford,02 Baker,Governor,,,Write-ins,2,0,2,0
-Crawford,15 Frontenac W2,Governor,,,Write-ins,1,0,1,0
-Crawford,27 Lone Star,Governor,,,Write-ins,1,0,1,0
-Crawford,43 Pittsburg W2P5,Governor,,,Write-ins,1,0,1,0
-Crawford,50 Pittsburg W4P5,Governor,,,Write-ins,1,0,0,1
-Crawford,01 Arcadia,Insurance Commissioner,,D,Dennis Anderson,57,16,39,2
-Crawford,02 Baker,Insurance Commissioner,,D,Dennis Anderson,157,41,108,8
-Crawford,03 Beulah,Insurance Commissioner,,D,Dennis Anderson,30,5,25,0
-Crawford,04 Brazilton,Insurance Commissioner,,D,Dennis Anderson,6,0,5,1
-Crawford,05 Capaldo,Insurance Commissioner,,D,Dennis Anderson,9,1,8,0
-Crawford,06 Capaldo,Insurance Commissioner,,D,Dennis Anderson,72,17,54,1
-Crawford,07 Cherokee,Insurance Commissioner,,D,Dennis Anderson,85,7,76,2
-Crawford,08 Cherokee-Sheridan,Insurance Commissioner,,D,Dennis Anderson,45,3,42,0
-Crawford,09 Chicopee,Insurance Commissioner,,D,Dennis Anderson,91,20,68,3
-Crawford,10 Crawford,Insurance Commissioner,,D,Dennis Anderson,31,3,27,1
-Crawford,11 Crowe,Insurance Commissioner,,D,Dennis Anderson,40,13,25,2
-Crawford,12 Franklin,Insurance Commissioner,,D,Dennis Anderson,68,19,46,3
-Crawford,13 Franklin,Insurance Commissioner,,D,Dennis Anderson,3,0,3,0
-Crawford,14 Frontenac W1,Insurance Commissioner,,D,Dennis Anderson,174,58,110,6
-Crawford,15 Frontenac W2,Insurance Commissioner,,D,Dennis Anderson,266,54,207,5
-Crawford,16 Frontenac W3,Insurance Commissioner,,D,Dennis Anderson,97,22,73,2
-Crawford,17 Frontenac W4,Insurance Commissioner,,D,Dennis Anderson,81,25,54,2
-Crawford,18 Girard W1,Insurance Commissioner,,D,Dennis Anderson,39,6,33,0
-Crawford,19 Girard W2,Insurance Commissioner,,D,Dennis Anderson,114,24,90,0
-Crawford,20 Girard W3,Insurance Commissioner,,D,Dennis Anderson,92,18,72,2
-Crawford,21 Girard W4,Insurance Commissioner,,D,Dennis Anderson,99,16,81,2
-Crawford,22 Grant,Insurance Commissioner,,D,Dennis Anderson,37,6,31,0
-Crawford,23 Hepler,Insurance Commissioner,,D,Dennis Anderson,19,4,13,2
-Crawford,24 Lincoln,Insurance Commissioner,,D,Dennis Anderson,53,14,38,1
-Crawford,25 Lincoln,Insurance Commissioner,,D,Dennis Anderson,0,0,0,
-Crawford,26 Lincoln-Arcadia,Insurance Commissioner,,D,Dennis Anderson,22,5,17,0
-Crawford,27 Lone Star,Insurance Commissioner,,D,Dennis Anderson,187,34,149,4
-Crawford,28 McCune,Insurance Commissioner,,D,Dennis Anderson,58,8,48,2
-Crawford,29 Mulberry W1,Insurance Commissioner,,D,Dennis Anderson,28,0,28,0
-Crawford,30 Mulberry W2,Insurance Commissioner,,D,Dennis Anderson,19,5,14,0
-Crawford,31 North Arma,Insurance Commissioner,,D,Dennis Anderson,112,30,80,2
-Crawford,32 Opolis,Insurance Commissioner,,D,Dennis Anderson,50,11,37,2
-Crawford,33 Osage-McCune,Insurance Commissioner,,D,Dennis Anderson,35,5,30,0
-Crawford,34 Parkview,Insurance Commissioner,,D,Dennis Anderson,46,13,31,2
-Crawford,35 Parkview,Insurance Commissioner,,D,Dennis Anderson,51,13,32,6
-Crawford,36 Pittsburg W1P1,Insurance Commissioner,,D,Dennis Anderson,73,18,50,5
-Crawford,37 Pittsburg W1P2,Insurance Commissioner,,D,Dennis Anderson,175,43,123,9
-Crawford,38 Pittsburg W1P3,Insurance Commissioner,,D,Dennis Anderson,388,112,264,12
-Crawford,39 Pittsburg W2P1,Insurance Commissioner,,D,Dennis Anderson,82,12,67,3
-Crawford,40 Pittsburg W2P2,Insurance Commissioner,,D,Dennis Anderson,114,31,78,5
-Crawford,41 Pittsburg W2P3,Insurance Commissioner,,D,Dennis Anderson,139,40,93,6
-Crawford,42 Pittsburg W2P4,Insurance Commissioner,,D,Dennis Anderson,95,26,67,2
-Crawford,43 Pittsburg W2P5,Insurance Commissioner,,D,Dennis Anderson,110,28,75,7
-Crawford,44 Pittsburg W3P1,Insurance Commissioner,,D,Dennis Anderson,104,18,80,6
-Crawford,45 Pittsburg W3P2,Insurance Commissioner,,D,Dennis Anderson,119,31,83,5
-Crawford,46 Pittsburg W4P1,Insurance Commissioner,,D,Dennis Anderson,52,10,39,3
-Crawford,47 Pittsburg W4P2,Insurance Commissioner,,D,Dennis Anderson,94,30,57,7
-Crawford,48 Pittsburg W4P3,Insurance Commissioner,,D,Dennis Anderson,173,47,120,6
-Crawford,49 Pittsburg W4P4,Insurance Commissioner,,D,Dennis Anderson,82,20,58,4
-Crawford,50 Pittsburg W4P5,Insurance Commissioner,,D,Dennis Anderson,198,50,146,2
-Crawford,51 Pittsburg W4P6,Insurance Commissioner,,D,Dennis Anderson,27,7,20,0
-Crawford,52 Raymond,Insurance Commissioner,,D,Dennis Anderson,99,26,71,2
-Crawford,53 Sheridan-Cherokee,Insurance Commissioner,,D,Dennis Anderson,24,2,21,1
-Crawford,54 Sheridan,Insurance Commissioner,,D,Dennis Anderson,23,2,21,0
-Crawford,55 Sherman,Insurance Commissioner,,D,Dennis Anderson,81,14,67,0
-Crawford,56 Smelter,Insurance Commissioner,,D,Dennis Anderson,94,27,65,2
-Crawford,57 South Arma,Insurance Commissioner,,D,Dennis Anderson,146,43,99,4
-Crawford,58 Walnut,Insurance Commissioner,,D,Dennis Anderson,19,3,16,0
-Crawford,59 Walnut twp,Insurance Commissioner,,D,Dennis Anderson,1,0,1,0
-Crawford,60 Walnut twp,Insurance Commissioner,,D,Dennis Anderson,4,0,4,0
-Crawford,61 Walnut-Hepler,Insurance Commissioner,,D,Dennis Anderson,1,0,1,0
-Crawford,62 Walnut-Hepler,Insurance Commissioner,,D,Dennis Anderson,6,0,6,0
-Crawford,01 Arcadia,Insurance Commissioner,,R,Ken Selzer,41,6,34,1
-Crawford,02 Baker,Insurance Commissioner,,R,Ken Selzer,228,16,204,8
-Crawford,03 Beulah,Insurance Commissioner,,R,Ken Selzer,55,9,44,2
-Crawford,04 Brazilton,Insurance Commissioner,,R,Ken Selzer,24,2,22,0
-Crawford,05 Capaldo,Insurance Commissioner,,R,Ken Selzer,12,1,11,0
-Crawford,06 Capaldo,Insurance Commissioner,,R,Ken Selzer,72,12,60,0
-Crawford,07 Cherokee,Insurance Commissioner,,R,Ken Selzer,100,7,88,5
-Crawford,08 Cherokee-Sheridan,Insurance Commissioner,,R,Ken Selzer,75,5,69,1
-Crawford,09 Chicopee,Insurance Commissioner,,R,Ken Selzer,139,21,116,2
-Crawford,10 Crawford,Insurance Commissioner,,R,Ken Selzer,133,12,118,3
-Crawford,11 Crowe,Insurance Commissioner,,R,Ken Selzer,40,3,37,0
-Crawford,12 Franklin,Insurance Commissioner,,R,Ken Selzer,61,5,54,2
-Crawford,13 Franklin,Insurance Commissioner,,R,Ken Selzer,3,1,2,0
-Crawford,14 Frontenac W1,Insurance Commissioner,,R,Ken Selzer,114,17,93,4
-Crawford,15 Frontenac W2,Insurance Commissioner,,R,Ken Selzer,176,33,137,6
-Crawford,16 Frontenac W3,Insurance Commissioner,,R,Ken Selzer,75,5,67,3
-Crawford,17 Frontenac W4,Insurance Commissioner,,R,Ken Selzer,55,8,46,1
-Crawford,18 Girard W1,Insurance Commissioner,,R,Ken Selzer,40,2,38,0
-Crawford,19 Girard W2,Insurance Commissioner,,R,Ken Selzer,136,22,112,2
-Crawford,20 Girard W3,Insurance Commissioner,,R,Ken Selzer,75,9,63,3
-Crawford,21 Girard W4,Insurance Commissioner,,R,Ken Selzer,138,21,112,5
-Crawford,22 Grant,Insurance Commissioner,,R,Ken Selzer,67,5,62,0
-Crawford,23 Hepler,Insurance Commissioner,,R,Ken Selzer,14,0,14,0
-Crawford,24 Lincoln,Insurance Commissioner,,R,Ken Selzer,70,7,63,0
-Crawford,25 Lincoln,Insurance Commissioner,,R,Ken Selzer,4,0,4,0
-Crawford,26 Lincoln-Arcadia,Insurance Commissioner,,R,Ken Selzer,9,1,7,1
-Crawford,27 Lone Star,Insurance Commissioner,,R,Ken Selzer,249,22,223,4
-Crawford,28 McCune,Insurance Commissioner,,R,Ken Selzer,57,4,52,1
-Crawford,29 Mulberry W1,Insurance Commissioner,,R,Ken Selzer,22,3,19,0
-Crawford,30 Mulberry W2,Insurance Commissioner,,R,Ken Selzer,25,1,24,0
-Crawford,31 North Arma,Insurance Commissioner,,R,Ken Selzer,121,14,105,2
-Crawford,32 Opolis,Insurance Commissioner,,R,Ken Selzer,84,11,72,1
-Crawford,33 Osage-McCune,Insurance Commissioner,,R,Ken Selzer,126,9,117,0
-Crawford,34 Parkview,Insurance Commissioner,,R,Ken Selzer,30,2,26,2
-Crawford,35 Parkview,Insurance Commissioner,,R,Ken Selzer,38,4,33,1
-Crawford,36 Pittsburg W1P1,Insurance Commissioner,,R,Ken Selzer,96,13,76,7
-Crawford,37 Pittsburg W1P2,Insurance Commissioner,,R,Ken Selzer,182,22,156,4
-Crawford,38 Pittsburg W1P3,Insurance Commissioner,,R,Ken Selzer,447,71,369,7
-Crawford,39 Pittsburg W2P1,Insurance Commissioner,,R,Ken Selzer,63,5,57,1
-Crawford,40 Pittsburg W2P2,Insurance Commissioner,,R,Ken Selzer,98,9,86,3
-Crawford,41 Pittsburg W2P3,Insurance Commissioner,,R,Ken Selzer,107,16,88,3
-Crawford,42 Pittsburg W2P4,Insurance Commissioner,,R,Ken Selzer,117,15,100,2
-Crawford,43 Pittsburg W2P5,Insurance Commissioner,,R,Ken Selzer,170,18,147,5
-Crawford,44 Pittsburg W3P1,Insurance Commissioner,,R,Ken Selzer,93,11,76,6
-Crawford,45 Pittsburg W3P2,Insurance Commissioner,,R,Ken Selzer,113,17,93,3
-Crawford,46 Pittsburg W4P1,Insurance Commissioner,,R,Ken Selzer,31,3,26,2
-Crawford,47 Pittsburg W4P2,Insurance Commissioner,,R,Ken Selzer,52,10,36,6
-Crawford,48 Pittsburg W4P3,Insurance Commissioner,,R,Ken Selzer,145,18,121,6
-Crawford,49 Pittsburg W4P4,Insurance Commissioner,,R,Ken Selzer,58,5,47,6
-Crawford,50 Pittsburg W4P5,Insurance Commissioner,,R,Ken Selzer,264,43,215,6
-Crawford,51 Pittsburg W4P6,Insurance Commissioner,,R,Ken Selzer,48,4,44,0
-Crawford,52 Raymond,Insurance Commissioner,,R,Ken Selzer,167,18,147,2
-Crawford,53 Sheridan-Cherokee,Insurance Commissioner,,R,Ken Selzer,17,1,16,0
-Crawford,54 Sheridan,Insurance Commissioner,,R,Ken Selzer,21,1,20,0
-Crawford,55 Sherman,Insurance Commissioner,,R,Ken Selzer,136,6,129,1
-Crawford,56 Smelter,Insurance Commissioner,,R,Ken Selzer,152,8,142,2
-Crawford,57 South Arma,Insurance Commissioner,,R,Ken Selzer,121,13,106,2
-Crawford,58 Walnut,Insurance Commissioner,,R,Ken Selzer,24,2,22,0
-Crawford,59 Walnut twp,Insurance Commissioner,,R,Ken Selzer,1,0,1,0
-Crawford,60 Walnut twp,Insurance Commissioner,,R,Ken Selzer,11,0,9,2
-Crawford,61 Walnut-Hepler,Insurance Commissioner,,R,Ken Selzer,0,0,0,
-Crawford,62 Walnut-Hepler,Insurance Commissioner,,R,Ken Selzer,13,2,11,0
-Crawford,02 Baker,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,08 Cherokee-Sheridan,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,09 Chicopee,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,15 Frontenac W2,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,26 Lincoln-Arcadia,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,27 Lone Star,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,38 Pittsburg W1P3,Insurance Commissioner,,,Write-ins,1,1,0,0
-Crawford,40 Pittsburg W2P2,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,42 Pittsburg W2P4,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,Insurance Commissioner,,,Write-ins,2,1,1,0
-Crawford,48 Pittsburg W4P3,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,57 South Arma,Insurance Commissioner,,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,REG,,,Registered Voters,236,,,
-Crawford,02 Baker,REG,,,Registered Voters,688,,,
-Crawford,03 Beulah,REG,,,Registered Voters,191,,,
-Crawford,04 Brazilton,REG,,,Registered Voters,48,,,
-Crawford,05 Capaldo,REG,,,Registered Voters,60,,,
-Crawford,06 Capaldo,REG,,,Registered Voters,299,,,
-Crawford,07 Cherokee,REG,,,Registered Voters,380,,,
-Crawford,08 Cherokee-Sheridan,REG,,,Registered Voters,209,,,
-Crawford,09 Chicopee,REG,,,Registered Voters,357,,,
-Crawford,10 Crawford,REG,,,Registered Voters,290,,,
-Crawford,11 Crowe,REG,,,Registered Voters,173,,,
-Crawford,12 Franklin,REG,,,Registered Voters,280,,,
-Crawford,13 Franklin,REG,,,Registered Voters,19,,,
-Crawford,14 Frontenac W1,REG,,,Registered Voters,667,,,
-Crawford,15 Frontenac W2,REG,,,Registered Voters,874,,,
-Crawford,16 Frontenac W3,REG,,,Registered Voters,361,,,
-Crawford,17 Frontenac W4,REG,,,Registered Voters,298,,,
-Crawford,18 Girard W1,REG,,,Registered Voters,202,,,
-Crawford,19 Girard W2,REG,,,Registered Voters,566,,,
-Crawford,20 Girard W3,REG,,,Registered Voters,400,,,
-Crawford,21 Girard W4,REG,,,Registered Voters,526,,,
-Crawford,22 Grant,REG,,,Registered Voters,182,,,
-Crawford,23 Hepler,REG,,,Registered Voters,73,,,
-Crawford,24 Lincoln,REG,,,Registered Voters,230,,,
-Crawford,25 Lincoln,REG,,,Registered Voters,7,,,
-Crawford,26 Lincoln-Arcadia,REG,,,Registered Voters,94,,,
-Crawford,27 Lone Star,REG,,,Registered Voters,847,,,
-Crawford,28 McCune,REG,,,Registered Voters,265,,,
-Crawford,29 Mulberry W1,REG,,,Registered Voters,147,,,
-Crawford,30 Mulberry W2,REG,,,Registered Voters,180,,,
-Crawford,31 North Arma,REG,,,Registered Voters,577,,,
-Crawford,32 Opolis,REG,,,Registered Voters,249,,,
-Crawford,33 Osage-McCune,REG,,,Registered Voters,256,,,
-Crawford,34 Parkview,REG,,,Registered Voters,161,,,
-Crawford,35 Parkview,REG,,,Registered Voters,179,,,
-Crawford,36 Pittsburg W1P1,REG,,,Registered Voters,602,,,
-Crawford,37 Pittsburg W1P2,REG,,,Registered Voters,986,,,
-Crawford,38 Pittsburg W1P3,REG,,,Registered Voters,"1,796",,,
-Crawford,39 Pittsburg W2P1,REG,,,Registered Voters,452,,,
-Crawford,40 Pittsburg W2P2,REG,,,Registered Voters,489,,,
-Crawford,41 Pittsburg W2P3,REG,,,Registered Voters,598,,,
-Crawford,42 Pittsburg W2P4,REG,,,Registered Voters,407,,,
-Crawford,43 Pittsburg W2P5,REG,,,Registered Voters,772,,,
-Crawford,44 Pittsburg W3P1,REG,,,Registered Voters,631,,,
-Crawford,45 Pittsburg W3P2,REG,,,Registered Voters,721,,,
-Crawford,46 Pittsburg W4P1,REG,,,Registered Voters,285,,,
-Crawford,47 Pittsburg W4P2,REG,,,Registered Voters,546,,,
-Crawford,48 Pittsburg W4P3,REG,,,Registered Voters,816,,,
-Crawford,49 Pittsburg W4P4,REG,,,Registered Voters,502,,,
-Crawford,50 Pittsburg W4P5,REG,,,Registered Voters,987,,,
-Crawford,51 Pittsburg W4P6,REG,,,Registered Voters,148,,,
-Crawford,52 Raymond,REG,,,Registered Voters,490,,,
-Crawford,53 Sheridan-Cherokee,REG,,,Registered Voters,82,,,
-Crawford,54 Sheridan,REG,,,Registered Voters,89,,,
-Crawford,55 Sherman,REG,,,Registered Voters,394,,,
-Crawford,56 Smelter,REG,,,Registered Voters,389,,,
-Crawford,57 South Arma,REG,,,Registered Voters,625,,,
-Crawford,58 Walnut,REG,,,Registered Voters,118,,,
-Crawford,59 Walnut twp,REG,,,Registered Voters,2,,,
-Crawford,60 Walnut twp,REG,,,Registered Voters,29,,,
-Crawford,61 Walnut-Hepler,REG,,,Registered Voters,6,,,
-Crawford,62 Walnut-Hepler,REG,,,Registered Voters,44,,,
-Crawford,01 Arcadia,State House,2,D,Adam Lusker,85,20,62,3
-Crawford,03 Beulah,State House,2,D,Adam Lusker,67,7,58,2
-Crawford,04 Brazilton,State House,2,D,Adam Lusker,20,0,19,1
-Crawford,05 Capaldo,State House,2,D,Adam Lusker,18,1,17,0
-Crawford,06 Capaldo,State House,2,D,Adam Lusker,119,21,97,1
-Crawford,07 Cherokee,State House,2,D,Adam Lusker,134,11,119,4
-Crawford,08 Cherokee-Sheridan,State House,2,D,Adam Lusker,85,5,80,0
-Crawford,10 Crawford,State House,2,D,Adam Lusker,108,8,97,3
-Crawford,11 Crowe,State House,2,D,Adam Lusker,61,15,44,2
-Crawford,12 Franklin,State House,2,D,Adam Lusker,99,21,74,4
-Crawford,13 Franklin,State House,2,D,Adam Lusker,6,1,5,0
-Crawford,14 Frontenac W1,State House,2,D,Adam Lusker,260,68,180,12
-Crawford,15 Frontenac W2,State House,2,D,Adam Lusker,401,81,311,9
-Crawford,16 Frontenac W3,State House,2,D,Adam Lusker,161,29,128,4
-Crawford,17 Frontenac W4,State House,2,D,Adam Lusker,123,28,92,3
-Crawford,18 Girard W1,State House,2,D,Adam Lusker,62,6,56,0
-Crawford,19 Girard W2,State House,2,D,Adam Lusker,196,35,159,2
-Crawford,20 Girard W3,State House,2,D,Adam Lusker,143,24,115,4
-Crawford,21 Girard W4,State House,2,D,Adam Lusker,184,26,151,7
-Crawford,22 Grant,State House,2,D,Adam Lusker,80,11,69,0
-Crawford,23 Hepler,State House,2,D,Adam Lusker,26,4,20,2
-Crawford,24 Lincoln,State House,2,D,Adam Lusker,93,17,76,0
-Crawford,25 Lincoln,State House,2,D,Adam Lusker,2,0,2,0
-Crawford,26 Lincoln-Arcadia,State House,2,D,Adam Lusker,25,4,21,0
-Crawford,28 McCune,State House,2,D,Adam Lusker,91,10,79,2
-Crawford,29 Mulberry W1,State House,2,D,Adam Lusker,43,4,39,0
-Crawford,30 Mulberry W2,State House,2,D,Adam Lusker,29,6,23,0
-Crawford,31 North Arma,State House,2,D,Adam Lusker,176,34,138,4
-Crawford,33 Osage-McCune,State House,2,D,Adam Lusker,103,8,95,0
-Crawford,34 Parkview,State House,2,D,Adam Lusker,67,13,52,2
-Crawford,35 Parkview,State House,2,D,Adam Lusker,78,14,58,6
-Crawford,52 Raymond,State House,2,D,Adam Lusker,203,39,160,4
-Crawford,53 Sheridan-Cherokee,State House,2,D,Adam Lusker,34,3,30,1
-Crawford,55 Sherman,State House,2,D,Adam Lusker,158,20,136,2
-Crawford,57 South Arma,State House,2,D,Adam Lusker,220,52,162,6
-Crawford,58 Walnut,State House,2,D,Adam Lusker,37,3,34,0
-Crawford,59 Walnut twp,State House,2,D,Adam Lusker,2,0,2,0
-Crawford,60 Walnut twp,State House,2,D,Adam Lusker,15,0,13,2
-Crawford,61 Walnut-Hepler,State House,2,D,Adam Lusker,2,0,2,0
-Crawford,62 Walnut-Hepler,State House,2,D,Adam Lusker,16,1,15,0
-Crawford,01 Arcadia,State House,2,,Write-ins,2,0,2,0
-Crawford,03 Beulah,State House,2,,Write-ins,2,0,2,0
-Crawford,06 Capaldo,State House,2,,Write-ins,1,0,1,0
-Crawford,07 Cherokee,State House,2,,Write-ins,7,0,7,0
-Crawford,08 Cherokee-Sheridan,State House,2,,Write-ins,5,0,5,0
-Crawford,10 Crawford,State House,2,,Write-ins,3,0,3,0
-Crawford,11 Crowe,State House,2,,Write-ins,5,0,5,0
-Crawford,12 Franklin,State House,2,,Write-ins,5,0,5,0
-Crawford,14 Frontenac W1,State House,2,,Write-ins,5,0,4,1
-Crawford,15 Frontenac W2,State House,2,,Write-ins,8,1,7,0
-Crawford,16 Frontenac W3,State House,2,,Write-ins,6,0,6,0
-Crawford,17 Frontenac W4,State House,2,,Write-ins,1,1,0,0
-Crawford,18 Girard W1,State House,2,,Write-ins,3,1,2,0
-Crawford,19 Girard W2,State House,2,,Write-ins,4,0,4,0
-Crawford,20 Girard W3,State House,2,,Write-ins,6,0,5,1
-Crawford,21 Girard W4,State House,2,,Write-ins,6,1,5,0
-Crawford,22 Grant,State House,2,,Write-ins,1,0,1,0
-Crawford,24 Lincoln,State House,2,,Write-ins,5,0,5,0
-Crawford,25 Lincoln,State House,2,,Write-ins,1,0,1,0
-Crawford,26 Lincoln-Arcadia,State House,2,,Write-ins,3,1,2,0
-Crawford,28 McCune,State House,2,,Write-ins,7,0,7,0
-Crawford,29 Mulberry W1,State House,2,,Write-ins,2,0,2,0
-Crawford,30 Mulberry W2,State House,2,,Write-ins,1,0,1,0
-Crawford,31 North Arma,State House,2,,Write-ins,5,0,5,0
-Crawford,33 Osage-McCune,State House,2,,Write-ins,5,1,4,0
-Crawford,34 Parkview,State House,2,,Write-ins,2,0,2,0
-Crawford,35 Parkview,State House,2,,Write-ins,5,0,5,0
-Crawford,52 Raymond,State House,2,,Write-ins,8,1,7,0
-Crawford,55 Sherman,State House,2,,Write-ins,3,0,3,0
-Crawford,57 South Arma,State House,2,,Write-ins,7,1,6,0
-Crawford,02 Baker,State House,3,R,Charles Smith,226,17,199,10
-Crawford,02 Baker,State House,3,D,Julie Menghini,179,42,130,7
-Crawford,02 Baker,State House,3,,Write-ins,1,0,1,0
-Crawford,09 Chicopee,State House,3,R,Charles Smith,143,22,118,3
-Crawford,27 Lone Star,State House,3,R,Charles Smith,247,27,217,3
-Crawford,32 Opolis,State House,3,R,Charles Smith,79,9,69,1
-Crawford,36 Pittsburg W1P1,State House,3,R,Charles Smith,91,12,75,4
-Crawford,37 Pittsburg W1P2,State House,3,R,Charles Smith,170,18,147,5
-Crawford,38 Pittsburg W1P3,State House,3,R,Charles Smith,447,70,369,8
-Crawford,39 Pittsburg W2P1,State House,3,R,Charles Smith,69,6,62,1
-Crawford,40 Pittsburg W2P2,State House,3,R,Charles Smith,97,9,86,2
-Crawford,41 Pittsburg W2P3,State House,3,R,Charles Smith,107,16,89,2
-Crawford,42 Pittsburg W2P4,State House,3,R,Charles Smith,111,14,94,3
-Crawford,43 Pittsburg W2P5,State House,3,R,Charles Smith,147,18,124,5
-Crawford,44 Pittsburg W3P1,State House,3,R,Charles Smith,95,11,78,6
-Crawford,45 Pittsburg W3P2,State House,3,R,Charles Smith,119,18,96,5
-Crawford,46 Pittsburg W4P1,State House,3,R,Charles Smith,39,6,31,2
-Crawford,47 Pittsburg W4P2,State House,3,R,Charles Smith,58,13,38,7
-Crawford,48 Pittsburg W4P3,State House,3,R,Charles Smith,158,22,128,8
-Crawford,49 Pittsburg W4P4,State House,3,R,Charles Smith,65,9,49,7
-Crawford,50 Pittsburg W4P5,State House,3,R,Charles Smith,260,37,219,4
-Crawford,51 Pittsburg W4P6,State House,3,R,Charles Smith,51,4,47,0
-Crawford,54 Sheridan,State House,3,R,Charles Smith,26,2,24,0
-Crawford,56 Smelter,State House,3,R,Charles Smith,139,9,128,2
-Crawford,09 Chicopee,State House,3,D,Julie Menghini,91,20,69,2
-Crawford,27 Lone Star,State House,3,D,Julie Menghini,200,30,165,5
-Crawford,32 Opolis,State House,3,D,Julie Menghini,55,13,40,2
-Crawford,36 Pittsburg W1P1,State House,3,D,Julie Menghini,89,19,61,9
-Crawford,37 Pittsburg W1P2,State House,3,D,Julie Menghini,198,50,140,8
-Crawford,38 Pittsburg W1P3,State House,3,D,Julie Menghini,423,118,295,10
-Crawford,39 Pittsburg W2P1,State House,3,D,Julie Menghini,83,12,68,3
-Crawford,40 Pittsburg W2P2,State House,3,D,Julie Menghini,122,33,83,6
-Crawford,41 Pittsburg W2P3,State House,3,D,Julie Menghini,145,41,97,7
-Crawford,42 Pittsburg W2P4,State House,3,D,Julie Menghini,104,29,74,1
-Crawford,43 Pittsburg W2P5,State House,3,D,Julie Menghini,144,30,104,10
-Crawford,44 Pittsburg W3P1,State House,3,D,Julie Menghini,104,20,79,5
-Crawford,45 Pittsburg W3P2,State House,3,D,Julie Menghini,118,31,84,3
-Crawford,46 Pittsburg W4P1,State House,3,D,Julie Menghini,43,6,35,2
-Crawford,47 Pittsburg W4P2,State House,3,D,Julie Menghini,98,28,62,8
-Crawford,48 Pittsburg W4P3,State House,3,D,Julie Menghini,163,44,117,2
-Crawford,49 Pittsburg W4P4,State House,3,D,Julie Menghini,81,19,58,4
-Crawford,50 Pittsburg W4P5,State House,3,D,Julie Menghini,233,59,169,5
-Crawford,51 Pittsburg W4P6,State House,3,D,Julie Menghini,27,7,20,0
-Crawford,54 Sheridan,State House,3,D,Julie Menghini,19,1,18,0
-Crawford,56 Smelter,State House,3,D,Julie Menghini,111,28,81,2
-Crawford,27 Lone Star,State House,3,,Write-ins,2,0,2,0
-Crawford,32 Opolis,State House,3,,Write-ins,1,0,1,0
-Crawford,38 Pittsburg W1P3,State House,3,,Write-ins,1,0,1,0
-Crawford,41 Pittsburg W2P3,State House,3,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,State House,3,,Write-ins,1,0,1,0
-Crawford,48 Pittsburg W4P3,State House,3,,Write-ins,1,0,0,1
-Crawford,56 Smelter,State House,3,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,Secretary of State,,D,Jean Schodorf,56,17,36,3
-Crawford,02 Baker,Secretary of State,,D,Jean Schodorf,160,37,116,7
-Crawford,03 Beulah,Secretary of State,,D,Jean Schodorf,32,6,26,0
-Crawford,04 Brazilton,Secretary of State,,D,Jean Schodorf,10,0,9,1
-Crawford,05 Capaldo,Secretary of State,,D,Jean Schodorf,11,0,11,0
-Crawford,06 Capaldo,Secretary of State,,D,Jean Schodorf,76,22,53,1
-Crawford,07 Cherokee,Secretary of State,,D,Jean Schodorf,77,6,70,1
-Crawford,08 Cherokee-Sheridan,Secretary of State,,D,Jean Schodorf,49,2,47,0
-Crawford,09 Chicopee,Secretary of State,,D,Jean Schodorf,96,19,74,3
-Crawford,10 Crawford,Secretary of State,,D,Jean Schodorf,38,3,35,0
-Crawford,11 Crowe,Secretary of State,,D,Jean Schodorf,35,11,22,2
-Crawford,12 Franklin,Secretary of State,,D,Jean Schodorf,68,19,46,3
-Crawford,13 Franklin,Secretary of State,,D,Jean Schodorf,2,0,2,0
-Crawford,14 Frontenac W1,Secretary of State,,D,Jean Schodorf,171,58,107,6
-Crawford,15 Frontenac W2,Secretary of State,,D,Jean Schodorf,262,56,199,7
-Crawford,16 Frontenac W3,Secretary of State,,D,Jean Schodorf,99,22,74,3
-Crawford,17 Frontenac W4,Secretary of State,,D,Jean Schodorf,84,25,56,3
-Crawford,18 Girard W1,Secretary of State,,D,Jean Schodorf,38,5,33,0
-Crawford,19 Girard W2,Secretary of State,,D,Jean Schodorf,105,20,84,1
-Crawford,20 Girard W3,Secretary of State,,D,Jean Schodorf,99,23,75,1
-Crawford,21 Girard W4,Secretary of State,,D,Jean Schodorf,101,16,83,2
-Crawford,22 Grant,Secretary of State,,D,Jean Schodorf,38,6,32,0
-Crawford,23 Hepler,Secretary of State,,D,Jean Schodorf,15,4,11,0
-Crawford,24 Lincoln,Secretary of State,,D,Jean Schodorf,53,12,40,1
-Crawford,25 Lincoln,Secretary of State,,D,Jean Schodorf,0,0,0,
-Crawford,26 Lincoln-Arcadia,Secretary of State,,D,Jean Schodorf,20,5,15,0
-Crawford,27 Lone Star,Secretary of State,,D,Jean Schodorf,192,32,156,4
-Crawford,28 McCune,Secretary of State,,D,Jean Schodorf,60,7,51,2
-Crawford,29 Mulberry W1,Secretary of State,,D,Jean Schodorf,25,0,25,0
-Crawford,30 Mulberry W2,Secretary of State,,D,Jean Schodorf,18,6,12,0
-Crawford,31 North Arma,Secretary of State,,D,Jean Schodorf,110,31,77,2
-Crawford,32 Opolis,Secretary of State,,D,Jean Schodorf,51,11,38,2
-Crawford,33 Osage-McCune,Secretary of State,,D,Jean Schodorf,38,5,33,0
-Crawford,34 Parkview,Secretary of State,,D,Jean Schodorf,51,15,34,2
-Crawford,35 Parkview,Secretary of State,,D,Jean Schodorf,52,13,34,5
-Crawford,36 Pittsburg W1P1,Secretary of State,,D,Jean Schodorf,78,18,54,6
-Crawford,37 Pittsburg W1P2,Secretary of State,,D,Jean Schodorf,178,46,125,7
-Crawford,38 Pittsburg W1P3,Secretary of State,,D,Jean Schodorf,389,110,268,11
-Crawford,39 Pittsburg W2P1,Secretary of State,,D,Jean Schodorf,77,11,63,3
-Crawford,40 Pittsburg W2P2,Secretary of State,,D,Jean Schodorf,113,31,77,5
-Crawford,41 Pittsburg W2P3,Secretary of State,,D,Jean Schodorf,142,38,99,5
-Crawford,42 Pittsburg W2P4,Secretary of State,,D,Jean Schodorf,105,28,75,2
-Crawford,43 Pittsburg W2P5,Secretary of State,,D,Jean Schodorf,118,29,81,8
-Crawford,44 Pittsburg W3P1,Secretary of State,,D,Jean Schodorf,109,20,83,6
-Crawford,45 Pittsburg W3P2,Secretary of State,,D,Jean Schodorf,127,32,90,5
-Crawford,46 Pittsburg W4P1,Secretary of State,,D,Jean Schodorf,51,10,38,3
-Crawford,47 Pittsburg W4P2,Secretary of State,,D,Jean Schodorf,89,30,53,6
-Crawford,48 Pittsburg W4P3,Secretary of State,,D,Jean Schodorf,162,49,106,7
-Crawford,49 Pittsburg W4P4,Secretary of State,,D,Jean Schodorf,75,18,53,4
-Crawford,50 Pittsburg W4P5,Secretary of State,,D,Jean Schodorf,204,50,149,5
-Crawford,51 Pittsburg W4P6,Secretary of State,,D,Jean Schodorf,30,6,24,0
-Crawford,52 Raymond,Secretary of State,,D,Jean Schodorf,106,26,78,2
-Crawford,53 Sheridan-Cherokee,Secretary of State,,D,Jean Schodorf,24,2,21,1
-Crawford,54 Sheridan,Secretary of State,,D,Jean Schodorf,21,2,19,0
-Crawford,55 Sherman,Secretary of State,,D,Jean Schodorf,78,14,64,0
-Crawford,56 Smelter,Secretary of State,,D,Jean Schodorf,94,28,64,2
-Crawford,57 South Arma,Secretary of State,,D,Jean Schodorf,140,41,95,4
-Crawford,58 Walnut,Secretary of State,,D,Jean Schodorf,18,3,15,0
-Crawford,59 Walnut twp,Secretary of State,,D,Jean Schodorf,2,0,2,0
-Crawford,60 Walnut twp,Secretary of State,,D,Jean Schodorf,5,0,4,1
-Crawford,61 Walnut-Hepler,Secretary of State,,D,Jean Schodorf,0,0,0,
-Crawford,62 Walnut-Hepler,Secretary of State,,D,Jean Schodorf,8,0,8,0
-Crawford,01 Arcadia,Secretary of State,,R,Kris Kobach,41,5,36,0
-Crawford,02 Baker,Secretary of State,,R,Kris Kobach,233,20,203,10
-Crawford,03 Beulah,Secretary of State,,R,Kris Kobach,54,8,44,2
-Crawford,04 Brazilton,Secretary of State,,R,Kris Kobach,20,2,18,0
-Crawford,05 Capaldo,Secretary of State,,R,Kris Kobach,10,2,8,0
-Crawford,06 Capaldo,Secretary of State,,R,Kris Kobach,70,7,63,0
-Crawford,07 Cherokee,Secretary of State,,R,Kris Kobach,108,7,95,6
-Crawford,08 Cherokee-Sheridan,Secretary of State,,R,Kris Kobach,73,6,66,1
-Crawford,09 Chicopee,Secretary of State,,R,Kris Kobach,138,23,113,2
-Crawford,10 Crawford,Secretary of State,,R,Kris Kobach,131,13,114,4
-Crawford,11 Crowe,Secretary of State,,R,Kris Kobach,43,5,38,0
-Crawford,12 Franklin,Secretary of State,,R,Kris Kobach,63,6,55,2
-Crawford,13 Franklin,Secretary of State,,R,Kris Kobach,4,1,3,0
-Crawford,14 Frontenac W1,Secretary of State,,R,Kris Kobach,122,16,101,5
-Crawford,15 Frontenac W2,Secretary of State,,R,Kris Kobach,185,35,146,4
-Crawford,16 Frontenac W3,Secretary of State,,R,Kris Kobach,77,5,70,2
-Crawford,17 Frontenac W4,Secretary of State,,R,Kris Kobach,52,8,43,1
-Crawford,18 Girard W1,Secretary of State,,R,Kris Kobach,42,3,39,0
-Crawford,19 Girard W2,Secretary of State,,R,Kris Kobach,147,26,120,1
-Crawford,20 Girard W3,Secretary of State,,R,Kris Kobach,69,4,61,4
-Crawford,21 Girard W4,Secretary of State,,R,Kris Kobach,140,22,113,5
-Crawford,22 Grant,Secretary of State,,R,Kris Kobach,67,6,61,0
-Crawford,23 Hepler,Secretary of State,,R,Kris Kobach,18,0,16,2
-Crawford,24 Lincoln,Secretary of State,,R,Kris Kobach,73,9,64,0
-Crawford,25 Lincoln,Secretary of State,,R,Kris Kobach,5,0,5,0
-Crawford,26 Lincoln-Arcadia,Secretary of State,,R,Kris Kobach,12,1,10,1
-Crawford,27 Lone Star,Secretary of State,,R,Kris Kobach,248,23,221,4
-Crawford,28 McCune,Secretary of State,,R,Kris Kobach,59,5,53,1
-Crawford,29 Mulberry W1,Secretary of State,,R,Kris Kobach,26,4,22,0
-Crawford,30 Mulberry W2,Secretary of State,,R,Kris Kobach,27,1,26,0
-Crawford,31 North Arma,Secretary of State,,R,Kris Kobach,124,14,108,2
-Crawford,32 Opolis,Secretary of State,,R,Kris Kobach,83,11,71,1
-Crawford,33 Osage-McCune,Secretary of State,,R,Kris Kobach,123,9,114,0
-Crawford,34 Parkview,Secretary of State,,R,Kris Kobach,26,0,24,2
-Crawford,35 Parkview,Secretary of State,,R,Kris Kobach,40,4,34,2
-Crawford,36 Pittsburg W1P1,Secretary of State,,R,Kris Kobach,93,13,73,7
-Crawford,37 Pittsburg W1P2,Secretary of State,,R,Kris Kobach,182,19,157,6
-Crawford,38 Pittsburg W1P3,Secretary of State,,R,Kris Kobach,463,75,381,7
-Crawford,39 Pittsburg W2P1,Secretary of State,,R,Kris Kobach,71,6,64,1
-Crawford,40 Pittsburg W2P2,Secretary of State,,R,Kris Kobach,104,10,91,3
-Crawford,41 Pittsburg W2P3,Secretary of State,,R,Kris Kobach,103,18,81,4
-Crawford,42 Pittsburg W2P4,Secretary of State,,R,Kris Kobach,111,14,95,2
-Crawford,43 Pittsburg W2P5,Secretary of State,,R,Kris Kobach,165,17,143,5
-Crawford,44 Pittsburg W3P1,Secretary of State,,R,Kris Kobach,92,10,76,6
-Crawford,45 Pittsburg W3P2,Secretary of State,,R,Kris Kobach,109,17,89,3
-Crawford,46 Pittsburg W4P1,Secretary of State,,R,Kris Kobach,31,2,27,2
-Crawford,47 Pittsburg W4P2,Secretary of State,,R,Kris Kobach,59,10,42,7
-Crawford,48 Pittsburg W4P3,Secretary of State,,R,Kris Kobach,158,16,137,5
-Crawford,49 Pittsburg W4P4,Secretary of State,,R,Kris Kobach,68,8,54,6
-Crawford,50 Pittsburg W4P5,Secretary of State,,R,Kris Kobach,274,44,226,4
-Crawford,51 Pittsburg W4P6,Secretary of State,,R,Kris Kobach,47,5,42,0
-Crawford,52 Raymond,Secretary of State,,R,Kris Kobach,164,18,144,2
-Crawford,53 Sheridan-Cherokee,Secretary of State,,R,Kris Kobach,18,1,17,0
-Crawford,54 Sheridan,Secretary of State,,R,Kris Kobach,24,1,23,0
-Crawford,55 Sherman,Secretary of State,,R,Kris Kobach,143,8,133,2
-Crawford,56 Smelter,Secretary of State,,R,Kris Kobach,156,9,145,2
-Crawford,57 South Arma,Secretary of State,,R,Kris Kobach,130,16,112,2
-Crawford,58 Walnut,Secretary of State,,R,Kris Kobach,28,2,26,0
-Crawford,59 Walnut twp,Secretary of State,,R,Kris Kobach,0,0,0,
-Crawford,60 Walnut twp,Secretary of State,,R,Kris Kobach,11,0,10,1
-Crawford,61 Walnut-Hepler,Secretary of State,,R,Kris Kobach,1,0,1,0
-Crawford,62 Walnut-Hepler,Secretary of State,,R,Kris Kobach,11,2,9,0
-Crawford,08 Cherokee-Sheridan,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,09 Chicopee,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,15 Frontenac W2,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,27 Lone Star,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,48 Pittsburg W4P3,Secretary of State,,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,State Treasurer,,D,Carmen Alldritt,50,16,31,3
-Crawford,02 Baker,State Treasurer,,D,Carmen Alldritt,145,39,99,7
-Crawford,03 Beulah,State Treasurer,,D,Carmen Alldritt,22,4,18,0
-Crawford,04 Brazilton,State Treasurer,,D,Carmen Alldritt,5,0,5,0
-Crawford,05 Capaldo,State Treasurer,,D,Carmen Alldritt,10,1,9,0
-Crawford,06 Capaldo,State Treasurer,,D,Carmen Alldritt,60,13,46,1
-Crawford,07 Cherokee,State Treasurer,,D,Carmen Alldritt,74,5,68,1
-Crawford,08 Cherokee-Sheridan,State Treasurer,,D,Carmen Alldritt,36,3,33,0
-Crawford,09 Chicopee,State Treasurer,,D,Carmen Alldritt,86,17,66,3
-Crawford,10 Crawford,State Treasurer,,D,Carmen Alldritt,33,2,30,1
-Crawford,11 Crowe,State Treasurer,,D,Carmen Alldritt,37,14,21,2
-Crawford,12 Franklin,State Treasurer,,D,Carmen Alldritt,67,17,47,3
-Crawford,13 Franklin,State Treasurer,,D,Carmen Alldritt,4,1,3,0
-Crawford,14 Frontenac W1,State Treasurer,,D,Carmen Alldritt,160,52,102,6
-Crawford,15 Frontenac W2,State Treasurer,,D,Carmen Alldritt,242,52,186,4
-Crawford,16 Frontenac W3,State Treasurer,,D,Carmen Alldritt,87,18,67,2
-Crawford,17 Frontenac W4,State Treasurer,,D,Carmen Alldritt,79,24,53,2
-Crawford,18 Girard W1,State Treasurer,,D,Carmen Alldritt,33,6,27,0
-Crawford,19 Girard W2,State Treasurer,,D,Carmen Alldritt,87,19,68,0
-Crawford,20 Girard W3,State Treasurer,,D,Carmen Alldritt,83,16,67,0
-Crawford,21 Girard W4,State Treasurer,,D,Carmen Alldritt,92,13,77,2
-Crawford,22 Grant,State Treasurer,,D,Carmen Alldritt,31,6,25,0
-Crawford,23 Hepler,State Treasurer,,D,Carmen Alldritt,14,4,10,0
-Crawford,24 Lincoln,State Treasurer,,D,Carmen Alldritt,49,12,36,1
-Crawford,25 Lincoln,State Treasurer,,D,Carmen Alldritt,0,0,0,
-Crawford,26 Lincoln-Arcadia,State Treasurer,,D,Carmen Alldritt,18,4,14,0
-Crawford,27 Lone Star,State Treasurer,,D,Carmen Alldritt,173,30,139,4
-Crawford,28 McCune,State Treasurer,,D,Carmen Alldritt,48,6,40,2
-Crawford,29 Mulberry W1,State Treasurer,,D,Carmen Alldritt,24,0,24,0
-Crawford,30 Mulberry W2,State Treasurer,,D,Carmen Alldritt,18,5,13,0
-Crawford,31 North Arma,State Treasurer,,D,Carmen Alldritt,101,30,69,2
-Crawford,32 Opolis,State Treasurer,,D,Carmen Alldritt,48,12,34,2
-Crawford,33 Osage-McCune,State Treasurer,,D,Carmen Alldritt,30,5,25,0
-Crawford,34 Parkview,State Treasurer,,D,Carmen Alldritt,46,12,32,2
-Crawford,35 Parkview,State Treasurer,,D,Carmen Alldritt,45,12,29,4
-Crawford,36 Pittsburg W1P1,State Treasurer,,D,Carmen Alldritt,66,15,44,7
-Crawford,37 Pittsburg W1P2,State Treasurer,,D,Carmen Alldritt,160,34,117,9
-Crawford,38 Pittsburg W1P3,State Treasurer,,D,Carmen Alldritt,349,104,234,11
-Crawford,39 Pittsburg W2P1,State Treasurer,,D,Carmen Alldritt,74,12,59,3
-Crawford,40 Pittsburg W2P2,State Treasurer,,D,Carmen Alldritt,107,27,74,6
-Crawford,41 Pittsburg W2P3,State Treasurer,,D,Carmen Alldritt,131,37,90,4
-Crawford,42 Pittsburg W2P4,State Treasurer,,D,Carmen Alldritt,87,23,62,2
-Crawford,43 Pittsburg W2P5,State Treasurer,,D,Carmen Alldritt,96,22,65,9
-Crawford,44 Pittsburg W3P1,State Treasurer,,D,Carmen Alldritt,100,20,74,6
-Crawford,45 Pittsburg W3P2,State Treasurer,,D,Carmen Alldritt,111,29,78,4
-Crawford,46 Pittsburg W4P1,State Treasurer,,D,Carmen Alldritt,50,9,38,3
-Crawford,47 Pittsburg W4P2,State Treasurer,,D,Carmen Alldritt,88,28,54,6
-Crawford,48 Pittsburg W4P3,State Treasurer,,D,Carmen Alldritt,164,50,110,4
-Crawford,49 Pittsburg W4P4,State Treasurer,,D,Carmen Alldritt,73,16,53,4
-Crawford,50 Pittsburg W4P5,State Treasurer,,D,Carmen Alldritt,188,43,142,3
-Crawford,51 Pittsburg W4P6,State Treasurer,,D,Carmen Alldritt,25,7,18,0
-Crawford,52 Raymond,State Treasurer,,D,Carmen Alldritt,85,18,65,2
-Crawford,53 Sheridan-Cherokee,State Treasurer,,D,Carmen Alldritt,21,2,18,1
-Crawford,54 Sheridan,State Treasurer,,D,Carmen Alldritt,20,2,18,0
-Crawford,55 Sherman,State Treasurer,,D,Carmen Alldritt,72,14,57,1
-Crawford,56 Smelter,State Treasurer,,D,Carmen Alldritt,93,27,64,2
-Crawford,57 South Arma,State Treasurer,,D,Carmen Alldritt,134,38,92,4
-Crawford,58 Walnut,State Treasurer,,D,Carmen Alldritt,16,4,12,0
-Crawford,59 Walnut twp,State Treasurer,,D,Carmen Alldritt,0,0,0,
-Crawford,60 Walnut twp,State Treasurer,,D,Carmen Alldritt,6,0,6,0
-Crawford,61 Walnut-Hepler,State Treasurer,,D,Carmen Alldritt,1,0,1,0
-Crawford,62 Walnut-Hepler,State Treasurer,,D,Carmen Alldritt,8,0,8,0
-Crawford,01 Arcadia,State Treasurer,,R,Ken Estes,48,6,42,0
-Crawford,02 Baker,State Treasurer,,R,Ken Estes,243,18,215,10
-Crawford,03 Beulah,State Treasurer,,R,Ken Estes,62,10,51,1
-Crawford,04 Brazilton,State Treasurer,,R,Ken Estes,25,2,22,1
-Crawford,05 Capaldo,State Treasurer,,R,Ken Estes,11,1,10,0
-Crawford,06 Capaldo,State Treasurer,,R,Ken Estes,84,17,67,0
-Crawford,07 Cherokee,State Treasurer,,R,Ken Estes,113,9,98,6
-Crawford,08 Cherokee-Sheridan,State Treasurer,,R,Ken Estes,86,5,80,1
-Crawford,09 Chicopee,State Treasurer,,R,Ken Estes,145,24,119,2
-Crawford,10 Crawford,State Treasurer,,R,Ken Estes,132,13,116,3
-Crawford,11 Crowe,State Treasurer,,R,Ken Estes,43,2,41,0
-Crawford,12 Franklin,State Treasurer,,R,Ken Estes,64,8,54,2
-Crawford,13 Franklin,State Treasurer,,R,Ken Estes,2,0,2,0
-Crawford,14 Frontenac W1,State Treasurer,,R,Ken Estes,129,21,103,5
-Crawford,15 Frontenac W2,State Treasurer,,R,Ken Estes,199,34,160,5
-Crawford,16 Frontenac W3,State Treasurer,,R,Ken Estes,85,9,73,3
-Crawford,17 Frontenac W4,State Treasurer,,R,Ken Estes,57,9,47,1
-Crawford,18 Girard W1,State Treasurer,,R,Ken Estes,46,2,44,0
-Crawford,19 Girard W2,State Treasurer,,R,Ken Estes,162,27,133,2
-Crawford,20 Girard W3,State Treasurer,,R,Ken Estes,84,11,68,5
-Crawford,21 Girard W4,State Treasurer,,R,Ken Estes,146,25,116,5
-Crawford,22 Grant,State Treasurer,,R,Ken Estes,75,6,69,0
-Crawford,23 Hepler,State Treasurer,,R,Ken Estes,19,0,17,2
-Crawford,24 Lincoln,State Treasurer,,R,Ken Estes,75,9,66,0
-Crawford,25 Lincoln,State Treasurer,,R,Ken Estes,4,0,4,0
-Crawford,26 Lincoln-Arcadia,State Treasurer,,R,Ken Estes,11,1,10,0
-Crawford,27 Lone Star,State Treasurer,,R,Ken Estes,263,25,234,4
-Crawford,28 McCune,State Treasurer,,R,Ken Estes,69,6,62,1
-Crawford,29 Mulberry W1,State Treasurer,,R,Ken Estes,27,4,23,0
-Crawford,30 Mulberry W2,State Treasurer,,R,Ken Estes,26,1,25,0
-Crawford,31 North Arma,State Treasurer,,R,Ken Estes,131,15,114,2
-Crawford,32 Opolis,State Treasurer,,R,Ken Estes,87,10,76,1
-Crawford,33 Osage-McCune,State Treasurer,,R,Ken Estes,130,9,121,0
-Crawford,34 Parkview,State Treasurer,,R,Ken Estes,31,3,26,2
-Crawford,35 Parkview,State Treasurer,,R,Ken Estes,43,4,36,3
-Crawford,36 Pittsburg W1P1,State Treasurer,,R,Ken Estes,105,16,84,5
-Crawford,37 Pittsburg W1P2,State Treasurer,,R,Ken Estes,195,30,161,4
-Crawford,38 Pittsburg W1P3,State Treasurer,,R,Ken Estes,489,80,402,7
-Crawford,39 Pittsburg W2P1,State Treasurer,,R,Ken Estes,73,5,67,1
-Crawford,40 Pittsburg W2P2,State Treasurer,,R,Ken Estes,106,13,91,2
-Crawford,41 Pittsburg W2P3,State Treasurer,,R,Ken Estes,113,18,90,5
-Crawford,42 Pittsburg W2P4,State Treasurer,,R,Ken Estes,126,18,106,2
-Crawford,43 Pittsburg W2P5,State Treasurer,,R,Ken Estes,186,24,158,4
-Crawford,44 Pittsburg W3P1,State Treasurer,,R,Ken Estes,100,10,84,6
-Crawford,45 Pittsburg W3P2,State Treasurer,,R,Ken Estes,122,19,99,4
-Crawford,46 Pittsburg W4P1,State Treasurer,,R,Ken Estes,32,3,27,2
-Crawford,47 Pittsburg W4P2,State Treasurer,,R,Ken Estes,57,11,40,6
-Crawford,48 Pittsburg W4P3,State Treasurer,,R,Ken Estes,154,15,131,8
-Crawford,49 Pittsburg W4P4,State Treasurer,,R,Ken Estes,68,9,53,6
-Crawford,50 Pittsburg W4P5,State Treasurer,,R,Ken Estes,281,50,226,5
-Crawford,51 Pittsburg W4P6,State Treasurer,,R,Ken Estes,52,4,48,0
-Crawford,52 Raymond,State Treasurer,,R,Ken Estes,183,25,156,2
-Crawford,53 Sheridan-Cherokee,State Treasurer,,R,Ken Estes,19,1,18,0
-Crawford,54 Sheridan,State Treasurer,,R,Ken Estes,24,1,23,0
-Crawford,55 Sherman,State Treasurer,,R,Ken Estes,146,9,136,1
-Crawford,56 Smelter,State Treasurer,,R,Ken Estes,156,9,145,2
-Crawford,57 South Arma,State Treasurer,,R,Ken Estes,133,18,113,2
-Crawford,58 Walnut,State Treasurer,,R,Ken Estes,26,1,25,0
-Crawford,59 Walnut twp,State Treasurer,,R,Ken Estes,2,0,2,0
-Crawford,60 Walnut twp,State Treasurer,,R,Ken Estes,10,0,8,2
-Crawford,61 Walnut-Hepler,State Treasurer,,R,Ken Estes,0,0,0,
-Crawford,62 Walnut-Hepler,State Treasurer,,R,Ken Estes,10,1,9,0
-Crawford,15 Frontenac W2,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,26 Lincoln-Arcadia,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,27 Lone Star,State Treasurer,,,Write-ins,2,0,2,0
-Crawford,28 McCune,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,40 Pittsburg W2P2,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,42 Pittsburg W2P4,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,45 Pittsburg W3P2,State Treasurer,,,Write-ins,2,1,1,0
-Crawford,48 Pittsburg W4P3,State Treasurer,,,Write-ins,1,0,1,0
-Crawford,01 Arcadia,U.S. Senate,,I,Greg Orman,34,7,24,3
-Crawford,02 Baker,U.S. Senate,,I,Greg Orman,147,30,109,8
-Crawford,03 Beulah,U.S. Senate,,I,Greg Orman,34,6,28,0
-Crawford,04 Brazilton,U.S. Senate,,I,Greg Orman,10,0,9,1
-Crawford,05 Capaldo,U.S. Senate,,I,Greg Orman,10,1,9,0
-Crawford,06 Capaldo,U.S. Senate,,I,Greg Orman,64,16,47,1
-Crawford,07 Cherokee,U.S. Senate,,I,Greg Orman,66,5,61,0
-Crawford,08 Cherokee-Sheridan,U.S. Senate,,I,Greg Orman,49,2,47,0
-Crawford,09 Chicopee,U.S. Senate,,I,Greg Orman,89,20,67,2
-Crawford,10 Crawford,U.S. Senate,,I,Greg Orman,39,4,34,1
-Crawford,11 Crowe,U.S. Senate,,I,Greg Orman,41,11,29,1
-Crawford,12 Franklin,U.S. Senate,,I,Greg Orman,56,16,37,3
-Crawford,13 Franklin,U.S. Senate,,I,Greg Orman,4,0,4,0
-Crawford,14 Frontenac W1,U.S. Senate,,I,Greg Orman,147,41,100,6
-Crawford,15 Frontenac W2,U.S. Senate,,I,Greg Orman,222,43,175,4
-Crawford,16 Frontenac W3,U.S. Senate,,I,Greg Orman,91,18,70,3
-Crawford,17 Frontenac W4,U.S. Senate,,I,Greg Orman,73,22,50,1
-Crawford,18 Girard W1,U.S. Senate,,I,Greg Orman,37,4,33,0
-Crawford,19 Girard W2,U.S. Senate,,I,Greg Orman,100,19,81,0
-Crawford,20 Girard W3,U.S. Senate,,I,Greg Orman,81,13,65,3
-Crawford,21 Girard W4,U.S. Senate,,I,Greg Orman,87,9,75,3
-Crawford,22 Grant,U.S. Senate,,I,Greg Orman,40,8,32,0
-Crawford,23 Hepler,U.S. Senate,,I,Greg Orman,10,2,8,0
-Crawford,24 Lincoln,U.S. Senate,,I,Greg Orman,41,8,33,0
-Crawford,25 Lincoln,U.S. Senate,,I,Greg Orman,1,0,1,0
-Crawford,26 Lincoln-Arcadia,U.S. Senate,,I,Greg Orman,15,3,12,0
-Crawford,27 Lone Star,U.S. Senate,,I,Greg Orman,177,26,147,4
-Crawford,28 McCune,U.S. Senate,,I,Greg Orman,54,7,45,2
-Crawford,29 Mulberry W1,U.S. Senate,,I,Greg Orman,24,0,24,0
-Crawford,30 Mulberry W2,U.S. Senate,,I,Greg Orman,14,3,11,0
-Crawford,31 North Arma,U.S. Senate,,I,Greg Orman,94,20,71,3
-Crawford,32 Opolis,U.S. Senate,,I,Greg Orman,48,11,35,2
-Crawford,33 Osage-McCune,U.S. Senate,,I,Greg Orman,36,4,32,0
-Crawford,34 Parkview,U.S. Senate,,I,Greg Orman,41,9,31,1
-Crawford,35 Parkview,U.S. Senate,,I,Greg Orman,46,12,29,5
-Crawford,36 Pittsburg W1P1,U.S. Senate,,I,Greg Orman,76,15,54,7
-Crawford,37 Pittsburg W1P2,U.S. Senate,,I,Greg Orman,157,33,118,6
-Crawford,38 Pittsburg W1P3,U.S. Senate,,I,Greg Orman,379,98,270,11
-Crawford,39 Pittsburg W2P1,U.S. Senate,,I,Greg Orman,71,8,61,2
-Crawford,40 Pittsburg W2P2,U.S. Senate,,I,Greg Orman,113,27,81,5
-Crawford,41 Pittsburg W2P3,U.S. Senate,,I,Greg Orman,150,41,103,6
-Crawford,42 Pittsburg W2P4,U.S. Senate,,I,Greg Orman,105,25,78,2
-Crawford,43 Pittsburg W2P5,U.S. Senate,,I,Greg Orman,119,24,89,6
-Crawford,44 Pittsburg W3P1,U.S. Senate,,I,Greg Orman,85,16,64,5
-Crawford,45 Pittsburg W3P2,U.S. Senate,,I,Greg Orman,112,26,81,5
-Crawford,46 Pittsburg W4P1,U.S. Senate,,I,Greg Orman,39,3,33,3
-Crawford,47 Pittsburg W4P2,U.S. Senate,,I,Greg Orman,83,28,51,4
-Crawford,48 Pittsburg W4P3,U.S. Senate,,I,Greg Orman,143,36,102,5
-Crawford,49 Pittsburg W4P4,U.S. Senate,,I,Greg Orman,68,15,48,5
-Crawford,50 Pittsburg W4P5,U.S. Senate,,I,Greg Orman,213,44,166,3
-Crawford,51 Pittsburg W4P6,U.S. Senate,,I,Greg Orman,19,5,14,0
-Crawford,52 Raymond,U.S. Senate,,I,Greg Orman,108,27,79,2
-Crawford,53 Sheridan-Cherokee,U.S. Senate,,I,Greg Orman,18,1,17,0
-Crawford,54 Sheridan,U.S. Senate,,I,Greg Orman,22,2,20,0
-Crawford,55 Sherman,U.S. Senate,,I,Greg Orman,83,17,65,1
-Crawford,56 Smelter,U.S. Senate,,I,Greg Orman,96,26,68,2
-Crawford,57 South Arma,U.S. Senate,,I,Greg Orman,127,36,87,4
-Crawford,58 Walnut,U.S. Senate,,I,Greg Orman,17,1,16,0
-Crawford,59 Walnut twp,U.S. Senate,,I,Greg Orman,1,0,1,0
-Crawford,60 Walnut twp,U.S. Senate,,I,Greg Orman,4,0,3,1
-Crawford,61 Walnut-Hepler,U.S. Senate,,I,Greg Orman,1,0,1,0
-Crawford,62 Walnut-Hepler,U.S. Senate,,I,Greg Orman,8,1,7,0
-Crawford,01 Arcadia,U.S. Senate,,R,Pat Roberts,41,7,34,0
-Crawford,02 Baker,U.S. Senate,,R,Pat Roberts,218,22,188,8
-Crawford,03 Beulah,U.S. Senate,,R,Pat Roberts,51,8,41,2
-Crawford,04 Brazilton,U.S. Senate,,R,Pat Roberts,17,2,15,0
-Crawford,05 Capaldo,U.S. Senate,,R,Pat Roberts,9,1,8,0
-Crawford,06 Capaldo,U.S. Senate,,R,Pat Roberts,67,9,58,0
-Crawford,07 Cherokee,U.S. Senate,,R,Pat Roberts,95,7,82,6
-Crawford,08 Cherokee-Sheridan,U.S. Senate,,R,Pat Roberts,64,6,57,1
-Crawford,09 Chicopee,U.S. Senate,,R,Pat Roberts,124,20,102,2
-Crawford,10 Crawford,U.S. Senate,,R,Pat Roberts,117,11,103,3
-Crawford,11 Crowe,U.S. Senate,,R,Pat Roberts,34,1,33,0
-Crawford,12 Franklin,U.S. Senate,,R,Pat Roberts,61,9,51,1
-Crawford,13 Franklin,U.S. Senate,,R,Pat Roberts,2,1,1,0
-Crawford,14 Frontenac W1,U.S. Senate,,R,Pat Roberts,115,24,88,3
-Crawford,15 Frontenac W2,U.S. Senate,,R,Pat Roberts,175,31,137,7
-Crawford,16 Frontenac W3,U.S. Senate,,R,Pat Roberts,64,6,56,2
-Crawford,17 Frontenac W4,U.S. Senate,,R,Pat Roberts,53,7,44,2
-Crawford,18 Girard W1,U.S. Senate,,R,Pat Roberts,35,2,33,0
-Crawford,19 Girard W2,U.S. Senate,,R,Pat Roberts,139,28,109,2
-Crawford,20 Girard W3,U.S. Senate,,R,Pat Roberts,70,11,57,2
-Crawford,21 Girard W4,U.S. Senate,,R,Pat Roberts,127,25,99,3
-Crawford,22 Grant,U.S. Senate,,R,Pat Roberts,64,3,61,0
-Crawford,23 Hepler,U.S. Senate,,R,Pat Roberts,17,2,14,1
-Crawford,24 Lincoln,U.S. Senate,,R,Pat Roberts,68,9,59,0
-Crawford,25 Lincoln,U.S. Senate,,R,Pat Roberts,4,0,4,0
-Crawford,26 Lincoln-Arcadia,U.S. Senate,,R,Pat Roberts,12,2,9,1
-Crawford,27 Lone Star,U.S. Senate,,R,Pat Roberts,229,28,197,4
-Crawford,28 McCune,U.S. Senate,,R,Pat Roberts,48,3,44,1
-Crawford,29 Mulberry W1,U.S. Senate,,R,Pat Roberts,21,4,17,0
-Crawford,30 Mulberry W2,U.S. Senate,,R,Pat Roberts,25,2,23,0
-Crawford,31 North Arma,U.S. Senate,,R,Pat Roberts,120,17,102,1
-Crawford,32 Opolis,U.S. Senate,,R,Pat Roberts,77,10,66,1
-Crawford,33 Osage-McCune,U.S. Senate,,R,Pat Roberts,115,9,106,0
-Crawford,34 Parkview,U.S. Senate,,R,Pat Roberts,25,2,21,2
-Crawford,35 Parkview,U.S. Senate,,R,Pat Roberts,43,5,36,2
-Crawford,36 Pittsburg W1P1,U.S. Senate,,R,Pat Roberts,94,14,77,3
-Crawford,37 Pittsburg W1P2,U.S. Senate,,R,Pat Roberts,175,25,147,3
-Crawford,38 Pittsburg W1P3,U.S. Senate,,R,Pat Roberts,430,75,348,7
-Crawford,39 Pittsburg W2P1,U.S. Senate,,R,Pat Roberts,62,5,56,1
-Crawford,40 Pittsburg W2P2,U.S. Senate,,R,Pat Roberts,92,11,80,1
-Crawford,41 Pittsburg W2P3,U.S. Senate,,R,Pat Roberts,88,14,72,2
-Crawford,42 Pittsburg W2P4,U.S. Senate,,R,Pat Roberts,103,13,88,2
-Crawford,43 Pittsburg W2P5,U.S. Senate,,R,Pat Roberts,152,20,126,6
-Crawford,44 Pittsburg W3P1,U.S. Senate,,R,Pat Roberts,93,11,76,6
-Crawford,45 Pittsburg W3P2,U.S. Senate,,R,Pat Roberts,107,21,83,3
-Crawford,46 Pittsburg W4P1,U.S. Senate,,R,Pat Roberts,34,8,25,1
-Crawford,47 Pittsburg W4P2,U.S. Senate,,R,Pat Roberts,50,7,33,10
-Crawford,48 Pittsburg W4P3,U.S. Senate,,R,Pat Roberts,140,18,117,5
-Crawford,49 Pittsburg W4P4,U.S. Senate,,R,Pat Roberts,67,10,52,5
-Crawford,50 Pittsburg W4P5,U.S. Senate,,R,Pat Roberts,239,44,190,5
-Crawford,51 Pittsburg W4P6,U.S. Senate,,R,Pat Roberts,50,4,46,0
-Crawford,52 Raymond,U.S. Senate,,R,Pat Roberts,147,18,125,4
-Crawford,53 Sheridan-Cherokee,U.S. Senate,,R,Pat Roberts,16,2,14,0
-Crawford,54 Sheridan,U.S. Senate,,R,Pat Roberts,19,1,18,0
-Crawford,55 Sherman,U.S. Senate,,R,Pat Roberts,123,6,117,0
-Crawford,56 Smelter,U.S. Senate,,R,Pat Roberts,141,7,132,2
-Crawford,57 South Arma,U.S. Senate,,R,Pat Roberts,125,18,105,2
-Crawford,58 Walnut,U.S. Senate,,R,Pat Roberts,23,3,20,0
-Crawford,59 Walnut twp,U.S. Senate,,R,Pat Roberts,0,0,0,
-Crawford,60 Walnut twp,U.S. Senate,,R,Pat Roberts,10,0,9,1
-Crawford,61 Walnut-Hepler,U.S. Senate,,R,Pat Roberts,0,0,0,
-Crawford,62 Walnut-Hepler,U.S. Senate,,R,Pat Roberts,10,1,9,0
-Crawford,01 Arcadia,U.S. Senate,,L,Randall Batson,12,1,11,0
-Crawford,02 Baker,U.S. Senate,,L,Randall Batson,28,4,24,0
-Crawford,03 Beulah,U.S. Senate,,L,Randall Batson,6,0,6,0
-Crawford,04 Brazilton,U.S. Senate,,L,Randall Batson,3,0,3,0
-Crawford,05 Capaldo,U.S. Senate,,L,Randall Batson,1,0,1,0
-Crawford,06 Capaldo,U.S. Senate,,L,Randall Batson,15,5,10,0
-Crawford,07 Cherokee,U.S. Senate,,L,Randall Batson,25,1,24,0
-Crawford,08 Cherokee-Sheridan,U.S. Senate,,L,Randall Batson,9,0,9,0
-Crawford,09 Chicopee,U.S. Senate,,L,Randall Batson,17,1,16,0
-Crawford,10 Crawford,U.S. Senate,,L,Randall Batson,15,0,15,0
-Crawford,11 Crowe,U.S. Senate,,L,Randall Batson,8,4,3,1
-Crawford,12 Franklin,U.S. Senate,,L,Randall Batson,13,0,12,1
-Crawford,13 Franklin,U.S. Senate,,L,Randall Batson,0,0,0,
-Crawford,14 Frontenac W1,U.S. Senate,,L,Randall Batson,26,4,20,2
-Crawford,15 Frontenac W2,U.S. Senate,,L,Randall Batson,33,9,24,0
-Crawford,16 Frontenac W3,U.S. Senate,,L,Randall Batson,14,1,13,0
-Crawford,17 Frontenac W4,U.S. Senate,,L,Randall Batson,9,3,5,1
-Crawford,18 Girard W1,U.S. Senate,,L,Randall Batson,10,2,8,0
-Crawford,19 Girard W2,U.S. Senate,,L,Randall Batson,22,1,21,0
-Crawford,20 Girard W3,U.S. Senate,,L,Randall Batson,16,3,13,0
-Crawford,21 Girard W4,U.S. Senate,,L,Randall Batson,28,6,21,1
-Crawford,22 Grant,U.S. Senate,,L,Randall Batson,8,2,6,0
-Crawford,23 Hepler,U.S. Senate,,L,Randall Batson,3,0,2,1
-Crawford,24 Lincoln,U.S. Senate,,L,Randall Batson,12,3,9,0
-Crawford,25 Lincoln,U.S. Senate,,L,Randall Batson,0,0,0,
-Crawford,26 Lincoln-Arcadia,U.S. Senate,,L,Randall Batson,2,0,2,0
-Crawford,27 Lone Star,U.S. Senate,,L,Randall Batson,33,2,31,0
-Crawford,28 McCune,U.S. Senate,,L,Randall Batson,16,1,15,0
-Crawford,29 Mulberry W1,U.S. Senate,,L,Randall Batson,6,0,6,0
-Crawford,30 Mulberry W2,U.S. Senate,,L,Randall Batson,8,2,6,0
-Crawford,31 North Arma,U.S. Senate,,L,Randall Batson,17,2,15,0
-Crawford,32 Opolis,U.S. Senate,,L,Randall Batson,5,1,4,0
-Crawford,33 Osage-McCune,U.S. Senate,,L,Randall Batson,10,1,9,0
-Crawford,34 Parkview,U.S. Senate,,L,Randall Batson,9,2,6,1
-Crawford,35 Parkview,U.S. Senate,,L,Randall Batson,2,0,2,0
-Crawford,36 Pittsburg W1P1,U.S. Senate,,L,Randall Batson,9,1,5,3
-Crawford,37 Pittsburg W1P2,U.S. Senate,,L,Randall Batson,22,4,14,4
-Crawford,38 Pittsburg W1P3,U.S. Senate,,L,Randall Batson,38,11,26,1
-Crawford,39 Pittsburg W2P1,U.S. Senate,,L,Randall Batson,16,3,12,1
-Crawford,40 Pittsburg W2P2,U.S. Senate,,L,Randall Batson,9,2,5,2
-Crawford,41 Pittsburg W2P3,U.S. Senate,,L,Randall Batson,14,2,11,1
-Crawford,42 Pittsburg W2P4,U.S. Senate,,L,Randall Batson,6,3,3,0
-Crawford,43 Pittsburg W2P5,U.S. Senate,,L,Randall Batson,14,2,10,2
-Crawford,44 Pittsburg W3P1,U.S. Senate,,L,Randall Batson,19,2,17,0
-Crawford,45 Pittsburg W3P2,U.S. Senate,,L,Randall Batson,17,2,15,0
-Crawford,46 Pittsburg W4P1,U.S. Senate,,L,Randall Batson,7,0,6,1
-Crawford,47 Pittsburg W4P2,U.S. Senate,,L,Randall Batson,17,3,14,0
-Crawford,48 Pittsburg W4P3,U.S. Senate,,L,Randall Batson,35,8,25,2
-Crawford,49 Pittsburg W4P4,U.S. Senate,,L,Randall Batson,11,2,8,1
-Crawford,50 Pittsburg W4P5,U.S. Senate,,L,Randall Batson,24,2,22,0
-Crawford,51 Pittsburg W4P6,U.S. Senate,,L,Randall Batson,6,2,4,0
-Crawford,52 Raymond,U.S. Senate,,L,Randall Batson,18,0,18,0
-Crawford,53 Sheridan-Cherokee,U.S. Senate,,L,Randall Batson,8,0,7,1
-Crawford,54 Sheridan,U.S. Senate,,L,Randall Batson,2,0,2,0
-Crawford,55 Sherman,U.S. Senate,,L,Randall Batson,18,0,18,0
-Crawford,56 Smelter,U.S. Senate,,L,Randall Batson,11,4,7,0
-Crawford,57 South Arma,U.S. Senate,,L,Randall Batson,18,4,14,0
-Crawford,58 Walnut,U.S. Senate,,L,Randall Batson,6,1,5,0
-Crawford,59 Walnut twp,U.S. Senate,,L,Randall Batson,1,0,1,0
-Crawford,60 Walnut twp,U.S. Senate,,L,Randall Batson,1,0,1,0
-Crawford,61 Walnut-Hepler,U.S. Senate,,L,Randall Batson,1,0,1,0
-Crawford,62 Walnut-Hepler,U.S. Senate,,L,Randall Batson,1,0,1,0
-Crawford,01 Arcadia,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,02 Baker,U.S. Senate,,,Write-ins,1,0,0,1
-Crawford,07 Cherokee,U.S. Senate,,,Write-ins,1,1,0,0
-Crawford,09 Chicopee,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,14 Frontenac W1,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,15 Frontenac W2,U.S. Senate,,,Write-ins,3,1,2,0
-Crawford,16 Frontenac W3,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,17 Frontenac W4,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,28 McCune,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,31 North Arma,U.S. Senate,,,Write-ins,2,1,1,0
-Crawford,32 Opolis,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,37 Pittsburg W1P2,U.S. Senate,,,Write-ins,2,0,2,0
-Crawford,38 Pittsburg W1P3,U.S. Senate,,,Write-ins,3,1,2,0
-Crawford,42 Pittsburg W2P4,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,44 Pittsburg W3P1,U.S. Senate,,,Write-ins,2,0,1,1
-Crawford,46 Pittsburg W4P1,U.S. Senate,,,Write-ins,2,1,1,0
-Crawford,47 Pittsburg W4P2,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,48 Pittsburg W4P3,U.S. Senate,,,Write-ins,1,0,1,0
-Crawford,56 Smelter,U.S. Senate,,,Write-ins,2,0,2,0
+county,precinct,office,district,party,candidate,votes,vtd
+CRAWFORD,Lincoln - Arcadia,Governor / Lt. Governor,,Democratic,"Davis, Paul",19,000A41
+CRAWFORD,Lincoln - Arcadia,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000A41
+CRAWFORD,Lincoln - Arcadia,Governor / Lt. Governor,,Republican,"Brownback, Sam",11,000A41
+CRAWFORD,Osage - McCune,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000A51
+CRAWFORD,Osage - McCune,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000A51
+CRAWFORD,Osage - McCune,Governor / Lt. Governor,,Republican,"Brownback, Sam",116,000A51
+CRAWFORD,Cherokee - Sheridan,Governor / Lt. Governor,,Democratic,"Davis, Paul",57,000A62
+CRAWFORD,Cherokee - Sheridan,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000A62
+CRAWFORD,Cherokee - Sheridan,Governor / Lt. Governor,,Republican,"Brownback, Sam",60,000A62
+CRAWFORD,Walnut - Helper,Governor / Lt. Governor,,Democratic,"Davis, Paul",10,000A82
+CRAWFORD,Walnut - Helper,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000A82
+CRAWFORD,Walnut - Helper,Governor / Lt. Governor,,Republican,"Brownback, Sam",8,000A82
+CRAWFORD,Walnut Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000A83
+CRAWFORD,Walnut Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000A83
+CRAWFORD,Walnut Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",9,000A83
+CRAWFORD,Arcadia,Governor / Lt. Governor,,Democratic,"Davis, Paul",53,000010
+CRAWFORD,Arcadia,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000010
+CRAWFORD,Arcadia,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,000010
+CRAWFORD,Baker,Governor / Lt. Governor,,Democratic,"Davis, Paul",192,000020
+CRAWFORD,Baker,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000020
+CRAWFORD,Baker,Governor / Lt. Governor,,Republican,"Brownback, Sam",197,000020
+CRAWFORD,Beulah,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000030
+CRAWFORD,Beulah,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000030
+CRAWFORD,Beulah,Governor / Lt. Governor,,Republican,"Brownback, Sam",45,000030
+CRAWFORD,Sheridan - Cherokee City,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000033
+CRAWFORD,Sheridan - Cherokee City,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000033
+CRAWFORD,Sheridan - Cherokee City,Governor / Lt. Governor,,Republican,"Brownback, Sam",15,000033
+CRAWFORD,Brazilton,Governor / Lt. Governor,,Democratic,"Davis, Paul",12,000040
+CRAWFORD,Brazilton,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000040
+CRAWFORD,Brazilton,Governor / Lt. Governor,,Republican,"Brownback, Sam",15,000040
+CRAWFORD,Capaldo,Governor / Lt. Governor,,Democratic,"Davis, Paul",98,000050
+CRAWFORD,Capaldo,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000050
+CRAWFORD,Capaldo,Governor / Lt. Governor,,Republican,"Brownback, Sam",66,000050
+CRAWFORD,Cherokee,Governor / Lt. Governor,,Democratic,"Davis, Paul",89,000060
+CRAWFORD,Cherokee,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000060
+CRAWFORD,Cherokee,Governor / Lt. Governor,,Republican,"Brownback, Sam",93,000060
+CRAWFORD,Chicopee,Governor / Lt. Governor,,Democratic,"Davis, Paul",125,000070
+CRAWFORD,Chicopee,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000070
+CRAWFORD,Chicopee,Governor / Lt. Governor,,Republican,"Brownback, Sam",111,000070
+CRAWFORD,Crawford,Governor / Lt. Governor,,Democratic,"Davis, Paul",59,000080
+CRAWFORD,Crawford,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000080
+CRAWFORD,Crawford,Governor / Lt. Governor,,Republican,"Brownback, Sam",100,000080
+CRAWFORD,Crowe,Governor / Lt. Governor,,Democratic,"Davis, Paul",42,000090
+CRAWFORD,Crowe,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000090
+CRAWFORD,Crowe,Governor / Lt. Governor,,Republican,"Brownback, Sam",35,000090
+CRAWFORD,Frontenac Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",204,000110
+CRAWFORD,Frontenac Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000110
+CRAWFORD,Frontenac Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",93,000110
+CRAWFORD,Frontenac Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",302,00012A
+CRAWFORD,Frontenac Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,00012A
+CRAWFORD,Frontenac Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",144,00012A
+CRAWFORD,Frontenac Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",116,00013A
+CRAWFORD,Frontenac Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,00013A
+CRAWFORD,Frontenac Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",56,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00013B
+CRAWFORD,Frontenac Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",96,00014A
+CRAWFORD,Frontenac Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,00014A
+CRAWFORD,Frontenac Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,00014A
+CRAWFORD,Girard Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",42,000150
+CRAWFORD,Girard Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000150
+CRAWFORD,Girard Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",34,000150
+CRAWFORD,Girard Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",133,00016A
+CRAWFORD,Girard Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,00016A
+CRAWFORD,Girard Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",125,00016A
+CRAWFORD,Girard Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",108,00017A
+CRAWFORD,Girard Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,00017A
+CRAWFORD,Girard Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",55,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00017B
+CRAWFORD,Girard Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",116,000180
+CRAWFORD,Girard Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000180
+CRAWFORD,Girard Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",118,000180
+CRAWFORD,Grant,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000190
+CRAWFORD,Grant,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000190
+CRAWFORD,Grant,Governor / Lt. Governor,,Republican,"Brownback, Sam",65,000190
+CRAWFORD,Hepler,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000200
+CRAWFORD,Hepler,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000200
+CRAWFORD,Hepler,Governor / Lt. Governor,,Republican,"Brownback, Sam",10,000200
+CRAWFORD,Lincoln,Governor / Lt. Governor,,Democratic,"Davis, Paul",57,000210
+CRAWFORD,Lincoln,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000210
+CRAWFORD,Lincoln,Governor / Lt. Governor,,Republican,"Brownback, Sam",67,000210
+CRAWFORD,Lone Star,Governor / Lt. Governor,,Democratic,"Davis, Paul",233,00022A
+CRAWFORD,Lone Star,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,00022A
+CRAWFORD,Lone Star,Governor / Lt. Governor,,Republican,"Brownback, Sam",202,00022A
+CRAWFORD,McCune,Governor / Lt. Governor,,Democratic,"Davis, Paul",61,000230
+CRAWFORD,McCune,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000230
+CRAWFORD,McCune,Governor / Lt. Governor,,Republican,"Brownback, Sam",50,000230
+CRAWFORD,Mulberry Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",26,000240
+CRAWFORD,Mulberry Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000240
+CRAWFORD,Mulberry Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000240
+CRAWFORD,Mulberry Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",19,000250
+CRAWFORD,Mulberry Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000250
+CRAWFORD,Mulberry Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",26,000250
+CRAWFORD,North Arma,Governor / Lt. Governor,,Democratic,"Davis, Paul",122,000260
+CRAWFORD,North Arma,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000260
+CRAWFORD,North Arma,Governor / Lt. Governor,,Republican,"Brownback, Sam",120,000260
+CRAWFORD,Opolis,Governor / Lt. Governor,,Democratic,"Davis, Paul",69,000270
+CRAWFORD,Opolis,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000270
+CRAWFORD,Opolis,Governor / Lt. Governor,,Republican,"Brownback, Sam",65,000270
+CRAWFORD,Parkview,Governor / Lt. Governor,,Democratic,"Davis, Paul",105,000280
+CRAWFORD,Parkview,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000280
+CRAWFORD,Parkview,Governor / Lt. Governor,,Republican,"Brownback, Sam",60,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",84,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",90,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",211,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",147,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",450,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",25,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",393,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",90,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",55,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",128,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",85,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",160,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",84,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",114,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",97,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",143,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",146,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",110,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",85,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",131,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",100,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",27,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",103,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",48,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",192,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",121,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",87,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",53,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",253,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",227,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Governor / Lt. Governor,,Democratic,"Davis, Paul",29,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Governor / Lt. Governor,,Republican,"Brownback, Sam",49,00044A
+CRAWFORD,Raymond,Governor / Lt. Governor,,Democratic,"Davis, Paul",142,000450
+CRAWFORD,Raymond,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000450
+CRAWFORD,Raymond,Governor / Lt. Governor,,Republican,"Brownback, Sam",127,000450
+CRAWFORD,Sheridan,Governor / Lt. Governor,,Democratic,"Davis, Paul",19,000460
+CRAWFORD,Sheridan,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000460
+CRAWFORD,Sheridan,Governor / Lt. Governor,,Republican,"Brownback, Sam",21,000460
+CRAWFORD,Sherman,Governor / Lt. Governor,,Democratic,"Davis, Paul",105,000470
+CRAWFORD,Sherman,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000470
+CRAWFORD,Sherman,Governor / Lt. Governor,,Republican,"Brownback, Sam",114,000470
+CRAWFORD,Smelter,Governor / Lt. Governor,,Democratic,"Davis, Paul",114,000480
+CRAWFORD,Smelter,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000480
+CRAWFORD,Smelter,Governor / Lt. Governor,,Republican,"Brownback, Sam",130,000480
+CRAWFORD,South Arma,Governor / Lt. Governor,,Democratic,"Davis, Paul",159,000490
+CRAWFORD,South Arma,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000490
+CRAWFORD,South Arma,Governor / Lt. Governor,,Republican,"Brownback, Sam",103,000490
+CRAWFORD,Walnut,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000500
+CRAWFORD,Walnut,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000500
+CRAWFORD,Walnut,Governor / Lt. Governor,,Republican,"Brownback, Sam",22,000500
+CRAWFORD,Franklin,Governor / Lt. Governor,,Democratic,"Davis, Paul",77,700100
+CRAWFORD,Franklin,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,700100
+CRAWFORD,Franklin,Governor / Lt. Governor,,Republican,"Brownback, Sam",56,700100
+CRAWFORD,Baker Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+CRAWFORD,Baker Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+CRAWFORD,Baker Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+CRAWFORD,Parkview Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+CRAWFORD,Parkview Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+CRAWFORD,Parkview Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900040
+CRAWFORD,Lincoln - Arcadia,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",25,000A41
+CRAWFORD,Osage - McCune,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",103,000A51
+CRAWFORD,Cherokee - Sheridan,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",85,000A62
+CRAWFORD,Walnut - Helper,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",18,000A82
+CRAWFORD,Walnut Township,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",17,000A83
+CRAWFORD,Arcadia,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",85,000010
+CRAWFORD,Baker,Kansas House of Representatives,3,Democratic,"Menghini, Julie",179,000020
+CRAWFORD,Baker,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",226,000020
+CRAWFORD,Beulah,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",67,000030
+CRAWFORD,Sheridan - Cherokee City,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",34,000033
+CRAWFORD,Brazilton,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",20,000040
+CRAWFORD,Capaldo,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",137,000050
+CRAWFORD,Cherokee,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",134,000060
+CRAWFORD,Chicopee,Kansas House of Representatives,3,Democratic,"Menghini, Julie",91,000070
+CRAWFORD,Chicopee,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",143,000070
+CRAWFORD,Crawford,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",108,000080
+CRAWFORD,Crowe,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",61,000090
+CRAWFORD,Frontenac Ward 1,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",260,000110
+CRAWFORD,Frontenac Ward 2,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",401,00012A
+CRAWFORD,Frontenac Ward 3,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",161,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",0,00013B
+CRAWFORD,Frontenac Ward 4,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",123,00014A
+CRAWFORD,Girard Ward 1,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",62,000150
+CRAWFORD,Girard Ward 2,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",196,00016A
+CRAWFORD,Girard Ward 3,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",143,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",0,00017B
+CRAWFORD,Girard Ward 4,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",184,000180
+CRAWFORD,Grant,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",80,000190
+CRAWFORD,Hepler,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",26,000200
+CRAWFORD,Lincoln,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",95,000210
+CRAWFORD,Lone Star,Kansas House of Representatives,3,Democratic,"Menghini, Julie",200,00022A
+CRAWFORD,Lone Star,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",247,00022A
+CRAWFORD,McCune,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",91,000230
+CRAWFORD,Mulberry Ward 1,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",43,000240
+CRAWFORD,Mulberry Ward 2,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",29,000250
+CRAWFORD,North Arma,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",176,000260
+CRAWFORD,Opolis,Kansas House of Representatives,3,Democratic,"Menghini, Julie",55,000270
+CRAWFORD,Opolis,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",79,000270
+CRAWFORD,Parkview,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",145,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Kansas House of Representatives,3,Democratic,"Menghini, Julie",89,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",91,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Kansas House of Representatives,3,Democratic,"Menghini, Julie",198,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",170,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Kansas House of Representatives,3,Democratic,"Menghini, Julie",423,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",447,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Kansas House of Representatives,3,Democratic,"Menghini, Julie",83,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",69,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Kansas House of Representatives,3,Democratic,"Menghini, Julie",122,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",97,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Kansas House of Representatives,3,Democratic,"Menghini, Julie",145,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",107,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Kansas House of Representatives,3,Democratic,"Menghini, Julie",104,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",111,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Kansas House of Representatives,3,Democratic,"Menghini, Julie",144,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",147,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Kansas House of Representatives,3,Democratic,"Menghini, Julie",104,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",95,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Kansas House of Representatives,3,Democratic,"Menghini, Julie",118,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",119,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Kansas House of Representatives,3,Democratic,"Menghini, Julie",43,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",39,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Kansas House of Representatives,3,Democratic,"Menghini, Julie",98,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",58,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Kansas House of Representatives,3,Democratic,"Menghini, Julie",163,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",158,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Kansas House of Representatives,3,Democratic,"Menghini, Julie",81,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",65,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Kansas House of Representatives,3,Democratic,"Menghini, Julie",233,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",260,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Kansas House of Representatives,3,Democratic,"Menghini, Julie",27,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",51,00044A
+CRAWFORD,Raymond,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",203,000450
+CRAWFORD,Sheridan,Kansas House of Representatives,3,Democratic,"Menghini, Julie",19,000460
+CRAWFORD,Sheridan,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",26,000460
+CRAWFORD,Sherman,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",158,000470
+CRAWFORD,Smelter,Kansas House of Representatives,3,Democratic,"Menghini, Julie",111,000480
+CRAWFORD,Smelter,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",139,000480
+CRAWFORD,South Arma,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",220,000490
+CRAWFORD,Walnut,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",37,000500
+CRAWFORD,Franklin,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",105,700100
+CRAWFORD,Baker Enclave,Kansas House of Representatives,3,Democratic,"Menghini, Julie",0,900010
+CRAWFORD,Baker Enclave,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",0,900010
+CRAWFORD,Parkview Enclave,Kansas House of Representatives,2,Democratic,"Lusker, Adam J. Sr.",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Kansas House of Representatives,3,Democratic,"Menghini, Julie",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Kansas House of Representatives,3,Democratic,"Menghini, Julie",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Kansas House of Representatives,3,Republican,"Smith, Charles (Chuck)",0,900040
+CRAWFORD,Lincoln - Arcadia,United States House of Representatives,2,Democratic,"Wakefield, Margie",14,000A41
+CRAWFORD,Lincoln - Arcadia,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000A41
+CRAWFORD,Lincoln - Arcadia,United States House of Representatives,2,Republican,"Jenkins, Lynn",14,000A41
+CRAWFORD,Osage - McCune,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000A51
+CRAWFORD,Osage - McCune,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000A51
+CRAWFORD,Osage - McCune,United States House of Representatives,2,Republican,"Jenkins, Lynn",132,000A51
+CRAWFORD,Cherokee - Sheridan,United States House of Representatives,2,Democratic,"Wakefield, Margie",36,000A62
+CRAWFORD,Cherokee - Sheridan,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000A62
+CRAWFORD,Cherokee - Sheridan,United States House of Representatives,2,Republican,"Jenkins, Lynn",81,000A62
+CRAWFORD,Walnut - Helper,United States House of Representatives,2,Democratic,"Wakefield, Margie",9,000A82
+CRAWFORD,Walnut - Helper,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,000A82
+CRAWFORD,Walnut - Helper,United States House of Representatives,2,Republican,"Jenkins, Lynn",10,000A82
+CRAWFORD,Walnut Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",6,000A83
+CRAWFORD,Walnut Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,000A83
+CRAWFORD,Walnut Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",10,000A83
+CRAWFORD,Arcadia,United States House of Representatives,2,Democratic,"Wakefield, Margie",41,000010
+CRAWFORD,Arcadia,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000010
+CRAWFORD,Arcadia,United States House of Representatives,2,Republican,"Jenkins, Lynn",49,000010
+CRAWFORD,Baker,United States House of Representatives,2,Democratic,"Wakefield, Margie",144,000020
+CRAWFORD,Baker,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",16,000020
+CRAWFORD,Baker,United States House of Representatives,2,Republican,"Jenkins, Lynn",244,000020
+CRAWFORD,Beulah,United States House of Representatives,2,Democratic,"Wakefield, Margie",28,000030
+CRAWFORD,Beulah,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000030
+CRAWFORD,Beulah,United States House of Representatives,2,Republican,"Jenkins, Lynn",55,000030
+CRAWFORD,Sheridan - Cherokee City,United States House of Representatives,2,Democratic,"Wakefield, Margie",18,000033
+CRAWFORD,Sheridan - Cherokee City,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000033
+CRAWFORD,Sheridan - Cherokee City,United States House of Representatives,2,Republican,"Jenkins, Lynn",19,000033
+CRAWFORD,Brazilton,United States House of Representatives,2,Democratic,"Wakefield, Margie",7,000040
+CRAWFORD,Brazilton,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,000040
+CRAWFORD,Brazilton,United States House of Representatives,2,Republican,"Jenkins, Lynn",21,000040
+CRAWFORD,Capaldo,United States House of Representatives,2,Democratic,"Wakefield, Margie",75,000050
+CRAWFORD,Capaldo,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000050
+CRAWFORD,Capaldo,United States House of Representatives,2,Republican,"Jenkins, Lynn",89,000050
+CRAWFORD,Cherokee,United States House of Representatives,2,Democratic,"Wakefield, Margie",72,000060
+CRAWFORD,Cherokee,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",23,000060
+CRAWFORD,Cherokee,United States House of Representatives,2,Republican,"Jenkins, Lynn",96,000060
+CRAWFORD,Chicopee,United States House of Representatives,2,Democratic,"Wakefield, Margie",84,000070
+CRAWFORD,Chicopee,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000070
+CRAWFORD,Chicopee,United States House of Representatives,2,Republican,"Jenkins, Lynn",143,000070
+CRAWFORD,Crawford,United States House of Representatives,2,Democratic,"Wakefield, Margie",37,000080
+CRAWFORD,Crawford,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000080
+CRAWFORD,Crawford,United States House of Representatives,2,Republican,"Jenkins, Lynn",125,000080
+CRAWFORD,Crowe,United States House of Representatives,2,Democratic,"Wakefield, Margie",32,000090
+CRAWFORD,Crowe,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000090
+CRAWFORD,Crowe,United States House of Representatives,2,Republican,"Jenkins, Lynn",40,000090
+CRAWFORD,Frontenac Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",166,000110
+CRAWFORD,Frontenac Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000110
+CRAWFORD,Frontenac Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",123,000110
+CRAWFORD,Frontenac Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",245,00012A
+CRAWFORD,Frontenac Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",27,00012A
+CRAWFORD,Frontenac Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",179,00012A
+CRAWFORD,Frontenac Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",91,00013A
+CRAWFORD,Frontenac Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,00013A
+CRAWFORD,Frontenac Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",78,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00013B
+CRAWFORD,Frontenac Ward 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",76,00014A
+CRAWFORD,Frontenac Ward 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,00014A
+CRAWFORD,Frontenac Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",59,00014A
+CRAWFORD,Girard Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",31,000150
+CRAWFORD,Girard Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000150
+CRAWFORD,Girard Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",43,000150
+CRAWFORD,Girard Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",102,00016A
+CRAWFORD,Girard Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,00016A
+CRAWFORD,Girard Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",155,00016A
+CRAWFORD,Girard Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",82,00017A
+CRAWFORD,Girard Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,00017A
+CRAWFORD,Girard Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",76,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00017B
+CRAWFORD,Girard Ward 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",84,000180
+CRAWFORD,Girard Ward 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",17,000180
+CRAWFORD,Girard Ward 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",143,000180
+CRAWFORD,Grant,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000190
+CRAWFORD,Grant,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000190
+CRAWFORD,Grant,United States House of Representatives,2,Republican,"Jenkins, Lynn",87,000190
+CRAWFORD,Hepler,United States House of Representatives,2,Democratic,"Wakefield, Margie",7,000200
+CRAWFORD,Hepler,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000200
+CRAWFORD,Hepler,United States House of Representatives,2,Republican,"Jenkins, Lynn",22,000200
+CRAWFORD,Lincoln,United States House of Representatives,2,Democratic,"Wakefield, Margie",46,000210
+CRAWFORD,Lincoln,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000210
+CRAWFORD,Lincoln,United States House of Representatives,2,Republican,"Jenkins, Lynn",77,000210
+CRAWFORD,Lone Star,United States House of Representatives,2,Democratic,"Wakefield, Margie",177,00022A
+CRAWFORD,Lone Star,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",28,00022A
+CRAWFORD,Lone Star,United States House of Representatives,2,Republican,"Jenkins, Lynn",241,00022A
+CRAWFORD,McCune,United States House of Representatives,2,Democratic,"Wakefield, Margie",47,000230
+CRAWFORD,McCune,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,000230
+CRAWFORD,McCune,United States House of Representatives,2,Republican,"Jenkins, Lynn",60,000230
+CRAWFORD,Mulberry Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",13,000240
+CRAWFORD,Mulberry Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000240
+CRAWFORD,Mulberry Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",33,000240
+CRAWFORD,Mulberry Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",16,000250
+CRAWFORD,Mulberry Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000250
+CRAWFORD,Mulberry Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",25,000250
+CRAWFORD,North Arma,United States House of Representatives,2,Democratic,"Wakefield, Margie",101,000260
+CRAWFORD,North Arma,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000260
+CRAWFORD,North Arma,United States House of Representatives,2,Republican,"Jenkins, Lynn",134,000260
+CRAWFORD,Opolis,United States House of Representatives,2,Democratic,"Wakefield, Margie",48,000270
+CRAWFORD,Opolis,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000270
+CRAWFORD,Opolis,United States House of Representatives,2,Republican,"Jenkins, Lynn",76,000270
+CRAWFORD,Parkview,United States House of Representatives,2,Democratic,"Wakefield, Margie",92,000280
+CRAWFORD,Parkview,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000280
+CRAWFORD,Parkview,United States House of Representatives,2,Republican,"Jenkins, Lynn",70,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",68,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",105,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",166,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",185,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",358,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",29,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",472,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",66,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",73,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",107,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",100,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",139,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",103,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",91,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",2,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",122,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States House of Representatives,2,Democratic,"Wakefield, Margie",108,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",170,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",96,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",97,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",106,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",122,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",45,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",32,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",82,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",66,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",146,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",26,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",151,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",71,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",69,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States House of Representatives,2,Democratic,"Wakefield, Margie",185,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",24,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States House of Representatives,2,Republican,"Jenkins, Lynn",278,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States House of Representatives,2,Democratic,"Wakefield, Margie",21,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States House of Representatives,2,Republican,"Jenkins, Lynn",52,00044A
+CRAWFORD,Raymond,United States House of Representatives,2,Democratic,"Wakefield, Margie",93,000450
+CRAWFORD,Raymond,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000450
+CRAWFORD,Raymond,United States House of Representatives,2,Republican,"Jenkins, Lynn",171,000450
+CRAWFORD,Sheridan,United States House of Representatives,2,Democratic,"Wakefield, Margie",19,000460
+CRAWFORD,Sheridan,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000460
+CRAWFORD,Sheridan,United States House of Representatives,2,Republican,"Jenkins, Lynn",22,000460
+CRAWFORD,Sherman,United States House of Representatives,2,Democratic,"Wakefield, Margie",74,000470
+CRAWFORD,Sherman,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",15,000470
+CRAWFORD,Sherman,United States House of Representatives,2,Republican,"Jenkins, Lynn",138,000470
+CRAWFORD,Smelter,United States House of Representatives,2,Democratic,"Wakefield, Margie",87,000480
+CRAWFORD,Smelter,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000480
+CRAWFORD,Smelter,United States House of Representatives,2,Republican,"Jenkins, Lynn",152,000480
+CRAWFORD,South Arma,United States House of Representatives,2,Democratic,"Wakefield, Margie",120,000490
+CRAWFORD,South Arma,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000490
+CRAWFORD,South Arma,United States House of Representatives,2,Republican,"Jenkins, Lynn",141,000490
+CRAWFORD,Walnut,United States House of Representatives,2,Democratic,"Wakefield, Margie",8,000500
+CRAWFORD,Walnut,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000500
+CRAWFORD,Walnut,United States House of Representatives,2,Republican,"Jenkins, Lynn",33,000500
+CRAWFORD,Franklin,United States House of Representatives,2,Democratic,"Wakefield, Margie",64,700100
+CRAWFORD,Franklin,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,700100
+CRAWFORD,Franklin,United States House of Representatives,2,Republican,"Jenkins, Lynn",65,700100
+CRAWFORD,Baker Enclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900010
+CRAWFORD,Baker Enclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900010
+CRAWFORD,Baker Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+CRAWFORD,Parkview Enclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900020
+CRAWFORD,Parkview Enclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900020
+CRAWFORD,Parkview Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900040
+CRAWFORD,Lincoln - Arcadia,Attorney General,,Democratic,"Kotich, A.J.",17,000A41
+CRAWFORD,Lincoln - Arcadia,Attorney General,,Republican,"Schmidt, Derek",14,000A41
+CRAWFORD,Osage - McCune,Attorney General,,Democratic,"Kotich, A.J.",29,000A51
+CRAWFORD,Osage - McCune,Attorney General,,Republican,"Schmidt, Derek",130,000A51
+CRAWFORD,Cherokee - Sheridan,Attorney General,,Democratic,"Kotich, A.J.",39,000A62
+CRAWFORD,Cherokee - Sheridan,Attorney General,,Republican,"Schmidt, Derek",83,000A62
+CRAWFORD,Walnut - Helper,Attorney General,,Democratic,"Kotich, A.J.",6,000A82
+CRAWFORD,Walnut - Helper,Attorney General,,Republican,"Schmidt, Derek",14,000A82
+CRAWFORD,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",7,000A83
+CRAWFORD,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",11,000A83
+CRAWFORD,Arcadia,Attorney General,,Democratic,"Kotich, A.J.",55,000010
+CRAWFORD,Arcadia,Attorney General,,Republican,"Schmidt, Derek",43,000010
+CRAWFORD,Baker,Attorney General,,Democratic,"Kotich, A.J.",139,000020
+CRAWFORD,Baker,Attorney General,,Republican,"Schmidt, Derek",247,000020
+CRAWFORD,Beulah,Attorney General,,Democratic,"Kotich, A.J.",31,000030
+CRAWFORD,Beulah,Attorney General,,Republican,"Schmidt, Derek",56,000030
+CRAWFORD,Sheridan - Cherokee City,Attorney General,,Democratic,"Kotich, A.J.",22,000033
+CRAWFORD,Sheridan - Cherokee City,Attorney General,,Republican,"Schmidt, Derek",19,000033
+CRAWFORD,Brazilton,Attorney General,,Democratic,"Kotich, A.J.",6,000040
+CRAWFORD,Brazilton,Attorney General,,Republican,"Schmidt, Derek",24,000040
+CRAWFORD,Capaldo,Attorney General,,Democratic,"Kotich, A.J.",68,000050
+CRAWFORD,Capaldo,Attorney General,,Republican,"Schmidt, Derek",99,000050
+CRAWFORD,Cherokee,Attorney General,,Democratic,"Kotich, A.J.",70,000060
+CRAWFORD,Cherokee,Attorney General,,Republican,"Schmidt, Derek",115,000060
+CRAWFORD,Chicopee,Attorney General,,Democratic,"Kotich, A.J.",83,000070
+CRAWFORD,Chicopee,Attorney General,,Republican,"Schmidt, Derek",146,000070
+CRAWFORD,Crawford,Attorney General,,Democratic,"Kotich, A.J.",30,000080
+CRAWFORD,Crawford,Attorney General,,Republican,"Schmidt, Derek",136,000080
+CRAWFORD,Crowe,Attorney General,,Democratic,"Kotich, A.J.",37,000090
+CRAWFORD,Crowe,Attorney General,,Republican,"Schmidt, Derek",43,000090
+CRAWFORD,Frontenac Ward 1,Attorney General,,Democratic,"Kotich, A.J.",164,000110
+CRAWFORD,Frontenac Ward 1,Attorney General,,Republican,"Schmidt, Derek",130,000110
+CRAWFORD,Frontenac Ward 2,Attorney General,,Democratic,"Kotich, A.J.",254,00012A
+CRAWFORD,Frontenac Ward 2,Attorney General,,Republican,"Schmidt, Derek",189,00012A
+CRAWFORD,Frontenac Ward 3,Attorney General,,Democratic,"Kotich, A.J.",93,00013A
+CRAWFORD,Frontenac Ward 3,Attorney General,,Republican,"Schmidt, Derek",81,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,Attorney General,,Democratic,"Kotich, A.J.",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,Attorney General,,Republican,"Schmidt, Derek",0,00013B
+CRAWFORD,Frontenac Ward 4,Attorney General,,Democratic,"Kotich, A.J.",82,00014A
+CRAWFORD,Frontenac Ward 4,Attorney General,,Republican,"Schmidt, Derek",50,00014A
+CRAWFORD,Girard Ward 1,Attorney General,,Democratic,"Kotich, A.J.",31,000150
+CRAWFORD,Girard Ward 1,Attorney General,,Republican,"Schmidt, Derek",50,000150
+CRAWFORD,Girard Ward 2,Attorney General,,Democratic,"Kotich, A.J.",92,00016A
+CRAWFORD,Girard Ward 2,Attorney General,,Republican,"Schmidt, Derek",157,00016A
+CRAWFORD,Girard Ward 3,Attorney General,,Democratic,"Kotich, A.J.",80,00017A
+CRAWFORD,Girard Ward 3,Attorney General,,Republican,"Schmidt, Derek",89,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+CRAWFORD,Girard Ward 4,Attorney General,,Democratic,"Kotich, A.J.",87,000180
+CRAWFORD,Girard Ward 4,Attorney General,,Republican,"Schmidt, Derek",152,000180
+CRAWFORD,Grant,Attorney General,,Democratic,"Kotich, A.J.",34,000190
+CRAWFORD,Grant,Attorney General,,Republican,"Schmidt, Derek",73,000190
+CRAWFORD,Hepler,Attorney General,,Democratic,"Kotich, A.J.",16,000200
+CRAWFORD,Hepler,Attorney General,,Republican,"Schmidt, Derek",17,000200
+CRAWFORD,Lincoln,Attorney General,,Democratic,"Kotich, A.J.",48,000210
+CRAWFORD,Lincoln,Attorney General,,Republican,"Schmidt, Derek",79,000210
+CRAWFORD,Lone Star,Attorney General,,Democratic,"Kotich, A.J.",174,00022A
+CRAWFORD,Lone Star,Attorney General,,Republican,"Schmidt, Derek",263,00022A
+CRAWFORD,McCune,Attorney General,,Democratic,"Kotich, A.J.",50,000230
+CRAWFORD,McCune,Attorney General,,Republican,"Schmidt, Derek",67,000230
+CRAWFORD,Mulberry Ward 1,Attorney General,,Democratic,"Kotich, A.J.",18,000240
+CRAWFORD,Mulberry Ward 1,Attorney General,,Republican,"Schmidt, Derek",32,000240
+CRAWFORD,Mulberry Ward 2,Attorney General,,Democratic,"Kotich, A.J.",15,000250
+CRAWFORD,Mulberry Ward 2,Attorney General,,Republican,"Schmidt, Derek",30,000250
+CRAWFORD,North Arma,Attorney General,,Democratic,"Kotich, A.J.",104,000260
+CRAWFORD,North Arma,Attorney General,,Republican,"Schmidt, Derek",129,000260
+CRAWFORD,Opolis,Attorney General,,Democratic,"Kotich, A.J.",45,000270
+CRAWFORD,Opolis,Attorney General,,Republican,"Schmidt, Derek",89,000270
+CRAWFORD,Parkview,Attorney General,,Democratic,"Kotich, A.J.",90,000280
+CRAWFORD,Parkview,Attorney General,,Republican,"Schmidt, Derek",75,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",68,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",103,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",161,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",188,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",348,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",495,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",71,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",75,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",112,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",104,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",135,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",110,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",89,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",124,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Attorney General,,Democratic,"Kotich, A.J.",95,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Attorney General,,Republican,"Schmidt, Derek",188,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",104,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",96,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",109,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",125,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",48,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",34,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",84,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",63,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",152,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",163,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",72,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",69,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Attorney General,,Democratic,"Kotich, A.J.",188,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Attorney General,,Republican,"Schmidt, Derek",287,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Attorney General,,Democratic,"Kotich, A.J.",22,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Attorney General,,Republican,"Schmidt, Derek",55,00044A
+CRAWFORD,Raymond,Attorney General,,Democratic,"Kotich, A.J.",88,000450
+CRAWFORD,Raymond,Attorney General,,Republican,"Schmidt, Derek",182,000450
+CRAWFORD,Sheridan,Attorney General,,Democratic,"Kotich, A.J.",20,000460
+CRAWFORD,Sheridan,Attorney General,,Republican,"Schmidt, Derek",24,000460
+CRAWFORD,Sherman,Attorney General,,Democratic,"Kotich, A.J.",69,000470
+CRAWFORD,Sherman,Attorney General,,Republican,"Schmidt, Derek",151,000470
+CRAWFORD,Smelter,Attorney General,,Democratic,"Kotich, A.J.",94,000480
+CRAWFORD,Smelter,Attorney General,,Republican,"Schmidt, Derek",156,000480
+CRAWFORD,South Arma,Attorney General,,Democratic,"Kotich, A.J.",132,000490
+CRAWFORD,South Arma,Attorney General,,Republican,"Schmidt, Derek",138,000490
+CRAWFORD,Walnut,Attorney General,,Democratic,"Kotich, A.J.",16,000500
+CRAWFORD,Walnut,Attorney General,,Republican,"Schmidt, Derek",30,000500
+CRAWFORD,Franklin,Attorney General,,Democratic,"Kotich, A.J.",68,700100
+CRAWFORD,Franklin,Attorney General,,Republican,"Schmidt, Derek",69,700100
+CRAWFORD,Baker Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+CRAWFORD,Baker Enclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+CRAWFORD,Parkview Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+CRAWFORD,Parkview Enclave,Attorney General,,Republican,"Schmidt, Derek",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,900040
+CRAWFORD,Lincoln - Arcadia,Commissioner of Insurance,,Democratic,"Anderson, Dennis",22,000A41
+CRAWFORD,Lincoln - Arcadia,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000A41
+CRAWFORD,Osage - McCune,Commissioner of Insurance,,Democratic,"Anderson, Dennis",35,000A51
+CRAWFORD,Osage - McCune,Commissioner of Insurance,,Republican,"Selzer, Ken",126,000A51
+CRAWFORD,Cherokee - Sheridan,Commissioner of Insurance,,Democratic,"Anderson, Dennis",45,000A62
+CRAWFORD,Cherokee - Sheridan,Commissioner of Insurance,,Republican,"Selzer, Ken",75,000A62
+CRAWFORD,Walnut - Helper,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000A82
+CRAWFORD,Walnut - Helper,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000A82
+CRAWFORD,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000A83
+CRAWFORD,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",12,000A83
+CRAWFORD,Arcadia,Commissioner of Insurance,,Democratic,"Anderson, Dennis",57,000010
+CRAWFORD,Arcadia,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000010
+CRAWFORD,Baker,Commissioner of Insurance,,Democratic,"Anderson, Dennis",157,000020
+CRAWFORD,Baker,Commissioner of Insurance,,Republican,"Selzer, Ken",228,000020
+CRAWFORD,Beulah,Commissioner of Insurance,,Democratic,"Anderson, Dennis",30,000030
+CRAWFORD,Beulah,Commissioner of Insurance,,Republican,"Selzer, Ken",55,000030
+CRAWFORD,Sheridan - Cherokee City,Commissioner of Insurance,,Democratic,"Anderson, Dennis",24,000033
+CRAWFORD,Sheridan - Cherokee City,Commissioner of Insurance,,Republican,"Selzer, Ken",17,000033
+CRAWFORD,Brazilton,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000040
+CRAWFORD,Brazilton,Commissioner of Insurance,,Republican,"Selzer, Ken",24,000040
+CRAWFORD,Capaldo,Commissioner of Insurance,,Democratic,"Anderson, Dennis",81,000050
+CRAWFORD,Capaldo,Commissioner of Insurance,,Republican,"Selzer, Ken",84,000050
+CRAWFORD,Cherokee,Commissioner of Insurance,,Democratic,"Anderson, Dennis",85,000060
+CRAWFORD,Cherokee,Commissioner of Insurance,,Republican,"Selzer, Ken",100,000060
+CRAWFORD,Chicopee,Commissioner of Insurance,,Democratic,"Anderson, Dennis",91,000070
+CRAWFORD,Chicopee,Commissioner of Insurance,,Republican,"Selzer, Ken",139,000070
+CRAWFORD,Crawford,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000080
+CRAWFORD,Crawford,Commissioner of Insurance,,Republican,"Selzer, Ken",133,000080
+CRAWFORD,Crowe,Commissioner of Insurance,,Democratic,"Anderson, Dennis",40,000090
+CRAWFORD,Crowe,Commissioner of Insurance,,Republican,"Selzer, Ken",40,000090
+CRAWFORD,Frontenac Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",174,000110
+CRAWFORD,Frontenac Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",114,000110
+CRAWFORD,Frontenac Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",266,00012A
+CRAWFORD,Frontenac Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",176,00012A
+CRAWFORD,Frontenac Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,00013A
+CRAWFORD,Frontenac Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",75,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00013B
+CRAWFORD,Frontenac Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",81,00014A
+CRAWFORD,Frontenac Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",55,00014A
+CRAWFORD,Girard Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000150
+CRAWFORD,Girard Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",40,000150
+CRAWFORD,Girard Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",114,00016A
+CRAWFORD,Girard Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",136,00016A
+CRAWFORD,Girard Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",92,00017A
+CRAWFORD,Girard Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",75,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+CRAWFORD,Girard Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",99,000180
+CRAWFORD,Girard Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",138,000180
+CRAWFORD,Grant,Commissioner of Insurance,,Democratic,"Anderson, Dennis",37,000190
+CRAWFORD,Grant,Commissioner of Insurance,,Republican,"Selzer, Ken",67,000190
+CRAWFORD,Hepler,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000200
+CRAWFORD,Hepler,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000200
+CRAWFORD,Lincoln,Commissioner of Insurance,,Democratic,"Anderson, Dennis",53,000210
+CRAWFORD,Lincoln,Commissioner of Insurance,,Republican,"Selzer, Ken",74,000210
+CRAWFORD,Lone Star,Commissioner of Insurance,,Democratic,"Anderson, Dennis",187,00022A
+CRAWFORD,Lone Star,Commissioner of Insurance,,Republican,"Selzer, Ken",249,00022A
+CRAWFORD,McCune,Commissioner of Insurance,,Democratic,"Anderson, Dennis",58,000230
+CRAWFORD,McCune,Commissioner of Insurance,,Republican,"Selzer, Ken",57,000230
+CRAWFORD,Mulberry Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",28,000240
+CRAWFORD,Mulberry Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",22,000240
+CRAWFORD,Mulberry Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000250
+CRAWFORD,Mulberry Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",25,000250
+CRAWFORD,North Arma,Commissioner of Insurance,,Democratic,"Anderson, Dennis",112,000260
+CRAWFORD,North Arma,Commissioner of Insurance,,Republican,"Selzer, Ken",121,000260
+CRAWFORD,Opolis,Commissioner of Insurance,,Democratic,"Anderson, Dennis",50,000270
+CRAWFORD,Opolis,Commissioner of Insurance,,Republican,"Selzer, Ken",84,000270
+CRAWFORD,Parkview,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,000280
+CRAWFORD,Parkview,Commissioner of Insurance,,Republican,"Selzer, Ken",68,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",96,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",175,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",182,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",388,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",447,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",82,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",63,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",114,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",98,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",139,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",107,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",95,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",117,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",110,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Commissioner of Insurance,,Republican,"Selzer, Ken",170,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",104,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",93,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",119,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",113,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",52,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",31,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",94,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",52,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",173,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",145,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",82,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",58,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",198,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Commissioner of Insurance,,Republican,"Selzer, Ken",264,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Commissioner of Insurance,,Democratic,"Anderson, Dennis",27,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Commissioner of Insurance,,Republican,"Selzer, Ken",48,00044A
+CRAWFORD,Raymond,Commissioner of Insurance,,Democratic,"Anderson, Dennis",99,000450
+CRAWFORD,Raymond,Commissioner of Insurance,,Republican,"Selzer, Ken",167,000450
+CRAWFORD,Sheridan,Commissioner of Insurance,,Democratic,"Anderson, Dennis",23,000460
+CRAWFORD,Sheridan,Commissioner of Insurance,,Republican,"Selzer, Ken",21,000460
+CRAWFORD,Sherman,Commissioner of Insurance,,Democratic,"Anderson, Dennis",81,000470
+CRAWFORD,Sherman,Commissioner of Insurance,,Republican,"Selzer, Ken",136,000470
+CRAWFORD,Smelter,Commissioner of Insurance,,Democratic,"Anderson, Dennis",94,000480
+CRAWFORD,Smelter,Commissioner of Insurance,,Republican,"Selzer, Ken",152,000480
+CRAWFORD,South Arma,Commissioner of Insurance,,Democratic,"Anderson, Dennis",146,000490
+CRAWFORD,South Arma,Commissioner of Insurance,,Republican,"Selzer, Ken",121,000490
+CRAWFORD,Walnut,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000500
+CRAWFORD,Walnut,Commissioner of Insurance,,Republican,"Selzer, Ken",24,000500
+CRAWFORD,Franklin,Commissioner of Insurance,,Democratic,"Anderson, Dennis",71,700100
+CRAWFORD,Franklin,Commissioner of Insurance,,Republican,"Selzer, Ken",64,700100
+CRAWFORD,Baker Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+CRAWFORD,Baker Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+CRAWFORD,Parkview Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+CRAWFORD,Parkview Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900040
+CRAWFORD,Lincoln - Arcadia,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",20,000A41
+CRAWFORD,Lincoln - Arcadia,Secretary of State,,Republican,"Kobach, Kris",12,000A41
+CRAWFORD,Osage - McCune,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000A51
+CRAWFORD,Osage - McCune,Secretary of State,,Republican,"Kobach, Kris",123,000A51
+CRAWFORD,Cherokee - Sheridan,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",49,000A62
+CRAWFORD,Cherokee - Sheridan,Secretary of State,,Republican,"Kobach, Kris",73,000A62
+CRAWFORD,Walnut - Helper,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000A82
+CRAWFORD,Walnut - Helper,Secretary of State,,Republican,"Kobach, Kris",12,000A82
+CRAWFORD,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000A83
+CRAWFORD,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",11,000A83
+CRAWFORD,Arcadia,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",56,000010
+CRAWFORD,Arcadia,Secretary of State,,Republican,"Kobach, Kris",41,000010
+CRAWFORD,Baker,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",160,000020
+CRAWFORD,Baker,Secretary of State,,Republican,"Kobach, Kris",233,000020
+CRAWFORD,Beulah,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",32,000030
+CRAWFORD,Beulah,Secretary of State,,Republican,"Kobach, Kris",54,000030
+CRAWFORD,Sheridan - Cherokee City,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",24,000033
+CRAWFORD,Sheridan - Cherokee City,Secretary of State,,Republican,"Kobach, Kris",18,000033
+CRAWFORD,Brazilton,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,000040
+CRAWFORD,Brazilton,Secretary of State,,Republican,"Kobach, Kris",20,000040
+CRAWFORD,Capaldo,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",87,000050
+CRAWFORD,Capaldo,Secretary of State,,Republican,"Kobach, Kris",80,000050
+CRAWFORD,Cherokee,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",77,000060
+CRAWFORD,Cherokee,Secretary of State,,Republican,"Kobach, Kris",108,000060
+CRAWFORD,Chicopee,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",96,000070
+CRAWFORD,Chicopee,Secretary of State,,Republican,"Kobach, Kris",138,000070
+CRAWFORD,Crawford,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000080
+CRAWFORD,Crawford,Secretary of State,,Republican,"Kobach, Kris",131,000080
+CRAWFORD,Crowe,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",35,000090
+CRAWFORD,Crowe,Secretary of State,,Republican,"Kobach, Kris",43,000090
+CRAWFORD,Frontenac Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",171,000110
+CRAWFORD,Frontenac Ward 1,Secretary of State,,Republican,"Kobach, Kris",122,000110
+CRAWFORD,Frontenac Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",262,00012A
+CRAWFORD,Frontenac Ward 2,Secretary of State,,Republican,"Kobach, Kris",185,00012A
+CRAWFORD,Frontenac Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",99,00013A
+CRAWFORD,Frontenac Ward 3,Secretary of State,,Republican,"Kobach, Kris",77,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,Secretary of State,,Republican,"Kobach, Kris",0,00013B
+CRAWFORD,Frontenac Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",84,00014A
+CRAWFORD,Frontenac Ward 4,Secretary of State,,Republican,"Kobach, Kris",52,00014A
+CRAWFORD,Girard Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000150
+CRAWFORD,Girard Ward 1,Secretary of State,,Republican,"Kobach, Kris",42,000150
+CRAWFORD,Girard Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",105,00016A
+CRAWFORD,Girard Ward 2,Secretary of State,,Republican,"Kobach, Kris",147,00016A
+CRAWFORD,Girard Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",99,00017A
+CRAWFORD,Girard Ward 3,Secretary of State,,Republican,"Kobach, Kris",69,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+CRAWFORD,Girard Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",101,000180
+CRAWFORD,Girard Ward 4,Secretary of State,,Republican,"Kobach, Kris",140,000180
+CRAWFORD,Grant,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",38,000190
+CRAWFORD,Grant,Secretary of State,,Republican,"Kobach, Kris",67,000190
+CRAWFORD,Hepler,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,000200
+CRAWFORD,Hepler,Secretary of State,,Republican,"Kobach, Kris",18,000200
+CRAWFORD,Lincoln,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",53,000210
+CRAWFORD,Lincoln,Secretary of State,,Republican,"Kobach, Kris",78,000210
+CRAWFORD,Lone Star,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",192,00022A
+CRAWFORD,Lone Star,Secretary of State,,Republican,"Kobach, Kris",248,00022A
+CRAWFORD,McCune,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",60,000230
+CRAWFORD,McCune,Secretary of State,,Republican,"Kobach, Kris",59,000230
+CRAWFORD,Mulberry Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,000240
+CRAWFORD,Mulberry Ward 1,Secretary of State,,Republican,"Kobach, Kris",26,000240
+CRAWFORD,Mulberry Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",18,000250
+CRAWFORD,Mulberry Ward 2,Secretary of State,,Republican,"Kobach, Kris",27,000250
+CRAWFORD,North Arma,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",110,000260
+CRAWFORD,North Arma,Secretary of State,,Republican,"Kobach, Kris",124,000260
+CRAWFORD,Opolis,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",51,000270
+CRAWFORD,Opolis,Secretary of State,,Republican,"Kobach, Kris",83,000270
+CRAWFORD,Parkview,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",103,000280
+CRAWFORD,Parkview,Secretary of State,,Republican,"Kobach, Kris",66,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",78,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",93,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",178,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",182,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",389,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",463,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",77,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",71,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",113,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",104,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",142,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",103,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",105,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",111,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",118,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,Secretary of State,,Republican,"Kobach, Kris",165,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",109,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",92,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",127,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",109,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",51,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",31,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",89,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",59,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",162,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",158,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",75,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",68,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",204,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,Secretary of State,,Republican,"Kobach, Kris",274,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,Secretary of State,,Republican,"Kobach, Kris",47,00044A
+CRAWFORD,Raymond,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",106,000450
+CRAWFORD,Raymond,Secretary of State,,Republican,"Kobach, Kris",164,000450
+CRAWFORD,Sheridan,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000460
+CRAWFORD,Sheridan,Secretary of State,,Republican,"Kobach, Kris",24,000460
+CRAWFORD,Sherman,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",78,000470
+CRAWFORD,Sherman,Secretary of State,,Republican,"Kobach, Kris",143,000470
+CRAWFORD,Smelter,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",94,000480
+CRAWFORD,Smelter,Secretary of State,,Republican,"Kobach, Kris",156,000480
+CRAWFORD,South Arma,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",140,000490
+CRAWFORD,South Arma,Secretary of State,,Republican,"Kobach, Kris",130,000490
+CRAWFORD,Walnut,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",18,000500
+CRAWFORD,Walnut,Secretary of State,,Republican,"Kobach, Kris",28,000500
+CRAWFORD,Franklin,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",70,700100
+CRAWFORD,Franklin,Secretary of State,,Republican,"Kobach, Kris",67,700100
+CRAWFORD,Baker Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+CRAWFORD,Baker Enclave,Secretary of State,,Republican,"Kobach, Kris",0,900010
+CRAWFORD,Parkview Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+CRAWFORD,Parkview Enclave,Secretary of State,,Republican,"Kobach, Kris",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,900040
+CRAWFORD,Lincoln - Arcadia,State Treasurer,,Democratic,"Alldritt, Carmen",18,000A41
+CRAWFORD,Lincoln - Arcadia,State Treasurer,,Republican,"Estes, Ron",11,000A41
+CRAWFORD,Osage - McCune,State Treasurer,,Democratic,"Alldritt, Carmen",30,000A51
+CRAWFORD,Osage - McCune,State Treasurer,,Republican,"Estes, Ron",130,000A51
+CRAWFORD,Cherokee - Sheridan,State Treasurer,,Democratic,"Alldritt, Carmen",36,000A62
+CRAWFORD,Cherokee - Sheridan,State Treasurer,,Republican,"Estes, Ron",86,000A62
+CRAWFORD,Walnut - Helper,State Treasurer,,Democratic,"Alldritt, Carmen",9,000A82
+CRAWFORD,Walnut - Helper,State Treasurer,,Republican,"Estes, Ron",10,000A82
+CRAWFORD,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000A83
+CRAWFORD,Walnut Township,State Treasurer,,Republican,"Estes, Ron",12,000A83
+CRAWFORD,Arcadia,State Treasurer,,Democratic,"Alldritt, Carmen",50,000010
+CRAWFORD,Arcadia,State Treasurer,,Republican,"Estes, Ron",48,000010
+CRAWFORD,Baker,State Treasurer,,Democratic,"Alldritt, Carmen",145,000020
+CRAWFORD,Baker,State Treasurer,,Republican,"Estes, Ron",243,000020
+CRAWFORD,Beulah,State Treasurer,,Democratic,"Alldritt, Carmen",22,000030
+CRAWFORD,Beulah,State Treasurer,,Republican,"Estes, Ron",62,000030
+CRAWFORD,Sheridan - Cherokee City,State Treasurer,,Democratic,"Alldritt, Carmen",21,000033
+CRAWFORD,Sheridan - Cherokee City,State Treasurer,,Republican,"Estes, Ron",19,000033
+CRAWFORD,Brazilton,State Treasurer,,Democratic,"Alldritt, Carmen",5,000040
+CRAWFORD,Brazilton,State Treasurer,,Republican,"Estes, Ron",25,000040
+CRAWFORD,Capaldo,State Treasurer,,Democratic,"Alldritt, Carmen",70,000050
+CRAWFORD,Capaldo,State Treasurer,,Republican,"Estes, Ron",95,000050
+CRAWFORD,Cherokee,State Treasurer,,Democratic,"Alldritt, Carmen",74,000060
+CRAWFORD,Cherokee,State Treasurer,,Republican,"Estes, Ron",113,000060
+CRAWFORD,Chicopee,State Treasurer,,Democratic,"Alldritt, Carmen",86,000070
+CRAWFORD,Chicopee,State Treasurer,,Republican,"Estes, Ron",145,000070
+CRAWFORD,Crawford,State Treasurer,,Democratic,"Alldritt, Carmen",33,000080
+CRAWFORD,Crawford,State Treasurer,,Republican,"Estes, Ron",132,000080
+CRAWFORD,Crowe,State Treasurer,,Democratic,"Alldritt, Carmen",37,000090
+CRAWFORD,Crowe,State Treasurer,,Republican,"Estes, Ron",43,000090
+CRAWFORD,Frontenac Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",160,000110
+CRAWFORD,Frontenac Ward 1,State Treasurer,,Republican,"Estes, Ron",129,000110
+CRAWFORD,Frontenac Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",242,00012A
+CRAWFORD,Frontenac Ward 2,State Treasurer,,Republican,"Estes, Ron",199,00012A
+CRAWFORD,Frontenac Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",87,00013A
+CRAWFORD,Frontenac Ward 3,State Treasurer,,Republican,"Estes, Ron",85,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,State Treasurer,,Democratic,"Alldritt, Carmen",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,State Treasurer,,Republican,"Estes, Ron",0,00013B
+CRAWFORD,Frontenac Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",79,00014A
+CRAWFORD,Frontenac Ward 4,State Treasurer,,Republican,"Estes, Ron",57,00014A
+CRAWFORD,Girard Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",33,000150
+CRAWFORD,Girard Ward 1,State Treasurer,,Republican,"Estes, Ron",46,000150
+CRAWFORD,Girard Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",87,00016A
+CRAWFORD,Girard Ward 2,State Treasurer,,Republican,"Estes, Ron",162,00016A
+CRAWFORD,Girard Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",83,00017A
+CRAWFORD,Girard Ward 3,State Treasurer,,Republican,"Estes, Ron",84,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,State Treasurer,,Republican,"Estes, Ron",0,00017B
+CRAWFORD,Girard Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",92,000180
+CRAWFORD,Girard Ward 4,State Treasurer,,Republican,"Estes, Ron",146,000180
+CRAWFORD,Grant,State Treasurer,,Democratic,"Alldritt, Carmen",31,000190
+CRAWFORD,Grant,State Treasurer,,Republican,"Estes, Ron",75,000190
+CRAWFORD,Hepler,State Treasurer,,Democratic,"Alldritt, Carmen",14,000200
+CRAWFORD,Hepler,State Treasurer,,Republican,"Estes, Ron",19,000200
+CRAWFORD,Lincoln,State Treasurer,,Democratic,"Alldritt, Carmen",49,000210
+CRAWFORD,Lincoln,State Treasurer,,Republican,"Estes, Ron",79,000210
+CRAWFORD,Lone Star,State Treasurer,,Democratic,"Alldritt, Carmen",173,00022A
+CRAWFORD,Lone Star,State Treasurer,,Republican,"Estes, Ron",263,00022A
+CRAWFORD,McCune,State Treasurer,,Democratic,"Alldritt, Carmen",48,000230
+CRAWFORD,McCune,State Treasurer,,Republican,"Estes, Ron",69,000230
+CRAWFORD,Mulberry Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",24,000240
+CRAWFORD,Mulberry Ward 1,State Treasurer,,Republican,"Estes, Ron",27,000240
+CRAWFORD,Mulberry Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",18,000250
+CRAWFORD,Mulberry Ward 2,State Treasurer,,Republican,"Estes, Ron",26,000250
+CRAWFORD,North Arma,State Treasurer,,Democratic,"Alldritt, Carmen",101,000260
+CRAWFORD,North Arma,State Treasurer,,Republican,"Estes, Ron",131,000260
+CRAWFORD,Opolis,State Treasurer,,Democratic,"Alldritt, Carmen",48,000270
+CRAWFORD,Opolis,State Treasurer,,Republican,"Estes, Ron",87,000270
+CRAWFORD,Parkview,State Treasurer,,Democratic,"Alldritt, Carmen",91,000280
+CRAWFORD,Parkview,State Treasurer,,Republican,"Estes, Ron",74,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",66,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,State Treasurer,,Republican,"Estes, Ron",105,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",160,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,State Treasurer,,Republican,"Estes, Ron",195,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",349,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,State Treasurer,,Republican,"Estes, Ron",489,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",74,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,State Treasurer,,Republican,"Estes, Ron",73,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",107,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,State Treasurer,,Republican,"Estes, Ron",106,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",131,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,State Treasurer,,Republican,"Estes, Ron",113,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",87,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,State Treasurer,,Republican,"Estes, Ron",126,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,State Treasurer,,Democratic,"Alldritt, Carmen",96,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,State Treasurer,,Republican,"Estes, Ron",186,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",100,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,State Treasurer,,Republican,"Estes, Ron",100,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",111,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,State Treasurer,,Republican,"Estes, Ron",122,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",50,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,State Treasurer,,Republican,"Estes, Ron",32,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",88,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,State Treasurer,,Republican,"Estes, Ron",57,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",164,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,State Treasurer,,Republican,"Estes, Ron",154,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",73,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,State Treasurer,,Republican,"Estes, Ron",68,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,State Treasurer,,Democratic,"Alldritt, Carmen",188,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,State Treasurer,,Republican,"Estes, Ron",281,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,State Treasurer,,Democratic,"Alldritt, Carmen",25,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,State Treasurer,,Republican,"Estes, Ron",52,00044A
+CRAWFORD,Raymond,State Treasurer,,Democratic,"Alldritt, Carmen",85,000450
+CRAWFORD,Raymond,State Treasurer,,Republican,"Estes, Ron",183,000450
+CRAWFORD,Sheridan,State Treasurer,,Democratic,"Alldritt, Carmen",20,000460
+CRAWFORD,Sheridan,State Treasurer,,Republican,"Estes, Ron",24,000460
+CRAWFORD,Sherman,State Treasurer,,Democratic,"Alldritt, Carmen",72,000470
+CRAWFORD,Sherman,State Treasurer,,Republican,"Estes, Ron",146,000470
+CRAWFORD,Smelter,State Treasurer,,Democratic,"Alldritt, Carmen",93,000480
+CRAWFORD,Smelter,State Treasurer,,Republican,"Estes, Ron",156,000480
+CRAWFORD,South Arma,State Treasurer,,Democratic,"Alldritt, Carmen",134,000490
+CRAWFORD,South Arma,State Treasurer,,Republican,"Estes, Ron",133,000490
+CRAWFORD,Walnut,State Treasurer,,Democratic,"Alldritt, Carmen",16,000500
+CRAWFORD,Walnut,State Treasurer,,Republican,"Estes, Ron",26,000500
+CRAWFORD,Franklin,State Treasurer,,Democratic,"Alldritt, Carmen",71,700100
+CRAWFORD,Franklin,State Treasurer,,Republican,"Estes, Ron",66,700100
+CRAWFORD,Baker Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+CRAWFORD,Baker Enclave,State Treasurer,,Republican,"Estes, Ron",0,900010
+CRAWFORD,Parkview Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+CRAWFORD,Parkview Enclave,State Treasurer,,Republican,"Estes, Ron",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,900040
+CRAWFORD,Lincoln - Arcadia,United States Senate,,independent,"Orman, Greg",15,000A41
+CRAWFORD,Lincoln - Arcadia,United States Senate,,Libertarian,"Batson, Randall",2,000A41
+CRAWFORD,Lincoln - Arcadia,United States Senate,,Republican,"Roberts, Pat",12,000A41
+CRAWFORD,Osage - McCune,United States Senate,,independent,"Orman, Greg",36,000A51
+CRAWFORD,Osage - McCune,United States Senate,,Libertarian,"Batson, Randall",10,000A51
+CRAWFORD,Osage - McCune,United States Senate,,Republican,"Roberts, Pat",115,000A51
+CRAWFORD,Cherokee - Sheridan,United States Senate,,independent,"Orman, Greg",49,000A62
+CRAWFORD,Cherokee - Sheridan,United States Senate,,Libertarian,"Batson, Randall",9,000A62
+CRAWFORD,Cherokee - Sheridan,United States Senate,,Republican,"Roberts, Pat",64,000A62
+CRAWFORD,Walnut - Helper,United States Senate,,independent,"Orman, Greg",9,000A82
+CRAWFORD,Walnut - Helper,United States Senate,,Libertarian,"Batson, Randall",2,000A82
+CRAWFORD,Walnut - Helper,United States Senate,,Republican,"Roberts, Pat",10,000A82
+CRAWFORD,Walnut Township,United States Senate,,independent,"Orman, Greg",5,000A83
+CRAWFORD,Walnut Township,United States Senate,,Libertarian,"Batson, Randall",2,000A83
+CRAWFORD,Walnut Township,United States Senate,,Republican,"Roberts, Pat",10,000A83
+CRAWFORD,Arcadia,United States Senate,,independent,"Orman, Greg",34,000010
+CRAWFORD,Arcadia,United States Senate,,Libertarian,"Batson, Randall",12,000010
+CRAWFORD,Arcadia,United States Senate,,Republican,"Roberts, Pat",41,000010
+CRAWFORD,Baker,United States Senate,,independent,"Orman, Greg",147,000020
+CRAWFORD,Baker,United States Senate,,Libertarian,"Batson, Randall",28,000020
+CRAWFORD,Baker,United States Senate,,Republican,"Roberts, Pat",218,000020
+CRAWFORD,Beulah,United States Senate,,independent,"Orman, Greg",34,000030
+CRAWFORD,Beulah,United States Senate,,Libertarian,"Batson, Randall",6,000030
+CRAWFORD,Beulah,United States Senate,,Republican,"Roberts, Pat",51,000030
+CRAWFORD,Sheridan - Cherokee City,United States Senate,,independent,"Orman, Greg",18,000033
+CRAWFORD,Sheridan - Cherokee City,United States Senate,,Libertarian,"Batson, Randall",8,000033
+CRAWFORD,Sheridan - Cherokee City,United States Senate,,Republican,"Roberts, Pat",16,000033
+CRAWFORD,Brazilton,United States Senate,,independent,"Orman, Greg",10,000040
+CRAWFORD,Brazilton,United States Senate,,Libertarian,"Batson, Randall",3,000040
+CRAWFORD,Brazilton,United States Senate,,Republican,"Roberts, Pat",17,000040
+CRAWFORD,Capaldo,United States Senate,,independent,"Orman, Greg",74,000050
+CRAWFORD,Capaldo,United States Senate,,Libertarian,"Batson, Randall",16,000050
+CRAWFORD,Capaldo,United States Senate,,Republican,"Roberts, Pat",76,000050
+CRAWFORD,Cherokee,United States Senate,,independent,"Orman, Greg",66,000060
+CRAWFORD,Cherokee,United States Senate,,Libertarian,"Batson, Randall",25,000060
+CRAWFORD,Cherokee,United States Senate,,Republican,"Roberts, Pat",95,000060
+CRAWFORD,Chicopee,United States Senate,,independent,"Orman, Greg",89,000070
+CRAWFORD,Chicopee,United States Senate,,Libertarian,"Batson, Randall",17,000070
+CRAWFORD,Chicopee,United States Senate,,Republican,"Roberts, Pat",124,000070
+CRAWFORD,Crawford,United States Senate,,independent,"Orman, Greg",39,000080
+CRAWFORD,Crawford,United States Senate,,Libertarian,"Batson, Randall",15,000080
+CRAWFORD,Crawford,United States Senate,,Republican,"Roberts, Pat",117,000080
+CRAWFORD,Crowe,United States Senate,,independent,"Orman, Greg",41,000090
+CRAWFORD,Crowe,United States Senate,,Libertarian,"Batson, Randall",8,000090
+CRAWFORD,Crowe,United States Senate,,Republican,"Roberts, Pat",34,000090
+CRAWFORD,Frontenac Ward 1,United States Senate,,independent,"Orman, Greg",147,000110
+CRAWFORD,Frontenac Ward 1,United States Senate,,Libertarian,"Batson, Randall",26,000110
+CRAWFORD,Frontenac Ward 1,United States Senate,,Republican,"Roberts, Pat",115,000110
+CRAWFORD,Frontenac Ward 2,United States Senate,,independent,"Orman, Greg",222,00012A
+CRAWFORD,Frontenac Ward 2,United States Senate,,Libertarian,"Batson, Randall",33,00012A
+CRAWFORD,Frontenac Ward 2,United States Senate,,Republican,"Roberts, Pat",175,00012A
+CRAWFORD,Frontenac Ward 3,United States Senate,,independent,"Orman, Greg",91,00013A
+CRAWFORD,Frontenac Ward 3,United States Senate,,Libertarian,"Batson, Randall",14,00013A
+CRAWFORD,Frontenac Ward 3,United States Senate,,Republican,"Roberts, Pat",64,00013A
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States Senate,,independent,"Orman, Greg",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States Senate,,Libertarian,"Batson, Randall",0,00013B
+CRAWFORD,Frontenac Ward 3 Industrial Park,United States Senate,,Republican,"Roberts, Pat",0,00013B
+CRAWFORD,Frontenac Ward 4,United States Senate,,independent,"Orman, Greg",73,00014A
+CRAWFORD,Frontenac Ward 4,United States Senate,,Libertarian,"Batson, Randall",9,00014A
+CRAWFORD,Frontenac Ward 4,United States Senate,,Republican,"Roberts, Pat",53,00014A
+CRAWFORD,Girard Ward 1,United States Senate,,independent,"Orman, Greg",37,000150
+CRAWFORD,Girard Ward 1,United States Senate,,Libertarian,"Batson, Randall",10,000150
+CRAWFORD,Girard Ward 1,United States Senate,,Republican,"Roberts, Pat",35,000150
+CRAWFORD,Girard Ward 2,United States Senate,,independent,"Orman, Greg",100,00016A
+CRAWFORD,Girard Ward 2,United States Senate,,Libertarian,"Batson, Randall",22,00016A
+CRAWFORD,Girard Ward 2,United States Senate,,Republican,"Roberts, Pat",139,00016A
+CRAWFORD,Girard Ward 3,United States Senate,,independent,"Orman, Greg",81,00017A
+CRAWFORD,Girard Ward 3,United States Senate,,Libertarian,"Batson, Randall",16,00017A
+CRAWFORD,Girard Ward 3,United States Senate,,Republican,"Roberts, Pat",70,00017A
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States Senate,,independent,"Orman, Greg",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States Senate,,Libertarian,"Batson, Randall",0,00017B
+CRAWFORD,Girard Ward 3 Exclave Golf Course,United States Senate,,Republican,"Roberts, Pat",0,00017B
+CRAWFORD,Girard Ward 4,United States Senate,,independent,"Orman, Greg",87,000180
+CRAWFORD,Girard Ward 4,United States Senate,,Libertarian,"Batson, Randall",28,000180
+CRAWFORD,Girard Ward 4,United States Senate,,Republican,"Roberts, Pat",127,000180
+CRAWFORD,Grant,United States Senate,,independent,"Orman, Greg",40,000190
+CRAWFORD,Grant,United States Senate,,Libertarian,"Batson, Randall",8,000190
+CRAWFORD,Grant,United States Senate,,Republican,"Roberts, Pat",64,000190
+CRAWFORD,Hepler,United States Senate,,independent,"Orman, Greg",10,000200
+CRAWFORD,Hepler,United States Senate,,Libertarian,"Batson, Randall",3,000200
+CRAWFORD,Hepler,United States Senate,,Republican,"Roberts, Pat",17,000200
+CRAWFORD,Lincoln,United States Senate,,independent,"Orman, Greg",42,000210
+CRAWFORD,Lincoln,United States Senate,,Libertarian,"Batson, Randall",12,000210
+CRAWFORD,Lincoln,United States Senate,,Republican,"Roberts, Pat",72,000210
+CRAWFORD,Lone Star,United States Senate,,independent,"Orman, Greg",177,00022A
+CRAWFORD,Lone Star,United States Senate,,Libertarian,"Batson, Randall",33,00022A
+CRAWFORD,Lone Star,United States Senate,,Republican,"Roberts, Pat",229,00022A
+CRAWFORD,McCune,United States Senate,,independent,"Orman, Greg",54,000230
+CRAWFORD,McCune,United States Senate,,Libertarian,"Batson, Randall",16,000230
+CRAWFORD,McCune,United States Senate,,Republican,"Roberts, Pat",48,000230
+CRAWFORD,Mulberry Ward 1,United States Senate,,independent,"Orman, Greg",24,000240
+CRAWFORD,Mulberry Ward 1,United States Senate,,Libertarian,"Batson, Randall",6,000240
+CRAWFORD,Mulberry Ward 1,United States Senate,,Republican,"Roberts, Pat",21,000240
+CRAWFORD,Mulberry Ward 2,United States Senate,,independent,"Orman, Greg",14,000250
+CRAWFORD,Mulberry Ward 2,United States Senate,,Libertarian,"Batson, Randall",8,000250
+CRAWFORD,Mulberry Ward 2,United States Senate,,Republican,"Roberts, Pat",25,000250
+CRAWFORD,North Arma,United States Senate,,independent,"Orman, Greg",94,000260
+CRAWFORD,North Arma,United States Senate,,Libertarian,"Batson, Randall",17,000260
+CRAWFORD,North Arma,United States Senate,,Republican,"Roberts, Pat",120,000260
+CRAWFORD,Opolis,United States Senate,,independent,"Orman, Greg",48,000270
+CRAWFORD,Opolis,United States Senate,,Libertarian,"Batson, Randall",5,000270
+CRAWFORD,Opolis,United States Senate,,Republican,"Roberts, Pat",77,000270
+CRAWFORD,Parkview,United States Senate,,independent,"Orman, Greg",87,000280
+CRAWFORD,Parkview,United States Senate,,Libertarian,"Batson, Randall",11,000280
+CRAWFORD,Parkview,United States Senate,,Republican,"Roberts, Pat",68,000280
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States Senate,,independent,"Orman, Greg",76,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",9,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 1,United States Senate,,Republican,"Roberts, Pat",94,000290
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States Senate,,independent,"Orman, Greg",157,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",22,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 2,United States Senate,,Republican,"Roberts, Pat",175,000300
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States Senate,,independent,"Orman, Greg",379,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",38,000310
+CRAWFORD,Pittsburg Ward 1 Precinct 3,United States Senate,,Republican,"Roberts, Pat",430,000310
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States Senate,,independent,"Orman, Greg",71,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",16,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 1,United States Senate,,Republican,"Roberts, Pat",62,000320
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States Senate,,independent,"Orman, Greg",113,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",9,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 2,United States Senate,,Republican,"Roberts, Pat",92,000330
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States Senate,,independent,"Orman, Greg",150,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",14,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 3,United States Senate,,Republican,"Roberts, Pat",88,000340
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States Senate,,independent,"Orman, Greg",105,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States Senate,,Libertarian,"Batson, Randall",6,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 4,United States Senate,,Republican,"Roberts, Pat",103,000350
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States Senate,,independent,"Orman, Greg",119,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States Senate,,Libertarian,"Batson, Randall",14,000360
+CRAWFORD,Pittsburg Ward 2 Precinct 5,United States Senate,,Republican,"Roberts, Pat",152,000360
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States Senate,,independent,"Orman, Greg",85,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",19,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 1,United States Senate,,Republican,"Roberts, Pat",93,000370
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States Senate,,independent,"Orman, Greg",112,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",17,00038A
+CRAWFORD,Pittsburg Ward 3 Precinct 2,United States Senate,,Republican,"Roberts, Pat",107,00038A
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States Senate,,independent,"Orman, Greg",39,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",7,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 1,United States Senate,,Republican,"Roberts, Pat",34,000390
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States Senate,,independent,"Orman, Greg",83,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",17,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 2,United States Senate,,Republican,"Roberts, Pat",50,000400
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States Senate,,independent,"Orman, Greg",143,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",35,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 3,United States Senate,,Republican,"Roberts, Pat",140,000410
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States Senate,,independent,"Orman, Greg",68,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States Senate,,Libertarian,"Batson, Randall",11,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 4,United States Senate,,Republican,"Roberts, Pat",67,00042A
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States Senate,,independent,"Orman, Greg",213,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States Senate,,Libertarian,"Batson, Randall",24,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 5,United States Senate,,Republican,"Roberts, Pat",239,000430
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States Senate,,independent,"Orman, Greg",19,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States Senate,,Libertarian,"Batson, Randall",6,00044A
+CRAWFORD,Pittsburg Ward 4 Precinct 6,United States Senate,,Republican,"Roberts, Pat",50,00044A
+CRAWFORD,Raymond,United States Senate,,independent,"Orman, Greg",108,000450
+CRAWFORD,Raymond,United States Senate,,Libertarian,"Batson, Randall",18,000450
+CRAWFORD,Raymond,United States Senate,,Republican,"Roberts, Pat",147,000450
+CRAWFORD,Sheridan,United States Senate,,independent,"Orman, Greg",22,000460
+CRAWFORD,Sheridan,United States Senate,,Libertarian,"Batson, Randall",2,000460
+CRAWFORD,Sheridan,United States Senate,,Republican,"Roberts, Pat",19,000460
+CRAWFORD,Sherman,United States Senate,,independent,"Orman, Greg",83,000470
+CRAWFORD,Sherman,United States Senate,,Libertarian,"Batson, Randall",18,000470
+CRAWFORD,Sherman,United States Senate,,Republican,"Roberts, Pat",123,000470
+CRAWFORD,Smelter,United States Senate,,independent,"Orman, Greg",96,000480
+CRAWFORD,Smelter,United States Senate,,Libertarian,"Batson, Randall",11,000480
+CRAWFORD,Smelter,United States Senate,,Republican,"Roberts, Pat",141,000480
+CRAWFORD,South Arma,United States Senate,,independent,"Orman, Greg",127,000490
+CRAWFORD,South Arma,United States Senate,,Libertarian,"Batson, Randall",18,000490
+CRAWFORD,South Arma,United States Senate,,Republican,"Roberts, Pat",125,000490
+CRAWFORD,Walnut,United States Senate,,independent,"Orman, Greg",17,000500
+CRAWFORD,Walnut,United States Senate,,Libertarian,"Batson, Randall",6,000500
+CRAWFORD,Walnut,United States Senate,,Republican,"Roberts, Pat",23,000500
+CRAWFORD,Franklin,United States Senate,,independent,"Orman, Greg",60,700100
+CRAWFORD,Franklin,United States Senate,,Libertarian,"Batson, Randall",13,700100
+CRAWFORD,Franklin,United States Senate,,Republican,"Roberts, Pat",63,700100
+CRAWFORD,Baker Enclave,United States Senate,,independent,"Orman, Greg",0,900010
+CRAWFORD,Baker Enclave,United States Senate,,Libertarian,"Batson, Randall",0,900010
+CRAWFORD,Baker Enclave,United States Senate,,Republican,"Roberts, Pat",0,900010
+CRAWFORD,Parkview Enclave,United States Senate,,independent,"Orman, Greg",0,900020
+CRAWFORD,Parkview Enclave,United States Senate,,Libertarian,"Batson, Randall",0,900020
+CRAWFORD,Parkview Enclave,United States Senate,,Republican,"Roberts, Pat",0,900020
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States Senate,,independent,"Orman, Greg",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,900030
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States Senate,,independent,"Orman, Greg",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States Senate,,Libertarian,"Batson, Randall",0,900040
+CRAWFORD,Pittsburg Ward 2 Precinct 5 Exclave B,United States Senate,,Republican,"Roberts, Pat",0,900040

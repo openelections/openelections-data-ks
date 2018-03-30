@@ -1,69 +1,52 @@
-county,precinct,office,district,party,candidate,votes
-Wichita,PRECINCT 1,Attorney General,,,A.J. Kotich,35
-Wichita,PRECINCT 2,Attorney General,,,A.J. Kotich,33
-Wichita,PRECINCT 3,Attorney General,,,A.J. Kotich,17
-Wichita,ADVANCE,Attorney General,,,A.J. Kotich,7
-Wichita,PRECINCT 1,Attorney General,,,Derek Schmidt,187
-Wichita,PRECINCT 2,Attorney General,,,Derek Schmidt,254
-Wichita,PRECINCT 3,Attorney General,,,Derek Schmidt,173
-Wichita,ADVANCE,Attorney General,,,Derek Schmidt,44
-Wichita,PRECINCT 1,U.S. House,1,,James Sherow,38
-Wichita,PRECINCT 2,U.S. House,1,,James Sherow,44
-Wichita,PRECINCT 3,U.S. House,1,,James Sherow,21
-Wichita,ADVANCE,U.S. House,1,,James Sherow,11
-Wichita,PRECINCT 1,U.S. House,1,,Tim Huelskamp,183
-Wichita,PRECINCT 2,U.S. House,1,,Tim Huelskamp,243
-Wichita,PRECINCT 3,U.S. House,1,,Tim Huelskamp,177
-Wichita,ADVANCE,U.S. House,1,,Tim Huelskamp,41
-Wichita,PRECINCT 1,Governor,,,Brownback/Colyer,168
-Wichita,PRECINCT 2,Governor,,,Brownback/Colyer,226
-Wichita,PRECINCT 3,Governor,,,Brownback/Colyer,164
-Wichita,ADVANCE,Governor,,,Brownback/Colyer,38
-Wichita,PRECINCT 1,Governor,,,Davis/Docking,47
-Wichita,PRECINCT 2,Governor,,,Davis/Docking,54
-Wichita,PRECINCT 3,Governor,,,Davis/Docking,26
-Wichita,ADVANCE,Governor,,,Davis/Docking,9
-Wichita,PRECINCT 1,Governor,,,Umbehr/Umbehr,11
-Wichita,PRECINCT 2,Governor,,,Umbehr/Umbehr,9
-Wichita,PRECINCT 3,Governor,,,Umbehr/Umbehr,6
-Wichita,ADVANCE,Governor,,,Umbehr/Umbehr,5
-Wichita,PRECINCT 1,Insurance Commissioner,,,Dennis Anderson,36
-Wichita,PRECINCT 2,Insurance Commissioner,,,Dennis Anderson,35
-Wichita,PRECINCT 3,Insurance Commissioner,,,Dennis Anderson,26
-Wichita,ADVANCE,Insurance Commissioner,,,Dennis Anderson,8
-Wichita,PRECINCT 1,Insurance Commissioner,,,Ken Selzer,176
-Wichita,PRECINCT 2,Insurance Commissioner,,,Ken Selzer,246
-Wichita,PRECINCT 3,Insurance Commissioner,,,Ken Selzer,162
-Wichita,ADVANCE,Insurance Commissioner,,,Ken Selzer,42
-Wichita,PRECINCT 1,Secretary of State,,,Jean Kurtis Schodorf,47
-Wichita,PRECINCT 2,Secretary of State,,,Jean Kurtis Schodorf,36
-Wichita,PRECINCT 3,Secretary of State,,,Jean Kurtis Schodorf,22
-Wichita,ADVANCE,Secretary of State,,,Jean Kurtis Schodorf,11
-Wichita,PRECINCT 1,Secretary of State,,,Kris Kobach,181
-Wichita,PRECINCT 2,Secretary of State,,,Kris Kobach,253
-Wichita,PRECINCT 3,Secretary of State,,,Kris Kobach,176
-Wichita,ADVANCE,Secretary of State,,,Kris Kobach,41
-Wichita,PRECINCT 1,State House,118,,Don Hineman,208
-Wichita,PRECINCT 2,State House,118,,Don Hineman,266
-Wichita,PRECINCT 3,State House,118,,Don Hineman,183
-Wichita,ADVANCE,State House,118,,Don Hineman,50
-Wichita,PRECINCT 1,State Treasurer,,,Carmen Alldritt,27
-Wichita,PRECINCT 2,State Treasurer,,,Carmen Alldritt,25
-Wichita,PRECINCT 3,State Treasurer,,,Carmen Alldritt,20
-Wichita,ADVANCE,State Treasurer,,,Carmen Alldritt,6
-Wichita,PRECINCT 1,State Treasurer,,,Ron Estes,195
-Wichita,PRECINCT 2,State Treasurer,,,Ron Estes,264
-Wichita,PRECINCT 3,State Treasurer,,,Ron Estes,173
-Wichita,ADVANCE,State Treasurer,,,Ron Estes,46
-Wichita,PRECINCT 1,U.S. Senate,,,Greg Orman,45
-Wichita,PRECINCT 2,U.S. Senate,,,Greg Orman,40
-Wichita,PRECINCT 3,U.S. Senate,,,Greg Orman,21
-Wichita,ADVANCE,U.S. Senate,,,Greg Orman,9
-Wichita,PRECINCT 1,U.S. Senate,,,Pat Roberts,170
-Wichita,PRECINCT 2,U.S. Senate,,,Pat Roberts,235
-Wichita,PRECINCT 3,U.S. Senate,,,Pat Roberts,170
-Wichita,ADVANCE,U.S. Senate,,,Pat Roberts,42
-Wichita,PRECINCT 1,U.S. Senate,,,Randall Batson,10
-Wichita,PRECINCT 2,U.S. Senate,,,Randall Batson,14
-Wichita,PRECINCT 3,U.S. Senate,,,Randall Batson,6
-Wichita,ADVANCE,U.S. Senate,,,Randall Batson,1
+county,precinct,office,district,party,candidate,votes,vtd
+WICHITA,Leoti Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",50,000010
+WICHITA,Leoti Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000010
+WICHITA,Leoti Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",178,000010
+WICHITA,Leoti Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",55,000020
+WICHITA,Leoti Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000020
+WICHITA,Leoti Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",247,000020
+WICHITA,Leoti Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",31,000030
+WICHITA,Leoti Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000030
+WICHITA,Leoti Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",171,000030
+WICHITA,Leoti Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",223,000010
+WICHITA,Leoti Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",288,000020
+WICHITA,Leoti Precinct 3,Kansas House of Representatives,118,Republican,"Hineman, Don",196,000030
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",42,000010
+WICHITA,Leoti Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",195,000010
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",45,000020
+WICHITA,Leoti Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",265,000020
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,Democratic,"Sherow, James E.",27,000030
+WICHITA,Leoti Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",184,000030
+WICHITA,Leoti Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",37,000010
+WICHITA,Leoti Precinct 1,Attorney General,,Republican,"Schmidt, Derek",201,000010
+WICHITA,Leoti Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",34,000020
+WICHITA,Leoti Precinct 2,Attorney General,,Republican,"Schmidt, Derek",275,000020
+WICHITA,Leoti Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",21,000030
+WICHITA,Leoti Precinct 3,Attorney General,,Republican,"Schmidt, Derek",182,000030
+WICHITA,Leoti Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000010
+WICHITA,Leoti Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",189,000010
+WICHITA,Leoti Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",36,000020
+WICHITA,Leoti Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",268,000020
+WICHITA,Leoti Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000030
+WICHITA,Leoti Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",169,000030
+WICHITA,Leoti Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",52,000010
+WICHITA,Leoti Precinct 1,Secretary of State,,Republican,"Kobach, Kris",193,000010
+WICHITA,Leoti Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",37,000020
+WICHITA,Leoti Precinct 2,Secretary of State,,Republican,"Kobach, Kris",275,000020
+WICHITA,Leoti Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000030
+WICHITA,Leoti Precinct 3,Secretary of State,,Republican,"Kobach, Kris",183,000030
+WICHITA,Leoti Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",28,000010
+WICHITA,Leoti Precinct 1,State Treasurer,,Republican,"Estes, Ron",210,000010
+WICHITA,Leoti Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",26,000020
+WICHITA,Leoti Precinct 2,State Treasurer,,Republican,"Estes, Ron",285,000020
+WICHITA,Leoti Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",24,000030
+WICHITA,Leoti Precinct 3,State Treasurer,,Republican,"Estes, Ron",183,000030
+WICHITA,Leoti Precinct 1,United States Senate,,independent,"Orman, Greg",48,000010
+WICHITA,Leoti Precinct 1,United States Senate,,Libertarian,"Batson, Randall",11,000010
+WICHITA,Leoti Precinct 1,United States Senate,,Republican,"Roberts, Pat",182,000010
+WICHITA,Leoti Precinct 2,United States Senate,,independent,"Orman, Greg",41,000020
+WICHITA,Leoti Precinct 2,United States Senate,,Libertarian,"Batson, Randall",14,000020
+WICHITA,Leoti Precinct 2,United States Senate,,Republican,"Roberts, Pat",257,000020
+WICHITA,Leoti Precinct 3,United States Senate,,independent,"Orman, Greg",26,000030
+WICHITA,Leoti Precinct 3,United States Senate,,Libertarian,"Batson, Randall",6,000030
+WICHITA,Leoti Precinct 3,United States Senate,,Republican,"Roberts, Pat",178,000030
