@@ -1,705 +1,973 @@
-county,precinct,office,district,party,candidate,votes
-Lyon,Emporia 01.01,Voters,,,Registration,800
-Lyon,Emporia 02.01,Voters,,,Registration,676
-Lyon,Emporia 03.01,Voters,,,Registration,808
-Lyon,Emporia 04.01,Voters,,,Registration,877
-Lyon,Emporia 4A.01,Voters,,,Registration,4
-Lyon,Emporia 4B.01,Voters,,,Registration,6
-Lyon,Emporia 4C.01,Voters,,,Registration,6
-Lyon,Emporia 05.01,Voters,,,Registration,668
-Lyon,Emporia 06.01,Voters,,,Registration,717
-Lyon,Emporia 07.01,Voters,,,Registration,434
-Lyon,Emporia 08.01,Voters,,,Registration,796
-Lyon,Emporia 09.01,Voters,,,Registration,553
-Lyon,Emporia 10.01,Voters,,,Registration,544
-Lyon,Emporia 11.01,Voters,,,Registration,539
-Lyon,Emporia 12.01,Voters,,,Registration,480
-Lyon,Emporia 13.01,Voters,,,Registration,755
-Lyon,Emporia 14.01,Voters,,,Registration,753
-Lyon,Emporia 15.01,Voters,,,Registration,426
-Lyon,Emporia 16.01,Voters,,,Registration,715
-Lyon,Emporia 17.01,Voters,,,Registration,698
-Lyon,Emporia 18.01,Voters,,,Registration,569
-Lyon,Emporia 19.01,Voters,,,Registration,952
-Lyon,Emporia 20.01,Voters,,,Registration,760
-Lyon,Precinct 21.01,Voters,,,Registration,298
-Lyon,Precinct 22.01,Voters,,,Registration,148
-Lyon,Precinct 23.01,Voters,,,Registration,197
-Lyon,Precinct 24.01,Voters,,,Registration,921
-Lyon,Precinct 25.01,Voters,,,Registration,641
-Lyon,Precinct 26.01,Voters,,,Registration,315
-Lyon,Precinct 27.01,Voters,,,Registration,571
-Lyon,Precinct 28.01,Voters,,,Registration,477
-Lyon,Precinct 29.01,Voters,,,Registration,220
-Lyon,Precinct 29D.01,Voters,,,Registration,8
-Lyon,Precinct 30.01,Voters,,,Registration,700
-Lyon,Precinct 31.01,Voters,,,Registration,827
-Lyon,Precinct 32.01,Voters,,,Registration,535
-Lyon,Emporia 01.01,Voters,,,Ballots Cast,326
-Lyon,Emporia 02.01,Voters,,,Ballots Cast,227
-Lyon,Emporia 03.01,Voters,,,Ballots Cast,274
-Lyon,Emporia 04.01,Voters,,,Ballots Cast,314
-Lyon,Emporia 4A.01,Voters,,,Ballots Cast,4
-Lyon,Emporia 4B.01,Voters,,,Ballots Cast,2
-Lyon,Emporia 4C.01,Voters,,,Ballots Cast,5
-Lyon,Emporia 05.01,Voters,,,Ballots Cast,181
-Lyon,Emporia 06.01,Voters,,,Ballots Cast,212
-Lyon,Emporia 07.01,Voters,,,Ballots Cast,91
-Lyon,Emporia 08.01,Voters,,,Ballots Cast,204
-Lyon,Emporia 09.01,Voters,,,Ballots Cast,207
-Lyon,Emporia 10.01,Voters,,,Ballots Cast,274
-Lyon,Emporia 11.01,Voters,,,Ballots Cast,205
-Lyon,Emporia 12.01,Voters,,,Ballots Cast,219
-Lyon,Emporia 13.01,Voters,,,Ballots Cast,310
-Lyon,Emporia 14.01,Voters,,,Ballots Cast,436
-Lyon,Emporia 15.01,Voters,,,Ballots Cast,236
-Lyon,Emporia 16.01,Voters,,,Ballots Cast,360
-Lyon,Emporia 17.01,Voters,,,Ballots Cast,359
-Lyon,Emporia 18.01,Voters,,,Ballots Cast,330
-Lyon,Emporia 19.01,Voters,,,Ballots Cast,541
-Lyon,Emporia 20.01,Voters,,,Ballots Cast,466
-Lyon,Precinct 21.01,Voters,,,Ballots Cast,155
-Lyon,Precinct 22.01,Voters,,,Ballots Cast,98
-Lyon,Precinct 23.01,Voters,,,Ballots Cast,110
-Lyon,Precinct 24.01,Voters,,,Ballots Cast,478
-Lyon,Precinct 25.01,Voters,,,Ballots Cast,400
-Lyon,Precinct 26.01,Voters,,,Ballots Cast,191
-Lyon,Precinct 27.01,Voters,,,Ballots Cast,282
-Lyon,Precinct 28.01,Voters,,,Ballots Cast,271
-Lyon,Precinct 29.01,Voters,,,Ballots Cast,139
-Lyon,Precinct 29D.01,Voters,,,Ballots Cast,3
-Lyon,Precinct 30.01,Voters,,,Ballots Cast,383
-Lyon,Precinct 31.01,Voters,,,Ballots Cast,502
-Lyon,Precinct 32.01,Voters,,,Ballots Cast,276
-Lyon,Emporia 01.01,U.S. Senate,,R,Pat Roberts,124
-Lyon,Emporia 02.01,U.S. Senate,,R,Pat Roberts,84
-Lyon,Emporia 03.01,U.S. Senate,,R,Pat Roberts,124
-Lyon,Emporia 04.01,U.S. Senate,,R,Pat Roberts,124
-Lyon,Emporia 4A.01,U.S. Senate,,R,Pat Roberts,4
-Lyon,Emporia 4B.01,U.S. Senate,,R,Pat Roberts,0
-Lyon,Emporia 4C.01,U.S. Senate,,R,Pat Roberts,2
-Lyon,Emporia 05.01,U.S. Senate,,R,Pat Roberts,76
-Lyon,Emporia 06.01,U.S. Senate,,R,Pat Roberts,88
-Lyon,Emporia 07.01,U.S. Senate,,R,Pat Roberts,33
-Lyon,Emporia 08.01,U.S. Senate,,R,Pat Roberts,79
-Lyon,Emporia 09.01,U.S. Senate,,R,Pat Roberts,89
-Lyon,Emporia 10.01,U.S. Senate,,R,Pat Roberts,108
-Lyon,Emporia 11.01,U.S. Senate,,R,Pat Roberts,87
-Lyon,Emporia 12.01,U.S. Senate,,R,Pat Roberts,91
-Lyon,Emporia 13.01,U.S. Senate,,R,Pat Roberts,135
-Lyon,Emporia 14.01,U.S. Senate,,R,Pat Roberts,184
-Lyon,Emporia 15.01,U.S. Senate,,R,Pat Roberts,109
-Lyon,Emporia 16.01,U.S. Senate,,R,Pat Roberts,145
-Lyon,Emporia 17.01,U.S. Senate,,R,Pat Roberts,160
-Lyon,Emporia 18.01,U.S. Senate,,R,Pat Roberts,154
-Lyon,Emporia 19.01,U.S. Senate,,R,Pat Roberts,234
-Lyon,Emporia 20.01,U.S. Senate,,R,Pat Roberts,239
-Lyon,Precinct 21.01,U.S. Senate,,R,Pat Roberts,80
-Lyon,Precinct 22.01,U.S. Senate,,R,Pat Roberts,60
-Lyon,Precinct 23.01,U.S. Senate,,R,Pat Roberts,66
-Lyon,Precinct 24.01,U.S. Senate,,R,Pat Roberts,263
-Lyon,Precinct 25.01,U.S. Senate,,R,Pat Roberts,236
-Lyon,Precinct 26.01,U.S. Senate,,R,Pat Roberts,97
-Lyon,Precinct 27.01,U.S. Senate,,R,Pat Roberts,157
-Lyon,Precinct 28.01,U.S. Senate,,R,Pat Roberts,138
-Lyon,Precinct 29.01,U.S. Senate,,R,Pat Roberts,79
-Lyon,Precinct 29D.01,U.S. Senate,,R,Pat Roberts,3
-Lyon,Precinct 30.01,U.S. Senate,,R,Pat Roberts,200
-Lyon,Precinct 31.01,U.S. Senate,,R,Pat Roberts,271
-Lyon,Precinct 32.01,U.S. Senate,,R,Pat Roberts,138
-Lyon,Emporia 01.01,U.S. Senate,,I,Greg Orman,188
-Lyon,Emporia 02.01,U.S. Senate,,I,Greg Orman,128
-Lyon,Emporia 03.01,U.S. Senate,,I,Greg Orman,124
-Lyon,Emporia 04.01,U.S. Senate,,I,Greg Orman,171
-Lyon,Emporia 4A.01,U.S. Senate,,I,Greg Orman,0
-Lyon,Emporia 4B.01,U.S. Senate,,I,Greg Orman,1
-Lyon,Emporia 4C.01,U.S. Senate,,I,Greg Orman,3
-Lyon,Emporia 05.01,U.S. Senate,,I,Greg Orman,86
-Lyon,Emporia 06.01,U.S. Senate,,I,Greg Orman,103
-Lyon,Emporia 07.01,U.S. Senate,,I,Greg Orman,53
-Lyon,Emporia 08.01,U.S. Senate,,I,Greg Orman,110
-Lyon,Emporia 09.01,U.S. Senate,,I,Greg Orman,107
-Lyon,Emporia 10.01,U.S. Senate,,I,Greg Orman,149
-Lyon,Emporia 11.01,U.S. Senate,,I,Greg Orman,107
-Lyon,Emporia 12.01,U.S. Senate,,I,Greg Orman,115
-Lyon,Emporia 13.01,U.S. Senate,,I,Greg Orman,142
-Lyon,Emporia 14.01,U.S. Senate,,I,Greg Orman,239
-Lyon,Emporia 15.01,U.S. Senate,,I,Greg Orman,116
-Lyon,Emporia 16.01,U.S. Senate,,I,Greg Orman,199
-Lyon,Emporia 17.01,U.S. Senate,,I,Greg Orman,172
-Lyon,Emporia 18.01,U.S. Senate,,I,Greg Orman,164
-Lyon,Emporia 19.01,U.S. Senate,,I,Greg Orman,279
-Lyon,Emporia 20.01,U.S. Senate,,I,Greg Orman,206
-Lyon,Precinct 21.01,U.S. Senate,,I,Greg Orman,65
-Lyon,Precinct 22.01,U.S. Senate,,I,Greg Orman,34
-Lyon,Precinct 23.01,U.S. Senate,,I,Greg Orman,34
-Lyon,Precinct 24.01,U.S. Senate,,I,Greg Orman,187
-Lyon,Precinct 25.01,U.S. Senate,,I,Greg Orman,142
-Lyon,Precinct 26.01,U.S. Senate,,I,Greg Orman,88
-Lyon,Precinct 27.01,U.S. Senate,,I,Greg Orman,107
-Lyon,Precinct 28.01,U.S. Senate,,I,Greg Orman,116
-Lyon,Precinct 29.01,U.S. Senate,,I,Greg Orman,54
-Lyon,Precinct 29D.01,U.S. Senate,,I,Greg Orman,0
-Lyon,Precinct 30.01,U.S. Senate,,I,Greg Orman,149
-Lyon,Precinct 31.01,U.S. Senate,,I,Greg Orman,198
-Lyon,Precinct 32.01,U.S. Senate,,I,Greg Orman,118
-Lyon,Emporia 01.01,U.S. Senate,,L,Randall Batson,7
-Lyon,Emporia 02.01,U.S. Senate,,L,Randall Batson,11
-Lyon,Emporia 03.01,U.S. Senate,,L,Randall Batson,17
-Lyon,Emporia 04.01,U.S. Senate,,L,Randall Batson,13
-Lyon,Emporia 4A.01,U.S. Senate,,L,Randall Batson,0
-Lyon,Emporia 4B.01,U.S. Senate,,L,Randall Batson,0
-Lyon,Emporia 4C.01,U.S. Senate,,L,Randall Batson,0
-Lyon,Emporia 05.01,U.S. Senate,,L,Randall Batson,13
-Lyon,Emporia 06.01,U.S. Senate,,L,Randall Batson,13
-Lyon,Emporia 07.01,U.S. Senate,,L,Randall Batson,5
-Lyon,Emporia 08.01,U.S. Senate,,L,Randall Batson,11
-Lyon,Emporia 09.01,U.S. Senate,,L,Randall Batson,6
-Lyon,Emporia 10.01,U.S. Senate,,L,Randall Batson,12
-Lyon,Emporia 11.01,U.S. Senate,,L,Randall Batson,7
-Lyon,Emporia 12.01,U.S. Senate,,L,Randall Batson,8
-Lyon,Emporia 13.01,U.S. Senate,,L,Randall Batson,22
-Lyon,Emporia 14.01,U.S. Senate,,L,Randall Batson,10
-Lyon,Emporia 15.01,U.S. Senate,,L,Randall Batson,7
-Lyon,Emporia 16.01,U.S. Senate,,L,Randall Batson,11
-Lyon,Emporia 17.01,U.S. Senate,,L,Randall Batson,22
-Lyon,Emporia 18.01,U.S. Senate,,L,Randall Batson,8
-Lyon,Emporia 19.01,U.S. Senate,,L,Randall Batson,16
-Lyon,Emporia 20.01,U.S. Senate,,L,Randall Batson,14
-Lyon,Precinct 21.01,U.S. Senate,,L,Randall Batson,5
-Lyon,Precinct 22.01,U.S. Senate,,L,Randall Batson,3
-Lyon,Precinct 23.01,U.S. Senate,,L,Randall Batson,7
-Lyon,Precinct 24.01,U.S. Senate,,L,Randall Batson,23
-Lyon,Precinct 25.01,U.S. Senate,,L,Randall Batson,19
-Lyon,Precinct 26.01,U.S. Senate,,L,Randall Batson,5
-Lyon,Precinct 27.01,U.S. Senate,,L,Randall Batson,18
-Lyon,Precinct 28.01,U.S. Senate,,L,Randall Batson,14
-Lyon,Precinct 29.01,U.S. Senate,,L,Randall Batson,5
-Lyon,Precinct 29D.01,U.S. Senate,,L,Randall Batson,0
-Lyon,Precinct 30.01,U.S. Senate,,L,Randall Batson,29
-Lyon,Precinct 31.01,U.S. Senate,,L,Randall Batson,25
-Lyon,Precinct 32.01,U.S. Senate,,L,Randall Batson,16
-Lyon,Emporia 01.01,U.S. House,1,R,Tim Huelskamp,124
-Lyon,Emporia 02.01,U.S. House,1,R,Tim Huelskamp,101
-Lyon,Emporia 03.01,U.S. House,1,R,Tim Huelskamp,131
-Lyon,Emporia 04.01,U.S. House,1,R,Tim Huelskamp,145
-Lyon,Emporia 4A.01,U.S. House,1,R,Tim Huelskamp,4
-Lyon,Emporia 4B.01,U.S. House,1,R,Tim Huelskamp,0
-Lyon,Emporia 4C.01,U.S. House,1,R,Tim Huelskamp,1
-Lyon,Emporia 05.01,U.S. House,1,R,Tim Huelskamp,90
-Lyon,Emporia 06.01,U.S. House,1,R,Tim Huelskamp,85
-Lyon,Emporia 07.01,U.S. House,1,R,Tim Huelskamp,37
-Lyon,Emporia 08.01,U.S. House,1,R,Tim Huelskamp,98
-Lyon,Emporia 09.01,U.S. House,1,R,Tim Huelskamp,94
-Lyon,Emporia 10.01,U.S. House,1,R,Tim Huelskamp,131
-Lyon,Emporia 11.01,U.S. House,1,R,Tim Huelskamp,99
-Lyon,Emporia 12.01,U.S. House,1,R,Tim Huelskamp,94
-Lyon,Emporia 13.01,U.S. House,1,R,Tim Huelskamp,149
-Lyon,Emporia 14.01,U.S. House,1,R,Tim Huelskamp,190
-Lyon,Emporia 15.01,U.S. House,1,R,Tim Huelskamp,109
-Lyon,Emporia 16.01,U.S. House,1,R,Tim Huelskamp,154
-Lyon,Emporia 17.01,U.S. House,1,R,Tim Huelskamp,168
-Lyon,Emporia 18.01,U.S. House,1,R,Tim Huelskamp,164
-Lyon,Emporia 19.01,U.S. House,1,R,Tim Huelskamp,269
-Lyon,Emporia 20.01,U.S. House,1,R,Tim Huelskamp,233
-Lyon,Precinct 21.01,U.S. House,1,R,Tim Huelskamp,95
-Lyon,Precinct 22.01,U.S. House,1,R,Tim Huelskamp,67
-Lyon,Precinct 23.01,U.S. House,1,R,Tim Huelskamp,67
-Lyon,Precinct 24.01,U.S. House,1,R,Tim Huelskamp,283
-Lyon,Precinct 25.01,U.S. House,1,R,Tim Huelskamp,259
-Lyon,Precinct 26.01,U.S. House,1,R,Tim Huelskamp,106
-Lyon,Precinct 27.01,U.S. House,1,R,Tim Huelskamp,176
-Lyon,Precinct 28.01,U.S. House,1,R,Tim Huelskamp,162
-Lyon,Precinct 29.01,U.S. House,1,R,Tim Huelskamp,81
-Lyon,Precinct 29D.01,U.S. House,1,R,Tim Huelskamp,3
-Lyon,Precinct 30.01,U.S. House,1,R,Tim Huelskamp,224
-Lyon,Precinct 31.01,U.S. House,1,R,Tim Huelskamp,306
-Lyon,Precinct 32.01,U.S. House,1,R,Tim Huelskamp,168
-Lyon,Emporia 01.01,U.S. House,1,D,James Sherow,193
-Lyon,Emporia 02.01,U.S. House,1,D,James Sherow,115
-Lyon,Emporia 03.01,U.S. House,1,D,James Sherow,126
-Lyon,Emporia 04.01,U.S. House,1,D,James Sherow,157
-Lyon,Emporia 4A.01,U.S. House,1,D,James Sherow,0
-Lyon,Emporia 4B.01,U.S. House,1,D,James Sherow,2
-Lyon,Emporia 4C.01,U.S. House,1,D,James Sherow,4
-Lyon,Emporia 05.01,U.S. House,1,D,James Sherow,86
-Lyon,Emporia 06.01,U.S. House,1,D,James Sherow,121
-Lyon,Emporia 07.01,U.S. House,1,D,James Sherow,51
-Lyon,Emporia 08.01,U.S. House,1,D,James Sherow,102
-Lyon,Emporia 09.01,U.S. House,1,D,James Sherow,104
-Lyon,Emporia 10.01,U.S. House,1,D,James Sherow,136
-Lyon,Emporia 11.01,U.S. House,1,D,James Sherow,101
-Lyon,Emporia 12.01,U.S. House,1,D,James Sherow,114
-Lyon,Emporia 13.01,U.S. House,1,D,James Sherow,145
-Lyon,Emporia 14.01,U.S. House,1,D,James Sherow,230
-Lyon,Emporia 15.01,U.S. House,1,D,James Sherow,122
-Lyon,Emporia 16.01,U.S. House,1,D,James Sherow,196
-Lyon,Emporia 17.01,U.S. House,1,D,James Sherow,181
-Lyon,Emporia 18.01,U.S. House,1,D,James Sherow,156
-Lyon,Emporia 19.01,U.S. House,1,D,James Sherow,252
-Lyon,Emporia 20.01,U.S. House,1,D,James Sherow,214
-Lyon,Precinct 21.01,U.S. House,1,D,James Sherow,50
-Lyon,Precinct 22.01,U.S. House,1,D,James Sherow,31
-Lyon,Precinct 23.01,U.S. House,1,D,James Sherow,40
-Lyon,Precinct 24.01,U.S. House,1,D,James Sherow,179
-Lyon,Precinct 25.01,U.S. House,1,D,James Sherow,135
-Lyon,Precinct 26.01,U.S. House,1,D,James Sherow,81
-Lyon,Precinct 27.01,U.S. House,1,D,James Sherow,98
-Lyon,Precinct 28.01,U.S. House,1,D,James Sherow,99
-Lyon,Precinct 29.01,U.S. House,1,D,James Sherow,54
-Lyon,Precinct 29D.01,U.S. House,1,D,James Sherow,0
-Lyon,Precinct 30.01,U.S. House,1,D,James Sherow,150
-Lyon,Precinct 31.01,U.S. House,1,D,James Sherow,173
-Lyon,Precinct 32.01,U.S. House,1,D,James Sherow,105
-Lyon,Emporia 01.01,Governor,,R,Sam Brownback,99
-Lyon,Emporia 02.01,Governor,,R,Sam Brownback,64
-Lyon,Emporia 03.01,Governor,,R,Sam Brownback,107
-Lyon,Emporia 04.01,Governor,,R,Sam Brownback,96
-Lyon,Emporia 4A.01,Governor,,R,Sam Brownback,4
-Lyon,Emporia 4B.01,Governor,,R,Sam Brownback,0
-Lyon,Emporia 4C.01,Governor,,R,Sam Brownback,1
-Lyon,Emporia 05.01,Governor,,R,Sam Brownback,61
-Lyon,Emporia 06.01,Governor,,R,Sam Brownback,71
-Lyon,Emporia 07.01,Governor,,R,Sam Brownback,23
-Lyon,Emporia 08.01,Governor,,R,Sam Brownback,65
-Lyon,Emporia 09.01,Governor,,R,Sam Brownback,71
-Lyon,Emporia 10.01,Governor,,R,Sam Brownback,93
-Lyon,Emporia 11.01,Governor,,R,Sam Brownback,64
-Lyon,Emporia 12.01,Governor,,R,Sam Brownback,60
-Lyon,Emporia 13.01,Governor,,R,Sam Brownback,108
-Lyon,Emporia 14.01,Governor,,R,Sam Brownback,142
-Lyon,Emporia 15.01,Governor,,R,Sam Brownback,84
-Lyon,Emporia 16.01,Governor,,R,Sam Brownback,110
-Lyon,Emporia 17.01,Governor,,R,Sam Brownback,126
-Lyon,Emporia 18.01,Governor,,R,Sam Brownback,128
-Lyon,Emporia 19.01,Governor,,R,Sam Brownback,192
-Lyon,Emporia 20.01,Governor,,R,Sam Brownback,171
-Lyon,Precinct 21.01,Governor,,R,Sam Brownback,77
-Lyon,Precinct 22.01,Governor,,R,Sam Brownback,55
-Lyon,Precinct 23.01,Governor,,R,Sam Brownback,57
-Lyon,Precinct 24.01,Governor,,R,Sam Brownback,234
-Lyon,Precinct 25.01,Governor,,R,Sam Brownback,205
-Lyon,Precinct 26.01,Governor,,R,Sam Brownback,82
-Lyon,Precinct 27.01,Governor,,R,Sam Brownback,148
-Lyon,Precinct 28.01,Governor,,R,Sam Brownback,130
-Lyon,Precinct 29.01,Governor,,R,Sam Brownback,63
-Lyon,Precinct 29D.01,Governor,,R,Sam Brownback,3
-Lyon,Precinct 30.01,Governor,,R,Sam Brownback,180
-Lyon,Precinct 31.01,Governor,,R,Sam Brownback,221
-Lyon,Precinct 32.01,Governor,,R,Sam Brownback,125
-Lyon,Emporia 01.01,Governor,,D,Paul Davis,213
-Lyon,Emporia 02.01,Governor,,D,Paul Davis,154
-Lyon,Emporia 03.01,Governor,,D,Paul Davis,154
-Lyon,Emporia 04.01,Governor,,D,Paul Davis,195
-Lyon,Emporia 4A.01,Governor,,D,Paul Davis,0
-Lyon,Emporia 4B.01,Governor,,D,Paul Davis,2
-Lyon,Emporia 4C.01,Governor,,D,Paul Davis,4
-Lyon,Emporia 05.01,Governor,,D,Paul Davis,99
-Lyon,Emporia 06.01,Governor,,D,Paul Davis,125
-Lyon,Emporia 07.01,Governor,,D,Paul Davis,60
-Lyon,Emporia 08.01,Governor,,D,Paul Davis,124
-Lyon,Emporia 09.01,Governor,,D,Paul Davis,121
-Lyon,Emporia 10.01,Governor,,D,Paul Davis,173
-Lyon,Emporia 11.01,Governor,,D,Paul Davis,126
-Lyon,Emporia 12.01,Governor,,D,Paul Davis,144
-Lyon,Emporia 13.01,Governor,,D,Paul Davis,175
-Lyon,Emporia 14.01,Governor,,D,Paul Davis,282
-Lyon,Emporia 15.01,Governor,,D,Paul Davis,146
-Lyon,Emporia 16.01,Governor,,D,Paul Davis,236
-Lyon,Emporia 17.01,Governor,,D,Paul Davis,211
-Lyon,Emporia 18.01,Governor,,D,Paul Davis,199
-Lyon,Emporia 19.01,Governor,,D,Paul Davis,327
-Lyon,Emporia 20.01,Governor,,D,Paul Davis,283
-Lyon,Precinct 21.01,Governor,,D,Paul Davis,65
-Lyon,Precinct 22.01,Governor,,D,Paul Davis,39
-Lyon,Precinct 23.01,Governor,,D,Paul Davis,46
-Lyon,Precinct 24.01,Governor,,D,Paul Davis,222
-Lyon,Precinct 25.01,Governor,,D,Paul Davis,164
-Lyon,Precinct 26.01,Governor,,D,Paul Davis,93
-Lyon,Precinct 27.01,Governor,,D,Paul Davis,124
-Lyon,Precinct 28.01,Governor,,D,Paul Davis,123
-Lyon,Precinct 29.01,Governor,,D,Paul Davis,72
-Lyon,Precinct 29D.01,Governor,,D,Paul Davis,0
-Lyon,Precinct 30.01,Governor,,D,Paul Davis,173
-Lyon,Precinct 31.01,Governor,,D,Paul Davis,259
-Lyon,Precinct 32.01,Governor,,D,Paul Davis,120
-Lyon,Emporia 01.01,Governor,,L,Keen Umbehr,13
-Lyon,Emporia 02.01,Governor,,L,Keen Umbehr,6
-Lyon,Emporia 03.01,Governor,,L,Keen Umbehr,10
-Lyon,Emporia 04.01,Governor,,L,Keen Umbehr,20
-Lyon,Emporia 4A.01,Governor,,L,Keen Umbehr,0
-Lyon,Emporia 4B.01,Governor,,L,Keen Umbehr,0
-Lyon,Emporia 4C.01,Governor,,L,Keen Umbehr,0
-Lyon,Emporia 05.01,Governor,,L,Keen Umbehr,20
-Lyon,Emporia 06.01,Governor,,L,Keen Umbehr,14
-Lyon,Emporia 07.01,Governor,,L,Keen Umbehr,8
-Lyon,Emporia 08.01,Governor,,L,Keen Umbehr,15
-Lyon,Emporia 09.01,Governor,,L,Keen Umbehr,10
-Lyon,Emporia 10.01,Governor,,L,Keen Umbehr,6
-Lyon,Emporia 11.01,Governor,,L,Keen Umbehr,12
-Lyon,Emporia 12.01,Governor,,L,Keen Umbehr,13
-Lyon,Emporia 13.01,Governor,,L,Keen Umbehr,24
-Lyon,Emporia 14.01,Governor,,L,Keen Umbehr,10
-Lyon,Emporia 15.01,Governor,,L,Keen Umbehr,6
-Lyon,Emporia 16.01,Governor,,L,Keen Umbehr,10
-Lyon,Emporia 17.01,Governor,,L,Keen Umbehr,16
-Lyon,Emporia 18.01,Governor,,L,Keen Umbehr,2
-Lyon,Emporia 19.01,Governor,,L,Keen Umbehr,17
-Lyon,Emporia 20.01,Governor,,L,Keen Umbehr,8
-Lyon,Precinct 21.01,Governor,,L,Keen Umbehr,12
-Lyon,Precinct 22.01,Governor,,L,Keen Umbehr,4
-Lyon,Precinct 23.01,Governor,,L,Keen Umbehr,7
-Lyon,Precinct 24.01,Governor,,L,Keen Umbehr,17
-Lyon,Precinct 25.01,Governor,,L,Keen Umbehr,26
-Lyon,Precinct 26.01,Governor,,L,Keen Umbehr,12
-Lyon,Precinct 27.01,Governor,,L,Keen Umbehr,10
-Lyon,Precinct 28.01,Governor,,L,Keen Umbehr,16
-Lyon,Precinct 29.01,Governor,,L,Keen Umbehr,4
-Lyon,Precinct 29D.01,Governor,,L,Keen Umbehr,0
-Lyon,Precinct 30.01,Governor,,L,Keen Umbehr,22
-Lyon,Precinct 31.01,Governor,,L,Keen Umbehr,20
-Lyon,Precinct 32.01,Governor,,L,Keen Umbehr,28
-Lyon,Emporia 01.01,Secretary of State,,R,Kris Kobach,121
-Lyon,Emporia 02.01,Secretary of State,,R,Kris Kobach,96
-Lyon,Emporia 03.01,Secretary of State,,R,Kris Kobach,133
-Lyon,Emporia 04.01,Secretary of State,,R,Kris Kobach,149
-Lyon,Emporia 4A.01,Secretary of State,,R,Kris Kobach,4
-Lyon,Emporia 4B.01,Secretary of State,,R,Kris Kobach,0
-Lyon,Emporia 4C.01,Secretary of State,,R,Kris Kobach,2
-Lyon,Emporia 05.01,Secretary of State,,R,Kris Kobach,90
-Lyon,Emporia 06.01,Secretary of State,,R,Kris Kobach,86
-Lyon,Emporia 07.01,Secretary of State,,R,Kris Kobach,36
-Lyon,Emporia 08.01,Secretary of State,,R,Kris Kobach,92
-Lyon,Emporia 09.01,Secretary of State,,R,Kris Kobach,99
-Lyon,Emporia 10.01,Secretary of State,,R,Kris Kobach,131
-Lyon,Emporia 11.01,Secretary of State,,R,Kris Kobach,100
-Lyon,Emporia 12.01,Secretary of State,,R,Kris Kobach,97
-Lyon,Emporia 13.01,Secretary of State,,R,Kris Kobach,160
-Lyon,Emporia 14.01,Secretary of State,,R,Kris Kobach,197
-Lyon,Emporia 15.01,Secretary of State,,R,Kris Kobach,115
-Lyon,Emporia 16.01,Secretary of State,,R,Kris Kobach,163
-Lyon,Emporia 17.01,Secretary of State,,R,Kris Kobach,184
-Lyon,Emporia 18.01,Secretary of State,,R,Kris Kobach,172
-Lyon,Emporia 19.01,Secretary of State,,R,Kris Kobach,284
-Lyon,Emporia 20.01,Secretary of State,,R,Kris Kobach,249
-Lyon,Precinct 21.01,Secretary of State,,R,Kris Kobach,102
-Lyon,Precinct 22.01,Secretary of State,,R,Kris Kobach,69
-Lyon,Precinct 23.01,Secretary of State,,R,Kris Kobach,70
-Lyon,Precinct 24.01,Secretary of State,,R,Kris Kobach,302
-Lyon,Precinct 25.01,Secretary of State,,R,Kris Kobach,259
-Lyon,Precinct 26.01,Secretary of State,,R,Kris Kobach,101
-Lyon,Precinct 27.01,Secretary of State,,R,Kris Kobach,179
-Lyon,Precinct 28.01,Secretary of State,,R,Kris Kobach,171
-Lyon,Precinct 29.01,Secretary of State,,R,Kris Kobach,87
-Lyon,Precinct 29D.01,Secretary of State,,R,Kris Kobach,2
-Lyon,Precinct 30.01,Secretary of State,,R,Kris Kobach,234
-Lyon,Precinct 31.01,Secretary of State,,R,Kris Kobach,314
-Lyon,Precinct 32.01,Secretary of State,,R,Kris Kobach,169
-Lyon,Emporia 01.01,Secretary of State,,D,Jean Schodorf,197
-Lyon,Emporia 02.01,Secretary of State,,D,Jean Schodorf,121
-Lyon,Emporia 03.01,Secretary of State,,D,Jean Schodorf,124
-Lyon,Emporia 04.01,Secretary of State,,D,Jean Schodorf,154
-Lyon,Emporia 4A.01,Secretary of State,,D,Jean Schodorf,0
-Lyon,Emporia 4B.01,Secretary of State,,D,Jean Schodorf,2
-Lyon,Emporia 4C.01,Secretary of State,,D,Jean Schodorf,3
-Lyon,Emporia 05.01,Secretary of State,,D,Jean Schodorf,85
-Lyon,Emporia 06.01,Secretary of State,,D,Jean Schodorf,122
-Lyon,Emporia 07.01,Secretary of State,,D,Jean Schodorf,49
-Lyon,Emporia 08.01,Secretary of State,,D,Jean Schodorf,108
-Lyon,Emporia 09.01,Secretary of State,,D,Jean Schodorf,98
-Lyon,Emporia 10.01,Secretary of State,,D,Jean Schodorf,136
-Lyon,Emporia 11.01,Secretary of State,,D,Jean Schodorf,100
-Lyon,Emporia 12.01,Secretary of State,,D,Jean Schodorf,114
-Lyon,Emporia 13.01,Secretary of State,,D,Jean Schodorf,138
-Lyon,Emporia 14.01,Secretary of State,,D,Jean Schodorf,232
-Lyon,Emporia 15.01,Secretary of State,,D,Jean Schodorf,117
-Lyon,Emporia 16.01,Secretary of State,,D,Jean Schodorf,188
-Lyon,Emporia 17.01,Secretary of State,,D,Jean Schodorf,163
-Lyon,Emporia 18.01,Secretary of State,,D,Jean Schodorf,150
-Lyon,Emporia 19.01,Secretary of State,,D,Jean Schodorf,238
-Lyon,Emporia 20.01,Secretary of State,,D,Jean Schodorf,203
-Lyon,Precinct 21.01,Secretary of State,,D,Jean Schodorf,47
-Lyon,Precinct 22.01,Secretary of State,,D,Jean Schodorf,29
-Lyon,Precinct 23.01,Secretary of State,,D,Jean Schodorf,40
-Lyon,Precinct 24.01,Secretary of State,,D,Jean Schodorf,161
-Lyon,Precinct 25.01,Secretary of State,,D,Jean Schodorf,133
-Lyon,Precinct 26.01,Secretary of State,,D,Jean Schodorf,84
-Lyon,Precinct 27.01,Secretary of State,,D,Jean Schodorf,96
-Lyon,Precinct 28.01,Secretary of State,,D,Jean Schodorf,89
-Lyon,Precinct 29.01,Secretary of State,,D,Jean Schodorf,49
-Lyon,Precinct 29D.01,Secretary of State,,D,Jean Schodorf,0
-Lyon,Precinct 30.01,Secretary of State,,D,Jean Schodorf,141
-Lyon,Precinct 31.01,Secretary of State,,D,Jean Schodorf,171
-Lyon,Precinct 32.01,Secretary of State,,D,Jean Schodorf,102
-Lyon,Emporia 01.01,Attorney General,,R,Derek Schmidt,157
-Lyon,Emporia 02.01,Attorney General,,R,Derek Schmidt,106
-Lyon,Emporia 03.01,Attorney General,,R,Derek Schmidt,147
-Lyon,Emporia 04.01,Attorney General,,R,Derek Schmidt,161
-Lyon,Emporia 4A.01,Attorney General,,R,Derek Schmidt,4
-Lyon,Emporia 4B.01,Attorney General,,R,Derek Schmidt,0
-Lyon,Emporia 4C.01,Attorney General,,R,Derek Schmidt,3
-Lyon,Emporia 05.01,Attorney General,,R,Derek Schmidt,100
-Lyon,Emporia 06.01,Attorney General,,R,Derek Schmidt,96
-Lyon,Emporia 07.01,Attorney General,,R,Derek Schmidt,42
-Lyon,Emporia 08.01,Attorney General,,R,Derek Schmidt,101
-Lyon,Emporia 09.01,Attorney General,,R,Derek Schmidt,111
-Lyon,Emporia 10.01,Attorney General,,R,Derek Schmidt,154
-Lyon,Emporia 11.01,Attorney General,,R,Derek Schmidt,114
-Lyon,Emporia 12.01,Attorney General,,R,Derek Schmidt,109
-Lyon,Emporia 13.01,Attorney General,,R,Derek Schmidt,175
-Lyon,Emporia 14.01,Attorney General,,R,Derek Schmidt,233
-Lyon,Emporia 15.01,Attorney General,,R,Derek Schmidt,131
-Lyon,Emporia 16.01,Attorney General,,R,Derek Schmidt,193
-Lyon,Emporia 17.01,Attorney General,,R,Derek Schmidt,219
-Lyon,Emporia 18.01,Attorney General,,R,Derek Schmidt,197
-Lyon,Emporia 19.01,Attorney General,,R,Derek Schmidt,333
-Lyon,Emporia 20.01,Attorney General,,R,Derek Schmidt,298
-Lyon,Precinct 21.01,Attorney General,,R,Derek Schmidt,110
-Lyon,Precinct 22.01,Attorney General,,R,Derek Schmidt,71
-Lyon,Precinct 23.01,Attorney General,,R,Derek Schmidt,81
-Lyon,Precinct 24.01,Attorney General,,R,Derek Schmidt,318
-Lyon,Precinct 25.01,Attorney General,,R,Derek Schmidt,302
-Lyon,Precinct 26.01,Attorney General,,R,Derek Schmidt,129
-Lyon,Precinct 27.01,Attorney General,,R,Derek Schmidt,200
-Lyon,Precinct 28.01,Attorney General,,R,Derek Schmidt,184
-Lyon,Precinct 29.01,Attorney General,,R,Derek Schmidt,99
-Lyon,Precinct 29D.01,Attorney General,,R,Derek Schmidt,3
-Lyon,Precinct 30.01,Attorney General,,R,Derek Schmidt,258
-Lyon,Precinct 31.01,Attorney General,,R,Derek Schmidt,367
-Lyon,Precinct 32.01,Attorney General,,R,Derek Schmidt,204
-Lyon,Emporia 01.01,Attorney General,,D,AJ Kotich,157
-Lyon,Emporia 02.01,Attorney General,,D,AJ Kotich,111
-Lyon,Emporia 03.01,Attorney General,,D,AJ Kotich,110
-Lyon,Emporia 04.01,Attorney General,,D,AJ Kotich,136
-Lyon,Emporia 4A.01,Attorney General,,D,AJ Kotich,0
-Lyon,Emporia 4B.01,Attorney General,,D,AJ Kotich,2
-Lyon,Emporia 4C.01,Attorney General,,D,AJ Kotich,2
-Lyon,Emporia 05.01,Attorney General,,D,AJ Kotich,74
-Lyon,Emporia 06.01,Attorney General,,D,AJ Kotich,107
-Lyon,Emporia 07.01,Attorney General,,D,AJ Kotich,43
-Lyon,Emporia 08.01,Attorney General,,D,AJ Kotich,94
-Lyon,Emporia 09.01,Attorney General,,D,AJ Kotich,87
-Lyon,Emporia 10.01,Attorney General,,D,AJ Kotich,113
-Lyon,Emporia 11.01,Attorney General,,D,AJ Kotich,85
-Lyon,Emporia 12.01,Attorney General,,D,AJ Kotich,97
-Lyon,Emporia 13.01,Attorney General,,D,AJ Kotich,119
-Lyon,Emporia 14.01,Attorney General,,D,AJ Kotich,190
-Lyon,Emporia 15.01,Attorney General,,D,AJ Kotich,99
-Lyon,Emporia 16.01,Attorney General,,D,AJ Kotich,147
-Lyon,Emporia 17.01,Attorney General,,D,AJ Kotich,126
-Lyon,Emporia 18.01,Attorney General,,D,AJ Kotich,117
-Lyon,Emporia 19.01,Attorney General,,D,AJ Kotich,182
-Lyon,Emporia 20.01,Attorney General,,D,AJ Kotich,152
-Lyon,Precinct 21.01,Attorney General,,D,AJ Kotich,39
-Lyon,Precinct 22.01,Attorney General,,D,AJ Kotich,27
-Lyon,Precinct 23.01,Attorney General,,D,AJ Kotich,28
-Lyon,Precinct 24.01,Attorney General,,D,AJ Kotich,140
-Lyon,Precinct 25.01,Attorney General,,D,AJ Kotich,89
-Lyon,Precinct 26.01,Attorney General,,D,AJ Kotich,54
-Lyon,Precinct 27.01,Attorney General,,D,AJ Kotich,69
-Lyon,Precinct 28.01,Attorney General,,D,AJ Kotich,77
-Lyon,Precinct 29.01,Attorney General,,D,AJ Kotich,33
-Lyon,Precinct 29D.01,Attorney General,,D,AJ Kotich,0
-Lyon,Precinct 30.01,Attorney General,,D,AJ Kotich,110
-Lyon,Precinct 31.01,Attorney General,,D,AJ Kotich,116
-Lyon,Precinct 32.01,Attorney General,,D,AJ Kotich,67
-Lyon,Emporia 01.01,State Treasurer,,R,Ron Estes,162
-Lyon,Emporia 02.01,State Treasurer,,R,Ron Estes,117
-Lyon,Emporia 03.01,State Treasurer,,R,Ron Estes,147
-Lyon,Emporia 04.01,State Treasurer,,R,Ron Estes,165
-Lyon,Emporia 4A.01,State Treasurer,,R,Ron Estes,4
-Lyon,Emporia 4B.01,State Treasurer,,R,Ron Estes,0
-Lyon,Emporia 4C.01,State Treasurer,,R,Ron Estes,2
-Lyon,Emporia 05.01,State Treasurer,,R,Ron Estes,97
-Lyon,Emporia 06.01,State Treasurer,,R,Ron Estes,103
-Lyon,Emporia 07.01,State Treasurer,,R,Ron Estes,44
-Lyon,Emporia 08.01,State Treasurer,,R,Ron Estes,108
-Lyon,Emporia 09.01,State Treasurer,,R,Ron Estes,118
-Lyon,Emporia 10.01,State Treasurer,,R,Ron Estes,156
-Lyon,Emporia 11.01,State Treasurer,,R,Ron Estes,108
-Lyon,Emporia 12.01,State Treasurer,,R,Ron Estes,121
-Lyon,Emporia 13.01,State Treasurer,,R,Ron Estes,180
-Lyon,Emporia 14.01,State Treasurer,,R,Ron Estes,248
-Lyon,Emporia 15.01,State Treasurer,,R,Ron Estes,135
-Lyon,Emporia 16.01,State Treasurer,,R,Ron Estes,195
-Lyon,Emporia 17.01,State Treasurer,,R,Ron Estes,210
-Lyon,Emporia 18.01,State Treasurer,,R,Ron Estes,196
-Lyon,Emporia 19.01,State Treasurer,,R,Ron Estes,339
-Lyon,Emporia 20.01,State Treasurer,,R,Ron Estes,297
-Lyon,Precinct 21.01,State Treasurer,,R,Ron Estes,109
-Lyon,Precinct 22.01,State Treasurer,,R,Ron Estes,75
-Lyon,Precinct 23.01,State Treasurer,,R,Ron Estes,84
-Lyon,Precinct 24.01,State Treasurer,,R,Ron Estes,339
-Lyon,Precinct 25.01,State Treasurer,,R,Ron Estes,293
-Lyon,Precinct 26.01,State Treasurer,,R,Ron Estes,124
-Lyon,Precinct 27.01,State Treasurer,,R,Ron Estes,198
-Lyon,Precinct 28.01,State Treasurer,,R,Ron Estes,178
-Lyon,Precinct 29.01,State Treasurer,,R,Ron Estes,99
-Lyon,Precinct 29D.01,State Treasurer,,R,Ron Estes,3
-Lyon,Precinct 30.01,State Treasurer,,R,Ron Estes,251
-Lyon,Precinct 31.01,State Treasurer,,R,Ron Estes,338
-Lyon,Precinct 32.01,State Treasurer,,R,Ron Estes,195
-Lyon,Emporia 01.01,State Treasurer,,D,Carmen Alldritt,151
-Lyon,Emporia 02.01,State Treasurer,,D,Carmen Alldritt,98
-Lyon,Emporia 03.01,State Treasurer,,D,Carmen Alldritt,109
-Lyon,Emporia 04.01,State Treasurer,,D,Carmen Alldritt,132
-Lyon,Emporia 4A.01,State Treasurer,,D,Carmen Alldritt,0
-Lyon,Emporia 4B.01,State Treasurer,,D,Carmen Alldritt,2
-Lyon,Emporia 4C.01,State Treasurer,,D,Carmen Alldritt,2
-Lyon,Emporia 05.01,State Treasurer,,D,Carmen Alldritt,77
-Lyon,Emporia 06.01,State Treasurer,,D,Carmen Alldritt,101
-Lyon,Emporia 07.01,State Treasurer,,D,Carmen Alldritt,38
-Lyon,Emporia 08.01,State Treasurer,,D,Carmen Alldritt,83
-Lyon,Emporia 09.01,State Treasurer,,D,Carmen Alldritt,84
-Lyon,Emporia 10.01,State Treasurer,,D,Carmen Alldritt,110
-Lyon,Emporia 11.01,State Treasurer,,D,Carmen Alldritt,87
-Lyon,Emporia 12.01,State Treasurer,,D,Carmen Alldritt,87
-Lyon,Emporia 13.01,State Treasurer,,D,Carmen Alldritt,108
-Lyon,Emporia 14.01,State Treasurer,,D,Carmen Alldritt,170
-Lyon,Emporia 15.01,State Treasurer,,D,Carmen Alldritt,86
-Lyon,Emporia 16.01,State Treasurer,,D,Carmen Alldritt,139
-Lyon,Emporia 17.01,State Treasurer,,D,Carmen Alldritt,133
-Lyon,Emporia 18.01,State Treasurer,,D,Carmen Alldritt,118
-Lyon,Emporia 19.01,State Treasurer,,D,Carmen Alldritt,175
-Lyon,Emporia 20.01,State Treasurer,,D,Carmen Alldritt,148
-Lyon,Precinct 21.01,State Treasurer,,D,Carmen Alldritt,38
-Lyon,Precinct 22.01,State Treasurer,,D,Carmen Alldritt,22
-Lyon,Precinct 23.01,State Treasurer,,D,Carmen Alldritt,24
-Lyon,Precinct 24.01,State Treasurer,,D,Carmen Alldritt,120
-Lyon,Precinct 25.01,State Treasurer,,D,Carmen Alldritt,91
-Lyon,Precinct 26.01,State Treasurer,,D,Carmen Alldritt,58
-Lyon,Precinct 27.01,State Treasurer,,D,Carmen Alldritt,66
-Lyon,Precinct 28.01,State Treasurer,,D,Carmen Alldritt,78
-Lyon,Precinct 29.01,State Treasurer,,D,Carmen Alldritt,34
-Lyon,Precinct 29D.01,State Treasurer,,D,Carmen Alldritt,0
-Lyon,Precinct 30.01,State Treasurer,,D,Carmen Alldritt,115
-Lyon,Precinct 31.01,State Treasurer,,D,Carmen Alldritt,128
-Lyon,Precinct 32.01,State Treasurer,,D,Carmen Alldritt,74
-Lyon,Emporia 01.01,Insurance Commissioner,,R,Ken Selzer,147
-Lyon,Emporia 02.01,Insurance Commissioner,,R,Ken Selzer,94
-Lyon,Emporia 03.01,Insurance Commissioner,,R,Ken Selzer,125
-Lyon,Emporia 04.01,Insurance Commissioner,,R,Ken Selzer,146
-Lyon,Emporia 4A.01,Insurance Commissioner,,R,Ken Selzer,4
-Lyon,Emporia 4B.01,Insurance Commissioner,,R,Ken Selzer,0
-Lyon,Emporia 4C.01,Insurance Commissioner,,R,Ken Selzer,2
-Lyon,Emporia 05.01,Insurance Commissioner,,R,Ken Selzer,79
-Lyon,Emporia 06.01,Insurance Commissioner,,R,Ken Selzer,86
-Lyon,Emporia 07.01,Insurance Commissioner,,R,Ken Selzer,41
-Lyon,Emporia 08.01,Insurance Commissioner,,R,Ken Selzer,87
-Lyon,Emporia 09.01,Insurance Commissioner,,R,Ken Selzer,100
-Lyon,Emporia 10.01,Insurance Commissioner,,R,Ken Selzer,118
-Lyon,Emporia 11.01,Insurance Commissioner,,R,Ken Selzer,98
-Lyon,Emporia 12.01,Insurance Commissioner,,R,Ken Selzer,102
-Lyon,Emporia 13.01,Insurance Commissioner,,R,Ken Selzer,160
-Lyon,Emporia 14.01,Insurance Commissioner,,R,Ken Selzer,212
-Lyon,Emporia 15.01,Insurance Commissioner,,R,Ken Selzer,124
-Lyon,Emporia 16.01,Insurance Commissioner,,R,Ken Selzer,167
-Lyon,Emporia 17.01,Insurance Commissioner,,R,Ken Selzer,181
-Lyon,Emporia 18.01,Insurance Commissioner,,R,Ken Selzer,180
-Lyon,Emporia 19.01,Insurance Commissioner,,R,Ken Selzer,289
-Lyon,Emporia 20.01,Insurance Commissioner,,R,Ken Selzer,258
-Lyon,Precinct 21.01,Insurance Commissioner,,R,Ken Selzer,88
-Lyon,Precinct 22.01,Insurance Commissioner,,R,Ken Selzer,64
-Lyon,Precinct 23.01,Insurance Commissioner,,R,Ken Selzer,67
-Lyon,Precinct 24.01,Insurance Commissioner,,R,Ken Selzer,292
-Lyon,Precinct 25.01,Insurance Commissioner,,R,Ken Selzer,256
-Lyon,Precinct 26.01,Insurance Commissioner,,R,Ken Selzer,109
-Lyon,Precinct 27.01,Insurance Commissioner,,R,Ken Selzer,172
-Lyon,Precinct 28.01,Insurance Commissioner,,R,Ken Selzer,160
-Lyon,Precinct 29.01,Insurance Commissioner,,R,Ken Selzer,88
-Lyon,Precinct 29D.01,Insurance Commissioner,,R,Ken Selzer,2
-Lyon,Precinct 30.01,Insurance Commissioner,,R,Ken Selzer,238
-Lyon,Precinct 31.01,Insurance Commissioner,,R,Ken Selzer,284
-Lyon,Precinct 32.01,Insurance Commissioner,,R,Ken Selzer,160
-Lyon,Emporia 01.01,Insurance Commissioner,,D,Dennis Anderson,167
-Lyon,Emporia 02.01,Insurance Commissioner,,D,Dennis Anderson,115
-Lyon,Emporia 03.01,Insurance Commissioner,,D,Dennis Anderson,124
-Lyon,Emporia 04.01,Insurance Commissioner,,D,Dennis Anderson,145
-Lyon,Emporia 4A.01,Insurance Commissioner,,D,Dennis Anderson,0
-Lyon,Emporia 4B.01,Insurance Commissioner,,D,Dennis Anderson,2
-Lyon,Emporia 4C.01,Insurance Commissioner,,D,Dennis Anderson,2
-Lyon,Emporia 05.01,Insurance Commissioner,,D,Dennis Anderson,92
-Lyon,Emporia 06.01,Insurance Commissioner,,D,Dennis Anderson,115
-Lyon,Emporia 07.01,Insurance Commissioner,,D,Dennis Anderson,42
-Lyon,Emporia 08.01,Insurance Commissioner,,D,Dennis Anderson,102
-Lyon,Emporia 09.01,Insurance Commissioner,,D,Dennis Anderson,99
-Lyon,Emporia 10.01,Insurance Commissioner,,D,Dennis Anderson,145
-Lyon,Emporia 11.01,Insurance Commissioner,,D,Dennis Anderson,92
-Lyon,Emporia 12.01,Insurance Commissioner,,D,Dennis Anderson,103
-Lyon,Emporia 13.01,Insurance Commissioner,,D,Dennis Anderson,127
-Lyon,Emporia 14.01,Insurance Commissioner,,D,Dennis Anderson,197
-Lyon,Emporia 15.01,Insurance Commissioner,,D,Dennis Anderson,97
-Lyon,Emporia 16.01,Insurance Commissioner,,D,Dennis Anderson,169
-Lyon,Emporia 17.01,Insurance Commissioner,,D,Dennis Anderson,154
-Lyon,Emporia 18.01,Insurance Commissioner,,D,Dennis Anderson,126
-Lyon,Emporia 19.01,Insurance Commissioner,,D,Dennis Anderson,217
-Lyon,Emporia 20.01,Insurance Commissioner,,D,Dennis Anderson,180
-Lyon,Precinct 21.01,Insurance Commissioner,,D,Dennis Anderson,53
-Lyon,Precinct 22.01,Insurance Commissioner,,D,Dennis Anderson,33
-Lyon,Precinct 23.01,Insurance Commissioner,,D,Dennis Anderson,41
-Lyon,Precinct 24.01,Insurance Commissioner,,D,Dennis Anderson,161
-Lyon,Precinct 25.01,Insurance Commissioner,,D,Dennis Anderson,123
-Lyon,Precinct 26.01,Insurance Commissioner,,D,Dennis Anderson,71
-Lyon,Precinct 27.01,Insurance Commissioner,,D,Dennis Anderson,90
-Lyon,Precinct 28.01,Insurance Commissioner,,D,Dennis Anderson,88
-Lyon,Precinct 29.01,Insurance Commissioner,,D,Dennis Anderson,40
-Lyon,Precinct 29D.01,Insurance Commissioner,,D,Dennis Anderson,0
-Lyon,Precinct 30.01,Insurance Commissioner,,D,Dennis Anderson,120
-Lyon,Precinct 31.01,Insurance Commissioner,,D,Dennis Anderson,172
-Lyon,Precinct 32.01,Insurance Commissioner,,D,Dennis Anderson,103
-Lyon,Emporia 01.01,State House,60,R,Don Hill,286
-Lyon,Emporia 02.01,State House,60,R,Don Hill,188
-Lyon,Emporia 03.01,State House,76,R,Peggy Mast,112
-Lyon,Emporia 04.01,State House,76,R,Peggy Mast,122
-Lyon,Emporia 4A.01,State House,76,R,Peggy Mast,2
-Lyon,Emporia 4B.01,State House,76,R,Peggy Mast,0
-Lyon,Emporia 4C.01,State House,76,R,Peggy Mast,0
-Lyon,Emporia 05.01,State House,60,R,Don Hill,156
-Lyon,Emporia 06.01,State House,60,R,Don Hill,166
-Lyon,Emporia 07.01,State House,60,R,Don Hill,76
-Lyon,Emporia 08.01,State House,60,R,Don Hill,162
-Lyon,Emporia 09.01,State House,60,R,Don Hill,177
-Lyon,Emporia 10.01,State House,76,R,Peggy Mast,132
-Lyon,Emporia 11.01,State House,60,R,Don Hill,170
-Lyon,Emporia 12.01,State House,60,R,Don Hill,180
-Lyon,Emporia 13.01,State House,60,R,Don Hill,255
-Lyon,Emporia 14.01,State House,60,R,Don Hill,397
-Lyon,Emporia 15.01,State House,60,R,Don Hill,214
-Lyon,Emporia 16.01,State House,60,R,Don Hill,317
-Lyon,Emporia 17.01,State House,60,R,Don Hill,309
-Lyon,Emporia 18.01,State House,60,R,Don Hill,280
-Lyon,Emporia 19.01,State House,60,R,Don Hill,484
-Lyon,Emporia 20.01,State House,60,R,Don Hill,415
-Lyon,Precinct 21.01,State House,51,R,Ron Highland,124
-Lyon,Precinct 22.01,State House,51,R,Ron Highland,86
-Lyon,Precinct 23.01,State House,51,R,Ron Highland,95
-Lyon,Precinct 24.01,State House,60,R,Don Hill,428
-Lyon,Precinct 25.01,State House,60,R,Don Hill,367
-Lyon,Precinct 26.01,State House,51,R,Ron Highland,140
-Lyon,Precinct 27.01,State House,60,R,Don Hill,262
-Lyon,Precinct 28.01,State House,76,R,Peggy Mast,110
-Lyon,Precinct 29.01,State House,60,R,Don Hill,121
-Lyon,Precinct 29D.01,State House,60,R,Don Hill,3
-Lyon,Precinct 30.01,State House,76,R,Peggy Mast,148
-Lyon,Precinct 31.01,State House,76,R,Peggy Mast,250
-Lyon,Precinct 32.01,State House,76,R,Peggy Mast,111
-Lyon,Emporia 03.01,State House,76,D,Teresa Briggs,117
-Lyon,Emporia 04.01,State House,76,D,Teresa Briggs,146
-Lyon,Emporia 4A.01,State House,76,D,Teresa Briggs,1
-Lyon,Emporia 4B.01,State House,76,D,Teresa Briggs,2
-Lyon,Emporia 4C.01,State House,76,D,Teresa Briggs,5
-Lyon,Emporia 10.01,State House,76,D,Teresa Briggs,104
-Lyon,Precinct 28.01,State House,76,D,Teresa Briggs,135
-Lyon,Precinct 30.01,State House,76,D,Teresa Briggs,186
-Lyon,Precinct 31.01,State House,76,D,Teresa Briggs,176
-Lyon,Precinct 32.01,State House,76,D,Teresa Briggs,112
-Lyon,Emporia 03.01,State House,76,I,Bill Otto,37
-Lyon,Emporia 04.01,State House,76,I,Bill Otto,38
-Lyon,Emporia 4A.01,State House,76,I,Bill Otto,1
-Lyon,Emporia 4B.01,State House,76,I,Bill Otto,0
-Lyon,Emporia 4C.01,State House,76,I,Bill Otto,0
-Lyon,Emporia 10.01,State House,76,I,Bill Otto,38
-Lyon,Precinct 28.01,State House,76,I,Bill Otto,23
-Lyon,Precinct 30.01,State House,76,I,Bill Otto,46
-Lyon,Precinct 31.01,State House,76,I,Bill Otto,72
-Lyon,Precinct 32.01,State House,76,I,Bill Otto,52
+county,precinct,office,district,party,candidate,votes,vtd
+LYON,Precinct 01,Governor / Lt. Governor,,Democratic,"Davis, Paul",213,000010
+LYON,Precinct 01,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000010
+LYON,Precinct 01,Governor / Lt. Governor,,Republican,"Brownback, Sam",99,000010
+LYON,Precinct 02,Governor / Lt. Governor,,Democratic,"Davis, Paul",154,000020
+LYON,Precinct 02,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000020
+LYON,Precinct 02,Governor / Lt. Governor,,Republican,"Brownback, Sam",64,000020
+LYON,Precinct 03,Governor / Lt. Governor,,Democratic,"Davis, Paul",154,000030
+LYON,Precinct 03,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000030
+LYON,Precinct 03,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000030
+LYON,Precinct 04,Governor / Lt. Governor,,Democratic,"Davis, Paul",195,000040
+LYON,Precinct 04,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,000040
+LYON,Precinct 04,Governor / Lt. Governor,,Republican,"Brownback, Sam",96,000040
+LYON,Precinct 05,Governor / Lt. Governor,,Democratic,"Davis, Paul",99,00005A
+LYON,Precinct 05,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,00005A
+LYON,Precinct 05,Governor / Lt. Governor,,Republican,"Brownback, Sam",61,00005A
+LYON,Precinct 05 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005B
+LYON,Precinct 05 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+LYON,Precinct 05 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005B
+LYON,Precinct 05 Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005C
+LYON,Precinct 05 Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005C
+LYON,Precinct 05 Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005C
+LYON,Precinct 06 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",125,00006A
+LYON,Precinct 06 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,00006A
+LYON,Precinct 06 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",71,00006A
+LYON,Precinct 06 Part A Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00006B
+LYON,Precinct 06 Part A Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00006B
+LYON,Precinct 06 Part A Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00006B
+LYON,Precinct 06 Part B Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00006C
+LYON,Precinct 06 Part B Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00006C
+LYON,Precinct 06 Part B Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00006C
+LYON,Precinct 07,Governor / Lt. Governor,,Democratic,"Davis, Paul",60,000070
+LYON,Precinct 07,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000070
+LYON,Precinct 07,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000070
+LYON,Precinct 08,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000080
+LYON,Precinct 08,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000080
+LYON,Precinct 08,Governor / Lt. Governor,,Republican,"Brownback, Sam",65,000080
+LYON,Precinct 09,Governor / Lt. Governor,,Democratic,"Davis, Paul",121,000090
+LYON,Precinct 09,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000090
+LYON,Precinct 09,Governor / Lt. Governor,,Republican,"Brownback, Sam",71,000090
+LYON,Precinct 10,Governor / Lt. Governor,,Democratic,"Davis, Paul",173,000100
+LYON,Precinct 10,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000100
+LYON,Precinct 10,Governor / Lt. Governor,,Republican,"Brownback, Sam",93,000100
+LYON,Precinct 11,Governor / Lt. Governor,,Democratic,"Davis, Paul",126,000110
+LYON,Precinct 11,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000110
+LYON,Precinct 11,Governor / Lt. Governor,,Republican,"Brownback, Sam",64,000110
+LYON,Precinct 12,Governor / Lt. Governor,,Democratic,"Davis, Paul",144,000120
+LYON,Precinct 12,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000120
+LYON,Precinct 12,Governor / Lt. Governor,,Republican,"Brownback, Sam",60,000120
+LYON,Precinct 13,Governor / Lt. Governor,,Democratic,"Davis, Paul",175,000130
+LYON,Precinct 13,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",24,000130
+LYON,Precinct 13,Governor / Lt. Governor,,Republican,"Brownback, Sam",108,000130
+LYON,Precinct 14,Governor / Lt. Governor,,Democratic,"Davis, Paul",282,000140
+LYON,Precinct 14,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000140
+LYON,Precinct 14,Governor / Lt. Governor,,Republican,"Brownback, Sam",142,000140
+LYON,Precinct 15,Governor / Lt. Governor,,Democratic,"Davis, Paul",146,000150
+LYON,Precinct 15,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000150
+LYON,Precinct 15,Governor / Lt. Governor,,Republican,"Brownback, Sam",84,000150
+LYON,Precinct 16,Governor / Lt. Governor,,Democratic,"Davis, Paul",236,000160
+LYON,Precinct 16,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000160
+LYON,Precinct 16,Governor / Lt. Governor,,Republican,"Brownback, Sam",110,000160
+LYON,Precinct 17 Exclave Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00017A
+LYON,Precinct 17 Exclave Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00017A
+LYON,Precinct 17 Exclave Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00017A
+LYON,Precinct 17 Enclave Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00017B
+LYON,Precinct 17 Enclave Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+LYON,Precinct 17 Enclave Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00017B
+LYON,Precinct 17,Governor / Lt. Governor,,Democratic,"Davis, Paul",211,000170
+LYON,Precinct 17,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,000170
+LYON,Precinct 17,Governor / Lt. Governor,,Republican,"Brownback, Sam",126,000170
+LYON,Precinct 18 Enclave Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00018A
+LYON,Precinct 18 Enclave Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00018A
+LYON,Precinct 18 Enclave Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00018A
+LYON,Precinct 18,Governor / Lt. Governor,,Democratic,"Davis, Paul",199,000180
+LYON,Precinct 18,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000180
+LYON,Precinct 18,Governor / Lt. Governor,,Republican,"Brownback, Sam",128,000180
+LYON,Precinct 19,Governor / Lt. Governor,,Democratic,"Davis, Paul",327,000190
+LYON,Precinct 19,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000190
+LYON,Precinct 19,Governor / Lt. Governor,,Republican,"Brownback, Sam",192,000190
+LYON,Precinct 20 Exclave Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00020A
+LYON,Precinct 20 Exclave Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00020A
+LYON,Precinct 20 Exclave Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00020A
+LYON,Precinct 20,Governor / Lt. Governor,,Democratic,"Davis, Paul",283,000200
+LYON,Precinct 20,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000200
+LYON,Precinct 20,Governor / Lt. Governor,,Republican,"Brownback, Sam",171,000200
+LYON,Precinct 21,Governor / Lt. Governor,,Democratic,"Davis, Paul",65,000210
+LYON,Precinct 21,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000210
+LYON,Precinct 21,Governor / Lt. Governor,,Republican,"Brownback, Sam",77,000210
+LYON,Precinct 22,Governor / Lt. Governor,,Democratic,"Davis, Paul",39,000220
+LYON,Precinct 22,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000220
+LYON,Precinct 22,Governor / Lt. Governor,,Republican,"Brownback, Sam",55,000220
+LYON,Precinct 23,Governor / Lt. Governor,,Democratic,"Davis, Paul",46,000230
+LYON,Precinct 23,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000230
+LYON,Precinct 23,Governor / Lt. Governor,,Republican,"Brownback, Sam",57,000230
+LYON,Precinct 24,Governor / Lt. Governor,,Democratic,"Davis, Paul",222,000240
+LYON,Precinct 24,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000240
+LYON,Precinct 24,Governor / Lt. Governor,,Republican,"Brownback, Sam",234,000240
+LYON,Precinct 25,Governor / Lt. Governor,,Democratic,"Davis, Paul",164,000250
+LYON,Precinct 25,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",26,000250
+LYON,Precinct 25,Governor / Lt. Governor,,Republican,"Brownback, Sam",205,000250
+LYON,Precinct 26,Governor / Lt. Governor,,Democratic,"Davis, Paul",93,000260
+LYON,Precinct 26,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000260
+LYON,Precinct 26,Governor / Lt. Governor,,Republican,"Brownback, Sam",82,000260
+LYON,Precinct 27,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000270
+LYON,Precinct 27,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000270
+LYON,Precinct 27,Governor / Lt. Governor,,Republican,"Brownback, Sam",148,000270
+LYON,Precinct 28,Governor / Lt. Governor,,Democratic,"Davis, Paul",123,00028A
+LYON,Precinct 28,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",16,00028A
+LYON,Precinct 28,Governor / Lt. Governor,,Republican,"Brownback, Sam",130,00028A
+LYON,Precinct 28 Enclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00028B
+LYON,Precinct 28 Enclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00028B
+LYON,Precinct 28 Enclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00028B
+LYON,Precinct 28 Enclave Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00028C
+LYON,Precinct 28 Enclave Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00028C
+LYON,Precinct 28 Enclave Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00028C
+LYON,Precinct 29 Exclave Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00029A
+LYON,Precinct 29 Exclave Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00029A
+LYON,Precinct 29 Exclave Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00029A
+LYON,Precinct 29,Governor / Lt. Governor,,Democratic,"Davis, Paul",72,000290
+LYON,Precinct 29,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000290
+LYON,Precinct 29,Governor / Lt. Governor,,Republican,"Brownback, Sam",63,000290
+LYON,Precinct 30,Governor / Lt. Governor,,Democratic,"Davis, Paul",173,000300
+LYON,Precinct 30,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",22,000300
+LYON,Precinct 30,Governor / Lt. Governor,,Republican,"Brownback, Sam",180,000300
+LYON,Precinct 31,Governor / Lt. Governor,,Democratic,"Davis, Paul",259,000310
+LYON,Precinct 31,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,000310
+LYON,Precinct 31,Governor / Lt. Governor,,Republican,"Brownback, Sam",221,000310
+LYON,Precinct 32,Governor / Lt. Governor,,Democratic,"Davis, Paul",120,000320
+LYON,Precinct 32,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",28,000320
+LYON,Precinct 32,Governor / Lt. Governor,,Republican,"Brownback, Sam",125,000320
+LYON,Precinct 29 A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,120020
+LYON,Precinct 29 A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,120020
+LYON,Precinct 29 A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,120020
+LYON,Precinct 07 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,140010
+LYON,Precinct 07 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,140010
+LYON,Precinct 07 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,140010
+LYON,Precinct 17 Part C,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,140020
+LYON,Precinct 17 Part C,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,140020
+LYON,Precinct 17 Part C,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,140020
+LYON,Precinct 19 Exclave Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,300010
+LYON,Precinct 19 Exclave Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,300010
+LYON,Precinct 19 Exclave Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,300010
+LYON,Precinct 19 Exclave Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,300020
+LYON,Precinct 19 Exclave Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,300020
+LYON,Precinct 19 Exclave Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,300020
+LYON,Precinct 04 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,400010
+LYON,Precinct 04 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,400010
+LYON,Precinct 04 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",4,400010
+LYON,Precinct 04 Part B,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,400020
+LYON,Precinct 04 Part B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,400020
+LYON,Precinct 04 Part B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,400020
+LYON,Precinct 04 Part C,Governor / Lt. Governor,,Democratic,"Davis, Paul",4,400030
+LYON,Precinct 04 Part C,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,400030
+LYON,Precinct 04 Part C,Governor / Lt. Governor,,Republican,"Brownback, Sam",1,400030
+LYON,Precinct 04 Part D,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+LYON,Precinct 04 Part D,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+LYON,Precinct 04 Part D,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+LYON,Precinct 09 Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+LYON,Precinct 09 Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+LYON,Precinct 09 Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+LYON,Precinct 29 Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900030
+LYON,Precinct 29 Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900030
+LYON,Precinct 29 Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900030
+LYON,Precinct 29 Enclave 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900040
+LYON,Precinct 29 Enclave 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900040
+LYON,Precinct 29 Enclave 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900040
+LYON,Precinct 29 Enclave 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900050
+LYON,Precinct 29 Enclave 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900050
+LYON,Precinct 29 Enclave 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",3,900050
+LYON,Precinct 01,Kansas House of Representatives,60,Republican,"Hill, Don",286,000010
+LYON,Precinct 02,Kansas House of Representatives,60,Republican,"Hill, Don",188,000020
+LYON,Precinct 03,Kansas House of Representatives,76,independent,"Otto, Bill",37,000030
+LYON,Precinct 03,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",117,000030
+LYON,Precinct 03,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",112,000030
+LYON,Precinct 04,Kansas House of Representatives,76,independent,"Otto, Bill",38,000040
+LYON,Precinct 04,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",146,000040
+LYON,Precinct 04,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",122,000040
+LYON,Precinct 05,Kansas House of Representatives,60,Republican,"Hill, Don",156,00005A
+LYON,Precinct 05 Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00005B
+LYON,Precinct 05 Part B,Kansas House of Representatives,60,Republican,"Hill, Don",0,00005C
+LYON,Precinct 06 Part A,Kansas House of Representatives,60,Republican,"Hill, Don",166,00006A
+LYON,Precinct 06 Part A Exclave,Kansas House of Representatives,60,Republican,"Hill, Don",0,00006B
+LYON,Precinct 06 Part B Exclave,Kansas House of Representatives,60,Republican,"Hill, Don",0,00006C
+LYON,Precinct 07,Kansas House of Representatives,60,Republican,"Hill, Don",76,000070
+LYON,Precinct 08,Kansas House of Representatives,60,Republican,"Hill, Don",162,000080
+LYON,Precinct 09,Kansas House of Representatives,60,Republican,"Hill, Don",177,000090
+LYON,Precinct 10,Kansas House of Representatives,76,independent,"Otto, Bill",38,000100
+LYON,Precinct 10,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",132,000100
+LYON,Precinct 10,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",104,000100
+LYON,Precinct 11,Kansas House of Representatives,60,Republican,"Hill, Don",170,000110
+LYON,Precinct 12,Kansas House of Representatives,60,Republican,"Hill, Don",180,000120
+LYON,Precinct 13,Kansas House of Representatives,60,Republican,"Hill, Don",255,000130
+LYON,Precinct 14,Kansas House of Representatives,60,Republican,"Hill, Don",397,000140
+LYON,Precinct 15,Kansas House of Representatives,60,Republican,"Hill, Don",214,000150
+LYON,Precinct 16,Kansas House of Representatives,60,Republican,"Hill, Don",317,000160
+LYON,Precinct 17 Exclave Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00017A
+LYON,Precinct 17 Enclave Part B,Kansas House of Representatives,60,Republican,"Hill, Don",0,00017B
+LYON,Precinct 17,Kansas House of Representatives,60,Republican,"Hill, Don",309,000170
+LYON,Precinct 18 Enclave Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00018A
+LYON,Precinct 18,Kansas House of Representatives,60,Republican,"Hill, Don",280,000180
+LYON,Precinct 19,Kansas House of Representatives,60,Republican,"Hill, Don",484,000190
+LYON,Precinct 20 Exclave Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00020A
+LYON,Precinct 20,Kansas House of Representatives,60,Republican,"Hill, Don",415,000200
+LYON,Precinct 21,Kansas House of Representatives,51,Republican,"Highland, Ron",124,000210
+LYON,Precinct 22,Kansas House of Representatives,51,Republican,"Highland, Ron",86,000220
+LYON,Precinct 23,Kansas House of Representatives,51,Republican,"Highland, Ron",95,000230
+LYON,Precinct 24,Kansas House of Representatives,60,Republican,"Hill, Don",428,000240
+LYON,Precinct 25,Kansas House of Representatives,60,Republican,"Hill, Don",367,000250
+LYON,Precinct 26,Kansas House of Representatives,51,Republican,"Highland, Ron",140,000260
+LYON,Precinct 27,Kansas House of Representatives,60,Republican,"Hill, Don",262,000270
+LYON,Precinct 28,Kansas House of Representatives,76,independent,"Otto, Bill",23,00028A
+LYON,Precinct 28,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",110,00028A
+LYON,Precinct 28,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",135,00028A
+LYON,Precinct 28 Enclave A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00028B
+LYON,Precinct 28 Enclave Part B,Kansas House of Representatives,60,Republican,"Hill, Don",0,00028C
+LYON,Precinct 29 Exclave Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,00029A
+LYON,Precinct 29,Kansas House of Representatives,60,Republican,"Hill, Don",121,000290
+LYON,Precinct 30,Kansas House of Representatives,76,independent,"Otto, Bill",46,000300
+LYON,Precinct 30,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",148,000300
+LYON,Precinct 30,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",186,000300
+LYON,Precinct 31,Kansas House of Representatives,76,independent,"Otto, Bill",72,000310
+LYON,Precinct 31,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",250,000310
+LYON,Precinct 31,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",176,000310
+LYON,Precinct 32,Kansas House of Representatives,76,independent,"Otto, Bill",52,000320
+LYON,Precinct 32,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",111,000320
+LYON,Precinct 32,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",112,000320
+LYON,Precinct 29 A,Kansas House of Representatives,60,Republican,"Hill, Don",0,120020
+LYON,Precinct 19 Exclave Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,300010
+LYON,Precinct 19 Exclave Part B,Kansas House of Representatives,60,Republican,"Hill, Don",0,300020
+LYON,Precinct 04 Part A,Kansas House of Representatives,76,independent,"Otto, Bill",1,400010
+LYON,Precinct 04 Part A,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",1,400010
+LYON,Precinct 04 Part A,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",2,400010
+LYON,Precinct 04 Part B,Kansas House of Representatives,76,independent,"Otto, Bill",0,400020
+LYON,Precinct 04 Part B,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",2,400020
+LYON,Precinct 04 Part B,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",0,400020
+LYON,Precinct 04 Part C,Kansas House of Representatives,76,independent,"Otto, Bill",0,400030
+LYON,Precinct 04 Part C,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",5,400030
+LYON,Precinct 04 Part C,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",0,400030
+LYON,Precinct 04 Part D,Kansas House of Representatives,76,independent,"Otto, Bill",0,900010
+LYON,Precinct 04 Part D,Kansas House of Representatives,76,Democratic,"Briggs, Teresa",0,900010
+LYON,Precinct 04 Part D,Kansas House of Representatives,76,Republican,"Mast, Peggy L.",0,900010
+LYON,Precinct 09 Part A,Kansas House of Representatives,60,Republican,"Hill, Don",0,900020
+LYON,Precinct 29 Enclave,Kansas House of Representatives,60,Republican,"Hill, Don",0,900030
+LYON,Precinct 29 Enclave 2,Kansas House of Representatives,60,Republican,"Hill, Don",0,900040
+LYON,Precinct 29 Enclave 3,Kansas House of Representatives,60,Republican,"Hill, Don",3,900050
+LYON,Precinct 01,United States House of Representatives,1,Democratic,"Sherow, James E.",193,000010
+LYON,Precinct 01,United States House of Representatives,1,Republican,"Huelskamp, Tim",124,000010
+LYON,Precinct 02,United States House of Representatives,1,Democratic,"Sherow, James E.",115,000020
+LYON,Precinct 02,United States House of Representatives,1,Republican,"Huelskamp, Tim",101,000020
+LYON,Precinct 03,United States House of Representatives,1,Democratic,"Sherow, James E.",126,000030
+LYON,Precinct 03,United States House of Representatives,1,Republican,"Huelskamp, Tim",131,000030
+LYON,Precinct 04,United States House of Representatives,1,Democratic,"Sherow, James E.",157,000040
+LYON,Precinct 04,United States House of Representatives,1,Republican,"Huelskamp, Tim",145,000040
+LYON,Precinct 05,United States House of Representatives,1,Democratic,"Sherow, James E.",86,00005A
+LYON,Precinct 05,United States House of Representatives,1,Republican,"Huelskamp, Tim",90,00005A
+LYON,Precinct 05 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00005B
+LYON,Precinct 05 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00005B
+LYON,Precinct 05 Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00005C
+LYON,Precinct 05 Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00005C
+LYON,Precinct 06 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",121,00006A
+LYON,Precinct 06 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",85,00006A
+LYON,Precinct 06 Part A Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00006B
+LYON,Precinct 06 Part A Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00006B
+LYON,Precinct 06 Part B Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00006C
+LYON,Precinct 06 Part B Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00006C
+LYON,Precinct 07,United States House of Representatives,1,Democratic,"Sherow, James E.",51,000070
+LYON,Precinct 07,United States House of Representatives,1,Republican,"Huelskamp, Tim",37,000070
+LYON,Precinct 08,United States House of Representatives,1,Democratic,"Sherow, James E.",102,000080
+LYON,Precinct 08,United States House of Representatives,1,Republican,"Huelskamp, Tim",98,000080
+LYON,Precinct 09,United States House of Representatives,1,Democratic,"Sherow, James E.",104,000090
+LYON,Precinct 09,United States House of Representatives,1,Republican,"Huelskamp, Tim",94,000090
+LYON,Precinct 10,United States House of Representatives,1,Democratic,"Sherow, James E.",136,000100
+LYON,Precinct 10,United States House of Representatives,1,Republican,"Huelskamp, Tim",131,000100
+LYON,Precinct 11,United States House of Representatives,1,Democratic,"Sherow, James E.",101,000110
+LYON,Precinct 11,United States House of Representatives,1,Republican,"Huelskamp, Tim",99,000110
+LYON,Precinct 12,United States House of Representatives,1,Democratic,"Sherow, James E.",114,000120
+LYON,Precinct 12,United States House of Representatives,1,Republican,"Huelskamp, Tim",94,000120
+LYON,Precinct 13,United States House of Representatives,1,Democratic,"Sherow, James E.",145,000130
+LYON,Precinct 13,United States House of Representatives,1,Republican,"Huelskamp, Tim",149,000130
+LYON,Precinct 14,United States House of Representatives,1,Democratic,"Sherow, James E.",230,000140
+LYON,Precinct 14,United States House of Representatives,1,Republican,"Huelskamp, Tim",190,000140
+LYON,Precinct 15,United States House of Representatives,1,Democratic,"Sherow, James E.",122,000150
+LYON,Precinct 15,United States House of Representatives,1,Republican,"Huelskamp, Tim",109,000150
+LYON,Precinct 16,United States House of Representatives,1,Democratic,"Sherow, James E.",196,000160
+LYON,Precinct 16,United States House of Representatives,1,Republican,"Huelskamp, Tim",154,000160
+LYON,Precinct 17 Exclave Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00017A
+LYON,Precinct 17 Exclave Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00017A
+LYON,Precinct 17 Enclave Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00017B
+LYON,Precinct 17 Enclave Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00017B
+LYON,Precinct 17,United States House of Representatives,1,Democratic,"Sherow, James E.",181,000170
+LYON,Precinct 17,United States House of Representatives,1,Republican,"Huelskamp, Tim",168,000170
+LYON,Precinct 18 Enclave Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00018A
+LYON,Precinct 18 Enclave Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00018A
+LYON,Precinct 18,United States House of Representatives,1,Democratic,"Sherow, James E.",156,000180
+LYON,Precinct 18,United States House of Representatives,1,Republican,"Huelskamp, Tim",164,000180
+LYON,Precinct 19,United States House of Representatives,1,Democratic,"Sherow, James E.",252,000190
+LYON,Precinct 19,United States House of Representatives,1,Republican,"Huelskamp, Tim",269,000190
+LYON,Precinct 20 Exclave Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00020A
+LYON,Precinct 20 Exclave Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00020A
+LYON,Precinct 20,United States House of Representatives,1,Democratic,"Sherow, James E.",214,000200
+LYON,Precinct 20,United States House of Representatives,1,Republican,"Huelskamp, Tim",233,000200
+LYON,Precinct 21,United States House of Representatives,1,Democratic,"Sherow, James E.",50,000210
+LYON,Precinct 21,United States House of Representatives,1,Republican,"Huelskamp, Tim",95,000210
+LYON,Precinct 22,United States House of Representatives,1,Democratic,"Sherow, James E.",31,000220
+LYON,Precinct 22,United States House of Representatives,1,Republican,"Huelskamp, Tim",67,000220
+LYON,Precinct 23,United States House of Representatives,1,Democratic,"Sherow, James E.",40,000230
+LYON,Precinct 23,United States House of Representatives,1,Republican,"Huelskamp, Tim",67,000230
+LYON,Precinct 24,United States House of Representatives,1,Democratic,"Sherow, James E.",179,000240
+LYON,Precinct 24,United States House of Representatives,1,Republican,"Huelskamp, Tim",283,000240
+LYON,Precinct 25,United States House of Representatives,1,Democratic,"Sherow, James E.",135,000250
+LYON,Precinct 25,United States House of Representatives,1,Republican,"Huelskamp, Tim",259,000250
+LYON,Precinct 26,United States House of Representatives,1,Democratic,"Sherow, James E.",81,000260
+LYON,Precinct 26,United States House of Representatives,1,Republican,"Huelskamp, Tim",106,000260
+LYON,Precinct 27,United States House of Representatives,1,Democratic,"Sherow, James E.",98,000270
+LYON,Precinct 27,United States House of Representatives,1,Republican,"Huelskamp, Tim",176,000270
+LYON,Precinct 28,United States House of Representatives,1,Democratic,"Sherow, James E.",99,00028A
+LYON,Precinct 28,United States House of Representatives,1,Republican,"Huelskamp, Tim",162,00028A
+LYON,Precinct 28 Enclave A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00028B
+LYON,Precinct 28 Enclave A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00028B
+LYON,Precinct 28 Enclave Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00028C
+LYON,Precinct 28 Enclave Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00028C
+LYON,Precinct 29 Exclave Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00029A
+LYON,Precinct 29 Exclave Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00029A
+LYON,Precinct 29,United States House of Representatives,1,Democratic,"Sherow, James E.",54,000290
+LYON,Precinct 29,United States House of Representatives,1,Republican,"Huelskamp, Tim",81,000290
+LYON,Precinct 30,United States House of Representatives,1,Democratic,"Sherow, James E.",150,000300
+LYON,Precinct 30,United States House of Representatives,1,Republican,"Huelskamp, Tim",224,000300
+LYON,Precinct 31,United States House of Representatives,1,Democratic,"Sherow, James E.",173,000310
+LYON,Precinct 31,United States House of Representatives,1,Republican,"Huelskamp, Tim",306,000310
+LYON,Precinct 32,United States House of Representatives,1,Democratic,"Sherow, James E.",105,000320
+LYON,Precinct 32,United States House of Representatives,1,Republican,"Huelskamp, Tim",168,000320
+LYON,Precinct 29 A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,120020
+LYON,Precinct 29 A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,120020
+LYON,Precinct 07 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,140010
+LYON,Precinct 07 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,140010
+LYON,Precinct 17 Part C,United States House of Representatives,1,Democratic,"Sherow, James E.",0,140020
+LYON,Precinct 17 Part C,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,140020
+LYON,Precinct 19 Exclave Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,300010
+LYON,Precinct 19 Exclave Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,300010
+LYON,Precinct 19 Exclave Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",0,300020
+LYON,Precinct 19 Exclave Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,300020
+LYON,Precinct 04 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,400010
+LYON,Precinct 04 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",4,400010
+LYON,Precinct 04 Part B,United States House of Representatives,1,Democratic,"Sherow, James E.",2,400020
+LYON,Precinct 04 Part B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,400020
+LYON,Precinct 04 Part C,United States House of Representatives,1,Democratic,"Sherow, James E.",4,400030
+LYON,Precinct 04 Part C,United States House of Representatives,1,Republican,"Huelskamp, Tim",1,400030
+LYON,Precinct 04 Part D,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900010
+LYON,Precinct 04 Part D,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900010
+LYON,Precinct 09 Part A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900020
+LYON,Precinct 09 Part A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900020
+LYON,Precinct 29 Enclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900030
+LYON,Precinct 29 Enclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900030
+LYON,Precinct 29 Enclave 2,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900040
+LYON,Precinct 29 Enclave 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900040
+LYON,Precinct 29 Enclave 3,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900050
+LYON,Precinct 29 Enclave 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",3,900050
+LYON,Precinct 01,Attorney General,,Democratic,"Kotich, A.J.",157,000010
+LYON,Precinct 01,Attorney General,,Republican,"Schmidt, Derek",157,000010
+LYON,Precinct 02,Attorney General,,Democratic,"Kotich, A.J.",111,000020
+LYON,Precinct 02,Attorney General,,Republican,"Schmidt, Derek",106,000020
+LYON,Precinct 03,Attorney General,,Democratic,"Kotich, A.J.",110,000030
+LYON,Precinct 03,Attorney General,,Republican,"Schmidt, Derek",147,000030
+LYON,Precinct 04,Attorney General,,Democratic,"Kotich, A.J.",136,000040
+LYON,Precinct 04,Attorney General,,Republican,"Schmidt, Derek",161,000040
+LYON,Precinct 05,Attorney General,,Democratic,"Kotich, A.J.",74,00005A
+LYON,Precinct 05,Attorney General,,Republican,"Schmidt, Derek",100,00005A
+LYON,Precinct 05 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+LYON,Precinct 05 Part A,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+LYON,Precinct 05 Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00005C
+LYON,Precinct 05 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00005C
+LYON,Precinct 06 Part A,Attorney General,,Democratic,"Kotich, A.J.",107,00006A
+LYON,Precinct 06 Part A,Attorney General,,Republican,"Schmidt, Derek",96,00006A
+LYON,Precinct 06 Part A Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00006B
+LYON,Precinct 06 Part A Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00006B
+LYON,Precinct 06 Part B Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00006C
+LYON,Precinct 06 Part B Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00006C
+LYON,Precinct 07,Attorney General,,Democratic,"Kotich, A.J.",43,000070
+LYON,Precinct 07,Attorney General,,Republican,"Schmidt, Derek",42,000070
+LYON,Precinct 08,Attorney General,,Democratic,"Kotich, A.J.",94,000080
+LYON,Precinct 08,Attorney General,,Republican,"Schmidt, Derek",101,000080
+LYON,Precinct 09,Attorney General,,Democratic,"Kotich, A.J.",87,000090
+LYON,Precinct 09,Attorney General,,Republican,"Schmidt, Derek",111,000090
+LYON,Precinct 10,Attorney General,,Democratic,"Kotich, A.J.",113,000100
+LYON,Precinct 10,Attorney General,,Republican,"Schmidt, Derek",154,000100
+LYON,Precinct 11,Attorney General,,Democratic,"Kotich, A.J.",85,000110
+LYON,Precinct 11,Attorney General,,Republican,"Schmidt, Derek",114,000110
+LYON,Precinct 12,Attorney General,,Democratic,"Kotich, A.J.",97,000120
+LYON,Precinct 12,Attorney General,,Republican,"Schmidt, Derek",109,000120
+LYON,Precinct 13,Attorney General,,Democratic,"Kotich, A.J.",119,000130
+LYON,Precinct 13,Attorney General,,Republican,"Schmidt, Derek",175,000130
+LYON,Precinct 14,Attorney General,,Democratic,"Kotich, A.J.",190,000140
+LYON,Precinct 14,Attorney General,,Republican,"Schmidt, Derek",233,000140
+LYON,Precinct 15,Attorney General,,Democratic,"Kotich, A.J.",99,000150
+LYON,Precinct 15,Attorney General,,Republican,"Schmidt, Derek",131,000150
+LYON,Precinct 16,Attorney General,,Democratic,"Kotich, A.J.",147,000160
+LYON,Precinct 16,Attorney General,,Republican,"Schmidt, Derek",193,000160
+LYON,Precinct 17 Exclave Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00017A
+LYON,Precinct 17 Exclave Part A,Attorney General,,Republican,"Schmidt, Derek",0,00017A
+LYON,Precinct 17 Enclave Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+LYON,Precinct 17 Enclave Part B,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+LYON,Precinct 17,Attorney General,,Democratic,"Kotich, A.J.",126,000170
+LYON,Precinct 17,Attorney General,,Republican,"Schmidt, Derek",219,000170
+LYON,Precinct 18 Enclave Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00018A
+LYON,Precinct 18 Enclave Part A,Attorney General,,Republican,"Schmidt, Derek",0,00018A
+LYON,Precinct 18,Attorney General,,Democratic,"Kotich, A.J.",117,000180
+LYON,Precinct 18,Attorney General,,Republican,"Schmidt, Derek",197,000180
+LYON,Precinct 19,Attorney General,,Democratic,"Kotich, A.J.",182,000190
+LYON,Precinct 19,Attorney General,,Republican,"Schmidt, Derek",333,000190
+LYON,Precinct 20 Exclave Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00020A
+LYON,Precinct 20 Exclave Part A,Attorney General,,Republican,"Schmidt, Derek",0,00020A
+LYON,Precinct 20,Attorney General,,Democratic,"Kotich, A.J.",152,000200
+LYON,Precinct 20,Attorney General,,Republican,"Schmidt, Derek",298,000200
+LYON,Precinct 21,Attorney General,,Democratic,"Kotich, A.J.",39,000210
+LYON,Precinct 21,Attorney General,,Republican,"Schmidt, Derek",110,000210
+LYON,Precinct 22,Attorney General,,Democratic,"Kotich, A.J.",27,000220
+LYON,Precinct 22,Attorney General,,Republican,"Schmidt, Derek",71,000220
+LYON,Precinct 23,Attorney General,,Democratic,"Kotich, A.J.",28,000230
+LYON,Precinct 23,Attorney General,,Republican,"Schmidt, Derek",81,000230
+LYON,Precinct 24,Attorney General,,Democratic,"Kotich, A.J.",140,000240
+LYON,Precinct 24,Attorney General,,Republican,"Schmidt, Derek",318,000240
+LYON,Precinct 25,Attorney General,,Democratic,"Kotich, A.J.",89,000250
+LYON,Precinct 25,Attorney General,,Republican,"Schmidt, Derek",302,000250
+LYON,Precinct 26,Attorney General,,Democratic,"Kotich, A.J.",54,000260
+LYON,Precinct 26,Attorney General,,Republican,"Schmidt, Derek",129,000260
+LYON,Precinct 27,Attorney General,,Democratic,"Kotich, A.J.",69,000270
+LYON,Precinct 27,Attorney General,,Republican,"Schmidt, Derek",200,000270
+LYON,Precinct 28,Attorney General,,Democratic,"Kotich, A.J.",77,00028A
+LYON,Precinct 28,Attorney General,,Republican,"Schmidt, Derek",184,00028A
+LYON,Precinct 28 Enclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00028B
+LYON,Precinct 28 Enclave A,Attorney General,,Republican,"Schmidt, Derek",0,00028B
+LYON,Precinct 28 Enclave Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00028C
+LYON,Precinct 28 Enclave Part B,Attorney General,,Republican,"Schmidt, Derek",0,00028C
+LYON,Precinct 29 Exclave Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00029A
+LYON,Precinct 29 Exclave Part A,Attorney General,,Republican,"Schmidt, Derek",0,00029A
+LYON,Precinct 29,Attorney General,,Democratic,"Kotich, A.J.",33,000290
+LYON,Precinct 29,Attorney General,,Republican,"Schmidt, Derek",99,000290
+LYON,Precinct 30,Attorney General,,Democratic,"Kotich, A.J.",110,000300
+LYON,Precinct 30,Attorney General,,Republican,"Schmidt, Derek",258,000300
+LYON,Precinct 31,Attorney General,,Democratic,"Kotich, A.J.",116,000310
+LYON,Precinct 31,Attorney General,,Republican,"Schmidt, Derek",367,000310
+LYON,Precinct 32,Attorney General,,Democratic,"Kotich, A.J.",67,000320
+LYON,Precinct 32,Attorney General,,Republican,"Schmidt, Derek",204,000320
+LYON,Precinct 29 A,Attorney General,,Democratic,"Kotich, A.J.",0,120020
+LYON,Precinct 29 A,Attorney General,,Republican,"Schmidt, Derek",0,120020
+LYON,Precinct 07 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,140010
+LYON,Precinct 07 Part A,Attorney General,,Republican,"Schmidt, Derek",0,140010
+LYON,Precinct 17 Part C,Attorney General,,Democratic,"Kotich, A.J.",0,140020
+LYON,Precinct 17 Part C,Attorney General,,Republican,"Schmidt, Derek",0,140020
+LYON,Precinct 19 Exclave Part A,Attorney General,,Democratic,"Kotich, A.J.",0,300010
+LYON,Precinct 19 Exclave Part A,Attorney General,,Republican,"Schmidt, Derek",0,300010
+LYON,Precinct 19 Exclave Part B,Attorney General,,Democratic,"Kotich, A.J.",0,300020
+LYON,Precinct 19 Exclave Part B,Attorney General,,Republican,"Schmidt, Derek",0,300020
+LYON,Precinct 04 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,400010
+LYON,Precinct 04 Part A,Attorney General,,Republican,"Schmidt, Derek",4,400010
+LYON,Precinct 04 Part B,Attorney General,,Democratic,"Kotich, A.J.",2,400020
+LYON,Precinct 04 Part B,Attorney General,,Republican,"Schmidt, Derek",0,400020
+LYON,Precinct 04 Part C,Attorney General,,Democratic,"Kotich, A.J.",2,400030
+LYON,Precinct 04 Part C,Attorney General,,Republican,"Schmidt, Derek",3,400030
+LYON,Precinct 04 Part D,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+LYON,Precinct 04 Part D,Attorney General,,Republican,"Schmidt, Derek",0,900010
+LYON,Precinct 09 Part A,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+LYON,Precinct 09 Part A,Attorney General,,Republican,"Schmidt, Derek",0,900020
+LYON,Precinct 29 Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,900030
+LYON,Precinct 29 Enclave,Attorney General,,Republican,"Schmidt, Derek",0,900030
+LYON,Precinct 29 Enclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900040
+LYON,Precinct 29 Enclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900040
+LYON,Precinct 29 Enclave 3,Attorney General,,Democratic,"Kotich, A.J.",0,900050
+LYON,Precinct 29 Enclave 3,Attorney General,,Republican,"Schmidt, Derek",3,900050
+LYON,Precinct 01,Commissioner of Insurance,,Democratic,"Anderson, Dennis",167,000010
+LYON,Precinct 01,Commissioner of Insurance,,Republican,"Selzer, Ken",147,000010
+LYON,Precinct 02,Commissioner of Insurance,,Democratic,"Anderson, Dennis",115,000020
+LYON,Precinct 02,Commissioner of Insurance,,Republican,"Selzer, Ken",94,000020
+LYON,Precinct 03,Commissioner of Insurance,,Democratic,"Anderson, Dennis",124,000030
+LYON,Precinct 03,Commissioner of Insurance,,Republican,"Selzer, Ken",125,000030
+LYON,Precinct 04,Commissioner of Insurance,,Democratic,"Anderson, Dennis",145,000040
+LYON,Precinct 04,Commissioner of Insurance,,Republican,"Selzer, Ken",146,000040
+LYON,Precinct 05,Commissioner of Insurance,,Democratic,"Anderson, Dennis",92,00005A
+LYON,Precinct 05,Commissioner of Insurance,,Republican,"Selzer, Ken",79,00005A
+LYON,Precinct 05 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+LYON,Precinct 05 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+LYON,Precinct 05 Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005C
+LYON,Precinct 05 Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005C
+LYON,Precinct 06 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",115,00006A
+LYON,Precinct 06 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",86,00006A
+LYON,Precinct 06 Part A Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006B
+LYON,Precinct 06 Part A Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006B
+LYON,Precinct 06 Part B Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006C
+LYON,Precinct 06 Part B Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006C
+LYON,Precinct 07,Commissioner of Insurance,,Democratic,"Anderson, Dennis",42,000070
+LYON,Precinct 07,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000070
+LYON,Precinct 08,Commissioner of Insurance,,Democratic,"Anderson, Dennis",102,000080
+LYON,Precinct 08,Commissioner of Insurance,,Republican,"Selzer, Ken",87,000080
+LYON,Precinct 09,Commissioner of Insurance,,Democratic,"Anderson, Dennis",99,000090
+LYON,Precinct 09,Commissioner of Insurance,,Republican,"Selzer, Ken",100,000090
+LYON,Precinct 10,Commissioner of Insurance,,Democratic,"Anderson, Dennis",145,000100
+LYON,Precinct 10,Commissioner of Insurance,,Republican,"Selzer, Ken",118,000100
+LYON,Precinct 11,Commissioner of Insurance,,Democratic,"Anderson, Dennis",92,000110
+LYON,Precinct 11,Commissioner of Insurance,,Republican,"Selzer, Ken",98,000110
+LYON,Precinct 12,Commissioner of Insurance,,Democratic,"Anderson, Dennis",103,000120
+LYON,Precinct 12,Commissioner of Insurance,,Republican,"Selzer, Ken",102,000120
+LYON,Precinct 13,Commissioner of Insurance,,Democratic,"Anderson, Dennis",127,000130
+LYON,Precinct 13,Commissioner of Insurance,,Republican,"Selzer, Ken",160,000130
+LYON,Precinct 14,Commissioner of Insurance,,Democratic,"Anderson, Dennis",197,000140
+LYON,Precinct 14,Commissioner of Insurance,,Republican,"Selzer, Ken",212,000140
+LYON,Precinct 15,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,000150
+LYON,Precinct 15,Commissioner of Insurance,,Republican,"Selzer, Ken",124,000150
+LYON,Precinct 16,Commissioner of Insurance,,Democratic,"Anderson, Dennis",169,000160
+LYON,Precinct 16,Commissioner of Insurance,,Republican,"Selzer, Ken",167,000160
+LYON,Precinct 17 Exclave Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017A
+LYON,Precinct 17 Exclave Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017A
+LYON,Precinct 17 Enclave Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+LYON,Precinct 17 Enclave Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+LYON,Precinct 17,Commissioner of Insurance,,Democratic,"Anderson, Dennis",154,000170
+LYON,Precinct 17,Commissioner of Insurance,,Republican,"Selzer, Ken",181,000170
+LYON,Precinct 18 Enclave Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00018A
+LYON,Precinct 18 Enclave Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00018A
+LYON,Precinct 18,Commissioner of Insurance,,Democratic,"Anderson, Dennis",126,000180
+LYON,Precinct 18,Commissioner of Insurance,,Republican,"Selzer, Ken",180,000180
+LYON,Precinct 19,Commissioner of Insurance,,Democratic,"Anderson, Dennis",217,000190
+LYON,Precinct 19,Commissioner of Insurance,,Republican,"Selzer, Ken",289,000190
+LYON,Precinct 20 Exclave Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00020A
+LYON,Precinct 20 Exclave Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00020A
+LYON,Precinct 20,Commissioner of Insurance,,Democratic,"Anderson, Dennis",180,000200
+LYON,Precinct 20,Commissioner of Insurance,,Republican,"Selzer, Ken",258,000200
+LYON,Precinct 21,Commissioner of Insurance,,Democratic,"Anderson, Dennis",53,000210
+LYON,Precinct 21,Commissioner of Insurance,,Republican,"Selzer, Ken",88,000210
+LYON,Precinct 22,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000220
+LYON,Precinct 22,Commissioner of Insurance,,Republican,"Selzer, Ken",64,000220
+LYON,Precinct 23,Commissioner of Insurance,,Democratic,"Anderson, Dennis",41,000230
+LYON,Precinct 23,Commissioner of Insurance,,Republican,"Selzer, Ken",67,000230
+LYON,Precinct 24,Commissioner of Insurance,,Democratic,"Anderson, Dennis",161,000240
+LYON,Precinct 24,Commissioner of Insurance,,Republican,"Selzer, Ken",292,000240
+LYON,Precinct 25,Commissioner of Insurance,,Democratic,"Anderson, Dennis",123,000250
+LYON,Precinct 25,Commissioner of Insurance,,Republican,"Selzer, Ken",256,000250
+LYON,Precinct 26,Commissioner of Insurance,,Democratic,"Anderson, Dennis",71,000260
+LYON,Precinct 26,Commissioner of Insurance,,Republican,"Selzer, Ken",109,000260
+LYON,Precinct 27,Commissioner of Insurance,,Democratic,"Anderson, Dennis",90,000270
+LYON,Precinct 27,Commissioner of Insurance,,Republican,"Selzer, Ken",172,000270
+LYON,Precinct 28,Commissioner of Insurance,,Democratic,"Anderson, Dennis",88,00028A
+LYON,Precinct 28,Commissioner of Insurance,,Republican,"Selzer, Ken",160,00028A
+LYON,Precinct 28 Enclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00028B
+LYON,Precinct 28 Enclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00028B
+LYON,Precinct 28 Enclave Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00028C
+LYON,Precinct 28 Enclave Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00028C
+LYON,Precinct 29 Exclave Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00029A
+LYON,Precinct 29 Exclave Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00029A
+LYON,Precinct 29,Commissioner of Insurance,,Democratic,"Anderson, Dennis",40,000290
+LYON,Precinct 29,Commissioner of Insurance,,Republican,"Selzer, Ken",88,000290
+LYON,Precinct 30,Commissioner of Insurance,,Democratic,"Anderson, Dennis",120,000300
+LYON,Precinct 30,Commissioner of Insurance,,Republican,"Selzer, Ken",238,000300
+LYON,Precinct 31,Commissioner of Insurance,,Democratic,"Anderson, Dennis",172,000310
+LYON,Precinct 31,Commissioner of Insurance,,Republican,"Selzer, Ken",284,000310
+LYON,Precinct 32,Commissioner of Insurance,,Democratic,"Anderson, Dennis",103,000320
+LYON,Precinct 32,Commissioner of Insurance,,Republican,"Selzer, Ken",160,000320
+LYON,Precinct 29 A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120020
+LYON,Precinct 29 A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,120020
+LYON,Precinct 07 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,140010
+LYON,Precinct 07 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,140010
+LYON,Precinct 17 Part C,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,140020
+LYON,Precinct 17 Part C,Commissioner of Insurance,,Republican,"Selzer, Ken",0,140020
+LYON,Precinct 19 Exclave Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,300010
+LYON,Precinct 19 Exclave Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,300010
+LYON,Precinct 19 Exclave Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,300020
+LYON,Precinct 19 Exclave Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,300020
+LYON,Precinct 04 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,400010
+LYON,Precinct 04 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",4,400010
+LYON,Precinct 04 Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,400020
+LYON,Precinct 04 Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,400020
+LYON,Precinct 04 Part C,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,400030
+LYON,Precinct 04 Part C,Commissioner of Insurance,,Republican,"Selzer, Ken",2,400030
+LYON,Precinct 04 Part D,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+LYON,Precinct 04 Part D,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+LYON,Precinct 09 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+LYON,Precinct 09 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+LYON,Precinct 29 Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900030
+LYON,Precinct 29 Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900030
+LYON,Precinct 29 Enclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900040
+LYON,Precinct 29 Enclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900040
+LYON,Precinct 29 Enclave 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900050
+LYON,Precinct 29 Enclave 3,Commissioner of Insurance,,Republican,"Selzer, Ken",2,900050
+LYON,Precinct 01,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",197,000010
+LYON,Precinct 01,Secretary of State,,Republican,"Kobach, Kris",121,000010
+LYON,Precinct 02,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",121,000020
+LYON,Precinct 02,Secretary of State,,Republican,"Kobach, Kris",96,000020
+LYON,Precinct 03,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",124,000030
+LYON,Precinct 03,Secretary of State,,Republican,"Kobach, Kris",133,000030
+LYON,Precinct 04,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",154,000040
+LYON,Precinct 04,Secretary of State,,Republican,"Kobach, Kris",149,000040
+LYON,Precinct 05,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",85,00005A
+LYON,Precinct 05,Secretary of State,,Republican,"Kobach, Kris",90,00005A
+LYON,Precinct 05 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+LYON,Precinct 05 Part A,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+LYON,Precinct 05 Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005C
+LYON,Precinct 05 Part B,Secretary of State,,Republican,"Kobach, Kris",0,00005C
+LYON,Precinct 06 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",122,00006A
+LYON,Precinct 06 Part A,Secretary of State,,Republican,"Kobach, Kris",86,00006A
+LYON,Precinct 06 Part A Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006B
+LYON,Precinct 06 Part A Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00006B
+LYON,Precinct 06 Part B Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006C
+LYON,Precinct 06 Part B Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00006C
+LYON,Precinct 07,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",49,000070
+LYON,Precinct 07,Secretary of State,,Republican,"Kobach, Kris",36,000070
+LYON,Precinct 08,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",108,000080
+LYON,Precinct 08,Secretary of State,,Republican,"Kobach, Kris",92,000080
+LYON,Precinct 09,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",98,000090
+LYON,Precinct 09,Secretary of State,,Republican,"Kobach, Kris",99,000090
+LYON,Precinct 10,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",136,000100
+LYON,Precinct 10,Secretary of State,,Republican,"Kobach, Kris",131,000100
+LYON,Precinct 11,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",100,000110
+LYON,Precinct 11,Secretary of State,,Republican,"Kobach, Kris",100,000110
+LYON,Precinct 12,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",114,000120
+LYON,Precinct 12,Secretary of State,,Republican,"Kobach, Kris",97,000120
+LYON,Precinct 13,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",138,000130
+LYON,Precinct 13,Secretary of State,,Republican,"Kobach, Kris",160,000130
+LYON,Precinct 14,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",232,000140
+LYON,Precinct 14,Secretary of State,,Republican,"Kobach, Kris",197,000140
+LYON,Precinct 15,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",117,000150
+LYON,Precinct 15,Secretary of State,,Republican,"Kobach, Kris",115,000150
+LYON,Precinct 16,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",188,000160
+LYON,Precinct 16,Secretary of State,,Republican,"Kobach, Kris",163,000160
+LYON,Precinct 17 Exclave Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017A
+LYON,Precinct 17 Exclave Part A,Secretary of State,,Republican,"Kobach, Kris",0,00017A
+LYON,Precinct 17 Enclave Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+LYON,Precinct 17 Enclave Part B,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+LYON,Precinct 17,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",163,000170
+LYON,Precinct 17,Secretary of State,,Republican,"Kobach, Kris",184,000170
+LYON,Precinct 18 Enclave Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00018A
+LYON,Precinct 18 Enclave Part A,Secretary of State,,Republican,"Kobach, Kris",0,00018A
+LYON,Precinct 18,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",150,000180
+LYON,Precinct 18,Secretary of State,,Republican,"Kobach, Kris",172,000180
+LYON,Precinct 19,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",238,000190
+LYON,Precinct 19,Secretary of State,,Republican,"Kobach, Kris",284,000190
+LYON,Precinct 20 Exclave Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00020A
+LYON,Precinct 20 Exclave Part A,Secretary of State,,Republican,"Kobach, Kris",0,00020A
+LYON,Precinct 20,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",203,000200
+LYON,Precinct 20,Secretary of State,,Republican,"Kobach, Kris",249,000200
+LYON,Precinct 21,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",47,000210
+LYON,Precinct 21,Secretary of State,,Republican,"Kobach, Kris",102,000210
+LYON,Precinct 22,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000220
+LYON,Precinct 22,Secretary of State,,Republican,"Kobach, Kris",69,000220
+LYON,Precinct 23,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",40,000230
+LYON,Precinct 23,Secretary of State,,Republican,"Kobach, Kris",70,000230
+LYON,Precinct 24,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",161,000240
+LYON,Precinct 24,Secretary of State,,Republican,"Kobach, Kris",302,000240
+LYON,Precinct 25,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",133,000250
+LYON,Precinct 25,Secretary of State,,Republican,"Kobach, Kris",259,000250
+LYON,Precinct 26,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",84,000260
+LYON,Precinct 26,Secretary of State,,Republican,"Kobach, Kris",101,000260
+LYON,Precinct 27,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",96,000270
+LYON,Precinct 27,Secretary of State,,Republican,"Kobach, Kris",179,000270
+LYON,Precinct 28,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",89,00028A
+LYON,Precinct 28,Secretary of State,,Republican,"Kobach, Kris",171,00028A
+LYON,Precinct 28 Enclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00028B
+LYON,Precinct 28 Enclave A,Secretary of State,,Republican,"Kobach, Kris",0,00028B
+LYON,Precinct 28 Enclave Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00028C
+LYON,Precinct 28 Enclave Part B,Secretary of State,,Republican,"Kobach, Kris",0,00028C
+LYON,Precinct 29 Exclave Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00029A
+LYON,Precinct 29 Exclave Part A,Secretary of State,,Republican,"Kobach, Kris",0,00029A
+LYON,Precinct 29,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",49,000290
+LYON,Precinct 29,Secretary of State,,Republican,"Kobach, Kris",87,000290
+LYON,Precinct 30,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",141,000300
+LYON,Precinct 30,Secretary of State,,Republican,"Kobach, Kris",234,000300
+LYON,Precinct 31,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",171,000310
+LYON,Precinct 31,Secretary of State,,Republican,"Kobach, Kris",314,000310
+LYON,Precinct 32,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",102,000320
+LYON,Precinct 32,Secretary of State,,Republican,"Kobach, Kris",169,000320
+LYON,Precinct 29 A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120020
+LYON,Precinct 29 A,Secretary of State,,Republican,"Kobach, Kris",0,120020
+LYON,Precinct 07 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,140010
+LYON,Precinct 07 Part A,Secretary of State,,Republican,"Kobach, Kris",0,140010
+LYON,Precinct 17 Part C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,140020
+LYON,Precinct 17 Part C,Secretary of State,,Republican,"Kobach, Kris",0,140020
+LYON,Precinct 19 Exclave Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,300010
+LYON,Precinct 19 Exclave Part A,Secretary of State,,Republican,"Kobach, Kris",0,300010
+LYON,Precinct 19 Exclave Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,300020
+LYON,Precinct 19 Exclave Part B,Secretary of State,,Republican,"Kobach, Kris",0,300020
+LYON,Precinct 04 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,400010
+LYON,Precinct 04 Part A,Secretary of State,,Republican,"Kobach, Kris",4,400010
+LYON,Precinct 04 Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,400020
+LYON,Precinct 04 Part B,Secretary of State,,Republican,"Kobach, Kris",0,400020
+LYON,Precinct 04 Part C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,400030
+LYON,Precinct 04 Part C,Secretary of State,,Republican,"Kobach, Kris",2,400030
+LYON,Precinct 04 Part D,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+LYON,Precinct 04 Part D,Secretary of State,,Republican,"Kobach, Kris",0,900010
+LYON,Precinct 09 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+LYON,Precinct 09 Part A,Secretary of State,,Republican,"Kobach, Kris",0,900020
+LYON,Precinct 29 Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900030
+LYON,Precinct 29 Enclave,Secretary of State,,Republican,"Kobach, Kris",0,900030
+LYON,Precinct 29 Enclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900040
+LYON,Precinct 29 Enclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900040
+LYON,Precinct 29 Enclave 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900050
+LYON,Precinct 29 Enclave 3,Secretary of State,,Republican,"Kobach, Kris",2,900050
+LYON,Precinct 01,State Treasurer,,Democratic,"Alldritt, Carmen",151,000010
+LYON,Precinct 01,State Treasurer,,Republican,"Estes, Ron",162,000010
+LYON,Precinct 02,State Treasurer,,Democratic,"Alldritt, Carmen",98,000020
+LYON,Precinct 02,State Treasurer,,Republican,"Estes, Ron",117,000020
+LYON,Precinct 03,State Treasurer,,Democratic,"Alldritt, Carmen",109,000030
+LYON,Precinct 03,State Treasurer,,Republican,"Estes, Ron",147,000030
+LYON,Precinct 04,State Treasurer,,Democratic,"Alldritt, Carmen",132,000040
+LYON,Precinct 04,State Treasurer,,Republican,"Estes, Ron",165,000040
+LYON,Precinct 05,State Treasurer,,Democratic,"Alldritt, Carmen",77,00005A
+LYON,Precinct 05,State Treasurer,,Republican,"Estes, Ron",97,00005A
+LYON,Precinct 05 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+LYON,Precinct 05 Part A,State Treasurer,,Republican,"Estes, Ron",0,00005B
+LYON,Precinct 05 Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005C
+LYON,Precinct 05 Part B,State Treasurer,,Republican,"Estes, Ron",0,00005C
+LYON,Precinct 06 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",101,00006A
+LYON,Precinct 06 Part A,State Treasurer,,Republican,"Estes, Ron",103,00006A
+LYON,Precinct 06 Part A Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006B
+LYON,Precinct 06 Part A Exclave,State Treasurer,,Republican,"Estes, Ron",0,00006B
+LYON,Precinct 06 Part B Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006C
+LYON,Precinct 06 Part B Exclave,State Treasurer,,Republican,"Estes, Ron",0,00006C
+LYON,Precinct 07,State Treasurer,,Democratic,"Alldritt, Carmen",38,000070
+LYON,Precinct 07,State Treasurer,,Republican,"Estes, Ron",44,000070
+LYON,Precinct 08,State Treasurer,,Democratic,"Alldritt, Carmen",83,000080
+LYON,Precinct 08,State Treasurer,,Republican,"Estes, Ron",108,000080
+LYON,Precinct 09,State Treasurer,,Democratic,"Alldritt, Carmen",84,000090
+LYON,Precinct 09,State Treasurer,,Republican,"Estes, Ron",118,000090
+LYON,Precinct 10,State Treasurer,,Democratic,"Alldritt, Carmen",110,000100
+LYON,Precinct 10,State Treasurer,,Republican,"Estes, Ron",156,000100
+LYON,Precinct 11,State Treasurer,,Democratic,"Alldritt, Carmen",87,000110
+LYON,Precinct 11,State Treasurer,,Republican,"Estes, Ron",108,000110
+LYON,Precinct 12,State Treasurer,,Democratic,"Alldritt, Carmen",87,000120
+LYON,Precinct 12,State Treasurer,,Republican,"Estes, Ron",121,000120
+LYON,Precinct 13,State Treasurer,,Democratic,"Alldritt, Carmen",108,000130
+LYON,Precinct 13,State Treasurer,,Republican,"Estes, Ron",180,000130
+LYON,Precinct 14,State Treasurer,,Democratic,"Alldritt, Carmen",170,000140
+LYON,Precinct 14,State Treasurer,,Republican,"Estes, Ron",248,000140
+LYON,Precinct 15,State Treasurer,,Democratic,"Alldritt, Carmen",86,000150
+LYON,Precinct 15,State Treasurer,,Republican,"Estes, Ron",135,000150
+LYON,Precinct 16,State Treasurer,,Democratic,"Alldritt, Carmen",139,000160
+LYON,Precinct 16,State Treasurer,,Republican,"Estes, Ron",195,000160
+LYON,Precinct 17 Exclave Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017A
+LYON,Precinct 17 Exclave Part A,State Treasurer,,Republican,"Estes, Ron",0,00017A
+LYON,Precinct 17 Enclave Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+LYON,Precinct 17 Enclave Part B,State Treasurer,,Republican,"Estes, Ron",0,00017B
+LYON,Precinct 17,State Treasurer,,Democratic,"Alldritt, Carmen",133,000170
+LYON,Precinct 17,State Treasurer,,Republican,"Estes, Ron",210,000170
+LYON,Precinct 18 Enclave Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00018A
+LYON,Precinct 18 Enclave Part A,State Treasurer,,Republican,"Estes, Ron",0,00018A
+LYON,Precinct 18,State Treasurer,,Democratic,"Alldritt, Carmen",118,000180
+LYON,Precinct 18,State Treasurer,,Republican,"Estes, Ron",196,000180
+LYON,Precinct 19,State Treasurer,,Democratic,"Alldritt, Carmen",175,000190
+LYON,Precinct 19,State Treasurer,,Republican,"Estes, Ron",339,000190
+LYON,Precinct 20 Exclave Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00020A
+LYON,Precinct 20 Exclave Part A,State Treasurer,,Republican,"Estes, Ron",0,00020A
+LYON,Precinct 20,State Treasurer,,Democratic,"Alldritt, Carmen",148,000200
+LYON,Precinct 20,State Treasurer,,Republican,"Estes, Ron",297,000200
+LYON,Precinct 21,State Treasurer,,Democratic,"Alldritt, Carmen",38,000210
+LYON,Precinct 21,State Treasurer,,Republican,"Estes, Ron",109,000210
+LYON,Precinct 22,State Treasurer,,Democratic,"Alldritt, Carmen",22,000220
+LYON,Precinct 22,State Treasurer,,Republican,"Estes, Ron",75,000220
+LYON,Precinct 23,State Treasurer,,Democratic,"Alldritt, Carmen",24,000230
+LYON,Precinct 23,State Treasurer,,Republican,"Estes, Ron",84,000230
+LYON,Precinct 24,State Treasurer,,Democratic,"Alldritt, Carmen",120,000240
+LYON,Precinct 24,State Treasurer,,Republican,"Estes, Ron",339,000240
+LYON,Precinct 25,State Treasurer,,Democratic,"Alldritt, Carmen",91,000250
+LYON,Precinct 25,State Treasurer,,Republican,"Estes, Ron",293,000250
+LYON,Precinct 26,State Treasurer,,Democratic,"Alldritt, Carmen",58,000260
+LYON,Precinct 26,State Treasurer,,Republican,"Estes, Ron",124,000260
+LYON,Precinct 27,State Treasurer,,Democratic,"Alldritt, Carmen",66,000270
+LYON,Precinct 27,State Treasurer,,Republican,"Estes, Ron",198,000270
+LYON,Precinct 28,State Treasurer,,Democratic,"Alldritt, Carmen",78,00028A
+LYON,Precinct 28,State Treasurer,,Republican,"Estes, Ron",178,00028A
+LYON,Precinct 28 Enclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00028B
+LYON,Precinct 28 Enclave A,State Treasurer,,Republican,"Estes, Ron",0,00028B
+LYON,Precinct 28 Enclave Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00028C
+LYON,Precinct 28 Enclave Part B,State Treasurer,,Republican,"Estes, Ron",0,00028C
+LYON,Precinct 29 Exclave Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00029A
+LYON,Precinct 29 Exclave Part A,State Treasurer,,Republican,"Estes, Ron",0,00029A
+LYON,Precinct 29,State Treasurer,,Democratic,"Alldritt, Carmen",34,000290
+LYON,Precinct 29,State Treasurer,,Republican,"Estes, Ron",99,000290
+LYON,Precinct 30,State Treasurer,,Democratic,"Alldritt, Carmen",115,000300
+LYON,Precinct 30,State Treasurer,,Republican,"Estes, Ron",251,000300
+LYON,Precinct 31,State Treasurer,,Democratic,"Alldritt, Carmen",128,000310
+LYON,Precinct 31,State Treasurer,,Republican,"Estes, Ron",338,000310
+LYON,Precinct 32,State Treasurer,,Democratic,"Alldritt, Carmen",74,000320
+LYON,Precinct 32,State Treasurer,,Republican,"Estes, Ron",195,000320
+LYON,Precinct 29 A,State Treasurer,,Democratic,"Alldritt, Carmen",0,120020
+LYON,Precinct 29 A,State Treasurer,,Republican,"Estes, Ron",0,120020
+LYON,Precinct 07 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,140010
+LYON,Precinct 07 Part A,State Treasurer,,Republican,"Estes, Ron",0,140010
+LYON,Precinct 17 Part C,State Treasurer,,Democratic,"Alldritt, Carmen",0,140020
+LYON,Precinct 17 Part C,State Treasurer,,Republican,"Estes, Ron",0,140020
+LYON,Precinct 19 Exclave Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,300010
+LYON,Precinct 19 Exclave Part A,State Treasurer,,Republican,"Estes, Ron",0,300010
+LYON,Precinct 19 Exclave Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,300020
+LYON,Precinct 19 Exclave Part B,State Treasurer,,Republican,"Estes, Ron",0,300020
+LYON,Precinct 04 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,400010
+LYON,Precinct 04 Part A,State Treasurer,,Republican,"Estes, Ron",4,400010
+LYON,Precinct 04 Part B,State Treasurer,,Democratic,"Alldritt, Carmen",2,400020
+LYON,Precinct 04 Part B,State Treasurer,,Republican,"Estes, Ron",0,400020
+LYON,Precinct 04 Part C,State Treasurer,,Democratic,"Alldritt, Carmen",2,400030
+LYON,Precinct 04 Part C,State Treasurer,,Republican,"Estes, Ron",2,400030
+LYON,Precinct 04 Part D,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+LYON,Precinct 04 Part D,State Treasurer,,Republican,"Estes, Ron",0,900010
+LYON,Precinct 09 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+LYON,Precinct 09 Part A,State Treasurer,,Republican,"Estes, Ron",0,900020
+LYON,Precinct 29 Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900030
+LYON,Precinct 29 Enclave,State Treasurer,,Republican,"Estes, Ron",0,900030
+LYON,Precinct 29 Enclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900040
+LYON,Precinct 29 Enclave 2,State Treasurer,,Republican,"Estes, Ron",0,900040
+LYON,Precinct 29 Enclave 3,State Treasurer,,Democratic,"Alldritt, Carmen",0,900050
+LYON,Precinct 29 Enclave 3,State Treasurer,,Republican,"Estes, Ron",3,900050
+LYON,Precinct 01,United States Senate,,independent,"Orman, Greg",188,000010
+LYON,Precinct 01,United States Senate,,Libertarian,"Batson, Randall",7,000010
+LYON,Precinct 01,United States Senate,,Republican,"Roberts, Pat",124,000010
+LYON,Precinct 02,United States Senate,,independent,"Orman, Greg",128,000020
+LYON,Precinct 02,United States Senate,,Libertarian,"Batson, Randall",11,000020
+LYON,Precinct 02,United States Senate,,Republican,"Roberts, Pat",84,000020
+LYON,Precinct 03,United States Senate,,independent,"Orman, Greg",124,000030
+LYON,Precinct 03,United States Senate,,Libertarian,"Batson, Randall",17,000030
+LYON,Precinct 03,United States Senate,,Republican,"Roberts, Pat",124,000030
+LYON,Precinct 04,United States Senate,,independent,"Orman, Greg",171,000040
+LYON,Precinct 04,United States Senate,,Libertarian,"Batson, Randall",13,000040
+LYON,Precinct 04,United States Senate,,Republican,"Roberts, Pat",124,000040
+LYON,Precinct 05,United States Senate,,independent,"Orman, Greg",86,00005A
+LYON,Precinct 05,United States Senate,,Libertarian,"Batson, Randall",13,00005A
+LYON,Precinct 05,United States Senate,,Republican,"Roberts, Pat",76,00005A
+LYON,Precinct 05 Part A,United States Senate,,independent,"Orman, Greg",0,00005B
+LYON,Precinct 05 Part A,United States Senate,,Libertarian,"Batson, Randall",0,00005B
+LYON,Precinct 05 Part A,United States Senate,,Republican,"Roberts, Pat",0,00005B
+LYON,Precinct 05 Part B,United States Senate,,independent,"Orman, Greg",0,00005C
+LYON,Precinct 05 Part B,United States Senate,,Libertarian,"Batson, Randall",0,00005C
+LYON,Precinct 05 Part B,United States Senate,,Republican,"Roberts, Pat",0,00005C
+LYON,Precinct 06 Part A,United States Senate,,independent,"Orman, Greg",103,00006A
+LYON,Precinct 06 Part A,United States Senate,,Libertarian,"Batson, Randall",13,00006A
+LYON,Precinct 06 Part A,United States Senate,,Republican,"Roberts, Pat",88,00006A
+LYON,Precinct 06 Part A Exclave,United States Senate,,independent,"Orman, Greg",0,00006B
+LYON,Precinct 06 Part A Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00006B
+LYON,Precinct 06 Part A Exclave,United States Senate,,Republican,"Roberts, Pat",0,00006B
+LYON,Precinct 06 Part B Exclave,United States Senate,,independent,"Orman, Greg",0,00006C
+LYON,Precinct 06 Part B Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00006C
+LYON,Precinct 06 Part B Exclave,United States Senate,,Republican,"Roberts, Pat",0,00006C
+LYON,Precinct 07,United States Senate,,independent,"Orman, Greg",53,000070
+LYON,Precinct 07,United States Senate,,Libertarian,"Batson, Randall",5,000070
+LYON,Precinct 07,United States Senate,,Republican,"Roberts, Pat",33,000070
+LYON,Precinct 08,United States Senate,,independent,"Orman, Greg",110,000080
+LYON,Precinct 08,United States Senate,,Libertarian,"Batson, Randall",11,000080
+LYON,Precinct 08,United States Senate,,Republican,"Roberts, Pat",79,000080
+LYON,Precinct 09,United States Senate,,independent,"Orman, Greg",107,000090
+LYON,Precinct 09,United States Senate,,Libertarian,"Batson, Randall",6,000090
+LYON,Precinct 09,United States Senate,,Republican,"Roberts, Pat",89,000090
+LYON,Precinct 10,United States Senate,,independent,"Orman, Greg",149,000100
+LYON,Precinct 10,United States Senate,,Libertarian,"Batson, Randall",12,000100
+LYON,Precinct 10,United States Senate,,Republican,"Roberts, Pat",108,000100
+LYON,Precinct 11,United States Senate,,independent,"Orman, Greg",107,000110
+LYON,Precinct 11,United States Senate,,Libertarian,"Batson, Randall",7,000110
+LYON,Precinct 11,United States Senate,,Republican,"Roberts, Pat",87,000110
+LYON,Precinct 12,United States Senate,,independent,"Orman, Greg",115,000120
+LYON,Precinct 12,United States Senate,,Libertarian,"Batson, Randall",8,000120
+LYON,Precinct 12,United States Senate,,Republican,"Roberts, Pat",91,000120
+LYON,Precinct 13,United States Senate,,independent,"Orman, Greg",142,000130
+LYON,Precinct 13,United States Senate,,Libertarian,"Batson, Randall",22,000130
+LYON,Precinct 13,United States Senate,,Republican,"Roberts, Pat",135,000130
+LYON,Precinct 14,United States Senate,,independent,"Orman, Greg",239,000140
+LYON,Precinct 14,United States Senate,,Libertarian,"Batson, Randall",10,000140
+LYON,Precinct 14,United States Senate,,Republican,"Roberts, Pat",184,000140
+LYON,Precinct 15,United States Senate,,independent,"Orman, Greg",116,000150
+LYON,Precinct 15,United States Senate,,Libertarian,"Batson, Randall",7,000150
+LYON,Precinct 15,United States Senate,,Republican,"Roberts, Pat",109,000150
+LYON,Precinct 16,United States Senate,,independent,"Orman, Greg",199,000160
+LYON,Precinct 16,United States Senate,,Libertarian,"Batson, Randall",11,000160
+LYON,Precinct 16,United States Senate,,Republican,"Roberts, Pat",145,000160
+LYON,Precinct 17 Exclave Part A,United States Senate,,independent,"Orman, Greg",0,00017A
+LYON,Precinct 17 Exclave Part A,United States Senate,,Libertarian,"Batson, Randall",0,00017A
+LYON,Precinct 17 Exclave Part A,United States Senate,,Republican,"Roberts, Pat",0,00017A
+LYON,Precinct 17 Enclave Part B,United States Senate,,independent,"Orman, Greg",0,00017B
+LYON,Precinct 17 Enclave Part B,United States Senate,,Libertarian,"Batson, Randall",0,00017B
+LYON,Precinct 17 Enclave Part B,United States Senate,,Republican,"Roberts, Pat",0,00017B
+LYON,Precinct 17,United States Senate,,independent,"Orman, Greg",172,000170
+LYON,Precinct 17,United States Senate,,Libertarian,"Batson, Randall",22,000170
+LYON,Precinct 17,United States Senate,,Republican,"Roberts, Pat",160,000170
+LYON,Precinct 18 Enclave Part A,United States Senate,,independent,"Orman, Greg",0,00018A
+LYON,Precinct 18 Enclave Part A,United States Senate,,Libertarian,"Batson, Randall",0,00018A
+LYON,Precinct 18 Enclave Part A,United States Senate,,Republican,"Roberts, Pat",0,00018A
+LYON,Precinct 18,United States Senate,,independent,"Orman, Greg",164,000180
+LYON,Precinct 18,United States Senate,,Libertarian,"Batson, Randall",8,000180
+LYON,Precinct 18,United States Senate,,Republican,"Roberts, Pat",154,000180
+LYON,Precinct 19,United States Senate,,independent,"Orman, Greg",279,000190
+LYON,Precinct 19,United States Senate,,Libertarian,"Batson, Randall",16,000190
+LYON,Precinct 19,United States Senate,,Republican,"Roberts, Pat",234,000190
+LYON,Precinct 20 Exclave Part A,United States Senate,,independent,"Orman, Greg",0,00020A
+LYON,Precinct 20 Exclave Part A,United States Senate,,Libertarian,"Batson, Randall",0,00020A
+LYON,Precinct 20 Exclave Part A,United States Senate,,Republican,"Roberts, Pat",0,00020A
+LYON,Precinct 20,United States Senate,,independent,"Orman, Greg",206,000200
+LYON,Precinct 20,United States Senate,,Libertarian,"Batson, Randall",14,000200
+LYON,Precinct 20,United States Senate,,Republican,"Roberts, Pat",239,000200
+LYON,Precinct 21,United States Senate,,independent,"Orman, Greg",65,000210
+LYON,Precinct 21,United States Senate,,Libertarian,"Batson, Randall",5,000210
+LYON,Precinct 21,United States Senate,,Republican,"Roberts, Pat",80,000210
+LYON,Precinct 22,United States Senate,,independent,"Orman, Greg",34,000220
+LYON,Precinct 22,United States Senate,,Libertarian,"Batson, Randall",3,000220
+LYON,Precinct 22,United States Senate,,Republican,"Roberts, Pat",60,000220
+LYON,Precinct 23,United States Senate,,independent,"Orman, Greg",34,000230
+LYON,Precinct 23,United States Senate,,Libertarian,"Batson, Randall",7,000230
+LYON,Precinct 23,United States Senate,,Republican,"Roberts, Pat",66,000230
+LYON,Precinct 24,United States Senate,,independent,"Orman, Greg",187,000240
+LYON,Precinct 24,United States Senate,,Libertarian,"Batson, Randall",23,000240
+LYON,Precinct 24,United States Senate,,Republican,"Roberts, Pat",263,000240
+LYON,Precinct 25,United States Senate,,independent,"Orman, Greg",142,000250
+LYON,Precinct 25,United States Senate,,Libertarian,"Batson, Randall",19,000250
+LYON,Precinct 25,United States Senate,,Republican,"Roberts, Pat",236,000250
+LYON,Precinct 26,United States Senate,,independent,"Orman, Greg",88,000260
+LYON,Precinct 26,United States Senate,,Libertarian,"Batson, Randall",5,000260
+LYON,Precinct 26,United States Senate,,Republican,"Roberts, Pat",97,000260
+LYON,Precinct 27,United States Senate,,independent,"Orman, Greg",107,000270
+LYON,Precinct 27,United States Senate,,Libertarian,"Batson, Randall",18,000270
+LYON,Precinct 27,United States Senate,,Republican,"Roberts, Pat",157,000270
+LYON,Precinct 28,United States Senate,,independent,"Orman, Greg",116,00028A
+LYON,Precinct 28,United States Senate,,Libertarian,"Batson, Randall",14,00028A
+LYON,Precinct 28,United States Senate,,Republican,"Roberts, Pat",138,00028A
+LYON,Precinct 28 Enclave A,United States Senate,,independent,"Orman, Greg",0,00028B
+LYON,Precinct 28 Enclave A,United States Senate,,Libertarian,"Batson, Randall",0,00028B
+LYON,Precinct 28 Enclave A,United States Senate,,Republican,"Roberts, Pat",0,00028B
+LYON,Precinct 28 Enclave Part B,United States Senate,,independent,"Orman, Greg",0,00028C
+LYON,Precinct 28 Enclave Part B,United States Senate,,Libertarian,"Batson, Randall",0,00028C
+LYON,Precinct 28 Enclave Part B,United States Senate,,Republican,"Roberts, Pat",0,00028C
+LYON,Precinct 29 Exclave Part A,United States Senate,,independent,"Orman, Greg",0,00029A
+LYON,Precinct 29 Exclave Part A,United States Senate,,Libertarian,"Batson, Randall",0,00029A
+LYON,Precinct 29 Exclave Part A,United States Senate,,Republican,"Roberts, Pat",0,00029A
+LYON,Precinct 29,United States Senate,,independent,"Orman, Greg",54,000290
+LYON,Precinct 29,United States Senate,,Libertarian,"Batson, Randall",5,000290
+LYON,Precinct 29,United States Senate,,Republican,"Roberts, Pat",79,000290
+LYON,Precinct 30,United States Senate,,independent,"Orman, Greg",149,000300
+LYON,Precinct 30,United States Senate,,Libertarian,"Batson, Randall",29,000300
+LYON,Precinct 30,United States Senate,,Republican,"Roberts, Pat",200,000300
+LYON,Precinct 31,United States Senate,,independent,"Orman, Greg",198,000310
+LYON,Precinct 31,United States Senate,,Libertarian,"Batson, Randall",25,000310
+LYON,Precinct 31,United States Senate,,Republican,"Roberts, Pat",271,000310
+LYON,Precinct 32,United States Senate,,independent,"Orman, Greg",118,000320
+LYON,Precinct 32,United States Senate,,Libertarian,"Batson, Randall",16,000320
+LYON,Precinct 32,United States Senate,,Republican,"Roberts, Pat",138,000320
+LYON,Precinct 29 A,United States Senate,,independent,"Orman, Greg",0,120020
+LYON,Precinct 29 A,United States Senate,,Libertarian,"Batson, Randall",0,120020
+LYON,Precinct 29 A,United States Senate,,Republican,"Roberts, Pat",0,120020
+LYON,Precinct 07 Part A,United States Senate,,independent,"Orman, Greg",0,140010
+LYON,Precinct 07 Part A,United States Senate,,Libertarian,"Batson, Randall",0,140010
+LYON,Precinct 07 Part A,United States Senate,,Republican,"Roberts, Pat",0,140010
+LYON,Precinct 17 Part C,United States Senate,,independent,"Orman, Greg",0,140020
+LYON,Precinct 17 Part C,United States Senate,,Libertarian,"Batson, Randall",0,140020
+LYON,Precinct 17 Part C,United States Senate,,Republican,"Roberts, Pat",0,140020
+LYON,Precinct 19 Exclave Part A,United States Senate,,independent,"Orman, Greg",0,300010
+LYON,Precinct 19 Exclave Part A,United States Senate,,Libertarian,"Batson, Randall",0,300010
+LYON,Precinct 19 Exclave Part A,United States Senate,,Republican,"Roberts, Pat",0,300010
+LYON,Precinct 19 Exclave Part B,United States Senate,,independent,"Orman, Greg",0,300020
+LYON,Precinct 19 Exclave Part B,United States Senate,,Libertarian,"Batson, Randall",0,300020
+LYON,Precinct 19 Exclave Part B,United States Senate,,Republican,"Roberts, Pat",0,300020
+LYON,Precinct 04 Part A,United States Senate,,independent,"Orman, Greg",0,400010
+LYON,Precinct 04 Part A,United States Senate,,Libertarian,"Batson, Randall",0,400010
+LYON,Precinct 04 Part A,United States Senate,,Republican,"Roberts, Pat",4,400010
+LYON,Precinct 04 Part B,United States Senate,,independent,"Orman, Greg",1,400020
+LYON,Precinct 04 Part B,United States Senate,,Libertarian,"Batson, Randall",0,400020
+LYON,Precinct 04 Part B,United States Senate,,Republican,"Roberts, Pat",0,400020
+LYON,Precinct 04 Part C,United States Senate,,independent,"Orman, Greg",3,400030
+LYON,Precinct 04 Part C,United States Senate,,Libertarian,"Batson, Randall",0,400030
+LYON,Precinct 04 Part C,United States Senate,,Republican,"Roberts, Pat",2,400030
+LYON,Precinct 04 Part D,United States Senate,,independent,"Orman, Greg",0,900010
+LYON,Precinct 04 Part D,United States Senate,,Libertarian,"Batson, Randall",0,900010
+LYON,Precinct 04 Part D,United States Senate,,Republican,"Roberts, Pat",0,900010
+LYON,Precinct 09 Part A,United States Senate,,independent,"Orman, Greg",0,900020
+LYON,Precinct 09 Part A,United States Senate,,Libertarian,"Batson, Randall",0,900020
+LYON,Precinct 09 Part A,United States Senate,,Republican,"Roberts, Pat",0,900020
+LYON,Precinct 29 Enclave,United States Senate,,independent,"Orman, Greg",0,900030
+LYON,Precinct 29 Enclave,United States Senate,,Libertarian,"Batson, Randall",0,900030
+LYON,Precinct 29 Enclave,United States Senate,,Republican,"Roberts, Pat",0,900030
+LYON,Precinct 29 Enclave 2,United States Senate,,independent,"Orman, Greg",0,900040
+LYON,Precinct 29 Enclave 2,United States Senate,,Libertarian,"Batson, Randall",0,900040
+LYON,Precinct 29 Enclave 2,United States Senate,,Republican,"Roberts, Pat",0,900040
+LYON,Precinct 29 Enclave 3,United States Senate,,independent,"Orman, Greg",0,900050
+LYON,Precinct 29 Enclave 3,United States Senate,,Libertarian,"Batson, Randall",0,900050
+LYON,Precinct 29 Enclave 3,United States Senate,,Republican,"Roberts, Pat",3,900050

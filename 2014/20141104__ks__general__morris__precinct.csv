@@ -1,271 +1,343 @@
-county,precinct,office,district,party,candidate,votes
-Morris,Highland,Attorney General,,D,A. J. Kotich,7
-Morris,Overland,Attorney General,,D,A. J. Kotich,6
-Morris,Twp 1 Pct 1,Attorney General,,D,A. J. Kotich,31
-Morris,Twp 1 Pct 2,Attorney General,,D,A. J. Kotich,19
-Morris,Twp 2,Attorney General,,D,A. J. Kotich,90
-Morris,Twp 3,Attorney General,,D,A. J. Kotich,38
-Morris,Twp 4,Attorney General,,D,A. J. Kotich,13
-Morris,Twp 5,Attorney General,,D,A. J. Kotich,27
-Morris,Twp 6,Attorney General,,D,A. J. Kotich,4
-Morris,Twp 7,Attorney General,,D,A. J. Kotich,20
-Morris,Twp 8,Attorney General,,D,A. J. Kotich,12
-Morris,Twp 9,Attorney General,,D,A. J. Kotich,20
-Morris,Ward 1,Attorney General,,D,A. J. Kotich,60
-Morris,Ward 2,Attorney General,,D,A. J. Kotich,47
-Morris,Ward 3,Attorney General,,D,A. J. Kotich,96
-Morris,Highland,Attorney General,,R,Derek Schmidt,39
-Morris,Overland,Attorney General,,R,Derek Schmidt,18
-Morris,Twp 1 Pct 1,Attorney General,,R,Derek Schmidt,76
-Morris,Twp 1 Pct 2,Attorney General,,R,Derek Schmidt,62
-Morris,Twp 2,Attorney General,,R,Derek Schmidt,228
-Morris,Twp 3,Attorney General,,R,Derek Schmidt,134
-Morris,Twp 4,Attorney General,,R,Derek Schmidt,79
-Morris,Twp 5,Attorney General,,R,Derek Schmidt,184
-Morris,Twp 6,Attorney General,,R,Derek Schmidt,36
-Morris,Twp 7,Attorney General,,R,Derek Schmidt,76
-Morris,Twp 8,Attorney General,,R,Derek Schmidt,81
-Morris,Twp 9,Attorney General,,R,Derek Schmidt,90
-Morris,Ward 1,Attorney General,,R,Derek Schmidt,134
-Morris,Ward 2,Attorney General,,R,Derek Schmidt,113
-Morris,Ward 3,Attorney General,,R,Derek Schmidt,231
-Morris,Highland,U.S. House,1,D,James E Sherow,10
-Morris,Overland,U.S. House,1,D,James E Sherow,9
-Morris,Twp 1 Pct 1,U.S. House,1,D,James E Sherow,39
-Morris,Twp 1 Pct 2,U.S. House,1,D,James E Sherow,29
-Morris,Twp 2,U.S. House,1,D,James E Sherow,130
-Morris,Twp 3,U.S. House,1,D,James E Sherow,52
-Morris,Twp 4,U.S. House,1,D,James E Sherow,23
-Morris,Twp 5,U.S. House,1,D,James E Sherow,37
-Morris,Twp 6,U.S. House,1,D,James E Sherow,6
-Morris,Twp 7,U.S. House,1,D,James E Sherow,29
-Morris,Twp 8,U.S. House,1,D,James E Sherow,24
-Morris,Twp 9,U.S. House,1,D,James E Sherow,33
-Morris,Ward 1,U.S. House,1,D,James E Sherow,76
-Morris,Ward 2,U.S. House,1,D,James E Sherow,61
-Morris,Ward 3,U.S. House,1,D,James E Sherow,142
-Morris,Highland,U.S. House,1,R,Tim Huelskamp,35
-Morris,Overland,U.S. House,1,R,Tim Huelskamp,16
-Morris,Twp 1 Pct 1,U.S. House,1,R,Tim Huelskamp,67
-Morris,Twp 1 Pct 2,U.S. House,1,R,Tim Huelskamp,49
-Morris,Twp 2,U.S. House,1,R,Tim Huelskamp,191
-Morris,Twp 3,U.S. House,1,R,Tim Huelskamp,117
-Morris,Twp 4,U.S. House,1,R,Tim Huelskamp,68
-Morris,Twp 5,U.S. House,1,R,Tim Huelskamp,176
-Morris,Twp 6,U.S. House,1,R,Tim Huelskamp,34
-Morris,Twp 7,U.S. House,1,R,Tim Huelskamp,69
-Morris,Twp 8,U.S. House,1,R,Tim Huelskamp,71
-Morris,Twp 9,U.S. House,1,R,Tim Huelskamp,76
-Morris,Ward 1,U.S. House,1,R,Tim Huelskamp,115
-Morris,Ward 2,U.S. House,1,R,Tim Huelskamp,97
-Morris,Ward 3,U.S. House,1,R,Tim Huelskamp,191
-Morris,Highland,Governor,,L,Keen Umbehr,3
-Morris,Overland,Governor,,L,Keen Umbehr,5
-Morris,Twp 1 Pct 1,Governor,,L,Keen Umbehr,8
-Morris,Twp 1 Pct 2,Governor,,L,Keen Umbehr,12
-Morris,Twp 2,Governor,,L,Keen Umbehr,27
-Morris,Twp 3,Governor,,L,Keen Umbehr,15
-Morris,Twp 4,Governor,,L,Keen Umbehr,12
-Morris,Twp 5,Governor,,L,Keen Umbehr,17
-Morris,Twp 6,Governor,,L,Keen Umbehr,3
-Morris,Twp 7,Governor,,L,Keen Umbehr,8
-Morris,Twp 8,Governor,,L,Keen Umbehr,4
-Morris,Twp 9,Governor,,L,Keen Umbehr,15
-Morris,Ward 1,Governor,,L,Keen Umbehr,21
-Morris,Ward 2,Governor,,L,Keen Umbehr,15
-Morris,Ward 3,Governor,,L,Keen Umbehr,35
-Morris,Highland,Governor,,D,Paul Davis,17
-Morris,Overland,Governor,,D,Paul Davis,9
-Morris,Twp 1 Pct 1,Governor,,D,Paul Davis,43
-Morris,Twp 1 Pct 2,Governor,,D,Paul Davis,37
-Morris,Twp 2,Governor,,D,Paul Davis,167
-Morris,Twp 3,Governor,,D,Paul Davis,64
-Morris,Twp 4,Governor,,D,Paul Davis,32
-Morris,Twp 5,Governor,,D,Paul Davis,65
-Morris,Twp 6,Governor,,D,Paul Davis,7
-Morris,Twp 7,Governor,,D,Paul Davis,38
-Morris,Twp 8,Governor,,D,Paul Davis,31
-Morris,Twp 9,Governor,,D,Paul Davis,45
-Morris,Ward 1,Governor,,D,Paul Davis,98
-Morris,Ward 2,Governor,,D,Paul Davis,75
-Morris,Ward 3,Governor,,D,Paul Davis,184
-Morris,Highland,Governor,,R,Sam Brownback,30
-Morris,Overland,Governor,,R,Sam Brownback,14
-Morris,Twp 1 Pct 1,Governor,,R,Sam Brownback,56
-Morris,Twp 1 Pct 2,Governor,,R,Sam Brownback,39
-Morris,Twp 2,Governor,,R,Sam Brownback,129
-Morris,Twp 3,Governor,,R,Sam Brownback,94
-Morris,Twp 4,Governor,,R,Sam Brownback,49
-Morris,Twp 5,Governor,,R,Sam Brownback,129
-Morris,Twp 6,Governor,,R,Sam Brownback,30
-Morris,Twp 7,Governor,,R,Sam Brownback,56
-Morris,Twp 8,Governor,,R,Sam Brownback,60
-Morris,Twp 9,Governor,,R,Sam Brownback,53
-Morris,Ward 1,Governor,,R,Sam Brownback,75
-Morris,Ward 2,Governor,,R,Sam Brownback,71
-Morris,Ward 3,Governor,,R,Sam Brownback,115
-Morris,Highland,Insurance Commissioner,,D,Dennis Anderson,6
-Morris,Overland,Insurance Commissioner,,D,Dennis Anderson,6
-Morris,Twp 1 Pct 1,Insurance Commissioner,,D,Dennis Anderson,29
-Morris,Twp 1 Pct 2,Insurance Commissioner,,D,Dennis Anderson,25
-Morris,Twp 2,Insurance Commissioner,,D,Dennis Anderson,114
-Morris,Twp 3,Insurance Commissioner,,D,Dennis Anderson,47
-Morris,Twp 4,Insurance Commissioner,,D,Dennis Anderson,18
-Morris,Twp 5,Insurance Commissioner,,D,Dennis Anderson,38
-Morris,Twp 6,Insurance Commissioner,,D,Dennis Anderson,5
-Morris,Twp 7,Insurance Commissioner,,D,Dennis Anderson,27
-Morris,Twp 8,Insurance Commissioner,,D,Dennis Anderson,14
-Morris,Twp 9,Insurance Commissioner,,D,Dennis Anderson,23
-Morris,Ward 1,Insurance Commissioner,,D,Dennis Anderson,76
-Morris,Ward 2,Insurance Commissioner,,D,Dennis Anderson,58
-Morris,Ward 3,Insurance Commissioner,,D,Dennis Anderson,124
-Morris,Highland,Insurance Commissioner,,R,Ken Selzer,37
-Morris,Overland,Insurance Commissioner,,R,Ken Selzer,16
-Morris,Twp 1 Pct 1,Insurance Commissioner,,R,Ken Selzer,73
-Morris,Twp 1 Pct 2,Insurance Commissioner,,R,Ken Selzer,53
-Morris,Twp 2,Insurance Commissioner,,R,Ken Selzer,197
-Morris,Twp 3,Insurance Commissioner,,R,Ken Selzer,118
-Morris,Twp 4,Insurance Commissioner,,R,Ken Selzer,73
-Morris,Twp 5,Insurance Commissioner,,R,Ken Selzer,174
-Morris,Twp 6,Insurance Commissioner,,R,Ken Selzer,32
-Morris,Twp 7,Insurance Commissioner,,R,Ken Selzer,69
-Morris,Twp 8,Insurance Commissioner,,R,Ken Selzer,78
-Morris,Twp 9,Insurance Commissioner,,R,Ken Selzer,81
-Morris,Ward 1,Insurance Commissioner,,R,Ken Selzer,108
-Morris,Ward 2,Insurance Commissioner,,R,Ken Selzer,94
-Morris,Ward 3,Insurance Commissioner,,R,Ken Selzer,195
-Morris,Highland,Secretary of State,,D,Jean Kurtis Schodorf,8
-Morris,Overland,Secretary of State,,D,Jean Kurtis Schodorf,8
-Morris,Twp 1 Pct 1,Secretary of State,,D,Jean Kurtis Schodorf,39
-Morris,Twp 1 Pct 2,Secretary of State,,D,Jean Kurtis Schodorf,29
-Morris,Twp 2,Secretary of State,,D,Jean Kurtis Schodorf,126
-Morris,Twp 3,Secretary of State,,D,Jean Kurtis Schodorf,47
-Morris,Twp 4,Secretary of State,,D,Jean Kurtis Schodorf,19
-Morris,Twp 5,Secretary of State,,D,Jean Kurtis Schodorf,33
-Morris,Twp 6,Secretary of State,,D,Jean Kurtis Schodorf,5
-Morris,Twp 7,Secretary of State,,D,Jean Kurtis Schodorf,30
-Morris,Twp 8,Secretary of State,,D,Jean Kurtis Schodorf,20
-Morris,Twp 9,Secretary of State,,D,Jean Kurtis Schodorf,29
-Morris,Ward 1,Secretary of State,,D,Jean Kurtis Schodorf,72
-Morris,Ward 2,Secretary of State,,D,Jean Kurtis Schodorf,59
-Morris,Ward 3,Secretary of State,,D,Jean Kurtis Schodorf,123
-Morris,Highland,Secretary of State,,R,Kris Kobach,40
-Morris,Overland,Secretary of State,,R,Kris Kobach,16
-Morris,Twp 1 Pct 1,Secretary of State,,R,Kris Kobach,70
-Morris,Twp 1 Pct 2,Secretary of State,,R,Kris Kobach,52
-Morris,Twp 2,Secretary of State,,R,Kris Kobach,193
-Morris,Twp 3,Secretary of State,,R,Kris Kobach,124
-Morris,Twp 4,Secretary of State,,R,Kris Kobach,74
-Morris,Twp 5,Secretary of State,,R,Kris Kobach,179
-Morris,Twp 6,Secretary of State,,R,Kris Kobach,34
-Morris,Twp 7,Secretary of State,,R,Kris Kobach,69
-Morris,Twp 8,Secretary of State,,R,Kris Kobach,76
-Morris,Twp 9,Secretary of State,,R,Kris Kobach,81
-Morris,Ward 1,Secretary of State,,R,Kris Kobach,120
-Morris,Ward 2,Secretary of State,,R,Kris Kobach,104
-Morris,Ward 3,Secretary of State,,R,Kris Kobach,208
-Morris,Highland,State Senate,37,R,Richard Wilborn,38
-Morris,Overland,State Senate,37,R,Richard Wilborn,16
-Morris,Twp 1 Pct 1,State Senate,37,R,Richard Wilborn,82
-Morris,Twp 1 Pct 2,State Senate,37,R,Richard Wilborn,64
-Morris,Twp 2,State Senate,37,R,Richard Wilborn,259
-Morris,Twp 3,State Senate,37,R,Richard Wilborn,134
-Morris,Twp 4,State Senate,37,R,Richard Wilborn,74
-Morris,Twp 5,State Senate,37,R,Richard Wilborn,189
-Morris,Twp 6,State Senate,37,R,Richard Wilborn,33
-Morris,Twp 7,State Senate,37,R,Richard Wilborn,79
-Morris,Twp 8,State Senate,37,R,Richard Wilborn,86
-Morris,Twp 9,State Senate,37,R,Richard Wilborn,96
-Morris,Ward 1,State Senate,37,R,Richard Wilborn,153
-Morris,Ward 2,State Senate,37,R,Richard Wilborn,116
-Morris,Ward 3,State Senate,37,R,Richard Wilborn,276
-Morris,Highland,State House,68,R,Tom Moxley,43
-Morris,Overland,State House,68,R,Tom Moxley,24
-Morris,Twp 1 Pct 1,State House,68,R,Tom Moxley,90
-Morris,Twp 1 Pct 2,State House,68,R,Tom Moxley,66
-Morris,Twp 2,State House,68,R,Tom Moxley,285
-Morris,Twp 3,State House,68,R,Tom Moxley,146
-Morris,Twp 4,State House,68,R,Tom Moxley,80
-Morris,Twp 5,State House,68,R,Tom Moxley,199
-Morris,Twp 6,State House,68,R,Tom Moxley,30
-Morris,Twp 7,State House,68,R,Tom Moxley,85
-Morris,Twp 8,State House,68,R,Tom Moxley,88
-Morris,Twp 9,State House,68,R,Tom Moxley,98
-Morris,Ward 1,State House,68,R,Tom Moxley,168
-Morris,Ward 2,State House,68,R,Tom Moxley,138
-Morris,Ward 3,State House,68,R,Tom Moxley,312
-Morris,Highland,State Treasurer,,D,Carmen Alldritt,6
-Morris,Overland,State Treasurer,,D,Carmen Alldritt,6
-Morris,Twp 1 Pct 1,State Treasurer,,D,Carmen Alldritt,25
-Morris,Twp 1 Pct 2,State Treasurer,,D,Carmen Alldritt,20
-Morris,Twp 2,State Treasurer,,D,Carmen Alldritt,85
-Morris,Twp 3,State Treasurer,,D,Carmen Alldritt,40
-Morris,Twp 4,State Treasurer,,D,Carmen Alldritt,14
-Morris,Twp 5,State Treasurer,,D,Carmen Alldritt,26
-Morris,Twp 6,State Treasurer,,D,Carmen Alldritt,4
-Morris,Twp 7,State Treasurer,,D,Carmen Alldritt,24
-Morris,Twp 8,State Treasurer,,D,Carmen Alldritt,11
-Morris,Twp 9,State Treasurer,,D,Carmen Alldritt,19
-Morris,Ward 1,State Treasurer,,D,Carmen Alldritt,70
-Morris,Ward 2,State Treasurer,,D,Carmen Alldritt,47
-Morris,Ward 3,State Treasurer,,D,Carmen Alldritt,82
-Morris,Highland,State Treasurer,,R,Ron Estes,38
-Morris,Overland,State Treasurer,,R,Ron Estes,16
-Morris,Twp 1 Pct 1,State Treasurer,,R,Ron Estes,80
-Morris,Twp 1 Pct 2,State Treasurer,,R,Ron Estes,61
-Morris,Twp 2,State Treasurer,,R,Ron Estes,232
-Morris,Twp 3,State Treasurer,,R,Ron Estes,131
-Morris,Twp 4,State Treasurer,,R,Ron Estes,77
-Morris,Twp 5,State Treasurer,,R,Ron Estes,186
-Morris,Twp 6,State Treasurer,,R,Ron Estes,33
-Morris,Twp 7,State Treasurer,,R,Ron Estes,73
-Morris,Twp 8,State Treasurer,,R,Ron Estes,81
-Morris,Twp 9,State Treasurer,,R,Ron Estes,89
-Morris,Ward 1,State Treasurer,,R,Ron Estes,124
-Morris,Ward 2,State Treasurer,,R,Ron Estes,97
-Morris,Ward 3,State Treasurer,,R,Ron Estes,244
-Morris,Highland,U.S. Senate,,I,Greg Orman,11
-Morris,Overland,U.S. Senate,,I,Greg Orman,7
-Morris,Twp 1 Pct 1,U.S. Senate,,I,Greg Orman,32
-Morris,Twp 1 Pct 2,U.S. Senate,,I,Greg Orman,20
-Morris,Twp 2,U.S. Senate,,I,Greg Orman,134
-Morris,Twp 3,U.S. Senate,,I,Greg Orman,52
-Morris,Twp 4,U.S. Senate,,I,Greg Orman,20
-Morris,Twp 5,U.S. Senate,,I,Greg Orman,45
-Morris,Twp 6,U.S. Senate,,I,Greg Orman,12
-Morris,Twp 7,U.S. Senate,,I,Greg Orman,30
-Morris,Twp 8,U.S. Senate,,I,Greg Orman,18
-Morris,Twp 9,U.S. Senate,,I,Greg Orman,32
-Morris,Ward 1,U.S. Senate,,I,Greg Orman,87
-Morris,Ward 2,U.S. Senate,,I,Greg Orman,62
-Morris,Ward 3,U.S. Senate,,I,Greg Orman,161
-Morris,Highland,U.S. Senate,,R,Pat Roberts,35
-Morris,Overland,U.S. Senate,,R,Pat Roberts,15
-Morris,Twp 1 Pct 1,U.S. Senate,,R,Pat Roberts,65
-Morris,Twp 1 Pct 2,U.S. Senate,,R,Pat Roberts,47
-Morris,Twp 2,U.S. Senate,,R,Pat Roberts,169
-Morris,Twp 3,U.S. Senate,,R,Pat Roberts,107
-Morris,Twp 4,U.S. Senate,,R,Pat Roberts,63
-Morris,Twp 5,U.S. Senate,,R,Pat Roberts,153
-Morris,Twp 6,U.S. Senate,,R,Pat Roberts,31
-Morris,Twp 7,U.S. Senate,,R,Pat Roberts,63
-Morris,Twp 8,U.S. Senate,,R,Pat Roberts,62
-Morris,Twp 9,U.S. Senate,,R,Pat Roberts,63
-Morris,Ward 1,U.S. Senate,,R,Pat Roberts,96
-Morris,Ward 2,U.S. Senate,,R,Pat Roberts,84
-Morris,Ward 3,U.S. Senate,,R,Pat Roberts,143
-Morris,Highland,U.S. Senate,,L,Randall Batson,3
-Morris,Overland,U.S. Senate,,L,Randall Batson,3
-Morris,Twp 1 Pct 1,U.S. Senate,,L,Randall Batson,7
-Morris,Twp 1 Pct 2,U.S. Senate,,L,Randall Batson,3
-Morris,Twp 2,U.S. Senate,,L,Randall Batson,9
-Morris,Twp 3,U.S. Senate,,L,Randall Batson,11
-Morris,Twp 4,U.S. Senate,,L,Randall Batson,6
-Morris,Twp 5,U.S. Senate,,L,Randall Batson,10
-Morris,Twp 6,U.S. Senate,,L,Randall Batson,2
-Morris,Twp 7,U.S. Senate,,L,Randall Batson,4
-Morris,Twp 8,U.S. Senate,,L,Randall Batson,7
-Morris,Twp 9,U.S. Senate,,L,Randall Batson,11
-Morris,Ward 1,U.S. Senate,,L,Randall Batson,13
-Morris,Ward 2,U.S. Senate,,L,Randall Batson,8
-Morris,Ward 3,U.S. Senate,,L,Randall Batson,19
+county,precinct,office,district,party,candidate,votes,vtd
+MORRIS,Council Grove Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",98,000010
+MORRIS,Council Grove Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,000010
+MORRIS,Council Grove Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",75,000010
+MORRIS,Council Grove Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",75,000020
+MORRIS,Council Grove Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000020
+MORRIS,Council Grove Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",71,000020
+MORRIS,Council Grove Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",184,000030
+MORRIS,Council Grove Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",35,000030
+MORRIS,Council Grove Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",115,000030
+MORRIS,Herington Ward 1 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000040
+MORRIS,Herington Ward 1 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000040
+MORRIS,Herington Ward 1 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,000040
+MORRIS,Herington Ward 1 Exclave B,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000050
+MORRIS,Herington Ward 1 Exclave B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000050
+MORRIS,Herington Ward 1 Exclave B,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,000050
+MORRIS,Highland Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",17,000060
+MORRIS,Highland Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000060
+MORRIS,Highland Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",30,000060
+MORRIS,Overland Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000070
+MORRIS,Overland Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000070
+MORRIS,Overland Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",14,000070
+MORRIS,Township 1 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",43,000080
+MORRIS,Township 1 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000080
+MORRIS,Township 1 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",56,000080
+MORRIS,Township 1 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",37,000090
+MORRIS,Township 1 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000090
+MORRIS,Township 1 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,000090
+MORRIS,Township 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",167,000100
+MORRIS,Township 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",27,000100
+MORRIS,Township 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",129,000100
+MORRIS,Township 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",64,000110
+MORRIS,Township 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000110
+MORRIS,Township 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",94,000110
+MORRIS,Township 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",32,000120
+MORRIS,Township 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000120
+MORRIS,Township 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",49,000120
+MORRIS,Township 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",65,000130
+MORRIS,Township 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000130
+MORRIS,Township 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",129,000130
+MORRIS,Township 6,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000140
+MORRIS,Township 6,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000140
+MORRIS,Township 6,Governor / Lt. Governor,,Republican,"Brownback, Sam",30,000140
+MORRIS,Township 7,Governor / Lt. Governor,,Democratic,"Davis, Paul",38,000150
+MORRIS,Township 7,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000150
+MORRIS,Township 7,Governor / Lt. Governor,,Republican,"Brownback, Sam",56,000150
+MORRIS,Township 8,Governor / Lt. Governor,,Democratic,"Davis, Paul",31,000160
+MORRIS,Township 8,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000160
+MORRIS,Township 8,Governor / Lt. Governor,,Republican,"Brownback, Sam",60,000160
+MORRIS,Township 9,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,000170
+MORRIS,Township 9,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000170
+MORRIS,Township 9,Governor / Lt. Governor,,Republican,"Brownback, Sam",53,000170
+MORRIS,Council Grove Ward 3 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+MORRIS,Council Grove Ward 3 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+MORRIS,Council Grove Ward 3 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+MORRIS,Herington Exclave C Airport,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900020
+MORRIS,Herington Exclave C Airport,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+MORRIS,Herington Exclave C Airport,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900020
+MORRIS,Council Grove Ward 1,Kansas House of Representatives,68,Republican,"Moxley, Tom",168,000010
+MORRIS,Council Grove Ward 2,Kansas House of Representatives,68,Republican,"Moxley, Tom",138,000020
+MORRIS,Council Grove Ward 3,Kansas House of Representatives,68,Republican,"Moxley, Tom",312,000030
+MORRIS,Herington Ward 1 Exclave A,Kansas House of Representatives,68,Republican,"Moxley, Tom",0,000040
+MORRIS,Herington Ward 1 Exclave B,Kansas House of Representatives,68,Republican,"Moxley, Tom",0,000050
+MORRIS,Highland Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",43,000060
+MORRIS,Overland Township,Kansas House of Representatives,68,Republican,"Moxley, Tom",24,000070
+MORRIS,Township 1 Precinct 1,Kansas House of Representatives,68,Republican,"Moxley, Tom",90,000080
+MORRIS,Township 1 Precinct 2,Kansas House of Representatives,68,Republican,"Moxley, Tom",66,000090
+MORRIS,Township 2,Kansas House of Representatives,68,Republican,"Moxley, Tom",285,000100
+MORRIS,Township 3,Kansas House of Representatives,68,Republican,"Moxley, Tom",146,000110
+MORRIS,Township 4,Kansas House of Representatives,68,Republican,"Moxley, Tom",80,000120
+MORRIS,Township 5,Kansas House of Representatives,68,Republican,"Moxley, Tom",199,000130
+MORRIS,Township 6,Kansas House of Representatives,68,Republican,"Moxley, Tom",30,000140
+MORRIS,Township 7,Kansas House of Representatives,68,Republican,"Moxley, Tom",85,000150
+MORRIS,Township 8,Kansas House of Representatives,68,Republican,"Moxley, Tom",88,000160
+MORRIS,Township 9,Kansas House of Representatives,68,Republican,"Moxley, Tom",98,000170
+MORRIS,Council Grove Ward 3 Exclave,Kansas House of Representatives,68,Republican,"Moxley, Tom",0,900010
+MORRIS,Herington Exclave C Airport,Kansas House of Representatives,68,Republican,"Moxley, Tom",0,900020
+MORRIS,Council Grove Ward 1,United States House of Representatives,1,Democratic,"Sherow, James E.",76,000010
+MORRIS,Council Grove Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",115,000010
+MORRIS,Council Grove Ward 2,United States House of Representatives,1,Democratic,"Sherow, James E.",61,000020
+MORRIS,Council Grove Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",97,000020
+MORRIS,Council Grove Ward 3,United States House of Representatives,1,Democratic,"Sherow, James E.",142,000030
+MORRIS,Council Grove Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",191,000030
+MORRIS,Herington Ward 1 Exclave A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000040
+MORRIS,Herington Ward 1 Exclave A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,000040
+MORRIS,Herington Ward 1 Exclave B,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000050
+MORRIS,Herington Ward 1 Exclave B,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,000050
+MORRIS,Highland Township,United States House of Representatives,1,Democratic,"Sherow, James E.",10,000060
+MORRIS,Highland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",35,000060
+MORRIS,Overland Township,United States House of Representatives,1,Democratic,"Sherow, James E.",9,000070
+MORRIS,Overland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",16,000070
+MORRIS,Township 1 Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",39,000080
+MORRIS,Township 1 Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",67,000080
+MORRIS,Township 1 Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",29,000090
+MORRIS,Township 1 Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",49,000090
+MORRIS,Township 2,United States House of Representatives,1,Democratic,"Sherow, James E.",130,000100
+MORRIS,Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",191,000100
+MORRIS,Township 3,United States House of Representatives,1,Democratic,"Sherow, James E.",52,000110
+MORRIS,Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",117,000110
+MORRIS,Township 4,United States House of Representatives,1,Democratic,"Sherow, James E.",23,000120
+MORRIS,Township 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",68,000120
+MORRIS,Township 5,United States House of Representatives,1,Democratic,"Sherow, James E.",37,000130
+MORRIS,Township 5,United States House of Representatives,1,Republican,"Huelskamp, Tim",176,000130
+MORRIS,Township 6,United States House of Representatives,1,Democratic,"Sherow, James E.",6,000140
+MORRIS,Township 6,United States House of Representatives,1,Republican,"Huelskamp, Tim",34,000140
+MORRIS,Township 7,United States House of Representatives,1,Democratic,"Sherow, James E.",29,000150
+MORRIS,Township 7,United States House of Representatives,1,Republican,"Huelskamp, Tim",69,000150
+MORRIS,Township 8,United States House of Representatives,1,Democratic,"Sherow, James E.",24,000160
+MORRIS,Township 8,United States House of Representatives,1,Republican,"Huelskamp, Tim",71,000160
+MORRIS,Township 9,United States House of Representatives,1,Democratic,"Sherow, James E.",33,000170
+MORRIS,Township 9,United States House of Representatives,1,Republican,"Huelskamp, Tim",76,000170
+MORRIS,Council Grove Ward 3 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900010
+MORRIS,Council Grove Ward 3 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900010
+MORRIS,Herington Exclave C Airport,United States House of Representatives,1,Democratic,"Sherow, James E.",0,900020
+MORRIS,Herington Exclave C Airport,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,900020
+MORRIS,Council Grove Ward 1,Attorney General,,Democratic,"Kotich, A.J.",60,000010
+MORRIS,Council Grove Ward 1,Attorney General,,Republican,"Schmidt, Derek",134,000010
+MORRIS,Council Grove Ward 2,Attorney General,,Democratic,"Kotich, A.J.",47,000020
+MORRIS,Council Grove Ward 2,Attorney General,,Republican,"Schmidt, Derek",113,000020
+MORRIS,Council Grove Ward 3,Attorney General,,Democratic,"Kotich, A.J.",96,000030
+MORRIS,Council Grove Ward 3,Attorney General,,Republican,"Schmidt, Derek",231,000030
+MORRIS,Herington Ward 1 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,000040
+MORRIS,Herington Ward 1 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,000040
+MORRIS,Herington Ward 1 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,000050
+MORRIS,Herington Ward 1 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,000050
+MORRIS,Highland Township,Attorney General,,Democratic,"Kotich, A.J.",7,000060
+MORRIS,Highland Township,Attorney General,,Republican,"Schmidt, Derek",39,000060
+MORRIS,Overland Township,Attorney General,,Democratic,"Kotich, A.J.",6,000070
+MORRIS,Overland Township,Attorney General,,Republican,"Schmidt, Derek",18,000070
+MORRIS,Township 1 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",31,000080
+MORRIS,Township 1 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",76,000080
+MORRIS,Township 1 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",19,000090
+MORRIS,Township 1 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",62,000090
+MORRIS,Township 2,Attorney General,,Democratic,"Kotich, A.J.",90,000100
+MORRIS,Township 2,Attorney General,,Republican,"Schmidt, Derek",228,000100
+MORRIS,Township 3,Attorney General,,Democratic,"Kotich, A.J.",38,000110
+MORRIS,Township 3,Attorney General,,Republican,"Schmidt, Derek",134,000110
+MORRIS,Township 4,Attorney General,,Democratic,"Kotich, A.J.",13,000120
+MORRIS,Township 4,Attorney General,,Republican,"Schmidt, Derek",79,000120
+MORRIS,Township 5,Attorney General,,Democratic,"Kotich, A.J.",27,000130
+MORRIS,Township 5,Attorney General,,Republican,"Schmidt, Derek",184,000130
+MORRIS,Township 6,Attorney General,,Democratic,"Kotich, A.J.",4,000140
+MORRIS,Township 6,Attorney General,,Republican,"Schmidt, Derek",36,000140
+MORRIS,Township 7,Attorney General,,Democratic,"Kotich, A.J.",20,000150
+MORRIS,Township 7,Attorney General,,Republican,"Schmidt, Derek",76,000150
+MORRIS,Township 8,Attorney General,,Democratic,"Kotich, A.J.",12,000160
+MORRIS,Township 8,Attorney General,,Republican,"Schmidt, Derek",81,000160
+MORRIS,Township 9,Attorney General,,Democratic,"Kotich, A.J.",20,000170
+MORRIS,Township 9,Attorney General,,Republican,"Schmidt, Derek",90,000170
+MORRIS,Council Grove Ward 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+MORRIS,Council Grove Ward 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+MORRIS,Herington Exclave C Airport,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+MORRIS,Herington Exclave C Airport,Attorney General,,Republican,"Schmidt, Derek",0,900020
+MORRIS,Council Grove Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",76,000010
+MORRIS,Council Grove Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",108,000010
+MORRIS,Council Grove Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",58,000020
+MORRIS,Council Grove Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",94,000020
+MORRIS,Council Grove Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",124,000030
+MORRIS,Council Grove Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",195,000030
+MORRIS,Herington Ward 1 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000040
+MORRIS,Herington Ward 1 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,000040
+MORRIS,Herington Ward 1 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000050
+MORRIS,Herington Ward 1 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,000050
+MORRIS,Highland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000060
+MORRIS,Highland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",37,000060
+MORRIS,Overland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000070
+MORRIS,Overland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",16,000070
+MORRIS,Township 1 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,000080
+MORRIS,Township 1 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",73,000080
+MORRIS,Township 1 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,000090
+MORRIS,Township 1 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",53,000090
+MORRIS,Township 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",114,000100
+MORRIS,Township 2,Commissioner of Insurance,,Republican,"Selzer, Ken",197,000100
+MORRIS,Township 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",47,000110
+MORRIS,Township 3,Commissioner of Insurance,,Republican,"Selzer, Ken",118,000110
+MORRIS,Township 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000120
+MORRIS,Township 4,Commissioner of Insurance,,Republican,"Selzer, Ken",73,000120
+MORRIS,Township 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000130
+MORRIS,Township 5,Commissioner of Insurance,,Republican,"Selzer, Ken",174,000130
+MORRIS,Township 6,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000140
+MORRIS,Township 6,Commissioner of Insurance,,Republican,"Selzer, Ken",32,000140
+MORRIS,Township 7,Commissioner of Insurance,,Democratic,"Anderson, Dennis",27,000150
+MORRIS,Township 7,Commissioner of Insurance,,Republican,"Selzer, Ken",69,000150
+MORRIS,Township 8,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,000160
+MORRIS,Township 8,Commissioner of Insurance,,Republican,"Selzer, Ken",78,000160
+MORRIS,Township 9,Commissioner of Insurance,,Democratic,"Anderson, Dennis",23,000170
+MORRIS,Township 9,Commissioner of Insurance,,Republican,"Selzer, Ken",81,000170
+MORRIS,Council Grove Ward 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+MORRIS,Council Grove Ward 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+MORRIS,Herington Exclave C Airport,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+MORRIS,Herington Exclave C Airport,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+MORRIS,Council Grove Ward 1,Kansas Senate,35,Republican,"Wilborn, Richard",153,000010
+MORRIS,Council Grove Ward 2,Kansas Senate,35,Republican,"Wilborn, Richard",116,000020
+MORRIS,Council Grove Ward 3,Kansas Senate,35,Republican,"Wilborn, Richard",276,000030
+MORRIS,Herington Ward 1 Exclave A,Kansas Senate,35,Republican,"Wilborn, Richard",0,000040
+MORRIS,Herington Ward 1 Exclave B,Kansas Senate,35,Republican,"Wilborn, Richard",0,000050
+MORRIS,Highland Township,Kansas Senate,35,Republican,"Wilborn, Richard",38,000060
+MORRIS,Overland Township,Kansas Senate,35,Republican,"Wilborn, Richard",16,000070
+MORRIS,Township 1 Precinct 1,Kansas Senate,35,Republican,"Wilborn, Richard",82,000080
+MORRIS,Township 1 Precinct 2,Kansas Senate,35,Republican,"Wilborn, Richard",64,000090
+MORRIS,Township 2,Kansas Senate,35,Republican,"Wilborn, Richard",259,000100
+MORRIS,Township 3,Kansas Senate,35,Republican,"Wilborn, Richard",134,000110
+MORRIS,Township 4,Kansas Senate,35,Republican,"Wilborn, Richard",74,000120
+MORRIS,Township 5,Kansas Senate,35,Republican,"Wilborn, Richard",189,000130
+MORRIS,Township 6,Kansas Senate,35,Republican,"Wilborn, Richard",33,000140
+MORRIS,Township 7,Kansas Senate,35,Republican,"Wilborn, Richard",79,000150
+MORRIS,Township 8,Kansas Senate,35,Republican,"Wilborn, Richard",86,000160
+MORRIS,Township 9,Kansas Senate,35,Republican,"Wilborn, Richard",96,000170
+MORRIS,Council Grove Ward 3 Exclave,Kansas Senate,35,Republican,"Wilborn, Richard",0,900010
+MORRIS,Herington Exclave C Airport,Kansas Senate,35,Republican,"Wilborn, Richard",0,900020
+MORRIS,Council Grove Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",72,000010
+MORRIS,Council Grove Ward 1,Secretary of State,,Republican,"Kobach, Kris",120,000010
+MORRIS,Council Grove Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",59,000020
+MORRIS,Council Grove Ward 2,Secretary of State,,Republican,"Kobach, Kris",104,000020
+MORRIS,Council Grove Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",123,000030
+MORRIS,Council Grove Ward 3,Secretary of State,,Republican,"Kobach, Kris",208,000030
+MORRIS,Herington Ward 1 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000040
+MORRIS,Herington Ward 1 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,000040
+MORRIS,Herington Ward 1 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000050
+MORRIS,Herington Ward 1 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,000050
+MORRIS,Highland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000060
+MORRIS,Highland Township,Secretary of State,,Republican,"Kobach, Kris",40,000060
+MORRIS,Overland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000070
+MORRIS,Overland Township,Secretary of State,,Republican,"Kobach, Kris",16,000070
+MORRIS,Township 1 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,000080
+MORRIS,Township 1 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",70,000080
+MORRIS,Township 1 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000090
+MORRIS,Township 1 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",52,000090
+MORRIS,Township 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",126,000100
+MORRIS,Township 2,Secretary of State,,Republican,"Kobach, Kris",193,000100
+MORRIS,Township 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",47,000110
+MORRIS,Township 3,Secretary of State,,Republican,"Kobach, Kris",124,000110
+MORRIS,Township 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000120
+MORRIS,Township 4,Secretary of State,,Republican,"Kobach, Kris",74,000120
+MORRIS,Township 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",33,000130
+MORRIS,Township 5,Secretary of State,,Republican,"Kobach, Kris",179,000130
+MORRIS,Township 6,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000140
+MORRIS,Township 6,Secretary of State,,Republican,"Kobach, Kris",34,000140
+MORRIS,Township 7,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,000150
+MORRIS,Township 7,Secretary of State,,Republican,"Kobach, Kris",69,000150
+MORRIS,Township 8,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",20,000160
+MORRIS,Township 8,Secretary of State,,Republican,"Kobach, Kris",76,000160
+MORRIS,Township 9,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000170
+MORRIS,Township 9,Secretary of State,,Republican,"Kobach, Kris",81,000170
+MORRIS,Council Grove Ward 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+MORRIS,Council Grove Ward 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900010
+MORRIS,Herington Exclave C Airport,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+MORRIS,Herington Exclave C Airport,Secretary of State,,Republican,"Kobach, Kris",0,900020
+MORRIS,Council Grove Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",70,000010
+MORRIS,Council Grove Ward 1,State Treasurer,,Republican,"Estes, Ron",124,000010
+MORRIS,Council Grove Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",47,000020
+MORRIS,Council Grove Ward 2,State Treasurer,,Republican,"Estes, Ron",97,000020
+MORRIS,Council Grove Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",82,000030
+MORRIS,Council Grove Ward 3,State Treasurer,,Republican,"Estes, Ron",244,000030
+MORRIS,Herington Ward 1 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,000040
+MORRIS,Herington Ward 1 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,000040
+MORRIS,Herington Ward 1 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,000050
+MORRIS,Herington Ward 1 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,000050
+MORRIS,Highland Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000060
+MORRIS,Highland Township,State Treasurer,,Republican,"Estes, Ron",38,000060
+MORRIS,Overland Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000070
+MORRIS,Overland Township,State Treasurer,,Republican,"Estes, Ron",16,000070
+MORRIS,Township 1 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",25,000080
+MORRIS,Township 1 Precinct 1,State Treasurer,,Republican,"Estes, Ron",80,000080
+MORRIS,Township 1 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",20,000090
+MORRIS,Township 1 Precinct 2,State Treasurer,,Republican,"Estes, Ron",61,000090
+MORRIS,Township 2,State Treasurer,,Democratic,"Alldritt, Carmen",85,000100
+MORRIS,Township 2,State Treasurer,,Republican,"Estes, Ron",232,000100
+MORRIS,Township 3,State Treasurer,,Democratic,"Alldritt, Carmen",40,000110
+MORRIS,Township 3,State Treasurer,,Republican,"Estes, Ron",131,000110
+MORRIS,Township 4,State Treasurer,,Democratic,"Alldritt, Carmen",14,000120
+MORRIS,Township 4,State Treasurer,,Republican,"Estes, Ron",77,000120
+MORRIS,Township 5,State Treasurer,,Democratic,"Alldritt, Carmen",26,000130
+MORRIS,Township 5,State Treasurer,,Republican,"Estes, Ron",186,000130
+MORRIS,Township 6,State Treasurer,,Democratic,"Alldritt, Carmen",4,000140
+MORRIS,Township 6,State Treasurer,,Republican,"Estes, Ron",33,000140
+MORRIS,Township 7,State Treasurer,,Democratic,"Alldritt, Carmen",24,000150
+MORRIS,Township 7,State Treasurer,,Republican,"Estes, Ron",73,000150
+MORRIS,Township 8,State Treasurer,,Democratic,"Alldritt, Carmen",11,000160
+MORRIS,Township 8,State Treasurer,,Republican,"Estes, Ron",81,000160
+MORRIS,Township 9,State Treasurer,,Democratic,"Alldritt, Carmen",19,000170
+MORRIS,Township 9,State Treasurer,,Republican,"Estes, Ron",89,000170
+MORRIS,Council Grove Ward 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+MORRIS,Council Grove Ward 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900010
+MORRIS,Herington Exclave C Airport,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+MORRIS,Herington Exclave C Airport,State Treasurer,,Republican,"Estes, Ron",0,900020
+MORRIS,Council Grove Ward 1,United States Senate,,independent,"Orman, Greg",87,000010
+MORRIS,Council Grove Ward 1,United States Senate,,Libertarian,"Batson, Randall",13,000010
+MORRIS,Council Grove Ward 1,United States Senate,,Republican,"Roberts, Pat",96,000010
+MORRIS,Council Grove Ward 2,United States Senate,,independent,"Orman, Greg",62,000020
+MORRIS,Council Grove Ward 2,United States Senate,,Libertarian,"Batson, Randall",8,000020
+MORRIS,Council Grove Ward 2,United States Senate,,Republican,"Roberts, Pat",84,000020
+MORRIS,Council Grove Ward 3,United States Senate,,independent,"Orman, Greg",161,000030
+MORRIS,Council Grove Ward 3,United States Senate,,Libertarian,"Batson, Randall",19,000030
+MORRIS,Council Grove Ward 3,United States Senate,,Republican,"Roberts, Pat",143,000030
+MORRIS,Herington Ward 1 Exclave A,United States Senate,,independent,"Orman, Greg",0,000040
+MORRIS,Herington Ward 1 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,000040
+MORRIS,Herington Ward 1 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,000040
+MORRIS,Herington Ward 1 Exclave B,United States Senate,,independent,"Orman, Greg",0,000050
+MORRIS,Herington Ward 1 Exclave B,United States Senate,,Libertarian,"Batson, Randall",0,000050
+MORRIS,Herington Ward 1 Exclave B,United States Senate,,Republican,"Roberts, Pat",0,000050
+MORRIS,Highland Township,United States Senate,,independent,"Orman, Greg",11,000060
+MORRIS,Highland Township,United States Senate,,Libertarian,"Batson, Randall",3,000060
+MORRIS,Highland Township,United States Senate,,Republican,"Roberts, Pat",35,000060
+MORRIS,Overland Township,United States Senate,,independent,"Orman, Greg",7,000070
+MORRIS,Overland Township,United States Senate,,Libertarian,"Batson, Randall",3,000070
+MORRIS,Overland Township,United States Senate,,Republican,"Roberts, Pat",15,000070
+MORRIS,Township 1 Precinct 1,United States Senate,,independent,"Orman, Greg",32,000080
+MORRIS,Township 1 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",7,000080
+MORRIS,Township 1 Precinct 1,United States Senate,,Republican,"Roberts, Pat",65,000080
+MORRIS,Township 1 Precinct 2,United States Senate,,independent,"Orman, Greg",20,000090
+MORRIS,Township 1 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",3,000090
+MORRIS,Township 1 Precinct 2,United States Senate,,Republican,"Roberts, Pat",47,000090
+MORRIS,Township 2,United States Senate,,independent,"Orman, Greg",134,000100
+MORRIS,Township 2,United States Senate,,Libertarian,"Batson, Randall",9,000100
+MORRIS,Township 2,United States Senate,,Republican,"Roberts, Pat",169,000100
+MORRIS,Township 3,United States Senate,,independent,"Orman, Greg",52,000110
+MORRIS,Township 3,United States Senate,,Libertarian,"Batson, Randall",11,000110
+MORRIS,Township 3,United States Senate,,Republican,"Roberts, Pat",107,000110
+MORRIS,Township 4,United States Senate,,independent,"Orman, Greg",20,000120
+MORRIS,Township 4,United States Senate,,Libertarian,"Batson, Randall",6,000120
+MORRIS,Township 4,United States Senate,,Republican,"Roberts, Pat",63,000120
+MORRIS,Township 5,United States Senate,,independent,"Orman, Greg",45,000130
+MORRIS,Township 5,United States Senate,,Libertarian,"Batson, Randall",10,000130
+MORRIS,Township 5,United States Senate,,Republican,"Roberts, Pat",153,000130
+MORRIS,Township 6,United States Senate,,independent,"Orman, Greg",12,000140
+MORRIS,Township 6,United States Senate,,Libertarian,"Batson, Randall",2,000140
+MORRIS,Township 6,United States Senate,,Republican,"Roberts, Pat",31,000140
+MORRIS,Township 7,United States Senate,,independent,"Orman, Greg",30,000150
+MORRIS,Township 7,United States Senate,,Libertarian,"Batson, Randall",4,000150
+MORRIS,Township 7,United States Senate,,Republican,"Roberts, Pat",63,000150
+MORRIS,Township 8,United States Senate,,independent,"Orman, Greg",18,000160
+MORRIS,Township 8,United States Senate,,Libertarian,"Batson, Randall",7,000160
+MORRIS,Township 8,United States Senate,,Republican,"Roberts, Pat",62,000160
+MORRIS,Township 9,United States Senate,,independent,"Orman, Greg",32,000170
+MORRIS,Township 9,United States Senate,,Libertarian,"Batson, Randall",11,000170
+MORRIS,Township 9,United States Senate,,Republican,"Roberts, Pat",63,000170
+MORRIS,Council Grove Ward 3 Exclave,United States Senate,,independent,"Orman, Greg",0,900010
+MORRIS,Council Grove Ward 3 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900010
+MORRIS,Council Grove Ward 3 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900010
+MORRIS,Herington Exclave C Airport,United States Senate,,independent,"Orman, Greg",0,900020
+MORRIS,Herington Exclave C Airport,United States Senate,,Libertarian,"Batson, Randall",0,900020
+MORRIS,Herington Exclave C Airport,United States Senate,,Republican,"Roberts, Pat",0,900020

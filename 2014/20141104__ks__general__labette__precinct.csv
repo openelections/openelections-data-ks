@@ -1,690 +1,835 @@
-county,precinct,office,district,party,candidate,votes
-Labette,Parsons W1P1,U.S. Senate,,R,Pat Roberts,121
-Labette,Parsons W1P2,U.S. Senate,,R,Pat Roberts,56
-Labette,Parsons W1P3,U.S. Senate,,R,Pat Roberts,36
-Labette,Parsons W2P1,U.S. Senate,,R,Pat Roberts,36
-Labette,Parsons W2P2,U.S. Senate,,R,Pat Roberts,96
-Labette,Parsons W2P3,U.S. Senate,,R,Pat Roberts,80
-Labette,Parsons W3P1,U.S. Senate,,R,Pat Roberts,46
-Labette,Parsons W3P2,U.S. Senate,,R,Pat Roberts,95
-Labette,Parsons W3P3,U.S. Senate,,R,Pat Roberts,94
-Labette,Parsons W3P4,U.S. Senate,,R,Pat Roberts,124
-Labette,Parsons W4P1,U.S. Senate,,R,Pat Roberts,61
-Labette,Parsons W4P2,U.S. Senate,,R,Pat Roberts,62
-Labette,Parsons W4P3,U.S. Senate,,R,Pat Roberts,55
-Labette,Parsons W4P4,U.S. Senate,,R,Pat Roberts,110
-Labette,City of Chetopa W1,U.S. Senate,,R,Pat Roberts,38
-Labette,City of Chetopa W2,U.S. Senate,,R,Pat Roberts,40
-Labette,City of Chetopa W3,U.S. Senate,,R,Pat Roberts,54
-Labette,City of Oswego W1,U.S. Senate,,R,Pat Roberts,104
-Labette,City of Oswego W2,U.S. Senate,,R,Pat Roberts,90
-Labette,City of Oswego W3,U.S. Senate,,R,Pat Roberts,58
-Labette,Canada,U.S. Senate,,R,Pat Roberts,74
-Labette,Elm Grove,U.S. Senate,,R,Pat Roberts,228
-Labette,Fairview,U.S. Senate,,R,Pat Roberts,58
-Labette,Hackberry,U.S. Senate,,R,Pat Roberts,74
-Labette,Howard,U.S. Senate,,R,Pat Roberts,86
-Labette,Labette,U.S. Senate,,R,Pat Roberts,107
-Labette,Liberty,U.S. Senate,,R,Pat Roberts,89
-Labette,Montana,U.S. Senate,,R,Pat Roberts,41
-Labette,Mound Valley,U.S. Senate,,R,Pat Roberts,167
-Labette,Mt Pleasant,U.S. Senate,,R,Pat Roberts,259
-Labette,Neosho,U.S. Senate,,R,Pat Roberts,39
-Labette,North,U.S. Senate,,R,Pat Roberts,127
-Labette,Osage,U.S. Senate,,R,Pat Roberts,148
-Labette,Oswego,U.S. Senate,,R,Pat Roberts,56
-Labette,Richland 1A,U.S. Senate,,R,Pat Roberts,12
-Labette,Richland 1B,U.S. Senate,,R,Pat Roberts,8
-Labette,Richland 7,U.S. Senate,,R,Pat Roberts,25
-Labette,Walton,U.S. Senate,,R,Pat Roberts,160
-Labette,W1P1,U.S. Senate,,I,Greg Orman,108
-Labette,W1P2,U.S. Senate,,I,Greg Orman,42
-Labette,W1P3,U.S. Senate,,I,Greg Orman,36
-Labette,W2P1,U.S. Senate,,I,Greg Orman,41
-Labette,W2P2,U.S. Senate,,I,Greg Orman,104
-Labette,W2P3,U.S. Senate,,I,Greg Orman,89
-Labette,W3P1,U.S. Senate,,I,Greg Orman,25
-Labette,W3P2,U.S. Senate,,I,Greg Orman,117
-Labette,W3P3,U.S. Senate,,I,Greg Orman,84
-Labette,W3P4,U.S. Senate,,I,Greg Orman,123
-Labette,W4P1,U.S. Senate,,I,Greg Orman,44
-Labette,W4P2,U.S. Senate,,I,Greg Orman,88
-Labette,W4P3,U.S. Senate,,I,Greg Orman,72
-Labette,W4P4,U.S. Senate,,I,Greg Orman,81
-Labette,City of Chetopa W1,U.S. Senate,,I,Greg Orman,26
-Labette,City of Chetopa W2,U.S. Senate,,I,Greg Orman,24
-Labette,City of Chetopa W3,U.S. Senate,,I,Greg Orman,31
-Labette,City of Oswego W1,U.S. Senate,,I,Greg Orman,52
-Labette,City of Oswego W2,U.S. Senate,,I,Greg Orman,64
-Labette,City of Oswego W3,U.S. Senate,,I,Greg Orman,45
-Labette,Canada,U.S. Senate,,I,Greg Orman,21
-Labette,Elm Grove,U.S. Senate,,I,Greg Orman,47
-Labette,Fairview,U.S. Senate,,I,Greg Orman,18
-Labette,Hackberry,U.S. Senate,,I,Greg Orman,26
-Labette,Howard,U.S. Senate,,I,Greg Orman,42
-Labette,Labette,U.S. Senate,,I,Greg Orman,32
-Labette,Liberty,U.S. Senate,,I,Greg Orman,47
-Labette,Montana,U.S. Senate,,I,Greg Orman,16
-Labette,Mound Valley,U.S. Senate,,I,Greg Orman,70
-Labette,Mt Pleasant,U.S. Senate,,I,Greg Orman,123
-Labette,Neosho,U.S. Senate,,I,Greg Orman,19
-Labette,North,U.S. Senate,,I,Greg Orman,91
-Labette,Osage,U.S. Senate,,I,Greg Orman,75
-Labette,Oswego,U.S. Senate,,I,Greg Orman,30
-Labette,Richland 1A,U.S. Senate,,I,Greg Orman,6
-Labette,Richland 1B,U.S. Senate,,I,Greg Orman,4
-Labette,Richland 7,U.S. Senate,,I,Greg Orman,18
-Labette,Walton,U.S. Senate,,I,Greg Orman,105
-Labette,W1P1,U.S. Senate,,L,Randall Batson,13
-Labette,W1P2,U.S. Senate,,L,Randall Batson,6
-Labette,W1P3,U.S. Senate,,L,Randall Batson,4
-Labette,W2P1,U.S. Senate,,L,Randall Batson,4
-Labette,W2P2,U.S. Senate,,L,Randall Batson,6
-Labette,W2P3,U.S. Senate,,L,Randall Batson,18
-Labette,W3P1,U.S. Senate,,L,Randall Batson,6
-Labette,W3P2,U.S. Senate,,L,Randall Batson,12
-Labette,W3P3,U.S. Senate,,L,Randall Batson,21
-Labette,W3P4,U.S. Senate,,L,Randall Batson,15
-Labette,W4P1,U.S. Senate,,L,Randall Batson,8
-Labette,W4P2,U.S. Senate,,L,Randall Batson,15
-Labette,W4P3,U.S. Senate,,L,Randall Batson,8
-Labette,W4P4,U.S. Senate,,L,Randall Batson,12
-Labette,City of Chetopa W1,U.S. Senate,,L,Randall Batson,7
-Labette,City of Chetopa W2,U.S. Senate,,L,Randall Batson,6
-Labette,City of Chetopa W3,U.S. Senate,,L,Randall Batson,7
-Labette,City of Oswego W1,U.S. Senate,,L,Randall Batson,18
-Labette,City of Oswego W2,U.S. Senate,,L,Randall Batson,12
-Labette,City of Oswego W3,U.S. Senate,,L,Randall Batson,14
-Labette,Canada,U.S. Senate,,L,Randall Batson,3
-Labette,Elm Grove,U.S. Senate,,L,Randall Batson,18
-Labette,Fairview,U.S. Senate,,L,Randall Batson,3
-Labette,Hackberry,U.S. Senate,,L,Randall Batson,9
-Labette,Howard,U.S. Senate,,L,Randall Batson,7
-Labette,Labette,U.S. Senate,,L,Randall Batson,8
-Labette,Liberty,U.S. Senate,,L,Randall Batson,6
-Labette,Montana,U.S. Senate,,L,Randall Batson,3
-Labette,Mound Valley,U.S. Senate,,L,Randall Batson,17
-Labette,Mt Pleasant,U.S. Senate,,L,Randall Batson,26
-Labette,Neosho,U.S. Senate,,L,Randall Batson,6
-Labette,North,U.S. Senate,,L,Randall Batson,15
-Labette,Osage,U.S. Senate,,L,Randall Batson,12
-Labette,Oswego,U.S. Senate,,L,Randall Batson,5
-Labette,Richland 1A,U.S. Senate,,L,Randall Batson,2
-Labette,Richland 1B,U.S. Senate,,L,Randall Batson,1
-Labette,Richland 7,U.S. Senate,,L,Randall Batson,5
-Labette,Walton,U.S. Senate,,L,Randall Batson,14
-Labette,W1P1,U.S. House,2,R,Lynn Jenkins,138
-Labette,W1P2,U.S. House,2,R,Lynn Jenkins,62
-Labette,W1P3,U.S. House,2,R,Lynn Jenkins,37
-Labette,W2P1,U.S. House,2,R,Lynn Jenkins,34
-Labette,W2P2,U.S. House,2,R,Lynn Jenkins,98
-Labette,W2P3,U.S. House,2,R,Lynn Jenkins,82
-Labette,W3P1,U.S. House,2,R,Lynn Jenkins,47
-Labette,W3P2,U.S. House,2,R,Lynn Jenkins,104
-Labette,W3P3,U.S. House,2,R,Lynn Jenkins,94
-Labette,W3P4,U.S. House,2,R,Lynn Jenkins,146
-Labette,W4P1,U.S. House,2,R,Lynn Jenkins,68
-Labette,W4P2,U.S. House,2,R,Lynn Jenkins,81
-Labette,W4P3,U.S. House,2,R,Lynn Jenkins,61
-Labette,W4P4,U.S. House,2,R,Lynn Jenkins,126
-Labette,City of Chetopa W1,U.S. House,2,R,Lynn Jenkins,41
-Labette,City of Chetopa W2,U.S. House,2,R,Lynn Jenkins,42
-Labette,City of Chetopa W3,U.S. House,2,R,Lynn Jenkins,56
-Labette,City of Oswego W1,U.S. House,2,R,Lynn Jenkins,132
-Labette,City of Oswego W2,U.S. House,2,R,Lynn Jenkins,99
-Labette,City of Oswego W3,U.S. House,2,R,Lynn Jenkins,69
-Labette,Canada,U.S. House,2,R,Lynn Jenkins,75
-Labette,Elm Grove,U.S. House,2,R,Lynn Jenkins,246
-Labette,Fairview,U.S. House,2,R,Lynn Jenkins,59
-Labette,Hackberry,U.S. House,2,R,Lynn Jenkins,79
-Labette,Howard,U.S. House,2,R,Lynn Jenkins,99
-Labette,Labette,U.S. House,2,R,Lynn Jenkins,108
-Labette,Liberty,U.S. House,2,R,Lynn Jenkins,94
-Labette,Montana,U.S. House,2,R,Lynn Jenkins,42
-Labette,Mound Valley,U.S. House,2,R,Lynn Jenkins,185
-Labette,Mt Pleasant,U.S. House,2,R,Lynn Jenkins,273
-Labette,Neosho,U.S. House,2,R,Lynn Jenkins,43
-Labette,North,U.S. House,2,R,Lynn Jenkins,145
-Labette,Osage,U.S. House,2,R,Lynn Jenkins,161
-Labette,Oswego,U.S. House,2,R,Lynn Jenkins,59
-Labette,Richland 1A,U.S. House,2,R,Lynn Jenkins,14
-Labette,Richland 1B,U.S. House,2,R,Lynn Jenkins,11
-Labette,Richland 7,U.S. House,2,R,Lynn Jenkins,33
-Labette,Walton,U.S. House,2,R,Lynn Jenkins,176
-Labette,W1P1,U.S. House,2,D,Margie Wakefield,99
-Labette,W1P2,U.S. House,2,D,Margie Wakefield,41
-Labette,W1P3,U.S. House,2,D,Margie Wakefield,42
-Labette,W2P1,U.S. House,2,D,Margie Wakefield,44
-Labette,W2P2,U.S. House,2,D,Margie Wakefield,103
-Labette,W2P3,U.S. House,2,D,Margie Wakefield,97
-Labette,W3P1,U.S. House,2,D,Margie Wakefield,25
-Labette,W3P2,U.S. House,2,D,Margie Wakefield,118
-Labette,W3P3,U.S. House,2,D,Margie Wakefield,98
-Labette,W3P4,U.S. House,2,D,Margie Wakefield,112
-Labette,W4P1,U.S. House,2,D,Margie Wakefield,38
-Labette,W4P2,U.S. House,2,D,Margie Wakefield,70
-Labette,W4P3,U.S. House,2,D,Margie Wakefield,70
-Labette,W4P4,U.S. House,2,D,Margie Wakefield,63
-Labette,City of Chetopa W1,U.S. House,2,D,Margie Wakefield,31
-Labette,City of Chetopa W2,U.S. House,2,D,Margie Wakefield,25
-Labette,City of Chetopa W3,U.S. House,2,D,Margie Wakefield,34
-Labette,City of Oswego W1,U.S. House,2,D,Margie Wakefield,36
-Labette,City of Oswego W2,U.S. House,2,D,Margie Wakefield,58
-Labette,City of Oswego W3,U.S. House,2,D,Margie Wakefield,37
-Labette,Canada,U.S. House,2,D,Margie Wakefield,16
-Labette,Elm Grove,U.S. House,2,D,Margie Wakefield,39
-Labette,Fairview,U.S. House,2,D,Margie Wakefield,17
-Labette,Hackberry,U.S. House,2,D,Margie Wakefield,26
-Labette,Howard,U.S. House,2,D,Margie Wakefield,28
-Labette,Labette,U.S. House,2,D,Margie Wakefield,26
-Labette,Liberty,U.S. House,2,D,Margie Wakefield,42
-Labette,Montana,U.S. House,2,D,Margie Wakefield,15
-Labette,Mound Valley,U.S. House,2,D,Margie Wakefield,58
-Labette,Mt Pleasant,U.S. House,2,D,Margie Wakefield,109
-Labette,Neosho,U.S. House,2,D,Margie Wakefield,18
-Labette,North,U.S. House,2,D,Margie Wakefield,77
-Labette,Osage,U.S. House,2,D,Margie Wakefield,62
-Labette,Oswego,U.S. House,2,D,Margie Wakefield,26
-Labette,Richland 1A,U.S. House,2,D,Margie Wakefield,5
-Labette,Richland 1B,U.S. House,2,D,Margie Wakefield,3
-Labette,Richland 7,U.S. House,2,D,Margie Wakefield,16
-Labette,Walton,U.S. House,2,D,Margie Wakefield,91
-Labette,W1P1,U.S. House,2,L,Chris Clemmons,10
-Labette,W1P2,U.S. House,2,L,Chris Clemmons,4
-Labette,W1P3,U.S. House,2,L,Chris Clemmons,1
-Labette,W2P1,U.S. House,2,L,Chris Clemmons,3
-Labette,W2P2,U.S. House,2,L,Chris Clemmons,8
-Labette,W2P3,U.S. House,2,L,Chris Clemmons,11
-Labette,W3P1,U.S. House,2,L,Chris Clemmons,5
-Labette,W3P2,U.S. House,2,L,Chris Clemmons,10
-Labette,W3P3,U.S. House,2,L,Chris Clemmons,13
-Labette,W3P4,U.S. House,2,L,Chris Clemmons,4
-Labette,W4P1,U.S. House,2,L,Chris Clemmons,7
-Labette,W4P2,U.S. House,2,L,Chris Clemmons,14
-Labette,W4P3,U.S. House,2,L,Chris Clemmons,6
-Labette,W4P4,U.S. House,2,L,Chris Clemmons,12
-Labette,City of Chetopa W1,U.S. House,2,L,Chris Clemmons,1
-Labette,City of Chetopa W2,U.S. House,2,L,Chris Clemmons,6
-Labette,City of Chetopa W3,U.S. House,2,L,Chris Clemmons,6
-Labette,City of Oswego W1,U.S. House,2,L,Chris Clemmons,11
-Labette,City of Oswego W2,U.S. House,2,L,Chris Clemmons,12
-Labette,City of Oswego W3,U.S. House,2,L,Chris Clemmons,12
-Labette,Canada,U.S. House,2,L,Chris Clemmons,6
-Labette,Elm Grove,U.S. House,2,L,Chris Clemmons,11
-Labette,Fairview,U.S. House,2,L,Chris Clemmons,3
-Labette,Hackberry,U.S. House,2,L,Chris Clemmons,6
-Labette,Howard,U.S. House,2,L,Chris Clemmons,6
-Labette,Labette,U.S. House,2,L,Chris Clemmons,9
-Labette,Liberty,U.S. House,2,L,Chris Clemmons,6
-Labette,Montana,U.S. House,2,L,Chris Clemmons,3
-Labette,Mound Valley,U.S. House,2,L,Chris Clemmons,13
-Labette,Mt Pleasant,U.S. House,2,L,Chris Clemmons,28
-Labette,Neosho,U.S. House,2,L,Chris Clemmons,5
-Labette,North,U.S. House,2,L,Chris Clemmons,11
-Labette,Osage,U.S. House,2,L,Chris Clemmons,13
-Labette,Oswego,U.S. House,2,L,Chris Clemmons,6
-Labette,Richland 1A,U.S. House,2,L,Chris Clemmons,1
-Labette,Richland 1B,U.S. House,2,L,Chris Clemmons,0
-Labette,Richland 7,U.S. House,2,L,Chris Clemmons,1
-Labette,Walton,U.S. House,2,L,Chris Clemmons,14
-Labette,W1P1,Governor,,R,Sam Brownback,113
-Labette,W1P2,Governor,,R,Sam Brownback,54
-Labette,W1P3,Governor,,R,Sam Brownback,31
-Labette,W2P1,Governor,,R,Sam Brownback,31
-Labette,W2P2,Governor,,R,Sam Brownback,86
-Labette,W2P3,Governor,,R,Sam Brownback,73
-Labette,W3P1,Governor,,R,Sam Brownback,42
-Labette,W3P2,Governor,,R,Sam Brownback,93
-Labette,W3P3,Governor,,R,Sam Brownback,79
-Labette,W3P4,Governor,,R,Sam Brownback,113
-Labette,W4P1,Governor,,R,Sam Brownback,56
-Labette,W4P2,Governor,,R,Sam Brownback,52
-Labette,W4P3,Governor,,R,Sam Brownback,49
-Labette,W4P4,Governor,,R,Sam Brownback,91
-Labette,City of Chetopa W1,Governor,,R,Sam Brownback,33
-Labette,City of Chetopa W2,Governor,,R,Sam Brownback,42
-Labette,City of Chetopa W3,Governor,,R,Sam Brownback,50
-Labette,City of Oswego W1,Governor,,R,Sam Brownback,99
-Labette,City of Oswego W2,Governor,,R,Sam Brownback,87
-Labette,City of Oswego W3,Governor,,R,Sam Brownback,52
-Labette,Canada,Governor,,R,Sam Brownback,69
-Labette,Elm Grove,Governor,,R,Sam Brownback,219
-Labette,Fairview,Governor,,R,Sam Brownback,58
-Labette,Hackberry,Governor,,R,Sam Brownback,73
-Labette,Howard,Governor,,R,Sam Brownback,92
-Labette,Labette,Governor,,R,Sam Brownback,96
-Labette,Liberty,Governor,,R,Sam Brownback,82
-Labette,Montana,Governor,,R,Sam Brownback,37
-Labette,Mound Valley,Governor,,R,Sam Brownback,162
-Labette,Mt Pleasant,Governor,,R,Sam Brownback,230
-Labette,Neosho,Governor,,R,Sam Brownback,39
-Labette,North,Governor,,R,Sam Brownback,127
-Labette,Osage,Governor,,R,Sam Brownback,147
-Labette,Oswego,Governor,,R,Sam Brownback,57
-Labette,Richland 1A,Governor,,R,Sam Brownback,10
-Labette,Richland 1B,Governor,,R,Sam Brownback,4
-Labette,Richland 7,Governor,,R,Sam Brownback,32
-Labette,Walton,Governor,,R,Sam Brownback,157
-Labette,W1P1,Governor,,D,Paul Davis,124
-Labette,W1P2,Governor,,D,Paul Davis,47
-Labette,W1P3,Governor,,D,Paul Davis,45
-Labette,W2P1,Governor,,D,Paul Davis,48
-Labette,W2P2,Governor,,D,Paul Davis,119
-Labette,W2P3,Governor,,D,Paul Davis,110
-Labette,W3P1,Governor,,D,Paul Davis,33
-Labette,W3P2,Governor,,D,Paul Davis,130
-Labette,W3P3,Governor,,D,Paul Davis,110
-Labette,W3P4,Governor,,D,Paul Davis,142
-Labette,W4P1,Governor,,D,Paul Davis,54
-Labette,W4P2,Governor,,D,Paul Davis,101
-Labette,W4P3,Governor,,D,Paul Davis,83
-Labette,W4P4,Governor,,D,Paul Davis,105
-Labette,City of Chetopa W1,Governor,,D,Paul Davis,38
-Labette,City of Chetopa W2,Governor,,D,Paul Davis,27
-Labette,City of Chetopa W3,Governor,,D,Paul Davis,42
-Labette,City of Oswego W1,Governor,,D,Paul Davis,67
-Labette,City of Oswego W2,Governor,,D,Paul Davis,71
-Labette,City of Oswego W3,Governor,,D,Paul Davis,56
-Labette,Canada,Governor,,D,Paul Davis,24
-Labette,Elm Grove,Governor,,D,Paul Davis,66
-Labette,Fairview,Governor,,D,Paul Davis,22
-Labette,Hackberry,Governor,,D,Paul Davis,34
-Labette,Howard,Governor,,D,Paul Davis,36
-Labette,Labette,Governor,,D,Paul Davis,43
-Labette,Liberty,Governor,,D,Paul Davis,56
-Labette,Montana,Governor,,D,Paul Davis,21
-Labette,Mound Valley,Governor,,D,Paul Davis,84
-Labette,Mt Pleasant,Governor,,D,Paul Davis,163
-Labette,Neosho,Governor,,D,Paul Davis,25
-Labette,North,Governor,,D,Paul Davis,103
-Labette,Osage,Governor,,D,Paul Davis,81
-Labette,Oswego,Governor,,D,Paul Davis,28
-Labette,Richland 1A,Governor,,D,Paul Davis,9
-Labette,Richland 1B,Governor,,D,Paul Davis,9
-Labette,Richland 7,Governor,,D,Paul Davis,16
-Labette,Walton,Governor,,D,Paul Davis,120
-Labette,W1P1,Governor,,L,Keen Umbehr,8
-Labette,W1P2,Governor,,L,Keen Umbehr,4
-Labette,W1P3,Governor,,L,Keen Umbehr,2
-Labette,W2P1,Governor,,L,Keen Umbehr,2
-Labette,W2P2,Governor,,L,Keen Umbehr,5
-Labette,W2P3,Governor,,L,Keen Umbehr,9
-Labette,W3P1,Governor,,L,Keen Umbehr,3
-Labette,W3P2,Governor,,L,Keen Umbehr,7
-Labette,W3P3,Governor,,L,Keen Umbehr,15
-Labette,W3P4,Governor,,L,Keen Umbehr,12
-Labette,W4P1,Governor,,L,Keen Umbehr,4
-Labette,W4P2,Governor,,L,Keen Umbehr,13
-Labette,W4P3,Governor,,L,Keen Umbehr,5
-Labette,W4P4,Governor,,L,Keen Umbehr,6
-Labette,City of Chetopa W1,Governor,,L,Keen Umbehr,1
-Labette,City of Chetopa W2,Governor,,L,Keen Umbehr,3
-Labette,City of Chetopa W3,Governor,,L,Keen Umbehr,5
-Labette,City of Oswego W1,Governor,,L,Keen Umbehr,14
-Labette,City of Oswego W2,Governor,,L,Keen Umbehr,8
-Labette,City of Oswego W3,Governor,,L,Keen Umbehr,8
-Labette,Canada,Governor,,L,Keen Umbehr,5
-Labette,Elm Grove,Governor,,L,Keen Umbehr,11
-Labette,Fairview,Governor,,L,Keen Umbehr,0
-Labette,Hackberry,Governor,,L,Keen Umbehr,3
-Labette,Howard,Governor,,L,Keen Umbehr,8
-Labette,Labette,Governor,,L,Keen Umbehr,6
-Labette,Liberty,Governor,,L,Keen Umbehr,4
-Labette,Montana,Governor,,L,Keen Umbehr,2
-Labette,Mound Valley,Governor,,L,Keen Umbehr,12
-Labette,Mt Pleasant,Governor,,L,Keen Umbehr,19
-Labette,Neosho,Governor,,L,Keen Umbehr,2
-Labette,North,Governor,,L,Keen Umbehr,8
-Labette,Osage,Governor,,L,Keen Umbehr,6
-Labette,Oswego,Governor,,L,Keen Umbehr,3
-Labette,Richland 1A,Governor,,L,Keen Umbehr,1
-Labette,Richland 1B,Governor,,L,Keen Umbehr,1
-Labette,Richland 7,Governor,,L,Keen Umbehr,2
-Labette,Walton,Governor,,L,Keen Umbehr,3
-Labette,Parsons W1P1,Secretary of State,,R,Kris Kobach,129
-Labette,Parsons W1P2,Secretary of State,,R,Kris Kobach,60
-Labette,Parsons W1P3,Secretary of State,,R,Kris Kobach,32
-Labette,Parsons W2P1,Secretary of State,,R,Kris Kobach,39
-Labette,Parsons W2P2,Secretary of State,,R,Kris Kobach,102
-Labette,Parsons W2P3,Secretary of State,,R,Kris Kobach,93
-Labette,Parsons W3P1,Secretary of State,,R,Kris Kobach,46
-Labette,Parsons W3P2,Secretary of State,,R,Kris Kobach,101
-Labette,Parsons W3P3,Secretary of State,,R,Kris Kobach,101
-Labette,Parsons W3P4,Secretary of State,,R,Kris Kobach,137
-Labette,Parsons W4P1,Secretary of State,,R,Kris Kobach,66
-Labette,Parsons W4P2,Secretary of State,,R,Kris Kobach,78
-Labette,Parsons W4P3,Secretary of State,,R,Kris Kobach,50
-Labette,Parsons W4P4,Secretary of State,,R,Kris Kobach,117
-Labette,City of Chetopa W1,Secretary of State,,R,Kris Kobach,38
-Labette,City of Chetopa W2,Secretary of State,,R,Kris Kobach,44
-Labette,City of Chetopa W3,Secretary of State,,R,Kris Kobach,50
-Labette,City of Oswego W1,Secretary of State,,R,Kris Kobach,117
-Labette,City of Oswego W2,Secretary of State,,R,Kris Kobach,100
-Labette,City of Oswego W3,Secretary of State,,R,Kris Kobach,67
-Labette,Canada,Secretary of State,,R,Kris Kobach,73
-Labette,Elm Grove,Secretary of State,,R,Kris Kobach,239
-Labette,Fairview,Secretary of State,,R,Kris Kobach,60
-Labette,Hackberry,Secretary of State,,R,Kris Kobach,77
-Labette,Howard,Secretary of State,,R,Kris Kobach,93
-Labette,Labette,Secretary of State,,R,Kris Kobach,112
-Labette,Liberty,Secretary of State,,R,Kris Kobach,92
-Labette,Montana,Secretary of State,,R,Kris Kobach,39
-Labette,Mound Valley,Secretary of State,,R,Kris Kobach,174
-Labette,Mt Pleasant,Secretary of State,,R,Kris Kobach,265
-Labette,Neosho,Secretary of State,,R,Kris Kobach,44
-Labette,North,Secretary of State,,R,Kris Kobach,147
-Labette,Osage,Secretary of State,,R,Kris Kobach,161
-Labette,Oswego,Secretary of State,,R,Kris Kobach,59
-Labette,Richland 1A,Secretary of State,,R,Kris Kobach,9
-Labette,Richland 1B,Secretary of State,,R,Kris Kobach,9
-Labette,Richland 7,Secretary of State,,R,Kris Kobach,29
-Labette,Walton,Secretary of State,,R,Kris Kobach,167
-Labette,W1P1,Secretary of State,,D,Jean Schodorf,110
-Labette,W1P2,Secretary of State,,D,Jean Schodorf,45
-Labette,W1P3,Secretary of State,,D,Jean Schodorf,46
-Labette,W2P1,Secretary of State,,D,Jean Schodorf,43
-Labette,W2P2,Secretary of State,,D,Jean Schodorf,103
-Labette,W2P3,Secretary of State,,D,Jean Schodorf,91
-Labette,W3P1,Secretary of State,,D,Jean Schodorf,29
-Labette,W3P2,Secretary of State,,D,Jean Schodorf,124
-Labette,W3P3,Secretary of State,,D,Jean Schodorf,101
-Labette,W3P4,Secretary of State,,D,Jean Schodorf,121
-Labette,W4P1,Secretary of State,,D,Jean Schodorf,46
-Labette,W4P2,Secretary of State,,D,Jean Schodorf,85
-Labette,W4P3,Secretary of State,,D,Jean Schodorf,85
-Labette,W4P4,Secretary of State,,D,Jean Schodorf,81
-Labette,City of Chetopa W1,Secretary of State,,D,Jean Schodorf,32
-Labette,City of Chetopa W2,Secretary of State,,D,Jean Schodorf,27
-Labette,City of Chetopa W3,Secretary of State,,D,Jean Schodorf,41
-Labette,City of Oswego W1,Secretary of State,,D,Jean Schodorf,55
-Labette,City of Oswego W2,Secretary of State,,D,Jean Schodorf,61
-Labette,City of Oswego W3,Secretary of State,,D,Jean Schodorf,43
-Labette,Canada,Secretary of State,,D,Jean Schodorf,23
-Labette,Elm Grove,Secretary of State,,D,Jean Schodorf,57
-Labette,Fairview,Secretary of State,,D,Jean Schodorf,19
-Labette,Hackberry,Secretary of State,,D,Jean Schodorf,27
-Labette,Howard,Secretary of State,,D,Jean Schodorf,41
-Labette,Labette,Secretary of State,,D,Jean Schodorf,34
-Labette,Liberty,Secretary of State,,D,Jean Schodorf,44
-Labette,Montana,Secretary of State,,D,Jean Schodorf,17
-Labette,Mound Valley,Secretary of State,,D,Jean Schodorf,80
-Labette,Mt Pleasant,Secretary of State,,D,Jean Schodorf,143
-Labette,Neosho,Secretary of State,,D,Jean Schodorf,21
-Labette,North,Secretary of State,,D,Jean Schodorf,86
-Labette,Osage,Secretary of State,,D,Jean Schodorf,71
-Labette,Oswego,Secretary of State,,D,Jean Schodorf,31
-Labette,Richland 1A,Secretary of State,,D,Jean Schodorf,9
-Labette,Richland 1B,Secretary of State,,D,Jean Schodorf,3
-Labette,Richland 7,Secretary of State,,D,Jean Schodorf,20
-Labette,Walton,Secretary of State,,D,Jean Schodorf,107
-Labette,W1P1,Attorney General,,R,Derek Schmidt,152
-Labette,W1P2,Attorney General,,R,Derek Schmidt,67
-Labette,W1P3,Attorney General,,R,Derek Schmidt,44
-Labette,W2P1,Attorney General,,R,Derek Schmidt,51
-Labette,W2P2,Attorney General,,R,Derek Schmidt,114
-Labette,W2P3,Attorney General,,R,Derek Schmidt,102
-Labette,W3P1,Attorney General,,R,Derek Schmidt,48
-Labette,W3P2,Attorney General,,R,Derek Schmidt,118
-Labette,W3P3,Attorney General,,R,Derek Schmidt,114
-Labette,W3P4,Attorney General,,R,Derek Schmidt,144
-Labette,W4P1,Attorney General,,R,Derek Schmidt,70
-Labette,W4P2,Attorney General,,R,Derek Schmidt,86
-Labette,W4P3,Attorney General,,R,Derek Schmidt,59
-Labette,W4P4,Attorney General,,R,Derek Schmidt,135
-Labette,City of Chetopa W1,Attorney General,,R,Derek Schmidt,45
-Labette,City of Chetopa W2,Attorney General,,R,Derek Schmidt,48
-Labette,City of Chetopa W3,Attorney General,,R,Derek Schmidt,59
-Labette,City of Oswego W1,Attorney General,,R,Derek Schmidt,129
-Labette,City of Oswego W2,Attorney General,,R,Derek Schmidt,113
-Labette,City of Oswego W3,Attorney General,,R,Derek Schmidt,74
-Labette,Canada,Attorney General,,R,Derek Schmidt,84
-Labette,Elm Grove,Attorney General,,R,Derek Schmidt,251
-Labette,Fairview,Attorney General,,R,Derek Schmidt,64
-Labette,Hackberry,Attorney General,,R,Derek Schmidt,82
-Labette,Howard,Attorney General,,R,Derek Schmidt,110
-Labette,Labette,Attorney General,,R,Derek Schmidt,120
-Labette,Liberty,Attorney General,,R,Derek Schmidt,102
-Labette,Montana,Attorney General,,R,Derek Schmidt,44
-Labette,Mound Valley,Attorney General,,R,Derek Schmidt,197
-Labette,Mt Pleasant,Attorney General,,R,Derek Schmidt,295
-Labette,Neosho,Attorney General,,R,Derek Schmidt,46
-Labette,North,Attorney General,,R,Derek Schmidt,171
-Labette,Osage,Attorney General,,R,Derek Schmidt,171
-Labette,Oswego,Attorney General,,R,Derek Schmidt,66
-Labette,Richland 1A,Attorney General,,R,Derek Schmidt,10
-Labette,Richland 1B,Attorney General,,R,Derek Schmidt,10
-Labette,Richland 7,Attorney General,,R,Derek Schmidt,35
-Labette,Walton,Attorney General,,R,Derek Schmidt,194
-Labette,W1P1,Attorney General,,D,A J Kotich,87
-Labette,W1P2,Attorney General,,D,A J Kotich,39
-Labette,W1P3,Attorney General,,D,A J Kotich,35
-Labette,W2P1,Attorney General,,D,A J Kotich,31
-Labette,W2P2,Attorney General,,D,A J Kotich,91
-Labette,W2P3,Attorney General,,D,A J Kotich,85
-Labette,W3P1,Attorney General,,D,A J Kotich,27
-Labette,W3P2,Attorney General,,D,A J Kotich,107
-Labette,W3P3,Attorney General,,D,A J Kotich,86
-Labette,W3P4,Attorney General,,D,A J Kotich,115
-Labette,W4P1,Attorney General,,D,A J Kotich,42
-Labette,W4P2,Attorney General,,D,A J Kotich,77
-Labette,W4P3,Attorney General,,D,A J Kotich,75
-Labette,W4P4,Attorney General,,D,A J Kotich,60
-Labette,City of Chetopa W1,Attorney General,,D,A J Kotich,28
-Labette,City of Chetopa W2,Attorney General,,D,A J Kotich,22
-Labette,City of Chetopa W3,Attorney General,,D,A J Kotich,31
-Labette,City of Oswego W1,Attorney General,,D,A J Kotich,45
-Labette,City of Oswego W2,Attorney General,,D,A J Kotich,46
-Labette,City of Oswego W3,Attorney General,,D,A J Kotich,37
-Labette,Canada,Attorney General,,D,A J Kotich,14
-Labette,Elm Grove,Attorney General,,D,A J Kotich,43
-Labette,Fairview,Attorney General,,D,A J Kotich,14
-Labette,Hackberry,Attorney General,,D,A J Kotich,25
-Labette,Howard,Attorney General,,D,A J Kotich,26
-Labette,Labette,Attorney General,,D,A J Kotich,25
-Labette,Liberty,Attorney General,,D,A J Kotich,31
-Labette,Montana,Attorney General,,D,A J Kotich,16
-Labette,Mound Valley,Attorney General,,D,A J Kotich,62
-Labette,Mt Pleasant,Attorney General,,D,A J Kotich,113
-Labette,Neosho,Attorney General,,D,A J Kotich,19
-Labette,North,Attorney General,,D,A J Kotich,57
-Labette,Osage,Attorney General,,D,A J Kotich,60
-Labette,Oswego,Attorney General,,D,A J Kotich,25
-Labette,Richland 1A,Attorney General,,D,A J Kotich,8
-Labette,Richland 1B,Attorney General,,D,A J Kotich,2
-Labette,Richland 7,Attorney General,,D,A J Kotich,13
-Labette,Walton,Attorney General,,D,A J Kotich,84
-Labette,W1P1,State Treasurer,,R,Ron Estes,149
-Labette,W1P2,State Treasurer,,R,Ron Estes,61
-Labette,W1P3,State Treasurer,,R,Ron Estes,33
-Labette,W2P1,State Treasurer,,R,Ron Estes,46
-Labette,W2P2,State Treasurer,,R,Ron Estes,115
-Labette,W2P3,State Treasurer,,R,Ron Estes,85
-Labette,W3P1,State Treasurer,,R,Ron Estes,48
-Labette,W3P2,State Treasurer,,R,Ron Estes,111
-Labette,W3P3,State Treasurer,,R,Ron Estes,106
-Labette,W3P4,State Treasurer,,R,Ron Estes,146
-Labette,W4P1,State Treasurer,,R,Ron Estes,70
-Labette,W4P2,State Treasurer,,R,Ron Estes,84
-Labette,W4P3,State Treasurer,,R,Ron Estes,58
-Labette,W4P4,State Treasurer,,R,Ron Estes,131
-Labette,City of Chetopa W1,State Treasurer,,R,Ron Estes,41
-Labette,City of Chetopa W2,State Treasurer,,R,Ron Estes,47
-Labette,City of Chetopa W3,State Treasurer,,R,Ron Estes,53
-Labette,City of Oswego W1,State Treasurer,,R,Ron Estes,127
-Labette,City of Oswego W2,State Treasurer,,R,Ron Estes,102
-Labette,City of Oswego W3,State Treasurer,,R,Ron Estes,72
-Labette,Canada,State Treasurer,,R,Ron Estes,75
-Labette,Elm Grove,State Treasurer,,R,Ron Estes,244
-Labette,Fairview,State Treasurer,,R,Ron Estes,62
-Labette,Hackberry,State Treasurer,,R,Ron Estes,80
-Labette,Howard,State Treasurer,,R,Ron Estes,96
-Labette,Labette,State Treasurer,,R,Ron Estes,114
-Labette,Liberty,State Treasurer,,R,Ron Estes,102
-Labette,Montana,State Treasurer,,R,Ron Estes,40
-Labette,Mound Valley,State Treasurer,,R,Ron Estes,185
-Labette,Mt Pleasant,State Treasurer,,R,Ron Estes,279
-Labette,Neosho,State Treasurer,,R,Ron Estes,44
-Labette,North,State Treasurer,,R,Ron Estes,160
-Labette,Osage,State Treasurer,,R,Ron Estes,166
-Labette,Oswego,State Treasurer,,R,Ron Estes,62
-Labette,Richland 1A,State Treasurer,,R,Ron Estes,12
-Labette,Richland 1B,State Treasurer,,R,Ron Estes,10
-Labette,Richland 7,State Treasurer,,R,Ron Estes,34
-Labette,Walton,State Treasurer,,R,Ron Estes,190
-Labette,W1P1,State Treasurer,,D,Carmen Alldritt,88
-Labette,W1P2,State Treasurer,,D,Carmen Alldritt,41
-Labette,W1P3,State Treasurer,,D,Carmen Alldritt,44
-Labette,W2P1,State Treasurer,,D,Carmen Alldritt,35
-Labette,W2P2,State Treasurer,,D,Carmen Alldritt,89
-Labette,W2P3,State Treasurer,,D,Carmen Alldritt,97
-Labette,W3P1,State Treasurer,,D,Carmen Alldritt,26
-Labette,W3P2,State Treasurer,,D,Carmen Alldritt,112
-Labette,W3P3,State Treasurer,,D,Carmen Alldritt,90
-Labette,W3P4,State Treasurer,,D,Carmen Alldritt,108
-Labette,W4P1,State Treasurer,,D,Carmen Alldritt,42
-Labette,W4P2,State Treasurer,,D,Carmen Alldritt,73
-Labette,W4P3,State Treasurer,,D,Carmen Alldritt,72
-Labette,W4P4,State Treasurer,,D,Carmen Alldritt,65
-Labette,City of Chetopa W1,State Treasurer,,D,Carmen Alldritt,30
-Labette,City of Chetopa W2,State Treasurer,,D,Carmen Alldritt,23
-Labette,City of Chetopa W3,State Treasurer,,D,Carmen Alldritt,33
-Labette,City of Oswego W1,State Treasurer,,D,Carmen Alldritt,48
-Labette,City of Oswego W2,State Treasurer,,D,Carmen Alldritt,55
-Labette,City of Oswego W3,State Treasurer,,D,Carmen Alldritt,38
-Labette,Canada,State Treasurer,,D,Carmen Alldritt,22
-Labette,Elm Grove,State Treasurer,,D,Carmen Alldritt,49
-Labette,Fairview,State Treasurer,,D,Carmen Alldritt,16
-Labette,Hackberry,State Treasurer,,D,Carmen Alldritt,24
-Labette,Howard,State Treasurer,,D,Carmen Alldritt,37
-Labette,Labette,State Treasurer,,D,Carmen Alldritt,32
-Labette,Liberty,State Treasurer,,D,Carmen Alldritt,34
-Labette,Montana,State Treasurer,,D,Carmen Alldritt,19
-Labette,Mound Valley,State Treasurer,,D,Carmen Alldritt,68
-Labette,Mt Pleasant,State Treasurer,,D,Carmen Alldritt,126
-Labette,Neosho,State Treasurer,,D,Carmen Alldritt,19
-Labette,North,State Treasurer,,D,Carmen Alldritt,64
-Labette,Osage,State Treasurer,,D,Carmen Alldritt,63
-Labette,Oswego,State Treasurer,,D,Carmen Alldritt,27
-Labette,Richland 1A,State Treasurer,,D,Carmen Alldritt,7
-Labette,Richland 1B,State Treasurer,,D,Carmen Alldritt,2
-Labette,Richland 7,State Treasurer,,D,Carmen Alldritt,15
-Labette,Walton,State Treasurer,,D,Carmen Alldritt,84
-Labette,W1P1,Insurance Commissioner,,R,Ken Selzer,134
-Labette,W1P2,Insurance Commissioner,,R,Ken Selzer,65
-Labette,W1P3,Insurance Commissioner,,R,Ken Selzer,38
-Labette,W2P1,Insurance Commissioner,,R,Ken Selzer,43
-Labette,W2P2,Insurance Commissioner,,R,Ken Selzer,113
-Labette,W2P3,Insurance Commissioner,,R,Ken Selzer,87
-Labette,W3P1,Insurance Commissioner,,R,Ken Selzer,45
-Labette,W3P2,Insurance Commissioner,,R,Ken Selzer,96
-Labette,W3P3,Insurance Commissioner,,R,Ken Selzer,99
-Labette,W3P4,Insurance Commissioner,,R,Ken Selzer,133
-Labette,W4P1,Insurance Commissioner,,R,Ken Selzer,69
-Labette,W4P2,Insurance Commissioner,,R,Ken Selzer,75
-Labette,W4P3,Insurance Commissioner,,R,Ken Selzer,54
-Labette,W4P4,Insurance Commissioner,,R,Ken Selzer,120
-Labette,City of Chetopa W1,Insurance Commissioner,,R,Ken Selzer,38
-Labette,City of Chetopa W2,Insurance Commissioner,,R,Ken Selzer,48
-Labette,City of Chetopa W3,Insurance Commissioner,,R,Ken Selzer,46
-Labette,City of Oswego W1,Insurance Commissioner,,R,Ken Selzer,119
-Labette,City of Oswego W2,Insurance Commissioner,,R,Ken Selzer,90
-Labette,City of Oswego W3,Insurance Commissioner,,R,Ken Selzer,62
-Labette,Canada,Insurance Commissioner,,R,Ken Selzer,73
-Labette,Elm Grove,Insurance Commissioner,,R,Ken Selzer,235
-Labette,Fairview,Insurance Commissioner,,R,Ken Selzer,60
-Labette,Hackberry,Insurance Commissioner,,R,Ken Selzer,78
-Labette,Howard,Insurance Commissioner,,R,Ken Selzer,96
-Labette,Labette,Insurance Commissioner,,R,Ken Selzer,113
-Labette,Liberty,Insurance Commissioner,,R,Ken Selzer,93
-Labette,Montana,Insurance Commissioner,,R,Ken Selzer,38
-Labette,Mound Valley,Insurance Commissioner,,R,Ken Selzer,174
-Labette,Mt Pleasant,Insurance Commissioner,,R,Ken Selzer,265
-Labette,Neosho,Insurance Commissioner,,R,Ken Selzer,41
-Labette,North,Insurance Commissioner,,R,Ken Selzer,142
-Labette,Osage,Insurance Commissioner,,R,Ken Selzer,156
-Labette,Oswego,Insurance Commissioner,,R,Ken Selzer,61
-Labette,Richland 1A,Insurance Commissioner,,R,Ken Selzer,9
-Labette,Richland 1B,Insurance Commissioner,,R,Ken Selzer,10
-Labette,Richland 7,Insurance Commissioner,,R,Ken Selzer,29
-Labette,Walton,Insurance Commissioner,,R,Ken Selzer,176
-Labette,W1P1,Insurance Commissioner,,D,Dennis Anderson,100
-Labette,W1P2,Insurance Commissioner,,D,Dennis Anderson,39
-Labette,W1P3,Insurance Commissioner,,D,Dennis Anderson,37
-Labette,W2P1,Insurance Commissioner,,D,Dennis Anderson,38
-Labette,W2P2,Insurance Commissioner,,D,Dennis Anderson,92
-Labette,W2P3,Insurance Commissioner,,D,Dennis Anderson,94
-Labette,W3P1,Insurance Commissioner,,D,Dennis Anderson,30
-Labette,W3P2,Insurance Commissioner,,D,Dennis Anderson,124
-Labette,W3P3,Insurance Commissioner,,D,Dennis Anderson,100
-Labette,W3P4,Insurance Commissioner,,D,Dennis Anderson,118
-Labette,W4P1,Insurance Commissioner,,D,Dennis Anderson,41
-Labette,W4P2,Insurance Commissioner,,D,Dennis Anderson,83
-Labette,W4P3,Insurance Commissioner,,D,Dennis Anderson,77
-Labette,W4P4,Insurance Commissioner,,D,Dennis Anderson,73
-Labette,City of Chetopa W1,Insurance Commissioner,,D,Dennis Anderson,34
-Labette,City of Chetopa W2,Insurance Commissioner,,D,Dennis Anderson,24
-Labette,City of Chetopa W3,Insurance Commissioner,,D,Dennis Anderson,41
-Labette,City of Oswego W1,Insurance Commissioner,,D,Dennis Anderson,53
-Labette,City of Oswego W2,Insurance Commissioner,,D,Dennis Anderson,63
-Labette,City of Oswego W3,Insurance Commissioner,,D,Dennis Anderson,41
-Labette,Canada,Insurance Commissioner,,D,Dennis Anderson,25
-Labette,Elm Grove,Insurance Commissioner,,D,Dennis Anderson,51
-Labette,Fairview,Insurance Commissioner,,D,Dennis Anderson,16
-Labette,Hackberry,Insurance Commissioner,,D,Dennis Anderson,25
-Labette,Howard,Insurance Commissioner,,D,Dennis Anderson,37
-Labette,Labette,Insurance Commissioner,,D,Dennis Anderson,31
-Labette,Liberty,Insurance Commissioner,,D,Dennis Anderson,43
-Labette,Montana,Insurance Commissioner,,D,Dennis Anderson,19
-Labette,Mound Valley,Insurance Commissioner,,D,Dennis Anderson,76
-Labette,Mt Pleasant,Insurance Commissioner,,D,Dennis Anderson,129
-Labette,Neosho,Insurance Commissioner,,D,Dennis Anderson,23
-Labette,North,Insurance Commissioner,,D,Dennis Anderson,74
-Labette,Osage,Insurance Commissioner,,D,Dennis Anderson,73
-Labette,Oswego,Insurance Commissioner,,D,Dennis Anderson,30
-Labette,Richland 1A,Insurance Commissioner,,D,Dennis Anderson,9
-Labette,Richland 1B,Insurance Commissioner,,D,Dennis Anderson,2
-Labette,Richland 7,Insurance Commissioner,,D,Dennis Anderson,20
-Labette,Walton,Insurance Commissioner,,D,Dennis Anderson,98
-Labette,W1P1,State House,7,R,Richard J Proehl,211
-Labette,W1P2,State House,7,R,Richard J Proehl,87
-Labette,W1P3,State House,7,R,Richard J Proehl,62
-Labette,W2P1,State House,7,R,Richard J Proehl,69
-Labette,W2P2,State House,7,R,Richard J Proehl,178
-Labette,W2P3,State House,7,R,Richard J Proehl,155
-Labette,W3P1,State House,7,R,Richard J Proehl,66
-Labette,W3P2,State House,7,R,Richard J Proehl,180
-Labette,W3P3,State House,7,R,Richard J Proehl,171
-Labette,W3P4,State House,7,R,Richard J Proehl,214
-Labette,W4P1,State House,7,R,Richard J Proehl,101
-Labette,W4P2,State House,7,R,Richard J Proehl,134
-Labette,W4P3,State House,7,R,Richard J Proehl,109
-Labette,W4P4,State House,7,R,Richard J Proehl,183
-Labette,City of Chetopa W1,State House,1,R,Michael Houser,41
-Labette,City of Chetopa W2,State House,1,R,Michael Houser,46
-Labette,City of Chetopa W3,State House,1,R,Michael Houser,57
-Labette,City of Oswego W1,State House,7,R,Richard J Proehl,152
-Labette,City of Oswego W2,State House,7,R,Richard J Proehl,146
-Labette,City of Oswego W3,State House,7,R,Richard J Proehl,95
-Labette,Canada,State House,7,R,Richard J Proehl,89
-Labette,Elm Grove,State House,7,R,Richard J Proehl,265
-Labette,Fairview,State House,7,R,Richard J Proehl,65
-Labette,Hackberry,State House,7,R,Richard J Proehl,81
-Labette,Howard,State House,7,R,Richard J Proehl,117
-Labette,Labette,State House,7,R,Richard J Proehl,132
-Labette,Liberty,State House,7,R,Richard J Proehl,121
-Labette,Montana,State House,7,R,Richard J Proehl,50
-Labette,Mound Valley,State House,7,R,Richard J Proehl,220
-Labette,Mt Pleasant,State House,7,R,Richard J Proehl,347
-Labette,Neosho,State House,7,R,Richard J Proehl,55
-Labette,Norton,State House,7,R,Richard J Proehl,204
-Labette,Osage,State House,7,R,Richard J Proehl,211
-Labette,Oswego,State House,7,R,Richard J Proehl,73
-Labette,Richland 1A,State House,1,R,Michael Houser,13
-Labette,Richland 1B,State House,1,R,Michael Houser,8
-Labette,Richland 7,State House,7,R,Richard J Proehl,43
-Labette,Walton,State House,7,R,Richard J Proehl,242
-Labette,City of Chetopa W1,State House,1,D,Brian Caswell,29
-Labette,City of Chetopa W2,State House,1,D,Brian Caswell,27
-Labette,City of Chetopa W3,State House,1,D,Brian Caswell,38
-Labette,Richland 1A,State House,1,D,Brian Caswell,6
-Labette,Richland 1B,State House,1,D,Brian Caswell,5
+county,precinct,office,district,party,candidate,votes,vtd
+LABETTE,Altamont City Part A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00001A
+LABETTE,Altamont City Part A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00001A
+LABETTE,Altamont City Part A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00001A
+LABETTE,Canada Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",24,000020
+LABETTE,Canada Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000020
+LABETTE,Canada Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",69,000020
+LABETTE,Chetopa Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",38,000030
+LABETTE,Chetopa Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000030
+LABETTE,Chetopa Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",33,000030
+LABETTE,Chetopa Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",27,000040
+LABETTE,Chetopa Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000040
+LABETTE,Chetopa Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",42,000040
+LABETTE,Chetopa Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",42,000050
+LABETTE,Chetopa Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000050
+LABETTE,Chetopa Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",50,000050
+LABETTE,Elm Grove Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",66,000060
+LABETTE,Elm Grove Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000060
+LABETTE,Elm Grove Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",219,000060
+LABETTE,Fairview Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000070
+LABETTE,Fairview Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000070
+LABETTE,Fairview Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",58,000070
+LABETTE,Hackberry Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",34,000080
+LABETTE,Hackberry Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000080
+LABETTE,Hackberry Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",73,000080
+LABETTE,Howard Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",36,000090
+LABETTE,Howard Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000090
+LABETTE,Howard Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",92,000090
+LABETTE,Labette Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",43,000100
+LABETTE,Labette Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000100
+LABETTE,Labette Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",96,000100
+LABETTE,Liberty Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000110
+LABETTE,Liberty Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000110
+LABETTE,Liberty Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",82,000110
+LABETTE,Montana Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",21,000120
+LABETTE,Montana Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000120
+LABETTE,Montana Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",37,000120
+LABETTE,Mound Valley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",84,000130
+LABETTE,Mound Valley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000130
+LABETTE,Mound Valley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",162,000130
+LABETTE,Mount Pleasant Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",163,000140
+LABETTE,Mount Pleasant Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000140
+LABETTE,Mount Pleasant Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",230,000140
+LABETTE,Neosho Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",25,000150
+LABETTE,Neosho Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000150
+LABETTE,Neosho Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,000150
+LABETTE,North Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",103,00016A
+LABETTE,North Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,00016A
+LABETTE,North Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",127,00016A
+LABETTE,North Township Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00016B
+LABETTE,North Township Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00016B
+LABETTE,North Township Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00016B
+LABETTE,Oswego City Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",67,000180
+LABETTE,Oswego City Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",14,000180
+LABETTE,Oswego City Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",99,000180
+LABETTE,Oswego City Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",71,00019A
+LABETTE,Oswego City Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,00019A
+LABETTE,Oswego City Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",87,00019A
+LABETTE,Oswego City Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",56,000200
+LABETTE,Oswego City Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000200
+LABETTE,Oswego City Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",52,000200
+LABETTE,Oswego Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",28,000210
+LABETTE,Oswego Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000210
+LABETTE,Oswego Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",57,000210
+LABETTE,Parsons Ward 1 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000220
+LABETTE,Parsons Ward 1 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000220
+LABETTE,Parsons Ward 1 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",113,000220
+LABETTE,Parsons Ward 1 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",47,000230
+LABETTE,Parsons Ward 1 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000230
+LABETTE,Parsons Ward 1 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",54,000230
+LABETTE,Parsons Ward 1 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",45,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",31,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",48,000250
+LABETTE,Parsons Ward 2 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000250
+LABETTE,Parsons Ward 2 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",31,000250
+LABETTE,Parsons Ward 2 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",119,000260
+LABETTE,Parsons Ward 2 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000260
+LABETTE,Parsons Ward 2 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",86,000260
+LABETTE,Parsons Ward 2 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",110,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",73,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",33,000280
+LABETTE,Parsons Ward 3 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000280
+LABETTE,Parsons Ward 3 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",42,000280
+LABETTE,Parsons Ward 3 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",130,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",93,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",110,000300
+LABETTE,Parsons Ward 3 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000300
+LABETTE,Parsons Ward 3 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",79,000300
+LABETTE,Parsons Ward 3 Precinct 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",142,000310
+LABETTE,Parsons Ward 3 Precinct 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,000310
+LABETTE,Parsons Ward 3 Precinct 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",113,000310
+LABETTE,Parsons Ward 4 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",54,000320
+LABETTE,Parsons Ward 4 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000320
+LABETTE,Parsons Ward 4 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",56,000320
+LABETTE,Parsons Ward 4 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",101,000330
+LABETTE,Parsons Ward 4 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000330
+LABETTE,Parsons Ward 4 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",52,000330
+LABETTE,Parsons Ward 4 Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",83,000340
+LABETTE,Parsons Ward 4 Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000340
+LABETTE,Parsons Ward 4 Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",49,000340
+LABETTE,Parsons Ward 4 Precinct 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",105,000350
+LABETTE,Parsons Ward 4 Precinct 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000350
+LABETTE,Parsons Ward 4 Precinct 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",91,000350
+LABETTE,Walton Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",120,000370
+LABETTE,Walton Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000370
+LABETTE,Walton Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",157,000370
+LABETTE,Osage Township S14,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,120020
+LABETTE,Osage Township S14,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,120020
+LABETTE,Osage Township S14,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,120020
+LABETTE,Osage Township S15,Governor / Lt. Governor,,Democratic,"Davis, Paul",81,120030
+LABETTE,Osage Township S15,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,120030
+LABETTE,Osage Township S15,Governor / Lt. Governor,,Republican,"Brownback, Sam",147,120030
+LABETTE,Richland Township H1 A,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,12004A
+LABETTE,Richland Township H1 A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,12004A
+LABETTE,Richland Township H1 A,Governor / Lt. Governor,,Republican,"Brownback, Sam",10,12004A
+LABETTE,Richland Township H1 B,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,12004B
+LABETTE,Richland Township H1 B,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,12004B
+LABETTE,Richland Township H1 B,Governor / Lt. Governor,,Republican,"Brownback, Sam",4,12004B
+LABETTE,Richland Township H1,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,120040
+LABETTE,Richland Township H1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,120040
+LABETTE,Richland Township H1,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,120040
+LABETTE,Richland Township H7,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,120050
+LABETTE,Richland Township H7,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,120050
+LABETTE,Richland Township H7,Governor / Lt. Governor,,Republican,"Brownback, Sam",32,120050
+LABETTE,Oswego City Ward 1 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,900010
+LABETTE,Altamont City Part A,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00001A
+LABETTE,Canada Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",89,000020
+LABETTE,Chetopa Ward 1,Kansas House of Representatives,1,Democratic,"Caswell, Brian",29,000030
+LABETTE,Chetopa Ward 1,Kansas House of Representatives,1,Republican,"Houser, Michael",41,000030
+LABETTE,Chetopa Ward 2,Kansas House of Representatives,1,Democratic,"Caswell, Brian",27,000040
+LABETTE,Chetopa Ward 2,Kansas House of Representatives,1,Republican,"Houser, Michael",46,000040
+LABETTE,Chetopa Ward 3,Kansas House of Representatives,1,Democratic,"Caswell, Brian",38,000050
+LABETTE,Chetopa Ward 3,Kansas House of Representatives,1,Republican,"Houser, Michael",57,000050
+LABETTE,Elm Grove Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",265,000060
+LABETTE,Fairview Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",65,000070
+LABETTE,Hackberry Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",81,000080
+LABETTE,Howard Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",117,000090
+LABETTE,Labette Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",132,000100
+LABETTE,Liberty Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",121,000110
+LABETTE,Montana Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",50,000120
+LABETTE,Mound Valley Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",220,000130
+LABETTE,Mount Pleasant Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",347,000140
+LABETTE,Neosho Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",55,000150
+LABETTE,North Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",204,00016A
+LABETTE,North Township Enclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00016B
+LABETTE,Oswego City Ward 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",152,000180
+LABETTE,Oswego City Ward 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",146,00019A
+LABETTE,Oswego City Ward 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",95,000200
+LABETTE,Oswego Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",73,000210
+LABETTE,Parsons Ward 1 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",211,000220
+LABETTE,Parsons Ward 1 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",87,000230
+LABETTE,Parsons Ward 1 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",62,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",69,000250
+LABETTE,Parsons Ward 2 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",178,000260
+LABETTE,Parsons Ward 2 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",155,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",66,000280
+LABETTE,Parsons Ward 3 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",180,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",171,000300
+LABETTE,Parsons Ward 3 Precinct 4,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",214,000310
+LABETTE,Parsons Ward 4 Precinct 1,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",101,000320
+LABETTE,Parsons Ward 4 Precinct 2,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",134,000330
+LABETTE,Parsons Ward 4 Precinct 3,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",109,000340
+LABETTE,Parsons Ward 4 Precinct 4,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",183,000350
+LABETTE,Walton Township,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",242,000370
+LABETTE,Osage Township S14,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,120020
+LABETTE,Osage Township S15,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",211,120030
+LABETTE,Richland Township H1 A,Kansas House of Representatives,1,Democratic,"Caswell, Brian",6,12004A
+LABETTE,Richland Township H1 A,Kansas House of Representatives,1,Republican,"Houser, Michael",13,12004A
+LABETTE,Richland Township H1 B,Kansas House of Representatives,1,Democratic,"Caswell, Brian",5,12004B
+LABETTE,Richland Township H1 B,Kansas House of Representatives,1,Republican,"Houser, Michael",8,12004B
+LABETTE,Richland Township H1,Kansas House of Representatives,1,Democratic,"Caswell, Brian",0,120040
+LABETTE,Richland Township H1,Kansas House of Representatives,1,Republican,"Houser, Michael",0,120040
+LABETTE,Richland Township H7,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",43,120050
+LABETTE,Oswego City Ward 1 Exclave,Kansas House of Representatives,7,Republican,"Proehl, Richard J.",0,900010
+LABETTE,Altamont City Part A,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00001A
+LABETTE,Altamont City Part A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00001A
+LABETTE,Altamont City Part A,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00001A
+LABETTE,Canada Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",16,000020
+LABETTE,Canada Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000020
+LABETTE,Canada Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",75,000020
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",31,000030
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",1,000030
+LABETTE,Chetopa Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",41,000030
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",25,000040
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000040
+LABETTE,Chetopa Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",42,000040
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",34,000050
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000050
+LABETTE,Chetopa Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",56,000050
+LABETTE,Elm Grove Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",39,000060
+LABETTE,Elm Grove Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000060
+LABETTE,Elm Grove Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",246,000060
+LABETTE,Fairview Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",17,000070
+LABETTE,Fairview Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000070
+LABETTE,Fairview Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",59,000070
+LABETTE,Hackberry Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000080
+LABETTE,Hackberry Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000080
+LABETTE,Hackberry Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",79,000080
+LABETTE,Howard Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",28,000090
+LABETTE,Howard Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000090
+LABETTE,Howard Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",99,000090
+LABETTE,Labette Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000100
+LABETTE,Labette Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",9,000100
+LABETTE,Labette Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",108,000100
+LABETTE,Liberty Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",42,000110
+LABETTE,Liberty Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000110
+LABETTE,Liberty Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",94,000110
+LABETTE,Montana Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",15,000120
+LABETTE,Montana Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000120
+LABETTE,Montana Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",42,000120
+LABETTE,Mound Valley Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",58,000130
+LABETTE,Mound Valley Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,000130
+LABETTE,Mound Valley Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",185,000130
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",109,000140
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",28,000140
+LABETTE,Mount Pleasant Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",273,000140
+LABETTE,Neosho Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",18,000150
+LABETTE,Neosho Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000150
+LABETTE,Neosho Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",43,000150
+LABETTE,North Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",77,00016A
+LABETTE,North Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,00016A
+LABETTE,North Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",145,00016A
+LABETTE,North Township Enclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00016B
+LABETTE,North Township Enclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00016B
+LABETTE,North Township Enclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00016B
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",36,000180
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,000180
+LABETTE,Oswego City Ward 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",132,000180
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",58,00019A
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,00019A
+LABETTE,Oswego City Ward 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",99,00019A
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",37,000200
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000200
+LABETTE,Oswego City Ward 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",69,000200
+LABETTE,Oswego Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",26,000210
+LABETTE,Oswego Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000210
+LABETTE,Oswego Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",59,000210
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",99,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",138,000220
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",41,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",62,000230
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",42,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",1,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",37,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",44,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",3,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",34,000250
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",103,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",8,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",98,000260
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",97,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",11,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",82,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",25,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",5,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",47,000280
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",118,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",10,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",104,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",98,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",94,000300
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",112,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",4,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",146,000310
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Democratic,"Wakefield, Margie",38,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",7,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States House of Representatives,2,Republican,"Jenkins, Lynn",68,000320
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Democratic,"Wakefield, Margie",70,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",14,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States House of Representatives,2,Republican,"Jenkins, Lynn",81,000330
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Democratic,"Wakefield, Margie",70,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",6,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States House of Representatives,2,Republican,"Jenkins, Lynn",61,000340
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Democratic,"Wakefield, Margie",63,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",12,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States House of Representatives,2,Republican,"Jenkins, Lynn",126,000350
+LABETTE,Walton Township,United States House of Representatives,2,Democratic,"Wakefield, Margie",91,000370
+LABETTE,Walton Township,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",14,000370
+LABETTE,Walton Township,United States House of Representatives,2,Republican,"Jenkins, Lynn",176,000370
+LABETTE,Osage Township S14,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,120020
+LABETTE,Osage Township S14,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,120020
+LABETTE,Osage Township S14,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120020
+LABETTE,Osage Township S15,United States House of Representatives,2,Democratic,"Wakefield, Margie",62,120030
+LABETTE,Osage Township S15,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",13,120030
+LABETTE,Osage Township S15,United States House of Representatives,2,Republican,"Jenkins, Lynn",161,120030
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Democratic,"Wakefield, Margie",5,12004A
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",1,12004A
+LABETTE,Richland Township H1 A,United States House of Representatives,2,Republican,"Jenkins, Lynn",14,12004A
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Democratic,"Wakefield, Margie",3,12004B
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,12004B
+LABETTE,Richland Township H1 B,United States House of Representatives,2,Republican,"Jenkins, Lynn",11,12004B
+LABETTE,Richland Township H1,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,120040
+LABETTE,Richland Township H1,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,120040
+LABETTE,Richland Township H1,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,120040
+LABETTE,Richland Township H7,United States House of Representatives,2,Democratic,"Wakefield, Margie",16,120050
+LABETTE,Richland Township H7,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",1,120050
+LABETTE,Richland Township H7,United States House of Representatives,2,Republican,"Jenkins, Lynn",33,120050
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Democratic,"Wakefield, Margie",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Libertarian,"Clemmons, Christopher",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States House of Representatives,2,Republican,"Jenkins, Lynn",0,900010
+LABETTE,Altamont City Part A,Attorney General,,Democratic,"Kotich, A.J.",0,00001A
+LABETTE,Altamont City Part A,Attorney General,,Republican,"Schmidt, Derek",0,00001A
+LABETTE,Canada Township,Attorney General,,Democratic,"Kotich, A.J.",14,000020
+LABETTE,Canada Township,Attorney General,,Republican,"Schmidt, Derek",84,000020
+LABETTE,Chetopa Ward 1,Attorney General,,Democratic,"Kotich, A.J.",28,000030
+LABETTE,Chetopa Ward 1,Attorney General,,Republican,"Schmidt, Derek",45,000030
+LABETTE,Chetopa Ward 2,Attorney General,,Democratic,"Kotich, A.J.",22,000040
+LABETTE,Chetopa Ward 2,Attorney General,,Republican,"Schmidt, Derek",48,000040
+LABETTE,Chetopa Ward 3,Attorney General,,Democratic,"Kotich, A.J.",31,000050
+LABETTE,Chetopa Ward 3,Attorney General,,Republican,"Schmidt, Derek",59,000050
+LABETTE,Elm Grove Township,Attorney General,,Democratic,"Kotich, A.J.",43,000060
+LABETTE,Elm Grove Township,Attorney General,,Republican,"Schmidt, Derek",251,000060
+LABETTE,Fairview Township,Attorney General,,Democratic,"Kotich, A.J.",14,000070
+LABETTE,Fairview Township,Attorney General,,Republican,"Schmidt, Derek",64,000070
+LABETTE,Hackberry Township,Attorney General,,Democratic,"Kotich, A.J.",25,000080
+LABETTE,Hackberry Township,Attorney General,,Republican,"Schmidt, Derek",82,000080
+LABETTE,Howard Township,Attorney General,,Democratic,"Kotich, A.J.",26,000090
+LABETTE,Howard Township,Attorney General,,Republican,"Schmidt, Derek",110,000090
+LABETTE,Labette Township,Attorney General,,Democratic,"Kotich, A.J.",25,000100
+LABETTE,Labette Township,Attorney General,,Republican,"Schmidt, Derek",120,000100
+LABETTE,Liberty Township,Attorney General,,Democratic,"Kotich, A.J.",31,000110
+LABETTE,Liberty Township,Attorney General,,Republican,"Schmidt, Derek",102,000110
+LABETTE,Montana Township,Attorney General,,Democratic,"Kotich, A.J.",16,000120
+LABETTE,Montana Township,Attorney General,,Republican,"Schmidt, Derek",44,000120
+LABETTE,Mound Valley Township,Attorney General,,Democratic,"Kotich, A.J.",62,000130
+LABETTE,Mound Valley Township,Attorney General,,Republican,"Schmidt, Derek",197,000130
+LABETTE,Mount Pleasant Township,Attorney General,,Democratic,"Kotich, A.J.",113,000140
+LABETTE,Mount Pleasant Township,Attorney General,,Republican,"Schmidt, Derek",295,000140
+LABETTE,Neosho Township,Attorney General,,Democratic,"Kotich, A.J.",19,000150
+LABETTE,Neosho Township,Attorney General,,Republican,"Schmidt, Derek",46,000150
+LABETTE,North Township,Attorney General,,Democratic,"Kotich, A.J.",57,00016A
+LABETTE,North Township,Attorney General,,Republican,"Schmidt, Derek",171,00016A
+LABETTE,North Township Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00016B
+LABETTE,North Township Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00016B
+LABETTE,Oswego City Ward 1,Attorney General,,Democratic,"Kotich, A.J.",45,000180
+LABETTE,Oswego City Ward 1,Attorney General,,Republican,"Schmidt, Derek",129,000180
+LABETTE,Oswego City Ward 2,Attorney General,,Democratic,"Kotich, A.J.",46,00019A
+LABETTE,Oswego City Ward 2,Attorney General,,Republican,"Schmidt, Derek",113,00019A
+LABETTE,Oswego City Ward 3,Attorney General,,Democratic,"Kotich, A.J.",37,000200
+LABETTE,Oswego City Ward 3,Attorney General,,Republican,"Schmidt, Derek",74,000200
+LABETTE,Oswego Township,Attorney General,,Democratic,"Kotich, A.J.",25,000210
+LABETTE,Oswego Township,Attorney General,,Republican,"Schmidt, Derek",66,000210
+LABETTE,Parsons Ward 1 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",87,000220
+LABETTE,Parsons Ward 1 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",152,000220
+LABETTE,Parsons Ward 1 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",39,000230
+LABETTE,Parsons Ward 1 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",67,000230
+LABETTE,Parsons Ward 1 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",35,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",44,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",31,000250
+LABETTE,Parsons Ward 2 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",51,000250
+LABETTE,Parsons Ward 2 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",91,000260
+LABETTE,Parsons Ward 2 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",114,000260
+LABETTE,Parsons Ward 2 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",85,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",102,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",27,000280
+LABETTE,Parsons Ward 3 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",48,000280
+LABETTE,Parsons Ward 3 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",107,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",118,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",86,000300
+LABETTE,Parsons Ward 3 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",114,000300
+LABETTE,Parsons Ward 3 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",115,000310
+LABETTE,Parsons Ward 3 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",144,000310
+LABETTE,Parsons Ward 4 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",42,000320
+LABETTE,Parsons Ward 4 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",70,000320
+LABETTE,Parsons Ward 4 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",77,000330
+LABETTE,Parsons Ward 4 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",86,000330
+LABETTE,Parsons Ward 4 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",75,000340
+LABETTE,Parsons Ward 4 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",59,000340
+LABETTE,Parsons Ward 4 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",60,000350
+LABETTE,Parsons Ward 4 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",135,000350
+LABETTE,Walton Township,Attorney General,,Democratic,"Kotich, A.J.",84,000370
+LABETTE,Walton Township,Attorney General,,Republican,"Schmidt, Derek",194,000370
+LABETTE,Osage Township S14,Attorney General,,Democratic,"Kotich, A.J.",0,120020
+LABETTE,Osage Township S14,Attorney General,,Republican,"Schmidt, Derek",0,120020
+LABETTE,Osage Township S15,Attorney General,,Democratic,"Kotich, A.J.",60,120030
+LABETTE,Osage Township S15,Attorney General,,Republican,"Schmidt, Derek",171,120030
+LABETTE,Richland Township H1 A,Attorney General,,Democratic,"Kotich, A.J.",8,12004A
+LABETTE,Richland Township H1 A,Attorney General,,Republican,"Schmidt, Derek",10,12004A
+LABETTE,Richland Township H1 B,Attorney General,,Democratic,"Kotich, A.J.",2,12004B
+LABETTE,Richland Township H1 B,Attorney General,,Republican,"Schmidt, Derek",10,12004B
+LABETTE,Richland Township H1,Attorney General,,Democratic,"Kotich, A.J.",0,120040
+LABETTE,Richland Township H1,Attorney General,,Republican,"Schmidt, Derek",0,120040
+LABETTE,Richland Township H7,Attorney General,,Democratic,"Kotich, A.J.",13,120050
+LABETTE,Richland Township H7,Attorney General,,Republican,"Schmidt, Derek",35,120050
+LABETTE,Oswego City Ward 1 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+LABETTE,Altamont City Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00001A
+LABETTE,Altamont City Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00001A
+LABETTE,Canada Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,000020
+LABETTE,Canada Township,Commissioner of Insurance,,Republican,"Selzer, Ken",73,000020
+LABETTE,Chetopa Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",34,000030
+LABETTE,Chetopa Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000030
+LABETTE,Chetopa Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",24,000040
+LABETTE,Chetopa Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",48,000040
+LABETTE,Chetopa Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",41,000050
+LABETTE,Chetopa Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",46,000050
+LABETTE,Elm Grove Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",51,000060
+LABETTE,Elm Grove Township,Commissioner of Insurance,,Republican,"Selzer, Ken",235,000060
+LABETTE,Fairview Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",16,000070
+LABETTE,Fairview Township,Commissioner of Insurance,,Republican,"Selzer, Ken",60,000070
+LABETTE,Hackberry Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,000080
+LABETTE,Hackberry Township,Commissioner of Insurance,,Republican,"Selzer, Ken",78,000080
+LABETTE,Howard Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",37,000090
+LABETTE,Howard Township,Commissioner of Insurance,,Republican,"Selzer, Ken",96,000090
+LABETTE,Labette Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000100
+LABETTE,Labette Township,Commissioner of Insurance,,Republican,"Selzer, Ken",113,000100
+LABETTE,Liberty Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",43,000110
+LABETTE,Liberty Township,Commissioner of Insurance,,Republican,"Selzer, Ken",93,000110
+LABETTE,Montana Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000120
+LABETTE,Montana Township,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000120
+LABETTE,Mound Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",76,000130
+LABETTE,Mound Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",174,000130
+LABETTE,Mount Pleasant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",129,000140
+LABETTE,Mount Pleasant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",265,000140
+LABETTE,Neosho Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",23,000150
+LABETTE,Neosho Township,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000150
+LABETTE,North Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",74,00016A
+LABETTE,North Township,Commissioner of Insurance,,Republican,"Selzer, Ken",142,00016A
+LABETTE,North Township Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00016B
+LABETTE,North Township Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00016B
+LABETTE,Oswego City Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",53,000180
+LABETTE,Oswego City Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",119,000180
+LABETTE,Oswego City Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",63,00019A
+LABETTE,Oswego City Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",90,00019A
+LABETTE,Oswego City Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",41,000200
+LABETTE,Oswego City Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",62,000200
+LABETTE,Oswego Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",30,000210
+LABETTE,Oswego Township,Commissioner of Insurance,,Republican,"Selzer, Ken",61,000210
+LABETTE,Parsons Ward 1 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",100,000220
+LABETTE,Parsons Ward 1 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",134,000220
+LABETTE,Parsons Ward 1 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000230
+LABETTE,Parsons Ward 1 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",65,000230
+LABETTE,Parsons Ward 1 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",37,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",38,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000250
+LABETTE,Parsons Ward 2 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",43,000250
+LABETTE,Parsons Ward 2 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",92,000260
+LABETTE,Parsons Ward 2 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",113,000260
+LABETTE,Parsons Ward 2 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",94,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",87,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",30,000280
+LABETTE,Parsons Ward 3 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",45,000280
+LABETTE,Parsons Ward 3 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",124,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",96,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",100,000300
+LABETTE,Parsons Ward 3 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",99,000300
+LABETTE,Parsons Ward 3 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",118,000310
+LABETTE,Parsons Ward 3 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",133,000310
+LABETTE,Parsons Ward 4 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",41,000320
+LABETTE,Parsons Ward 4 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",69,000320
+LABETTE,Parsons Ward 4 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",83,000330
+LABETTE,Parsons Ward 4 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",75,000330
+LABETTE,Parsons Ward 4 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",77,000340
+LABETTE,Parsons Ward 4 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",54,000340
+LABETTE,Parsons Ward 4 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,000350
+LABETTE,Parsons Ward 4 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",120,000350
+LABETTE,Walton Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",98,000370
+LABETTE,Walton Township,Commissioner of Insurance,,Republican,"Selzer, Ken",176,000370
+LABETTE,Osage Township S14,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120020
+LABETTE,Osage Township S14,Commissioner of Insurance,,Republican,"Selzer, Ken",0,120020
+LABETTE,Osage Township S15,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,120030
+LABETTE,Osage Township S15,Commissioner of Insurance,,Republican,"Selzer, Ken",156,120030
+LABETTE,Richland Township H1 A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,12004A
+LABETTE,Richland Township H1 A,Commissioner of Insurance,,Republican,"Selzer, Ken",9,12004A
+LABETTE,Richland Township H1 B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,12004B
+LABETTE,Richland Township H1 B,Commissioner of Insurance,,Republican,"Selzer, Ken",10,12004B
+LABETTE,Richland Township H1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120040
+LABETTE,Richland Township H1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,120040
+LABETTE,Richland Township H7,Commissioner of Insurance,,Democratic,"Anderson, Dennis",20,120050
+LABETTE,Richland Township H7,Commissioner of Insurance,,Republican,"Selzer, Ken",29,120050
+LABETTE,Oswego City Ward 1 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+LABETTE,Altamont City Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00001A
+LABETTE,Altamont City Part A,Secretary of State,,Republican,"Kobach, Kris",0,00001A
+LABETTE,Canada Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",23,000020
+LABETTE,Canada Township,Secretary of State,,Republican,"Kobach, Kris",73,000020
+LABETTE,Chetopa Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",32,000030
+LABETTE,Chetopa Ward 1,Secretary of State,,Republican,"Kobach, Kris",38,000030
+LABETTE,Chetopa Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000040
+LABETTE,Chetopa Ward 2,Secretary of State,,Republican,"Kobach, Kris",44,000040
+LABETTE,Chetopa Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",41,000050
+LABETTE,Chetopa Ward 3,Secretary of State,,Republican,"Kobach, Kris",50,000050
+LABETTE,Elm Grove Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",57,000060
+LABETTE,Elm Grove Township,Secretary of State,,Republican,"Kobach, Kris",239,000060
+LABETTE,Fairview Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000070
+LABETTE,Fairview Township,Secretary of State,,Republican,"Kobach, Kris",60,000070
+LABETTE,Hackberry Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000080
+LABETTE,Hackberry Township,Secretary of State,,Republican,"Kobach, Kris",77,000080
+LABETTE,Howard Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",41,000090
+LABETTE,Howard Township,Secretary of State,,Republican,"Kobach, Kris",93,000090
+LABETTE,Labette Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",34,000100
+LABETTE,Labette Township,Secretary of State,,Republican,"Kobach, Kris",112,000100
+LABETTE,Liberty Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",44,000110
+LABETTE,Liberty Township,Secretary of State,,Republican,"Kobach, Kris",92,000110
+LABETTE,Montana Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",17,000120
+LABETTE,Montana Township,Secretary of State,,Republican,"Kobach, Kris",39,000120
+LABETTE,Mound Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",80,000130
+LABETTE,Mound Valley Township,Secretary of State,,Republican,"Kobach, Kris",174,000130
+LABETTE,Mount Pleasant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",143,000140
+LABETTE,Mount Pleasant Township,Secretary of State,,Republican,"Kobach, Kris",265,000140
+LABETTE,Neosho Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000150
+LABETTE,Neosho Township,Secretary of State,,Republican,"Kobach, Kris",44,000150
+LABETTE,North Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",86,00016A
+LABETTE,North Township,Secretary of State,,Republican,"Kobach, Kris",147,00016A
+LABETTE,North Township Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00016B
+LABETTE,North Township Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00016B
+LABETTE,Oswego City Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",55,000180
+LABETTE,Oswego City Ward 1,Secretary of State,,Republican,"Kobach, Kris",117,000180
+LABETTE,Oswego City Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",61,00019A
+LABETTE,Oswego City Ward 2,Secretary of State,,Republican,"Kobach, Kris",100,00019A
+LABETTE,Oswego City Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",43,000200
+LABETTE,Oswego City Ward 3,Secretary of State,,Republican,"Kobach, Kris",67,000200
+LABETTE,Oswego Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",31,000210
+LABETTE,Oswego Township,Secretary of State,,Republican,"Kobach, Kris",59,000210
+LABETTE,Parsons Ward 1 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",110,000220
+LABETTE,Parsons Ward 1 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",129,000220
+LABETTE,Parsons Ward 1 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",45,000230
+LABETTE,Parsons Ward 1 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",60,000230
+LABETTE,Parsons Ward 1 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",46,00024A
+LABETTE,Parsons Ward 1 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",32,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",43,000250
+LABETTE,Parsons Ward 2 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",39,000250
+LABETTE,Parsons Ward 2 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",103,000260
+LABETTE,Parsons Ward 2 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",102,000260
+LABETTE,Parsons Ward 2 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",91,00027A
+LABETTE,Parsons Ward 2 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",93,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000280
+LABETTE,Parsons Ward 3 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",46,000280
+LABETTE,Parsons Ward 3 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",124,00029A
+LABETTE,Parsons Ward 3 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",101,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",101,000300
+LABETTE,Parsons Ward 3 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",101,000300
+LABETTE,Parsons Ward 3 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",121,000310
+LABETTE,Parsons Ward 3 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",137,000310
+LABETTE,Parsons Ward 4 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",46,000320
+LABETTE,Parsons Ward 4 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",66,000320
+LABETTE,Parsons Ward 4 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",85,000330
+LABETTE,Parsons Ward 4 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",78,000330
+LABETTE,Parsons Ward 4 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",85,000340
+LABETTE,Parsons Ward 4 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",50,000340
+LABETTE,Parsons Ward 4 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",81,000350
+LABETTE,Parsons Ward 4 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",117,000350
+LABETTE,Walton Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",107,000370
+LABETTE,Walton Township,Secretary of State,,Republican,"Kobach, Kris",167,000370
+LABETTE,Osage Township S14,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120020
+LABETTE,Osage Township S14,Secretary of State,,Republican,"Kobach, Kris",0,120020
+LABETTE,Osage Township S15,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",71,120030
+LABETTE,Osage Township S15,Secretary of State,,Republican,"Kobach, Kris",161,120030
+LABETTE,Richland Township H1 A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,12004A
+LABETTE,Richland Township H1 A,Secretary of State,,Republican,"Kobach, Kris",9,12004A
+LABETTE,Richland Township H1 B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,12004B
+LABETTE,Richland Township H1 B,Secretary of State,,Republican,"Kobach, Kris",9,12004B
+LABETTE,Richland Township H1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120040
+LABETTE,Richland Township H1,Secretary of State,,Republican,"Kobach, Kris",0,120040
+LABETTE,Richland Township H7,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",20,120050
+LABETTE,Richland Township H7,Secretary of State,,Republican,"Kobach, Kris",29,120050
+LABETTE,Oswego City Ward 1 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+LABETTE,Oswego City Ward 1 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,900010
+LABETTE,Altamont City Part A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00001A
+LABETTE,Altamont City Part A,State Treasurer,,Republican,"Estes, Ron",0,00001A
+LABETTE,Canada Township,State Treasurer,,Democratic,"Alldritt, Carmen",22,000020
+LABETTE,Canada Township,State Treasurer,,Republican,"Estes, Ron",75,000020
+LABETTE,Chetopa Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",30,000030
+LABETTE,Chetopa Ward 1,State Treasurer,,Republican,"Estes, Ron",41,000030
+LABETTE,Chetopa Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",23,000040
+LABETTE,Chetopa Ward 2,State Treasurer,,Republican,"Estes, Ron",47,000040
+LABETTE,Chetopa Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",33,000050
+LABETTE,Chetopa Ward 3,State Treasurer,,Republican,"Estes, Ron",53,000050
+LABETTE,Elm Grove Township,State Treasurer,,Democratic,"Alldritt, Carmen",49,000060
+LABETTE,Elm Grove Township,State Treasurer,,Republican,"Estes, Ron",244,000060
+LABETTE,Fairview Township,State Treasurer,,Democratic,"Alldritt, Carmen",16,000070
+LABETTE,Fairview Township,State Treasurer,,Republican,"Estes, Ron",62,000070
+LABETTE,Hackberry Township,State Treasurer,,Democratic,"Alldritt, Carmen",24,000080
+LABETTE,Hackberry Township,State Treasurer,,Republican,"Estes, Ron",80,000080
+LABETTE,Howard Township,State Treasurer,,Democratic,"Alldritt, Carmen",37,000090
+LABETTE,Howard Township,State Treasurer,,Republican,"Estes, Ron",96,000090
+LABETTE,Labette Township,State Treasurer,,Democratic,"Alldritt, Carmen",32,000100
+LABETTE,Labette Township,State Treasurer,,Republican,"Estes, Ron",114,000100
+LABETTE,Liberty Township,State Treasurer,,Democratic,"Alldritt, Carmen",34,000110
+LABETTE,Liberty Township,State Treasurer,,Republican,"Estes, Ron",102,000110
+LABETTE,Montana Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000120
+LABETTE,Montana Township,State Treasurer,,Republican,"Estes, Ron",40,000120
+LABETTE,Mound Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",68,000130
+LABETTE,Mound Valley Township,State Treasurer,,Republican,"Estes, Ron",185,000130
+LABETTE,Mount Pleasant Township,State Treasurer,,Democratic,"Alldritt, Carmen",126,000140
+LABETTE,Mount Pleasant Township,State Treasurer,,Republican,"Estes, Ron",279,000140
+LABETTE,Neosho Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000150
+LABETTE,Neosho Township,State Treasurer,,Republican,"Estes, Ron",44,000150
+LABETTE,North Township,State Treasurer,,Democratic,"Alldritt, Carmen",64,00016A
+LABETTE,North Township,State Treasurer,,Republican,"Estes, Ron",160,00016A
+LABETTE,North Township Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00016B
+LABETTE,North Township Enclave,State Treasurer,,Republican,"Estes, Ron",0,00016B
+LABETTE,Oswego City Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",48,000180
+LABETTE,Oswego City Ward 1,State Treasurer,,Republican,"Estes, Ron",127,000180
+LABETTE,Oswego City Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",55,00019A
+LABETTE,Oswego City Ward 2,State Treasurer,,Republican,"Estes, Ron",102,00019A
+LABETTE,Oswego City Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",38,000200
+LABETTE,Oswego City Ward 3,State Treasurer,,Republican,"Estes, Ron",72,000200
+LABETTE,Oswego Township,State Treasurer,,Democratic,"Alldritt, Carmen",27,000210
+LABETTE,Oswego Township,State Treasurer,,Republican,"Estes, Ron",62,000210
+LABETTE,Parsons Ward 1 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",88,000220
+LABETTE,Parsons Ward 1 Precinct 1,State Treasurer,,Republican,"Estes, Ron",149,000220
+LABETTE,Parsons Ward 1 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",41,000230
+LABETTE,Parsons Ward 1 Precinct 2,State Treasurer,,Republican,"Estes, Ron",61,000230
+LABETTE,Parsons Ward 1 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",44,00024A
+LABETTE,Parsons Ward 1 Precinct 3,State Treasurer,,Republican,"Estes, Ron",33,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",35,000250
+LABETTE,Parsons Ward 2 Precinct 1,State Treasurer,,Republican,"Estes, Ron",46,000250
+LABETTE,Parsons Ward 2 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",89,000260
+LABETTE,Parsons Ward 2 Precinct 2,State Treasurer,,Republican,"Estes, Ron",115,000260
+LABETTE,Parsons Ward 2 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",97,00027A
+LABETTE,Parsons Ward 2 Precinct 3,State Treasurer,,Republican,"Estes, Ron",85,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",26,000280
+LABETTE,Parsons Ward 3 Precinct 1,State Treasurer,,Republican,"Estes, Ron",48,000280
+LABETTE,Parsons Ward 3 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",112,00029A
+LABETTE,Parsons Ward 3 Precinct 2,State Treasurer,,Republican,"Estes, Ron",111,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",90,000300
+LABETTE,Parsons Ward 3 Precinct 3,State Treasurer,,Republican,"Estes, Ron",106,000300
+LABETTE,Parsons Ward 3 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",108,000310
+LABETTE,Parsons Ward 3 Precinct 4,State Treasurer,,Republican,"Estes, Ron",146,000310
+LABETTE,Parsons Ward 4 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",42,000320
+LABETTE,Parsons Ward 4 Precinct 1,State Treasurer,,Republican,"Estes, Ron",70,000320
+LABETTE,Parsons Ward 4 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",73,000330
+LABETTE,Parsons Ward 4 Precinct 2,State Treasurer,,Republican,"Estes, Ron",84,000330
+LABETTE,Parsons Ward 4 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",72,000340
+LABETTE,Parsons Ward 4 Precinct 3,State Treasurer,,Republican,"Estes, Ron",58,000340
+LABETTE,Parsons Ward 4 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",65,000350
+LABETTE,Parsons Ward 4 Precinct 4,State Treasurer,,Republican,"Estes, Ron",131,000350
+LABETTE,Walton Township,State Treasurer,,Democratic,"Alldritt, Carmen",84,000370
+LABETTE,Walton Township,State Treasurer,,Republican,"Estes, Ron",190,000370
+LABETTE,Osage Township S14,State Treasurer,,Democratic,"Alldritt, Carmen",0,120020
+LABETTE,Osage Township S14,State Treasurer,,Republican,"Estes, Ron",0,120020
+LABETTE,Osage Township S15,State Treasurer,,Democratic,"Alldritt, Carmen",63,120030
+LABETTE,Osage Township S15,State Treasurer,,Republican,"Estes, Ron",166,120030
+LABETTE,Richland Township H1 A,State Treasurer,,Democratic,"Alldritt, Carmen",7,12004A
+LABETTE,Richland Township H1 A,State Treasurer,,Republican,"Estes, Ron",12,12004A
+LABETTE,Richland Township H1 B,State Treasurer,,Democratic,"Alldritt, Carmen",2,12004B
+LABETTE,Richland Township H1 B,State Treasurer,,Republican,"Estes, Ron",10,12004B
+LABETTE,Richland Township H1,State Treasurer,,Democratic,"Alldritt, Carmen",0,120040
+LABETTE,Richland Township H1,State Treasurer,,Republican,"Estes, Ron",0,120040
+LABETTE,Richland Township H7,State Treasurer,,Democratic,"Alldritt, Carmen",15,120050
+LABETTE,Richland Township H7,State Treasurer,,Republican,"Estes, Ron",34,120050
+LABETTE,Oswego City Ward 1 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+LABETTE,Oswego City Ward 1 Exclave,State Treasurer,,Republican,"Estes, Ron",0,900010
+LABETTE,Altamont City Part A,United States Senate,,independent,"Orman, Greg",0,00001A
+LABETTE,Altamont City Part A,United States Senate,,Libertarian,"Batson, Randall",0,00001A
+LABETTE,Altamont City Part A,United States Senate,,Republican,"Roberts, Pat",0,00001A
+LABETTE,Canada Township,United States Senate,,independent,"Orman, Greg",21,000020
+LABETTE,Canada Township,United States Senate,,Libertarian,"Batson, Randall",3,000020
+LABETTE,Canada Township,United States Senate,,Republican,"Roberts, Pat",74,000020
+LABETTE,Chetopa Ward 1,United States Senate,,independent,"Orman, Greg",26,000030
+LABETTE,Chetopa Ward 1,United States Senate,,Libertarian,"Batson, Randall",7,000030
+LABETTE,Chetopa Ward 1,United States Senate,,Republican,"Roberts, Pat",38,000030
+LABETTE,Chetopa Ward 2,United States Senate,,independent,"Orman, Greg",24,000040
+LABETTE,Chetopa Ward 2,United States Senate,,Libertarian,"Batson, Randall",6,000040
+LABETTE,Chetopa Ward 2,United States Senate,,Republican,"Roberts, Pat",40,000040
+LABETTE,Chetopa Ward 3,United States Senate,,independent,"Orman, Greg",31,000050
+LABETTE,Chetopa Ward 3,United States Senate,,Libertarian,"Batson, Randall",7,000050
+LABETTE,Chetopa Ward 3,United States Senate,,Republican,"Roberts, Pat",54,000050
+LABETTE,Elm Grove Township,United States Senate,,independent,"Orman, Greg",47,000060
+LABETTE,Elm Grove Township,United States Senate,,Libertarian,"Batson, Randall",18,000060
+LABETTE,Elm Grove Township,United States Senate,,Republican,"Roberts, Pat",228,000060
+LABETTE,Fairview Township,United States Senate,,independent,"Orman, Greg",18,000070
+LABETTE,Fairview Township,United States Senate,,Libertarian,"Batson, Randall",3,000070
+LABETTE,Fairview Township,United States Senate,,Republican,"Roberts, Pat",58,000070
+LABETTE,Hackberry Township,United States Senate,,independent,"Orman, Greg",26,000080
+LABETTE,Hackberry Township,United States Senate,,Libertarian,"Batson, Randall",9,000080
+LABETTE,Hackberry Township,United States Senate,,Republican,"Roberts, Pat",74,000080
+LABETTE,Howard Township,United States Senate,,independent,"Orman, Greg",42,000090
+LABETTE,Howard Township,United States Senate,,Libertarian,"Batson, Randall",7,000090
+LABETTE,Howard Township,United States Senate,,Republican,"Roberts, Pat",86,000090
+LABETTE,Labette Township,United States Senate,,independent,"Orman, Greg",32,000100
+LABETTE,Labette Township,United States Senate,,Libertarian,"Batson, Randall",8,000100
+LABETTE,Labette Township,United States Senate,,Republican,"Roberts, Pat",107,000100
+LABETTE,Liberty Township,United States Senate,,independent,"Orman, Greg",47,000110
+LABETTE,Liberty Township,United States Senate,,Libertarian,"Batson, Randall",6,000110
+LABETTE,Liberty Township,United States Senate,,Republican,"Roberts, Pat",89,000110
+LABETTE,Montana Township,United States Senate,,independent,"Orman, Greg",16,000120
+LABETTE,Montana Township,United States Senate,,Libertarian,"Batson, Randall",3,000120
+LABETTE,Montana Township,United States Senate,,Republican,"Roberts, Pat",41,000120
+LABETTE,Mound Valley Township,United States Senate,,independent,"Orman, Greg",70,000130
+LABETTE,Mound Valley Township,United States Senate,,Libertarian,"Batson, Randall",17,000130
+LABETTE,Mound Valley Township,United States Senate,,Republican,"Roberts, Pat",167,000130
+LABETTE,Mount Pleasant Township,United States Senate,,independent,"Orman, Greg",123,000140
+LABETTE,Mount Pleasant Township,United States Senate,,Libertarian,"Batson, Randall",26,000140
+LABETTE,Mount Pleasant Township,United States Senate,,Republican,"Roberts, Pat",259,000140
+LABETTE,Neosho Township,United States Senate,,independent,"Orman, Greg",19,000150
+LABETTE,Neosho Township,United States Senate,,Libertarian,"Batson, Randall",6,000150
+LABETTE,Neosho Township,United States Senate,,Republican,"Roberts, Pat",39,000150
+LABETTE,North Township,United States Senate,,independent,"Orman, Greg",91,00016A
+LABETTE,North Township,United States Senate,,Libertarian,"Batson, Randall",15,00016A
+LABETTE,North Township,United States Senate,,Republican,"Roberts, Pat",127,00016A
+LABETTE,North Township Enclave,United States Senate,,independent,"Orman, Greg",0,00016B
+LABETTE,North Township Enclave,United States Senate,,Libertarian,"Batson, Randall",0,00016B
+LABETTE,North Township Enclave,United States Senate,,Republican,"Roberts, Pat",0,00016B
+LABETTE,Oswego City Ward 1,United States Senate,,independent,"Orman, Greg",52,000180
+LABETTE,Oswego City Ward 1,United States Senate,,Libertarian,"Batson, Randall",18,000180
+LABETTE,Oswego City Ward 1,United States Senate,,Republican,"Roberts, Pat",104,000180
+LABETTE,Oswego City Ward 2,United States Senate,,independent,"Orman, Greg",64,00019A
+LABETTE,Oswego City Ward 2,United States Senate,,Libertarian,"Batson, Randall",12,00019A
+LABETTE,Oswego City Ward 2,United States Senate,,Republican,"Roberts, Pat",90,00019A
+LABETTE,Oswego City Ward 3,United States Senate,,independent,"Orman, Greg",45,000200
+LABETTE,Oswego City Ward 3,United States Senate,,Libertarian,"Batson, Randall",14,000200
+LABETTE,Oswego City Ward 3,United States Senate,,Republican,"Roberts, Pat",58,000200
+LABETTE,Oswego Township,United States Senate,,independent,"Orman, Greg",30,000210
+LABETTE,Oswego Township,United States Senate,,Libertarian,"Batson, Randall",5,000210
+LABETTE,Oswego Township,United States Senate,,Republican,"Roberts, Pat",56,000210
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,independent,"Orman, Greg",108,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",13,000220
+LABETTE,Parsons Ward 1 Precinct 1,United States Senate,,Republican,"Roberts, Pat",121,000220
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,independent,"Orman, Greg",42,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",6,000230
+LABETTE,Parsons Ward 1 Precinct 2,United States Senate,,Republican,"Roberts, Pat",56,000230
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,independent,"Orman, Greg",36,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",4,00024A
+LABETTE,Parsons Ward 1 Precinct 3,United States Senate,,Republican,"Roberts, Pat",36,00024A
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,independent,"Orman, Greg",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00024B
+LABETTE,Parsons Ward 1 Precinct 3 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00024B
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,independent,"Orman, Greg",41,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",4,000250
+LABETTE,Parsons Ward 2 Precinct 1,United States Senate,,Republican,"Roberts, Pat",36,000250
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,independent,"Orman, Greg",104,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",6,000260
+LABETTE,Parsons Ward 2 Precinct 2,United States Senate,,Republican,"Roberts, Pat",96,000260
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,independent,"Orman, Greg",89,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",18,00027A
+LABETTE,Parsons Ward 2 Precinct 3,United States Senate,,Republican,"Roberts, Pat",80,00027A
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,independent,"Orman, Greg",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00027B
+LABETTE,Parsons Ward 2 Precinct 3 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00027B
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,independent,"Orman, Greg",25,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",6,000280
+LABETTE,Parsons Ward 3 Precinct 1,United States Senate,,Republican,"Roberts, Pat",46,000280
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,independent,"Orman, Greg",117,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",12,00029A
+LABETTE,Parsons Ward 3 Precinct 2,United States Senate,,Republican,"Roberts, Pat",95,00029A
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,independent,"Orman, Greg",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00029B
+LABETTE,Parsons Ward 3 Precinct 2 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00029B
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,independent,"Orman, Greg",84,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",21,000300
+LABETTE,Parsons Ward 3 Precinct 3,United States Senate,,Republican,"Roberts, Pat",94,000300
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,independent,"Orman, Greg",123,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,Libertarian,"Batson, Randall",15,000310
+LABETTE,Parsons Ward 3 Precinct 4,United States Senate,,Republican,"Roberts, Pat",124,000310
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,independent,"Orman, Greg",44,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",8,000320
+LABETTE,Parsons Ward 4 Precinct 1,United States Senate,,Republican,"Roberts, Pat",61,000320
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,independent,"Orman, Greg",88,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",15,000330
+LABETTE,Parsons Ward 4 Precinct 2,United States Senate,,Republican,"Roberts, Pat",62,000330
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,independent,"Orman, Greg",72,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,Libertarian,"Batson, Randall",8,000340
+LABETTE,Parsons Ward 4 Precinct 3,United States Senate,,Republican,"Roberts, Pat",55,000340
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,independent,"Orman, Greg",81,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,Libertarian,"Batson, Randall",12,000350
+LABETTE,Parsons Ward 4 Precinct 4,United States Senate,,Republican,"Roberts, Pat",110,000350
+LABETTE,Walton Township,United States Senate,,independent,"Orman, Greg",105,000370
+LABETTE,Walton Township,United States Senate,,Libertarian,"Batson, Randall",14,000370
+LABETTE,Walton Township,United States Senate,,Republican,"Roberts, Pat",160,000370
+LABETTE,Osage Township S14,United States Senate,,independent,"Orman, Greg",0,120020
+LABETTE,Osage Township S14,United States Senate,,Libertarian,"Batson, Randall",0,120020
+LABETTE,Osage Township S14,United States Senate,,Republican,"Roberts, Pat",0,120020
+LABETTE,Osage Township S15,United States Senate,,independent,"Orman, Greg",75,120030
+LABETTE,Osage Township S15,United States Senate,,Libertarian,"Batson, Randall",12,120030
+LABETTE,Osage Township S15,United States Senate,,Republican,"Roberts, Pat",148,120030
+LABETTE,Richland Township H1 A,United States Senate,,independent,"Orman, Greg",6,12004A
+LABETTE,Richland Township H1 A,United States Senate,,Libertarian,"Batson, Randall",2,12004A
+LABETTE,Richland Township H1 A,United States Senate,,Republican,"Roberts, Pat",12,12004A
+LABETTE,Richland Township H1 B,United States Senate,,independent,"Orman, Greg",4,12004B
+LABETTE,Richland Township H1 B,United States Senate,,Libertarian,"Batson, Randall",1,12004B
+LABETTE,Richland Township H1 B,United States Senate,,Republican,"Roberts, Pat",8,12004B
+LABETTE,Richland Township H1,United States Senate,,independent,"Orman, Greg",0,120040
+LABETTE,Richland Township H1,United States Senate,,Libertarian,"Batson, Randall",0,120040
+LABETTE,Richland Township H1,United States Senate,,Republican,"Roberts, Pat",0,120040
+LABETTE,Richland Township H7,United States Senate,,independent,"Orman, Greg",18,120050
+LABETTE,Richland Township H7,United States Senate,,Libertarian,"Batson, Randall",5,120050
+LABETTE,Richland Township H7,United States Senate,,Republican,"Roberts, Pat",25,120050
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,independent,"Orman, Greg",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,900010
+LABETTE,Oswego City Ward 1 Exclave,United States Senate,,Republican,"Roberts, Pat",0,900010

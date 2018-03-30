@@ -1,443 +1,494 @@
-county,precinct,race,district,party,candidate,votes
-Cloud,Arion,Attorney General ,,Dem,A.J. Kotich,8
-Cloud,Aurora,Attorney General ,,Dem,A.J. Kotich,7
-Cloud,Buffalo,Attorney General ,,Dem,A.J. Kotich,3
-Cloud,Center,Attorney General ,,Dem,A.J. Kotich,2
-Cloud,Colfax,Attorney General ,,Dem,A.J. Kotich,2
-Cloud,Elk,Attorney General ,,Dem,A.J. Kotich,55
-Cloud,Grant,Attorney General ,,Dem,A.J. Kotich,20
-Cloud,N. Lawrence,Attorney General ,,Dem,A.J. Kotich,4
-Cloud,S. Lawrence,Attorney General ,,Dem,A.J. Kotich,5
-Cloud,E. Lincoln,Attorney General ,,Dem,A.J. Kotich,17
-Cloud,W. Lincoln,Attorney General ,,Dem,A.J. Kotich,22
-Cloud,Lyon,Attorney General ,,Dem,A.J. Kotich,4
-Cloud,E. Meredith,Attorney General ,,Dem,A.J. Kotich,1
-Cloud,W. Meredith,Attorney General ,,Dem,A.J. Kotich,3
-Cloud,Nelson,Attorney General ,,Dem,A.J. Kotich,3
-Cloud,Oakland,Attorney General ,,Dem,A.J. Kotich,1
-Cloud,Shirley,Attorney General ,,Dem,A.J. Kotich,7
-Cloud,Sibley,Attorney General ,,Dem,A.J. Kotich,17
-Cloud,Solomon,Attorney General ,,Dem,A.J. Kotich,28
-Cloud,Starr,Attorney General ,,Dem,A.J. Kotich,37
-Cloud,Summitt,Attorney General ,,Dem,A.J. Kotich,2
-Cloud,1st Ward,Attorney General ,,Dem,A.J. Kotich,63
-Cloud,1st Pct 2nd Ward,Attorney General ,,Dem,A.J. Kotich,62
-Cloud,2nd Pct 2nd Ward,Attorney General ,,Dem,A.J. Kotich,58
-Cloud,3rd Ward,Attorney General ,,Dem,A.J. Kotich,75
-Cloud,4th Ward,Attorney General ,,Dem,A.J. Kotich,41
-Cloud,Arion,Attorney General ,,Rep,Derek Schmidt,23
-Cloud,Aurora,Attorney General ,,Rep,Derek Schmidt,32
-Cloud,Buffalo,Attorney General ,,Rep,Derek Schmidt,38
-Cloud,Center,Attorney General ,,Rep,Derek Schmidt,65
-Cloud,Colfax,Attorney General ,,Rep,Derek Schmidt,14
-Cloud,Elk,Attorney General ,,Rep,Derek Schmidt,189
-Cloud,Grant,Attorney General ,,Rep,Derek Schmidt,80
-Cloud,N. Lawrence,Attorney General ,,Rep,Derek Schmidt,18
-Cloud,S. Lawrence,Attorney General ,,Rep,Derek Schmidt,12
-Cloud,E. Lincoln,Attorney General ,,Rep,Derek Schmidt,67
-Cloud,W. Lincoln,Attorney General ,,Rep,Derek Schmidt,34
-Cloud,Lyon,Attorney General ,,Rep,Derek Schmidt,32
-Cloud,E. Meredith,Attorney General ,,Rep,Derek Schmidt,14
-Cloud,W. Meredith,Attorney General ,,Rep,Derek Schmidt,9
-Cloud,Nelson,Attorney General ,,Rep,Derek Schmidt,39
-Cloud,Oakland,Attorney General ,,Rep,Derek Schmidt,19
-Cloud,Shirley,Attorney General ,,Rep,Derek Schmidt,44
-Cloud,Sibley,Attorney General ,,Rep,Derek Schmidt,52
-Cloud,Solomon,Attorney General ,,Rep,Derek Schmidt,137
-Cloud,Starr,Attorney General ,,Rep,Derek Schmidt,144
-Cloud,Summitt,Attorney General ,,Rep,Derek Schmidt,23
-Cloud,1st Ward,Attorney General ,,Rep,Derek Schmidt,131
-Cloud,1st Pct 2nd Ward,Attorney General ,,Rep,Derek Schmidt,153
-Cloud,2nd Pct 2nd Ward,Attorney General ,,Rep,Derek Schmidt,237
-Cloud,3rd Ward,Attorney General ,,Rep,Derek Schmidt,266
-Cloud,4th Ward,Attorney General ,,Rep,Derek Schmidt,123
-Cloud,Arion,Commissioner of Insurance,,Dem,Dennis Anderson,6
-Cloud,Aurora,Commissioner of Insurance,,Dem,Dennis Anderson,8
-Cloud,Buffalo,Commissioner of Insurance,,Dem,Dennis Anderson,5
-Cloud,Center,Commissioner of Insurance,,Dem,Dennis Anderson,9
-Cloud,Colfax,Commissioner of Insurance,,Dem,Dennis Anderson,1
-Cloud,Elk,Commissioner of Insurance,,Dem,Dennis Anderson,77
-Cloud,Grant,Commissioner of Insurance,,Dem,Dennis Anderson,14
-Cloud,N. Lawrence,Commissioner of Insurance,,Dem,Dennis Anderson,2
-Cloud,S. Lawrence,Commissioner of Insurance,,Dem,Dennis Anderson,6
-Cloud,E. Lincoln,Commissioner of Insurance,,Dem,Dennis Anderson,20
-Cloud,W. Lincoln,Commissioner of Insurance,,Dem,Dennis Anderson,22
-Cloud,Lyon,Commissioner of Insurance,,Dem,Dennis Anderson,7
-Cloud,E. Meredith,Commissioner of Insurance,,Dem,Dennis Anderson,2
-Cloud,W. Meredith,Commissioner of Insurance,,Dem,Dennis Anderson,4
-Cloud,Nelson,Commissioner of Insurance,,Dem,Dennis Anderson,4
-Cloud,Oakland,Commissioner of Insurance,,Dem,Dennis Anderson,0
-Cloud,Shirley,Commissioner of Insurance,,Dem,Dennis Anderson,9
-Cloud,Sibley,Commissioner of Insurance,,Dem,Dennis Anderson,19
-Cloud,Solomon,Commissioner of Insurance,,Dem,Dennis Anderson,43
-Cloud,Starr,Commissioner of Insurance,,Dem,Dennis Anderson,41
-Cloud,Summitt,Commissioner of Insurance,,Dem,Dennis Anderson,3
-Cloud,1st Ward,Commissioner of Insurance,,Dem,Dennis Anderson,71
-Cloud,1st Pct 2nd Ward,Commissioner of Insurance,,Dem,Dennis Anderson,71
-Cloud,2nd Pct 2nd Ward,Commissioner of Insurance,,Dem,Dennis Anderson,83
-Cloud,3rd Ward,Commissioner of Insurance,,Dem,Dennis Anderson,105
-Cloud,4th Ward,Commissioner of Insurance,,Dem,Dennis Anderson,52
-Cloud,Arion,Commissioner of Insurance,,Rep,Ken Selzer,25
-Cloud,Aurora,Commissioner of Insurance,,Rep,Ken Selzer,32
-Cloud,Buffalo,Commissioner of Insurance,,Rep,Ken Selzer,33
-Cloud,Center,Commissioner of Insurance,,Rep,Ken Selzer,54
-Cloud,Colfax,Commissioner of Insurance,,Rep,Ken Selzer,15
-Cloud,Elk,Commissioner of Insurance,,Rep,Ken Selzer,155
-Cloud,Grant,Commissioner of Insurance,,Rep,Ken Selzer,83
-Cloud,N. Lawrence,Commissioner of Insurance,,Rep,Ken Selzer,16
-Cloud,S. Lawrence,Commissioner of Insurance,,Rep,Ken Selzer,12
-Cloud,E. Lincoln,Commissioner of Insurance,,Rep,Ken Selzer,62
-Cloud,W. Lincoln,Commissioner of Insurance,,Rep,Ken Selzer,33
-Cloud,Lyon,Commissioner of Insurance,,Rep,Ken Selzer,26
-Cloud,E. Meredith,Commissioner of Insurance,,Rep,Ken Selzer,13
-Cloud,W. Meredith,Commissioner of Insurance,,Rep,Ken Selzer,8
-Cloud,Nelson,Commissioner of Insurance,,Rep,Ken Selzer,36
-Cloud,Oakland,Commissioner of Insurance,,Rep,Ken Selzer,17
-Cloud,Shirley,Commissioner of Insurance,,Rep,Ken Selzer,38
-Cloud,Sibley,Commissioner of Insurance,,Rep,Ken Selzer,48
-Cloud,Solomon,Commissioner of Insurance,,Rep,Ken Selzer,116
-Cloud,Starr,Commissioner of Insurance,,Rep,Ken Selzer,135
-Cloud,Summitt,Commissioner of Insurance,,Rep,Ken Selzer,22
-Cloud,1st Ward,Commissioner of Insurance,,Rep,Ken Selzer,122
-Cloud,1st Pct 2nd Ward,Commissioner of Insurance,,Rep,Ken Selzer,143
-Cloud,2nd Pct 2nd Ward,Commissioner of Insurance,,Rep,Ken Selzer,199
-Cloud,3rd Ward,Commissioner of Insurance,,Rep,Ken Selzer,229
-Cloud,4th Ward,Commissioner of Insurance,,Rep,Ken Selzer,108
-Cloud,Arion,Governor,,Lib,Keen Umbehr,1
-Cloud,Aurora,Governor,,Lib,Keen Umbehr,1
-Cloud,Buffalo,Governor,,Lib,Keen Umbehr,1
-Cloud,Center,Governor,,Lib,Keen Umbehr,2
-Cloud,Colfax,Governor,,Lib,Keen Umbehr,0
-Cloud,Elk,Governor,,Lib,Keen Umbehr,13
-Cloud,Grant,Governor,,Lib,Keen Umbehr,5
-Cloud,N. Lawrence,Governor,,Lib,Keen Umbehr,2
-Cloud,S. Lawrence,Governor,,Lib,Keen Umbehr,2
-Cloud,E. Lincoln,Governor,,Lib,Keen Umbehr,2
-Cloud,W. Lincoln,Governor,,Lib,Keen Umbehr,0
-Cloud,Lyon,Governor,,Lib,Keen Umbehr,1
-Cloud,E. Meredith,Governor,,Lib,Keen Umbehr,0
-Cloud,W. Meredith,Governor,,Lib,Keen Umbehr,0
-Cloud,Nelson,Governor,,Lib,Keen Umbehr,0
-Cloud,Oakland,Governor,,Lib,Keen Umbehr,0
-Cloud,Shirley,Governor,,Lib,Keen Umbehr,5
-Cloud,Sibley,Governor,,Lib,Keen Umbehr,0
-Cloud,Solomon,Governor,,Lib,Keen Umbehr,19
-Cloud,Starr,Governor,,Lib,Keen Umbehr,12
-Cloud,Summitt,Governor,,Lib,Keen Umbehr,1
-Cloud,1st Ward,Governor,,Lib,Keen Umbehr,10
-Cloud,1st Pct 2nd Ward,Governor,,Lib,Keen Umbehr,8
-Cloud,2nd Pct 2nd Ward,Governor,,Lib,Keen Umbehr,10
-Cloud,3rd Ward,Governor,,Lib,Keen Umbehr,16
-Cloud,4th Ward,Governor,,Lib,Keen Umbehr,8
-Cloud,Arion,Governor,,Dem,Paul Davis,11
-Cloud,Aurora,Governor,,Dem,Paul Davis,14
-Cloud,Buffalo,Governor,,Dem,Paul Davis,10
-Cloud,Center,Governor,,Dem,Paul Davis,15
-Cloud,Colfax,Governor,,Dem,Paul Davis,1
-Cloud,Elk,Governor,,Dem,Paul Davis,100
-Cloud,Grant,Governor,,Dem,Paul Davis,30
-Cloud,N. Lawrence,Governor,,Dem,Paul Davis,7
-Cloud,S. Lawrence,Governor,,Dem,Paul Davis,5
-Cloud,E. Lincoln,Governor,,Dem,Paul Davis,23
-Cloud,W. Lincoln,Governor,,Dem,Paul Davis,20
-Cloud,Lyon,Governor,,Dem,Paul Davis,10
-Cloud,E. Meredith,Governor,,Dem,Paul Davis,5
-Cloud,W. Meredith,Governor,,Dem,Paul Davis,5
-Cloud,Nelson,Governor,,Dem,Paul Davis,4
-Cloud,Oakland,Governor,,Dem,Paul Davis,0
-Cloud,Shirley,Governor,,Dem,Paul Davis,15
-Cloud,Sibley,Governor,,Dem,Paul Davis,30
-Cloud,Solomon,Governor,,Dem,Paul Davis,43
-Cloud,Starr,Governor,,Dem,Paul Davis,48
-Cloud,Summitt,Governor,,Dem,Paul Davis,2
-Cloud,1st Ward,Governor,,Dem,Paul Davis,91
-Cloud,1st Pct 2nd Ward,Governor,,Dem,Paul Davis,110
-Cloud,2nd Pct 2nd Ward,Governor,,Dem,Paul Davis,116
-Cloud,3rd Ward,Governor,,Dem,Paul Davis,150
-Cloud,4th Ward,Governor,,Dem,Paul Davis,67
-Cloud,Arion,Governor,,Rep,Sam Brownback,19
-Cloud,Aurora,Governor,,Rep,Sam Brownback,28
-Cloud,Buffalo,Governor,,Rep,Sam Brownback,32
-Cloud,Center,Governor,,Rep,Sam Brownback,52
-Cloud,Colfax,Governor,,Rep,Sam Brownback,16
-Cloud,Elk,Governor,,Rep,Sam Brownback,152
-Cloud,Grant,Governor,,Rep,Sam Brownback,68
-Cloud,N. Lawrence,Governor,,Rep,Sam Brownback,13
-Cloud,S. Lawrence,Governor,,Rep,Sam Brownback,11
-Cloud,E. Lincoln,Governor,,Rep,Sam Brownback,58
-Cloud,W. Lincoln,Governor,,Rep,Sam Brownback,35
-Cloud,Lyon,Governor,,Rep,Sam Brownback,26
-Cloud,E. Meredith,Governor,,Rep,Sam Brownback,10
-Cloud,W. Meredith,Governor,,Rep,Sam Brownback,7
-Cloud,Nelson,Governor,,Rep,Sam Brownback,38
-Cloud,Oakland,Governor,,Rep,Sam Brownback,21
-Cloud,Shirley,Governor,,Rep,Sam Brownback,35
-Cloud,Sibley,Governor,,Rep,Sam Brownback,40
-Cloud,Solomon,Governor,,Rep,Sam Brownback,103
-Cloud,Starr,Governor,,Rep,Sam Brownback,126
-Cloud,Summitt,Governor,,Rep,Sam Brownback,23
-Cloud,1st Ward,Governor,,Rep,Sam Brownback,97
-Cloud,1st Pct 2nd Ward,Governor,,Rep,Sam Brownback,102
-Cloud,2nd Pct 2nd Ward,Governor,,Rep,Sam Brownback,173
-Cloud,3rd Ward,Governor,,Rep,Sam Brownback,183
-Cloud,4th Ward,Governor,,Rep,Sam Brownback,91
-Cloud,Arion,Secretary of State,,Dem,Jean Kurtis Schodorf,10
-Cloud,Aurora,Secretary of State,,Dem,Jean Kurtis Schodorf,6
-Cloud,Buffalo,Secretary of State,,Dem,Jean Kurtis Schodorf,7
-Cloud,Center,Secretary of State,,Dem,Jean Kurtis Schodorf,12
-Cloud,Colfax,Secretary of State,,Dem,Jean Kurtis Schodorf,0
-Cloud,Elk,Secretary of State,,Dem,Jean Kurtis Schodorf,91
-Cloud,Grant,Secretary of State,,Dem,Jean Kurtis Schodorf,19
-Cloud,N. Lawrence,Secretary of State,,Dem,Jean Kurtis Schodorf,5
-Cloud,S. Lawrence,Secretary of State,,Dem,Jean Kurtis Schodorf,3
-Cloud,E. Lincoln,Secretary of State,,Dem,Jean Kurtis Schodorf,19
-Cloud,W. Lincoln,Secretary of State,,Dem,Jean Kurtis Schodorf,17
-Cloud,Lyon,Secretary of State,,Dem,Jean Kurtis Schodorf,9
-Cloud,E. Meredith,Secretary of State,,Dem,Jean Kurtis Schodorf,3
-Cloud,W. Meredith,Secretary of State,,Dem,Jean Kurtis Schodorf,4
-Cloud,Nelson,Secretary of State,,Dem,Jean Kurtis Schodorf,3
-Cloud,Oakland,Secretary of State,,Dem,Jean Kurtis Schodorf,1
-Cloud,Shirley,Secretary of State,,Dem,Jean Kurtis Schodorf,11
-Cloud,Sibley,Secretary of State,,Dem,Jean Kurtis Schodorf,25
-Cloud,Solomon,Secretary of State,,Dem,Jean Kurtis Schodorf,39
-Cloud,Starr,Secretary of State,,Dem,Jean Kurtis Schodorf,39
-Cloud,Summitt,Secretary of State,,Dem,Jean Kurtis Schodorf,3
-Cloud,1st Ward,Secretary of State,,Dem,Jean Kurtis Schodorf,75
-Cloud,1st Pct 2nd Ward,Secretary of State,,Dem,Jean Kurtis Schodorf,86
-Cloud,2nd Pct 2nd Ward,Secretary of State,,Dem,Jean Kurtis Schodorf,92
-Cloud,3rd Ward,Secretary of State,,Dem,Jean Kurtis Schodorf,106
-Cloud,4th Ward,Secretary of State,,Dem,Jean Kurtis Schodorf,53
-Cloud,Arion,Secretary of State,,Rep,Kris Kobach,21
-Cloud,Aurora,Secretary of State,,Rep,Kris Kobach,35
-Cloud,Buffalo,Secretary of State,,Rep,Kris Kobach,34
-Cloud,Center,Secretary of State,,Rep,Kris Kobach,58
-Cloud,Colfax,Secretary of State,,Rep,Kris Kobach,16
-Cloud,Elk,Secretary of State,,Rep,Kris Kobach,168
-Cloud,Grant,Secretary of State,,Rep,Kris Kobach,83
-Cloud,N. Lawrence,Secretary of State,,Rep,Kris Kobach,17
-Cloud,S. Lawrence,Secretary of State,,Rep,Kris Kobach,15
-Cloud,E. Lincoln,Secretary of State,,Rep,Kris Kobach,65
-Cloud,W. Lincoln,Secretary of State,,Rep,Kris Kobach,39
-Cloud,Lyon,Secretary of State,,Rep,Kris Kobach,27
-Cloud,E. Meredith,Secretary of State,,Rep,Kris Kobach,12
-Cloud,W. Meredith,Secretary of State,,Rep,Kris Kobach,8
-Cloud,Nelson,Secretary of State,,Rep,Kris Kobach,38
-Cloud,Oakland,Secretary of State,,Rep,Kris Kobach,19
-Cloud,Shirley,Secretary of State,,Rep,Kris Kobach,41
-Cloud,Sibley,Secretary of State,,Rep,Kris Kobach,46
-Cloud,Solomon,Secretary of State,,Rep,Kris Kobach,127
-Cloud,Starr,Secretary of State,,Rep,Kris Kobach,146
-Cloud,Summitt,Secretary of State,,Rep,Kris Kobach,24
-Cloud,1st Ward,Secretary of State,,Rep,Kris Kobach,122
-Cloud,1st Pct 2nd Ward,Secretary of State,,Rep,Kris Kobach,131
-Cloud,2nd Pct 2nd Ward,Secretary of State,,Rep,Kris Kobach,204
-Cloud,3rd Ward,Secretary of State,,Rep,Kris Kobach,239
-Cloud,4th Ward,Secretary of State,,Rep,Kris Kobach,112
-Cloud,Arion,State House,107,Rep,Susan L Concannon,26
-Cloud,Aurora,State House,107,Rep,Susan L Concannon,37
-Cloud,Buffalo,State House,107,Rep,Susan L Concannon,37
-Cloud,Center,State House,107,Rep,Susan L Concannon,61
-Cloud,Colfax,State House,107,Rep,Susan L Concannon,16
-Cloud,Elk,State House,107,Rep,Susan L Concannon,212
-Cloud,Grant,State House,107,Rep,Susan L Concannon,95
-Cloud,N. Lawrence,State House,107,Rep,Susan L Concannon,19
-Cloud,S. Lawrence,State House,107,Rep,Susan L Concannon,16
-Cloud,E. Lincoln,State House,107,Rep,Susan L Concannon,76
-Cloud,W. Lincoln,State House,107,Rep,Susan L Concannon,46
-Cloud,Lyon,State House,107,Rep,Susan L Concannon,35
-Cloud,E. Meredith,State House,107,Rep,Susan L Concannon,13
-Cloud,W. Meredith,State House,107,Rep,Susan L Concannon,11
-Cloud,Nelson,State House,107,Rep,Susan L Concannon,43
-Cloud,Oakland,State House,107,Rep,Susan L Concannon,18
-Cloud,Shirley,State House,107,Rep,Susan L Concannon,44
-Cloud,Sibley,State House,107,Rep,Susan L Concannon,64
-Cloud,Solomon,State House,107,Rep,Susan L Concannon,155
-Cloud,Starr,State House,107,Rep,Susan L Concannon,167
-Cloud,Summitt,State House,107,Rep,Susan L Concannon,27
-Cloud,1st Ward,State House,107,Rep,Susan L Concannon,172
-Cloud,1st Pct 2nd Ward,State House,107,Rep,Susan L Concannon,200
-Cloud,2nd Pct 2nd Ward,State House,107,Rep,Susan L Concannon,276
-Cloud,3rd Ward,State House,107,Rep,Susan L Concannon,314
-Cloud,4th Ward,State House,107,Rep,Susan L Concannon,141
-Cloud,Arion,State Treasurer,,Dem,Carmen Alldritt,9
-Cloud,Aurora,State Treasurer,,Dem,Carmen Alldritt,5
-Cloud,Buffalo,State Treasurer,,Dem,Carmen Alldritt,3
-Cloud,Center,State Treasurer,,Dem,Carmen Alldritt,10
-Cloud,Colfax,State Treasurer,,Dem,Carmen Alldritt,1
-Cloud,Elk,State Treasurer,,Dem,Carmen Alldritt,55
-Cloud,Grant,State Treasurer,,Dem,Carmen Alldritt,13
-Cloud,N. Lawrence,State Treasurer,,Dem,Carmen Alldritt,2
-Cloud,S. Lawrence,State Treasurer,,Dem,Carmen Alldritt,4
-Cloud,E. Lincoln,State Treasurer,,Dem,Carmen Alldritt,20
-Cloud,W. Lincoln,State Treasurer,,Dem,Carmen Alldritt,20
-Cloud,Lyon,State Treasurer,,Dem,Carmen Alldritt,7
-Cloud,E. Meredith,State Treasurer,,Dem,Carmen Alldritt,1
-Cloud,W. Meredith,State Treasurer,,Dem,Carmen Alldritt,4
-Cloud,Nelson,State Treasurer,,Dem,Carmen Alldritt,6
-Cloud,Oakland,State Treasurer,,Dem,Carmen Alldritt,0
-Cloud,Shirley,State Treasurer,,Dem,Carmen Alldritt,6
-Cloud,Sibley,State Treasurer,,Dem,Carmen Alldritt,20
-Cloud,Solomon,State Treasurer,,Dem,Carmen Alldritt,33
-Cloud,Starr,State Treasurer,,Dem,Carmen Alldritt,34
-Cloud,Summitt,State Treasurer,,Dem,Carmen Alldritt,1
-Cloud,1st Ward,State Treasurer,,Dem,Carmen Alldritt,57
-Cloud,1st Pct 2nd Ward,State Treasurer,,Dem,Carmen Alldritt,63
-Cloud,2nd Pct 2nd Ward,State Treasurer,,Dem,Carmen Alldritt,68
-Cloud,3rd Ward,State Treasurer,,Dem,Carmen Alldritt,78
-Cloud,4th Ward,State Treasurer,,Dem,Carmen Alldritt,44
-Cloud,Arion,State Treasurer,,Rep,Ron Estes,22
-Cloud,Aurora,State Treasurer,,Rep,Ron Estes,35
-Cloud,Buffalo,State Treasurer,,Rep,Ron Estes,34
-Cloud,Center,State Treasurer,,Rep,Ron Estes,55
-Cloud,Colfax,State Treasurer,,Rep,Ron Estes,15
-Cloud,Elk,State Treasurer,,Rep,Ron Estes,184
-Cloud,Grant,State Treasurer,,Rep,Ron Estes,87
-Cloud,N. Lawrence,State Treasurer,,Rep,Ron Estes,17
-Cloud,S. Lawrence,State Treasurer,,Rep,Ron Estes,13
-Cloud,E. Lincoln,State Treasurer,,Rep,Ron Estes,64
-Cloud,W. Lincoln,State Treasurer,,Rep,Ron Estes,36
-Cloud,Lyon,State Treasurer,,Rep,Ron Estes,28
-Cloud,E. Meredith,State Treasurer,,Rep,Ron Estes,14
-Cloud,W. Meredith,State Treasurer,,Rep,Ron Estes,8
-Cloud,Nelson,State Treasurer,,Rep,Ron Estes,34
-Cloud,Oakland,State Treasurer,,Rep,Ron Estes,20
-Cloud,Shirley,State Treasurer,,Rep,Ron Estes,43
-Cloud,Sibley,State Treasurer,,Rep,Ron Estes,50
-Cloud,Solomon,State Treasurer,,Rep,Ron Estes,132
-Cloud,Starr,State Treasurer,,Rep,Ron Estes,148
-Cloud,Summitt,State Treasurer,,Rep,Ron Estes,25
-Cloud,1st Ward,State Treasurer,,Rep,Ron Estes,137
-Cloud,1st Pct 2nd Ward,State Treasurer,,Rep,Ron Estes,156
-Cloud,2nd Pct 2nd Ward,State Treasurer,,Rep,Ron Estes,225
-Cloud,3rd Ward,State Treasurer,,Rep,Ron Estes,262
-Cloud,4th Ward,State Treasurer,,Rep,Ron Estes,120
-Cloud,Arion,U.S. House,1,Dem,James E Sherow,7
-Cloud,Aurora,U.S. House,1,Dem,James E Sherow,13
-Cloud,Buffalo,U.S. House,1,Dem,James E Sherow,9
-Cloud,Center,U.S. House,1,Dem,James E Sherow,17
-Cloud,Colfax,U.S. House,1,Dem,James E Sherow,0
-Cloud,Elk,U.S. House,1,Dem,James E Sherow,102
-Cloud,Grant,U.S. House,1,Dem,James E Sherow,25
-Cloud,N. Lawrence,U.S. House,1,Dem,James E Sherow,5
-Cloud,S. Lawrence,U.S. House,1,Dem,James E Sherow,5
-Cloud,E. Lincoln,U.S. House,1,Dem,James E Sherow,24
-Cloud,W. Lincoln,U.S. House,1,Dem,James E Sherow,21
-Cloud,Lyon,U.S. House,1,Dem,James E Sherow,12
-Cloud,E. Meredith,U.S. House,1,Dem,James E Sherow,5
-Cloud,W. Meredith,U.S. House,1,Dem,James E Sherow,4
-Cloud,Nelson,U.S. House,1,Dem,James E Sherow,6
-Cloud,Oakland,U.S. House,1,Dem,James E Sherow,3
-Cloud,Shirley,U.S. House,1,Dem,James E Sherow,18
-Cloud,Sibley,U.S. House,1,Dem,James E Sherow,27
-Cloud,Solomon,U.S. House,1,Dem,James E Sherow,45
-Cloud,Starr,U.S. House,1,Dem,James E Sherow,37
-Cloud,Summitt,U.S. House,1,Dem,James E Sherow,1
-Cloud,1st Ward,U.S. House,1,Dem,James E Sherow,88
-Cloud,1st Pct 2nd Ward,U.S. House,1,Dem,James E Sherow,99
-Cloud,2nd Pct 2nd Ward,U.S. House,1,Dem,James E Sherow,102
-Cloud,3rd Ward,U.S. House,1,Dem,James E Sherow,121
-Cloud,4th Ward,U.S. House,1,Dem,James E Sherow,59
-Cloud,Arion,U.S. House,1,Rep,Tim Huelskamp,23
-Cloud,Aurora,U.S. House,1,Rep,Tim Huelskamp,29
-Cloud,Buffalo,U.S. House,1,Rep,Tim Huelskamp,34
-Cloud,Center,U.S. House,1,Rep,Tim Huelskamp,51
-Cloud,Colfax,U.S. House,1,Rep,Tim Huelskamp,14
-Cloud,Elk,U.S. House,1,Rep,Tim Huelskamp,147
-Cloud,Grant,U.S. House,1,Rep,Tim Huelskamp,77
-Cloud,N. Lawrence,U.S. House,1,Rep,Tim Huelskamp,16
-Cloud,S. Lawrence,U.S. House,1,Rep,Tim Huelskamp,13
-Cloud,E. Lincoln,U.S. House,1,Rep,Tim Huelskamp,58
-Cloud,W. Lincoln,U.S. House,1,Rep,Tim Huelskamp,35
-Cloud,Lyon,U.S. House,1,Rep,Tim Huelskamp,25
-Cloud,E. Meredith,U.S. House,1,Rep,Tim Huelskamp,10
-Cloud,W. Meredith,U.S. House,1,Rep,Tim Huelskamp,8
-Cloud,Nelson,U.S. House,1,Rep,Tim Huelskamp,36
-Cloud,Oakland,U.S. House,1,Rep,Tim Huelskamp,17
-Cloud,Shirley,U.S. House,1,Rep,Tim Huelskamp,33
-Cloud,Sibley,U.S. House,1,Rep,Tim Huelskamp,40
-Cloud,Solomon,U.S. House,1,Rep,Tim Huelskamp,119
-Cloud,Starr,U.S. House,1,Rep,Tim Huelskamp,148
-Cloud,Summitt,U.S. House,1,Rep,Tim Huelskamp,25
-Cloud,1st Ward,U.S. House,1,Rep,Tim Huelskamp,109
-Cloud,1st Pct 2nd Ward,U.S. House,1,Rep,Tim Huelskamp,117
-Cloud,2nd Pct 2nd Ward,U.S. House,1,Rep,Tim Huelskamp,196
-Cloud,3rd Ward,U.S. House,1,Rep,Tim Huelskamp,221
-Cloud,4th Ward,U.S. House,1,Rep,Tim Huelskamp,104
-CLOUD,Arion Township,U.S. Senate,,Rep,Pat Roberts,27
-CLOUD,Aurora Township,U.S. Senate,,Rep,Pat Roberts,36
-CLOUD,Buffalo Township,U.S. Senate,,Rep,Pat Roberts,47
-CLOUD,Center Township,U.S. Senate,,Rep,Pat Roberts,74
-CLOUD,Colfax Township,U.S. Senate,,Rep,Pat Roberts,17
-CLOUD,Concordia Ward 1,U.S. Senate,,Rep,Pat Roberts,155
-CLOUD,Concordia Ward 2 Precinct 1,U.S. Senate,,Rep,Pat Roberts,165
-CLOUD,Concordia Ward 2 Precinct 2,U.S. Senate,,Rep,Pat Roberts,244
-CLOUD,Concordia Ward 3,U.S. Senate,,Rep,Pat Roberts,275
-CLOUD,Concordia Ward 4,U.S. Senate,,Rep,Pat Roberts,127
-CLOUD,East Lincoln,U.S. Senate,,Rep,Pat Roberts,68
-CLOUD,East Meredith,U.S. Senate,,Rep,Pat Roberts,11
-CLOUD,Elk Township,U.S. Senate,,Rep,Pat Roberts,198
-CLOUD,Grant Township,U.S. Senate,,Rep,Pat Roberts,86
-CLOUD,Lyon Township,U.S. Senate,,Rep,Pat Roberts,35
-CLOUD,Nelson Township,U.S. Senate,,Rep,Pat Roberts,42
-CLOUD,North Lawrence,U.S. Senate,,Rep,Pat Roberts,26
-CLOUD,Oakland Township,U.S. Senate,,Rep,Pat Roberts,22
-CLOUD,Shirley Township,U.S. Senate,,Rep,Pat Roberts,50
-CLOUD,Sibley Township,U.S. Senate,,Rep,Pat Roberts,52
-CLOUD,Solomon Township,U.S. Senate,,Rep,Pat Roberts,123
-CLOUD,South Lawrence,U.S. Senate,,Rep,Pat Roberts,14
-CLOUD,Starr Township,U.S. Senate,,Rep,Pat Roberts,154
-CLOUD,Summit Township,U.S. Senate,,Rep,Pat Roberts,23
-CLOUD,West Lincoln,U.S. Senate,,Rep,Pat Roberts,44
-CLOUD,West Meredith,U.S. Senate,,Rep,Pat Roberts,8
-CLOUD,Arion Township,U.S. Senate,,Ind,Greg Orman,13
-CLOUD,Aurora Township,U.S. Senate,,Ind,Greg Orman,10
-CLOUD,Buffalo Township,U.S. Senate,,Ind,Greg Orman,5
-CLOUD,Center Township,U.S. Senate,,Ind,Greg Orman,12
-CLOUD,Colfax Township,U.S. Senate,,Ind,Greg Orman,0
-CLOUD,Concordia Ward 1,U.S. Senate,,Ind,Greg Orman,91
-CLOUD,Concordia Ward 2 Precinct 1,U.S. Senate,,Ind,Greg Orman,123
-CLOUD,Concordia Ward 2 Precinct 2,U.S. Senate,,Ind,Greg Orman,120
-CLOUD,Concordia Ward 3,U.S. Senate,,Ind,Greg Orman,133
-CLOUD,Concordia Ward 4,U.S. Senate,,Ind,Greg Orman,59
-CLOUD,East Lincoln,U.S. Senate,,Ind,Greg Orman,25
-CLOUD,East Meredith,U.S. Senate,,Ind,Greg Orman,7
-CLOUD,Elk Township,U.S. Senate,,Ind,Greg Orman,107
-CLOUD,Grant Township,U.S. Senate,,Ind,Greg Orman,18
-CLOUD,Lyon Township,U.S. Senate,,Ind,Greg Orman,8
-CLOUD,Nelson Township,U.S. Senate,,Ind,Greg Orman,8
-CLOUD,North Lawrence,U.S. Senate,,Ind,Greg Orman,6
-CLOUD,Oakland Township,U.S. Senate,,Ind,Greg Orman,0
-CLOUD,Shirley Township,U.S. Senate,,Ind,Greg Orman,13
-CLOUD,Sibley Township,U.S. Senate,,Ind,Greg Orman,35
-CLOUD,Solomon Township,U.S. Senate,,Ind,Greg Orman,36
-CLOUD,South Lawrence,U.S. Senate,,Ind,Greg Orman,7
-CLOUD,Starr Township,U.S. Senate,,Ind,Greg Orman,41
-CLOUD,Summit Township,U.S. Senate,,Ind,Greg Orman,5
-CLOUD,West Lincoln,U.S. Senate,,Ind,Greg Orman,20
-CLOUD,West Meredith,U.S. Senate,,Ind,Greg Orman,4
-CLOUD,Arion Township,U.S. Senate,,Lib,Randall Batson,2
-CLOUD,Aurora Township,U.S. Senate,,Lib,Randall Batson,4
-CLOUD,Buffalo Township,U.S. Senate,,Lib,Randall Batson,0
-CLOUD,Center Township,U.S. Senate,,Lib,Randall Batson,3
-CLOUD,Colfax Township,U.S. Senate,,Lib,Randall Batson,0
-CLOUD,Concordia Ward 1,U.S. Senate,,Lib,Randall Batson,12
-CLOUD,Concordia Ward 2 Precinct 1,U.S. Senate,,Lib,Randall Batson,17
-CLOUD,Concordia Ward 2 Precinct 2,U.S. Senate,,Lib,Randall Batson,16
-CLOUD,Concordia Ward 3,U.S. Senate,,Lib,Randall Batson,25
-CLOUD,Concordia Ward 4,U.S. Senate,,Lib,Randall Batson,13
-CLOUD,East Lincoln,U.S. Senate,,Lib,Randall Batson,7
-CLOUD,East Meredith,U.S. Senate,,Lib,Randall Batson,0
-CLOUD,Elk Township,U.S. Senate,,Lib,Randall Batson,15
-CLOUD,Grant Township,U.S. Senate,,Lib,Randall Batson,8
-CLOUD,Lyon Township,U.S. Senate,,Lib,Randall Batson,4
-CLOUD,Nelson Township,U.S. Senate,,Lib,Randall Batson,0
-CLOUD,North Lawrence,U.S. Senate,,Lib,Randall Batson,3
-CLOUD,Oakland Township,U.S. Senate,,Lib,Randall Batson,0
-CLOUD,Shirley Township,U.S. Senate,,Lib,Randall Batson,1
-CLOUD,Sibley Township,U.S. Senate,,Lib,Randall Batson,2
-CLOUD,Solomon Township,U.S. Senate,,Lib,Randall Batson,19
-CLOUD,South Lawrence,U.S. Senate,,Lib,Randall Batson,1
-CLOUD,Starr Township,U.S. Senate,,Lib,Randall Batson,10
-CLOUD,Summit Township,U.S. Senate,,Lib,Randall Batson,2
-CLOUD,West Lincoln,U.S. Senate,,Lib,Randall Batson,3
-CLOUD,West Meredith,U.S. Senate,,Lib,Randall Batson,1
+county,precinct,office,district,party,candidate,votes,vtd
+CLOUD,Arion Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000010
+CLOUD,Arion Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000010
+CLOUD,Arion Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",25,000010
+CLOUD,Aurora Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000020
+CLOUD,Aurora Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000020
+CLOUD,Aurora Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",32,000020
+CLOUD,Buffalo Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",11,000030
+CLOUD,Buffalo Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000030
+CLOUD,Buffalo Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",41,000030
+CLOUD,Center Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000040
+CLOUD,Center Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000040
+CLOUD,Center Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",71,000040
+CLOUD,Colfax Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000050
+CLOUD,Colfax Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000050
+CLOUD,Colfax Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",16,000050
+CLOUD,Concordia Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",111,00006A
+CLOUD,Concordia Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,00006A
+CLOUD,Concordia Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",135,00006A
+CLOUD,Concordia Ward 1 Exclave A,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",157,000070
+CLOUD,Concordia Ward 2 Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000070
+CLOUD,Concordia Ward 2 Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",141,000070
+CLOUD,Concordia Ward 2 Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",152,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",218,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00008B
+CLOUD,Concordia Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",189,000090
+CLOUD,Concordia Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,000090
+CLOUD,Concordia Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",224,000090
+CLOUD,Concordia Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",84,000100
+CLOUD,Concordia Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000100
+CLOUD,Concordia Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",107,000100
+CLOUD,East Lincoln,Governor / Lt. Governor,,Democratic,"Davis, Paul",29,00011A
+CLOUD,East Lincoln,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,00011A
+CLOUD,East Lincoln,Governor / Lt. Governor,,Republican,"Brownback, Sam",68,00011A
+CLOUD,East Lincoln Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00011B
+CLOUD,East Lincoln Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00011B
+CLOUD,East Lincoln Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00011B
+CLOUD,East Meredith,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000120
+CLOUD,East Meredith,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000120
+CLOUD,East Meredith,Governor / Lt. Governor,,Republican,"Brownback, Sam",11,000120
+CLOUD,Elk Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",124,000130
+CLOUD,Elk Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000130
+CLOUD,Elk Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",181,000130
+CLOUD,Grant Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",32,000140
+CLOUD,Grant Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000140
+CLOUD,Grant Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",73,000140
+CLOUD,Lyon Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000150
+CLOUD,Lyon Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000150
+CLOUD,Lyon Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",29,000150
+CLOUD,Nelson Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000160
+CLOUD,Nelson Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000160
+CLOUD,Nelson Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",41,000160
+CLOUD,North Lawrence,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000170
+CLOUD,North Lawrence,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000170
+CLOUD,North Lawrence,Governor / Lt. Governor,,Republican,"Brownback, Sam",24,000170
+CLOUD,Oakland Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000180
+CLOUD,Oakland Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000180
+CLOUD,Oakland Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",22,000180
+CLOUD,Shirley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",19,000190
+CLOUD,Shirley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000190
+CLOUD,Shirley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",38,000190
+CLOUD,Sibley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",41,000200
+CLOUD,Sibley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000200
+CLOUD,Sibley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",47,000200
+CLOUD,Solomon Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",49,000210
+CLOUD,Solomon Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000210
+CLOUD,Solomon Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",114,000210
+CLOUD,South Lawrence,Governor / Lt. Governor,,Democratic,"Davis, Paul",8,000220
+CLOUD,South Lawrence,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000220
+CLOUD,South Lawrence,Governor / Lt. Governor,,Republican,"Brownback, Sam",13,000220
+CLOUD,Starr Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",53,000230
+CLOUD,Starr Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000230
+CLOUD,Starr Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",140,000230
+CLOUD,Summit Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000240
+CLOUD,Summit Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000240
+CLOUD,Summit Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",26,000240
+CLOUD,West Lincoln,Governor / Lt. Governor,,Democratic,"Davis, Paul",22,000250
+CLOUD,West Lincoln,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000250
+CLOUD,West Lincoln,Governor / Lt. Governor,,Republican,"Brownback, Sam",44,000250
+CLOUD,West Meredith,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000260
+CLOUD,West Meredith,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000260
+CLOUD,West Meredith,Governor / Lt. Governor,,Republican,"Brownback, Sam",8,000260
+CLOUD,Arion Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",34,000010
+CLOUD,Aurora Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",43,000020
+CLOUD,Buffalo Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",45,000030
+CLOUD,Center Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",77,000040
+CLOUD,Colfax Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",16,000050
+CLOUD,Concordia Ward 1,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",227,00006A
+CLOUD,Concordia Ward 1 Exclave A,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",269,000070
+CLOUD,Concordia Ward 2 Precinct 2,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",348,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00008B
+CLOUD,Concordia Ward 3,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",389,000090
+CLOUD,Concordia Ward 4,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",169,000100
+CLOUD,East Lincoln,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",90,00011A
+CLOUD,East Lincoln Enclave,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",0,00011B
+CLOUD,East Meredith,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",16,000120
+CLOUD,Elk Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",256,000130
+CLOUD,Grant Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",104,000140
+CLOUD,Lyon Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",43,000150
+CLOUD,Nelson Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",48,000160
+CLOUD,North Lawrence,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",30,000170
+CLOUD,Oakland Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",19,000180
+CLOUD,Shirley Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",53,000190
+CLOUD,Sibley Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",76,000200
+CLOUD,Solomon Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",169,000210
+CLOUD,South Lawrence,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",19,000220
+CLOUD,Starr Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",185,000230
+CLOUD,Summit Township,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",28,000240
+CLOUD,West Lincoln,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",54,000250
+CLOUD,West Meredith,Kansas House of Representatives,107,Republican,"Concannon, Susan L.",12,000260
+CLOUD,Arion Township,United States House of Representatives,1,Democratic,"Sherow, James E.",11,000010
+CLOUD,Arion Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000010
+CLOUD,Aurora Township,United States House of Representatives,1,Democratic,"Sherow, James E.",13,000020
+CLOUD,Aurora Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",35,000020
+CLOUD,Buffalo Township,United States House of Representatives,1,Democratic,"Sherow, James E.",11,000030
+CLOUD,Buffalo Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",42,000030
+CLOUD,Center Township,United States House of Representatives,1,Democratic,"Sherow, James E.",19,000040
+CLOUD,Center Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",66,000040
+CLOUD,Colfax Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000050
+CLOUD,Colfax Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",14,000050
+CLOUD,Concordia Ward 1,United States House of Representatives,1,Democratic,"Sherow, James E.",113,00006A
+CLOUD,Concordia Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",143,00006A
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",146,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",156,000070
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",142,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",239,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00008B
+CLOUD,Concordia Ward 3,United States House of Representatives,1,Democratic,"Sherow, James E.",161,000090
+CLOUD,Concordia Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",261,000090
+CLOUD,Concordia Ward 4,United States House of Representatives,1,Democratic,"Sherow, James E.",77,000100
+CLOUD,Concordia Ward 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",120,000100
+CLOUD,East Lincoln,United States House of Representatives,1,Democratic,"Sherow, James E.",29,00011A
+CLOUD,East Lincoln,United States House of Representatives,1,Republican,"Huelskamp, Tim",68,00011A
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00011B
+CLOUD,East Lincoln Enclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00011B
+CLOUD,East Meredith,United States House of Representatives,1,Democratic,"Sherow, James E.",7,000120
+CLOUD,East Meredith,United States House of Representatives,1,Republican,"Huelskamp, Tim",11,000120
+CLOUD,Elk Township,United States House of Representatives,1,Democratic,"Sherow, James E.",121,000130
+CLOUD,Elk Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",180,000130
+CLOUD,Grant Township,United States House of Representatives,1,Democratic,"Sherow, James E.",27,000140
+CLOUD,Grant Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",84,000140
+CLOUD,Lyon Township,United States House of Representatives,1,Democratic,"Sherow, James E.",15,000150
+CLOUD,Lyon Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",31,000150
+CLOUD,Nelson Township,United States House of Representatives,1,Democratic,"Sherow, James E.",11,000160
+CLOUD,Nelson Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",38,000160
+CLOUD,North Lawrence,United States House of Representatives,1,Democratic,"Sherow, James E.",7,000170
+CLOUD,North Lawrence,United States House of Representatives,1,Republican,"Huelskamp, Tim",27,000170
+CLOUD,Oakland Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000180
+CLOUD,Oakland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",18,000180
+CLOUD,Shirley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",24,000190
+CLOUD,Shirley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",37,000190
+CLOUD,Sibley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",39,000200
+CLOUD,Sibley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",47,000200
+CLOUD,Solomon Township,United States House of Representatives,1,Democratic,"Sherow, James E.",50,000210
+CLOUD,Solomon Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",131,000210
+CLOUD,South Lawrence,United States House of Representatives,1,Democratic,"Sherow, James E.",8,000220
+CLOUD,South Lawrence,United States House of Representatives,1,Republican,"Huelskamp, Tim",15,000220
+CLOUD,Starr Township,United States House of Representatives,1,Democratic,"Sherow, James E.",42,000230
+CLOUD,Starr Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",163,000230
+CLOUD,Summit Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000240
+CLOUD,Summit Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",28,000240
+CLOUD,West Lincoln,United States House of Representatives,1,Democratic,"Sherow, James E.",24,000250
+CLOUD,West Lincoln,United States House of Representatives,1,Republican,"Huelskamp, Tim",43,000250
+CLOUD,West Meredith,United States House of Representatives,1,Democratic,"Sherow, James E.",5,000260
+CLOUD,West Meredith,United States House of Representatives,1,Republican,"Huelskamp, Tim",8,000260
+CLOUD,Arion Township,Attorney General,,Democratic,"Kotich, A.J.",12,000010
+CLOUD,Arion Township,Attorney General,,Republican,"Schmidt, Derek",30,000010
+CLOUD,Aurora Township,Attorney General,,Democratic,"Kotich, A.J.",9,000020
+CLOUD,Aurora Township,Attorney General,,Republican,"Schmidt, Derek",36,000020
+CLOUD,Buffalo Township,Attorney General,,Democratic,"Kotich, A.J.",5,000030
+CLOUD,Buffalo Township,Attorney General,,Republican,"Schmidt, Derek",45,000030
+CLOUD,Center Township,Attorney General,,Democratic,"Kotich, A.J.",3,000040
+CLOUD,Center Township,Attorney General,,Republican,"Schmidt, Derek",81,000040
+CLOUD,Colfax Township,Attorney General,,Democratic,"Kotich, A.J.",2,000050
+CLOUD,Colfax Township,Attorney General,,Republican,"Schmidt, Derek",14,000050
+CLOUD,Concordia Ward 1,Attorney General,,Democratic,"Kotich, A.J.",82,00006A
+CLOUD,Concordia Ward 1,Attorney General,,Republican,"Schmidt, Derek",172,00006A
+CLOUD,Concordia Ward 1 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",94,000070
+CLOUD,Concordia Ward 2 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",208,000070
+CLOUD,Concordia Ward 2 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",81,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",297,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00008B
+CLOUD,Concordia Ward 3,Attorney General,,Democratic,"Kotich, A.J.",102,000090
+CLOUD,Concordia Ward 3,Attorney General,,Republican,"Schmidt, Derek",321,000090
+CLOUD,Concordia Ward 4,Attorney General,,Democratic,"Kotich, A.J.",56,000100
+CLOUD,Concordia Ward 4,Attorney General,,Republican,"Schmidt, Derek",142,000100
+CLOUD,East Lincoln,Attorney General,,Democratic,"Kotich, A.J.",23,00011A
+CLOUD,East Lincoln,Attorney General,,Republican,"Schmidt, Derek",77,00011A
+CLOUD,East Lincoln Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00011B
+CLOUD,East Lincoln Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00011B
+CLOUD,East Meredith,Attorney General,,Democratic,"Kotich, A.J.",1,000120
+CLOUD,East Meredith,Attorney General,,Republican,"Schmidt, Derek",17,000120
+CLOUD,Elk Township,Attorney General,,Democratic,"Kotich, A.J.",72,000130
+CLOUD,Elk Township,Attorney General,,Republican,"Schmidt, Derek",224,000130
+CLOUD,Grant Township,Attorney General,,Democratic,"Kotich, A.J.",22,000140
+CLOUD,Grant Township,Attorney General,,Republican,"Schmidt, Derek",87,000140
+CLOUD,Lyon Township,Attorney General,,Democratic,"Kotich, A.J.",6,000150
+CLOUD,Lyon Township,Attorney General,,Republican,"Schmidt, Derek",39,000150
+CLOUD,Nelson Township,Attorney General,,Democratic,"Kotich, A.J.",6,000160
+CLOUD,Nelson Township,Attorney General,,Republican,"Schmidt, Derek",43,000160
+CLOUD,North Lawrence,Attorney General,,Democratic,"Kotich, A.J.",5,000170
+CLOUD,North Lawrence,Attorney General,,Republican,"Schmidt, Derek",29,000170
+CLOUD,Oakland Township,Attorney General,,Democratic,"Kotich, A.J.",1,000180
+CLOUD,Oakland Township,Attorney General,,Republican,"Schmidt, Derek",20,000180
+CLOUD,Shirley Township,Attorney General,,Democratic,"Kotich, A.J.",9,000190
+CLOUD,Shirley Township,Attorney General,,Republican,"Schmidt, Derek",52,000190
+CLOUD,Sibley Township,Attorney General,,Democratic,"Kotich, A.J.",23,000200
+CLOUD,Sibley Township,Attorney General,,Republican,"Schmidt, Derek",62,000200
+CLOUD,Solomon Township,Attorney General,,Democratic,"Kotich, A.J.",31,000210
+CLOUD,Solomon Township,Attorney General,,Republican,"Schmidt, Derek",150,000210
+CLOUD,South Lawrence,Attorney General,,Democratic,"Kotich, A.J.",8,000220
+CLOUD,South Lawrence,Attorney General,,Republican,"Schmidt, Derek",14,000220
+CLOUD,Starr Township,Attorney General,,Democratic,"Kotich, A.J.",39,000230
+CLOUD,Starr Township,Attorney General,,Republican,"Schmidt, Derek",162,000230
+CLOUD,Summit Township,Attorney General,,Democratic,"Kotich, A.J.",2,000240
+CLOUD,Summit Township,Attorney General,,Republican,"Schmidt, Derek",26,000240
+CLOUD,West Lincoln,Attorney General,,Democratic,"Kotich, A.J.",24,000250
+CLOUD,West Lincoln,Attorney General,,Republican,"Schmidt, Derek",43,000250
+CLOUD,West Meredith,Attorney General,,Democratic,"Kotich, A.J.",4,000260
+CLOUD,West Meredith,Attorney General,,Republican,"Schmidt, Derek",9,000260
+CLOUD,Arion Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,000010
+CLOUD,Arion Township,Commissioner of Insurance,,Republican,"Selzer, Ken",31,000010
+CLOUD,Aurora Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,000020
+CLOUD,Aurora Township,Commissioner of Insurance,,Republican,"Selzer, Ken",35,000020
+CLOUD,Buffalo Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000030
+CLOUD,Buffalo Township,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000030
+CLOUD,Center Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,000040
+CLOUD,Center Township,Commissioner of Insurance,,Republican,"Selzer, Ken",72,000040
+CLOUD,Colfax Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000050
+CLOUD,Colfax Township,Commissioner of Insurance,,Republican,"Selzer, Ken",15,000050
+CLOUD,Concordia Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",92,00006A
+CLOUD,Concordia Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",160,00006A
+CLOUD,Concordia Ward 1 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",109,000070
+CLOUD,Concordia Ward 2 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",188,000070
+CLOUD,Concordia Ward 2 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",119,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",244,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00008B
+CLOUD,Concordia Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",139,000090
+CLOUD,Concordia Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",276,000090
+CLOUD,Concordia Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",69,000100
+CLOUD,Concordia Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",125,000100
+CLOUD,East Lincoln,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,00011A
+CLOUD,East Lincoln,Commissioner of Insurance,,Republican,"Selzer, Ken",72,00011A
+CLOUD,East Lincoln Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00011B
+CLOUD,East Lincoln Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00011B
+CLOUD,East Meredith,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000120
+CLOUD,East Meredith,Commissioner of Insurance,,Republican,"Selzer, Ken",15,000120
+CLOUD,Elk Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",97,000130
+CLOUD,Elk Township,Commissioner of Insurance,,Republican,"Selzer, Ken",185,000130
+CLOUD,Grant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",16,000140
+CLOUD,Grant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",90,000140
+CLOUD,Lyon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,000150
+CLOUD,Lyon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",32,000150
+CLOUD,Nelson Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000160
+CLOUD,Nelson Township,Commissioner of Insurance,,Republican,"Selzer, Ken",40,000160
+CLOUD,North Lawrence,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000170
+CLOUD,North Lawrence,Commissioner of Insurance,,Republican,"Selzer, Ken",25,000170
+CLOUD,Oakland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000180
+CLOUD,Oakland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",18,000180
+CLOUD,Shirley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,000190
+CLOUD,Shirley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",42,000190
+CLOUD,Sibley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",26,000200
+CLOUD,Sibley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",56,000200
+CLOUD,Solomon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",48,000210
+CLOUD,Solomon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",127,000210
+CLOUD,South Lawrence,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,000220
+CLOUD,South Lawrence,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000220
+CLOUD,Starr Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",45,000230
+CLOUD,Starr Township,Commissioner of Insurance,,Republican,"Selzer, Ken",150,000230
+CLOUD,Summit Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000240
+CLOUD,Summit Township,Commissioner of Insurance,,Republican,"Selzer, Ken",25,000240
+CLOUD,West Lincoln,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,000250
+CLOUD,West Lincoln,Commissioner of Insurance,,Republican,"Selzer, Ken",41,000250
+CLOUD,West Meredith,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000260
+CLOUD,West Meredith,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000260
+CLOUD,Arion Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",14,000010
+CLOUD,Arion Township,Secretary of State,,Republican,"Kobach, Kris",28,000010
+CLOUD,Aurora Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000020
+CLOUD,Aurora Township,Secretary of State,,Republican,"Kobach, Kris",40,000020
+CLOUD,Buffalo Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000030
+CLOUD,Buffalo Township,Secretary of State,,Republican,"Kobach, Kris",43,000030
+CLOUD,Center Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",13,000040
+CLOUD,Center Township,Secretary of State,,Republican,"Kobach, Kris",72,000040
+CLOUD,Colfax Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000050
+CLOUD,Colfax Township,Secretary of State,,Republican,"Kobach, Kris",16,000050
+CLOUD,Concordia Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",94,00006A
+CLOUD,Concordia Ward 1,Secretary of State,,Republican,"Kobach, Kris",163,00006A
+CLOUD,Concordia Ward 1 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",130,000070
+CLOUD,Concordia Ward 2 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",174,000070
+CLOUD,Concordia Ward 2 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",131,00008A
+CLOUD,Concordia Ward 2 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",249,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00008B
+CLOUD,Concordia Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",140,000090
+CLOUD,Concordia Ward 3,Secretary of State,,Republican,"Kobach, Kris",288,000090
+CLOUD,Concordia Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",68,000100
+CLOUD,Concordia Ward 4,Secretary of State,,Republican,"Kobach, Kris",131,000100
+CLOUD,East Lincoln,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",24,00011A
+CLOUD,East Lincoln,Secretary of State,,Republican,"Kobach, Kris",76,00011A
+CLOUD,East Lincoln Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00011B
+CLOUD,East Lincoln Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00011B
+CLOUD,East Meredith,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000120
+CLOUD,East Meredith,Secretary of State,,Republican,"Kobach, Kris",14,000120
+CLOUD,Elk Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",108,000130
+CLOUD,Elk Township,Secretary of State,,Republican,"Kobach, Kris",204,000130
+CLOUD,Grant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000140
+CLOUD,Grant Township,Secretary of State,,Republican,"Kobach, Kris",90,000140
+CLOUD,Lyon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,000150
+CLOUD,Lyon Township,Secretary of State,,Republican,"Kobach, Kris",33,000150
+CLOUD,Nelson Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000160
+CLOUD,Nelson Township,Secretary of State,,Republican,"Kobach, Kris",42,000160
+CLOUD,North Lawrence,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000170
+CLOUD,North Lawrence,Secretary of State,,Republican,"Kobach, Kris",27,000170
+CLOUD,Oakland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000180
+CLOUD,Oakland Township,Secretary of State,,Republican,"Kobach, Kris",20,000180
+CLOUD,Shirley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,000190
+CLOUD,Shirley Township,Secretary of State,,Republican,"Kobach, Kris",47,000190
+CLOUD,Sibley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",34,000200
+CLOUD,Sibley Township,Secretary of State,,Republican,"Kobach, Kris",54,000200
+CLOUD,Solomon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",46,000210
+CLOUD,Solomon Township,Secretary of State,,Republican,"Kobach, Kris",136,000210
+CLOUD,South Lawrence,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000220
+CLOUD,South Lawrence,Secretary of State,,Republican,"Kobach, Kris",17,000220
+CLOUD,Starr Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",43,000230
+CLOUD,Starr Township,Secretary of State,,Republican,"Kobach, Kris",162,000230
+CLOUD,Summit Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000240
+CLOUD,Summit Township,Secretary of State,,Republican,"Kobach, Kris",27,000240
+CLOUD,West Lincoln,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",20,000250
+CLOUD,West Lincoln,Secretary of State,,Republican,"Kobach, Kris",47,000250
+CLOUD,West Meredith,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000260
+CLOUD,West Meredith,Secretary of State,,Republican,"Kobach, Kris",8,000260
+CLOUD,Arion Township,State Treasurer,,Democratic,"Alldritt, Carmen",13,000010
+CLOUD,Arion Township,State Treasurer,,Republican,"Estes, Ron",29,000010
+CLOUD,Aurora Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000020
+CLOUD,Aurora Township,State Treasurer,,Republican,"Estes, Ron",40,000020
+CLOUD,Buffalo Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000030
+CLOUD,Buffalo Township,State Treasurer,,Republican,"Estes, Ron",42,000030
+CLOUD,Center Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000040
+CLOUD,Center Township,State Treasurer,,Republican,"Estes, Ron",73,000040
+CLOUD,Colfax Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000050
+CLOUD,Colfax Township,State Treasurer,,Republican,"Estes, Ron",15,000050
+CLOUD,Concordia Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",72,00006A
+CLOUD,Concordia Ward 1,State Treasurer,,Republican,"Estes, Ron",181,00006A
+CLOUD,Concordia Ward 1 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",96,000070
+CLOUD,Concordia Ward 2 Precinct 1,State Treasurer,,Republican,"Estes, Ron",208,000070
+CLOUD,Concordia Ward 2 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",94,00008A
+CLOUD,Concordia Ward 2 Precinct 2,State Treasurer,,Republican,"Estes, Ron",281,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00008B
+CLOUD,Concordia Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",106,000090
+CLOUD,Concordia Ward 3,State Treasurer,,Republican,"Estes, Ron",316,000090
+CLOUD,Concordia Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",59,000100
+CLOUD,Concordia Ward 4,State Treasurer,,Republican,"Estes, Ron",139,000100
+CLOUD,East Lincoln,State Treasurer,,Democratic,"Alldritt, Carmen",26,00011A
+CLOUD,East Lincoln,State Treasurer,,Republican,"Estes, Ron",74,00011A
+CLOUD,East Lincoln Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00011B
+CLOUD,East Lincoln Enclave,State Treasurer,,Republican,"Estes, Ron",0,00011B
+CLOUD,East Meredith,State Treasurer,,Democratic,"Alldritt, Carmen",2,000120
+CLOUD,East Meredith,State Treasurer,,Republican,"Estes, Ron",16,000120
+CLOUD,Elk Township,State Treasurer,,Democratic,"Alldritt, Carmen",74,000130
+CLOUD,Elk Township,State Treasurer,,Republican,"Estes, Ron",216,000130
+CLOUD,Grant Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000140
+CLOUD,Grant Township,State Treasurer,,Republican,"Estes, Ron",94,000140
+CLOUD,Lyon Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000150
+CLOUD,Lyon Township,State Treasurer,,Republican,"Estes, Ron",36,000150
+CLOUD,Nelson Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000160
+CLOUD,Nelson Township,State Treasurer,,Republican,"Estes, Ron",37,000160
+CLOUD,North Lawrence,State Treasurer,,Democratic,"Alldritt, Carmen",5,000170
+CLOUD,North Lawrence,State Treasurer,,Republican,"Estes, Ron",28,000170
+CLOUD,Oakland Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000180
+CLOUD,Oakland Township,State Treasurer,,Republican,"Estes, Ron",21,000180
+CLOUD,Shirley Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000190
+CLOUD,Shirley Township,State Treasurer,,Republican,"Estes, Ron",50,000190
+CLOUD,Sibley Township,State Treasurer,,Democratic,"Alldritt, Carmen",26,000200
+CLOUD,Sibley Township,State Treasurer,,Republican,"Estes, Ron",61,000200
+CLOUD,Solomon Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000210
+CLOUD,Solomon Township,State Treasurer,,Republican,"Estes, Ron",143,000210
+CLOUD,South Lawrence,State Treasurer,,Democratic,"Alldritt, Carmen",6,000220
+CLOUD,South Lawrence,State Treasurer,,Republican,"Estes, Ron",16,000220
+CLOUD,Starr Township,State Treasurer,,Democratic,"Alldritt, Carmen",38,000230
+CLOUD,Starr Township,State Treasurer,,Republican,"Estes, Ron",164,000230
+CLOUD,Summit Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000240
+CLOUD,Summit Township,State Treasurer,,Republican,"Estes, Ron",28,000240
+CLOUD,West Lincoln,State Treasurer,,Democratic,"Alldritt, Carmen",22,000250
+CLOUD,West Lincoln,State Treasurer,,Republican,"Estes, Ron",45,000250
+CLOUD,West Meredith,State Treasurer,,Democratic,"Alldritt, Carmen",4,000260
+CLOUD,West Meredith,State Treasurer,,Republican,"Estes, Ron",9,000260
+CLOUD,Arion Township,United States Senate,,independent,"Orman, Greg",13,000010
+CLOUD,Arion Township,United States Senate,,Libertarian,"Batson, Randall",2,000010
+CLOUD,Arion Township,United States Senate,,Republican,"Roberts, Pat",27,000010
+CLOUD,Aurora Township,United States Senate,,independent,"Orman, Greg",10,000020
+CLOUD,Aurora Township,United States Senate,,Libertarian,"Batson, Randall",4,000020
+CLOUD,Aurora Township,United States Senate,,Republican,"Roberts, Pat",36,000020
+CLOUD,Buffalo Township,United States Senate,,independent,"Orman, Greg",5,000030
+CLOUD,Buffalo Township,United States Senate,,Libertarian,"Batson, Randall",0,000030
+CLOUD,Buffalo Township,United States Senate,,Republican,"Roberts, Pat",47,000030
+CLOUD,Center Township,United States Senate,,independent,"Orman, Greg",12,000040
+CLOUD,Center Township,United States Senate,,Libertarian,"Batson, Randall",3,000040
+CLOUD,Center Township,United States Senate,,Republican,"Roberts, Pat",74,000040
+CLOUD,Colfax Township,United States Senate,,independent,"Orman, Greg",0,000050
+CLOUD,Colfax Township,United States Senate,,Libertarian,"Batson, Randall",0,000050
+CLOUD,Colfax Township,United States Senate,,Republican,"Roberts, Pat",17,000050
+CLOUD,Concordia Ward 1,United States Senate,,independent,"Orman, Greg",91,00006A
+CLOUD,Concordia Ward 1,United States Senate,,Libertarian,"Batson, Randall",12,00006A
+CLOUD,Concordia Ward 1,United States Senate,,Republican,"Roberts, Pat",155,00006A
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,independent,"Orman, Greg",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,Libertarian,"Batson, Randall",0,00006B
+CLOUD,Concordia Ward 1 Exclave A,United States Senate,,Republican,"Roberts, Pat",0,00006B
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,independent,"Orman, Greg",123,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,Libertarian,"Batson, Randall",17,000070
+CLOUD,Concordia Ward 2 Precinct 1,United States Senate,,Republican,"Roberts, Pat",165,000070
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,independent,"Orman, Greg",120,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,Libertarian,"Batson, Randall",16,00008A
+CLOUD,Concordia Ward 2 Precinct 2,United States Senate,,Republican,"Roberts, Pat",244,00008A
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,independent,"Orman, Greg",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00008B
+CLOUD,Concordia Ward 2 Precinct 2 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00008B
+CLOUD,Concordia Ward 3,United States Senate,,independent,"Orman, Greg",133,000090
+CLOUD,Concordia Ward 3,United States Senate,,Libertarian,"Batson, Randall",25,000090
+CLOUD,Concordia Ward 3,United States Senate,,Republican,"Roberts, Pat",275,000090
+CLOUD,Concordia Ward 4,United States Senate,,independent,"Orman, Greg",59,000100
+CLOUD,Concordia Ward 4,United States Senate,,Libertarian,"Batson, Randall",13,000100
+CLOUD,Concordia Ward 4,United States Senate,,Republican,"Roberts, Pat",127,000100
+CLOUD,East Lincoln,United States Senate,,independent,"Orman, Greg",25,00011A
+CLOUD,East Lincoln,United States Senate,,Libertarian,"Batson, Randall",7,00011A
+CLOUD,East Lincoln,United States Senate,,Republican,"Roberts, Pat",68,00011A
+CLOUD,East Lincoln Enclave,United States Senate,,independent,"Orman, Greg",0,00011B
+CLOUD,East Lincoln Enclave,United States Senate,,Libertarian,"Batson, Randall",0,00011B
+CLOUD,East Lincoln Enclave,United States Senate,,Republican,"Roberts, Pat",0,00011B
+CLOUD,East Meredith,United States Senate,,independent,"Orman, Greg",7,000120
+CLOUD,East Meredith,United States Senate,,Libertarian,"Batson, Randall",0,000120
+CLOUD,East Meredith,United States Senate,,Republican,"Roberts, Pat",11,000120
+CLOUD,Elk Township,United States Senate,,independent,"Orman, Greg",107,000130
+CLOUD,Elk Township,United States Senate,,Libertarian,"Batson, Randall",15,000130
+CLOUD,Elk Township,United States Senate,,Republican,"Roberts, Pat",198,000130
+CLOUD,Grant Township,United States Senate,,independent,"Orman, Greg",18,000140
+CLOUD,Grant Township,United States Senate,,Libertarian,"Batson, Randall",8,000140
+CLOUD,Grant Township,United States Senate,,Republican,"Roberts, Pat",86,000140
+CLOUD,Lyon Township,United States Senate,,independent,"Orman, Greg",8,000150
+CLOUD,Lyon Township,United States Senate,,Libertarian,"Batson, Randall",4,000150
+CLOUD,Lyon Township,United States Senate,,Republican,"Roberts, Pat",35,000150
+CLOUD,Nelson Township,United States Senate,,independent,"Orman, Greg",8,000160
+CLOUD,Nelson Township,United States Senate,,Libertarian,"Batson, Randall",0,000160
+CLOUD,Nelson Township,United States Senate,,Republican,"Roberts, Pat",42,000160
+CLOUD,North Lawrence,United States Senate,,independent,"Orman, Greg",6,000170
+CLOUD,North Lawrence,United States Senate,,Libertarian,"Batson, Randall",3,000170
+CLOUD,North Lawrence,United States Senate,,Republican,"Roberts, Pat",26,000170
+CLOUD,Oakland Township,United States Senate,,independent,"Orman, Greg",0,000180
+CLOUD,Oakland Township,United States Senate,,Libertarian,"Batson, Randall",0,000180
+CLOUD,Oakland Township,United States Senate,,Republican,"Roberts, Pat",22,000180
+CLOUD,Shirley Township,United States Senate,,independent,"Orman, Greg",13,000190
+CLOUD,Shirley Township,United States Senate,,Libertarian,"Batson, Randall",1,000190
+CLOUD,Shirley Township,United States Senate,,Republican,"Roberts, Pat",50,000190
+CLOUD,Sibley Township,United States Senate,,independent,"Orman, Greg",35,000200
+CLOUD,Sibley Township,United States Senate,,Libertarian,"Batson, Randall",2,000200
+CLOUD,Sibley Township,United States Senate,,Republican,"Roberts, Pat",52,000200
+CLOUD,Solomon Township,United States Senate,,independent,"Orman, Greg",36,000210
+CLOUD,Solomon Township,United States Senate,,Libertarian,"Batson, Randall",19,000210
+CLOUD,Solomon Township,United States Senate,,Republican,"Roberts, Pat",123,000210
+CLOUD,South Lawrence,United States Senate,,independent,"Orman, Greg",7,000220
+CLOUD,South Lawrence,United States Senate,,Libertarian,"Batson, Randall",1,000220
+CLOUD,South Lawrence,United States Senate,,Republican,"Roberts, Pat",14,000220
+CLOUD,Starr Township,United States Senate,,independent,"Orman, Greg",41,000230
+CLOUD,Starr Township,United States Senate,,Libertarian,"Batson, Randall",10,000230
+CLOUD,Starr Township,United States Senate,,Republican,"Roberts, Pat",154,000230
+CLOUD,Summit Township,United States Senate,,independent,"Orman, Greg",5,000240
+CLOUD,Summit Township,United States Senate,,Libertarian,"Batson, Randall",2,000240
+CLOUD,Summit Township,United States Senate,,Republican,"Roberts, Pat",23,000240
+CLOUD,West Lincoln,United States Senate,,independent,"Orman, Greg",20,000250
+CLOUD,West Lincoln,United States Senate,,Libertarian,"Batson, Randall",3,000250
+CLOUD,West Lincoln,United States Senate,,Republican,"Roberts, Pat",44,000250
+CLOUD,West Meredith,United States Senate,,independent,"Orman, Greg",4,000260
+CLOUD,West Meredith,United States Senate,,Libertarian,"Batson, Randall",1,000260
+CLOUD,West Meredith,United States Senate,,Republican,"Roberts, Pat",8,000260

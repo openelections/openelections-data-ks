@@ -1,205 +1,290 @@
-county,precinct,office,district,party,candidate,poll
-Pratt,WARD 1,U.S. Senate,,R,Pat Roberts,237
-Pratt,WARD 2,U.S. Senate,,R,Pat Roberts,143
-Pratt,WARD 3,U.S. Senate,,R,Pat Roberts,335
-Pratt,WARD 4,U.S. Senate,,R,Pat Roberts,241
-Pratt,WARD 5,U.S. Senate,,R,Pat Roberts,249
-Pratt,TWP 6,U.S. Senate,,R,Pat Roberts,134
-Pratt,TWP 7,U.S. Senate,,R,Pat Roberts,80
-Pratt,TWP 8,U.S. Senate,,R,Pat Roberts,31
-Pratt,TWP 9,U.S. Senate,,R,Pat Roberts,83
-Pratt,TWP 10,U.S. Senate,,R,Pat Roberts,45
-Pratt,TWP 11,U.S. Senate,,R,Pat Roberts,82
-Pratt,TWP 12,U.S. Senate,,R,Pat Roberts,308
-Pratt,WARD 1,U.S. Senate,,I,Greg Orman,135
-Pratt,WARD 2,U.S. Senate,,I,Greg Orman,73
-Pratt,WARD 3,U.S. Senate,,I,Greg Orman,212
-Pratt,WARD 4,U.S. Senate,,I,Greg Orman,169
-Pratt,WARD 5,U.S. Senate,,I,Greg Orman,130
-Pratt,TWP 6,U.S. Senate,,I,Greg Orman,56
-Pratt,TWP 7,U.S. Senate,,I,Greg Orman,32
-Pratt,TWP 8,U.S. Senate,,I,Greg Orman,17
-Pratt,TWP 9,U.S. Senate,,I,Greg Orman,20
-Pratt,TWP 10,U.S. Senate,,I,Greg Orman,13
-Pratt,TWP 11,U.S. Senate,,I,Greg Orman,21
-Pratt,TWP 12,U.S. Senate,,I,Greg Orman,128
-Pratt,WARD 1,U.S. Senate,,L,Randall Batson,22
-Pratt,WARD 2,U.S. Senate,,L,Randall Batson,13
-Pratt,WARD 3,U.S. Senate,,L,Randall Batson,23
-Pratt,WARD 4,U.S. Senate,,L,Randall Batson,30
-Pratt,WARD 5,U.S. Senate,,L,Randall Batson,23
-Pratt,TWP 6,U.S. Senate,,L,Randall Batson,11
-Pratt,TWP 7,U.S. Senate,,L,Randall Batson,2
-Pratt,TWP 8,U.S. Senate,,L,Randall Batson,0
-Pratt,TWP 9,U.S. Senate,,L,Randall Batson,5
-Pratt,TWP 10,U.S. Senate,,L,Randall Batson,1
-Pratt,TWP 11,U.S. Senate,,L,Randall Batson,5
-Pratt,TWP 12,U.S. Senate,,L,Randall Batson,17
-Pratt,WARD 1,U.S. House,4,D,Perry Schuckman,87
-Pratt,WARD 2,U.S. House,4,D,Perry Schuckman,62
-Pratt,WARD 3,U.S. House,4,D,Perry Schuckman,131
-Pratt,WARD 4,U.S. House,4,D,Perry Schuckman,134
-Pratt,WARD 5,U.S. House,4,D,Perry Schuckman,80
-Pratt,TWP 6,U.S. House,4,D,Perry Schuckman,47
-Pratt,TWP 7,U.S. House,4,D,Perry Schuckman,27
-Pratt,TWP 8,U.S. House,4,D,Perry Schuckman,9
-Pratt,TWP 9,U.S. House,4,D,Perry Schuckman,19
-Pratt,TWP 10,U.S. House,4,D,Perry Schuckman,11
-Pratt,TWP 11,U.S. House,4,D,Perry Schuckman,21
-Pratt,TWP 12,U.S. House,4,D,Perry Schuckman,87
-Pratt,WARD 1,U.S. House,4,R,Mike Pompeo,297
-Pratt,WARD 2,U.S. House,4,R,Mike Pompeo,166
-Pratt,WARD 3,U.S. House,4,R,Mike Pompeo,435
-Pratt,WARD 4,U.S. House,4,R,Mike Pompeo,297
-Pratt,WARD 5,U.S. House,4,R,Mike Pompeo,316
-Pratt,TWP 6,U.S. House,4,R,Mike Pompeo,148
-Pratt,TWP 7,U.S. House,4,R,Mike Pompeo,84
-Pratt,TWP 8,U.S. House,4,R,Mike Pompeo,38
-Pratt,TWP 9,U.S. House,4,R,Mike Pompeo,89
-Pratt,TWP 10,U.S. House,4,R,Mike Pompeo,45
-Pratt,TWP 11,U.S. House,4,R,Mike Pompeo,86
-Pratt,TWP 12,U.S. House,4,R,Mike Pompeo,362
-Pratt,WARD 1,Governor,,R,Sam Brownback,212
-Pratt,WARD 2,Governor,,R,Sam Brownback,131
-Pratt,WARD 3,Governor,,R,Sam Brownback,265
-Pratt,WARD 4,Governor,,R,Sam Brownback,218
-Pratt,WARD 5,Governor,,R,Sam Brownback,224
-Pratt,TWP 6,Governor,,R,Sam Brownback,125
-Pratt,TWP 7,Governor,,R,Sam Brownback,68
-Pratt,TWP 8,Governor,,R,Sam Brownback,27
-Pratt,TWP 9,Governor,,R,Sam Brownback,75
-Pratt,TWP 10,Governor,,R,Sam Brownback,41
-Pratt,TWP 11,Governor,,R,Sam Brownback,75
-Pratt,TWP 12,Governor,,R,Sam Brownback,258
-Pratt,WARD 1,Governor,,D,Paul Davis,165
-Pratt,WARD 2,Governor,,D,Paul Davis,90
-Pratt,WARD 3,Governor,,D,Paul Davis,287
-Pratt,WARD 4,Governor,,D,Paul Davis,203
-Pratt,WARD 5,Governor,,D,Paul Davis,164
-Pratt,TWP 6,Governor,,D,Paul Davis,70
-Pratt,TWP 7,Governor,,D,Paul Davis,39
-Pratt,TWP 8,Governor,,D,Paul Davis,20
-Pratt,TWP 9,Governor,,D,Paul Davis,30
-Pratt,TWP 10,Governor,,D,Paul Davis,16
-Pratt,TWP 11,Governor,,D,Paul Davis,29
-Pratt,TWP 12,Governor,,D,Paul Davis,185
-Pratt,WARD 1,Governor,,L,Keen Umbehr,20
-Pratt,WARD 2,Governor,,L,Keen Umbehr,12
-Pratt,WARD 3,Governor,,L,Keen Umbehr,26
-Pratt,WARD 4,Governor,,L,Keen Umbehr,21
-Pratt,WARD 5,Governor,,L,Keen Umbehr,17
-Pratt,TWP 6,Governor,,L,Keen Umbehr,7
-Pratt,TWP 7,Governor,,L,Keen Umbehr,7
-Pratt,TWP 8,Governor,,L,Keen Umbehr,0
-Pratt,TWP 9,Governor,,L,Keen Umbehr,3
-Pratt,TWP 10,Governor,,L,Keen Umbehr,2
-Pratt,TWP 11,Governor,,L,Keen Umbehr,5
-Pratt,TWP 12,Governor,,L,Keen Umbehr,13
-Pratt,WARD 1,Secretary of  State,,D,Jean Schodorf,126
-Pratt,WARD 2,Secretary of  State,,D,Jean Schodorf,74
-Pratt,WARD 3,Secretary of  State,,D,Jean Schodorf,193
-Pratt,WARD 4,Secretary of  State,,D,Jean Schodorf,169
-Pratt,WARD 5,Secretary of  State,,D,Jean Schodorf,129
-Pratt,TWP 6,Secretary of  State,,D,Jean Schodorf,60
-Pratt,TWP 7,Secretary of  State,,D,Jean Schodorf,34
-Pratt,TWP 8,Secretary of  State,,D,Jean Schodorf,29
-Pratt,TWP 9,Secretary of  State,,D,Jean Schodorf,22
-Pratt,TWP 10,Secretary of  State,,D,Jean Schodorf,13
-Pratt,TWP 11,Secretary of  State,,D,Jean Schodorf,22
-Pratt,TWP 12,Secretary of  State,,D,Jean Schodorf,134
-Pratt,WARD 1,Secretary of  State,,R,Kris Kobach,265
-Pratt,WARD 2,Secretary of  State,,R,Kris Kobach,154
-Pratt,WARD 3,Secretary of  State,,R,Kris Kobach,366
-Pratt,WARD 4,Secretary of  State,,R,Kris Kobach,265
-Pratt,WARD 5,Secretary of  State,,R,Kris Kobach,267
-Pratt,TWP 6,Secretary of  State,,R,Kris Kobach,141
-Pratt,TWP 7,Secretary of  State,,R,Kris Kobach,77
-Pratt,TWP 8,Secretary of  State,,R,Kris Kobach,27
-Pratt,TWP 9,Secretary of  State,,R,Kris Kobach,85
-Pratt,TWP 10,Secretary of  State,,R,Kris Kobach,45
-Pratt,TWP 11,Secretary of  State,,R,Kris Kobach,84
-Pratt,TWP 12,Secretary of  State,,R,Kris Kobach,314
-Pratt,WARD 1,Attorney General,,R,Derek Schmidt,310
-Pratt,WARD 2,Attorney General,,R,Derek Schmidt,174
-Pratt,WARD 3,Attorney General,,R,Derek Schmidt,440
-Pratt,WARD 4,Attorney General,,R,Derek Schmidt,329
-Pratt,WARD 5,Attorney General,,R,Derek Schmidt,322
-Pratt,TWP 6,Attorney General,,R,Derek Schmidt,162
-Pratt,TWP 7,Attorney General,,R,Derek Schmidt,91
-Pratt,TWP 8,Attorney General,,R,Derek Schmidt,41
-Pratt,TWP 9,Attorney General,,R,Derek Schmidt,88
-Pratt,TWP 10,Attorney General,,R,Derek Schmidt,48
-Pratt,TWP 11,Attorney General,,R,Derek Schmidt,89
-Pratt,TWP 12,Attorney General,,R,Derek Schmidt,369
-Pratt,WARD 1,Attorney General,,D,AJ Kotich,76
-Pratt,WARD 2,Attorney General,,D,AJ Kotich,52
-Pratt,WARD 3,Attorney General,,D,AJ Kotich,112
-Pratt,WARD 4,Attorney General,,D,AJ Kotich,103
-Pratt,WARD 5,Attorney General,,D,AJ Kotich,67
-Pratt,TWP 6,Attorney General,,D,AJ Kotich,35
-Pratt,TWP 7,Attorney General,,D,AJ Kotich,18
-Pratt,TWP 8,Attorney General,,D,AJ Kotich,4
-Pratt,TWP 9,Attorney General,,D,AJ Kotich,17
-Pratt,TWP 10,Attorney General,,D,AJ Kotich,8
-Pratt,TWP 11,Attorney General,,D,AJ Kotich,16
-Pratt,TWP 12,Attorney General,,D,AJ Kotich,69
-Pratt,WARD 1,State Treasurer,,R,Ron Estes,311
-Pratt,WARD 2,State Treasurer,,R,Ron Estes,170
-Pratt,WARD 3,State Treasurer,,R,Ron Estes,444
-Pratt,WARD 4,State Treasurer,,R,Ron Estes,317
-Pratt,WARD 5,State Treasurer,,R,Ron Estes,322
-Pratt,TWP 6,State Treasurer,,R,Ron Estes,163
-Pratt,TWP 7,State Treasurer,,R,Ron Estes,89
-Pratt,TWP 8,State Treasurer,,R,Ron Estes,43
-Pratt,TWP 9,State Treasurer,,R,Ron Estes,90
-Pratt,TWP 10,State Treasurer,,R,Ron Estes,51
-Pratt,TWP 11,State Treasurer,,R,Ron Estes,91
-Pratt,TWP 12,State Treasurer,,R,Ron Estes,378
-Pratt,WARD 1,State Treasurer,,D,Carmen Alldritt,75
-Pratt,WARD 2,State Treasurer,,D,Carmen Alldritt,53
-Pratt,WARD 3,State Treasurer,,D,Carmen Alldritt,105
-Pratt,WARD 4,State Treasurer,,D,Carmen Alldritt,108
-Pratt,WARD 5,State Treasurer,,D,Carmen Alldritt,66
-Pratt,TWP 6,State Treasurer,,D,Carmen Alldritt,34
-Pratt,TWP 7,State Treasurer,,D,Carmen Alldritt,23
-Pratt,TWP 8,State Treasurer,,D,Carmen Alldritt,2
-Pratt,TWP 9,State Treasurer,,D,Carmen Alldritt,17
-Pratt,TWP 10,State Treasurer,,D,Carmen Alldritt,6
-Pratt,TWP 11,State Treasurer,,D,Carmen Alldritt,14
-Pratt,TWP 12,State Treasurer,,D,Carmen Alldritt,68
-Pratt,WARD 1,Insurance Commissioner,,R,Ken Selzer,273
-Pratt,WARD 2,Insurance Commissioner,,R,Ken Selzer,161
-Pratt,WARD 3,Insurance Commissioner,,R,Ken Selzer,391
-Pratt,WARD 4,Insurance Commissioner,,R,Ken Selzer,282
-Pratt,WARD 5,Insurance Commissioner,,R,Ken Selzer,283
-Pratt,TWP 6,Insurance Commissioner,,R,Ken Selzer,146
-Pratt,TWP 7,Insurance Commissioner,,R,Ken Selzer,84
-Pratt,TWP 8,Insurance Commissioner,,R,Ken Selzer,38
-Pratt,TWP 9,Insurance Commissioner,,R,Ken Selzer,87
-Pratt,TWP 10,Insurance Commissioner,,R,Ken Selzer,49
-Pratt,TWP 11,Insurance Commissioner,,R,Ken Selzer,83
-Pratt,TWP 12,Insurance Commissioner,,R,Ken Selzer,326
-Pratt,WARD 1,Insurance Commissioner,,D,Dennis Anderson,102
-Pratt,WARD 2,Insurance Commissioner,,D,Dennis Anderson,61
-Pratt,WARD 3,Insurance Commissioner,,D,Dennis Anderson,153
-Pratt,WARD 4,Insurance Commissioner,,D,Dennis Anderson,134
-Pratt,WARD 5,Insurance Commissioner,,D,Dennis Anderson,90
-Pratt,TWP 6,Insurance Commissioner,,D,Dennis Anderson,46
-Pratt,TWP 7,Insurance Commissioner,,D,Dennis Anderson,26
-Pratt,TWP 8,Insurance Commissioner,,D,Dennis Anderson,5
-Pratt,TWP 9,Insurance Commissioner,,D,Dennis Anderson,17
-Pratt,TWP 10,Insurance Commissioner,,D,Dennis Anderson,6
-Pratt,TWP 11,Insurance Commissioner,,D,Dennis Anderson,20
-Pratt,TWP 12,Insurance Commissioner,,D,Dennis Anderson,103
-Pratt,WARD 1,State House,113,R,Jeremy Dannebohm,324
-Pratt,WARD 2,State House,113,R,Jeremy Dannebohm,189
-Pratt,WARD 3,State House,113,R,Jeremy Dannebohm,456
-Pratt,WARD 4,State House,113,R,Jeremy Dannebohm,337
-Pratt,WARD 5,State House,113,R,Jeremy Dannebohm,322
-Pratt,TWP 6,State House,113,R,Jeremy Dannebohm,163
-Pratt,TWP 7,State House,113,R,Jeremy Dannebohm,90
-Pratt,TWP 8,State House,113,R,Jeremy Dannebohm,37
-Pratt,TWP 9,State House,113,R,Jeremy Dannebohm,91
-Pratt,TWP 10,State House,113,R,Jeremy Dannebohm,51
-Pratt,TWP 11,State House,113,R,Jeremy Dannebohm,89
-Pratt,TWP 12,State House,113,R,Jeremy Dannebohm,369
+county,precinct,office,district,party,candidate,votes,vtd
+PRATT,Pratt Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",165,00001A
+PRATT,Pratt Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",20,00001A
+PRATT,Pratt Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",212,00001A
+PRATT,Pratt Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",90,00002A
+PRATT,Pratt Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",12,00002A
+PRATT,Pratt Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",131,00002A
+PRATT,Pratt Ward 2 Exclave Airport,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00002B
+PRATT,Pratt Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",287,000030
+PRATT,Pratt Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",26,000030
+PRATT,Pratt Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",265,000030
+PRATT,Pratt Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",203,00004A
+PRATT,Pratt Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",21,00004A
+PRATT,Pratt Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",218,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00004C
+PRATT,Pratt Ward 5,Governor / Lt. Governor,,Democratic,"Davis, Paul",164,00005A
+PRATT,Pratt Ward 5,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,00005A
+PRATT,Pratt Ward 5,Governor / Lt. Governor,,Republican,"Brownback, Sam",224,00005A
+PRATT,Pratt Ward Exclave Pratt College,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00005B
+PRATT,Township 6,Governor / Lt. Governor,,Democratic,"Davis, Paul",70,000060
+PRATT,Township 6,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000060
+PRATT,Township 6,Governor / Lt. Governor,,Republican,"Brownback, Sam",125,000060
+PRATT,Township 7,Governor / Lt. Governor,,Democratic,"Davis, Paul",39,000070
+PRATT,Township 7,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000070
+PRATT,Township 7,Governor / Lt. Governor,,Republican,"Brownback, Sam",68,000070
+PRATT,Township 8,Governor / Lt. Governor,,Democratic,"Davis, Paul",20,000080
+PRATT,Township 8,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000080
+PRATT,Township 8,Governor / Lt. Governor,,Republican,"Brownback, Sam",27,000080
+PRATT,Township 9,Governor / Lt. Governor,,Democratic,"Davis, Paul",30,000090
+PRATT,Township 9,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000090
+PRATT,Township 9,Governor / Lt. Governor,,Republican,"Brownback, Sam",75,000090
+PRATT,Township 10,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000100
+PRATT,Township 10,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000100
+PRATT,Township 10,Governor / Lt. Governor,,Republican,"Brownback, Sam",41,000100
+PRATT,Township 11,Governor / Lt. Governor,,Democratic,"Davis, Paul",29,000110
+PRATT,Township 11,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000110
+PRATT,Township 11,Governor / Lt. Governor,,Republican,"Brownback, Sam",75,000110
+PRATT,Township 12,Governor / Lt. Governor,,Democratic,"Davis, Paul",185,00012A
+PRATT,Township 12,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,00012A
+PRATT,Township 12,Governor / Lt. Governor,,Republican,"Brownback, Sam",258,00012A
+PRATT,Township 12 Enclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00012B
+PRATT,Township 12 Enclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00012B
+PRATT,Township 12 Enclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00012B
+PRATT,Pratt Ward 1,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",324,00001A
+PRATT,Pratt Ward 2,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",189,00002A
+PRATT,Pratt Ward 2 Exclave Airport,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",0,00002B
+PRATT,Pratt Ward 3,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",456,000030
+PRATT,Pratt Ward 4,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",337,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",0,00004C
+PRATT,Pratt Ward 5,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",322,00005A
+PRATT,Pratt Ward Exclave Pratt College,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",0,00005B
+PRATT,Township 6,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",163,000060
+PRATT,Township 7,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",90,000070
+PRATT,Township 8,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",37,000080
+PRATT,Township 9,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",91,000090
+PRATT,Township 10,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",51,000100
+PRATT,Township 11,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",89,000110
+PRATT,Township 12,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",369,00012A
+PRATT,Township 12 Enclave,Kansas House of Representatives,113,Republican,"Dannebohm, Jeremy ""Basil""",0,00012B
+PRATT,Pratt Ward 1,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",87,00001A
+PRATT,Pratt Ward 1,United States House of Representatives,4,Republican,"Pompeo, Mike",297,00001A
+PRATT,Pratt Ward 2,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",62,00002A
+PRATT,Pratt Ward 2,United States House of Representatives,4,Republican,"Pompeo, Mike",166,00002A
+PRATT,Pratt Ward 2 Exclave Airport,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,United States House of Representatives,4,Republican,"Pompeo, Mike",0,00002B
+PRATT,Pratt Ward 3,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",131,000030
+PRATT,Pratt Ward 3,United States House of Representatives,4,Republican,"Pompeo, Mike",435,000030
+PRATT,Pratt Ward 4,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",134,00004A
+PRATT,Pratt Ward 4,United States House of Representatives,4,Republican,"Pompeo, Mike",297,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,United States House of Representatives,4,Republican,"Pompeo, Mike",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,United States House of Representatives,4,Republican,"Pompeo, Mike",0,00004C
+PRATT,Pratt Ward 5,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",80,00005A
+PRATT,Pratt Ward 5,United States House of Representatives,4,Republican,"Pompeo, Mike",316,00005A
+PRATT,Pratt Ward Exclave Pratt College,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,United States House of Representatives,4,Republican,"Pompeo, Mike",0,00005B
+PRATT,Township 6,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",47,000060
+PRATT,Township 6,United States House of Representatives,4,Republican,"Pompeo, Mike",148,000060
+PRATT,Township 7,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",27,000070
+PRATT,Township 7,United States House of Representatives,4,Republican,"Pompeo, Mike",84,000070
+PRATT,Township 8,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",9,000080
+PRATT,Township 8,United States House of Representatives,4,Republican,"Pompeo, Mike",38,000080
+PRATT,Township 9,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",19,000090
+PRATT,Township 9,United States House of Representatives,4,Republican,"Pompeo, Mike",89,000090
+PRATT,Township 10,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",11,000100
+PRATT,Township 10,United States House of Representatives,4,Republican,"Pompeo, Mike",45,000100
+PRATT,Township 11,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",21,000110
+PRATT,Township 11,United States House of Representatives,4,Republican,"Pompeo, Mike",86,000110
+PRATT,Township 12,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",87,00012A
+PRATT,Township 12,United States House of Representatives,4,Republican,"Pompeo, Mike",362,00012A
+PRATT,Township 12 Enclave,United States House of Representatives,4,Democratic,"Schuckman, Perry L.",0,00012B
+PRATT,Township 12 Enclave,United States House of Representatives,4,Republican,"Pompeo, Mike",0,00012B
+PRATT,Pratt Ward 1,Attorney General,,Democratic,"Kotich, A.J.",76,00001A
+PRATT,Pratt Ward 1,Attorney General,,Republican,"Schmidt, Derek",310,00001A
+PRATT,Pratt Ward 2,Attorney General,,Democratic,"Kotich, A.J.",52,00002A
+PRATT,Pratt Ward 2,Attorney General,,Republican,"Schmidt, Derek",174,00002A
+PRATT,Pratt Ward 2 Exclave Airport,Attorney General,,Democratic,"Kotich, A.J.",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,Attorney General,,Republican,"Schmidt, Derek",0,00002B
+PRATT,Pratt Ward 3,Attorney General,,Democratic,"Kotich, A.J.",112,000030
+PRATT,Pratt Ward 3,Attorney General,,Republican,"Schmidt, Derek",440,000030
+PRATT,Pratt Ward 4,Attorney General,,Democratic,"Kotich, A.J.",103,00004A
+PRATT,Pratt Ward 4,Attorney General,,Republican,"Schmidt, Derek",329,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Attorney General,,Democratic,"Kotich, A.J.",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Attorney General,,Republican,"Schmidt, Derek",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,Attorney General,,Democratic,"Kotich, A.J.",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,Attorney General,,Republican,"Schmidt, Derek",0,00004C
+PRATT,Pratt Ward 5,Attorney General,,Democratic,"Kotich, A.J.",67,00005A
+PRATT,Pratt Ward 5,Attorney General,,Republican,"Schmidt, Derek",322,00005A
+PRATT,Pratt Ward Exclave Pratt College,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+PRATT,Township 6,Attorney General,,Democratic,"Kotich, A.J.",35,000060
+PRATT,Township 6,Attorney General,,Republican,"Schmidt, Derek",162,000060
+PRATT,Township 7,Attorney General,,Democratic,"Kotich, A.J.",18,000070
+PRATT,Township 7,Attorney General,,Republican,"Schmidt, Derek",91,000070
+PRATT,Township 8,Attorney General,,Democratic,"Kotich, A.J.",4,000080
+PRATT,Township 8,Attorney General,,Republican,"Schmidt, Derek",41,000080
+PRATT,Township 9,Attorney General,,Democratic,"Kotich, A.J.",17,000090
+PRATT,Township 9,Attorney General,,Republican,"Schmidt, Derek",88,000090
+PRATT,Township 10,Attorney General,,Democratic,"Kotich, A.J.",8,000100
+PRATT,Township 10,Attorney General,,Republican,"Schmidt, Derek",48,000100
+PRATT,Township 11,Attorney General,,Democratic,"Kotich, A.J.",16,000110
+PRATT,Township 11,Attorney General,,Republican,"Schmidt, Derek",89,000110
+PRATT,Township 12,Attorney General,,Democratic,"Kotich, A.J.",69,00012A
+PRATT,Township 12,Attorney General,,Republican,"Schmidt, Derek",369,00012A
+PRATT,Township 12 Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00012B
+PRATT,Township 12 Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00012B
+PRATT,Pratt Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",102,00001A
+PRATT,Pratt Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",273,00001A
+PRATT,Pratt Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",61,00002A
+PRATT,Pratt Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",161,00002A
+PRATT,Pratt Ward 2 Exclave Airport,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00002B
+PRATT,Pratt Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",153,000030
+PRATT,Pratt Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",391,000030
+PRATT,Pratt Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",134,00004A
+PRATT,Pratt Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",282,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00004C
+PRATT,Pratt Ward 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",90,00005A
+PRATT,Pratt Ward 5,Commissioner of Insurance,,Republican,"Selzer, Ken",283,00005A
+PRATT,Pratt Ward Exclave Pratt College,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+PRATT,Township 6,Commissioner of Insurance,,Democratic,"Anderson, Dennis",46,000060
+PRATT,Township 6,Commissioner of Insurance,,Republican,"Selzer, Ken",146,000060
+PRATT,Township 7,Commissioner of Insurance,,Democratic,"Anderson, Dennis",26,000070
+PRATT,Township 7,Commissioner of Insurance,,Republican,"Selzer, Ken",84,000070
+PRATT,Township 8,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000080
+PRATT,Township 8,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000080
+PRATT,Township 9,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000090
+PRATT,Township 9,Commissioner of Insurance,,Republican,"Selzer, Ken",87,000090
+PRATT,Township 10,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000100
+PRATT,Township 10,Commissioner of Insurance,,Republican,"Selzer, Ken",49,000100
+PRATT,Township 11,Commissioner of Insurance,,Democratic,"Anderson, Dennis",20,000110
+PRATT,Township 11,Commissioner of Insurance,,Republican,"Selzer, Ken",83,000110
+PRATT,Township 12,Commissioner of Insurance,,Democratic,"Anderson, Dennis",103,00012A
+PRATT,Township 12,Commissioner of Insurance,,Republican,"Selzer, Ken",326,00012A
+PRATT,Township 12 Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00012B
+PRATT,Township 12 Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00012B
+PRATT,Pratt Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",126,00001A
+PRATT,Pratt Ward 1,Secretary of State,,Republican,"Kobach, Kris",265,00001A
+PRATT,Pratt Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",74,00002A
+PRATT,Pratt Ward 2,Secretary of State,,Republican,"Kobach, Kris",154,00002A
+PRATT,Pratt Ward 2 Exclave Airport,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,Secretary of State,,Republican,"Kobach, Kris",0,00002B
+PRATT,Pratt Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",193,000030
+PRATT,Pratt Ward 3,Secretary of State,,Republican,"Kobach, Kris",366,000030
+PRATT,Pratt Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",169,00004A
+PRATT,Pratt Ward 4,Secretary of State,,Republican,"Kobach, Kris",265,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,Secretary of State,,Republican,"Kobach, Kris",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,Secretary of State,,Republican,"Kobach, Kris",0,00004C
+PRATT,Pratt Ward 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",129,00005A
+PRATT,Pratt Ward 5,Secretary of State,,Republican,"Kobach, Kris",267,00005A
+PRATT,Pratt Ward Exclave Pratt College,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+PRATT,Township 6,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",60,000060
+PRATT,Township 6,Secretary of State,,Republican,"Kobach, Kris",141,000060
+PRATT,Township 7,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",34,000070
+PRATT,Township 7,Secretary of State,,Republican,"Kobach, Kris",77,000070
+PRATT,Township 8,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000080
+PRATT,Township 8,Secretary of State,,Republican,"Kobach, Kris",27,000080
+PRATT,Township 9,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000090
+PRATT,Township 9,Secretary of State,,Republican,"Kobach, Kris",85,000090
+PRATT,Township 10,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",13,000100
+PRATT,Township 10,Secretary of State,,Republican,"Kobach, Kris",45,000100
+PRATT,Township 11,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000110
+PRATT,Township 11,Secretary of State,,Republican,"Kobach, Kris",84,000110
+PRATT,Township 12,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",134,00012A
+PRATT,Township 12,Secretary of State,,Republican,"Kobach, Kris",314,00012A
+PRATT,Township 12 Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00012B
+PRATT,Township 12 Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00012B
+PRATT,Pratt Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",75,00001A
+PRATT,Pratt Ward 1,State Treasurer,,Republican,"Estes, Ron",311,00001A
+PRATT,Pratt Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",53,00002A
+PRATT,Pratt Ward 2,State Treasurer,,Republican,"Estes, Ron",170,00002A
+PRATT,Pratt Ward 2 Exclave Airport,State Treasurer,,Democratic,"Alldritt, Carmen",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,State Treasurer,,Republican,"Estes, Ron",0,00002B
+PRATT,Pratt Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",105,000030
+PRATT,Pratt Ward 3,State Treasurer,,Republican,"Estes, Ron",444,000030
+PRATT,Pratt Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",108,00004A
+PRATT,Pratt Ward 4,State Treasurer,,Republican,"Estes, Ron",317,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,State Treasurer,,Democratic,"Alldritt, Carmen",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,State Treasurer,,Republican,"Estes, Ron",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,State Treasurer,,Democratic,"Alldritt, Carmen",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,State Treasurer,,Republican,"Estes, Ron",0,00004C
+PRATT,Pratt Ward 5,State Treasurer,,Democratic,"Alldritt, Carmen",66,00005A
+PRATT,Pratt Ward 5,State Treasurer,,Republican,"Estes, Ron",322,00005A
+PRATT,Pratt Ward Exclave Pratt College,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,State Treasurer,,Republican,"Estes, Ron",0,00005B
+PRATT,Township 6,State Treasurer,,Democratic,"Alldritt, Carmen",34,000060
+PRATT,Township 6,State Treasurer,,Republican,"Estes, Ron",163,000060
+PRATT,Township 7,State Treasurer,,Democratic,"Alldritt, Carmen",23,000070
+PRATT,Township 7,State Treasurer,,Republican,"Estes, Ron",89,000070
+PRATT,Township 8,State Treasurer,,Democratic,"Alldritt, Carmen",2,000080
+PRATT,Township 8,State Treasurer,,Republican,"Estes, Ron",43,000080
+PRATT,Township 9,State Treasurer,,Democratic,"Alldritt, Carmen",17,000090
+PRATT,Township 9,State Treasurer,,Republican,"Estes, Ron",90,000090
+PRATT,Township 10,State Treasurer,,Democratic,"Alldritt, Carmen",6,000100
+PRATT,Township 10,State Treasurer,,Republican,"Estes, Ron",51,000100
+PRATT,Township 11,State Treasurer,,Democratic,"Alldritt, Carmen",14,000110
+PRATT,Township 11,State Treasurer,,Republican,"Estes, Ron",91,000110
+PRATT,Township 12,State Treasurer,,Democratic,"Alldritt, Carmen",68,00012A
+PRATT,Township 12,State Treasurer,,Republican,"Estes, Ron",378,00012A
+PRATT,Township 12 Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00012B
+PRATT,Township 12 Enclave,State Treasurer,,Republican,"Estes, Ron",0,00012B
+PRATT,Pratt Ward 1,United States Senate,,independent,"Orman, Greg",135,00001A
+PRATT,Pratt Ward 1,United States Senate,,Libertarian,"Batson, Randall",22,00001A
+PRATT,Pratt Ward 1,United States Senate,,Republican,"Roberts, Pat",237,00001A
+PRATT,Pratt Ward 2,United States Senate,,independent,"Orman, Greg",73,00002A
+PRATT,Pratt Ward 2,United States Senate,,Libertarian,"Batson, Randall",13,00002A
+PRATT,Pratt Ward 2,United States Senate,,Republican,"Roberts, Pat",143,00002A
+PRATT,Pratt Ward 2 Exclave Airport,United States Senate,,independent,"Orman, Greg",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,United States Senate,,Libertarian,"Batson, Randall",0,00002B
+PRATT,Pratt Ward 2 Exclave Airport,United States Senate,,Republican,"Roberts, Pat",0,00002B
+PRATT,Pratt Ward 3,United States Senate,,independent,"Orman, Greg",212,000030
+PRATT,Pratt Ward 3,United States Senate,,Libertarian,"Batson, Randall",23,000030
+PRATT,Pratt Ward 3,United States Senate,,Republican,"Roberts, Pat",335,000030
+PRATT,Pratt Ward 4,United States Senate,,independent,"Orman, Greg",169,00004A
+PRATT,Pratt Ward 4,United States Senate,,Libertarian,"Batson, Randall",30,00004A
+PRATT,Pratt Ward 4,United States Senate,,Republican,"Roberts, Pat",241,00004A
+PRATT,Pratt Ward 4 Exclave Sewer Plant,United States Senate,,independent,"Orman, Greg",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,United States Senate,,Libertarian,"Batson, Randall",0,00004B
+PRATT,Pratt Ward 4 Exclave Sewer Plant,United States Senate,,Republican,"Roberts, Pat",0,00004B
+PRATT,Pratt Ward 4 Exclave Withers,United States Senate,,independent,"Orman, Greg",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,United States Senate,,Libertarian,"Batson, Randall",0,00004C
+PRATT,Pratt Ward 4 Exclave Withers,United States Senate,,Republican,"Roberts, Pat",0,00004C
+PRATT,Pratt Ward 5,United States Senate,,independent,"Orman, Greg",130,00005A
+PRATT,Pratt Ward 5,United States Senate,,Libertarian,"Batson, Randall",23,00005A
+PRATT,Pratt Ward 5,United States Senate,,Republican,"Roberts, Pat",249,00005A
+PRATT,Pratt Ward Exclave Pratt College,United States Senate,,independent,"Orman, Greg",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,United States Senate,,Libertarian,"Batson, Randall",0,00005B
+PRATT,Pratt Ward Exclave Pratt College,United States Senate,,Republican,"Roberts, Pat",0,00005B
+PRATT,Township 6,United States Senate,,independent,"Orman, Greg",56,000060
+PRATT,Township 6,United States Senate,,Libertarian,"Batson, Randall",11,000060
+PRATT,Township 6,United States Senate,,Republican,"Roberts, Pat",134,000060
+PRATT,Township 7,United States Senate,,independent,"Orman, Greg",32,000070
+PRATT,Township 7,United States Senate,,Libertarian,"Batson, Randall",2,000070
+PRATT,Township 7,United States Senate,,Republican,"Roberts, Pat",80,000070
+PRATT,Township 8,United States Senate,,independent,"Orman, Greg",17,000080
+PRATT,Township 8,United States Senate,,Libertarian,"Batson, Randall",0,000080
+PRATT,Township 8,United States Senate,,Republican,"Roberts, Pat",31,000080
+PRATT,Township 9,United States Senate,,independent,"Orman, Greg",20,000090
+PRATT,Township 9,United States Senate,,Libertarian,"Batson, Randall",5,000090
+PRATT,Township 9,United States Senate,,Republican,"Roberts, Pat",83,000090
+PRATT,Township 10,United States Senate,,independent,"Orman, Greg",13,000100
+PRATT,Township 10,United States Senate,,Libertarian,"Batson, Randall",1,000100
+PRATT,Township 10,United States Senate,,Republican,"Roberts, Pat",45,000100
+PRATT,Township 11,United States Senate,,independent,"Orman, Greg",21,000110
+PRATT,Township 11,United States Senate,,Libertarian,"Batson, Randall",5,000110
+PRATT,Township 11,United States Senate,,Republican,"Roberts, Pat",82,000110
+PRATT,Township 12,United States Senate,,independent,"Orman, Greg",128,00012A
+PRATT,Township 12,United States Senate,,Libertarian,"Batson, Randall",17,00012A
+PRATT,Township 12,United States Senate,,Republican,"Roberts, Pat",308,00012A
+PRATT,Township 12 Enclave,United States Senate,,independent,"Orman, Greg",0,00012B
+PRATT,Township 12 Enclave,United States Senate,,Libertarian,"Batson, Randall",0,00012B
+PRATT,Township 12 Enclave,United States Senate,,Republican,"Roberts, Pat",0,00012B

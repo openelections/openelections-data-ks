@@ -1,460 +1,477 @@
-county,precinct,office,district,party,candidate,votes
-Decatur,Dresden-Custer,U.S. Senate,,L,Randall Batson,0
-Decatur,Dresden-Lyon,U.S. Senate,,L,Randall Batson,0
-Decatur,Dresden-Dresden twp,U.S. Senate,,L,Randall Batson,0
-Decatur,Dresden-Custer,U.S. Senate,,I,Greg Orman,0
-Decatur,Dresden-Lyon,U.S. Senate,,I,Greg Orman,3
-Decatur,Dresden-Dresden twp,U.S. Senate,,I,Greg Orman,13
-Decatur,Dresden-Custer,U.S. Senate,,R,Pat Roberts,20
-Decatur,Dresden-Lyon,U.S. Senate,,R,Pat Roberts,2
-Decatur,Dresden-Dresden twp,U.S. Senate,,R,Pat Roberts,37
-Decatur,Dresden-Custer,U.S. House,1,R,Tim Huelskamp,18
-Decatur,Dresden-Lyon,U.S. House,1,R,Tim Huelskamp,2
-Decatur,Dresden-Dresden twp,U.S. House,1,R,Tim Huelskamp,38
-Decatur,Dresden-Custer,U.S. House,1,D,James Sherow,1
-Decatur,Dresden-Lyon,U.S. House,1,D,James Sherow,3
-Decatur,Dresden-Dresden twp,U.S. House,1,D,James Sherow,11
-Decatur,Dresden-Custer,Governor,,R,Sam Brownback,20
-Decatur,Dresden-Lyon,Governor,,R,Sam Brownback,2
-Decatur,Dresden-Dresden twp,Governor,,R,Sam Brownback,40
-Decatur,Dresden-Custer,Governor,,D,Paul Davis,0
-Decatur,Dresden-Lyon,Governor,,D,Paul Davis,3
-Decatur,Dresden-Dresden twp,Governor,,D,Paul Davis,12
-Decatur,Dresden-Custer,Governor,,L,Keen Umbehr,0
-Decatur,Dresden-Lyon,Governor,,L,Keen Umbehr,0
-Decatur,Dresden-Dresden twp,Governor,,L,Keen Umbehr,2
-Decatur,Dresden-Custer,Secretary of State,,R,Kris Kobach,19
-Decatur,Dresden-Lyon,Secretary of State,,R,Kris Kobach,3
-Decatur,Dresden-Dresden twp,Secretary of State,,R,Kris Kobach,39
-Decatur,Dresden-Custer,Secretary of State,,D,Jean Schodorf,1
-Decatur,Dresden-Lyon,Secretary of State,,D,Jean Schodorf,2
-Decatur,Dresden-Dresden twp,Secretary of State,,D,Jean Schodorf,11
-Decatur,Dresden-Custer,Attorney General,,D,AJ Kotich,2
-Decatur,Dresden-Lyon,Attorney General,,D,AJ Kotich,3
-Decatur,Dresden-Dresden twp,Attorney General,,D,AJ Kotich,9
-Decatur,Dresden-Custer,Attorney General,,R,Derek Schmidt,18
-Decatur,Dresden-Lyon,Attorney General,,R,Derek Schmidt,2
-Decatur,Dresden-Dresden twp,Attorney General,,R,Derek Schmidt,40
-Decatur,Dresden-Custer,State Treasurer,,D,Carmen Alldritt,0
-Decatur,Dresden-Lyon,State Treasurer,,D,Carmen Alldritt,1
-Decatur,Dresden-Dresden twp,State Treasurer,,D,Carmen Alldritt,10
-Decatur,Dresden-Custer,State Treasurer,,R,Ron Estes,19
-Decatur,Dresden-Lyon,State Treasurer,,R,Ron Estes,4
-Decatur,Dresden-Dresden twp,State Treasurer,,R,Ron Estes,39
-Decatur,Dresden-Custer,Insurance Commissioner,,D,Dennis Anderson,1
-Decatur,Dresden-Lyon,Insurance Commissioner,,D,Dennis Anderson,3
-Decatur,Dresden-Dresden twp,Insurance Commissioner,,D,Dennis Anderson,12
-Decatur,Dresden-Custer,Insurance Commissioner,,R,Ken Selzer,17
-Decatur,Dresden-Lyon,Insurance Commissioner,,R,Ken Selzer,2
-Decatur,Dresden-Dresden twp,Insurance Commissioner,,R,Ken Selzer,36
-Decatur,Dresden-Custer,State House,120,R,Rick Billinger,19
-Decatur,Dresden-Lyon,State House,120,R,Rick Billinger,4
-Decatur,Dresden-Dresden twp,State House,120,R,Rick Billinger,42
-Decatur,Jennings-Allison,U.S. Senate,,L,Randall Batson,0
-Decatur,Jennings-Pleas Valley,U.S. Senate,,L,Randall Batson,0
-Decatur,Jennings-Jennings twp,U.S. Senate,,L,Randall Batson,2
-Decatur,Jennings-Allison,U.S. Senate,,I,Greg Orman,3
-Decatur,Jennings-Pleas Valley,U.S. Senate,,I,Greg Orman,4
-Decatur,Jennings-Jennings twp,U.S. Senate,,I,Greg Orman,20
-Decatur,Jennings-Allison,U.S. Senate,,R,Pat Roberts,6
-Decatur,Jennings-Pleas Valley,U.S. Senate,,R,Pat Roberts,14
-Decatur,Jennings-Jennings twp,U.S. Senate,,R,Pat Roberts,44
-Decatur,Jennings-Allison,U.S. House,1,R,Tim Huelskamp,7
-Decatur,Jennings-Pleas Valley,U.S. House,1,R,Tim Huelskamp,14
-Decatur,Jennings-Jennings twp,U.S. House,1,R,Tim Huelskamp,46
-Decatur,Jennings-Allison,U.S. House,1,D,James Sherow,1
-Decatur,Jennings-Pleas Valley,U.S. House,1,D,James Sherow,4
-Decatur,Jennings-Jennings twp,U.S. House,1,D,James Sherow,21
-Decatur,Jennings-Allison,Governor,,R,Sam Brownback,4
-Decatur,Jennings-Pleas Valley,Governor,,R,Sam Brownback,12
-Decatur,Jennings-Jennings twp,Governor,,R,Sam Brownback,38
-Decatur,Jennings-Allison,Governor,,D,Paul Davis,5
-Decatur,Jennings-Pleas Valley,Governor,,D,Paul Davis,5
-Decatur,Jennings-Jennings twp,Governor,,D,Paul Davis,26
-Decatur,Jennings-Allison,Governor,,L,Keen Umbehr,0
-Decatur,Jennings-Pleas Valley,Governor,,L,Keen Umbehr,1
-Decatur,Jennings-Jennings twp,Governor,,L,Keen Umbehr,2
-Decatur,Jennings-Allison,Secretary of State,,R,Kris Kobach,6
-Decatur,Jennings-Pleas Valley,Secretary of State,,R,Kris Kobach,14
-Decatur,Jennings-Jennings twp,Secretary of State,,R,Kris Kobach,40
-Decatur,Jennings-Allison,Secretary of State,,D,Jean Schodorf,3
-Decatur,Jennings-Pleas Valley,Secretary of State,,D,Jean Schodorf,4
-Decatur,Jennings-Jennings twp,Secretary of State,,D,Jean Schodorf,25
-Decatur,Jennings-Allison,Attorney General,,D,AJ Kotich,3
-Decatur,Jennings-Pleas Valley,Attorney General,,D,AJ Kotich,1
-Decatur,Jennings-Jennings twp,Attorney General,,D,AJ Kotich,18
-Decatur,Jennings-Allison,Attorney General,,R,Derek Schmidt,6
-Decatur,Jennings-Pleas Valley,Attorney General,,R,Derek Schmidt,16
-Decatur,Jennings-Jennings twp,Attorney General,,R,Derek Schmidt,47
-Decatur,Jennings-Allison,State Treasurer,,D,Carmen Alldritt,2
-Decatur,Jennings-Pleas Valley,State Treasurer,,D,Carmen Alldritt,1
-Decatur,Jennings-Jennings twp,State Treasurer,,D,Carmen Alldritt,19
-Decatur,Jennings-Allison,State Treasurer,,R,Ron Estes,7
-Decatur,Jennings-Pleas Valley,State Treasurer,,R,Ron Estes,16
-Decatur,Jennings-Jennings twp,State Treasurer,,R,Ron Estes,44
-Decatur,Jennings-Allison,Insurance Commissioner,,D,Dennis Anderson,4
-Decatur,Jennings-Pleas Valley,Insurance Commissioner,,D,Dennis Anderson,5
-Decatur,Jennings-Jennings twp,Insurance Commissioner,,D,Dennis Anderson,24
-Decatur,Jennings-Allison,Insurance Commissioner,,R,Ken Selzer,5
-Decatur,Jennings-Pleas Valley,Insurance Commissioner,,R,Ken Selzer,12
-Decatur,Jennings-Jennings twp,Insurance Commissioner,,R,Ken Selzer,38
-Decatur,Jennings-Allison,State House,120,R,Rick Billinger,7
-Decatur,Jennings-Pleas Valley,State House,120,R,Rick Billinger,18
-Decatur,Jennings-Jennings twp,State House,120,R,Rick Billinger,54
-Decatur,Norcatur-Garfield,U.S. Senate,,L,Randall Batson,1
-Decatur,Norcatur-Grant,U.S. Senate,,L,Randall Batson,0
-Decatur,Norcatur-Lincoln,U.S. Senate,,L,Randall Batson,3
-Decatur,Norcatur-Garfield,U.S. Senate,,I,Greg Orman,6
-Decatur,Norcatur-Grant,U.S. Senate,,I,Greg Orman,0
-Decatur,Norcatur-Lincoln,U.S. Senate,,I,Greg Orman,13
-Decatur,Norcatur-Garfield,U.S. Senate,,R,Pat Roberts,12
-Decatur,Norcatur-Grant,U.S. Senate,,R,Pat Roberts,3
-Decatur,Norcatur-Lincoln,U.S. Senate,,R,Pat Roberts,43
-Decatur,Norcatur-Garfield,U.S. House,1,R,Tim Huelskamp,13
-Decatur,Norcatur-Grant,U.S. House,1,R,Tim Huelskamp,3
-Decatur,Norcatur-Lincoln,U.S. House,1,R,Tim Huelskamp,45
-Decatur,Norcatur-Garfield,U.S. House,1,D,James Sherow,7
-Decatur,Norcatur-Grant,U.S. House,1,D,James Sherow,0
-Decatur,Norcatur-Lincoln,U.S. House,1,D,James Sherow,13
-Decatur,Norcatur-Garfield,Governor,,R,Sam Brownback,13
-Decatur,Norcatur-Grant,Governor,,R,Sam Brownback,3
-Decatur,Norcatur-Lincoln,Governor,,R,Sam Brownback,43
-Decatur,Norcatur-Garfield,Governor,,D,Paul Davis,7
-Decatur,Norcatur-Grant,Governor,,D,Paul Davis,0
-Decatur,Norcatur-Lincoln,Governor,,D,Paul Davis,18
-Decatur,Norcatur-Garfield,Governor,,L,Keen Umbehr,0
-Decatur,Norcatur-Grant,Governor,,L,Keen Umbehr,0
-Decatur,Norcatur-Lincoln,Governor,,L,Keen Umbehr,1
-Decatur,Norcatur-Garfield,Secretary of State,,R,Kris Kobach,13
-Decatur,Norcatur-Grant,Secretary of State,,R,Kris Kobach,3
-Decatur,Norcatur-Lincoln,Secretary of State,,R,Kris Kobach,46
-Decatur,Norcatur-Garfield,Secretary of State,,D,Jean Schodorf,7
-Decatur,Norcatur-Grant,Secretary of State,,D,Jean Schodorf,0
-Decatur,Norcatur-Lincoln,Secretary of State,,D,Jean Schodorf,14
-Decatur,Norcatur-Garfield,Attorney General,,D,AJ Kotich,4
-Decatur,Norcatur-Grant,Attorney General,,D,AJ Kotich,0
-Decatur,Norcatur-Lincoln,Attorney General,,D,AJ Kotich,10
-Decatur,Norcatur-Garfield,Attorney General,,R,Derek Schmidt,16
-Decatur,Norcatur-Grant,Attorney General,,R,Derek Schmidt,3
-Decatur,Norcatur-Lincoln,Attorney General,,R,Derek Schmidt,52
-Decatur,Norcatur-Garfield,State Treasurer,,D,Carmen Alldritt,4
-Decatur,Norcatur-Grant,State Treasurer,,D,Carmen Alldritt,0
-Decatur,Norcatur-Lincoln,State Treasurer,,D,Carmen Alldritt,12
-Decatur,Norcatur-Garfield,State Treasurer,,R,Ron Estes,16
-Decatur,Norcatur-Grant,State Treasurer,,R,Ron Estes,3
-Decatur,Norcatur-Lincoln,State Treasurer,,R,Ron Estes,51
-Decatur,Norcatur-Garfield,Insurance Commissioner,,D,Dennis Anderson,5
-Decatur,Norcatur-Grant,Insurance Commissioner,,D,Dennis Anderson,0
-Decatur,Norcatur-Lincoln,Insurance Commissioner,,D,Dennis Anderson,15
-Decatur,Norcatur-Garfield,Insurance Commissioner,,R,Ken Selzer,14
-Decatur,Norcatur-Grant,Insurance Commissioner,,R,Ken Selzer,3
-Decatur,Norcatur-Lincoln,Insurance Commissioner,,R,Ken Selzer,46
-Decatur,Norcatur-Garfield,State House,120,R,Rick Billinger,16
-Decatur,Norcatur-Grant,State House,120,R,Rick Billinger,2
-Decatur,Norcatur-Lincoln,State House,120,R,Rick Billinger,58
-Decatur,North-Beaver,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Finley,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Harlan,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Liberty,U.S. Senate,,L,Randall Batson,2
-Decatur,North-Logan,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Olive,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Roosevelt,U.S. Senate,,L,Randall Batson,0
-Decatur,North-Sherman,U.S. Senate,,L,Randall Batson,1
-Decatur,South-Altory,U.S. Senate,,L,Randall Batson,0
-Decatur,South-Bassettville,U.S. Senate,,L,Randall Batson,0
-Decatur,South-Center,U.S. Senate,,L,Randall Batson,3
-Decatur,South-Cook,U.S. Senate,,L,Randall Batson,0
-Decatur,South-Oberlin,U.S. Senate,,L,Randall Batson,3
-Decatur,South-Prairie Dog,U.S. Senate,,L,Randall Batson,1
-Decatur,South-Sappa,U.S. Senate,,L,Randall Batson,0
-Decatur,South-Summit,U.S. Senate,,L,Randall Batson,0
-Decatur,Oberlin City 1,U.S. Senate,,L,Randall Batson,10
-Decatur,Oberlin City 2,U.S. Senate,,L,Randall Batson,22
-Decatur,North-Beaver,U.S. Senate,,I,Greg Orman,2
-Decatur,North-Finley,U.S. Senate,,I,Greg Orman,3
-Decatur,North-Harlan,U.S. Senate,,I,Greg Orman,1
-Decatur,North-Liberty,U.S. Senate,,I,Greg Orman,4
-Decatur,North-Logan,U.S. Senate,,I,Greg Orman,0
-Decatur,North-Olive,U.S. Senate,,I,Greg Orman,5
-Decatur,North-Roosevelt,U.S. Senate,,I,Greg Orman,3
-Decatur,North-Sherman,U.S. Senate,,I,Greg Orman,1
-Decatur,South-Altory,U.S. Senate,,I,Greg Orman,1
-Decatur,South-Bassettville,U.S. Senate,,I,Greg Orman,1
-Decatur,South-Center,U.S. Senate,,I,Greg Orman,3
-Decatur,South-Cook,U.S. Senate,,I,Greg Orman,0
-Decatur,South-Oberlin,U.S. Senate,,I,Greg Orman,8
-Decatur,South-Prairie Dog,U.S. Senate,,I,Greg Orman,0
-Decatur,South-Sappa,U.S. Senate,,I,Greg Orman,0
-Decatur,South-Summit,U.S. Senate,,I,Greg Orman,4
-Decatur,Oberlin City 1,U.S. Senate,,I,Greg Orman,70
-Decatur,Oberlin City 2,U.S. Senate,,I,Greg Orman,63
-Decatur,North-Beaver,U.S. Senate,,R,Pat Roberts,11
-Decatur,North-Finley,U.S. Senate,,R,Pat Roberts,11
-Decatur,North-Harlan,U.S. Senate,,R,Pat Roberts,11
-Decatur,North-Liberty,U.S. Senate,,R,Pat Roberts,21
-Decatur,North-Logan,U.S. Senate,,R,Pat Roberts,16
-Decatur,North-Olive,U.S. Senate,,R,Pat Roberts,21
-Decatur,North-Roosevelt,U.S. Senate,,R,Pat Roberts,5
-Decatur,North-Sherman,U.S. Senate,,R,Pat Roberts,5
-Decatur,South-Altory,U.S. Senate,,R,Pat Roberts,9
-Decatur,South-Bassettville,U.S. Senate,,R,Pat Roberts,9
-Decatur,South-Center,U.S. Senate,,R,Pat Roberts,18
-Decatur,South-Cook,U.S. Senate,,R,Pat Roberts,16
-Decatur,South-Oberlin,U.S. Senate,,R,Pat Roberts,36
-Decatur,South-Prairie Dog,U.S. Senate,,R,Pat Roberts,13
-Decatur,South-Sappa,U.S. Senate,,R,Pat Roberts,19
-Decatur,South-Summit,U.S. Senate,,R,Pat Roberts,9
-Decatur,Oberlin City 1,U.S. Senate,,R,Pat Roberts,224
-Decatur,Oberlin City 2,U.S. Senate,,R,Pat Roberts,308
-Decatur,North-Beaver,U.S. House,1,R,Tim Huelskamp,12
-Decatur,North-Finley,U.S. House,1,R,Tim Huelskamp,12
-Decatur,North-Harlan,U.S. House,1,R,Tim Huelskamp,11
-Decatur,North-Liberty,U.S. House,1,R,Tim Huelskamp,24
-Decatur,North-Logan,U.S. House,1,R,Tim Huelskamp,16
-Decatur,North-Olive,U.S. House,1,R,Tim Huelskamp,21
-Decatur,North-Roosevelt,U.S. House,1,R,Tim Huelskamp,7
-Decatur,North-Sherman,U.S. House,1,R,Tim Huelskamp,7
-Decatur,South-Altory,U.S. House,1,R,Tim Huelskamp,9
-Decatur,South-Bassettville,U.S. House,1,R,Tim Huelskamp,8
-Decatur,South-Center,U.S. House,1,R,Tim Huelskamp,21
-Decatur,South-Cook,U.S. House,1,R,Tim Huelskamp,15
-Decatur,South-Oberlin,U.S. House,1,R,Tim Huelskamp,37
-Decatur,South-Prairie Dog,U.S. House,1,R,Tim Huelskamp,13
-Decatur,South-Sappa,U.S. House,1,R,Tim Huelskamp,19
-Decatur,South-Summit,U.S. House,1,R,Tim Huelskamp,9
-Decatur,Oberlin City 1,U.S. House,1,R,Tim Huelskamp,235
-Decatur,Oberlin City 2,U.S. House,1,R,Tim Huelskamp,323
-Decatur,North-Beaver,U.S. House,1,D,James Sherow,1
-Decatur,North-Finley,U.S. House,1,D,James Sherow,2
-Decatur,North-Harlan,U.S. House,1,D,James Sherow,1
-Decatur,North-Liberty,U.S. House,1,D,James Sherow,2
-Decatur,North-Logan,U.S. House,1,D,James Sherow,0
-Decatur,North-Olive,U.S. House,1,D,James Sherow,4
-Decatur,North-Roosevelt,U.S. House,1,D,James Sherow,1
-Decatur,North-Sherman,U.S. House,1,D,James Sherow,0
-Decatur,South-Altory,U.S. House,1,D,James Sherow,1
-Decatur,South-Bassettville,U.S. House,1,D,James Sherow,2
-Decatur,South-Center,U.S. House,1,D,James Sherow,1
-Decatur,South-Cook,U.S. House,1,D,James Sherow,0
-Decatur,South-Oberlin,U.S. House,1,D,James Sherow,9
-Decatur,South-Prairie Dog,U.S. House,1,D,James Sherow,1
-Decatur,South-Sappa,U.S. House,1,D,James Sherow,0
-Decatur,South-Summit,U.S. House,1,D,James Sherow,3
-Decatur,Oberlin City 1,U.S. House,1,D,James Sherow,61
-Decatur,Oberlin City 2,U.S. House,1,D,James Sherow,64
-Decatur,North-Beaver,Governor,,R,Sam Brownback,11
-Decatur,North-Finley,Governor,,R,Sam Brownback,12
-Decatur,North-Harlan,Governor,,R,Sam Brownback,11
-Decatur,North-Liberty,Governor,,R,Sam Brownback,23
-Decatur,North-Logan,Governor,,R,Sam Brownback,15
-Decatur,North-Olive,Governor,,R,Sam Brownback,15
-Decatur,North-Roosevelt,Governor,,R,Sam Brownback,5
-Decatur,North-Sherman,Governor,,R,Sam Brownback,7
-Decatur,South-Altory,Governor,,R,Sam Brownback,6
-Decatur,South-Bassettville,Governor,,R,Sam Brownback,8
-Decatur,South-Center,Governor,,R,Sam Brownback,17
-Decatur,South-Cook,Governor,,R,Sam Brownback,14
-Decatur,South-Oberlin,Governor,,R,Sam Brownback,33
-Decatur,South-Prairie Dog,Governor,,R,Sam Brownback,13
-Decatur,South-Sappa,Governor,,R,Sam Brownback,19
-Decatur,South-Summit,Governor,,R,Sam Brownback,9
-Decatur,Oberlin City 1,Governor,,R,Sam Brownback,214
-Decatur,Oberlin City 2,Governor,,R,Sam Brownback,297
-Decatur,North-Beaver,Governor,,D,Paul Davis,3
-Decatur,North-Finley,Governor,,D,Paul Davis,2
-Decatur,North-Harlan,Governor,,D,Paul Davis,1
-Decatur,North-Liberty,Governor,,D,Paul Davis,2
-Decatur,North-Logan,Governor,,D,Paul Davis,1
-Decatur,North-Olive,Governor,,D,Paul Davis,7
-Decatur,North-Roosevelt,Governor,,D,Paul Davis,3
-Decatur,North-Sherman,Governor,,D,Paul Davis,0
-Decatur,South-Altory,Governor,,D,Paul Davis,3
-Decatur,South-Bassettville,Governor,,D,Paul Davis,2
-Decatur,South-Center,Governor,,D,Paul Davis,5
-Decatur,South-Cook,Governor,,D,Paul Davis,2
-Decatur,South-Oberlin,Governor,,D,Paul Davis,11
-Decatur,South-Prairie Dog,Governor,,D,Paul Davis,1
-Decatur,South-Sappa,Governor,,D,Paul Davis,0
-Decatur,South-Summit,Governor,,D,Paul Davis,3
-Decatur,Oberlin City 1,Governor,,D,Paul Davis,80
-Decatur,Oberlin City 2,Governor,,D,Paul Davis,90
-Decatur,North-Beaver,Governor,,L,Keen Umbehr,0
-Decatur,North-Finley,Governor,,L,Keen Umbehr,0
-Decatur,North-Harlan,Governor,,L,Keen Umbehr,0
-Decatur,North-Liberty,Governor,,L,Keen Umbehr,1
-Decatur,North-Logan,Governor,,L,Keen Umbehr,0
-Decatur,North-Olive,Governor,,L,Keen Umbehr,3
-Decatur,North-Roosevelt,Governor,,L,Keen Umbehr,0
-Decatur,North-Sherman,Governor,,L,Keen Umbehr,0
-Decatur,South-Altory,Governor,,L,Keen Umbehr,0
-Decatur,South-Bassettville,Governor,,L,Keen Umbehr,0
-Decatur,South-Center,Governor,,L,Keen Umbehr,2
-Decatur,South-Cook,Governor,,L,Keen Umbehr,0
-Decatur,South-Oberlin,Governor,,L,Keen Umbehr,3
-Decatur,South-Prairie Dog,Governor,,L,Keen Umbehr,0
-Decatur,South-Sappa,Governor,,L,Keen Umbehr,0
-Decatur,South-Summit,Governor,,L,Keen Umbehr,1
-Decatur,Oberlin City 1,Governor,,L,Keen Umbehr,11
-Decatur,Oberlin City 2,Governor,,L,Keen Umbehr,10
-Decatur,North-Beaver,Secretary of State,,R,Kris Kobach,13
-Decatur,North-Finley,Secretary of State,,R,Kris Kobach,12
-Decatur,North-Harlan,Secretary of State,,R,Kris Kobach,11
-Decatur,North-Liberty,Secretary of State,,R,Kris Kobach,24
-Decatur,North-Logan,Secretary of State,,R,Kris Kobach,16
-Decatur,North-Olive,Secretary of State,,R,Kris Kobach,21
-Decatur,North-Roosevelt,Secretary of State,,R,Kris Kobach,5
-Decatur,North-Sherman,Secretary of State,,R,Kris Kobach,7
-Decatur,South-Altory,Secretary of State,,R,Kris Kobach,9
-Decatur,South-Bassettville,Secretary of State,,R,Kris Kobach,8
-Decatur,South-Center,Secretary of State,,R,Kris Kobach,19
-Decatur,South-Cook,Secretary of State,,R,Kris Kobach,15
-Decatur,South-Oberlin,Secretary of State,,R,Kris Kobach,36
-Decatur,South-Prairie Dog,Secretary of State,,R,Kris Kobach,12
-Decatur,South-Sappa,Secretary of State,,R,Kris Kobach,18
-Decatur,South-Summit,Secretary of State,,R,Kris Kobach,9
-Decatur,Oberlin City 1,Secretary of State,,R,Kris Kobach,232
-Decatur,Oberlin City 2,Secretary of State,,R,Kris Kobach,323
-Decatur,North-Beaver,Secretary of State,,D,Jean Schodorf,1
-Decatur,North-Finley,Secretary of State,,D,Jean Schodorf,2
-Decatur,North-Harlan,Secretary of State,,D,Jean Schodorf,1
-Decatur,North-Liberty,Secretary of State,,D,Jean Schodorf,3
-Decatur,North-Logan,Secretary of State,,D,Jean Schodorf,0
-Decatur,North-Olive,Secretary of State,,D,Jean Schodorf,4
-Decatur,North-Roosevelt,Secretary of State,,D,Jean Schodorf,3
-Decatur,North-Sherman,Secretary of State,,D,Jean Schodorf,0
-Decatur,South-Altory,Secretary of State,,D,Jean Schodorf,0
-Decatur,South-Bassettville,Secretary of State,,D,Jean Schodorf,2
-Decatur,South-Center,Secretary of State,,D,Jean Schodorf,4
-Decatur,South-Cook,Secretary of State,,D,Jean Schodorf,1
-Decatur,South-Oberlin,Secretary of State,,D,Jean Schodorf,9
-Decatur,South-Prairie Dog,Secretary of State,,D,Jean Schodorf,2
-Decatur,South-Sappa,Secretary of State,,D,Jean Schodorf,1
-Decatur,South-Summit,Secretary of State,,D,Jean Schodorf,4
-Decatur,Oberlin City 1,Secretary of State,,D,Jean Schodorf,65
-Decatur,Oberlin City 2,Secretary of State,,D,Jean Schodorf,69
-Decatur,North-Beaver,Attorney General,,D,AJ Kotich,1
-Decatur,North-Finley,Attorney General,,D,AJ Kotich,3
-Decatur,North-Harlan,Attorney General,,D,AJ Kotich,2
-Decatur,North-Liberty,Attorney General,,D,AJ Kotich,2
-Decatur,North-Logan,Attorney General,,D,AJ Kotich,0
-Decatur,North-Olive,Attorney General,,D,AJ Kotich,4
-Decatur,North-Roosevelt,Attorney General,,D,AJ Kotich,0
-Decatur,North-Sherman,Attorney General,,D,AJ Kotich,1
-Decatur,South-Altory,Attorney General,,D,AJ Kotich,2
-Decatur,South-Bassettville,Attorney General,,D,AJ Kotich,2
-Decatur,South-Center,Attorney General,,D,AJ Kotich,2
-Decatur,South-Cook,Attorney General,,D,AJ Kotich,0
-Decatur,South-Oberlin,Attorney General,,D,AJ Kotich,5
-Decatur,South-Prairie Dog,Attorney General,,D,AJ Kotich,0
-Decatur,South-Sappa,Attorney General,,D,AJ Kotich,0
-Decatur,South-Summit,Attorney General,,D,AJ Kotich,3
-Decatur,Oberlin City 1,Attorney General,,D,AJ Kotich,53
-Decatur,Oberlin City 2,Attorney General,,D,AJ Kotich,55
-Decatur,North-Beaver,Attorney General,,R,Derek Schmidt,13
-Decatur,North-Finley,Attorney General,,R,Derek Schmidt,11
-Decatur,North-Harlan,Attorney General,,R,Derek Schmidt,9
-Decatur,North-Liberty,Attorney General,,R,Derek Schmidt,23
-Decatur,North-Logan,Attorney General,,R,Derek Schmidt,16
-Decatur,North-Olive,Attorney General,,R,Derek Schmidt,20
-Decatur,North-Roosevelt,Attorney General,,R,Derek Schmidt,8
-Decatur,North-Sherman,Attorney General,,R,Derek Schmidt,6
-Decatur,South-Altory,Attorney General,,R,Derek Schmidt,7
-Decatur,South-Bassettville,Attorney General,,R,Derek Schmidt,8
-Decatur,South-Center,Attorney General,,R,Derek Schmidt,22
-Decatur,South-Cook,Attorney General,,R,Derek Schmidt,15
-Decatur,South-Oberlin,Attorney General,,R,Derek Schmidt,39
-Decatur,South-Prairie Dog,Attorney General,,R,Derek Schmidt,14
-Decatur,South-Sappa,Attorney General,,R,Derek Schmidt,19
-Decatur,South-Summit,Attorney General,,R,Derek Schmidt,10
-Decatur,Oberlin City 1,Attorney General,,R,Derek Schmidt,239
-Decatur,Oberlin City 2,Attorney General,,R,Derek Schmidt,323
-Decatur,North-Beaver,State Treasurer,,D,Carmen Alldritt,1
-Decatur,North-Finley,State Treasurer,,D,Carmen Alldritt,2
-Decatur,North-Harlan,State Treasurer,,D,Carmen Alldritt,2
-Decatur,North-Liberty,State Treasurer,,D,Carmen Alldritt,3
-Decatur,North-Logan,State Treasurer,,D,Carmen Alldritt,0
-Decatur,North-Olive,State Treasurer,,D,Carmen Alldritt,2
-Decatur,North-Roosevelt,State Treasurer,,D,Carmen Alldritt,3
-Decatur,North-Sherman,State Treasurer,,D,Carmen Alldritt,0
-Decatur,South-Altory,State Treasurer,,D,Carmen Alldritt,1
-Decatur,South-Bassettville,State Treasurer,,D,Carmen Alldritt,2
-Decatur,South-Center,State Treasurer,,D,Carmen Alldritt,1
-Decatur,South-Cook,State Treasurer,,D,Carmen Alldritt,0
-Decatur,South-Oberlin,State Treasurer,,D,Carmen Alldritt,5
-Decatur,South-Prairie Dog,State Treasurer,,D,Carmen Alldritt,0
-Decatur,South-Sappa,State Treasurer,,D,Carmen Alldritt,0
-Decatur,South-Summit,State Treasurer,,D,Carmen Alldritt,3
-Decatur,Oberlin City 1,State Treasurer,,D,Carmen Alldritt,54
-Decatur,Oberlin City 2,State Treasurer,,D,Carmen Alldritt,52
-Decatur,North-Beaver,State Treasurer,,R,Ron Estes,13
-Decatur,North-Finley,State Treasurer,,R,Ron Estes,12
-Decatur,North-Harlan,State Treasurer,,R,Ron Estes,9
-Decatur,North-Liberty,State Treasurer,,R,Ron Estes,23
-Decatur,North-Logan,State Treasurer,,R,Ron Estes,16
-Decatur,North-Olive,State Treasurer,,R,Ron Estes,20
-Decatur,North-Roosevelt,State Treasurer,,R,Ron Estes,5
-Decatur,North-Sherman,State Treasurer,,R,Ron Estes,7
-Decatur,South-Altory,State Treasurer,,R,Ron Estes,8
-Decatur,South-Bassettville,State Treasurer,,R,Ron Estes,7
-Decatur,South-Center,State Treasurer,,R,Ron Estes,21
-Decatur,South-Cook,State Treasurer,,R,Ron Estes,15
-Decatur,South-Oberlin,State Treasurer,,R,Ron Estes,37
-Decatur,South-Prairie Dog,State Treasurer,,R,Ron Estes,14
-Decatur,South-Sappa,State Treasurer,,R,Ron Estes,19
-Decatur,South-Summit,State Treasurer,,R,Ron Estes,9
-Decatur,Oberlin City 1,State Treasurer,,R,Ron Estes,241
-Decatur,Oberlin City 2,State Treasurer,,R,Ron Estes,327
-Decatur,North-Beaver,Insurance Commissioner,,D,Dennis Anderson,1
-Decatur,North-Finley,Insurance Commissioner,,D,Dennis Anderson,2
-Decatur,North-Harlan,Insurance Commissioner,,D,Dennis Anderson,2
-Decatur,North-Liberty,Insurance Commissioner,,D,Dennis Anderson,2
-Decatur,North-Logan,Insurance Commissioner,,D,Dennis Anderson,0
-Decatur,North-Olive,Insurance Commissioner,,D,Dennis Anderson,3
-Decatur,North-Roosevelt,Insurance Commissioner,,D,Dennis Anderson,3
-Decatur,North-Sherman,Insurance Commissioner,,D,Dennis Anderson,1
-Decatur,South-Altory,Insurance Commissioner,,D,Dennis Anderson,1
-Decatur,South-Bassettville,Insurance Commissioner,,D,Dennis Anderson,3
-Decatur,South-Center,Insurance Commissioner,,D,Dennis Anderson,2
-Decatur,South-Cook,Insurance Commissioner,,D,Dennis Anderson,0
-Decatur,South-Oberlin,Insurance Commissioner,,D,Dennis Anderson,4
-Decatur,South-Prairie Dog,Insurance Commissioner,,D,Dennis Anderson,1
-Decatur,South-Sappa,Insurance Commissioner,,D,Dennis Anderson,0
-Decatur,South-Summit,Insurance Commissioner,,D,Dennis Anderson,3
-Decatur,Oberlin City 1,Insurance Commissioner,,D,Dennis Anderson,57
-Decatur,Oberlin City 2,Insurance Commissioner,,D,Dennis Anderson,72
-Decatur,North-Beaver,Insurance Commissioner,,R,Ken Selzer,13
-Decatur,North-Finley,Insurance Commissioner,,R,Ken Selzer,12
-Decatur,North-Harlan,Insurance Commissioner,,R,Ken Selzer,9
-Decatur,North-Liberty,Insurance Commissioner,,R,Ken Selzer,23
-Decatur,North-Logan,Insurance Commissioner,,R,Ken Selzer,16
-Decatur,North-Olive,Insurance Commissioner,,R,Ken Selzer,18
-Decatur,North-Roosevelt,Insurance Commissioner,,R,Ken Selzer,4
-Decatur,North-Sherman,Insurance Commissioner,,R,Ken Selzer,6
-Decatur,South-Altory,Insurance Commissioner,,R,Ken Selzer,5
-Decatur,South-Bassettville,Insurance Commissioner,,R,Ken Selzer,7
-Decatur,South-Center,Insurance Commissioner,,R,Ken Selzer,20
-Decatur,South-Cook,Insurance Commissioner,,R,Ken Selzer,15
-Decatur,South-Oberlin,Insurance Commissioner,,R,Ken Selzer,38
-Decatur,South-Prairie Dog,Insurance Commissioner,,R,Ken Selzer,13
-Decatur,South-Sappa,Insurance Commissioner,,R,Ken Selzer,19
-Decatur,South-Summit,Insurance Commissioner,,R,Ken Selzer,10
-Decatur,Oberlin City 1,Insurance Commissioner,,R,Ken Selzer,237
-Decatur,Oberlin City 2,Insurance Commissioner,,R,Ken Selzer,301
-Decatur,North-Beaver,State House,120,R,Rick Billinger,14
-Decatur,North-Finley,State House,120,R,Rick Billinger,11
-Decatur,North-Harlan,State House,120,R,Rick Billinger,12
-Decatur,North-Liberty,State House,120,R,Rick Billinger,25
-Decatur,North-Logan,State House,120,R,Rick Billinger,15
-Decatur,North-Olive,State House,120,R,Rick Billinger,22
-Decatur,North-Roosevelt,State House,120,R,Rick Billinger,6
-Decatur,North-Sherman,State House,120,R,Rick Billinger,7
-Decatur,South-Altory,State House,120,R,Rick Billinger,7
-Decatur,South-Bassettville,State House,120,R,Rick Billinger,10
-Decatur,South-Center,State House,120,R,Rick Billinger,22
-Decatur,South-Cook,State House,120,R,Rick Billinger,15
-Decatur,South-Oberlin,State House,120,R,Rick Billinger,40
-Decatur,South-Prairie Dog,State House,120,R,Rick Billinger,14
-Decatur,South-Sappa,State House,120,R,Rick Billinger,19
-Decatur,South-Summit,State House,120,R,Rick Billinger,13
-Decatur,Oberlin City 1,State House,120,R,Rick Billinger,272
-Decatur,Oberlin City 2,State House,120,R,Rick Billinger,355
+county,precinct,office,district,party,candidate,votes,vtd
+DECATUR,Allison Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000010
+DECATUR,Allison Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000010
+DECATUR,Allison Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",4,000010
+DECATUR,Altory Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000020
+DECATUR,Altory Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000020
+DECATUR,Altory Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",6,000020
+DECATUR,Bassettville Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000030
+DECATUR,Bassettville Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+DECATUR,Bassettville Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",8,000030
+DECATUR,Beaver Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000040
+DECATUR,Beaver Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000040
+DECATUR,Beaver Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",11,000040
+DECATUR,Center Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000050
+DECATUR,Center Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000050
+DECATUR,Center Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",17,000050
+DECATUR,Cook Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000060
+DECATUR,Cook Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000060
+DECATUR,Cook Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",14,000060
+DECATUR,Custer Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000070
+DECATUR,Custer Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000070
+DECATUR,Custer Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",20,000070
+DECATUR,Dresden Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",12,000080
+DECATUR,Dresden Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000080
+DECATUR,Dresden Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",40,000080
+DECATUR,Finley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000090
+DECATUR,Finley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000090
+DECATUR,Finley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",12,000090
+DECATUR,Garfield Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000100
+DECATUR,Garfield Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000100
+DECATUR,Garfield Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",13,000100
+DECATUR,Grant Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000110
+DECATUR,Grant Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000110
+DECATUR,Grant Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",3,000110
+DECATUR,Harlan Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000120
+DECATUR,Harlan Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000120
+DECATUR,Harlan Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",11,000120
+DECATUR,Jennings Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",26,000130
+DECATUR,Jennings Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000130
+DECATUR,Jennings Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",38,000130
+DECATUR,Liberty Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000140
+DECATUR,Liberty Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000140
+DECATUR,Liberty Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000140
+DECATUR,Lincoln Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",18,000150
+DECATUR,Lincoln Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000150
+DECATUR,Lincoln Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",43,000150
+DECATUR,Logan Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000160
+DECATUR,Logan Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000160
+DECATUR,Logan Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",15,000160
+DECATUR,Lyon Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000170
+DECATUR,Lyon Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000170
+DECATUR,Lyon Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",2,000170
+DECATUR,Oberlin City Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",80,000180
+DECATUR,Oberlin City Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000180
+DECATUR,Oberlin City Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",214,000180
+DECATUR,Oberlin City Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",90,00019A
+DECATUR,Oberlin City Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,00019A
+DECATUR,Oberlin City Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",297,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,Governor / Lt. Governor,,Republican,"Brownback, Sam",0,00019B
+DECATUR,Oberlin Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",11,000200
+DECATUR,Oberlin Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000200
+DECATUR,Oberlin Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",33,000200
+DECATUR,Olive Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",7,000210
+DECATUR,Olive Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000210
+DECATUR,Olive Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",15,000210
+DECATUR,Pleasant Valley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000220
+DECATUR,Pleasant Valley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000220
+DECATUR,Pleasant Valley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",12,000220
+DECATUR,Prairie Dog Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000230
+DECATUR,Prairie Dog Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000230
+DECATUR,Prairie Dog Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",13,000230
+DECATUR,Roosevelt Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000240
+DECATUR,Roosevelt Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000240
+DECATUR,Roosevelt Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",5,000240
+DECATUR,Sappa Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000250
+DECATUR,Sappa Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000250
+DECATUR,Sappa Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",19,000250
+DECATUR,Sherman Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",0,000260
+DECATUR,Sherman Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000260
+DECATUR,Sherman Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",7,000260
+DECATUR,Summit Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000270
+DECATUR,Summit Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000270
+DECATUR,Summit Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",9,000270
+DECATUR,Allison Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",7,000010
+DECATUR,Altory Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",7,000020
+DECATUR,Bassettville Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",10,000030
+DECATUR,Beaver Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",14,000040
+DECATUR,Center Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",22,000050
+DECATUR,Cook Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",15,000060
+DECATUR,Custer Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",19,000070
+DECATUR,Dresden Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",42,000080
+DECATUR,Finley Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",11,000090
+DECATUR,Garfield Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",16,000100
+DECATUR,Grant Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",2,000110
+DECATUR,Harlan Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",12,000120
+DECATUR,Jennings Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",54,000130
+DECATUR,Liberty Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",25,000140
+DECATUR,Lincoln Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",58,000150
+DECATUR,Logan Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",15,000160
+DECATUR,Lyon Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",4,000170
+DECATUR,Oberlin City Precinct 1,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",272,000180
+DECATUR,Oberlin City Precinct 2,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",355,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",0,00019B
+DECATUR,Oberlin Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",40,000200
+DECATUR,Olive Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",22,000210
+DECATUR,Pleasant Valley Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",18,000220
+DECATUR,Prairie Dog Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",14,000230
+DECATUR,Roosevelt Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",6,000240
+DECATUR,Sappa Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",19,000250
+DECATUR,Sherman Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",7,000260
+DECATUR,Summit Township,Kansas House of Representatives,120,Republican,"Billinger, Richard (Rick)",13,000270
+DECATUR,Allison Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000010
+DECATUR,Allison Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",7,000010
+DECATUR,Altory Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000020
+DECATUR,Altory Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",9,000020
+DECATUR,Bassettville Township,United States House of Representatives,1,Democratic,"Sherow, James E.",2,000030
+DECATUR,Bassettville Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",8,000030
+DECATUR,Beaver Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000040
+DECATUR,Beaver Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000040
+DECATUR,Center Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000050
+DECATUR,Center Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",21,000050
+DECATUR,Cook Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000060
+DECATUR,Cook Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",15,000060
+DECATUR,Custer Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000070
+DECATUR,Custer Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",18,000070
+DECATUR,Dresden Township,United States House of Representatives,1,Democratic,"Sherow, James E.",11,000080
+DECATUR,Dresden Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",38,000080
+DECATUR,Finley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",2,000090
+DECATUR,Finley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000090
+DECATUR,Garfield Township,United States House of Representatives,1,Democratic,"Sherow, James E.",7,000100
+DECATUR,Garfield Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",13,000100
+DECATUR,Grant Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000110
+DECATUR,Grant Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",3,000110
+DECATUR,Harlan Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000120
+DECATUR,Harlan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",11,000120
+DECATUR,Jennings Township,United States House of Representatives,1,Democratic,"Sherow, James E.",21,000130
+DECATUR,Jennings Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",46,000130
+DECATUR,Liberty Township,United States House of Representatives,1,Democratic,"Sherow, James E.",2,000140
+DECATUR,Liberty Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",24,000140
+DECATUR,Lincoln Township,United States House of Representatives,1,Democratic,"Sherow, James E.",13,000150
+DECATUR,Lincoln Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",45,000150
+DECATUR,Logan Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000160
+DECATUR,Logan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",16,000160
+DECATUR,Lyon Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000170
+DECATUR,Lyon Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",2,000170
+DECATUR,Oberlin City Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",61,000180
+DECATUR,Oberlin City Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",235,000180
+DECATUR,Oberlin City Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",64,00019A
+DECATUR,Oberlin City Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",323,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,United States House of Representatives,1,Democratic,"Sherow, James E.",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00019B
+DECATUR,Oberlin Township,United States House of Representatives,1,Democratic,"Sherow, James E.",9,000200
+DECATUR,Oberlin Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",37,000200
+DECATUR,Olive Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000210
+DECATUR,Olive Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",21,000210
+DECATUR,Pleasant Valley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000220
+DECATUR,Pleasant Valley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",14,000220
+DECATUR,Prairie Dog Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000230
+DECATUR,Prairie Dog Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",13,000230
+DECATUR,Roosevelt Township,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000240
+DECATUR,Roosevelt Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",7,000240
+DECATUR,Sappa Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000250
+DECATUR,Sappa Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",19,000250
+DECATUR,Sherman Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000260
+DECATUR,Sherman Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",7,000260
+DECATUR,Summit Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000270
+DECATUR,Summit Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",9,000270
+DECATUR,Allison Township,Attorney General,,Democratic,"Kotich, A.J.",3,000010
+DECATUR,Allison Township,Attorney General,,Republican,"Schmidt, Derek",6,000010
+DECATUR,Altory Township,Attorney General,,Democratic,"Kotich, A.J.",2,000020
+DECATUR,Altory Township,Attorney General,,Republican,"Schmidt, Derek",7,000020
+DECATUR,Bassettville Township,Attorney General,,Democratic,"Kotich, A.J.",2,000030
+DECATUR,Bassettville Township,Attorney General,,Republican,"Schmidt, Derek",8,000030
+DECATUR,Beaver Township,Attorney General,,Democratic,"Kotich, A.J.",1,000040
+DECATUR,Beaver Township,Attorney General,,Republican,"Schmidt, Derek",13,000040
+DECATUR,Center Township,Attorney General,,Democratic,"Kotich, A.J.",2,000050
+DECATUR,Center Township,Attorney General,,Republican,"Schmidt, Derek",22,000050
+DECATUR,Cook Township,Attorney General,,Democratic,"Kotich, A.J.",0,000060
+DECATUR,Cook Township,Attorney General,,Republican,"Schmidt, Derek",15,000060
+DECATUR,Custer Township,Attorney General,,Democratic,"Kotich, A.J.",2,000070
+DECATUR,Custer Township,Attorney General,,Republican,"Schmidt, Derek",18,000070
+DECATUR,Dresden Township,Attorney General,,Democratic,"Kotich, A.J.",9,000080
+DECATUR,Dresden Township,Attorney General,,Republican,"Schmidt, Derek",40,000080
+DECATUR,Finley Township,Attorney General,,Democratic,"Kotich, A.J.",3,000090
+DECATUR,Finley Township,Attorney General,,Republican,"Schmidt, Derek",11,000090
+DECATUR,Garfield Township,Attorney General,,Democratic,"Kotich, A.J.",4,000100
+DECATUR,Garfield Township,Attorney General,,Republican,"Schmidt, Derek",16,000100
+DECATUR,Grant Township,Attorney General,,Democratic,"Kotich, A.J.",0,000110
+DECATUR,Grant Township,Attorney General,,Republican,"Schmidt, Derek",3,000110
+DECATUR,Harlan Township,Attorney General,,Democratic,"Kotich, A.J.",2,000120
+DECATUR,Harlan Township,Attorney General,,Republican,"Schmidt, Derek",9,000120
+DECATUR,Jennings Township,Attorney General,,Democratic,"Kotich, A.J.",18,000130
+DECATUR,Jennings Township,Attorney General,,Republican,"Schmidt, Derek",47,000130
+DECATUR,Liberty Township,Attorney General,,Democratic,"Kotich, A.J.",2,000140
+DECATUR,Liberty Township,Attorney General,,Republican,"Schmidt, Derek",23,000140
+DECATUR,Lincoln Township,Attorney General,,Democratic,"Kotich, A.J.",10,000150
+DECATUR,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",52,000150
+DECATUR,Logan Township,Attorney General,,Democratic,"Kotich, A.J.",0,000160
+DECATUR,Logan Township,Attorney General,,Republican,"Schmidt, Derek",16,000160
+DECATUR,Lyon Township,Attorney General,,Democratic,"Kotich, A.J.",3,000170
+DECATUR,Lyon Township,Attorney General,,Republican,"Schmidt, Derek",2,000170
+DECATUR,Oberlin City Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",53,000180
+DECATUR,Oberlin City Precinct 1,Attorney General,,Republican,"Schmidt, Derek",239,000180
+DECATUR,Oberlin City Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",55,00019A
+DECATUR,Oberlin City Precinct 2,Attorney General,,Republican,"Schmidt, Derek",323,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00019B
+DECATUR,Oberlin Township,Attorney General,,Democratic,"Kotich, A.J.",5,000200
+DECATUR,Oberlin Township,Attorney General,,Republican,"Schmidt, Derek",39,000200
+DECATUR,Olive Township,Attorney General,,Democratic,"Kotich, A.J.",4,000210
+DECATUR,Olive Township,Attorney General,,Republican,"Schmidt, Derek",20,000210
+DECATUR,Pleasant Valley Township,Attorney General,,Democratic,"Kotich, A.J.",1,000220
+DECATUR,Pleasant Valley Township,Attorney General,,Republican,"Schmidt, Derek",16,000220
+DECATUR,Prairie Dog Township,Attorney General,,Democratic,"Kotich, A.J.",0,000230
+DECATUR,Prairie Dog Township,Attorney General,,Republican,"Schmidt, Derek",14,000230
+DECATUR,Roosevelt Township,Attorney General,,Democratic,"Kotich, A.J.",0,000240
+DECATUR,Roosevelt Township,Attorney General,,Republican,"Schmidt, Derek",8,000240
+DECATUR,Sappa Township,Attorney General,,Democratic,"Kotich, A.J.",0,000250
+DECATUR,Sappa Township,Attorney General,,Republican,"Schmidt, Derek",19,000250
+DECATUR,Sherman Township,Attorney General,,Democratic,"Kotich, A.J.",1,000260
+DECATUR,Sherman Township,Attorney General,,Republican,"Schmidt, Derek",6,000260
+DECATUR,Summit Township,Attorney General,,Democratic,"Kotich, A.J.",3,000270
+DECATUR,Summit Township,Attorney General,,Republican,"Schmidt, Derek",10,000270
+DECATUR,Allison Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000010
+DECATUR,Allison Township,Commissioner of Insurance,,Republican,"Selzer, Ken",5,000010
+DECATUR,Altory Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000020
+DECATUR,Altory Township,Commissioner of Insurance,,Republican,"Selzer, Ken",5,000020
+DECATUR,Bassettville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000030
+DECATUR,Bassettville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",7,000030
+DECATUR,Beaver Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000040
+DECATUR,Beaver Township,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000040
+DECATUR,Center Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000050
+DECATUR,Center Township,Commissioner of Insurance,,Republican,"Selzer, Ken",20,000050
+DECATUR,Cook Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000060
+DECATUR,Cook Township,Commissioner of Insurance,,Republican,"Selzer, Ken",15,000060
+DECATUR,Custer Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000070
+DECATUR,Custer Township,Commissioner of Insurance,,Republican,"Selzer, Ken",17,000070
+DECATUR,Dresden Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",12,000080
+DECATUR,Dresden Township,Commissioner of Insurance,,Republican,"Selzer, Ken",36,000080
+DECATUR,Finley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000090
+DECATUR,Finley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",12,000090
+DECATUR,Garfield Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000100
+DECATUR,Garfield Township,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000100
+DECATUR,Grant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000110
+DECATUR,Grant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",3,000110
+DECATUR,Harlan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000120
+DECATUR,Harlan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000120
+DECATUR,Jennings Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",24,000130
+DECATUR,Jennings Township,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000130
+DECATUR,Liberty Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000140
+DECATUR,Liberty Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000140
+DECATUR,Lincoln Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",15,000150
+DECATUR,Lincoln Township,Commissioner of Insurance,,Republican,"Selzer, Ken",46,000150
+DECATUR,Logan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000160
+DECATUR,Logan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",16,000160
+DECATUR,Lyon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000170
+DECATUR,Lyon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",2,000170
+DECATUR,Oberlin City Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",57,000180
+DECATUR,Oberlin City Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",237,000180
+DECATUR,Oberlin City Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,00019A
+DECATUR,Oberlin City Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",301,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00019B
+DECATUR,Oberlin Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000200
+DECATUR,Oberlin Township,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000200
+DECATUR,Olive Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000210
+DECATUR,Olive Township,Commissioner of Insurance,,Republican,"Selzer, Ken",18,000210
+DECATUR,Pleasant Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000220
+DECATUR,Pleasant Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",12,000220
+DECATUR,Prairie Dog Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000230
+DECATUR,Prairie Dog Township,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000230
+DECATUR,Roosevelt Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000240
+DECATUR,Roosevelt Township,Commissioner of Insurance,,Republican,"Selzer, Ken",4,000240
+DECATUR,Sappa Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000250
+DECATUR,Sappa Township,Commissioner of Insurance,,Republican,"Selzer, Ken",19,000250
+DECATUR,Sherman Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000260
+DECATUR,Sherman Township,Commissioner of Insurance,,Republican,"Selzer, Ken",6,000260
+DECATUR,Summit Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000270
+DECATUR,Summit Township,Commissioner of Insurance,,Republican,"Selzer, Ken",10,000270
+DECATUR,Allison Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000010
+DECATUR,Allison Township,Secretary of State,,Republican,"Kobach, Kris",6,000010
+DECATUR,Altory Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000020
+DECATUR,Altory Township,Secretary of State,,Republican,"Kobach, Kris",9,000020
+DECATUR,Bassettville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000030
+DECATUR,Bassettville Township,Secretary of State,,Republican,"Kobach, Kris",8,000030
+DECATUR,Beaver Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000040
+DECATUR,Beaver Township,Secretary of State,,Republican,"Kobach, Kris",13,000040
+DECATUR,Center Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000050
+DECATUR,Center Township,Secretary of State,,Republican,"Kobach, Kris",19,000050
+DECATUR,Cook Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000060
+DECATUR,Cook Township,Secretary of State,,Republican,"Kobach, Kris",15,000060
+DECATUR,Custer Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000070
+DECATUR,Custer Township,Secretary of State,,Republican,"Kobach, Kris",19,000070
+DECATUR,Dresden Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000080
+DECATUR,Dresden Township,Secretary of State,,Republican,"Kobach, Kris",39,000080
+DECATUR,Finley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000090
+DECATUR,Finley Township,Secretary of State,,Republican,"Kobach, Kris",12,000090
+DECATUR,Garfield Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000100
+DECATUR,Garfield Township,Secretary of State,,Republican,"Kobach, Kris",13,000100
+DECATUR,Grant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000110
+DECATUR,Grant Township,Secretary of State,,Republican,"Kobach, Kris",3,000110
+DECATUR,Harlan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000120
+DECATUR,Harlan Township,Secretary of State,,Republican,"Kobach, Kris",11,000120
+DECATUR,Jennings Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,000130
+DECATUR,Jennings Township,Secretary of State,,Republican,"Kobach, Kris",40,000130
+DECATUR,Liberty Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000140
+DECATUR,Liberty Township,Secretary of State,,Republican,"Kobach, Kris",24,000140
+DECATUR,Lincoln Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",14,000150
+DECATUR,Lincoln Township,Secretary of State,,Republican,"Kobach, Kris",46,000150
+DECATUR,Logan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000160
+DECATUR,Logan Township,Secretary of State,,Republican,"Kobach, Kris",16,000160
+DECATUR,Lyon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000170
+DECATUR,Lyon Township,Secretary of State,,Republican,"Kobach, Kris",3,000170
+DECATUR,Oberlin City Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",65,000180
+DECATUR,Oberlin City Precinct 1,Secretary of State,,Republican,"Kobach, Kris",232,000180
+DECATUR,Oberlin City Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",69,00019A
+DECATUR,Oberlin City Precinct 2,Secretary of State,,Republican,"Kobach, Kris",323,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00019B
+DECATUR,Oberlin Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,000200
+DECATUR,Oberlin Township,Secretary of State,,Republican,"Kobach, Kris",36,000200
+DECATUR,Olive Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000210
+DECATUR,Olive Township,Secretary of State,,Republican,"Kobach, Kris",21,000210
+DECATUR,Pleasant Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000220
+DECATUR,Pleasant Valley Township,Secretary of State,,Republican,"Kobach, Kris",14,000220
+DECATUR,Prairie Dog Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000230
+DECATUR,Prairie Dog Township,Secretary of State,,Republican,"Kobach, Kris",12,000230
+DECATUR,Roosevelt Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000240
+DECATUR,Roosevelt Township,Secretary of State,,Republican,"Kobach, Kris",5,000240
+DECATUR,Sappa Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000250
+DECATUR,Sappa Township,Secretary of State,,Republican,"Kobach, Kris",18,000250
+DECATUR,Sherman Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000260
+DECATUR,Sherman Township,Secretary of State,,Republican,"Kobach, Kris",7,000260
+DECATUR,Summit Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000270
+DECATUR,Summit Township,Secretary of State,,Republican,"Kobach, Kris",9,000270
+DECATUR,Allison Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000010
+DECATUR,Allison Township,State Treasurer,,Republican,"Estes, Ron",7,000010
+DECATUR,Altory Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000020
+DECATUR,Altory Township,State Treasurer,,Republican,"Estes, Ron",8,000020
+DECATUR,Bassettville Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000030
+DECATUR,Bassettville Township,State Treasurer,,Republican,"Estes, Ron",7,000030
+DECATUR,Beaver Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000040
+DECATUR,Beaver Township,State Treasurer,,Republican,"Estes, Ron",13,000040
+DECATUR,Center Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000050
+DECATUR,Center Township,State Treasurer,,Republican,"Estes, Ron",21,000050
+DECATUR,Cook Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000060
+DECATUR,Cook Township,State Treasurer,,Republican,"Estes, Ron",15,000060
+DECATUR,Custer Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000070
+DECATUR,Custer Township,State Treasurer,,Republican,"Estes, Ron",19,000070
+DECATUR,Dresden Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000080
+DECATUR,Dresden Township,State Treasurer,,Republican,"Estes, Ron",39,000080
+DECATUR,Finley Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000090
+DECATUR,Finley Township,State Treasurer,,Republican,"Estes, Ron",12,000090
+DECATUR,Garfield Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000100
+DECATUR,Garfield Township,State Treasurer,,Republican,"Estes, Ron",16,000100
+DECATUR,Grant Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000110
+DECATUR,Grant Township,State Treasurer,,Republican,"Estes, Ron",3,000110
+DECATUR,Harlan Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000120
+DECATUR,Harlan Township,State Treasurer,,Republican,"Estes, Ron",9,000120
+DECATUR,Jennings Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000130
+DECATUR,Jennings Township,State Treasurer,,Republican,"Estes, Ron",44,000130
+DECATUR,Liberty Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000140
+DECATUR,Liberty Township,State Treasurer,,Republican,"Estes, Ron",23,000140
+DECATUR,Lincoln Township,State Treasurer,,Democratic,"Alldritt, Carmen",12,000150
+DECATUR,Lincoln Township,State Treasurer,,Republican,"Estes, Ron",51,000150
+DECATUR,Logan Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000160
+DECATUR,Logan Township,State Treasurer,,Republican,"Estes, Ron",16,000160
+DECATUR,Lyon Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000170
+DECATUR,Lyon Township,State Treasurer,,Republican,"Estes, Ron",4,000170
+DECATUR,Oberlin City Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",54,000180
+DECATUR,Oberlin City Precinct 1,State Treasurer,,Republican,"Estes, Ron",241,000180
+DECATUR,Oberlin City Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",52,00019A
+DECATUR,Oberlin City Precinct 2,State Treasurer,,Republican,"Estes, Ron",327,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00019B
+DECATUR,Oberlin Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000200
+DECATUR,Oberlin Township,State Treasurer,,Republican,"Estes, Ron",37,000200
+DECATUR,Olive Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000210
+DECATUR,Olive Township,State Treasurer,,Republican,"Estes, Ron",20,000210
+DECATUR,Pleasant Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000220
+DECATUR,Pleasant Valley Township,State Treasurer,,Republican,"Estes, Ron",16,000220
+DECATUR,Prairie Dog Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000230
+DECATUR,Prairie Dog Township,State Treasurer,,Republican,"Estes, Ron",14,000230
+DECATUR,Roosevelt Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000240
+DECATUR,Roosevelt Township,State Treasurer,,Republican,"Estes, Ron",5,000240
+DECATUR,Sappa Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000250
+DECATUR,Sappa Township,State Treasurer,,Republican,"Estes, Ron",19,000250
+DECATUR,Sherman Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000260
+DECATUR,Sherman Township,State Treasurer,,Republican,"Estes, Ron",7,000260
+DECATUR,Summit Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000270
+DECATUR,Summit Township,State Treasurer,,Republican,"Estes, Ron",9,000270
+DECATUR,Allison Township,United States Senate,,independent,"Orman, Greg",3,000010
+DECATUR,Allison Township,United States Senate,,Libertarian,"Batson, Randall",0,000010
+DECATUR,Allison Township,United States Senate,,Republican,"Roberts, Pat",6,000010
+DECATUR,Altory Township,United States Senate,,independent,"Orman, Greg",1,000020
+DECATUR,Altory Township,United States Senate,,Libertarian,"Batson, Randall",0,000020
+DECATUR,Altory Township,United States Senate,,Republican,"Roberts, Pat",9,000020
+DECATUR,Bassettville Township,United States Senate,,independent,"Orman, Greg",1,000030
+DECATUR,Bassettville Township,United States Senate,,Libertarian,"Batson, Randall",0,000030
+DECATUR,Bassettville Township,United States Senate,,Republican,"Roberts, Pat",9,000030
+DECATUR,Beaver Township,United States Senate,,independent,"Orman, Greg",2,000040
+DECATUR,Beaver Township,United States Senate,,Libertarian,"Batson, Randall",0,000040
+DECATUR,Beaver Township,United States Senate,,Republican,"Roberts, Pat",11,000040
+DECATUR,Center Township,United States Senate,,independent,"Orman, Greg",3,000050
+DECATUR,Center Township,United States Senate,,Libertarian,"Batson, Randall",3,000050
+DECATUR,Center Township,United States Senate,,Republican,"Roberts, Pat",18,000050
+DECATUR,Cook Township,United States Senate,,independent,"Orman, Greg",0,000060
+DECATUR,Cook Township,United States Senate,,Libertarian,"Batson, Randall",0,000060
+DECATUR,Cook Township,United States Senate,,Republican,"Roberts, Pat",16,000060
+DECATUR,Custer Township,United States Senate,,independent,"Orman, Greg",0,000070
+DECATUR,Custer Township,United States Senate,,Libertarian,"Batson, Randall",0,000070
+DECATUR,Custer Township,United States Senate,,Republican,"Roberts, Pat",20,000070
+DECATUR,Dresden Township,United States Senate,,independent,"Orman, Greg",13,000080
+DECATUR,Dresden Township,United States Senate,,Libertarian,"Batson, Randall",0,000080
+DECATUR,Dresden Township,United States Senate,,Republican,"Roberts, Pat",37,000080
+DECATUR,Finley Township,United States Senate,,independent,"Orman, Greg",3,000090
+DECATUR,Finley Township,United States Senate,,Libertarian,"Batson, Randall",0,000090
+DECATUR,Finley Township,United States Senate,,Republican,"Roberts, Pat",11,000090
+DECATUR,Garfield Township,United States Senate,,independent,"Orman, Greg",6,000100
+DECATUR,Garfield Township,United States Senate,,Libertarian,"Batson, Randall",1,000100
+DECATUR,Garfield Township,United States Senate,,Republican,"Roberts, Pat",12,000100
+DECATUR,Grant Township,United States Senate,,independent,"Orman, Greg",0,000110
+DECATUR,Grant Township,United States Senate,,Libertarian,"Batson, Randall",0,000110
+DECATUR,Grant Township,United States Senate,,Republican,"Roberts, Pat",3,000110
+DECATUR,Harlan Township,United States Senate,,independent,"Orman, Greg",1,000120
+DECATUR,Harlan Township,United States Senate,,Libertarian,"Batson, Randall",0,000120
+DECATUR,Harlan Township,United States Senate,,Republican,"Roberts, Pat",11,000120
+DECATUR,Jennings Township,United States Senate,,independent,"Orman, Greg",20,000130
+DECATUR,Jennings Township,United States Senate,,Libertarian,"Batson, Randall",2,000130
+DECATUR,Jennings Township,United States Senate,,Republican,"Roberts, Pat",44,000130
+DECATUR,Liberty Township,United States Senate,,independent,"Orman, Greg",4,000140
+DECATUR,Liberty Township,United States Senate,,Libertarian,"Batson, Randall",2,000140
+DECATUR,Liberty Township,United States Senate,,Republican,"Roberts, Pat",21,000140
+DECATUR,Lincoln Township,United States Senate,,independent,"Orman, Greg",13,000150
+DECATUR,Lincoln Township,United States Senate,,Libertarian,"Batson, Randall",3,000150
+DECATUR,Lincoln Township,United States Senate,,Republican,"Roberts, Pat",43,000150
+DECATUR,Logan Township,United States Senate,,independent,"Orman, Greg",0,000160
+DECATUR,Logan Township,United States Senate,,Libertarian,"Batson, Randall",0,000160
+DECATUR,Logan Township,United States Senate,,Republican,"Roberts, Pat",16,000160
+DECATUR,Lyon Township,United States Senate,,independent,"Orman, Greg",3,000170
+DECATUR,Lyon Township,United States Senate,,Libertarian,"Batson, Randall",0,000170
+DECATUR,Lyon Township,United States Senate,,Republican,"Roberts, Pat",2,000170
+DECATUR,Oberlin City Precinct 1,United States Senate,,independent,"Orman, Greg",70,000180
+DECATUR,Oberlin City Precinct 1,United States Senate,,Libertarian,"Batson, Randall",10,000180
+DECATUR,Oberlin City Precinct 1,United States Senate,,Republican,"Roberts, Pat",224,000180
+DECATUR,Oberlin City Precinct 2,United States Senate,,independent,"Orman, Greg",63,00019A
+DECATUR,Oberlin City Precinct 2,United States Senate,,Libertarian,"Batson, Randall",22,00019A
+DECATUR,Oberlin City Precinct 2,United States Senate,,Republican,"Roberts, Pat",308,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,United States Senate,,independent,"Orman, Greg",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,United States Senate,,Libertarian,"Batson, Randall",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,United States Senate,,Republican,"Roberts, Pat",0,00019B
+DECATUR,Oberlin Township,United States Senate,,independent,"Orman, Greg",8,000200
+DECATUR,Oberlin Township,United States Senate,,Libertarian,"Batson, Randall",3,000200
+DECATUR,Oberlin Township,United States Senate,,Republican,"Roberts, Pat",36,000200
+DECATUR,Olive Township,United States Senate,,independent,"Orman, Greg",5,000210
+DECATUR,Olive Township,United States Senate,,Libertarian,"Batson, Randall",0,000210
+DECATUR,Olive Township,United States Senate,,Republican,"Roberts, Pat",21,000210
+DECATUR,Pleasant Valley Township,United States Senate,,independent,"Orman, Greg",4,000220
+DECATUR,Pleasant Valley Township,United States Senate,,Libertarian,"Batson, Randall",0,000220
+DECATUR,Pleasant Valley Township,United States Senate,,Republican,"Roberts, Pat",14,000220
+DECATUR,Prairie Dog Township,United States Senate,,independent,"Orman, Greg",0,000230
+DECATUR,Prairie Dog Township,United States Senate,,Libertarian,"Batson, Randall",1,000230
+DECATUR,Prairie Dog Township,United States Senate,,Republican,"Roberts, Pat",13,000230
+DECATUR,Roosevelt Township,United States Senate,,independent,"Orman, Greg",3,000240
+DECATUR,Roosevelt Township,United States Senate,,Libertarian,"Batson, Randall",0,000240
+DECATUR,Roosevelt Township,United States Senate,,Republican,"Roberts, Pat",5,000240
+DECATUR,Sappa Township,United States Senate,,independent,"Orman, Greg",0,000250
+DECATUR,Sappa Township,United States Senate,,Libertarian,"Batson, Randall",0,000250
+DECATUR,Sappa Township,United States Senate,,Republican,"Roberts, Pat",19,000250
+DECATUR,Sherman Township,United States Senate,,independent,"Orman, Greg",1,000260
+DECATUR,Sherman Township,United States Senate,,Libertarian,"Batson, Randall",1,000260
+DECATUR,Sherman Township,United States Senate,,Republican,"Roberts, Pat",5,000260
+DECATUR,Summit Township,United States Senate,,independent,"Orman, Greg",4,000270
+DECATUR,Summit Township,United States Senate,,Libertarian,"Batson, Randall",0,000270
+DECATUR,Summit Township,United States Senate,,Republican,"Roberts, Pat",9,000270
