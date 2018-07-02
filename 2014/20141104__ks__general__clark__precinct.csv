@@ -1,53 +1,53 @@
 county,precinct,office,district,party,candidate,votes,vtd
-CLARK,Appleton Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",83,000010
-CLARK,Appleton Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",15,000010
-CLARK,Appleton Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",231,000010
-CLARK,Center 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",73,000020
-CLARK,Center 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000020
-CLARK,Center 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",130,000020
-CLARK,Center 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",48,000030
-CLARK,Center 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000030
-CLARK,Center 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",103,000030
-CLARK,Englewood Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",14,000040
-CLARK,Englewood Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",4,000040
-CLARK,Englewood Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",35,000040
-CLARK,Lexington Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000050
-CLARK,Lexington Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000050
-CLARK,Lexington Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",20,000050
-CLARK,Liberty Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000060
-CLARK,Liberty Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000060
-CLARK,Liberty Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",14,000060
-CLARK,Sitka Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",14,000070
-CLARK,Sitka Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000070
-CLARK,Sitka Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",23,000070
-CLARK,Appleton Township,Kansas House of Representatives,115,Democratic,"Low, Mark",92,000010
-CLARK,Appleton Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",237,000010
-CLARK,Center 1,Kansas House of Representatives,115,Democratic,"Low, Mark",56,000020
-CLARK,Center 1,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",148,000020
-CLARK,Center 2,Kansas House of Representatives,115,Democratic,"Low, Mark",43,000030
-CLARK,Center 2,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",112,000030
-CLARK,Englewood Township,Kansas House of Representatives,115,Democratic,"Low, Mark",17,000040
-CLARK,Englewood Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",36,000040
-CLARK,Lexington Township,Kansas House of Representatives,115,Democratic,"Low, Mark",4,000050
-CLARK,Lexington Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",20,000050
-CLARK,Liberty Township,Kansas House of Representatives,115,Democratic,"Low, Mark",0,000060
-CLARK,Liberty Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",16,000060
-CLARK,Sitka Township,Kansas House of Representatives,115,Democratic,"Low, Mark",7,000070
-CLARK,Sitka Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald W Sr.",30,000070
-CLARK,Appleton Township,United States House of Representatives,1,Democratic,"Sherow, James E.",67,000010
-CLARK,Appleton Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",259,000010
-CLARK,Center 1,United States House of Representatives,1,Democratic,"Sherow, James E.",49,000020
-CLARK,Center 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",162,000020
-CLARK,Center 2,United States House of Representatives,1,Democratic,"Sherow, James E.",43,000030
-CLARK,Center 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",109,000030
-CLARK,Englewood Township,United States House of Representatives,1,Democratic,"Sherow, James E.",20,000040
-CLARK,Englewood Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000040
-CLARK,Lexington Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000050
-CLARK,Lexington Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",21,000050
-CLARK,Liberty Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000060
-CLARK,Liberty Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",17,000060
-CLARK,Sitka Township,United States House of Representatives,1,Democratic,"Sherow, James E.",12,000070
-CLARK,Sitka Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",25,000070
+CLARK,Appleton Township,Governor,,Democratic,"Davis, Paul",83,000010
+CLARK,Appleton Township,Governor,,Libertarian,"Umbehr, Keen A.",15,000010
+CLARK,Appleton Township,Governor,,Republican,"Brownback, Sam",231,000010
+CLARK,Center 1,Governor,,Democratic,"Davis, Paul",73,000020
+CLARK,Center 1,Governor,,Libertarian,"Umbehr, Keen A.",7,000020
+CLARK,Center 1,Governor,,Republican,"Brownback, Sam",130,000020
+CLARK,Center 2,Governor,,Democratic,"Davis, Paul",48,000030
+CLARK,Center 2,Governor,,Libertarian,"Umbehr, Keen A.",8,000030
+CLARK,Center 2,Governor,,Republican,"Brownback, Sam",103,000030
+CLARK,Englewood Township,Governor,,Democratic,"Davis, Paul",14,000040
+CLARK,Englewood Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000040
+CLARK,Englewood Township,Governor,,Republican,"Brownback, Sam",35,000040
+CLARK,Lexington Township,Governor,,Democratic,"Davis, Paul",5,000050
+CLARK,Lexington Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000050
+CLARK,Lexington Township,Governor,,Republican,"Brownback, Sam",20,000050
+CLARK,Liberty Township,Governor,,Democratic,"Davis, Paul",3,000060
+CLARK,Liberty Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000060
+CLARK,Liberty Township,Governor,,Republican,"Brownback, Sam",14,000060
+CLARK,Sitka Township,Governor,,Democratic,"Davis, Paul",14,000070
+CLARK,Sitka Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000070
+CLARK,Sitka Township,Governor,,Republican,"Brownback, Sam",23,000070
+CLARK,Appleton Township,State House,115,Democratic,"Low, Mark",92,000010
+CLARK,Appleton Township,State House,115,Republican,"Ryckman, Ronald W Sr.",237,000010
+CLARK,Center 1,State House,115,Democratic,"Low, Mark",56,000020
+CLARK,Center 1,State House,115,Republican,"Ryckman, Ronald W Sr.",148,000020
+CLARK,Center 2,State House,115,Democratic,"Low, Mark",43,000030
+CLARK,Center 2,State House,115,Republican,"Ryckman, Ronald W Sr.",112,000030
+CLARK,Englewood Township,State House,115,Democratic,"Low, Mark",17,000040
+CLARK,Englewood Township,State House,115,Republican,"Ryckman, Ronald W Sr.",36,000040
+CLARK,Lexington Township,State House,115,Democratic,"Low, Mark",4,000050
+CLARK,Lexington Township,State House,115,Republican,"Ryckman, Ronald W Sr.",20,000050
+CLARK,Liberty Township,State House,115,Democratic,"Low, Mark",0,000060
+CLARK,Liberty Township,State House,115,Republican,"Ryckman, Ronald W Sr.",16,000060
+CLARK,Sitka Township,State House,115,Democratic,"Low, Mark",7,000070
+CLARK,Sitka Township,State House,115,Republican,"Ryckman, Ronald W Sr.",30,000070
+CLARK,Appleton Township,U.S. House,1,Democratic,"Sherow, James E.",67,000010
+CLARK,Appleton Township,U.S. House,1,Republican,"Huelskamp, Tim",259,000010
+CLARK,Center 1,U.S. House,1,Democratic,"Sherow, James E.",49,000020
+CLARK,Center 1,U.S. House,1,Republican,"Huelskamp, Tim",162,000020
+CLARK,Center 2,U.S. House,1,Democratic,"Sherow, James E.",43,000030
+CLARK,Center 2,U.S. House,1,Republican,"Huelskamp, Tim",109,000030
+CLARK,Englewood Township,U.S. House,1,Democratic,"Sherow, James E.",20,000040
+CLARK,Englewood Township,U.S. House,1,Republican,"Huelskamp, Tim",30,000040
+CLARK,Lexington Township,U.S. House,1,Democratic,"Sherow, James E.",4,000050
+CLARK,Lexington Township,U.S. House,1,Republican,"Huelskamp, Tim",21,000050
+CLARK,Liberty Township,U.S. House,1,Democratic,"Sherow, James E.",0,000060
+CLARK,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000060
+CLARK,Sitka Township,U.S. House,1,Democratic,"Sherow, James E.",12,000070
+CLARK,Sitka Township,U.S. House,1,Republican,"Huelskamp, Tim",25,000070
 CLARK,Appleton Township,Attorney General,,Democratic,"Kotich, A.J.",38,000010
 CLARK,Appleton Township,Attorney General,,Republican,"Schmidt, Derek",277,000010
 CLARK,Center 1,Attorney General,,Democratic,"Kotich, A.J.",31,000020
@@ -104,24 +104,24 @@ CLARK,Liberty Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000060
 CLARK,Liberty Township,State Treasurer,,Republican,"Estes, Ron",16,000060
 CLARK,Sitka Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000070
 CLARK,Sitka Township,State Treasurer,,Republican,"Estes, Ron",34,000070
-CLARK,Appleton Township,United States Senate,,independent,"Orman, Greg",64,000010
-CLARK,Appleton Township,United States Senate,,Libertarian,"Batson, Randall",19,000010
-CLARK,Appleton Township,United States Senate,,Republican,"Roberts, Pat",239,000010
-CLARK,Center 1,United States Senate,,independent,"Orman, Greg",54,000020
-CLARK,Center 1,United States Senate,,Libertarian,"Batson, Randall",7,000020
-CLARK,Center 1,United States Senate,,Republican,"Roberts, Pat",147,000020
-CLARK,Center 2,United States Senate,,independent,"Orman, Greg",33,000030
-CLARK,Center 2,United States Senate,,Libertarian,"Batson, Randall",5,000030
-CLARK,Center 2,United States Senate,,Republican,"Roberts, Pat",120,000030
-CLARK,Englewood Township,United States Senate,,independent,"Orman, Greg",12,000040
-CLARK,Englewood Township,United States Senate,,Libertarian,"Batson, Randall",2,000040
-CLARK,Englewood Township,United States Senate,,Republican,"Roberts, Pat",38,000040
-CLARK,Lexington Township,United States Senate,,independent,"Orman, Greg",4,000050
-CLARK,Lexington Township,United States Senate,,Libertarian,"Batson, Randall",1,000050
-CLARK,Lexington Township,United States Senate,,Republican,"Roberts, Pat",19,000050
-CLARK,Liberty Township,United States Senate,,independent,"Orman, Greg",2,000060
-CLARK,Liberty Township,United States Senate,,Libertarian,"Batson, Randall",0,000060
-CLARK,Liberty Township,United States Senate,,Republican,"Roberts, Pat",15,000060
-CLARK,Sitka Township,United States Senate,,independent,"Orman, Greg",8,000070
-CLARK,Sitka Township,United States Senate,,Libertarian,"Batson, Randall",0,000070
-CLARK,Sitka Township,United States Senate,,Republican,"Roberts, Pat",29,000070
+CLARK,Appleton Township,U.S. Senate,,independent,"Orman, Greg",64,000010
+CLARK,Appleton Township,U.S. Senate,,Libertarian,"Batson, Randall",19,000010
+CLARK,Appleton Township,U.S. Senate,,Republican,"Roberts, Pat",239,000010
+CLARK,Center 1,U.S. Senate,,independent,"Orman, Greg",54,000020
+CLARK,Center 1,U.S. Senate,,Libertarian,"Batson, Randall",7,000020
+CLARK,Center 1,U.S. Senate,,Republican,"Roberts, Pat",147,000020
+CLARK,Center 2,U.S. Senate,,independent,"Orman, Greg",33,000030
+CLARK,Center 2,U.S. Senate,,Libertarian,"Batson, Randall",5,000030
+CLARK,Center 2,U.S. Senate,,Republican,"Roberts, Pat",120,000030
+CLARK,Englewood Township,U.S. Senate,,independent,"Orman, Greg",12,000040
+CLARK,Englewood Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000040
+CLARK,Englewood Township,U.S. Senate,,Republican,"Roberts, Pat",38,000040
+CLARK,Lexington Township,U.S. Senate,,independent,"Orman, Greg",4,000050
+CLARK,Lexington Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000050
+CLARK,Lexington Township,U.S. Senate,,Republican,"Roberts, Pat",19,000050
+CLARK,Liberty Township,U.S. Senate,,independent,"Orman, Greg",2,000060
+CLARK,Liberty Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000060
+CLARK,Liberty Township,U.S. Senate,,Republican,"Roberts, Pat",15,000060
+CLARK,Sitka Township,U.S. Senate,,independent,"Orman, Greg",8,000070
+CLARK,Sitka Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000070
+CLARK,Sitka Township,U.S. Senate,,Republican,"Roberts, Pat",29,000070

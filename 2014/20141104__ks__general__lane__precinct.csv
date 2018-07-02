@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,vtd
-LANE,Alamota Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",8,000010
-LANE,Alamota Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000010
-LANE,Alamota Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",28,000010
-LANE,Dighton Township 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",15,000020
-LANE,Dighton Township 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000020
-LANE,Dighton Township 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",39,000020
-LANE,Dighton Township 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000030
-LANE,Dighton Township 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000030
-LANE,Dighton Township 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",13,000030
-LANE,Cheyenne Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",26,000040
-LANE,Cheyenne Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000040
-LANE,Cheyenne Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",84,000040
-LANE,Dighton Township 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",10,000050
-LANE,Dighton Township 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000050
-LANE,Dighton Township 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",31,000050
-LANE,Dighton City Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",58,000060
-LANE,Dighton City Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",9,000060
-LANE,Dighton City Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",103,000060
-LANE,Dighton City Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",68,000070
-LANE,Dighton City Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",7,000070
-LANE,Dighton City Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",136,000070
-LANE,Dighton City Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",15,000080
-LANE,Dighton City Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000080
-LANE,Dighton City Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",42,000080
-LANE,White Rock Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",6,000100
-LANE,White Rock Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000100
-LANE,White Rock Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",5,000100
-LANE,Wilson Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000110
-LANE,Wilson Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000110
-LANE,Wilson Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",28,000110
-LANE,Alamota Township,Kansas House of Representatives,118,Republican,"Hineman, Don",25,000010
-LANE,Dighton Township 2,Kansas House of Representatives,118,Republican,"Hineman, Don",55,000020
-LANE,Dighton Township 3,Kansas House of Representatives,118,Republican,"Hineman, Don",19,000030
-LANE,Cheyenne Township,Kansas House of Representatives,118,Republican,"Hineman, Don",101,000040
-LANE,Dighton Township 1,Kansas House of Representatives,118,Republican,"Hineman, Don",40,000050
-LANE,Dighton City Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",156,000060
-LANE,Dighton City Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",198,000070
-LANE,Dighton City Precinct 3,Kansas House of Representatives,118,Republican,"Hineman, Don",61,000080
-LANE,White Rock Township,Kansas House of Representatives,118,Republican,"Hineman, Don",10,000100
-LANE,Wilson Township,Kansas House of Representatives,118,Republican,"Hineman, Don",31,000110
-LANE,Alamota Township,United States House of Representatives,1,Democratic,"Sherow, James E.",8,000010
-LANE,Alamota Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",28,000010
-LANE,Dighton Township 2,United States House of Representatives,1,Democratic,"Sherow, James E.",8,000020
-LANE,Dighton Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",45,000020
-LANE,Dighton Township 3,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000030
-LANE,Dighton Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",18,000030
-LANE,Cheyenne Township,United States House of Representatives,1,Democratic,"Sherow, James E.",20,000040
-LANE,Cheyenne Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",94,000040
-LANE,Dighton Township 1,United States House of Representatives,1,Democratic,"Sherow, James E.",11,000050
-LANE,Dighton Township 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",31,000050
-LANE,Dighton City Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",44,000060
-LANE,Dighton City Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",126,000060
-LANE,Dighton City Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",56,000070
-LANE,Dighton City Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",154,000070
-LANE,Dighton City Precinct 3,United States House of Representatives,1,Democratic,"Sherow, James E.",15,000080
-LANE,Dighton City Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",51,000080
-LANE,White Rock Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000100
-LANE,White Rock Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",9,000100
-LANE,Wilson Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000110
-LANE,Wilson Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",29,000110
+LANE,Alamota Township,Governor,,Democratic,"Davis, Paul",8,000010
+LANE,Alamota Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000010
+LANE,Alamota Township,Governor,,Republican,"Brownback, Sam",28,000010
+LANE,Dighton Township 2,Governor,,Democratic,"Davis, Paul",15,000020
+LANE,Dighton Township 2,Governor,,Libertarian,"Umbehr, Keen A.",2,000020
+LANE,Dighton Township 2,Governor,,Republican,"Brownback, Sam",39,000020
+LANE,Dighton Township 3,Governor,,Democratic,"Davis, Paul",9,000030
+LANE,Dighton Township 3,Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+LANE,Dighton Township 3,Governor,,Republican,"Brownback, Sam",13,000030
+LANE,Cheyenne Township,Governor,,Democratic,"Davis, Paul",26,000040
+LANE,Cheyenne Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000040
+LANE,Cheyenne Township,Governor,,Republican,"Brownback, Sam",84,000040
+LANE,Dighton Township 1,Governor,,Democratic,"Davis, Paul",10,000050
+LANE,Dighton Township 1,Governor,,Libertarian,"Umbehr, Keen A.",1,000050
+LANE,Dighton Township 1,Governor,,Republican,"Brownback, Sam",31,000050
+LANE,Dighton City Precinct 1,Governor,,Democratic,"Davis, Paul",58,000060
+LANE,Dighton City Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",9,000060
+LANE,Dighton City Precinct 1,Governor,,Republican,"Brownback, Sam",103,000060
+LANE,Dighton City Precinct 2,Governor,,Democratic,"Davis, Paul",68,000070
+LANE,Dighton City Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",7,000070
+LANE,Dighton City Precinct 2,Governor,,Republican,"Brownback, Sam",136,000070
+LANE,Dighton City Precinct 3,Governor,,Democratic,"Davis, Paul",15,000080
+LANE,Dighton City Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",5,000080
+LANE,Dighton City Precinct 3,Governor,,Republican,"Brownback, Sam",42,000080
+LANE,White Rock Township,Governor,,Democratic,"Davis, Paul",6,000100
+LANE,White Rock Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000100
+LANE,White Rock Township,Governor,,Republican,"Brownback, Sam",5,000100
+LANE,Wilson Township,Governor,,Democratic,"Davis, Paul",5,000110
+LANE,Wilson Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000110
+LANE,Wilson Township,Governor,,Republican,"Brownback, Sam",28,000110
+LANE,Alamota Township,State House,118,Republican,"Hineman, Don",25,000010
+LANE,Dighton Township 2,State House,118,Republican,"Hineman, Don",55,000020
+LANE,Dighton Township 3,State House,118,Republican,"Hineman, Don",19,000030
+LANE,Cheyenne Township,State House,118,Republican,"Hineman, Don",101,000040
+LANE,Dighton Township 1,State House,118,Republican,"Hineman, Don",40,000050
+LANE,Dighton City Precinct 1,State House,118,Republican,"Hineman, Don",156,000060
+LANE,Dighton City Precinct 2,State House,118,Republican,"Hineman, Don",198,000070
+LANE,Dighton City Precinct 3,State House,118,Republican,"Hineman, Don",61,000080
+LANE,White Rock Township,State House,118,Republican,"Hineman, Don",10,000100
+LANE,Wilson Township,State House,118,Republican,"Hineman, Don",31,000110
+LANE,Alamota Township,U.S. House,1,Democratic,"Sherow, James E.",8,000010
+LANE,Alamota Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000010
+LANE,Dighton Township 2,U.S. House,1,Democratic,"Sherow, James E.",8,000020
+LANE,Dighton Township 2,U.S. House,1,Republican,"Huelskamp, Tim",45,000020
+LANE,Dighton Township 3,U.S. House,1,Democratic,"Sherow, James E.",4,000030
+LANE,Dighton Township 3,U.S. House,1,Republican,"Huelskamp, Tim",18,000030
+LANE,Cheyenne Township,U.S. House,1,Democratic,"Sherow, James E.",20,000040
+LANE,Cheyenne Township,U.S. House,1,Republican,"Huelskamp, Tim",94,000040
+LANE,Dighton Township 1,U.S. House,1,Democratic,"Sherow, James E.",11,000050
+LANE,Dighton Township 1,U.S. House,1,Republican,"Huelskamp, Tim",31,000050
+LANE,Dighton City Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",44,000060
+LANE,Dighton City Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",126,000060
+LANE,Dighton City Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",56,000070
+LANE,Dighton City Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",154,000070
+LANE,Dighton City Precinct 3,U.S. House,1,Democratic,"Sherow, James E.",15,000080
+LANE,Dighton City Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",51,000080
+LANE,White Rock Township,U.S. House,1,Democratic,"Sherow, James E.",3,000100
+LANE,White Rock Township,U.S. House,1,Republican,"Huelskamp, Tim",9,000100
+LANE,Wilson Township,U.S. House,1,Democratic,"Sherow, James E.",4,000110
+LANE,Wilson Township,U.S. House,1,Republican,"Huelskamp, Tim",29,000110
 LANE,Alamota Township,Attorney General,,Democratic,"Kotich, A.J.",7,000010
 LANE,Alamota Township,Attorney General,,Republican,"Schmidt, Derek",28,000010
 LANE,Dighton Township 2,Attorney General,,Democratic,"Kotich, A.J.",4,000020
@@ -139,33 +139,33 @@ LANE,White Rock Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000100
 LANE,White Rock Township,State Treasurer,,Republican,"Estes, Ron",11,000100
 LANE,Wilson Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000110
 LANE,Wilson Township,State Treasurer,,Republican,"Estes, Ron",31,000110
-LANE,Alamota Township,United States Senate,,independent,"Orman, Greg",7,000010
-LANE,Alamota Township,United States Senate,,Libertarian,"Batson, Randall",1,000010
-LANE,Alamota Township,United States Senate,,Republican,"Roberts, Pat",27,000010
-LANE,Dighton Township 2,United States Senate,,independent,"Orman, Greg",8,000020
-LANE,Dighton Township 2,United States Senate,,Libertarian,"Batson, Randall",1,000020
-LANE,Dighton Township 2,United States Senate,,Republican,"Roberts, Pat",46,000020
-LANE,Dighton Township 3,United States Senate,,independent,"Orman, Greg",4,000030
-LANE,Dighton Township 3,United States Senate,,Libertarian,"Batson, Randall",0,000030
-LANE,Dighton Township 3,United States Senate,,Republican,"Roberts, Pat",18,000030
-LANE,Cheyenne Township,United States Senate,,independent,"Orman, Greg",23,000040
-LANE,Cheyenne Township,United States Senate,,Libertarian,"Batson, Randall",3,000040
-LANE,Cheyenne Township,United States Senate,,Republican,"Roberts, Pat",89,000040
-LANE,Dighton Township 1,United States Senate,,independent,"Orman, Greg",8,000050
-LANE,Dighton Township 1,United States Senate,,Libertarian,"Batson, Randall",2,000050
-LANE,Dighton Township 1,United States Senate,,Republican,"Roberts, Pat",32,000050
-LANE,Dighton City Precinct 1,United States Senate,,independent,"Orman, Greg",47,000060
-LANE,Dighton City Precinct 1,United States Senate,,Libertarian,"Batson, Randall",5,000060
-LANE,Dighton City Precinct 1,United States Senate,,Republican,"Roberts, Pat",120,000060
-LANE,Dighton City Precinct 2,United States Senate,,independent,"Orman, Greg",43,000070
-LANE,Dighton City Precinct 2,United States Senate,,Libertarian,"Batson, Randall",9,000070
-LANE,Dighton City Precinct 2,United States Senate,,Republican,"Roberts, Pat",158,000070
-LANE,Dighton City Precinct 3,United States Senate,,independent,"Orman, Greg",12,000080
-LANE,Dighton City Precinct 3,United States Senate,,Libertarian,"Batson, Randall",3,000080
-LANE,Dighton City Precinct 3,United States Senate,,Republican,"Roberts, Pat",50,000080
-LANE,White Rock Township,United States Senate,,independent,"Orman, Greg",3,000100
-LANE,White Rock Township,United States Senate,,Libertarian,"Batson, Randall",0,000100
-LANE,White Rock Township,United States Senate,,Republican,"Roberts, Pat",9,000100
-LANE,Wilson Township,United States Senate,,independent,"Orman, Greg",4,000110
-LANE,Wilson Township,United States Senate,,Libertarian,"Batson, Randall",1,000110
-LANE,Wilson Township,United States Senate,,Republican,"Roberts, Pat",31,000110
+LANE,Alamota Township,U.S. Senate,,independent,"Orman, Greg",7,000010
+LANE,Alamota Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000010
+LANE,Alamota Township,U.S. Senate,,Republican,"Roberts, Pat",27,000010
+LANE,Dighton Township 2,U.S. Senate,,independent,"Orman, Greg",8,000020
+LANE,Dighton Township 2,U.S. Senate,,Libertarian,"Batson, Randall",1,000020
+LANE,Dighton Township 2,U.S. Senate,,Republican,"Roberts, Pat",46,000020
+LANE,Dighton Township 3,U.S. Senate,,independent,"Orman, Greg",4,000030
+LANE,Dighton Township 3,U.S. Senate,,Libertarian,"Batson, Randall",0,000030
+LANE,Dighton Township 3,U.S. Senate,,Republican,"Roberts, Pat",18,000030
+LANE,Cheyenne Township,U.S. Senate,,independent,"Orman, Greg",23,000040
+LANE,Cheyenne Township,U.S. Senate,,Libertarian,"Batson, Randall",3,000040
+LANE,Cheyenne Township,U.S. Senate,,Republican,"Roberts, Pat",89,000040
+LANE,Dighton Township 1,U.S. Senate,,independent,"Orman, Greg",8,000050
+LANE,Dighton Township 1,U.S. Senate,,Libertarian,"Batson, Randall",2,000050
+LANE,Dighton Township 1,U.S. Senate,,Republican,"Roberts, Pat",32,000050
+LANE,Dighton City Precinct 1,U.S. Senate,,independent,"Orman, Greg",47,000060
+LANE,Dighton City Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",5,000060
+LANE,Dighton City Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",120,000060
+LANE,Dighton City Precinct 2,U.S. Senate,,independent,"Orman, Greg",43,000070
+LANE,Dighton City Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",9,000070
+LANE,Dighton City Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",158,000070
+LANE,Dighton City Precinct 3,U.S. Senate,,independent,"Orman, Greg",12,000080
+LANE,Dighton City Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",3,000080
+LANE,Dighton City Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",50,000080
+LANE,White Rock Township,U.S. Senate,,independent,"Orman, Greg",3,000100
+LANE,White Rock Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000100
+LANE,White Rock Township,U.S. Senate,,Republican,"Roberts, Pat",9,000100
+LANE,Wilson Township,U.S. Senate,,independent,"Orman, Greg",4,000110
+LANE,Wilson Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000110
+LANE,Wilson Township,U.S. Senate,,Republican,"Roberts, Pat",31,000110

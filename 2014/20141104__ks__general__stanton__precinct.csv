@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,vtd
-STANTON,Big Bow,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000010
-STANTON,Big Bow,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,000010
-STANTON,Big Bow,Governor / Lt. Governor,,Republican,"Brownback, Sam",85,000010
-STANTON,Manter,Governor / Lt. Governor,,Democratic,"Davis, Paul",26,000020
-STANTON,Manter,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000020
-STANTON,Manter,Governor / Lt. Governor,,Republican,"Brownback, Sam",70,000020
-STANTON,Stanton,Governor / Lt. Governor,,Democratic,"Davis, Paul",119,000030
-STANTON,Stanton,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000030
-STANTON,Stanton,Governor / Lt. Governor,,Republican,"Brownback, Sam",366,000030
-STANTON,Big Bow,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",100,000010
-STANTON,Manter,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",81,000020
-STANTON,Stanton,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",431,000030
-STANTON,Big Bow,United States House of Representatives,1,Democratic,"Sherow, James E.",20,000010
-STANTON,Big Bow,United States House of Representatives,1,Republican,"Huelskamp, Tim",88,000010
-STANTON,Manter,United States House of Representatives,1,Democratic,"Sherow, James E.",23,000020
-STANTON,Manter,United States House of Representatives,1,Republican,"Huelskamp, Tim",74,000020
-STANTON,Stanton,United States House of Representatives,1,Democratic,"Sherow, James E.",102,000030
-STANTON,Stanton,United States House of Representatives,1,Republican,"Huelskamp, Tim",384,000030
+STANTON,Big Bow,Governor,,Democratic,"Davis, Paul",16,000010
+STANTON,Big Bow,Governor,,Libertarian,"Umbehr, Keen A.",6,000010
+STANTON,Big Bow,Governor,,Republican,"Brownback, Sam",85,000010
+STANTON,Manter,Governor,,Democratic,"Davis, Paul",26,000020
+STANTON,Manter,Governor,,Libertarian,"Umbehr, Keen A.",2,000020
+STANTON,Manter,Governor,,Republican,"Brownback, Sam",70,000020
+STANTON,Stanton,Governor,,Democratic,"Davis, Paul",119,000030
+STANTON,Stanton,Governor,,Libertarian,"Umbehr, Keen A.",19,000030
+STANTON,Stanton,Governor,,Republican,"Brownback, Sam",366,000030
+STANTON,Big Bow,State House,124,Republican,"Alford, J. Stephen",100,000010
+STANTON,Manter,State House,124,Republican,"Alford, J. Stephen",81,000020
+STANTON,Stanton,State House,124,Republican,"Alford, J. Stephen",431,000030
+STANTON,Big Bow,U.S. House,1,Democratic,"Sherow, James E.",20,000010
+STANTON,Big Bow,U.S. House,1,Republican,"Huelskamp, Tim",88,000010
+STANTON,Manter,U.S. House,1,Democratic,"Sherow, James E.",23,000020
+STANTON,Manter,U.S. House,1,Republican,"Huelskamp, Tim",74,000020
+STANTON,Stanton,U.S. House,1,Democratic,"Sherow, James E.",102,000030
+STANTON,Stanton,U.S. House,1,Republican,"Huelskamp, Tim",384,000030
 STANTON,Big Bow,Attorney General,,Democratic,"Kotich, A.J.",8,000010
 STANTON,Big Bow,Attorney General,,Republican,"Schmidt, Derek",97,000010
 STANTON,Manter,Attorney General,,Democratic,"Kotich, A.J.",13,000020
@@ -41,12 +41,12 @@ STANTON,Manter,State Treasurer,,Democratic,"Alldritt, Carmen",8,000020
 STANTON,Manter,State Treasurer,,Republican,"Estes, Ron",87,000020
 STANTON,Stanton,State Treasurer,,Democratic,"Alldritt, Carmen",64,000030
 STANTON,Stanton,State Treasurer,,Republican,"Estes, Ron",407,000030
-STANTON,Big Bow,United States Senate,,independent,"Orman, Greg",13,000010
-STANTON,Big Bow,United States Senate,,Libertarian,"Batson, Randall",2,000010
-STANTON,Big Bow,United States Senate,,Republican,"Roberts, Pat",94,000010
-STANTON,Manter,United States Senate,,independent,"Orman, Greg",16,000020
-STANTON,Manter,United States Senate,,Libertarian,"Batson, Randall",4,000020
-STANTON,Manter,United States Senate,,Republican,"Roberts, Pat",76,000020
-STANTON,Stanton,United States Senate,,independent,"Orman, Greg",90,000030
-STANTON,Stanton,United States Senate,,Libertarian,"Batson, Randall",22,000030
-STANTON,Stanton,United States Senate,,Republican,"Roberts, Pat",390,000030
+STANTON,Big Bow,U.S. Senate,,independent,"Orman, Greg",13,000010
+STANTON,Big Bow,U.S. Senate,,Libertarian,"Batson, Randall",2,000010
+STANTON,Big Bow,U.S. Senate,,Republican,"Roberts, Pat",94,000010
+STANTON,Manter,U.S. Senate,,independent,"Orman, Greg",16,000020
+STANTON,Manter,U.S. Senate,,Libertarian,"Batson, Randall",4,000020
+STANTON,Manter,U.S. Senate,,Republican,"Roberts, Pat",76,000020
+STANTON,Stanton,U.S. Senate,,independent,"Orman, Greg",90,000030
+STANTON,Stanton,U.S. Senate,,Libertarian,"Batson, Randall",22,000030
+STANTON,Stanton,U.S. Senate,,Republican,"Roberts, Pat",390,000030

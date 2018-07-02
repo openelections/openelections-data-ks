@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes,vtd
-MORTON,Cimarron Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",5,000010
-MORTON,Cimarron Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000010
-MORTON,Cimarron Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",18,000010
-MORTON,East Richfield,Governor / Lt. Governor,,Democratic,"Davis, Paul",15,000020
-MORTON,East Richfield,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000020
-MORTON,East Richfield,Governor / Lt. Governor,,Republican,"Brownback, Sam",19,000020
-MORTON,Elkhart Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",59,000030
-MORTON,Elkhart Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000030
-MORTON,Elkhart Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",117,000030
-MORTON,Elkhart Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",46,000040
-MORTON,Elkhart Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",8,000040
-MORTON,Elkhart Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",119,000040
-MORTON,Elkhart Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",69,000050
-MORTON,Elkhart Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",13,000050
-MORTON,Elkhart Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",133,000050
-MORTON,Jones Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000060
-MORTON,Jones Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000060
-MORTON,Jones Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",8,000060
-MORTON,Rolla Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",58,000070
-MORTON,Rolla Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",5,000070
-MORTON,Rolla Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",91,000070
-MORTON,Taloga Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",4,000080
-MORTON,Taloga Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000080
-MORTON,Taloga Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",34,000080
-MORTON,West Richfield,Governor / Lt. Governor,,Democratic,"Davis, Paul",3,000090
-MORTON,West Richfield,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000090
-MORTON,West Richfield,Governor / Lt. Governor,,Republican,"Brownback, Sam",37,000090
-MORTON,Westola Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",8,000100
-MORTON,Westola Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000100
-MORTON,Westola Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",21,000100
-MORTON,Cimarron Township,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",26,000010
-MORTON,East Richfield,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",30,000020
-MORTON,Elkhart Ward 1,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",174,000030
-MORTON,Elkhart Ward 2,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",149,000040
-MORTON,Elkhart Ward 3,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",195,000050
-MORTON,Jones Township,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",9,000060
-MORTON,Rolla Township,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",139,000070
-MORTON,Taloga Township,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",35,000080
-MORTON,West Richfield,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",41,000090
-MORTON,Westola Township,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",25,000100
-MORTON,Cimarron Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000010
-MORTON,Cimarron Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,000010
-MORTON,East Richfield,United States House of Representatives,1,Democratic,"Sherow, James E.",9,000020
-MORTON,East Richfield,United States House of Representatives,1,Republican,"Huelskamp, Tim",27,000020
-MORTON,Elkhart Ward 1,United States House of Representatives,1,Democratic,"Sherow, James E.",30,000030
-MORTON,Elkhart Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",161,000030
-MORTON,Elkhart Ward 2,United States House of Representatives,1,Democratic,"Sherow, James E.",32,000040
-MORTON,Elkhart Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",139,000040
-MORTON,Elkhart Ward 3,United States House of Representatives,1,Democratic,"Sherow, James E.",36,000050
-MORTON,Elkhart Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",181,000050
-MORTON,Jones Township,United States House of Representatives,1,Democratic,"Sherow, James E.",0,000060
-MORTON,Jones Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",9,000060
-MORTON,Rolla Township,United States House of Representatives,1,Democratic,"Sherow, James E.",32,000070
-MORTON,Rolla Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",121,000070
-MORTON,Taloga Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000080
-MORTON,Taloga Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",34,000080
-MORTON,West Richfield,United States House of Representatives,1,Democratic,"Sherow, James E.",1,000090
-MORTON,West Richfield,United States House of Representatives,1,Republican,"Huelskamp, Tim",40,000090
-MORTON,Westola Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000100
-MORTON,Westola Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",26,000100
+MORTON,Cimarron Township,Governor,,Democratic,"Davis, Paul",5,000010
+MORTON,Cimarron Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000010
+MORTON,Cimarron Township,Governor,,Republican,"Brownback, Sam",18,000010
+MORTON,East Richfield,Governor,,Democratic,"Davis, Paul",15,000020
+MORTON,East Richfield,Governor,,Libertarian,"Umbehr, Keen A.",1,000020
+MORTON,East Richfield,Governor,,Republican,"Brownback, Sam",19,000020
+MORTON,Elkhart Ward 1,Governor,,Democratic,"Davis, Paul",59,000030
+MORTON,Elkhart Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",10,000030
+MORTON,Elkhart Ward 1,Governor,,Republican,"Brownback, Sam",117,000030
+MORTON,Elkhart Ward 2,Governor,,Democratic,"Davis, Paul",46,000040
+MORTON,Elkhart Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",8,000040
+MORTON,Elkhart Ward 2,Governor,,Republican,"Brownback, Sam",119,000040
+MORTON,Elkhart Ward 3,Governor,,Democratic,"Davis, Paul",69,000050
+MORTON,Elkhart Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",13,000050
+MORTON,Elkhart Ward 3,Governor,,Republican,"Brownback, Sam",133,000050
+MORTON,Jones Township,Governor,,Democratic,"Davis, Paul",1,000060
+MORTON,Jones Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000060
+MORTON,Jones Township,Governor,,Republican,"Brownback, Sam",8,000060
+MORTON,Rolla Township,Governor,,Democratic,"Davis, Paul",58,000070
+MORTON,Rolla Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000070
+MORTON,Rolla Township,Governor,,Republican,"Brownback, Sam",91,000070
+MORTON,Taloga Township,Governor,,Democratic,"Davis, Paul",4,000080
+MORTON,Taloga Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000080
+MORTON,Taloga Township,Governor,,Republican,"Brownback, Sam",34,000080
+MORTON,West Richfield,Governor,,Democratic,"Davis, Paul",3,000090
+MORTON,West Richfield,Governor,,Libertarian,"Umbehr, Keen A.",1,000090
+MORTON,West Richfield,Governor,,Republican,"Brownback, Sam",37,000090
+MORTON,Westola Township,Governor,,Democratic,"Davis, Paul",8,000100
+MORTON,Westola Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000100
+MORTON,Westola Township,Governor,,Republican,"Brownback, Sam",21,000100
+MORTON,Cimarron Township,State House,124,Republican,"Alford, J. Stephen",26,000010
+MORTON,East Richfield,State House,124,Republican,"Alford, J. Stephen",30,000020
+MORTON,Elkhart Ward 1,State House,124,Republican,"Alford, J. Stephen",174,000030
+MORTON,Elkhart Ward 2,State House,124,Republican,"Alford, J. Stephen",149,000040
+MORTON,Elkhart Ward 3,State House,124,Republican,"Alford, J. Stephen",195,000050
+MORTON,Jones Township,State House,124,Republican,"Alford, J. Stephen",9,000060
+MORTON,Rolla Township,State House,124,Republican,"Alford, J. Stephen",139,000070
+MORTON,Taloga Township,State House,124,Republican,"Alford, J. Stephen",35,000080
+MORTON,West Richfield,State House,124,Republican,"Alford, J. Stephen",41,000090
+MORTON,Westola Township,State House,124,Republican,"Alford, J. Stephen",25,000100
+MORTON,Cimarron Township,U.S. House,1,Democratic,"Sherow, James E.",4,000010
+MORTON,Cimarron Township,U.S. House,1,Republican,"Huelskamp, Tim",22,000010
+MORTON,East Richfield,U.S. House,1,Democratic,"Sherow, James E.",9,000020
+MORTON,East Richfield,U.S. House,1,Republican,"Huelskamp, Tim",27,000020
+MORTON,Elkhart Ward 1,U.S. House,1,Democratic,"Sherow, James E.",30,000030
+MORTON,Elkhart Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",161,000030
+MORTON,Elkhart Ward 2,U.S. House,1,Democratic,"Sherow, James E.",32,000040
+MORTON,Elkhart Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",139,000040
+MORTON,Elkhart Ward 3,U.S. House,1,Democratic,"Sherow, James E.",36,000050
+MORTON,Elkhart Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",181,000050
+MORTON,Jones Township,U.S. House,1,Democratic,"Sherow, James E.",0,000060
+MORTON,Jones Township,U.S. House,1,Republican,"Huelskamp, Tim",9,000060
+MORTON,Rolla Township,U.S. House,1,Democratic,"Sherow, James E.",32,000070
+MORTON,Rolla Township,U.S. House,1,Republican,"Huelskamp, Tim",121,000070
+MORTON,Taloga Township,U.S. House,1,Democratic,"Sherow, James E.",3,000080
+MORTON,Taloga Township,U.S. House,1,Republican,"Huelskamp, Tim",34,000080
+MORTON,West Richfield,U.S. House,1,Democratic,"Sherow, James E.",1,000090
+MORTON,West Richfield,U.S. House,1,Republican,"Huelskamp, Tim",40,000090
+MORTON,Westola Township,U.S. House,1,Democratic,"Sherow, James E.",3,000100
+MORTON,Westola Township,U.S. House,1,Republican,"Huelskamp, Tim",26,000100
 MORTON,Cimarron Township,Attorney General,,Democratic,"Kotich, A.J.",4,000010
 MORTON,Cimarron Township,Attorney General,,Republican,"Schmidt, Derek",22,000010
 MORTON,East Richfield,Attorney General,,Democratic,"Kotich, A.J.",8,000020
@@ -139,33 +139,33 @@ MORTON,West Richfield,State Treasurer,,Democratic,"Alldritt, Carmen",0,000090
 MORTON,West Richfield,State Treasurer,,Republican,"Estes, Ron",41,000090
 MORTON,Westola Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000100
 MORTON,Westola Township,State Treasurer,,Republican,"Estes, Ron",27,000100
-MORTON,Cimarron Township,United States Senate,,independent,"Orman, Greg",4,000010
-MORTON,Cimarron Township,United States Senate,,Libertarian,"Batson, Randall",0,000010
-MORTON,Cimarron Township,United States Senate,,Republican,"Roberts, Pat",22,000010
-MORTON,East Richfield,United States Senate,,independent,"Orman, Greg",8,000020
-MORTON,East Richfield,United States Senate,,Libertarian,"Batson, Randall",2,000020
-MORTON,East Richfield,United States Senate,,Republican,"Roberts, Pat",27,000020
-MORTON,Elkhart Ward 1,United States Senate,,independent,"Orman, Greg",33,000030
-MORTON,Elkhart Ward 1,United States Senate,,Libertarian,"Batson, Randall",9,000030
-MORTON,Elkhart Ward 1,United States Senate,,Republican,"Roberts, Pat",148,000030
-MORTON,Elkhart Ward 2,United States Senate,,independent,"Orman, Greg",30,000040
-MORTON,Elkhart Ward 2,United States Senate,,Libertarian,"Batson, Randall",10,000040
-MORTON,Elkhart Ward 2,United States Senate,,Republican,"Roberts, Pat",129,000040
-MORTON,Elkhart Ward 3,United States Senate,,independent,"Orman, Greg",44,000050
-MORTON,Elkhart Ward 3,United States Senate,,Libertarian,"Batson, Randall",8,000050
-MORTON,Elkhart Ward 3,United States Senate,,Republican,"Roberts, Pat",166,000050
-MORTON,Jones Township,United States Senate,,independent,"Orman, Greg",0,000060
-MORTON,Jones Township,United States Senate,,Libertarian,"Batson, Randall",0,000060
-MORTON,Jones Township,United States Senate,,Republican,"Roberts, Pat",9,000060
-MORTON,Rolla Township,United States Senate,,independent,"Orman, Greg",46,000070
-MORTON,Rolla Township,United States Senate,,Libertarian,"Batson, Randall",4,000070
-MORTON,Rolla Township,United States Senate,,Republican,"Roberts, Pat",104,000070
-MORTON,Taloga Township,United States Senate,,independent,"Orman, Greg",3,000080
-MORTON,Taloga Township,United States Senate,,Libertarian,"Batson, Randall",2,000080
-MORTON,Taloga Township,United States Senate,,Republican,"Roberts, Pat",32,000080
-MORTON,West Richfield,United States Senate,,independent,"Orman, Greg",3,000090
-MORTON,West Richfield,United States Senate,,Libertarian,"Batson, Randall",0,000090
-MORTON,West Richfield,United States Senate,,Republican,"Roberts, Pat",38,000090
-MORTON,Westola Township,United States Senate,,independent,"Orman, Greg",5,000100
-MORTON,Westola Township,United States Senate,,Libertarian,"Batson, Randall",0,000100
-MORTON,Westola Township,United States Senate,,Republican,"Roberts, Pat",24,000100
+MORTON,Cimarron Township,U.S. Senate,,independent,"Orman, Greg",4,000010
+MORTON,Cimarron Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000010
+MORTON,Cimarron Township,U.S. Senate,,Republican,"Roberts, Pat",22,000010
+MORTON,East Richfield,U.S. Senate,,independent,"Orman, Greg",8,000020
+MORTON,East Richfield,U.S. Senate,,Libertarian,"Batson, Randall",2,000020
+MORTON,East Richfield,U.S. Senate,,Republican,"Roberts, Pat",27,000020
+MORTON,Elkhart Ward 1,U.S. Senate,,independent,"Orman, Greg",33,000030
+MORTON,Elkhart Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",9,000030
+MORTON,Elkhart Ward 1,U.S. Senate,,Republican,"Roberts, Pat",148,000030
+MORTON,Elkhart Ward 2,U.S. Senate,,independent,"Orman, Greg",30,000040
+MORTON,Elkhart Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",10,000040
+MORTON,Elkhart Ward 2,U.S. Senate,,Republican,"Roberts, Pat",129,000040
+MORTON,Elkhart Ward 3,U.S. Senate,,independent,"Orman, Greg",44,000050
+MORTON,Elkhart Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",8,000050
+MORTON,Elkhart Ward 3,U.S. Senate,,Republican,"Roberts, Pat",166,000050
+MORTON,Jones Township,U.S. Senate,,independent,"Orman, Greg",0,000060
+MORTON,Jones Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000060
+MORTON,Jones Township,U.S. Senate,,Republican,"Roberts, Pat",9,000060
+MORTON,Rolla Township,U.S. Senate,,independent,"Orman, Greg",46,000070
+MORTON,Rolla Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000070
+MORTON,Rolla Township,U.S. Senate,,Republican,"Roberts, Pat",104,000070
+MORTON,Taloga Township,U.S. Senate,,independent,"Orman, Greg",3,000080
+MORTON,Taloga Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000080
+MORTON,Taloga Township,U.S. Senate,,Republican,"Roberts, Pat",32,000080
+MORTON,West Richfield,U.S. Senate,,independent,"Orman, Greg",3,000090
+MORTON,West Richfield,U.S. Senate,,Libertarian,"Batson, Randall",0,000090
+MORTON,West Richfield,U.S. Senate,,Republican,"Roberts, Pat",38,000090
+MORTON,Westola Township,U.S. Senate,,independent,"Orman, Greg",5,000100
+MORTON,Westola Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000100
+MORTON,Westola Township,U.S. Senate,,Republican,"Roberts, Pat",24,000100

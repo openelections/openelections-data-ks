@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,vtd
-GREELEY,Tribune Precinct 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",100,000010
-GREELEY,Tribune Precinct 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",17,000010
-GREELEY,Tribune Precinct 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",219,000010
-GREELEY,Tribune Precinct 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",38,000020
-GREELEY,Tribune Precinct 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000020
-GREELEY,Tribune Precinct 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",127,000020
-GREELEY,Tribune Precinct 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",16,000030
-GREELEY,Tribune Precinct 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000030
-GREELEY,Tribune Precinct 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",37,000030
-GREELEY,Tribune Precinct 1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",319,000010
-GREELEY,Tribune Precinct 2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",146,000020
-GREELEY,Tribune Precinct 3,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",53,000030
-GREELEY,Tribune Precinct 1,United States House of Representatives,1,Democratic,"Sherow, James E.",72,000010
-GREELEY,Tribune Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",261,000010
-GREELEY,Tribune Precinct 2,United States House of Representatives,1,Democratic,"Sherow, James E.",28,000020
-GREELEY,Tribune Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",138,000020
-GREELEY,Tribune Precinct 3,United States House of Representatives,1,Democratic,"Sherow, James E.",8,000030
-GREELEY,Tribune Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",45,000030
+GREELEY,Tribune Precinct 1,Governor,,Democratic,"Davis, Paul",100,000010
+GREELEY,Tribune Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",17,000010
+GREELEY,Tribune Precinct 1,Governor,,Republican,"Brownback, Sam",219,000010
+GREELEY,Tribune Precinct 2,Governor,,Democratic,"Davis, Paul",38,000020
+GREELEY,Tribune Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",3,000020
+GREELEY,Tribune Precinct 2,Governor,,Republican,"Brownback, Sam",127,000020
+GREELEY,Tribune Precinct 3,Governor,,Democratic,"Davis, Paul",16,000030
+GREELEY,Tribune Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",3,000030
+GREELEY,Tribune Precinct 3,Governor,,Republican,"Brownback, Sam",37,000030
+GREELEY,Tribune Precinct 1,State House,122,Republican,"Jennings, J. Russell ""Russ""",319,000010
+GREELEY,Tribune Precinct 2,State House,122,Republican,"Jennings, J. Russell ""Russ""",146,000020
+GREELEY,Tribune Precinct 3,State House,122,Republican,"Jennings, J. Russell ""Russ""",53,000030
+GREELEY,Tribune Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",72,000010
+GREELEY,Tribune Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",261,000010
+GREELEY,Tribune Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",28,000020
+GREELEY,Tribune Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",138,000020
+GREELEY,Tribune Precinct 3,U.S. House,1,Democratic,"Sherow, James E.",8,000030
+GREELEY,Tribune Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",45,000030
 GREELEY,Tribune Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",52,000010
 GREELEY,Tribune Precinct 1,Attorney General,,Republican,"Schmidt, Derek",277,000010
 GREELEY,Tribune Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",20,000020
@@ -41,12 +41,12 @@ GREELEY,Tribune Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",21,000
 GREELEY,Tribune Precinct 2,State Treasurer,,Republican,"Estes, Ron",143,000020
 GREELEY,Tribune Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",7,000030
 GREELEY,Tribune Precinct 3,State Treasurer,,Republican,"Estes, Ron",47,000030
-GREELEY,Tribune Precinct 1,United States Senate,,independent,"Orman, Greg",72,000010
-GREELEY,Tribune Precinct 1,United States Senate,,Libertarian,"Batson, Randall",16,000010
-GREELEY,Tribune Precinct 1,United States Senate,,Republican,"Roberts, Pat",250,000010
-GREELEY,Tribune Precinct 2,United States Senate,,independent,"Orman, Greg",28,000020
-GREELEY,Tribune Precinct 2,United States Senate,,Libertarian,"Batson, Randall",7,000020
-GREELEY,Tribune Precinct 2,United States Senate,,Republican,"Roberts, Pat",138,000020
-GREELEY,Tribune Precinct 3,United States Senate,,independent,"Orman, Greg",13,000030
-GREELEY,Tribune Precinct 3,United States Senate,,Libertarian,"Batson, Randall",4,000030
-GREELEY,Tribune Precinct 3,United States Senate,,Republican,"Roberts, Pat",38,000030
+GREELEY,Tribune Precinct 1,U.S. Senate,,independent,"Orman, Greg",72,000010
+GREELEY,Tribune Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",16,000010
+GREELEY,Tribune Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",250,000010
+GREELEY,Tribune Precinct 2,U.S. Senate,,independent,"Orman, Greg",28,000020
+GREELEY,Tribune Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",7,000020
+GREELEY,Tribune Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",138,000020
+GREELEY,Tribune Precinct 3,U.S. Senate,,independent,"Orman, Greg",13,000030
+GREELEY,Tribune Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",4,000030
+GREELEY,Tribune Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",38,000030

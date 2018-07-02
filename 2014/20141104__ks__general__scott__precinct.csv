@@ -1,70 +1,70 @@
 county,precinct,office,district,party,candidate,votes,vtd
-SCOTT,Beaver Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",14,000010
-SCOTT,Beaver Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000010
-SCOTT,Beaver Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",64,000010
-SCOTT,Isbel Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",9,000020
-SCOTT,Isbel Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",2,000020
-SCOTT,Isbel Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",31,000020
-SCOTT,Keystone Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",2,000030
-SCOTT,Keystone Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000030
-SCOTT,Keystone Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",34,000030
-SCOTT,Lake Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",1,000040
-SCOTT,Lake Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",0,000040
-SCOTT,Lake Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",24,000040
-SCOTT,Michigan Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",4,000050
-SCOTT,Michigan Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",3,000050
-SCOTT,Michigan Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",25,000050
-SCOTT,Scott City Ward 1,Governor / Lt. Governor,,Democratic,"Davis, Paul",54,000060
-SCOTT,Scott City Ward 1,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",19,000060
-SCOTT,Scott City Ward 1,Governor / Lt. Governor,,Republican,"Brownback, Sam",148,000060
-SCOTT,Scott City Ward 2,Governor / Lt. Governor,,Democratic,"Davis, Paul",92,000070
-SCOTT,Scott City Ward 2,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",10,000070
-SCOTT,Scott City Ward 2,Governor / Lt. Governor,,Republican,"Brownback, Sam",335,000070
-SCOTT,Scott City Ward 3,Governor / Lt. Governor,,Democratic,"Davis, Paul",80,000080
-SCOTT,Scott City Ward 3,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",11,000080
-SCOTT,Scott City Ward 3,Governor / Lt. Governor,,Republican,"Brownback, Sam",211,000080
-SCOTT,Scott City Ward 4,Governor / Lt. Governor,,Democratic,"Davis, Paul",97,000090
-SCOTT,Scott City Ward 4,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",18,000090
-SCOTT,Scott City Ward 4,Governor / Lt. Governor,,Republican,"Brownback, Sam",249,000090
-SCOTT,Scott Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",21,00010A
-SCOTT,Scott Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",6,00010A
-SCOTT,Scott Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",81,00010A
-SCOTT,Valley Township,Governor / Lt. Governor,,Democratic,"Davis, Paul",11,000110
-SCOTT,Valley Township,Governor / Lt. Governor,,Libertarian,"Umbehr, Keen A.",1,000110
-SCOTT,Valley Township,Governor / Lt. Governor,,Republican,"Brownback, Sam",69,000110
-SCOTT,Beaver Township,Kansas House of Representatives,118,Republican,"Hineman, Don",64,000010
-SCOTT,Isbel Township,Kansas House of Representatives,118,Republican,"Hineman, Don",42,000020
-SCOTT,Keystone Township,Kansas House of Representatives,118,Republican,"Hineman, Don",38,000030
-SCOTT,Lake Township,Kansas House of Representatives,118,Republican,"Hineman, Don",26,000040
-SCOTT,Michigan Township,Kansas House of Representatives,118,Republican,"Hineman, Don",28,000050
-SCOTT,Scott City Ward 1,Kansas House of Representatives,118,Republican,"Hineman, Don",203,000060
-SCOTT,Scott City Ward 2,Kansas House of Representatives,118,Republican,"Hineman, Don",420,000070
-SCOTT,Scott City Ward 3,Kansas House of Representatives,118,Republican,"Hineman, Don",285,000080
-SCOTT,Scott City Ward 4,Kansas House of Representatives,118,Republican,"Hineman, Don",345,000090
-SCOTT,Scott Township,Kansas House of Representatives,118,Republican,"Hineman, Don",103,00010A
-SCOTT,Valley Township,Kansas House of Representatives,118,Republican,"Hineman, Don",75,000110
-SCOTT,Beaver Township,United States House of Representatives,1,Democratic,"Sherow, James E.",13,000010
-SCOTT,Beaver Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",67,000010
-SCOTT,Isbel Township,United States House of Representatives,1,Democratic,"Sherow, James E.",3,000020
-SCOTT,Isbel Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",40,000020
-SCOTT,Keystone Township,United States House of Representatives,1,Democratic,"Sherow, James E.",2,000030
-SCOTT,Keystone Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",36,000030
-SCOTT,Lake Township,United States House of Representatives,1,Democratic,"Sherow, James E.",4,000040
-SCOTT,Lake Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,000040
-SCOTT,Michigan Township,United States House of Representatives,1,Democratic,"Sherow, James E.",2,000050
-SCOTT,Michigan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000050
-SCOTT,Scott City Ward 1,United States House of Representatives,1,Democratic,"Sherow, James E.",47,000060
-SCOTT,Scott City Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",169,000060
-SCOTT,Scott City Ward 2,United States House of Representatives,1,Democratic,"Sherow, James E.",69,000070
-SCOTT,Scott City Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",369,000070
-SCOTT,Scott City Ward 3,United States House of Representatives,1,Democratic,"Sherow, James E.",60,000080
-SCOTT,Scott City Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",240,000080
-SCOTT,Scott City Ward 4,United States House of Representatives,1,Democratic,"Sherow, James E.",83,000090
-SCOTT,Scott City Ward 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",286,000090
-SCOTT,Scott Township,United States House of Representatives,1,Democratic,"Sherow, James E.",20,00010A
-SCOTT,Scott Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",88,00010A
-SCOTT,Valley Township,United States House of Representatives,1,Democratic,"Sherow, James E.",14,000110
-SCOTT,Valley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",63,000110
+SCOTT,Beaver Township,Governor,,Democratic,"Davis, Paul",14,000010
+SCOTT,Beaver Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000010
+SCOTT,Beaver Township,Governor,,Republican,"Brownback, Sam",64,000010
+SCOTT,Isbel Township,Governor,,Democratic,"Davis, Paul",9,000020
+SCOTT,Isbel Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000020
+SCOTT,Isbel Township,Governor,,Republican,"Brownback, Sam",31,000020
+SCOTT,Keystone Township,Governor,,Democratic,"Davis, Paul",2,000030
+SCOTT,Keystone Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+SCOTT,Keystone Township,Governor,,Republican,"Brownback, Sam",34,000030
+SCOTT,Lake Township,Governor,,Democratic,"Davis, Paul",1,000040
+SCOTT,Lake Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000040
+SCOTT,Lake Township,Governor,,Republican,"Brownback, Sam",24,000040
+SCOTT,Michigan Township,Governor,,Democratic,"Davis, Paul",4,000050
+SCOTT,Michigan Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000050
+SCOTT,Michigan Township,Governor,,Republican,"Brownback, Sam",25,000050
+SCOTT,Scott City Ward 1,Governor,,Democratic,"Davis, Paul",54,000060
+SCOTT,Scott City Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",19,000060
+SCOTT,Scott City Ward 1,Governor,,Republican,"Brownback, Sam",148,000060
+SCOTT,Scott City Ward 2,Governor,,Democratic,"Davis, Paul",92,000070
+SCOTT,Scott City Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",10,000070
+SCOTT,Scott City Ward 2,Governor,,Republican,"Brownback, Sam",335,000070
+SCOTT,Scott City Ward 3,Governor,,Democratic,"Davis, Paul",80,000080
+SCOTT,Scott City Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",11,000080
+SCOTT,Scott City Ward 3,Governor,,Republican,"Brownback, Sam",211,000080
+SCOTT,Scott City Ward 4,Governor,,Democratic,"Davis, Paul",97,000090
+SCOTT,Scott City Ward 4,Governor,,Libertarian,"Umbehr, Keen A.",18,000090
+SCOTT,Scott City Ward 4,Governor,,Republican,"Brownback, Sam",249,000090
+SCOTT,Scott Township,Governor,,Democratic,"Davis, Paul",21,00010A
+SCOTT,Scott Township,Governor,,Libertarian,"Umbehr, Keen A.",6,00010A
+SCOTT,Scott Township,Governor,,Republican,"Brownback, Sam",81,00010A
+SCOTT,Valley Township,Governor,,Democratic,"Davis, Paul",11,000110
+SCOTT,Valley Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000110
+SCOTT,Valley Township,Governor,,Republican,"Brownback, Sam",69,000110
+SCOTT,Beaver Township,State House,118,Republican,"Hineman, Don",64,000010
+SCOTT,Isbel Township,State House,118,Republican,"Hineman, Don",42,000020
+SCOTT,Keystone Township,State House,118,Republican,"Hineman, Don",38,000030
+SCOTT,Lake Township,State House,118,Republican,"Hineman, Don",26,000040
+SCOTT,Michigan Township,State House,118,Republican,"Hineman, Don",28,000050
+SCOTT,Scott City Ward 1,State House,118,Republican,"Hineman, Don",203,000060
+SCOTT,Scott City Ward 2,State House,118,Republican,"Hineman, Don",420,000070
+SCOTT,Scott City Ward 3,State House,118,Republican,"Hineman, Don",285,000080
+SCOTT,Scott City Ward 4,State House,118,Republican,"Hineman, Don",345,000090
+SCOTT,Scott Township,State House,118,Republican,"Hineman, Don",103,00010A
+SCOTT,Valley Township,State House,118,Republican,"Hineman, Don",75,000110
+SCOTT,Beaver Township,U.S. House,1,Democratic,"Sherow, James E.",13,000010
+SCOTT,Beaver Township,U.S. House,1,Republican,"Huelskamp, Tim",67,000010
+SCOTT,Isbel Township,U.S. House,1,Democratic,"Sherow, James E.",3,000020
+SCOTT,Isbel Township,U.S. House,1,Republican,"Huelskamp, Tim",40,000020
+SCOTT,Keystone Township,U.S. House,1,Democratic,"Sherow, James E.",2,000030
+SCOTT,Keystone Township,U.S. House,1,Republican,"Huelskamp, Tim",36,000030
+SCOTT,Lake Township,U.S. House,1,Democratic,"Sherow, James E.",4,000040
+SCOTT,Lake Township,U.S. House,1,Republican,"Huelskamp, Tim",22,000040
+SCOTT,Michigan Township,U.S. House,1,Democratic,"Sherow, James E.",2,000050
+SCOTT,Michigan Township,U.S. House,1,Republican,"Huelskamp, Tim",30,000050
+SCOTT,Scott City Ward 1,U.S. House,1,Democratic,"Sherow, James E.",47,000060
+SCOTT,Scott City Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",169,000060
+SCOTT,Scott City Ward 2,U.S. House,1,Democratic,"Sherow, James E.",69,000070
+SCOTT,Scott City Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",369,000070
+SCOTT,Scott City Ward 3,U.S. House,1,Democratic,"Sherow, James E.",60,000080
+SCOTT,Scott City Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",240,000080
+SCOTT,Scott City Ward 4,U.S. House,1,Democratic,"Sherow, James E.",83,000090
+SCOTT,Scott City Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",286,000090
+SCOTT,Scott Township,U.S. House,1,Democratic,"Sherow, James E.",20,00010A
+SCOTT,Scott Township,U.S. House,1,Republican,"Huelskamp, Tim",88,00010A
+SCOTT,Valley Township,U.S. House,1,Democratic,"Sherow, James E.",14,000110
+SCOTT,Valley Township,U.S. House,1,Republican,"Huelskamp, Tim",63,000110
 SCOTT,Beaver Township,Attorney General,,Democratic,"Kotich, A.J.",8,000010
 SCOTT,Beaver Township,Attorney General,,Republican,"Schmidt, Derek",70,000010
 SCOTT,Isbel Township,Attorney General,,Democratic,"Kotich, A.J.",5,000020
@@ -153,36 +153,36 @@ SCOTT,Scott Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,00010A
 SCOTT,Scott Township,State Treasurer,,Republican,"Estes, Ron",101,00010A
 SCOTT,Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",8,000110
 SCOTT,Valley Township,State Treasurer,,Republican,"Estes, Ron",70,000110
-SCOTT,Beaver Township,United States Senate,,independent,"Orman, Greg",16,000010
-SCOTT,Beaver Township,United States Senate,,Libertarian,"Batson, Randall",1,000010
-SCOTT,Beaver Township,United States Senate,,Republican,"Roberts, Pat",63,000010
-SCOTT,Isbel Township,United States Senate,,independent,"Orman, Greg",7,000020
-SCOTT,Isbel Township,United States Senate,,Libertarian,"Batson, Randall",2,000020
-SCOTT,Isbel Township,United States Senate,,Republican,"Roberts, Pat",34,000020
-SCOTT,Keystone Township,United States Senate,,independent,"Orman, Greg",1,000030
-SCOTT,Keystone Township,United States Senate,,Libertarian,"Batson, Randall",2,000030
-SCOTT,Keystone Township,United States Senate,,Republican,"Roberts, Pat",35,000030
-SCOTT,Lake Township,United States Senate,,independent,"Orman, Greg",0,000040
-SCOTT,Lake Township,United States Senate,,Libertarian,"Batson, Randall",0,000040
-SCOTT,Lake Township,United States Senate,,Republican,"Roberts, Pat",25,000040
-SCOTT,Michigan Township,United States Senate,,independent,"Orman, Greg",2,000050
-SCOTT,Michigan Township,United States Senate,,Libertarian,"Batson, Randall",1,000050
-SCOTT,Michigan Township,United States Senate,,Republican,"Roberts, Pat",29,000050
-SCOTT,Scott City Ward 1,United States Senate,,independent,"Orman, Greg",43,000060
-SCOTT,Scott City Ward 1,United States Senate,,Libertarian,"Batson, Randall",18,000060
-SCOTT,Scott City Ward 1,United States Senate,,Republican,"Roberts, Pat",159,000060
-SCOTT,Scott City Ward 2,United States Senate,,independent,"Orman, Greg",62,000070
-SCOTT,Scott City Ward 2,United States Senate,,Libertarian,"Batson, Randall",12,000070
-SCOTT,Scott City Ward 2,United States Senate,,Republican,"Roberts, Pat",366,000070
-SCOTT,Scott City Ward 3,United States Senate,,independent,"Orman, Greg",58,000080
-SCOTT,Scott City Ward 3,United States Senate,,Libertarian,"Batson, Randall",19,000080
-SCOTT,Scott City Ward 3,United States Senate,,Republican,"Roberts, Pat",227,000080
-SCOTT,Scott City Ward 4,United States Senate,,independent,"Orman, Greg",81,000090
-SCOTT,Scott City Ward 4,United States Senate,,Libertarian,"Batson, Randall",19,000090
-SCOTT,Scott City Ward 4,United States Senate,,Republican,"Roberts, Pat",268,000090
-SCOTT,Scott Township,United States Senate,,independent,"Orman, Greg",16,00010A
-SCOTT,Scott Township,United States Senate,,Libertarian,"Batson, Randall",4,00010A
-SCOTT,Scott Township,United States Senate,,Republican,"Roberts, Pat",88,00010A
-SCOTT,Valley Township,United States Senate,,independent,"Orman, Greg",10,000110
-SCOTT,Valley Township,United States Senate,,Libertarian,"Batson, Randall",2,000110
-SCOTT,Valley Township,United States Senate,,Republican,"Roberts, Pat",69,000110
+SCOTT,Beaver Township,U.S. Senate,,independent,"Orman, Greg",16,000010
+SCOTT,Beaver Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000010
+SCOTT,Beaver Township,U.S. Senate,,Republican,"Roberts, Pat",63,000010
+SCOTT,Isbel Township,U.S. Senate,,independent,"Orman, Greg",7,000020
+SCOTT,Isbel Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000020
+SCOTT,Isbel Township,U.S. Senate,,Republican,"Roberts, Pat",34,000020
+SCOTT,Keystone Township,U.S. Senate,,independent,"Orman, Greg",1,000030
+SCOTT,Keystone Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000030
+SCOTT,Keystone Township,U.S. Senate,,Republican,"Roberts, Pat",35,000030
+SCOTT,Lake Township,U.S. Senate,,independent,"Orman, Greg",0,000040
+SCOTT,Lake Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000040
+SCOTT,Lake Township,U.S. Senate,,Republican,"Roberts, Pat",25,000040
+SCOTT,Michigan Township,U.S. Senate,,independent,"Orman, Greg",2,000050
+SCOTT,Michigan Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000050
+SCOTT,Michigan Township,U.S. Senate,,Republican,"Roberts, Pat",29,000050
+SCOTT,Scott City Ward 1,U.S. Senate,,independent,"Orman, Greg",43,000060
+SCOTT,Scott City Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",18,000060
+SCOTT,Scott City Ward 1,U.S. Senate,,Republican,"Roberts, Pat",159,000060
+SCOTT,Scott City Ward 2,U.S. Senate,,independent,"Orman, Greg",62,000070
+SCOTT,Scott City Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",12,000070
+SCOTT,Scott City Ward 2,U.S. Senate,,Republican,"Roberts, Pat",366,000070
+SCOTT,Scott City Ward 3,U.S. Senate,,independent,"Orman, Greg",58,000080
+SCOTT,Scott City Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",19,000080
+SCOTT,Scott City Ward 3,U.S. Senate,,Republican,"Roberts, Pat",227,000080
+SCOTT,Scott City Ward 4,U.S. Senate,,independent,"Orman, Greg",81,000090
+SCOTT,Scott City Ward 4,U.S. Senate,,Libertarian,"Batson, Randall",19,000090
+SCOTT,Scott City Ward 4,U.S. Senate,,Republican,"Roberts, Pat",268,000090
+SCOTT,Scott Township,U.S. Senate,,independent,"Orman, Greg",16,00010A
+SCOTT,Scott Township,U.S. Senate,,Libertarian,"Batson, Randall",4,00010A
+SCOTT,Scott Township,U.S. Senate,,Republican,"Roberts, Pat",88,00010A
+SCOTT,Valley Township,U.S. Senate,,independent,"Orman, Greg",10,000110
+SCOTT,Valley Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000110
+SCOTT,Valley Township,U.S. Senate,,Republican,"Roberts, Pat",69,000110
