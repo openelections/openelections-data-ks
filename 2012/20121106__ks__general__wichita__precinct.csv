@@ -1,12 +1,12 @@
 county,precinct,office,district,party,candidate,votes,vtd
-WICHITA,Leoti Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",271,000010
-WICHITA,Leoti Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",302,000020
-WICHITA,Leoti Precinct 3,Kansas House of Representatives,118,Republican,"Hineman, Don",205,000030
-WICHITA,ADVANCED,Kansas House of Representatives,118,Republican,"Hineman, Don",103,999998
-WICHITA,Leoti Precinct 1,Kansas Senate,39,Republican,"Powell, Larry R.",254,000010
-WICHITA,Leoti Precinct 2,Kansas Senate,39,Republican,"Powell, Larry R.",300,000020
-WICHITA,Leoti Precinct 3,Kansas Senate,39,Republican,"Powell, Larry R.",197,000030
-WICHITA,ADVANCED,Kansas Senate,39,Republican,"Powell, Larry R.",95,999998
+WICHITA,Leoti Precinct 1,State House,118,Republican,"Hineman, Don",271,000010
+WICHITA,Leoti Precinct 2,State House,118,Republican,"Hineman, Don",302,000020
+WICHITA,Leoti Precinct 3,State House,118,Republican,"Hineman, Don",205,000030
+WICHITA,ADVANCED,State House,118,Republican,"Hineman, Don",103,999998
+WICHITA,Leoti Precinct 1,State Senate,39,Republican,"Powell, Larry R.",254,000010
+WICHITA,Leoti Precinct 2,State Senate,39,Republican,"Powell, Larry R.",300,000020
+WICHITA,Leoti Precinct 3,State Senate,39,Republican,"Powell, Larry R.",197,000030
+WICHITA,ADVANCED,State Senate,39,Republican,"Powell, Larry R.",95,999998
 WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 WICHITA,Leoti Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -71,7 +71,7 @@ WICHITA,ADVANCED,President / Vice President,,Democratic,"Obama, Barack",23,99999
 WICHITA,ADVANCED,President / Vice President,,Libertarian,"Johnson, Gary",0,999998
 WICHITA,ADVANCED,President / Vice President,,Reform,"Baldwin, Chuck",1,999998
 WICHITA,ADVANCED,President / Vice President,,Republican,"Romney, Mitt",97,999998
-WICHITA,Leoti Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",262,000010
-WICHITA,Leoti Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",312,000020
-WICHITA,Leoti Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",197,000030
-WICHITA,ADVANCED,United States House of Representatives,1,Republican,"Huelskamp, Tim",97,999998
+WICHITA,Leoti Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",262,000010
+WICHITA,Leoti Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",312,000020
+WICHITA,Leoti Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",197,000030
+WICHITA,ADVANCED,U.S. House,1,Republican,"Huelskamp, Tim",97,999998

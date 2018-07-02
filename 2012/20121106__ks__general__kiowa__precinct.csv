@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,vtd
-KIOWA,Belvidere,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",16,000010
-KIOWA,Belvidere,Kansas House of Representatives,117,Republican,"Ewy, John L.",4,000010
-KIOWA,Center I,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",277,000020
-KIOWA,Center I,Kansas House of Representatives,117,Republican,"Ewy, John L.",48,000020
-KIOWA,Center I I,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",172,000030
-KIOWA,Center I I,Kansas House of Representatives,117,Republican,"Ewy, John L.",27,000030
-KIOWA,Haviland,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",257,000040
-KIOWA,Haviland,Kansas House of Representatives,117,Republican,"Ewy, John L.",139,000040
-KIOWA,Mullinville,Kansas House of Representatives,117,Democratic,"McKinney, Dennis",176,000050
-KIOWA,Mullinville,Kansas House of Representatives,117,Republican,"Ewy, John L.",49,000050
-KIOWA,Belvidere,Kansas Senate,33,Republican,"Holmes, Mitch",12,000010
-KIOWA,Center I,Kansas Senate,33,Republican,"Holmes, Mitch",247,000020
-KIOWA,Center I I,Kansas Senate,33,Republican,"Holmes, Mitch",144,000030
-KIOWA,Haviland,Kansas Senate,33,Republican,"Holmes, Mitch",333,000040
-KIOWA,Mullinville,Kansas Senate,33,Republican,"Holmes, Mitch",181,000050
+KIOWA,Belvidere,State House,117,Democratic,"McKinney, Dennis",16,000010
+KIOWA,Belvidere,State House,117,Republican,"Ewy, John L.",4,000010
+KIOWA,Center I,State House,117,Democratic,"McKinney, Dennis",277,000020
+KIOWA,Center I,State House,117,Republican,"Ewy, John L.",48,000020
+KIOWA,Center I I,State House,117,Democratic,"McKinney, Dennis",172,000030
+KIOWA,Center I I,State House,117,Republican,"Ewy, John L.",27,000030
+KIOWA,Haviland,State House,117,Democratic,"McKinney, Dennis",257,000040
+KIOWA,Haviland,State House,117,Republican,"Ewy, John L.",139,000040
+KIOWA,Mullinville,State House,117,Democratic,"McKinney, Dennis",176,000050
+KIOWA,Mullinville,State House,117,Republican,"Ewy, John L.",49,000050
+KIOWA,Belvidere,State Senate,33,Republican,"Holmes, Mitch",12,000010
+KIOWA,Center I,State Senate,33,Republican,"Holmes, Mitch",247,000020
+KIOWA,Center I I,State Senate,33,Republican,"Holmes, Mitch",144,000030
+KIOWA,Haviland,State Senate,33,Republican,"Holmes, Mitch",333,000040
+KIOWA,Mullinville,State Senate,33,Republican,"Holmes, Mitch",181,000050
 KIOWA,Belvidere,President / Vice President,,Democratic,"Obama, Barack",4,000010
 KIOWA,Belvidere,President / Vice President,,Republican,"Romney, Mitt",17,000010
 KIOWA,Center I,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
@@ -83,18 +83,18 @@ KIOWA,Mullinville,President / Vice President,,Republican,"Romney, Mitt",195,0000
 KIOWA,ADVANCED,President / Vice President,,write - in,"Stein, Jill E",0,999998
 KIOWA,PROVISIONAL,President / Vice President,,Democratic,"Obama, Barack",0,999999
 KIOWA,PROVISIONAL,President / Vice President,,Republican,"Romney, Mitt",0,999999
-KIOWA,Belvidere,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",2,000010
-KIOWA,Belvidere,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",0,000010
-KIOWA,Belvidere,United States House of Representatives,4,Republican,"Pompeo, Mike",16,000010
-KIOWA,Center I,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",56,000020
-KIOWA,Center I,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",18,000020
-KIOWA,Center I,United States House of Representatives,4,Republican,"Pompeo, Mike",224,000020
-KIOWA,Center I I,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",34,000030
-KIOWA,Center I I,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",11,000030
-KIOWA,Center I I,United States House of Representatives,4,Republican,"Pompeo, Mike",141,000030
-KIOWA,Haviland,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",38,000040
-KIOWA,Haviland,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",24,000040
-KIOWA,Haviland,United States House of Representatives,4,Republican,"Pompeo, Mike",324,000040
-KIOWA,Mullinville,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",29,000050
-KIOWA,Mullinville,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",11,000050
-KIOWA,Mullinville,United States House of Representatives,4,Republican,"Pompeo, Mike",179,000050
+KIOWA,Belvidere,U.S. House,4,Democratic,"Tillman, Robert Leon",2,000010
+KIOWA,Belvidere,U.S. House,4,Libertarian,"Jefferson, Thomas",0,000010
+KIOWA,Belvidere,U.S. House,4,Republican,"Pompeo, Mike",16,000010
+KIOWA,Center I,U.S. House,4,Democratic,"Tillman, Robert Leon",56,000020
+KIOWA,Center I,U.S. House,4,Libertarian,"Jefferson, Thomas",18,000020
+KIOWA,Center I,U.S. House,4,Republican,"Pompeo, Mike",224,000020
+KIOWA,Center I I,U.S. House,4,Democratic,"Tillman, Robert Leon",34,000030
+KIOWA,Center I I,U.S. House,4,Libertarian,"Jefferson, Thomas",11,000030
+KIOWA,Center I I,U.S. House,4,Republican,"Pompeo, Mike",141,000030
+KIOWA,Haviland,U.S. House,4,Democratic,"Tillman, Robert Leon",38,000040
+KIOWA,Haviland,U.S. House,4,Libertarian,"Jefferson, Thomas",24,000040
+KIOWA,Haviland,U.S. House,4,Republican,"Pompeo, Mike",324,000040
+KIOWA,Mullinville,U.S. House,4,Democratic,"Tillman, Robert Leon",29,000050
+KIOWA,Mullinville,U.S. House,4,Libertarian,"Jefferson, Thomas",11,000050
+KIOWA,Mullinville,U.S. House,4,Republican,"Pompeo, Mike",179,000050

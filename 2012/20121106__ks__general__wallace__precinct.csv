@@ -1,25 +1,25 @@
 county,precinct,office,district,party,candidate,votes,vtd
-WALLACE,Harrison Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",25,000010
-WALLACE,Sharon Springs Precinct 1,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",86,000020
-WALLACE,Sharon Springs Precinct 2,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",212,000030
-WALLACE,Wallace Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",48,000040
-WALLACE,Weskan Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",103,000050
-WALLACE,ADVANCED,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",15,999998
-WALLACE,PROVISIONAL,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",202,999999
-WALLACE,Harrison Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",6,000010
-WALLACE,Harrison Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",18,000010
-WALLACE,Sharon Springs Precinct 1,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",26,000020
-WALLACE,Sharon Springs Precinct 1,Kansas Senate,40,Republican,"Ostmeyer, Ralph",75,000020
-WALLACE,Sharon Springs Precinct 2,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",59,000030
-WALLACE,Sharon Springs Precinct 2,Kansas Senate,40,Republican,"Ostmeyer, Ralph",178,000030
-WALLACE,Wallace Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",16,000040
-WALLACE,Wallace Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",45,000040
-WALLACE,Weskan Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",39,000050
-WALLACE,Weskan Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",75,000050
-WALLACE,ADVANCED,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",13,999998
-WALLACE,ADVANCED,Kansas Senate,40,Republican,"Ostmeyer, Ralph",3,999998
-WALLACE,PROVISIONAL,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",60,999999
-WALLACE,PROVISIONAL,Kansas Senate,40,Republican,"Ostmeyer, Ralph",165,999999
+WALLACE,Harrison Township,State House,120,Republican,"Cassidy, Ward M.",25,000010
+WALLACE,Sharon Springs Precinct 1,State House,120,Republican,"Cassidy, Ward M.",86,000020
+WALLACE,Sharon Springs Precinct 2,State House,120,Republican,"Cassidy, Ward M.",212,000030
+WALLACE,Wallace Township,State House,120,Republican,"Cassidy, Ward M.",48,000040
+WALLACE,Weskan Township,State House,120,Republican,"Cassidy, Ward M.",103,000050
+WALLACE,ADVANCED,State House,120,Republican,"Cassidy, Ward M.",15,999998
+WALLACE,PROVISIONAL,State House,120,Republican,"Cassidy, Ward M.",202,999999
+WALLACE,Harrison Township,State Senate,40,Democratic,"Schmidt, Allen Clark",6,000010
+WALLACE,Harrison Township,State Senate,40,Republican,"Ostmeyer, Ralph",18,000010
+WALLACE,Sharon Springs Precinct 1,State Senate,40,Democratic,"Schmidt, Allen Clark",26,000020
+WALLACE,Sharon Springs Precinct 1,State Senate,40,Republican,"Ostmeyer, Ralph",75,000020
+WALLACE,Sharon Springs Precinct 2,State Senate,40,Democratic,"Schmidt, Allen Clark",59,000030
+WALLACE,Sharon Springs Precinct 2,State Senate,40,Republican,"Ostmeyer, Ralph",178,000030
+WALLACE,Wallace Township,State Senate,40,Democratic,"Schmidt, Allen Clark",16,000040
+WALLACE,Wallace Township,State Senate,40,Republican,"Ostmeyer, Ralph",45,000040
+WALLACE,Weskan Township,State Senate,40,Democratic,"Schmidt, Allen Clark",39,000050
+WALLACE,Weskan Township,State Senate,40,Republican,"Ostmeyer, Ralph",75,000050
+WALLACE,ADVANCED,State Senate,40,Democratic,"Schmidt, Allen Clark",13,999998
+WALLACE,ADVANCED,State Senate,40,Republican,"Ostmeyer, Ralph",3,999998
+WALLACE,PROVISIONAL,State Senate,40,Democratic,"Schmidt, Allen Clark",60,999999
+WALLACE,PROVISIONAL,State Senate,40,Republican,"Ostmeyer, Ralph",165,999999
 WALLACE,Harrison Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 WALLACE,Harrison Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 WALLACE,Harrison Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -160,10 +160,10 @@ WALLACE,PROVISIONAL,President / Vice President,,Democratic,"Obama, Barack",28,99
 WALLACE,PROVISIONAL,President / Vice President,,Libertarian,"Johnson, Gary",3,999999
 WALLACE,PROVISIONAL,President / Vice President,,Reform,"Baldwin, Chuck",0,999999
 WALLACE,PROVISIONAL,President / Vice President,,Republican,"Romney, Mitt",203,999999
-WALLACE,Harrison Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",25,000010
-WALLACE,Sharon Springs Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",94,000020
-WALLACE,Sharon Springs Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",222,000030
-WALLACE,Wallace Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",57,000040
-WALLACE,Weskan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",106,000050
-WALLACE,ADVANCED,United States House of Representatives,1,Republican,"Huelskamp, Tim",15,999998
-WALLACE,PROVISIONAL,United States House of Representatives,1,Republican,"Huelskamp, Tim",206,999999
+WALLACE,Harrison Township,U.S. House,1,Republican,"Huelskamp, Tim",25,000010
+WALLACE,Sharon Springs Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",94,000020
+WALLACE,Sharon Springs Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",222,000030
+WALLACE,Wallace Township,U.S. House,1,Republican,"Huelskamp, Tim",57,000040
+WALLACE,Weskan Township,U.S. House,1,Republican,"Huelskamp, Tim",106,000050
+WALLACE,ADVANCED,U.S. House,1,Republican,"Huelskamp, Tim",15,999998
+WALLACE,PROVISIONAL,U.S. House,1,Republican,"Huelskamp, Tim",206,999999

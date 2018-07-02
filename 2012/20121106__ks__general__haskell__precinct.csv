@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,vtd
-HASKELL,Ivanhoe Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",47,000010
-HASKELL,North Dudley,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",51,000020
-HASKELL,North Lockport,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",5,000030
-HASKELL,North Lockport,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",48,000030
-HASKELL,Satanta 1,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",77,000040
-HASKELL,South Lockport,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",8,000060
-HASKELL,South Lockport,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",47,000060
-HASKELL,Satanta 2 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",20,120020
-HASKELL,Satanta 2 H124,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",308,120030
-HASKELL,Sublette 1 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",21,120040
-HASKELL,Sublette 1 H124,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",316,120050
-HASKELL,Sublette 3 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",4,120060
-HASKELL,Sublette 3 H124,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",215,120070
-HASKELL,Ivanhoe Township,Kansas Senate,39,Republican,"Powell, Larry R.",47,000010
-HASKELL,North Dudley,Kansas Senate,39,Republican,"Powell, Larry R.",45,000020
-HASKELL,North Lockport,Kansas Senate,39,Republican,"Powell, Larry R.",50,000030
-HASKELL,Satanta 1,Kansas Senate,39,Republican,"Powell, Larry R.",77,000040
-HASKELL,South Lockport,Kansas Senate,39,Republican,"Powell, Larry R.",51,000060
-HASKELL,Satanta 2 H122,Kansas Senate,39,Republican,"Powell, Larry R.",24,120020
-HASKELL,Satanta 2 H124,Kansas Senate,39,Republican,"Powell, Larry R.",298,120030
-HASKELL,Sublette 1 H122,Kansas Senate,39,Republican,"Powell, Larry R.",23,120040
-HASKELL,Sublette 1 H124,Kansas Senate,39,Republican,"Powell, Larry R.",328,120050
-HASKELL,Sublette 3 H122,Kansas Senate,39,Republican,"Powell, Larry R.",3,120060
-HASKELL,Sublette 3 H124,Kansas Senate,39,Republican,"Powell, Larry R.",235,120070
+HASKELL,Ivanhoe Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",47,000010
+HASKELL,North Dudley,State House,122,Republican,"Jennings, J. Russell ""Russ""",51,000020
+HASKELL,North Lockport,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",5,000030
+HASKELL,North Lockport,State House,115,Republican,"Ryckman, Ronald",48,000030
+HASKELL,Satanta 1,State House,124,Republican,"Alford, J. Stephen",77,000040
+HASKELL,South Lockport,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",8,000060
+HASKELL,South Lockport,State House,115,Republican,"Ryckman, Ronald",47,000060
+HASKELL,Satanta 2 H122,State House,122,Republican,"Jennings, J. Russell ""Russ""",20,120020
+HASKELL,Satanta 2 H124,State House,124,Republican,"Alford, J. Stephen",308,120030
+HASKELL,Sublette 1 H122,State House,122,Republican,"Jennings, J. Russell ""Russ""",21,120040
+HASKELL,Sublette 1 H124,State House,124,Republican,"Alford, J. Stephen",316,120050
+HASKELL,Sublette 3 H122,State House,122,Republican,"Jennings, J. Russell ""Russ""",4,120060
+HASKELL,Sublette 3 H124,State House,124,Republican,"Alford, J. Stephen",215,120070
+HASKELL,Ivanhoe Township,State Senate,39,Republican,"Powell, Larry R.",47,000010
+HASKELL,North Dudley,State Senate,39,Republican,"Powell, Larry R.",45,000020
+HASKELL,North Lockport,State Senate,39,Republican,"Powell, Larry R.",50,000030
+HASKELL,Satanta 1,State Senate,39,Republican,"Powell, Larry R.",77,000040
+HASKELL,South Lockport,State Senate,39,Republican,"Powell, Larry R.",51,000060
+HASKELL,Satanta 2 H122,State Senate,39,Republican,"Powell, Larry R.",24,120020
+HASKELL,Satanta 2 H124,State Senate,39,Republican,"Powell, Larry R.",298,120030
+HASKELL,Sublette 1 H122,State Senate,39,Republican,"Powell, Larry R.",23,120040
+HASKELL,Sublette 1 H124,State Senate,39,Republican,"Powell, Larry R.",328,120050
+HASKELL,Sublette 3 H122,State Senate,39,Republican,"Powell, Larry R.",3,120060
+HASKELL,Sublette 3 H124,State Senate,39,Republican,"Powell, Larry R.",235,120070
 HASKELL,Ivanhoe Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 HASKELL,Ivanhoe Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 HASKELL,Ivanhoe Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -243,14 +243,14 @@ HASKELL,Sublette 3 H124,President / Vice President,,Democratic,"Obama, Barack",3
 HASKELL,Sublette 3 H124,President / Vice President,,Libertarian,"Johnson, Gary",3,120070
 HASKELL,Sublette 3 H124,President / Vice President,,Reform,"Baldwin, Chuck",0,120070
 HASKELL,Sublette 3 H124,President / Vice President,,Republican,"Romney, Mitt",220,120070
-HASKELL,Ivanhoe Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",52,000010
-HASKELL,North Dudley,United States House of Representatives,1,Republican,"Huelskamp, Tim",49,000020
-HASKELL,North Lockport,United States House of Representatives,1,Republican,"Huelskamp, Tim",47,000030
-HASKELL,Satanta 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",78,000040
-HASKELL,South Lockport,United States House of Representatives,1,Republican,"Huelskamp, Tim",52,000060
-HASKELL,Satanta 2 H122,United States House of Representatives,1,Republican,"Huelskamp, Tim",24,120020
-HASKELL,Satanta 2 H124,United States House of Representatives,1,Republican,"Huelskamp, Tim",302,120030
-HASKELL,Sublette 1 H122,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,120040
-HASKELL,Sublette 1 H124,United States House of Representatives,1,Republican,"Huelskamp, Tim",345,120050
-HASKELL,Sublette 3 H122,United States House of Representatives,1,Republican,"Huelskamp, Tim",1,120060
-HASKELL,Sublette 3 H124,United States House of Representatives,1,Republican,"Huelskamp, Tim",238,120070
+HASKELL,Ivanhoe Township,U.S. House,1,Republican,"Huelskamp, Tim",52,000010
+HASKELL,North Dudley,U.S. House,1,Republican,"Huelskamp, Tim",49,000020
+HASKELL,North Lockport,U.S. House,1,Republican,"Huelskamp, Tim",47,000030
+HASKELL,Satanta 1,U.S. House,1,Republican,"Huelskamp, Tim",78,000040
+HASKELL,South Lockport,U.S. House,1,Republican,"Huelskamp, Tim",52,000060
+HASKELL,Satanta 2 H122,U.S. House,1,Republican,"Huelskamp, Tim",24,120020
+HASKELL,Satanta 2 H124,U.S. House,1,Republican,"Huelskamp, Tim",302,120030
+HASKELL,Sublette 1 H122,U.S. House,1,Republican,"Huelskamp, Tim",22,120040
+HASKELL,Sublette 1 H124,U.S. House,1,Republican,"Huelskamp, Tim",345,120050
+HASKELL,Sublette 3 H122,U.S. House,1,Republican,"Huelskamp, Tim",1,120060
+HASKELL,Sublette 3 H124,U.S. House,1,Republican,"Huelskamp, Tim",238,120070

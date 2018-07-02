@@ -1,24 +1,24 @@
 county,precinct,office,district,party,candidate,votes,vtd
-LANE,Alamota Township,Kansas House of Representatives,118,Republican,"Hineman, Don",39,000010
-LANE,Dighton Township 2,Kansas House of Representatives,118,Republican,"Hineman, Don",64,000020
-LANE,Dighton Township 3,Kansas House of Representatives,118,Republican,"Hineman, Don",29,000030
-LANE,Cheyenne Township,Kansas House of Representatives,118,Republican,"Hineman, Don",119,000040
-LANE,Dighton Township 1,Kansas House of Representatives,118,Republican,"Hineman, Don",34,000050
-LANE,Dighton City Precinct 1,Kansas House of Representatives,118,Republican,"Hineman, Don",183,000060
-LANE,Dighton City Precinct 2,Kansas House of Representatives,118,Republican,"Hineman, Don",245,000070
-LANE,Dighton City Precinct 3,Kansas House of Representatives,118,Republican,"Hineman, Don",83,000080
-LANE,White Rock Township,Kansas House of Representatives,118,Republican,"Hineman, Don",11,000100
-LANE,Wilson Township,Kansas House of Representatives,118,Republican,"Hineman, Don",34,000110
-LANE,Alamota Township,Kansas Senate,33,Republican,"Holmes, Mitch",33,000010
-LANE,Dighton Township 2,Kansas Senate,33,Republican,"Holmes, Mitch",57,000020
-LANE,Dighton Township 3,Kansas Senate,33,Republican,"Holmes, Mitch",28,000030
-LANE,Cheyenne Township,Kansas Senate,33,Republican,"Holmes, Mitch",106,000040
-LANE,Dighton Township 1,Kansas Senate,33,Republican,"Holmes, Mitch",29,000050
-LANE,Dighton City Precinct 1,Kansas Senate,33,Republican,"Holmes, Mitch",165,000060
-LANE,Dighton City Precinct 2,Kansas Senate,33,Republican,"Holmes, Mitch",213,000070
-LANE,Dighton City Precinct 3,Kansas Senate,33,Republican,"Holmes, Mitch",73,000080
-LANE,White Rock Township,Kansas Senate,33,Republican,"Holmes, Mitch",11,000100
-LANE,Wilson Township,Kansas Senate,33,Republican,"Holmes, Mitch",29,000110
+LANE,Alamota Township,State House,118,Republican,"Hineman, Don",39,000010
+LANE,Dighton Township 2,State House,118,Republican,"Hineman, Don",64,000020
+LANE,Dighton Township 3,State House,118,Republican,"Hineman, Don",29,000030
+LANE,Cheyenne Township,State House,118,Republican,"Hineman, Don",119,000040
+LANE,Dighton Township 1,State House,118,Republican,"Hineman, Don",34,000050
+LANE,Dighton City Precinct 1,State House,118,Republican,"Hineman, Don",183,000060
+LANE,Dighton City Precinct 2,State House,118,Republican,"Hineman, Don",245,000070
+LANE,Dighton City Precinct 3,State House,118,Republican,"Hineman, Don",83,000080
+LANE,White Rock Township,State House,118,Republican,"Hineman, Don",11,000100
+LANE,Wilson Township,State House,118,Republican,"Hineman, Don",34,000110
+LANE,Alamota Township,State Senate,33,Republican,"Holmes, Mitch",33,000010
+LANE,Dighton Township 2,State Senate,33,Republican,"Holmes, Mitch",57,000020
+LANE,Dighton Township 3,State Senate,33,Republican,"Holmes, Mitch",28,000030
+LANE,Cheyenne Township,State Senate,33,Republican,"Holmes, Mitch",106,000040
+LANE,Dighton Township 1,State Senate,33,Republican,"Holmes, Mitch",29,000050
+LANE,Dighton City Precinct 1,State Senate,33,Republican,"Holmes, Mitch",165,000060
+LANE,Dighton City Precinct 2,State Senate,33,Republican,"Holmes, Mitch",213,000070
+LANE,Dighton City Precinct 3,State Senate,33,Republican,"Holmes, Mitch",73,000080
+LANE,White Rock Township,State Senate,33,Republican,"Holmes, Mitch",11,000100
+LANE,Wilson Township,State Senate,33,Republican,"Holmes, Mitch",29,000110
 LANE,Alamota Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 LANE,Alamota Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 LANE,Alamota Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -219,13 +219,13 @@ LANE,Wilson Township,President / Vice President,,Democratic,"Obama, Barack",5,00
 LANE,Wilson Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
 LANE,Wilson Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000110
 LANE,Wilson Township,President / Vice President,,Republican,"Romney, Mitt",33,000110
-LANE,Alamota Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",39,000010
-LANE,Dighton Township 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",62,000020
-LANE,Dighton Township 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000030
-LANE,Cheyenne Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",114,000040
-LANE,Dighton Township 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",32,000050
-LANE,Dighton City Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",166,000060
-LANE,Dighton City Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",225,000070
-LANE,Dighton City Precinct 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",73,000080
-LANE,White Rock Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000100
-LANE,Wilson Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",29,000110
+LANE,Alamota Township,U.S. House,1,Republican,"Huelskamp, Tim",39,000010
+LANE,Dighton Township 2,U.S. House,1,Republican,"Huelskamp, Tim",62,000020
+LANE,Dighton Township 3,U.S. House,1,Republican,"Huelskamp, Tim",30,000030
+LANE,Cheyenne Township,U.S. House,1,Republican,"Huelskamp, Tim",114,000040
+LANE,Dighton Township 1,U.S. House,1,Republican,"Huelskamp, Tim",32,000050
+LANE,Dighton City Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",166,000060
+LANE,Dighton City Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",225,000070
+LANE,Dighton City Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",73,000080
+LANE,White Rock Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000100
+LANE,Wilson Township,U.S. House,1,Republican,"Huelskamp, Tim",29,000110

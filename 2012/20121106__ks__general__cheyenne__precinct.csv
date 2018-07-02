@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,vtd
-CHEYENNE,Benkelman Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",16,000010
-CHEYENNE,Bird City Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",258,000020
-CHEYENNE,Calhoun Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",27,000030
-CHEYENNE,Cleveland Run Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",29,000040
-CHEYENNE,Jaqua Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",8,000050
-CHEYENNE,Orlando Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",23,000060
-CHEYENNE,Wano 1 Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",354,000070
-CHEYENNE,Wano 2 Township,Kansas House of Representatives,120,Republican,"Cassidy, Ward M.",486,000080
-CHEYENNE,Benkelman Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",4,000010
-CHEYENNE,Benkelman Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",16,000010
-CHEYENNE,Bird City Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",54,000020
-CHEYENNE,Bird City Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",257,000020
-CHEYENNE,Calhoun Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",4,000030
-CHEYENNE,Calhoun Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",27,000030
-CHEYENNE,Cleveland Run Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",7,000040
-CHEYENNE,Cleveland Run Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",30,000040
-CHEYENNE,Jaqua Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",3,000050
-CHEYENNE,Jaqua Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",8,000050
-CHEYENNE,Orlando Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",3,000060
-CHEYENNE,Orlando Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",28,000060
-CHEYENNE,Wano 1 Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",101,000070
-CHEYENNE,Wano 1 Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",287,000070
-CHEYENNE,Wano 2 Township,Kansas Senate,40,Democratic,"Schmidt, Allen Clark",133,000080
-CHEYENNE,Wano 2 Township,Kansas Senate,40,Republican,"Ostmeyer, Ralph",426,000080
+CHEYENNE,Benkelman Township,State House,120,Republican,"Cassidy, Ward M.",16,000010
+CHEYENNE,Bird City Township,State House,120,Republican,"Cassidy, Ward M.",258,000020
+CHEYENNE,Calhoun Township,State House,120,Republican,"Cassidy, Ward M.",27,000030
+CHEYENNE,Cleveland Run Township,State House,120,Republican,"Cassidy, Ward M.",29,000040
+CHEYENNE,Jaqua Township,State House,120,Republican,"Cassidy, Ward M.",8,000050
+CHEYENNE,Orlando Township,State House,120,Republican,"Cassidy, Ward M.",23,000060
+CHEYENNE,Wano 1 Township,State House,120,Republican,"Cassidy, Ward M.",354,000070
+CHEYENNE,Wano 2 Township,State House,120,Republican,"Cassidy, Ward M.",486,000080
+CHEYENNE,Benkelman Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000010
+CHEYENNE,Benkelman Township,State Senate,40,Republican,"Ostmeyer, Ralph",16,000010
+CHEYENNE,Bird City Township,State Senate,40,Democratic,"Schmidt, Allen Clark",54,000020
+CHEYENNE,Bird City Township,State Senate,40,Republican,"Ostmeyer, Ralph",257,000020
+CHEYENNE,Calhoun Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000030
+CHEYENNE,Calhoun Township,State Senate,40,Republican,"Ostmeyer, Ralph",27,000030
+CHEYENNE,Cleveland Run Township,State Senate,40,Democratic,"Schmidt, Allen Clark",7,000040
+CHEYENNE,Cleveland Run Township,State Senate,40,Republican,"Ostmeyer, Ralph",30,000040
+CHEYENNE,Jaqua Township,State Senate,40,Democratic,"Schmidt, Allen Clark",3,000050
+CHEYENNE,Jaqua Township,State Senate,40,Republican,"Ostmeyer, Ralph",8,000050
+CHEYENNE,Orlando Township,State Senate,40,Democratic,"Schmidt, Allen Clark",3,000060
+CHEYENNE,Orlando Township,State Senate,40,Republican,"Ostmeyer, Ralph",28,000060
+CHEYENNE,Wano 1 Township,State Senate,40,Democratic,"Schmidt, Allen Clark",101,000070
+CHEYENNE,Wano 1 Township,State Senate,40,Republican,"Ostmeyer, Ralph",287,000070
+CHEYENNE,Wano 2 Township,State Senate,40,Democratic,"Schmidt, Allen Clark",133,000080
+CHEYENNE,Wano 2 Township,State Senate,40,Republican,"Ostmeyer, Ralph",426,000080
 CHEYENNE,Benkelman Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 CHEYENNE,Benkelman Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 CHEYENNE,Benkelman Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -183,11 +183,11 @@ CHEYENNE,Wano 2 Township,President / Vice President,,Democratic,"Obama, Barack",
 CHEYENNE,Wano 2 Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000080
 CHEYENNE,Wano 2 Township,President / Vice President,,Reform,"Baldwin, Chuck",4,000080
 CHEYENNE,Wano 2 Township,President / Vice President,,Republican,"Romney, Mitt",469,000080
-CHEYENNE,Benkelman Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",19,000010
-CHEYENNE,Bird City Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",273,000020
-CHEYENNE,Calhoun Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000030
-CHEYENNE,Cleveland Run Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",37,000040
-CHEYENNE,Jaqua Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",11,000050
-CHEYENNE,Orlando Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",28,000060
-CHEYENNE,Wano 1 Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",335,000070
-CHEYENNE,Wano 2 Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",485,000080
+CHEYENNE,Benkelman Township,U.S. House,1,Republican,"Huelskamp, Tim",19,000010
+CHEYENNE,Bird City Township,U.S. House,1,Republican,"Huelskamp, Tim",273,000020
+CHEYENNE,Calhoun Township,U.S. House,1,Republican,"Huelskamp, Tim",30,000030
+CHEYENNE,Cleveland Run Township,U.S. House,1,Republican,"Huelskamp, Tim",37,000040
+CHEYENNE,Jaqua Township,U.S. House,1,Republican,"Huelskamp, Tim",11,000050
+CHEYENNE,Orlando Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000060
+CHEYENNE,Wano 1 Township,U.S. House,1,Republican,"Huelskamp, Tim",335,000070
+CHEYENNE,Wano 2 Township,U.S. House,1,Republican,"Huelskamp, Tim",485,000080

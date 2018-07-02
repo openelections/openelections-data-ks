@@ -1,26 +1,26 @@
 county,precinct,office,district,party,candidate,votes,vtd
-SCOTT,Beaver Township,Kansas House of Representatives,118,Republican,"Hineman, Don",81,000010
-SCOTT,Isbel Township,Kansas House of Representatives,118,Republican,"Hineman, Don",46,000020
-SCOTT,Keystone Township,Kansas House of Representatives,118,Republican,"Hineman, Don",46,000030
-SCOTT,Lake Township,Kansas House of Representatives,118,Republican,"Hineman, Don",29,000040
-SCOTT,Michigan Township,Kansas House of Representatives,118,Republican,"Hineman, Don",34,000050
-SCOTT,Scott City Ward 1,Kansas House of Representatives,118,Republican,"Hineman, Don",258,000060
-SCOTT,Scott City Ward 2,Kansas House of Representatives,118,Republican,"Hineman, Don",455,000070
-SCOTT,Scott City Ward 3,Kansas House of Representatives,118,Republican,"Hineman, Don",357,000080
-SCOTT,Scott City Ward 4,Kansas House of Representatives,118,Republican,"Hineman, Don",374,000090
-SCOTT,Scott Township,Kansas House of Representatives,118,Republican,"Hineman, Don",105,00010A
-SCOTT,Valley Township,Kansas House of Representatives,118,Republican,"Hineman, Don",75,000110
-SCOTT,Beaver Township,Kansas Senate,33,Republican,"Holmes, Mitch",79,000010
-SCOTT,Isbel Township,Kansas Senate,33,Republican,"Holmes, Mitch",45,000020
-SCOTT,Keystone Township,Kansas Senate,33,Republican,"Holmes, Mitch",47,000030
-SCOTT,Lake Township,Kansas Senate,33,Republican,"Holmes, Mitch",30,000040
-SCOTT,Michigan Township,Kansas Senate,33,Republican,"Holmes, Mitch",32,000050
-SCOTT,Scott City Ward 1,Kansas Senate,33,Republican,"Holmes, Mitch",241,000060
-SCOTT,Scott City Ward 2,Kansas Senate,33,Republican,"Holmes, Mitch",444,000070
-SCOTT,Scott City Ward 3,Kansas Senate,33,Republican,"Holmes, Mitch",351,000080
-SCOTT,Scott City Ward 4,Kansas Senate,33,Republican,"Holmes, Mitch",352,000090
-SCOTT,Scott Township,Kansas Senate,33,Republican,"Holmes, Mitch",102,00010A
-SCOTT,Valley Township,Kansas Senate,33,Republican,"Holmes, Mitch",70,000110
+SCOTT,Beaver Township,State House,118,Republican,"Hineman, Don",81,000010
+SCOTT,Isbel Township,State House,118,Republican,"Hineman, Don",46,000020
+SCOTT,Keystone Township,State House,118,Republican,"Hineman, Don",46,000030
+SCOTT,Lake Township,State House,118,Republican,"Hineman, Don",29,000040
+SCOTT,Michigan Township,State House,118,Republican,"Hineman, Don",34,000050
+SCOTT,Scott City Ward 1,State House,118,Republican,"Hineman, Don",258,000060
+SCOTT,Scott City Ward 2,State House,118,Republican,"Hineman, Don",455,000070
+SCOTT,Scott City Ward 3,State House,118,Republican,"Hineman, Don",357,000080
+SCOTT,Scott City Ward 4,State House,118,Republican,"Hineman, Don",374,000090
+SCOTT,Scott Township,State House,118,Republican,"Hineman, Don",105,00010A
+SCOTT,Valley Township,State House,118,Republican,"Hineman, Don",75,000110
+SCOTT,Beaver Township,State Senate,33,Republican,"Holmes, Mitch",79,000010
+SCOTT,Isbel Township,State Senate,33,Republican,"Holmes, Mitch",45,000020
+SCOTT,Keystone Township,State Senate,33,Republican,"Holmes, Mitch",47,000030
+SCOTT,Lake Township,State Senate,33,Republican,"Holmes, Mitch",30,000040
+SCOTT,Michigan Township,State Senate,33,Republican,"Holmes, Mitch",32,000050
+SCOTT,Scott City Ward 1,State Senate,33,Republican,"Holmes, Mitch",241,000060
+SCOTT,Scott City Ward 2,State Senate,33,Republican,"Holmes, Mitch",444,000070
+SCOTT,Scott City Ward 3,State Senate,33,Republican,"Holmes, Mitch",351,000080
+SCOTT,Scott City Ward 4,State Senate,33,Republican,"Holmes, Mitch",352,000090
+SCOTT,Scott Township,State Senate,33,Republican,"Holmes, Mitch",102,00010A
+SCOTT,Valley Township,State Senate,33,Republican,"Holmes, Mitch",70,000110
 SCOTT,Beaver Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 SCOTT,Beaver Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 SCOTT,Beaver Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -241,14 +241,14 @@ SCOTT,Valley Township,President / Vice President,,Democratic,"Obama, Barack",6,0
 SCOTT,Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000110
 SCOTT,Valley Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000110
 SCOTT,Valley Township,President / Vice President,,Republican,"Romney, Mitt",77,000110
-SCOTT,Beaver Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",81,000010
-SCOTT,Isbel Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",45,000020
-SCOTT,Keystone Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",47,000030
-SCOTT,Lake Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",31,000040
-SCOTT,Michigan Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",36,000050
-SCOTT,Scott City Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",250,000060
-SCOTT,Scott City Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",454,000070
-SCOTT,Scott City Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",356,000080
-SCOTT,Scott City Ward 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",366,000090
-SCOTT,Scott Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",104,00010A
-SCOTT,Valley Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",72,000110
+SCOTT,Beaver Township,U.S. House,1,Republican,"Huelskamp, Tim",81,000010
+SCOTT,Isbel Township,U.S. House,1,Republican,"Huelskamp, Tim",45,000020
+SCOTT,Keystone Township,U.S. House,1,Republican,"Huelskamp, Tim",47,000030
+SCOTT,Lake Township,U.S. House,1,Republican,"Huelskamp, Tim",31,000040
+SCOTT,Michigan Township,U.S. House,1,Republican,"Huelskamp, Tim",36,000050
+SCOTT,Scott City Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",250,000060
+SCOTT,Scott City Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",454,000070
+SCOTT,Scott City Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",356,000080
+SCOTT,Scott City Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",366,000090
+SCOTT,Scott Township,U.S. House,1,Republican,"Huelskamp, Tim",104,00010A
+SCOTT,Valley Township,U.S. House,1,Republican,"Huelskamp, Tim",72,000110

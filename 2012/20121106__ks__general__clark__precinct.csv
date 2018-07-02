@@ -1,32 +1,32 @@
 county,precinct,office,district,party,candidate,votes,vtd
-CLARK,Appleton Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",63,000010
-CLARK,Appleton Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",318,000010
-CLARK,Center 1,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",60,000020
-CLARK,Center 1,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",196,000020
-CLARK,Center 2,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",27,000030
-CLARK,Center 2,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",151,000030
-CLARK,Englewood Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",14,000040
-CLARK,Englewood Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",51,000040
-CLARK,Lexington Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",8,000050
-CLARK,Lexington Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",22,000050
-CLARK,Liberty Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",3,000060
-CLARK,Liberty Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",25,000060
-CLARK,Sitka Township,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",7,000070
-CLARK,Sitka Township,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",31,000070
-CLARK,Appleton Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",45,000010
-CLARK,Appleton Township,Kansas Senate,38,Republican,"Love, Garrett",352,000010
-CLARK,Center 1,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",56,000020
-CLARK,Center 1,Kansas Senate,38,Republican,"Love, Garrett",213,000020
-CLARK,Center 2,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",29,000030
-CLARK,Center 2,Kansas Senate,38,Republican,"Love, Garrett",154,000030
-CLARK,Englewood Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",21,000040
-CLARK,Englewood Township,Kansas Senate,38,Republican,"Love, Garrett",46,000040
-CLARK,Lexington Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",9,000050
-CLARK,Lexington Township,Kansas Senate,38,Republican,"Love, Garrett",21,000050
-CLARK,Liberty Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",3,000060
-CLARK,Liberty Township,Kansas Senate,38,Republican,"Love, Garrett",25,000060
-CLARK,Sitka Township,Kansas Senate,38,Democratic,"Dunlap, Johnny  II",9,000070
-CLARK,Sitka Township,Kansas Senate,38,Republican,"Love, Garrett",30,000070
+CLARK,Appleton Township,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",63,000010
+CLARK,Appleton Township,State House,115,Republican,"Ryckman, Ronald",318,000010
+CLARK,Center 1,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",60,000020
+CLARK,Center 1,State House,115,Republican,"Ryckman, Ronald",196,000020
+CLARK,Center 2,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",27,000030
+CLARK,Center 2,State House,115,Republican,"Ryckman, Ronald",151,000030
+CLARK,Englewood Township,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",14,000040
+CLARK,Englewood Township,State House,115,Republican,"Ryckman, Ronald",51,000040
+CLARK,Lexington Township,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",8,000050
+CLARK,Lexington Township,State House,115,Republican,"Ryckman, Ronald",22,000050
+CLARK,Liberty Township,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",3,000060
+CLARK,Liberty Township,State House,115,Republican,"Ryckman, Ronald",25,000060
+CLARK,Sitka Township,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",7,000070
+CLARK,Sitka Township,State House,115,Republican,"Ryckman, Ronald",31,000070
+CLARK,Appleton Township,State Senate,38,Democratic,"Dunlap, Johnny  II",45,000010
+CLARK,Appleton Township,State Senate,38,Republican,"Love, Garrett",352,000010
+CLARK,Center 1,State Senate,38,Democratic,"Dunlap, Johnny  II",56,000020
+CLARK,Center 1,State Senate,38,Republican,"Love, Garrett",213,000020
+CLARK,Center 2,State Senate,38,Democratic,"Dunlap, Johnny  II",29,000030
+CLARK,Center 2,State Senate,38,Republican,"Love, Garrett",154,000030
+CLARK,Englewood Township,State Senate,38,Democratic,"Dunlap, Johnny  II",21,000040
+CLARK,Englewood Township,State Senate,38,Republican,"Love, Garrett",46,000040
+CLARK,Lexington Township,State Senate,38,Democratic,"Dunlap, Johnny  II",9,000050
+CLARK,Lexington Township,State Senate,38,Republican,"Love, Garrett",21,000050
+CLARK,Liberty Township,State Senate,38,Democratic,"Dunlap, Johnny  II",3,000060
+CLARK,Liberty Township,State Senate,38,Republican,"Love, Garrett",25,000060
+CLARK,Sitka Township,State Senate,38,Democratic,"Dunlap, Johnny  II",9,000070
+CLARK,Sitka Township,State Senate,38,Republican,"Love, Garrett",30,000070
 CLARK,Appleton Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 CLARK,Appleton Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 CLARK,Appleton Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -167,10 +167,10 @@ CLARK,Sitka Township,President / Vice President,,Democratic,"Obama, Barack",5,00
 CLARK,Sitka Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
 CLARK,Sitka Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000070
 CLARK,Sitka Township,President / Vice President,,Republican,"Romney, Mitt",34,000070
-CLARK,Appleton Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",324,000010
-CLARK,Center 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",219,000020
-CLARK,Center 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",165,000030
-CLARK,Englewood Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",53,000040
-CLARK,Lexington Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",26,000050
-CLARK,Liberty Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",28,000060
-CLARK,Sitka Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",33,000070
+CLARK,Appleton Township,U.S. House,1,Republican,"Huelskamp, Tim",324,000010
+CLARK,Center 1,U.S. House,1,Republican,"Huelskamp, Tim",219,000020
+CLARK,Center 2,U.S. House,1,Republican,"Huelskamp, Tim",165,000030
+CLARK,Englewood Township,U.S. House,1,Republican,"Huelskamp, Tim",53,000040
+CLARK,Lexington Township,U.S. House,1,Republican,"Huelskamp, Tim",26,000050
+CLARK,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000060
+CLARK,Sitka Township,U.S. House,1,Republican,"Huelskamp, Tim",33,000070

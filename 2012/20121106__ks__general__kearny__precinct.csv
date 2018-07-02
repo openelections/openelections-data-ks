@@ -1,22 +1,22 @@
 county,precinct,office,district,party,candidate,votes,vtd
-KEARNY,Deerfield Precinct,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",203,000010
-KEARNY,East Hibbard Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",47,000020
-KEARNY,Hartland Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",45,000030
-KEARNY,Kendall Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",26,000040
-KEARNY,Lakin Precinct 1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",320,000050
-KEARNY,Lakin Precinct 2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",271,000060
-KEARNY,Lakin Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",84,000070
-KEARNY,Southside Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",60,000080
-KEARNY,West Hibbard Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",13,000090
-KEARNY,Deerfield Precinct,Kansas Senate,39,Republican,"Powell, Larry R.",209,000010
-KEARNY,East Hibbard Township,Kansas Senate,39,Republican,"Powell, Larry R.",51,000020
-KEARNY,Hartland Township,Kansas Senate,39,Republican,"Powell, Larry R.",51,000030
-KEARNY,Kendall Township,Kansas Senate,39,Republican,"Powell, Larry R.",28,000040
-KEARNY,Lakin Precinct 1,Kansas Senate,39,Republican,"Powell, Larry R.",349,000050
-KEARNY,Lakin Precinct 2,Kansas Senate,39,Republican,"Powell, Larry R.",294,000060
-KEARNY,Lakin Township,Kansas Senate,39,Republican,"Powell, Larry R.",84,000070
-KEARNY,Southside Township,Kansas Senate,39,Republican,"Powell, Larry R.",73,000080
-KEARNY,West Hibbard Township,Kansas Senate,39,Republican,"Powell, Larry R.",20,000090
+KEARNY,Deerfield Precinct,State House,122,Republican,"Jennings, J. Russell ""Russ""",203,000010
+KEARNY,East Hibbard Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",47,000020
+KEARNY,Hartland Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",45,000030
+KEARNY,Kendall Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",26,000040
+KEARNY,Lakin Precinct 1,State House,122,Republican,"Jennings, J. Russell ""Russ""",320,000050
+KEARNY,Lakin Precinct 2,State House,122,Republican,"Jennings, J. Russell ""Russ""",271,000060
+KEARNY,Lakin Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",84,000070
+KEARNY,Southside Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",60,000080
+KEARNY,West Hibbard Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",13,000090
+KEARNY,Deerfield Precinct,State Senate,39,Republican,"Powell, Larry R.",209,000010
+KEARNY,East Hibbard Township,State Senate,39,Republican,"Powell, Larry R.",51,000020
+KEARNY,Hartland Township,State Senate,39,Republican,"Powell, Larry R.",51,000030
+KEARNY,Kendall Township,State Senate,39,Republican,"Powell, Larry R.",28,000040
+KEARNY,Lakin Precinct 1,State Senate,39,Republican,"Powell, Larry R.",349,000050
+KEARNY,Lakin Precinct 2,State Senate,39,Republican,"Powell, Larry R.",294,000060
+KEARNY,Lakin Township,State Senate,39,Republican,"Powell, Larry R.",84,000070
+KEARNY,Southside Township,State Senate,39,Republican,"Powell, Larry R.",73,000080
+KEARNY,West Hibbard Township,State Senate,39,Republican,"Powell, Larry R.",20,000090
 KEARNY,Deerfield Precinct,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 KEARNY,Deerfield Precinct,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 KEARNY,Deerfield Precinct,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -197,12 +197,12 @@ KEARNY,West Hibbard Township,President / Vice President,,Democratic,"Obama, Bara
 KEARNY,West Hibbard Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000090
 KEARNY,West Hibbard Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000090
 KEARNY,West Hibbard Township,President / Vice President,,Republican,"Romney, Mitt",22,000090
-KEARNY,Deerfield Precinct,United States House of Representatives,1,Republican,"Huelskamp, Tim",208,000010
-KEARNY,East Hibbard Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",49,000020
-KEARNY,Hartland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",50,000030
-KEARNY,Kendall Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",28,000040
-KEARNY,Lakin Precinct 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",368,000050
-KEARNY,Lakin Precinct 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",303,000060
-KEARNY,Lakin Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",86,000070
-KEARNY,Southside Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",76,000080
-KEARNY,West Hibbard Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",22,000090
+KEARNY,Deerfield Precinct,U.S. House,1,Republican,"Huelskamp, Tim",208,000010
+KEARNY,East Hibbard Township,U.S. House,1,Republican,"Huelskamp, Tim",49,000020
+KEARNY,Hartland Township,U.S. House,1,Republican,"Huelskamp, Tim",50,000030
+KEARNY,Kendall Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000040
+KEARNY,Lakin Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",368,000050
+KEARNY,Lakin Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",303,000060
+KEARNY,Lakin Township,U.S. House,1,Republican,"Huelskamp, Tim",86,000070
+KEARNY,Southside Township,U.S. House,1,Republican,"Huelskamp, Tim",76,000080
+KEARNY,West Hibbard Township,U.S. House,1,Republican,"Huelskamp, Tim",22,000090

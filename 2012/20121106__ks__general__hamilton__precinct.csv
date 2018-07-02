@@ -1,28 +1,28 @@
 county,precinct,office,district,party,candidate,votes,vtd
-HAMILTON,Bear Creek Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",21,000010
-HAMILTON,Coolidge Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",33,000020
-HAMILTON,Kendall Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",30,000030
-HAMILTON,Lamont Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",38,000040
-HAMILTON,Liberty Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",14,000050
-HAMILTON,Medway Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",21,000060
-HAMILTON,Richland Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",14,000070
-HAMILTON,Syracuse 1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",162,000080
-HAMILTON,Syracuse 2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",96,000090
-HAMILTON,Syracuse 3,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",103,000100
-HAMILTON,Syracuse 4,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",52,120010
-HAMILTON,Syracuse 5,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",157,120020
-HAMILTON,Bear Creek Township,Kansas Senate,39,Republican,"Powell, Larry R.",20,000010
-HAMILTON,Coolidge Township,Kansas Senate,39,Republican,"Powell, Larry R.",38,000020
-HAMILTON,Kendall Township,Kansas Senate,39,Republican,"Powell, Larry R.",29,000030
-HAMILTON,Lamont Township,Kansas Senate,39,Republican,"Powell, Larry R.",38,000040
-HAMILTON,Liberty Township,Kansas Senate,39,Republican,"Powell, Larry R.",13,000050
-HAMILTON,Medway Township,Kansas Senate,39,Republican,"Powell, Larry R.",20,000060
-HAMILTON,Richland Township,Kansas Senate,39,Republican,"Powell, Larry R.",12,000070
-HAMILTON,Syracuse 1,Kansas Senate,39,Republican,"Powell, Larry R.",148,000080
-HAMILTON,Syracuse 2,Kansas Senate,39,Republican,"Powell, Larry R.",95,000090
-HAMILTON,Syracuse 3,Kansas Senate,39,Republican,"Powell, Larry R.",101,000100
-HAMILTON,Syracuse 4,Kansas Senate,39,Republican,"Powell, Larry R.",56,120010
-HAMILTON,Syracuse 5,Kansas Senate,39,Republican,"Powell, Larry R.",146,120020
+HAMILTON,Bear Creek Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",21,000010
+HAMILTON,Coolidge Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",33,000020
+HAMILTON,Kendall Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",30,000030
+HAMILTON,Lamont Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",38,000040
+HAMILTON,Liberty Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",14,000050
+HAMILTON,Medway Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",21,000060
+HAMILTON,Richland Township,State House,122,Republican,"Jennings, J. Russell ""Russ""",14,000070
+HAMILTON,Syracuse 1,State House,122,Republican,"Jennings, J. Russell ""Russ""",162,000080
+HAMILTON,Syracuse 2,State House,122,Republican,"Jennings, J. Russell ""Russ""",96,000090
+HAMILTON,Syracuse 3,State House,122,Republican,"Jennings, J. Russell ""Russ""",103,000100
+HAMILTON,Syracuse 4,State House,122,Republican,"Jennings, J. Russell ""Russ""",52,120010
+HAMILTON,Syracuse 5,State House,122,Republican,"Jennings, J. Russell ""Russ""",157,120020
+HAMILTON,Bear Creek Township,State Senate,39,Republican,"Powell, Larry R.",20,000010
+HAMILTON,Coolidge Township,State Senate,39,Republican,"Powell, Larry R.",38,000020
+HAMILTON,Kendall Township,State Senate,39,Republican,"Powell, Larry R.",29,000030
+HAMILTON,Lamont Township,State Senate,39,Republican,"Powell, Larry R.",38,000040
+HAMILTON,Liberty Township,State Senate,39,Republican,"Powell, Larry R.",13,000050
+HAMILTON,Medway Township,State Senate,39,Republican,"Powell, Larry R.",20,000060
+HAMILTON,Richland Township,State Senate,39,Republican,"Powell, Larry R.",12,000070
+HAMILTON,Syracuse 1,State Senate,39,Republican,"Powell, Larry R.",148,000080
+HAMILTON,Syracuse 2,State Senate,39,Republican,"Powell, Larry R.",95,000090
+HAMILTON,Syracuse 3,State Senate,39,Republican,"Powell, Larry R.",101,000100
+HAMILTON,Syracuse 4,State Senate,39,Republican,"Powell, Larry R.",56,120010
+HAMILTON,Syracuse 5,State Senate,39,Republican,"Powell, Larry R.",146,120020
 HAMILTON,Bear Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 HAMILTON,Bear Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 HAMILTON,Bear Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -263,15 +263,15 @@ HAMILTON,Syracuse 5,President / Vice President,,Democratic,"Obama, Barack",32,12
 HAMILTON,Syracuse 5,President / Vice President,,Libertarian,"Johnson, Gary",4,120020
 HAMILTON,Syracuse 5,President / Vice President,,Reform,"Baldwin, Chuck",0,120020
 HAMILTON,Syracuse 5,President / Vice President,,Republican,"Romney, Mitt",144,120020
-HAMILTON,Bear Creek Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",19,000010
-HAMILTON,Coolidge Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",42,000020
-HAMILTON,Kendall Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",30,000030
-HAMILTON,Lamont Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",35,000040
-HAMILTON,Liberty Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000050
-HAMILTON,Medway Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",21,000060
-HAMILTON,Richland Township,United States House of Representatives,1,Republican,"Huelskamp, Tim",12,000070
-HAMILTON,Syracuse 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",148,000080
-HAMILTON,Syracuse 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",96,000090
-HAMILTON,Syracuse 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",105,000100
-HAMILTON,Syracuse 4,United States House of Representatives,1,Republican,"Huelskamp, Tim",54,120010
-HAMILTON,Syracuse 5,United States House of Representatives,1,Republican,"Huelskamp, Tim",145,120020
+HAMILTON,Bear Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",19,000010
+HAMILTON,Coolidge Township,U.S. House,1,Republican,"Huelskamp, Tim",42,000020
+HAMILTON,Kendall Township,U.S. House,1,Republican,"Huelskamp, Tim",30,000030
+HAMILTON,Lamont Township,U.S. House,1,Republican,"Huelskamp, Tim",35,000040
+HAMILTON,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000050
+HAMILTON,Medway Township,U.S. House,1,Republican,"Huelskamp, Tim",21,000060
+HAMILTON,Richland Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000070
+HAMILTON,Syracuse 1,U.S. House,1,Republican,"Huelskamp, Tim",148,000080
+HAMILTON,Syracuse 2,U.S. House,1,Republican,"Huelskamp, Tim",96,000090
+HAMILTON,Syracuse 3,U.S. House,1,Republican,"Huelskamp, Tim",105,000100
+HAMILTON,Syracuse 4,U.S. House,1,Republican,"Huelskamp, Tim",54,120010
+HAMILTON,Syracuse 5,U.S. House,1,Republican,"Huelskamp, Tim",145,120020

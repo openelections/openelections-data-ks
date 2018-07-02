@@ -1,10 +1,10 @@
 county,precinct,office,district,party,candidate,votes,vtd
-STANTON,Big Bow,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",102,000010
-STANTON,Manter,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",91,000020
-STANTON,Stanton,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",406,000030
-STANTON,Big Bow,Kansas Senate,39,Republican,"Powell, Larry R.",103,000010
-STANTON,Manter,Kansas Senate,39,Republican,"Powell, Larry R.",87,000020
-STANTON,Stanton,Kansas Senate,39,Republican,"Powell, Larry R.",391,000030
+STANTON,Big Bow,State House,124,Republican,"Alford, J. Stephen",102,000010
+STANTON,Manter,State House,124,Republican,"Alford, J. Stephen",91,000020
+STANTON,Stanton,State House,124,Republican,"Alford, J. Stephen",406,000030
+STANTON,Big Bow,State Senate,39,Republican,"Powell, Larry R.",103,000010
+STANTON,Manter,State Senate,39,Republican,"Powell, Larry R.",87,000020
+STANTON,Stanton,State Senate,39,Republican,"Powell, Larry R.",391,000030
 STANTON,Big Bow,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 STANTON,Big Bow,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 STANTON,Big Bow,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -65,6 +65,6 @@ STANTON,Stanton,President / Vice President,,Democratic,"Obama, Barack",105,00003
 STANTON,Stanton,President / Vice President,,Libertarian,"Johnson, Gary",3,000030
 STANTON,Stanton,President / Vice President,,Reform,"Baldwin, Chuck",5,000030
 STANTON,Stanton,President / Vice President,,Republican,"Romney, Mitt",421,000030
-STANTON,Big Bow,United States House of Representatives,1,Republican,"Huelskamp, Tim",101,000010
-STANTON,Manter,United States House of Representatives,1,Republican,"Huelskamp, Tim",87,000020
-STANTON,Stanton,United States House of Representatives,1,Republican,"Huelskamp, Tim",421,000030
+STANTON,Big Bow,U.S. House,1,Republican,"Huelskamp, Tim",101,000010
+STANTON,Manter,U.S. House,1,Republican,"Huelskamp, Tim",87,000020
+STANTON,Stanton,U.S. House,1,Republican,"Huelskamp, Tim",421,000030

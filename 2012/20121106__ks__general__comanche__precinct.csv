@@ -1,19 +1,19 @@
 county,precinct,office,district,party,candidate,votes,vtd
-COMANCHE,Avilla Township,Kansas House of Representatives,116,Democratic,"Wetta, Vincent",12,000010
-COMANCHE,Avilla Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",35,000010
-COMANCHE,Coldwater Township,Kansas House of Representatives,116,Democratic,"Wetta, Vincent",135,000020
-COMANCHE,Coldwater Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",343,000020
-COMANCHE,Powell Township,Kansas House of Representatives,116,Democratic,"Wetta, Vincent",7,000030
-COMANCHE,Powell Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",30,000030
-COMANCHE,Protection Township H115,Kansas House of Representatives,115,Democratic,"Gilbert, Marjorie ""Mo""",38,120020
-COMANCHE,Protection Township H115,Kansas House of Representatives,115,Republican,"Ryckman, Ronald",237,120020
-COMANCHE,Protection Township H116,Kansas House of Representatives,116,Democratic,"Wetta, Vincent",15,120030
-COMANCHE,Protection Township H116,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",44,120030
-COMANCHE,Avilla Township,Kansas Senate,32,Republican,"Abrams, Steve E",42,000010
-COMANCHE,Coldwater Township,Kansas Senate,32,Republican,"Abrams, Steve E",426,000020
-COMANCHE,Powell Township,Kansas Senate,32,Republican,"Abrams, Steve E",36,000030
-COMANCHE,Protection Township H115,Kansas Senate,32,Republican,"Abrams, Steve E",252,120020
-COMANCHE,Protection Township H116,Kansas Senate,32,Republican,"Abrams, Steve E",47,120030
+COMANCHE,Avilla Township,State House,116,Democratic,"Wetta, Vincent",12,000010
+COMANCHE,Avilla Township,State House,116,Republican,"Hoffman, Kyle D.",35,000010
+COMANCHE,Coldwater Township,State House,116,Democratic,"Wetta, Vincent",135,000020
+COMANCHE,Coldwater Township,State House,116,Republican,"Hoffman, Kyle D.",343,000020
+COMANCHE,Powell Township,State House,116,Democratic,"Wetta, Vincent",7,000030
+COMANCHE,Powell Township,State House,116,Republican,"Hoffman, Kyle D.",30,000030
+COMANCHE,Protection Township H115,State House,115,Democratic,"Gilbert, Marjorie ""Mo""",38,120020
+COMANCHE,Protection Township H115,State House,115,Republican,"Ryckman, Ronald",237,120020
+COMANCHE,Protection Township H116,State House,116,Democratic,"Wetta, Vincent",15,120030
+COMANCHE,Protection Township H116,State House,116,Republican,"Hoffman, Kyle D.",44,120030
+COMANCHE,Avilla Township,State Senate,32,Republican,"Abrams, Steve E",42,000010
+COMANCHE,Coldwater Township,State Senate,32,Republican,"Abrams, Steve E",426,000020
+COMANCHE,Powell Township,State Senate,32,Republican,"Abrams, Steve E",36,000030
+COMANCHE,Protection Township H115,State Senate,32,Republican,"Abrams, Steve E",252,120020
+COMANCHE,Protection Township H116,State Senate,32,Republican,"Abrams, Steve E",47,120030
 COMANCHE,Avilla Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
 COMANCHE,Avilla Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
 COMANCHE,Avilla Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
@@ -114,18 +114,18 @@ COMANCHE,Protection Township H116,President / Vice President,,Democratic,"Obama,
 COMANCHE,Protection Township H116,President / Vice President,,Libertarian,"Johnson, Gary",1,120030
 COMANCHE,Protection Township H116,President / Vice President,,Reform,"Baldwin, Chuck",0,120030
 COMANCHE,Protection Township H116,President / Vice President,,Republican,"Romney, Mitt",50,120030
-COMANCHE,Avilla Township,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",2,000010
-COMANCHE,Avilla Township,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",1,000010
-COMANCHE,Avilla Township,United States House of Representatives,4,Republican,"Pompeo, Mike",42,000010
-COMANCHE,Coldwater Township,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",85,000020
-COMANCHE,Coldwater Township,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",19,000020
-COMANCHE,Coldwater Township,United States House of Representatives,4,Republican,"Pompeo, Mike",392,000020
-COMANCHE,Powell Township,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",7,000030
-COMANCHE,Powell Township,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",0,000030
-COMANCHE,Powell Township,United States House of Representatives,4,Republican,"Pompeo, Mike",41,000030
-COMANCHE,Protection Township H115,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",33,120020
-COMANCHE,Protection Township H115,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",14,120020
-COMANCHE,Protection Township H115,United States House of Representatives,4,Republican,"Pompeo, Mike",226,120020
-COMANCHE,Protection Township H116,United States House of Representatives,4,Democratic,"Tillman, Robert Leon",5,120030
-COMANCHE,Protection Township H116,United States House of Representatives,4,Libertarian,"Jefferson, Thomas",2,120030
-COMANCHE,Protection Township H116,United States House of Representatives,4,Republican,"Pompeo, Mike",49,120030
+COMANCHE,Avilla Township,U.S. House,4,Democratic,"Tillman, Robert Leon",2,000010
+COMANCHE,Avilla Township,U.S. House,4,Libertarian,"Jefferson, Thomas",1,000010
+COMANCHE,Avilla Township,U.S. House,4,Republican,"Pompeo, Mike",42,000010
+COMANCHE,Coldwater Township,U.S. House,4,Democratic,"Tillman, Robert Leon",85,000020
+COMANCHE,Coldwater Township,U.S. House,4,Libertarian,"Jefferson, Thomas",19,000020
+COMANCHE,Coldwater Township,U.S. House,4,Republican,"Pompeo, Mike",392,000020
+COMANCHE,Powell Township,U.S. House,4,Democratic,"Tillman, Robert Leon",7,000030
+COMANCHE,Powell Township,U.S. House,4,Libertarian,"Jefferson, Thomas",0,000030
+COMANCHE,Powell Township,U.S. House,4,Republican,"Pompeo, Mike",41,000030
+COMANCHE,Protection Township H115,U.S. House,4,Democratic,"Tillman, Robert Leon",33,120020
+COMANCHE,Protection Township H115,U.S. House,4,Libertarian,"Jefferson, Thomas",14,120020
+COMANCHE,Protection Township H115,U.S. House,4,Republican,"Pompeo, Mike",226,120020
+COMANCHE,Protection Township H116,U.S. House,4,Democratic,"Tillman, Robert Leon",5,120030
+COMANCHE,Protection Township H116,U.S. House,4,Libertarian,"Jefferson, Thomas",2,120030
+COMANCHE,Protection Township H116,U.S. House,4,Republican,"Pompeo, Mike",49,120030

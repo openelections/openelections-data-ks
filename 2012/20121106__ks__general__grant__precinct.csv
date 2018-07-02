@@ -1,16 +1,16 @@
 county,precinct,office,district,party,candidate,votes,vtd
-GRANT,Ulysses Ward 1,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",273,000020
-GRANT,Ulysses Ward 2,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",625,00003A
-GRANT,Ulysses Ward 2 Exclave,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",0,00003B
-GRANT,Ulysses Ward 3,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",648,000040
-GRANT,Precinct 4 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,120020
-GRANT,Precinct 4 H124,Kansas House of Representatives,124,Republican,"Alford, J. Stephen",420,120030
-GRANT,Ulysses Ward 1,Kansas Senate,39,Republican,"Powell, Larry R.",263,000020
-GRANT,Ulysses Ward 2,Kansas Senate,39,Republican,"Powell, Larry R.",582,00003A
-GRANT,Ulysses Ward 2 Exclave,Kansas Senate,39,Republican,"Powell, Larry R.",0,00003B
-GRANT,Ulysses Ward 3,Kansas Senate,39,Republican,"Powell, Larry R.",598,000040
-GRANT,Precinct 4 H122,Kansas Senate,39,Republican,"Powell, Larry R.",0,120020
-GRANT,Precinct 4 H124,Kansas Senate,39,Republican,"Powell, Larry R.",400,120030
+GRANT,Ulysses Ward 1,State House,124,Republican,"Alford, J. Stephen",273,000020
+GRANT,Ulysses Ward 2,State House,124,Republican,"Alford, J. Stephen",625,00003A
+GRANT,Ulysses Ward 2 Exclave,State House,124,Republican,"Alford, J. Stephen",0,00003B
+GRANT,Ulysses Ward 3,State House,124,Republican,"Alford, J. Stephen",648,000040
+GRANT,Precinct 4 H122,State House,122,Republican,"Jennings, J. Russell ""Russ""",0,120020
+GRANT,Precinct 4 H124,State House,124,Republican,"Alford, J. Stephen",420,120030
+GRANT,Ulysses Ward 1,State Senate,39,Republican,"Powell, Larry R.",263,000020
+GRANT,Ulysses Ward 2,State Senate,39,Republican,"Powell, Larry R.",582,00003A
+GRANT,Ulysses Ward 2 Exclave,State Senate,39,Republican,"Powell, Larry R.",0,00003B
+GRANT,Ulysses Ward 3,State Senate,39,Republican,"Powell, Larry R.",598,000040
+GRANT,Precinct 4 H122,State Senate,39,Republican,"Powell, Larry R.",0,120020
+GRANT,Precinct 4 H124,State Senate,39,Republican,"Powell, Larry R.",400,120030
 GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
 GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000020
 GRANT,Ulysses Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000020
@@ -131,9 +131,9 @@ GRANT,Precinct 4 H124,President / Vice President,,Democratic,"Obama, Barack",76,
 GRANT,Precinct 4 H124,President / Vice President,,Libertarian,"Johnson, Gary",9,120030
 GRANT,Precinct 4 H124,President / Vice President,,Reform,"Baldwin, Chuck",1,120030
 GRANT,Precinct 4 H124,President / Vice President,,Republican,"Romney, Mitt",397,120030
-GRANT,Ulysses Ward 1,United States House of Representatives,1,Republican,"Huelskamp, Tim",262,000020
-GRANT,Ulysses Ward 2,United States House of Representatives,1,Republican,"Huelskamp, Tim",607,00003A
-GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,00003B
-GRANT,Ulysses Ward 3,United States House of Representatives,1,Republican,"Huelskamp, Tim",638,000040
-GRANT,Precinct 4 H122,United States House of Representatives,1,Republican,"Huelskamp, Tim",0,120020
-GRANT,Precinct 4 H124,United States House of Representatives,1,Republican,"Huelskamp, Tim",411,120030
+GRANT,Ulysses Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",262,000020
+GRANT,Ulysses Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",607,00003A
+GRANT,Ulysses Ward 2 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00003B
+GRANT,Ulysses Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",638,000040
+GRANT,Precinct 4 H122,U.S. House,1,Republican,"Huelskamp, Tim",0,120020
+GRANT,Precinct 4 H124,U.S. House,1,Republican,"Huelskamp, Tim",411,120030
