@@ -1,0 +1,764 @@
+county,precinct,office,district,party,candidate,votes,vtd
+ELLIS,Buckeye Township,Governor,,Democratic,"Davis, Paul",50,000010
+ELLIS,Buckeye Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000010
+ELLIS,Buckeye Township,Governor,,Republican,"Brownback, Sam",119,000010
+ELLIS,Catherine Township,Governor,,Democratic,"Davis, Paul",45,000020
+ELLIS,Catherine Township,Governor,,Libertarian,"Umbehr, Keen A.",6,000020
+ELLIS,Catherine Township,Governor,,Republican,"Brownback, Sam",84,000020
+ELLIS,East Big Creek Township,Governor,,Democratic,"Davis, Paul",110,000030
+ELLIS,East Big Creek Township,Governor,,Libertarian,"Umbehr, Keen A.",10,000030
+ELLIS,East Big Creek Township,Governor,,Republican,"Brownback, Sam",191,000030
+ELLIS,Ellis Township,Governor,,Democratic,"Davis, Paul",64,000040
+ELLIS,Ellis Township,Governor,,Libertarian,"Umbehr, Keen A.",7,000040
+ELLIS,Ellis Township,Governor,,Republican,"Brownback, Sam",130,000040
+ELLIS,Ellis Ward 1,Governor,,Democratic,"Davis, Paul",95,000050
+ELLIS,Ellis Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",11,000050
+ELLIS,Ellis Ward 1,Governor,,Republican,"Brownback, Sam",149,000050
+ELLIS,Ellis Ward 2,Governor,,Democratic,"Davis, Paul",168,000060
+ELLIS,Ellis Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",18,000060
+ELLIS,Ellis Ward 2,Governor,,Republican,"Brownback, Sam",189,000060
+ELLIS,Ellis Ward 3,Governor,,Democratic,"Davis, Paul",81,000070
+ELLIS,Ellis Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",13,000070
+ELLIS,Ellis Ward 3,Governor,,Republican,"Brownback, Sam",105,000070
+ELLIS,Freedom Township,Governor,,Democratic,"Davis, Paul",14,000080
+ELLIS,Freedom Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000080
+ELLIS,Freedom Township,Governor,,Republican,"Brownback, Sam",27,000080
+ELLIS,Hays Ward 1 Precinct 1,Governor,,Democratic,"Davis, Paul",42,000090
+ELLIS,Hays Ward 1 Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",5,000090
+ELLIS,Hays Ward 1 Precinct 1,Governor,,Republican,"Brownback, Sam",23,000090
+ELLIS,Hays Ward 1 Precinct 2,Governor,,Democratic,"Davis, Paul",78,00010A
+ELLIS,Hays Ward 1 Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",16,00010A
+ELLIS,Hays Ward 1 Precinct 2,Governor,,Republican,"Brownback, Sam",81,00010A
+ELLIS,Hays Ward 2 Precinct 1,Governor,,Democratic,"Davis, Paul",154,000110
+ELLIS,Hays Ward 2 Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",24,000110
+ELLIS,Hays Ward 2 Precinct 1,Governor,,Republican,"Brownback, Sam",162,000110
+ELLIS,Hays Ward 2 Precinct 2,Governor,,Democratic,"Davis, Paul",169,000120
+ELLIS,Hays Ward 2 Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",11,000120
+ELLIS,Hays Ward 2 Precinct 2,Governor,,Republican,"Brownback, Sam",127,000120
+ELLIS,Hays Ward 2 Precinct 3,Governor,,Democratic,"Davis, Paul",119,000130
+ELLIS,Hays Ward 2 Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",9,000130
+ELLIS,Hays Ward 2 Precinct 3,Governor,,Republican,"Brownback, Sam",111,000130
+ELLIS,Hays Ward 2 Precinct 4,Governor,,Democratic,"Davis, Paul",136,000140
+ELLIS,Hays Ward 2 Precinct 4,Governor,,Libertarian,"Umbehr, Keen A.",12,000140
+ELLIS,Hays Ward 2 Precinct 4,Governor,,Republican,"Brownback, Sam",116,000140
+ELLIS,Hays Ward 2 Precinct 5,Governor,,Democratic,"Davis, Paul",87,000150
+ELLIS,Hays Ward 2 Precinct 5,Governor,,Libertarian,"Umbehr, Keen A.",11,000150
+ELLIS,Hays Ward 2 Precinct 5,Governor,,Republican,"Brownback, Sam",89,000150
+ELLIS,Hays Ward 3 Precinct 1,Governor,,Democratic,"Davis, Paul",146,00016A
+ELLIS,Hays Ward 3 Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",10,00016A
+ELLIS,Hays Ward 3 Precinct 1,Governor,,Republican,"Brownback, Sam",149,00016A
+ELLIS,Hays Ward 3 Precinct 2,Governor,,Democratic,"Davis, Paul",214,000170
+ELLIS,Hays Ward 3 Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",23,000170
+ELLIS,Hays Ward 3 Precinct 2,Governor,,Republican,"Brownback, Sam",260,000170
+ELLIS,Hays Ward 3 Precinct 3,Governor,,Democratic,"Davis, Paul",276,000180
+ELLIS,Hays Ward 3 Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",6,000180
+ELLIS,Hays Ward 3 Precinct 3,Governor,,Republican,"Brownback, Sam",297,000180
+ELLIS,Hays Ward 3 Precinct 4,Governor,,Democratic,"Davis, Paul",410,00019A
+ELLIS,Hays Ward 3 Precinct 4,Governor,,Libertarian,"Umbehr, Keen A.",18,00019A
+ELLIS,Hays Ward 3 Precinct 4,Governor,,Republican,"Brownback, Sam",558,00019A
+ELLIS,Hays Ward 4 Precinct 1,Governor,,Democratic,"Davis, Paul",165,000200
+ELLIS,Hays Ward 4 Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",22,000200
+ELLIS,Hays Ward 4 Precinct 1,Governor,,Republican,"Brownback, Sam",190,000200
+ELLIS,Hays Ward 4 Precinct 2,Governor,,Democratic,"Davis, Paul",197,00021A
+ELLIS,Hays Ward 4 Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",19,00021A
+ELLIS,Hays Ward 4 Precinct 2,Governor,,Republican,"Brownback, Sam",210,00021A
+ELLIS,Hays Ward 4 Precinct 3,Governor,,Democratic,"Davis, Paul",180,000220
+ELLIS,Hays Ward 4 Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",16,000220
+ELLIS,Hays Ward 4 Precinct 3,Governor,,Republican,"Brownback, Sam",198,000220
+ELLIS,Hays Ward 4 Precinct 4,Governor,,Democratic,"Davis, Paul",336,000230
+ELLIS,Hays Ward 4 Precinct 4,Governor,,Libertarian,"Umbehr, Keen A.",27,000230
+ELLIS,Hays Ward 4 Precinct 4,Governor,,Republican,"Brownback, Sam",373,000230
+ELLIS,Hays Ward 4 Precinct 5,Governor,,Democratic,"Davis, Paul",254,000240
+ELLIS,Hays Ward 4 Precinct 5,Governor,,Libertarian,"Umbehr, Keen A.",12,000240
+ELLIS,Hays Ward 4 Precinct 5,Governor,,Republican,"Brownback, Sam",261,000240
+ELLIS,South Lookout Township,Governor,,Democratic,"Davis, Paul",36,000280
+ELLIS,South Lookout Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000280
+ELLIS,South Lookout Township,Governor,,Republican,"Brownback, Sam",73,000280
+ELLIS,Victoria Township,Governor,,Democratic,"Davis, Paul",137,000290
+ELLIS,Victoria Township,Governor,,Libertarian,"Umbehr, Keen A.",18,000290
+ELLIS,Victoria Township,Governor,,Republican,"Brownback, Sam",205,000290
+ELLIS,Wheatland Township,Governor,,Democratic,"Davis, Paul",48,000310
+ELLIS,Wheatland Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000310
+ELLIS,Wheatland Township,Governor,,Republican,"Brownback, Sam",107,000310
+ELLIS,Herzog Township H110,Governor,,Democratic,"Davis, Paul",36,120020
+ELLIS,Herzog Township H110,Governor,,Libertarian,"Umbehr, Keen A.",5,120020
+ELLIS,Herzog Township H110,Governor,,Republican,"Brownback, Sam",62,120020
+ELLIS,Herzog Township H111,Governor,,Democratic,"Davis, Paul",76,120030
+ELLIS,Herzog Township H111,Governor,,Libertarian,"Umbehr, Keen A.",10,120030
+ELLIS,Herzog Township H111,Governor,,Republican,"Brownback, Sam",108,120030
+ELLIS,North Big Creek Township H110,Governor,,Democratic,"Davis, Paul",34,120040
+ELLIS,North Big Creek Township H110,Governor,,Libertarian,"Umbehr, Keen A.",3,120040
+ELLIS,North Big Creek Township H110,Governor,,Republican,"Brownback, Sam",44,120040
+ELLIS,North Big Creek Township H111,Governor,,Democratic,"Davis, Paul",73,120050
+ELLIS,North Big Creek Township H111,Governor,,Libertarian,"Umbehr, Keen A.",6,120050
+ELLIS,North Big Creek Township H111,Governor,,Republican,"Brownback, Sam",146,120050
+ELLIS,North Lookout Township H110,Governor,,Democratic,"Davis, Paul",18,120060
+ELLIS,North Lookout Township H110,Governor,,Libertarian,"Umbehr, Keen A.",4,120060
+ELLIS,North Lookout Township H110,Governor,,Republican,"Brownback, Sam",40,120060
+ELLIS,North Lookout Township H111,Governor,,Democratic,"Davis, Paul",18,120070
+ELLIS,North Lookout Township H111,Governor,,Libertarian,"Umbehr, Keen A.",2,120070
+ELLIS,North Lookout Township H111,Governor,,Republican,"Brownback, Sam",38,120070
+ELLIS,West Big Creek Township H110,Governor,,Democratic,"Davis, Paul",8,120080
+ELLIS,West Big Creek Township H110,Governor,,Libertarian,"Umbehr, Keen A.",0,120080
+ELLIS,West Big Creek Township H110,Governor,,Republican,"Brownback, Sam",25,120080
+ELLIS,West Big Creek Township H111,Governor,,Democratic,"Davis, Paul",11,120090
+ELLIS,West Big Creek Township H111,Governor,,Libertarian,"Umbehr, Keen A.",2,120090
+ELLIS,West Big Creek Township H111,Governor,,Republican,"Brownback, Sam",25,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Governor,,Democratic,"Davis, Paul",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Governor,,Libertarian,"Umbehr, Keen A.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Governor,,Republican,"Brownback, Sam",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Governor,,Democratic,"Davis, Paul",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Governor,,Libertarian,"Umbehr, Keen A.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Governor,,Republican,"Brownback, Sam",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Governor,,Democratic,"Davis, Paul",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Governor,,Libertarian,"Umbehr, Keen A.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Governor,,Republican,"Brownback, Sam",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Governor,,Democratic,"Davis, Paul",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Governor,,Libertarian,"Umbehr, Keen A.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Governor,,Republican,"Brownback, Sam",0,900040
+ELLIS,North Big Creek Township Enclave 1,Governor,,Democratic,"Davis, Paul",0,900050
+ELLIS,North Big Creek Township Enclave 1,Governor,,Libertarian,"Umbehr, Keen A.",0,900050
+ELLIS,North Big Creek Township Enclave 1,Governor,,Republican,"Brownback, Sam",0,900050
+ELLIS,North Big Creek Township Enclave 2,Governor,,Democratic,"Davis, Paul",0,900060
+ELLIS,North Big Creek Township Enclave 2,Governor,,Libertarian,"Umbehr, Keen A.",0,900060
+ELLIS,North Big Creek Township Enclave 2,Governor,,Republican,"Brownback, Sam",0,900060
+ELLIS,North Big Creek Township Enclave 3,Governor,,Democratic,"Davis, Paul",0,900070
+ELLIS,North Big Creek Township Enclave 3,Governor,,Libertarian,"Umbehr, Keen A.",0,900070
+ELLIS,North Big Creek Township Enclave 3,Governor,,Republican,"Brownback, Sam",0,900070
+ELLIS,North Big Creek Township Enclave 4,Governor,,Democratic,"Davis, Paul",0,900080
+ELLIS,North Big Creek Township Enclave 4,Governor,,Libertarian,"Umbehr, Keen A.",0,900080
+ELLIS,North Big Creek Township Enclave 4,Governor,,Republican,"Brownback, Sam",0,900080
+ELLIS,Buckeye Township,State House,110,Republican,"Couture-Lovelady, Travis",152,000010
+ELLIS,Catherine Township,State House,110,Republican,"Couture-Lovelady, Travis",105,000020
+ELLIS,East Big Creek Township,State House,111,Democratic,"Leiker, James A.",111,000030
+ELLIS,East Big Creek Township,State House,111,Republican,"Boldra, Sue E.",200,000030
+ELLIS,Ellis Township,State House,110,Republican,"Couture-Lovelady, Travis",178,000040
+ELLIS,Ellis Ward 1,State House,110,Republican,"Couture-Lovelady, Travis",212,000050
+ELLIS,Ellis Ward 2,State House,110,Republican,"Couture-Lovelady, Travis",318,000060
+ELLIS,Ellis Ward 3,State House,110,Republican,"Couture-Lovelady, Travis",173,000070
+ELLIS,Freedom Township,State House,111,Democratic,"Leiker, James A.",13,000080
+ELLIS,Freedom Township,State House,111,Republican,"Boldra, Sue E.",28,000080
+ELLIS,Hays Ward 1 Precinct 1,State House,111,Democratic,"Leiker, James A.",36,000090
+ELLIS,Hays Ward 1 Precinct 1,State House,111,Republican,"Boldra, Sue E.",33,000090
+ELLIS,Hays Ward 1 Precinct 2,State House,111,Democratic,"Leiker, James A.",78,00010A
+ELLIS,Hays Ward 1 Precinct 2,State House,111,Republican,"Boldra, Sue E.",95,00010A
+ELLIS,Hays Ward 2 Precinct 1,State House,111,Democratic,"Leiker, James A.",156,000110
+ELLIS,Hays Ward 2 Precinct 1,State House,111,Republican,"Boldra, Sue E.",187,000110
+ELLIS,Hays Ward 2 Precinct 2,State House,111,Democratic,"Leiker, James A.",159,000120
+ELLIS,Hays Ward 2 Precinct 2,State House,111,Republican,"Boldra, Sue E.",152,000120
+ELLIS,Hays Ward 2 Precinct 3,State House,111,Democratic,"Leiker, James A.",124,000130
+ELLIS,Hays Ward 2 Precinct 3,State House,111,Republican,"Boldra, Sue E.",113,000130
+ELLIS,Hays Ward 2 Precinct 4,State House,111,Democratic,"Leiker, James A.",141,000140
+ELLIS,Hays Ward 2 Precinct 4,State House,111,Republican,"Boldra, Sue E.",125,000140
+ELLIS,Hays Ward 2 Precinct 5,State House,111,Democratic,"Leiker, James A.",86,000150
+ELLIS,Hays Ward 2 Precinct 5,State House,111,Republican,"Boldra, Sue E.",98,000150
+ELLIS,Hays Ward 3 Precinct 1,State House,111,Democratic,"Leiker, James A.",132,00016A
+ELLIS,Hays Ward 3 Precinct 1,State House,111,Republican,"Boldra, Sue E.",170,00016A
+ELLIS,Hays Ward 3 Precinct 2,State House,111,Democratic,"Leiker, James A.",198,000170
+ELLIS,Hays Ward 3 Precinct 2,State House,111,Republican,"Boldra, Sue E.",305,000170
+ELLIS,Hays Ward 3 Precinct 3,State House,111,Democratic,"Leiker, James A.",254,000180
+ELLIS,Hays Ward 3 Precinct 3,State House,111,Republican,"Boldra, Sue E.",321,000180
+ELLIS,Hays Ward 3 Precinct 4,State House,111,Democratic,"Leiker, James A.",364,00019A
+ELLIS,Hays Ward 3 Precinct 4,State House,111,Republican,"Boldra, Sue E.",628,00019A
+ELLIS,Hays Ward 4 Precinct 1,State House,111,Democratic,"Leiker, James A.",164,000200
+ELLIS,Hays Ward 4 Precinct 1,State House,111,Republican,"Boldra, Sue E.",216,000200
+ELLIS,Hays Ward 4 Precinct 2,State House,111,Democratic,"Leiker, James A.",194,00021A
+ELLIS,Hays Ward 4 Precinct 2,State House,111,Republican,"Boldra, Sue E.",233,00021A
+ELLIS,Hays Ward 4 Precinct 3,State House,111,Democratic,"Leiker, James A.",174,000220
+ELLIS,Hays Ward 4 Precinct 3,State House,111,Republican,"Boldra, Sue E.",220,000220
+ELLIS,Hays Ward 4 Precinct 4,State House,111,Democratic,"Leiker, James A.",323,000230
+ELLIS,Hays Ward 4 Precinct 4,State House,111,Republican,"Boldra, Sue E.",409,000230
+ELLIS,Hays Ward 4 Precinct 5,State House,111,Democratic,"Leiker, James A.",217,000240
+ELLIS,Hays Ward 4 Precinct 5,State House,111,Republican,"Boldra, Sue E.",307,000240
+ELLIS,South Lookout Township,State House,110,Republican,"Couture-Lovelady, Travis",94,000280
+ELLIS,Victoria Township,State House,111,Democratic,"Leiker, James A.",145,000290
+ELLIS,Victoria Township,State House,111,Republican,"Boldra, Sue E.",215,000290
+ELLIS,Wheatland Township,State House,111,Democratic,"Leiker, James A.",57,000310
+ELLIS,Wheatland Township,State House,111,Republican,"Boldra, Sue E.",101,000310
+ELLIS,Herzog Township H110,State House,110,Republican,"Couture-Lovelady, Travis",94,120020
+ELLIS,Herzog Township H111,State House,111,Democratic,"Leiker, James A.",88,120030
+ELLIS,Herzog Township H111,State House,111,Republican,"Boldra, Sue E.",109,120030
+ELLIS,North Big Creek Township H110,State House,110,Republican,"Couture-Lovelady, Travis",65,120040
+ELLIS,North Big Creek Township H111,State House,111,Democratic,"Leiker, James A.",78,120050
+ELLIS,North Big Creek Township H111,State House,111,Republican,"Boldra, Sue E.",147,120050
+ELLIS,North Lookout Township H110,State House,110,Republican,"Couture-Lovelady, Travis",53,120060
+ELLIS,North Lookout Township H111,State House,111,Democratic,"Leiker, James A.",25,120070
+ELLIS,North Lookout Township H111,State House,111,Republican,"Boldra, Sue E.",35,120070
+ELLIS,West Big Creek Township H110,State House,110,Republican,"Couture-Lovelady, Travis",28,120080
+ELLIS,West Big Creek Township H111,State House,111,Democratic,"Leiker, James A.",13,120090
+ELLIS,West Big Creek Township H111,State House,111,Republican,"Boldra, Sue E.",25,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,State House,111,Democratic,"Leiker, James A.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,State House,111,Republican,"Boldra, Sue E.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,State House,111,Democratic,"Leiker, James A.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,State House,111,Republican,"Boldra, Sue E.",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,State House,111,Democratic,"Leiker, James A.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,State House,111,Republican,"Boldra, Sue E.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,State House,111,Democratic,"Leiker, James A.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,State House,111,Republican,"Boldra, Sue E.",0,900040
+ELLIS,North Big Creek Township Enclave 1,State House,111,Democratic,"Leiker, James A.",0,900050
+ELLIS,North Big Creek Township Enclave 1,State House,111,Republican,"Boldra, Sue E.",0,900050
+ELLIS,North Big Creek Township Enclave 2,State House,111,Democratic,"Leiker, James A.",0,900060
+ELLIS,North Big Creek Township Enclave 2,State House,111,Republican,"Boldra, Sue E.",0,900060
+ELLIS,North Big Creek Township Enclave 3,State House,111,Democratic,"Leiker, James A.",0,900070
+ELLIS,North Big Creek Township Enclave 3,State House,111,Republican,"Boldra, Sue E.",0,900070
+ELLIS,North Big Creek Township Enclave 4,State House,111,Democratic,"Leiker, James A.",0,900080
+ELLIS,North Big Creek Township Enclave 4,State House,111,Republican,"Boldra, Sue E.",0,900080
+ELLIS,Buckeye Township,U.S. House,1,Democratic,"Sherow, James E.",35,000010
+ELLIS,Buckeye Township,U.S. House,1,Republican,"Huelskamp, Tim",136,000010
+ELLIS,Catherine Township,U.S. House,1,Democratic,"Sherow, James E.",39,000020
+ELLIS,Catherine Township,U.S. House,1,Republican,"Huelskamp, Tim",95,000020
+ELLIS,East Big Creek Township,U.S. House,1,Democratic,"Sherow, James E.",77,000030
+ELLIS,East Big Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",228,000030
+ELLIS,Ellis Township,U.S. House,1,Democratic,"Sherow, James E.",56,000040
+ELLIS,Ellis Township,U.S. House,1,Republican,"Huelskamp, Tim",144,000040
+ELLIS,Ellis Ward 1,U.S. House,1,Democratic,"Sherow, James E.",64,000050
+ELLIS,Ellis Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",187,000050
+ELLIS,Ellis Ward 2,U.S. House,1,Democratic,"Sherow, James E.",106,000060
+ELLIS,Ellis Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",264,000060
+ELLIS,Ellis Ward 3,U.S. House,1,Democratic,"Sherow, James E.",55,000070
+ELLIS,Ellis Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",141,000070
+ELLIS,Freedom Township,U.S. House,1,Democratic,"Sherow, James E.",9,000080
+ELLIS,Freedom Township,U.S. House,1,Republican,"Huelskamp, Tim",32,000080
+ELLIS,Hays Ward 1 Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",38,000090
+ELLIS,Hays Ward 1 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",32,000090
+ELLIS,Hays Ward 1 Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",65,00010A
+ELLIS,Hays Ward 1 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",105,00010A
+ELLIS,Hays Ward 2 Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",135,000110
+ELLIS,Hays Ward 2 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",208,000110
+ELLIS,Hays Ward 2 Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",153,000120
+ELLIS,Hays Ward 2 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",152,000120
+ELLIS,Hays Ward 2 Precinct 3,U.S. House,1,Democratic,"Sherow, James E.",100,000130
+ELLIS,Hays Ward 2 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",135,000130
+ELLIS,Hays Ward 2 Precinct 4,U.S. House,1,Democratic,"Sherow, James E.",115,000140
+ELLIS,Hays Ward 2 Precinct 4,U.S. House,1,Republican,"Huelskamp, Tim",149,000140
+ELLIS,Hays Ward 2 Precinct 5,U.S. House,1,Democratic,"Sherow, James E.",80,000150
+ELLIS,Hays Ward 2 Precinct 5,U.S. House,1,Republican,"Huelskamp, Tim",105,000150
+ELLIS,Hays Ward 3 Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",121,00016A
+ELLIS,Hays Ward 3 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",179,00016A
+ELLIS,Hays Ward 3 Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",171,000170
+ELLIS,Hays Ward 3 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",326,000170
+ELLIS,Hays Ward 3 Precinct 3,U.S. House,1,Democratic,"Sherow, James E.",210,000180
+ELLIS,Hays Ward 3 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",359,000180
+ELLIS,Hays Ward 3 Precinct 4,U.S. House,1,Democratic,"Sherow, James E.",334,00019A
+ELLIS,Hays Ward 3 Precinct 4,U.S. House,1,Republican,"Huelskamp, Tim",640,00019A
+ELLIS,Hays Ward 4 Precinct 1,U.S. House,1,Democratic,"Sherow, James E.",143,000200
+ELLIS,Hays Ward 4 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",230,000200
+ELLIS,Hays Ward 4 Precinct 2,U.S. House,1,Democratic,"Sherow, James E.",160,00021A
+ELLIS,Hays Ward 4 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",256,00021A
+ELLIS,Hays Ward 4 Precinct 3,U.S. House,1,Democratic,"Sherow, James E.",143,000220
+ELLIS,Hays Ward 4 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",243,000220
+ELLIS,Hays Ward 4 Precinct 4,U.S. House,1,Democratic,"Sherow, James E.",278,000230
+ELLIS,Hays Ward 4 Precinct 4,U.S. House,1,Republican,"Huelskamp, Tim",451,000230
+ELLIS,Hays Ward 4 Precinct 5,U.S. House,1,Democratic,"Sherow, James E.",181,000240
+ELLIS,Hays Ward 4 Precinct 5,U.S. House,1,Republican,"Huelskamp, Tim",329,000240
+ELLIS,South Lookout Township,U.S. House,1,Democratic,"Sherow, James E.",33,000280
+ELLIS,South Lookout Township,U.S. House,1,Republican,"Huelskamp, Tim",78,000280
+ELLIS,Victoria Township,U.S. House,1,Democratic,"Sherow, James E.",104,000290
+ELLIS,Victoria Township,U.S. House,1,Republican,"Huelskamp, Tim",248,000290
+ELLIS,Wheatland Township,U.S. House,1,Democratic,"Sherow, James E.",37,000310
+ELLIS,Wheatland Township,U.S. House,1,Republican,"Huelskamp, Tim",120,000310
+ELLIS,Herzog Township H110,U.S. House,1,Democratic,"Sherow, James E.",29,120020
+ELLIS,Herzog Township H110,U.S. House,1,Republican,"Huelskamp, Tim",76,120020
+ELLIS,Herzog Township H111,U.S. House,1,Democratic,"Sherow, James E.",62,120030
+ELLIS,Herzog Township H111,U.S. House,1,Republican,"Huelskamp, Tim",133,120030
+ELLIS,North Big Creek Township H110,U.S. House,1,Democratic,"Sherow, James E.",28,120040
+ELLIS,North Big Creek Township H110,U.S. House,1,Republican,"Huelskamp, Tim",53,120040
+ELLIS,North Big Creek Township H111,U.S. House,1,Democratic,"Sherow, James E.",70,120050
+ELLIS,North Big Creek Township H111,U.S. House,1,Republican,"Huelskamp, Tim",149,120050
+ELLIS,North Lookout Township H110,U.S. House,1,Democratic,"Sherow, James E.",20,120060
+ELLIS,North Lookout Township H110,U.S. House,1,Republican,"Huelskamp, Tim",38,120060
+ELLIS,North Lookout Township H111,U.S. House,1,Democratic,"Sherow, James E.",21,120070
+ELLIS,North Lookout Township H111,U.S. House,1,Republican,"Huelskamp, Tim",37,120070
+ELLIS,West Big Creek Township H110,U.S. House,1,Democratic,"Sherow, James E.",5,120080
+ELLIS,West Big Creek Township H110,U.S. House,1,Republican,"Huelskamp, Tim",27,120080
+ELLIS,West Big Creek Township H111,U.S. House,1,Democratic,"Sherow, James E.",11,120090
+ELLIS,West Big Creek Township H111,U.S. House,1,Republican,"Huelskamp, Tim",26,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,U.S. House,1,Democratic,"Sherow, James E.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,U.S. House,1,Republican,"Huelskamp, Tim",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,U.S. House,1,Democratic,"Sherow, James E.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,U.S. House,1,Republican,"Huelskamp, Tim",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,U.S. House,1,Democratic,"Sherow, James E.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,U.S. House,1,Republican,"Huelskamp, Tim",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,U.S. House,1,Democratic,"Sherow, James E.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,U.S. House,1,Republican,"Huelskamp, Tim",0,900040
+ELLIS,North Big Creek Township Enclave 1,U.S. House,1,Democratic,"Sherow, James E.",0,900050
+ELLIS,North Big Creek Township Enclave 1,U.S. House,1,Republican,"Huelskamp, Tim",0,900050
+ELLIS,North Big Creek Township Enclave 2,U.S. House,1,Democratic,"Sherow, James E.",0,900060
+ELLIS,North Big Creek Township Enclave 2,U.S. House,1,Republican,"Huelskamp, Tim",0,900060
+ELLIS,North Big Creek Township Enclave 3,U.S. House,1,Democratic,"Sherow, James E.",0,900070
+ELLIS,North Big Creek Township Enclave 3,U.S. House,1,Republican,"Huelskamp, Tim",0,900070
+ELLIS,North Big Creek Township Enclave 4,U.S. House,1,Democratic,"Sherow, James E.",0,900080
+ELLIS,North Big Creek Township Enclave 4,U.S. House,1,Republican,"Huelskamp, Tim",0,900080
+ELLIS,Buckeye Township,Attorney General,,Democratic,"Kotich, A.J.",22,000010
+ELLIS,Buckeye Township,Attorney General,,Republican,"Schmidt, Derek",147,000010
+ELLIS,Catherine Township,Attorney General,,Democratic,"Kotich, A.J.",22,000020
+ELLIS,Catherine Township,Attorney General,,Republican,"Schmidt, Derek",112,000020
+ELLIS,East Big Creek Township,Attorney General,,Democratic,"Kotich, A.J.",54,000030
+ELLIS,East Big Creek Township,Attorney General,,Republican,"Schmidt, Derek",248,000030
+ELLIS,Ellis Township,Attorney General,,Democratic,"Kotich, A.J.",32,000040
+ELLIS,Ellis Township,Attorney General,,Republican,"Schmidt, Derek",165,000040
+ELLIS,Ellis Ward 1,Attorney General,,Democratic,"Kotich, A.J.",58,000050
+ELLIS,Ellis Ward 1,Attorney General,,Republican,"Schmidt, Derek",186,000050
+ELLIS,Ellis Ward 2,Attorney General,,Democratic,"Kotich, A.J.",102,000060
+ELLIS,Ellis Ward 2,Attorney General,,Republican,"Schmidt, Derek",258,000060
+ELLIS,Ellis Ward 3,Attorney General,,Democratic,"Kotich, A.J.",51,000070
+ELLIS,Ellis Ward 3,Attorney General,,Republican,"Schmidt, Derek",140,000070
+ELLIS,Freedom Township,Attorney General,,Democratic,"Kotich, A.J.",6,000080
+ELLIS,Freedom Township,Attorney General,,Republican,"Schmidt, Derek",34,000080
+ELLIS,Hays Ward 1 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",27,000090
+ELLIS,Hays Ward 1 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",40,000090
+ELLIS,Hays Ward 1 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",50,00010A
+ELLIS,Hays Ward 1 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",118,00010A
+ELLIS,Hays Ward 2 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",101,000110
+ELLIS,Hays Ward 2 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",230,000110
+ELLIS,Hays Ward 2 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",117,000120
+ELLIS,Hays Ward 2 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",186,000120
+ELLIS,Hays Ward 2 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",82,000130
+ELLIS,Hays Ward 2 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",154,000130
+ELLIS,Hays Ward 2 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",93,000140
+ELLIS,Hays Ward 2 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",171,000140
+ELLIS,Hays Ward 2 Precinct 5,Attorney General,,Democratic,"Kotich, A.J.",55,000150
+ELLIS,Hays Ward 2 Precinct 5,Attorney General,,Republican,"Schmidt, Derek",131,000150
+ELLIS,Hays Ward 3 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",91,00016A
+ELLIS,Hays Ward 3 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",211,00016A
+ELLIS,Hays Ward 3 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",110,000170
+ELLIS,Hays Ward 3 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",386,000170
+ELLIS,Hays Ward 3 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",106,000180
+ELLIS,Hays Ward 3 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",462,000180
+ELLIS,Hays Ward 3 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",191,00019A
+ELLIS,Hays Ward 3 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",766,00019A
+ELLIS,Hays Ward 4 Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",90,000200
+ELLIS,Hays Ward 4 Precinct 1,Attorney General,,Republican,"Schmidt, Derek",281,000200
+ELLIS,Hays Ward 4 Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",114,00021A
+ELLIS,Hays Ward 4 Precinct 2,Attorney General,,Republican,"Schmidt, Derek",302,00021A
+ELLIS,Hays Ward 4 Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",92,000220
+ELLIS,Hays Ward 4 Precinct 3,Attorney General,,Republican,"Schmidt, Derek",295,000220
+ELLIS,Hays Ward 4 Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",169,000230
+ELLIS,Hays Ward 4 Precinct 4,Attorney General,,Republican,"Schmidt, Derek",539,000230
+ELLIS,Hays Ward 4 Precinct 5,Attorney General,,Democratic,"Kotich, A.J.",121,000240
+ELLIS,Hays Ward 4 Precinct 5,Attorney General,,Republican,"Schmidt, Derek",384,000240
+ELLIS,South Lookout Township,Attorney General,,Democratic,"Kotich, A.J.",16,000280
+ELLIS,South Lookout Township,Attorney General,,Republican,"Schmidt, Derek",94,000280
+ELLIS,Victoria Township,Attorney General,,Democratic,"Kotich, A.J.",64,000290
+ELLIS,Victoria Township,Attorney General,,Republican,"Schmidt, Derek",280,000290
+ELLIS,Wheatland Township,Attorney General,,Democratic,"Kotich, A.J.",23,000310
+ELLIS,Wheatland Township,Attorney General,,Republican,"Schmidt, Derek",132,000310
+ELLIS,Herzog Township H110,Attorney General,,Democratic,"Kotich, A.J.",16,120020
+ELLIS,Herzog Township H110,Attorney General,,Republican,"Schmidt, Derek",87,120020
+ELLIS,Herzog Township H111,Attorney General,,Democratic,"Kotich, A.J.",45,120030
+ELLIS,Herzog Township H111,Attorney General,,Republican,"Schmidt, Derek",144,120030
+ELLIS,North Big Creek Township H110,Attorney General,,Democratic,"Kotich, A.J.",22,120040
+ELLIS,North Big Creek Township H110,Attorney General,,Republican,"Schmidt, Derek",57,120040
+ELLIS,North Big Creek Township H111,Attorney General,,Democratic,"Kotich, A.J.",38,120050
+ELLIS,North Big Creek Township H111,Attorney General,,Republican,"Schmidt, Derek",178,120050
+ELLIS,North Lookout Township H110,Attorney General,,Democratic,"Kotich, A.J.",9,120060
+ELLIS,North Lookout Township H110,Attorney General,,Republican,"Schmidt, Derek",51,120060
+ELLIS,North Lookout Township H111,Attorney General,,Democratic,"Kotich, A.J.",9,120070
+ELLIS,North Lookout Township H111,Attorney General,,Republican,"Schmidt, Derek",51,120070
+ELLIS,West Big Creek Township H110,Attorney General,,Democratic,"Kotich, A.J.",6,120080
+ELLIS,West Big Creek Township H110,Attorney General,,Republican,"Schmidt, Derek",26,120080
+ELLIS,West Big Creek Township H111,Attorney General,,Democratic,"Kotich, A.J.",3,120090
+ELLIS,West Big Creek Township H111,Attorney General,,Republican,"Schmidt, Derek",35,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900040
+ELLIS,North Big Creek Township Enclave 1,Attorney General,,Democratic,"Kotich, A.J.",0,900050
+ELLIS,North Big Creek Township Enclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900050
+ELLIS,North Big Creek Township Enclave 2,Attorney General,,Democratic,"Kotich, A.J.",0,900060
+ELLIS,North Big Creek Township Enclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900060
+ELLIS,North Big Creek Township Enclave 3,Attorney General,,Democratic,"Kotich, A.J.",0,900070
+ELLIS,North Big Creek Township Enclave 3,Attorney General,,Republican,"Schmidt, Derek",0,900070
+ELLIS,North Big Creek Township Enclave 4,Attorney General,,Democratic,"Kotich, A.J.",0,900080
+ELLIS,North Big Creek Township Enclave 4,Attorney General,,Republican,"Schmidt, Derek",0,900080
+ELLIS,Buckeye Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,000010
+ELLIS,Buckeye Township,Commissioner of Insurance,,Republican,"Selzer, Ken",135,000010
+ELLIS,Catherine Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000020
+ELLIS,Catherine Township,Commissioner of Insurance,,Republican,"Selzer, Ken",91,000020
+ELLIS,East Big Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",80,000030
+ELLIS,East Big Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",213,000030
+ELLIS,Ellis Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,000040
+ELLIS,Ellis Township,Commissioner of Insurance,,Republican,"Selzer, Ken",137,000040
+ELLIS,Ellis Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",78,000050
+ELLIS,Ellis Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",162,000050
+ELLIS,Ellis Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",123,000060
+ELLIS,Ellis Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",229,000060
+ELLIS,Ellis Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",63,000070
+ELLIS,Ellis Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",127,000070
+ELLIS,Freedom Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",15,000080
+ELLIS,Freedom Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000080
+ELLIS,Hays Ward 1 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000090
+ELLIS,Hays Ward 1 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",35,000090
+ELLIS,Hays Ward 1 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",63,00010A
+ELLIS,Hays Ward 1 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",104,00010A
+ELLIS,Hays Ward 2 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",128,000110
+ELLIS,Hays Ward 2 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",194,000110
+ELLIS,Hays Ward 2 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",144,000120
+ELLIS,Hays Ward 2 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",151,000120
+ELLIS,Hays Ward 2 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",107,000130
+ELLIS,Hays Ward 2 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",122,000130
+ELLIS,Hays Ward 2 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",110,000140
+ELLIS,Hays Ward 2 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",144,000140
+ELLIS,Hays Ward 2 Precinct 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",71,000150
+ELLIS,Hays Ward 2 Precinct 5,Commissioner of Insurance,,Republican,"Selzer, Ken",107,000150
+ELLIS,Hays Ward 3 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",103,00016A
+ELLIS,Hays Ward 3 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",187,00016A
+ELLIS,Hays Ward 3 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",155,000170
+ELLIS,Hays Ward 3 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",320,000170
+ELLIS,Hays Ward 3 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",175,000180
+ELLIS,Hays Ward 3 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",372,000180
+ELLIS,Hays Ward 3 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",265,00019A
+ELLIS,Hays Ward 3 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",664,00019A
+ELLIS,Hays Ward 4 Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",126,000200
+ELLIS,Hays Ward 4 Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",233,000200
+ELLIS,Hays Ward 4 Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",164,00021A
+ELLIS,Hays Ward 4 Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",238,00021A
+ELLIS,Hays Ward 4 Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",132,000220
+ELLIS,Hays Ward 4 Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",248,000220
+ELLIS,Hays Ward 4 Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",246,000230
+ELLIS,Hays Ward 4 Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",442,000230
+ELLIS,Hays Ward 4 Precinct 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",161,000240
+ELLIS,Hays Ward 4 Precinct 5,Commissioner of Insurance,,Republican,"Selzer, Ken",326,000240
+ELLIS,South Lookout Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,000280
+ELLIS,South Lookout Township,Commissioner of Insurance,,Republican,"Selzer, Ken",73,000280
+ELLIS,Victoria Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",104,000290
+ELLIS,Victoria Township,Commissioner of Insurance,,Republican,"Selzer, Ken",224,000290
+ELLIS,Wheatland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000310
+ELLIS,Wheatland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",109,000310
+ELLIS,Herzog Township H110,Commissioner of Insurance,,Democratic,"Anderson, Dennis",36,120020
+ELLIS,Herzog Township H110,Commissioner of Insurance,,Republican,"Selzer, Ken",65,120020
+ELLIS,Herzog Township H111,Commissioner of Insurance,,Democratic,"Anderson, Dennis",65,120030
+ELLIS,Herzog Township H111,Commissioner of Insurance,,Republican,"Selzer, Ken",117,120030
+ELLIS,North Big Creek Township H110,Commissioner of Insurance,,Democratic,"Anderson, Dennis",26,120040
+ELLIS,North Big Creek Township H110,Commissioner of Insurance,,Republican,"Selzer, Ken",53,120040
+ELLIS,North Big Creek Township H111,Commissioner of Insurance,,Democratic,"Anderson, Dennis",53,120050
+ELLIS,North Big Creek Township H111,Commissioner of Insurance,,Republican,"Selzer, Ken",155,120050
+ELLIS,North Lookout Township H110,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,120060
+ELLIS,North Lookout Township H110,Commissioner of Insurance,,Republican,"Selzer, Ken",42,120060
+ELLIS,North Lookout Township H111,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,120070
+ELLIS,North Lookout Township H111,Commissioner of Insurance,,Republican,"Selzer, Ken",40,120070
+ELLIS,West Big Creek Township H110,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,120080
+ELLIS,West Big Creek Township H110,Commissioner of Insurance,,Republican,"Selzer, Ken",22,120080
+ELLIS,West Big Creek Township H111,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,120090
+ELLIS,West Big Creek Township H111,Commissioner of Insurance,,Republican,"Selzer, Ken",26,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900040
+ELLIS,North Big Creek Township Enclave 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900050
+ELLIS,North Big Creek Township Enclave 1,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900050
+ELLIS,North Big Creek Township Enclave 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900060
+ELLIS,North Big Creek Township Enclave 2,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900060
+ELLIS,North Big Creek Township Enclave 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900070
+ELLIS,North Big Creek Township Enclave 3,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900070
+ELLIS,North Big Creek Township Enclave 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,900080
+ELLIS,North Big Creek Township Enclave 4,Commissioner of Insurance,,Republican,"Selzer, Ken",0,900080
+ELLIS,Buckeye Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",35,000010
+ELLIS,Buckeye Township,Secretary of State,,Republican,"Kobach, Kris",135,000010
+ELLIS,Catherine Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",34,000020
+ELLIS,Catherine Township,Secretary of State,,Republican,"Kobach, Kris",98,000020
+ELLIS,East Big Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",75,000030
+ELLIS,East Big Creek Township,Secretary of State,,Republican,"Kobach, Kris",231,000030
+ELLIS,Ellis Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",59,000040
+ELLIS,Ellis Township,Secretary of State,,Republican,"Kobach, Kris",141,000040
+ELLIS,Ellis Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",73,000050
+ELLIS,Ellis Ward 1,Secretary of State,,Republican,"Kobach, Kris",175,000050
+ELLIS,Ellis Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",128,000060
+ELLIS,Ellis Ward 2,Secretary of State,,Republican,"Kobach, Kris",240,000060
+ELLIS,Ellis Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",56,000070
+ELLIS,Ellis Ward 3,Secretary of State,,Republican,"Kobach, Kris",136,000070
+ELLIS,Freedom Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,000080
+ELLIS,Freedom Township,Secretary of State,,Republican,"Kobach, Kris",30,000080
+ELLIS,Hays Ward 1 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,000090
+ELLIS,Hays Ward 1 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",30,000090
+ELLIS,Hays Ward 1 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",66,00010A
+ELLIS,Hays Ward 1 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",104,00010A
+ELLIS,Hays Ward 2 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",128,000110
+ELLIS,Hays Ward 2 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",207,000110
+ELLIS,Hays Ward 2 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",146,000120
+ELLIS,Hays Ward 2 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",157,000120
+ELLIS,Hays Ward 2 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",94,000130
+ELLIS,Hays Ward 2 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",142,000130
+ELLIS,Hays Ward 2 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",122,000140
+ELLIS,Hays Ward 2 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",139,000140
+ELLIS,Hays Ward 2 Precinct 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",80,000150
+ELLIS,Hays Ward 2 Precinct 5,Secretary of State,,Republican,"Kobach, Kris",106,000150
+ELLIS,Hays Ward 3 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",113,00016A
+ELLIS,Hays Ward 3 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",188,00016A
+ELLIS,Hays Ward 3 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",162,000170
+ELLIS,Hays Ward 3 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",332,000170
+ELLIS,Hays Ward 3 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",186,000180
+ELLIS,Hays Ward 3 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",381,000180
+ELLIS,Hays Ward 3 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",299,00019A
+ELLIS,Hays Ward 3 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",664,00019A
+ELLIS,Hays Ward 4 Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",132,000200
+ELLIS,Hays Ward 4 Precinct 1,Secretary of State,,Republican,"Kobach, Kris",238,000200
+ELLIS,Hays Ward 4 Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",150,00021A
+ELLIS,Hays Ward 4 Precinct 2,Secretary of State,,Republican,"Kobach, Kris",263,00021A
+ELLIS,Hays Ward 4 Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",126,000220
+ELLIS,Hays Ward 4 Precinct 3,Secretary of State,,Republican,"Kobach, Kris",255,000220
+ELLIS,Hays Ward 4 Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",257,000230
+ELLIS,Hays Ward 4 Precinct 4,Secretary of State,,Republican,"Kobach, Kris",460,000230
+ELLIS,Hays Ward 4 Precinct 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",169,000240
+ELLIS,Hays Ward 4 Precinct 5,Secretary of State,,Republican,"Kobach, Kris",340,000240
+ELLIS,South Lookout Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,000280
+ELLIS,South Lookout Township,Secretary of State,,Republican,"Kobach, Kris",79,000280
+ELLIS,Victoria Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",107,000290
+ELLIS,Victoria Township,Secretary of State,,Republican,"Kobach, Kris",239,000290
+ELLIS,Wheatland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,000310
+ELLIS,Wheatland Township,Secretary of State,,Republican,"Kobach, Kris",116,000310
+ELLIS,Herzog Township H110,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",30,120020
+ELLIS,Herzog Township H110,Secretary of State,,Republican,"Kobach, Kris",74,120020
+ELLIS,Herzog Township H111,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",66,120030
+ELLIS,Herzog Township H111,Secretary of State,,Republican,"Kobach, Kris",119,120030
+ELLIS,North Big Creek Township H110,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,120040
+ELLIS,North Big Creek Township H110,Secretary of State,,Republican,"Kobach, Kris",55,120040
+ELLIS,North Big Creek Township H111,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",62,120050
+ELLIS,North Big Creek Township H111,Secretary of State,,Republican,"Kobach, Kris",153,120050
+ELLIS,North Lookout Township H110,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,120060
+ELLIS,North Lookout Township H110,Secretary of State,,Republican,"Kobach, Kris",46,120060
+ELLIS,North Lookout Township H111,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,120070
+ELLIS,North Lookout Township H111,Secretary of State,,Republican,"Kobach, Kris",44,120070
+ELLIS,West Big Creek Township H110,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,120080
+ELLIS,West Big Creek Township H110,Secretary of State,,Republican,"Kobach, Kris",23,120080
+ELLIS,West Big Creek Township H111,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,120090
+ELLIS,West Big Creek Township H111,Secretary of State,,Republican,"Kobach, Kris",26,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900040
+ELLIS,North Big Creek Township Enclave 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900050
+ELLIS,North Big Creek Township Enclave 1,Secretary of State,,Republican,"Kobach, Kris",0,900050
+ELLIS,North Big Creek Township Enclave 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900060
+ELLIS,North Big Creek Township Enclave 2,Secretary of State,,Republican,"Kobach, Kris",0,900060
+ELLIS,North Big Creek Township Enclave 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900070
+ELLIS,North Big Creek Township Enclave 3,Secretary of State,,Republican,"Kobach, Kris",0,900070
+ELLIS,North Big Creek Township Enclave 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,900080
+ELLIS,North Big Creek Township Enclave 4,Secretary of State,,Republican,"Kobach, Kris",0,900080
+ELLIS,Buckeye Township,State Treasurer,,Democratic,"Alldritt, Carmen",24,000010
+ELLIS,Buckeye Township,State Treasurer,,Republican,"Estes, Ron",145,000010
+ELLIS,Catherine Township,State Treasurer,,Democratic,"Alldritt, Carmen",22,000020
+ELLIS,Catherine Township,State Treasurer,,Republican,"Estes, Ron",105,000020
+ELLIS,East Big Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",59,000030
+ELLIS,East Big Creek Township,State Treasurer,,Republican,"Estes, Ron",240,000030
+ELLIS,Ellis Township,State Treasurer,,Democratic,"Alldritt, Carmen",39,000040
+ELLIS,Ellis Township,State Treasurer,,Republican,"Estes, Ron",155,000040
+ELLIS,Ellis Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",61,000050
+ELLIS,Ellis Ward 1,State Treasurer,,Republican,"Estes, Ron",181,000050
+ELLIS,Ellis Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",102,000060
+ELLIS,Ellis Ward 2,State Treasurer,,Republican,"Estes, Ron",253,000060
+ELLIS,Ellis Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",49,000070
+ELLIS,Ellis Ward 3,State Treasurer,,Republican,"Estes, Ron",141,000070
+ELLIS,Freedom Township,State Treasurer,,Democratic,"Alldritt, Carmen",8,000080
+ELLIS,Freedom Township,State Treasurer,,Republican,"Estes, Ron",31,000080
+ELLIS,Hays Ward 1 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",29,000090
+ELLIS,Hays Ward 1 Precinct 1,State Treasurer,,Republican,"Estes, Ron",37,000090
+ELLIS,Hays Ward 1 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",56,00010A
+ELLIS,Hays Ward 1 Precinct 2,State Treasurer,,Republican,"Estes, Ron",113,00010A
+ELLIS,Hays Ward 2 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",105,000110
+ELLIS,Hays Ward 2 Precinct 1,State Treasurer,,Republican,"Estes, Ron",223,000110
+ELLIS,Hays Ward 2 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",111,000120
+ELLIS,Hays Ward 2 Precinct 2,State Treasurer,,Republican,"Estes, Ron",194,000120
+ELLIS,Hays Ward 2 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",85,000130
+ELLIS,Hays Ward 2 Precinct 3,State Treasurer,,Republican,"Estes, Ron",147,000130
+ELLIS,Hays Ward 2 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",92,000140
+ELLIS,Hays Ward 2 Precinct 4,State Treasurer,,Republican,"Estes, Ron",165,000140
+ELLIS,Hays Ward 2 Precinct 5,State Treasurer,,Democratic,"Alldritt, Carmen",67,000150
+ELLIS,Hays Ward 2 Precinct 5,State Treasurer,,Republican,"Estes, Ron",113,000150
+ELLIS,Hays Ward 3 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",87,00016A
+ELLIS,Hays Ward 3 Precinct 1,State Treasurer,,Republican,"Estes, Ron",206,00016A
+ELLIS,Hays Ward 3 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",118,000170
+ELLIS,Hays Ward 3 Precinct 2,State Treasurer,,Republican,"Estes, Ron",368,000170
+ELLIS,Hays Ward 3 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",118,000180
+ELLIS,Hays Ward 3 Precinct 3,State Treasurer,,Republican,"Estes, Ron",440,000180
+ELLIS,Hays Ward 3 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",198,00019A
+ELLIS,Hays Ward 3 Precinct 4,State Treasurer,,Republican,"Estes, Ron",746,00019A
+ELLIS,Hays Ward 4 Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",104,000200
+ELLIS,Hays Ward 4 Precinct 1,State Treasurer,,Republican,"Estes, Ron",263,000200
+ELLIS,Hays Ward 4 Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",131,00021A
+ELLIS,Hays Ward 4 Precinct 2,State Treasurer,,Republican,"Estes, Ron",278,00021A
+ELLIS,Hays Ward 4 Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",103,000220
+ELLIS,Hays Ward 4 Precinct 3,State Treasurer,,Republican,"Estes, Ron",278,000220
+ELLIS,Hays Ward 4 Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",196,000230
+ELLIS,Hays Ward 4 Precinct 4,State Treasurer,,Republican,"Estes, Ron",508,000230
+ELLIS,Hays Ward 4 Precinct 5,State Treasurer,,Democratic,"Alldritt, Carmen",130,000240
+ELLIS,Hays Ward 4 Precinct 5,State Treasurer,,Republican,"Estes, Ron",367,000240
+ELLIS,South Lookout Township,State Treasurer,,Democratic,"Alldritt, Carmen",25,000280
+ELLIS,South Lookout Township,State Treasurer,,Republican,"Estes, Ron",83,000280
+ELLIS,Victoria Township,State Treasurer,,Democratic,"Alldritt, Carmen",79,000290
+ELLIS,Victoria Township,State Treasurer,,Republican,"Estes, Ron",255,000290
+ELLIS,Wheatland Township,State Treasurer,,Democratic,"Alldritt, Carmen",28,000310
+ELLIS,Wheatland Township,State Treasurer,,Republican,"Estes, Ron",122,000310
+ELLIS,Herzog Township H110,State Treasurer,,Democratic,"Alldritt, Carmen",28,120020
+ELLIS,Herzog Township H110,State Treasurer,,Republican,"Estes, Ron",74,120020
+ELLIS,Herzog Township H111,State Treasurer,,Democratic,"Alldritt, Carmen",57,120030
+ELLIS,Herzog Township H111,State Treasurer,,Republican,"Estes, Ron",129,120030
+ELLIS,North Big Creek Township H110,State Treasurer,,Democratic,"Alldritt, Carmen",26,120040
+ELLIS,North Big Creek Township H110,State Treasurer,,Republican,"Estes, Ron",53,120040
+ELLIS,North Big Creek Township H111,State Treasurer,,Democratic,"Alldritt, Carmen",41,120050
+ELLIS,North Big Creek Township H111,State Treasurer,,Republican,"Estes, Ron",172,120050
+ELLIS,North Lookout Township H110,State Treasurer,,Democratic,"Alldritt, Carmen",12,120060
+ELLIS,North Lookout Township H110,State Treasurer,,Republican,"Estes, Ron",47,120060
+ELLIS,North Lookout Township H111,State Treasurer,,Democratic,"Alldritt, Carmen",11,120070
+ELLIS,North Lookout Township H111,State Treasurer,,Republican,"Estes, Ron",47,120070
+ELLIS,West Big Creek Township H110,State Treasurer,,Democratic,"Alldritt, Carmen",6,120080
+ELLIS,West Big Creek Township H110,State Treasurer,,Republican,"Estes, Ron",27,120080
+ELLIS,West Big Creek Township H111,State Treasurer,,Democratic,"Alldritt, Carmen",5,120090
+ELLIS,West Big Creek Township H111,State Treasurer,,Republican,"Estes, Ron",33,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,State Treasurer,,Republican,"Estes, Ron",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,State Treasurer,,Republican,"Estes, Ron",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,State Treasurer,,Republican,"Estes, Ron",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,State Treasurer,,Republican,"Estes, Ron",0,900040
+ELLIS,North Big Creek Township Enclave 1,State Treasurer,,Democratic,"Alldritt, Carmen",0,900050
+ELLIS,North Big Creek Township Enclave 1,State Treasurer,,Republican,"Estes, Ron",0,900050
+ELLIS,North Big Creek Township Enclave 2,State Treasurer,,Democratic,"Alldritt, Carmen",0,900060
+ELLIS,North Big Creek Township Enclave 2,State Treasurer,,Republican,"Estes, Ron",0,900060
+ELLIS,North Big Creek Township Enclave 3,State Treasurer,,Democratic,"Alldritt, Carmen",0,900070
+ELLIS,North Big Creek Township Enclave 3,State Treasurer,,Republican,"Estes, Ron",0,900070
+ELLIS,North Big Creek Township Enclave 4,State Treasurer,,Democratic,"Alldritt, Carmen",0,900080
+ELLIS,North Big Creek Township Enclave 4,State Treasurer,,Republican,"Estes, Ron",0,900080
+ELLIS,Buckeye Township,U.S. Senate,,independent,"Orman, Greg",41,000010
+ELLIS,Buckeye Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000010
+ELLIS,Buckeye Township,U.S. Senate,,Republican,"Roberts, Pat",125,000010
+ELLIS,Catherine Township,U.S. Senate,,independent,"Orman, Greg",38,000020
+ELLIS,Catherine Township,U.S. Senate,,Libertarian,"Batson, Randall",8,000020
+ELLIS,Catherine Township,U.S. Senate,,Republican,"Roberts, Pat",89,000020
+ELLIS,East Big Creek Township,U.S. Senate,,independent,"Orman, Greg",88,000030
+ELLIS,East Big Creek Township,U.S. Senate,,Libertarian,"Batson, Randall",10,000030
+ELLIS,East Big Creek Township,U.S. Senate,,Republican,"Roberts, Pat",213,000030
+ELLIS,Ellis Township,U.S. Senate,,independent,"Orman, Greg",55,000040
+ELLIS,Ellis Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000040
+ELLIS,Ellis Township,U.S. Senate,,Republican,"Roberts, Pat",143,000040
+ELLIS,Ellis Ward 1,U.S. Senate,,independent,"Orman, Greg",75,000050
+ELLIS,Ellis Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",10,000050
+ELLIS,Ellis Ward 1,U.S. Senate,,Republican,"Roberts, Pat",166,000050
+ELLIS,Ellis Ward 2,U.S. Senate,,independent,"Orman, Greg",138,000060
+ELLIS,Ellis Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",13,000060
+ELLIS,Ellis Ward 2,U.S. Senate,,Republican,"Roberts, Pat",225,000060
+ELLIS,Ellis Ward 3,U.S. Senate,,independent,"Orman, Greg",69,000070
+ELLIS,Ellis Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",17,000070
+ELLIS,Ellis Ward 3,U.S. Senate,,Republican,"Roberts, Pat",114,000070
+ELLIS,Freedom Township,U.S. Senate,,independent,"Orman, Greg",13,000080
+ELLIS,Freedom Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000080
+ELLIS,Freedom Township,U.S. Senate,,Republican,"Roberts, Pat",29,000080
+ELLIS,Hays Ward 1 Precinct 1,U.S. Senate,,independent,"Orman, Greg",38,000090
+ELLIS,Hays Ward 1 Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",4,000090
+ELLIS,Hays Ward 1 Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",28,000090
+ELLIS,Hays Ward 1 Precinct 2,U.S. Senate,,independent,"Orman, Greg",64,00010A
+ELLIS,Hays Ward 1 Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",13,00010A
+ELLIS,Hays Ward 1 Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",97,00010A
+ELLIS,Hays Ward 2 Precinct 1,U.S. Senate,,independent,"Orman, Greg",132,000110
+ELLIS,Hays Ward 2 Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",22,000110
+ELLIS,Hays Ward 2 Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",189,000110
+ELLIS,Hays Ward 2 Precinct 2,U.S. Senate,,independent,"Orman, Greg",157,000120
+ELLIS,Hays Ward 2 Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",11,000120
+ELLIS,Hays Ward 2 Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",142,000120
+ELLIS,Hays Ward 2 Precinct 3,U.S. Senate,,independent,"Orman, Greg",102,000130
+ELLIS,Hays Ward 2 Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",13,000130
+ELLIS,Hays Ward 2 Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",123,000130
+ELLIS,Hays Ward 2 Precinct 4,U.S. Senate,,independent,"Orman, Greg",125,000140
+ELLIS,Hays Ward 2 Precinct 4,U.S. Senate,,Libertarian,"Batson, Randall",14,000140
+ELLIS,Hays Ward 2 Precinct 4,U.S. Senate,,Republican,"Roberts, Pat",124,000140
+ELLIS,Hays Ward 2 Precinct 5,U.S. Senate,,independent,"Orman, Greg",75,000150
+ELLIS,Hays Ward 2 Precinct 5,U.S. Senate,,Libertarian,"Batson, Randall",17,000150
+ELLIS,Hays Ward 2 Precinct 5,U.S. Senate,,Republican,"Roberts, Pat",95,000150
+ELLIS,Hays Ward 3 Precinct 1,U.S. Senate,,independent,"Orman, Greg",125,00016A
+ELLIS,Hays Ward 3 Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",11,00016A
+ELLIS,Hays Ward 3 Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",170,00016A
+ELLIS,Hays Ward 3 Precinct 2,U.S. Senate,,independent,"Orman, Greg",173,000170
+ELLIS,Hays Ward 3 Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",22,000170
+ELLIS,Hays Ward 3 Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",308,000170
+ELLIS,Hays Ward 3 Precinct 3,U.S. Senate,,independent,"Orman, Greg",196,000180
+ELLIS,Hays Ward 3 Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",16,000180
+ELLIS,Hays Ward 3 Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",361,000180
+ELLIS,Hays Ward 3 Precinct 4,U.S. Senate,,independent,"Orman, Greg",332,00019A
+ELLIS,Hays Ward 3 Precinct 4,U.S. Senate,,Libertarian,"Batson, Randall",25,00019A
+ELLIS,Hays Ward 3 Precinct 4,U.S. Senate,,Republican,"Roberts, Pat",625,00019A
+ELLIS,Hays Ward 4 Precinct 1,U.S. Senate,,independent,"Orman, Greg",146,000200
+ELLIS,Hays Ward 4 Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",19,000200
+ELLIS,Hays Ward 4 Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",214,000200
+ELLIS,Hays Ward 4 Precinct 2,U.S. Senate,,independent,"Orman, Greg",162,00021A
+ELLIS,Hays Ward 4 Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",22,00021A
+ELLIS,Hays Ward 4 Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",241,00021A
+ELLIS,Hays Ward 4 Precinct 3,U.S. Senate,,independent,"Orman, Greg",143,000220
+ELLIS,Hays Ward 4 Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",17,000220
+ELLIS,Hays Ward 4 Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",234,000220
+ELLIS,Hays Ward 4 Precinct 4,U.S. Senate,,independent,"Orman, Greg",282,000230
+ELLIS,Hays Ward 4 Precinct 4,U.S. Senate,,Libertarian,"Batson, Randall",32,000230
+ELLIS,Hays Ward 4 Precinct 4,U.S. Senate,,Republican,"Roberts, Pat",418,000230
+ELLIS,Hays Ward 4 Precinct 5,U.S. Senate,,independent,"Orman, Greg",190,000240
+ELLIS,Hays Ward 4 Precinct 5,U.S. Senate,,Libertarian,"Batson, Randall",21,000240
+ELLIS,Hays Ward 4 Precinct 5,U.S. Senate,,Republican,"Roberts, Pat",310,000240
+ELLIS,South Lookout Township,U.S. Senate,,independent,"Orman, Greg",24,000280
+ELLIS,South Lookout Township,U.S. Senate,,Libertarian,"Batson, Randall",7,000280
+ELLIS,South Lookout Township,U.S. Senate,,Republican,"Roberts, Pat",82,000280
+ELLIS,Victoria Township,U.S. Senate,,independent,"Orman, Greg",105,000290
+ELLIS,Victoria Township,U.S. Senate,,Libertarian,"Batson, Randall",22,000290
+ELLIS,Victoria Township,U.S. Senate,,Republican,"Roberts, Pat",229,000290
+ELLIS,Wheatland Township,U.S. Senate,,independent,"Orman, Greg",39,000310
+ELLIS,Wheatland Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000310
+ELLIS,Wheatland Township,U.S. Senate,,Republican,"Roberts, Pat",113,000310
+ELLIS,Herzog Township H110,U.S. Senate,,independent,"Orman, Greg",26,120020
+ELLIS,Herzog Township H110,U.S. Senate,,Libertarian,"Batson, Randall",7,120020
+ELLIS,Herzog Township H110,U.S. Senate,,Republican,"Roberts, Pat",71,120020
+ELLIS,Herzog Township H111,U.S. Senate,,independent,"Orman, Greg",70,120030
+ELLIS,Herzog Township H111,U.S. Senate,,Libertarian,"Batson, Randall",9,120030
+ELLIS,Herzog Township H111,U.S. Senate,,Republican,"Roberts, Pat",116,120030
+ELLIS,North Big Creek Township H110,U.S. Senate,,independent,"Orman, Greg",30,120040
+ELLIS,North Big Creek Township H110,U.S. Senate,,Libertarian,"Batson, Randall",2,120040
+ELLIS,North Big Creek Township H110,U.S. Senate,,Republican,"Roberts, Pat",49,120040
+ELLIS,North Big Creek Township H111,U.S. Senate,,independent,"Orman, Greg",69,120050
+ELLIS,North Big Creek Township H111,U.S. Senate,,Libertarian,"Batson, Randall",4,120050
+ELLIS,North Big Creek Township H111,U.S. Senate,,Republican,"Roberts, Pat",150,120050
+ELLIS,North Lookout Township H110,U.S. Senate,,independent,"Orman, Greg",12,120060
+ELLIS,North Lookout Township H110,U.S. Senate,,Libertarian,"Batson, Randall",5,120060
+ELLIS,North Lookout Township H110,U.S. Senate,,Republican,"Roberts, Pat",45,120060
+ELLIS,North Lookout Township H111,U.S. Senate,,independent,"Orman, Greg",21,120070
+ELLIS,North Lookout Township H111,U.S. Senate,,Libertarian,"Batson, Randall",3,120070
+ELLIS,North Lookout Township H111,U.S. Senate,,Republican,"Roberts, Pat",36,120070
+ELLIS,West Big Creek Township H110,U.S. Senate,,independent,"Orman, Greg",8,120080
+ELLIS,West Big Creek Township H110,U.S. Senate,,Libertarian,"Batson, Randall",0,120080
+ELLIS,West Big Creek Township H110,U.S. Senate,,Republican,"Roberts, Pat",25,120080
+ELLIS,West Big Creek Township H111,U.S. Senate,,independent,"Orman, Greg",5,120090
+ELLIS,West Big Creek Township H111,U.S. Senate,,Libertarian,"Batson, Randall",2,120090
+ELLIS,West Big Creek Township H111,U.S. Senate,,Republican,"Roberts, Pat",31,120090
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,U.S. Senate,,independent,"Orman, Greg",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,U.S. Senate,,Libertarian,"Batson, Randall",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 1,U.S. Senate,,Republican,"Roberts, Pat",0,900010
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,U.S. Senate,,independent,"Orman, Greg",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,U.S. Senate,,Libertarian,"Batson, Randall",0,900020
+ELLIS,Hays Ward 1 Precinct 2 Exclave 2,U.S. Senate,,Republican,"Roberts, Pat",0,900020
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,U.S. Senate,,independent,"Orman, Greg",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,U.S. Senate,,Libertarian,"Batson, Randall",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 1,U.S. Senate,,Republican,"Roberts, Pat",0,900030
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,U.S. Senate,,independent,"Orman, Greg",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,U.S. Senate,,Libertarian,"Batson, Randall",0,900040
+ELLIS,Hays Ward 3 Precinct 4 Exclave 2,U.S. Senate,,Republican,"Roberts, Pat",0,900040
+ELLIS,North Big Creek Township Enclave 1,U.S. Senate,,independent,"Orman, Greg",0,900050
+ELLIS,North Big Creek Township Enclave 1,U.S. Senate,,Libertarian,"Batson, Randall",0,900050
+ELLIS,North Big Creek Township Enclave 1,U.S. Senate,,Republican,"Roberts, Pat",0,900050
+ELLIS,North Big Creek Township Enclave 2,U.S. Senate,,independent,"Orman, Greg",0,900060
+ELLIS,North Big Creek Township Enclave 2,U.S. Senate,,Libertarian,"Batson, Randall",0,900060
+ELLIS,North Big Creek Township Enclave 2,U.S. Senate,,Republican,"Roberts, Pat",0,900060
+ELLIS,North Big Creek Township Enclave 3,U.S. Senate,,independent,"Orman, Greg",0,900070
+ELLIS,North Big Creek Township Enclave 3,U.S. Senate,,Libertarian,"Batson, Randall",0,900070
+ELLIS,North Big Creek Township Enclave 3,U.S. Senate,,Republican,"Roberts, Pat",0,900070
+ELLIS,North Big Creek Township Enclave 4,U.S. Senate,,independent,"Orman, Greg",0,900080
+ELLIS,North Big Creek Township Enclave 4,U.S. Senate,,Libertarian,"Batson, Randall",0,900080
+ELLIS,North Big Creek Township Enclave 4,U.S. Senate,,Republican,"Roberts, Pat",0,900080

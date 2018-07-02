@@ -1,0 +1,443 @@
+county,precinct,office,district,party,candidate,votes,vtd
+REPUBLIC,Albion Township,Governor,,Democratic,"Davis, Paul",12,000010
+REPUBLIC,Albion Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000010
+REPUBLIC,Albion Township,Governor,,Republican,"Brownback, Sam",36,000010
+REPUBLIC,Beaver Township,Governor,,Democratic,"Davis, Paul",14,000020
+REPUBLIC,Beaver Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000020
+REPUBLIC,Beaver Township,Governor,,Republican,"Brownback, Sam",21,000020
+REPUBLIC,Belleville Township,Governor,,Democratic,"Davis, Paul",14,000030
+REPUBLIC,Belleville Township,Governor,,Libertarian,"Umbehr, Keen A.",7,000030
+REPUBLIC,Belleville Township,Governor,,Republican,"Brownback, Sam",80,000030
+REPUBLIC,Belleville Ward 1,Governor,,Democratic,"Davis, Paul",88,000040
+REPUBLIC,Belleville Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",16,000040
+REPUBLIC,Belleville Ward 1,Governor,,Republican,"Brownback, Sam",170,000040
+REPUBLIC,Belleville Ward 2,Governor,,Democratic,"Davis, Paul",104,00005A
+REPUBLIC,Belleville Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",14,00005A
+REPUBLIC,Belleville Ward 2,Governor,,Republican,"Brownback, Sam",173,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,Governor,,Democratic,"Davis, Paul",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,Governor,,Libertarian,"Umbehr, Keen A.",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,Governor,,Republican,"Brownback, Sam",0,00005B
+REPUBLIC,Belleville Ward 3,Governor,,Democratic,"Davis, Paul",49,00006A
+REPUBLIC,Belleville Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",16,00006A
+REPUBLIC,Belleville Ward 3,Governor,,Republican,"Brownback, Sam",102,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Governor,,Democratic,"Davis, Paul",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Governor,,Libertarian,"Umbehr, Keen A.",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Governor,,Republican,"Brownback, Sam",0,00006B
+REPUBLIC,Big Bend Township,Governor,,Democratic,"Davis, Paul",19,000070
+REPUBLIC,Big Bend Township,Governor,,Libertarian,"Umbehr, Keen A.",7,000070
+REPUBLIC,Big Bend Township,Governor,,Republican,"Brownback, Sam",40,000070
+REPUBLIC,Courtland Township,Governor,,Democratic,"Davis, Paul",64,000080
+REPUBLIC,Courtland Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000080
+REPUBLIC,Courtland Township,Governor,,Republican,"Brownback, Sam",103,000080
+REPUBLIC,Elk Creek Township,Governor,,Democratic,"Davis, Paul",16,000090
+REPUBLIC,Elk Creek Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000090
+REPUBLIC,Elk Creek Township,Governor,,Republican,"Brownback, Sam",47,000090
+REPUBLIC,Fairview Township,Governor,,Democratic,"Davis, Paul",17,000100
+REPUBLIC,Fairview Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000100
+REPUBLIC,Fairview Township,Governor,,Republican,"Brownback, Sam",52,000100
+REPUBLIC,Farmington Township,Governor,,Democratic,"Davis, Paul",3,000110
+REPUBLIC,Farmington Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000110
+REPUBLIC,Farmington Township,Governor,,Republican,"Brownback, Sam",18,000110
+REPUBLIC,Freedom Township,Governor,,Democratic,"Davis, Paul",22,00012A
+REPUBLIC,Freedom Township,Governor,,Libertarian,"Umbehr, Keen A.",4,00012A
+REPUBLIC,Freedom Township,Governor,,Republican,"Brownback, Sam",53,00012A
+REPUBLIC,Freedom Township Enclave,Governor,,Democratic,"Davis, Paul",0,00012B
+REPUBLIC,Freedom Township Enclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00012B
+REPUBLIC,Freedom Township Enclave,Governor,,Republican,"Brownback, Sam",0,00012B
+REPUBLIC,Grant Township,Governor,,Democratic,"Davis, Paul",10,000130
+REPUBLIC,Grant Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000130
+REPUBLIC,Grant Township,Governor,,Republican,"Brownback, Sam",16,000130
+REPUBLIC,Jefferson Township,Governor,,Democratic,"Davis, Paul",17,000140
+REPUBLIC,Jefferson Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000140
+REPUBLIC,Jefferson Township,Governor,,Republican,"Brownback, Sam",27,000140
+REPUBLIC,Liberty Township,Governor,,Democratic,"Davis, Paul",4,000150
+REPUBLIC,Liberty Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000150
+REPUBLIC,Liberty Township,Governor,,Republican,"Brownback, Sam",9,000150
+REPUBLIC,Lincoln Township,Governor,,Democratic,"Davis, Paul",5,000160
+REPUBLIC,Lincoln Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000160
+REPUBLIC,Lincoln Township,Governor,,Republican,"Brownback, Sam",24,000160
+REPUBLIC,Norway Township,Governor,,Democratic,"Davis, Paul",18,000170
+REPUBLIC,Norway Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000170
+REPUBLIC,Norway Township,Governor,,Republican,"Brownback, Sam",40,000170
+REPUBLIC,Richland Township,Governor,,Democratic,"Davis, Paul",34,000180
+REPUBLIC,Richland Township,Governor,,Libertarian,"Umbehr, Keen A.",9,000180
+REPUBLIC,Richland Township,Governor,,Republican,"Brownback, Sam",65,000180
+REPUBLIC,Rose Creek Township,Governor,,Democratic,"Davis, Paul",14,000190
+REPUBLIC,Rose Creek Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000190
+REPUBLIC,Rose Creek Township,Governor,,Republican,"Brownback, Sam",49,000190
+REPUBLIC,Scandia Township,Governor,,Democratic,"Davis, Paul",70,000200
+REPUBLIC,Scandia Township,Governor,,Libertarian,"Umbehr, Keen A.",8,000200
+REPUBLIC,Scandia Township,Governor,,Republican,"Brownback, Sam",90,000200
+REPUBLIC,Union Township,Governor,,Democratic,"Davis, Paul",8,000210
+REPUBLIC,Union Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000210
+REPUBLIC,Union Township,Governor,,Republican,"Brownback, Sam",10,000210
+REPUBLIC,Washington Township,Governor,,Democratic,"Davis, Paul",4,000220
+REPUBLIC,Washington Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000220
+REPUBLIC,Washington Township,Governor,,Republican,"Brownback, Sam",32,000220
+REPUBLIC,White Rock Township,Governor,,Democratic,"Davis, Paul",9,000230
+REPUBLIC,White Rock Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000230
+REPUBLIC,White Rock Township,Governor,,Republican,"Brownback, Sam",33,000230
+REPUBLIC,Albion Township,State House,106,Republican,"Schwartz, Sharon J.",45,000010
+REPUBLIC,Beaver Township,State House,106,Republican,"Schwartz, Sharon J.",33,000020
+REPUBLIC,Belleville Township,State House,106,Republican,"Schwartz, Sharon J.",93,000030
+REPUBLIC,Belleville Ward 1,State House,106,Republican,"Schwartz, Sharon J.",246,000040
+REPUBLIC,Belleville Ward 2,State House,106,Republican,"Schwartz, Sharon J.",262,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,State House,106,Republican,"Schwartz, Sharon J.",0,00005B
+REPUBLIC,Belleville Ward 3,State House,106,Republican,"Schwartz, Sharon J.",144,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,State House,106,Republican,"Schwartz, Sharon J.",0,00006B
+REPUBLIC,Big Bend Township,State House,106,Republican,"Schwartz, Sharon J.",60,000070
+REPUBLIC,Courtland Township,State House,106,Republican,"Schwartz, Sharon J.",158,000080
+REPUBLIC,Elk Creek Township,State House,106,Republican,"Schwartz, Sharon J.",62,000090
+REPUBLIC,Fairview Township,State House,106,Republican,"Schwartz, Sharon J.",57,000100
+REPUBLIC,Farmington Township,State House,106,Republican,"Schwartz, Sharon J.",22,000110
+REPUBLIC,Freedom Township,State House,106,Republican,"Schwartz, Sharon J.",69,00012A
+REPUBLIC,Freedom Township Enclave,State House,106,Republican,"Schwartz, Sharon J.",0,00012B
+REPUBLIC,Grant Township,State House,106,Republican,"Schwartz, Sharon J.",24,000130
+REPUBLIC,Jefferson Township,State House,106,Republican,"Schwartz, Sharon J.",40,000140
+REPUBLIC,Liberty Township,State House,106,Republican,"Schwartz, Sharon J.",13,000150
+REPUBLIC,Lincoln Township,State House,106,Republican,"Schwartz, Sharon J.",28,000160
+REPUBLIC,Norway Township,State House,106,Republican,"Schwartz, Sharon J.",55,000170
+REPUBLIC,Richland Township,State House,106,Republican,"Schwartz, Sharon J.",92,000180
+REPUBLIC,Rose Creek Township,State House,106,Republican,"Schwartz, Sharon J.",53,000190
+REPUBLIC,Scandia Township,State House,106,Republican,"Schwartz, Sharon J.",152,000200
+REPUBLIC,Union Township,State House,106,Republican,"Schwartz, Sharon J.",13,000210
+REPUBLIC,Washington Township,State House,106,Republican,"Schwartz, Sharon J.",32,000220
+REPUBLIC,White Rock Township,State House,106,Republican,"Schwartz, Sharon J.",34,000230
+REPUBLIC,Albion Township,U.S. House,1,Democratic,"Sherow, James E.",9,000010
+REPUBLIC,Albion Township,U.S. House,1,Republican,"Huelskamp, Tim",41,000010
+REPUBLIC,Beaver Township,U.S. House,1,Democratic,"Sherow, James E.",14,000020
+REPUBLIC,Beaver Township,U.S. House,1,Republican,"Huelskamp, Tim",22,000020
+REPUBLIC,Belleville Township,U.S. House,1,Democratic,"Sherow, James E.",16,000030
+REPUBLIC,Belleville Township,U.S. House,1,Republican,"Huelskamp, Tim",84,000030
+REPUBLIC,Belleville Ward 1,U.S. House,1,Democratic,"Sherow, James E.",77,000040
+REPUBLIC,Belleville Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",193,000040
+REPUBLIC,Belleville Ward 2,U.S. House,1,Democratic,"Sherow, James E.",90,00005A
+REPUBLIC,Belleville Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",196,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,U.S. House,1,Democratic,"Sherow, James E.",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,U.S. House,1,Republican,"Huelskamp, Tim",0,00005B
+REPUBLIC,Belleville Ward 3,U.S. House,1,Democratic,"Sherow, James E.",43,00006A
+REPUBLIC,Belleville Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",122,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,U.S. House,1,Democratic,"Sherow, James E.",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,U.S. House,1,Republican,"Huelskamp, Tim",0,00006B
+REPUBLIC,Big Bend Township,U.S. House,1,Democratic,"Sherow, James E.",15,000070
+REPUBLIC,Big Bend Township,U.S. House,1,Republican,"Huelskamp, Tim",49,000070
+REPUBLIC,Courtland Township,U.S. House,1,Democratic,"Sherow, James E.",62,000080
+REPUBLIC,Courtland Township,U.S. House,1,Republican,"Huelskamp, Tim",104,000080
+REPUBLIC,Elk Creek Township,U.S. House,1,Democratic,"Sherow, James E.",15,000090
+REPUBLIC,Elk Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",49,000090
+REPUBLIC,Fairview Township,U.S. House,1,Democratic,"Sherow, James E.",19,000100
+REPUBLIC,Fairview Township,U.S. House,1,Republican,"Huelskamp, Tim",52,000100
+REPUBLIC,Farmington Township,U.S. House,1,Democratic,"Sherow, James E.",5,000110
+REPUBLIC,Farmington Township,U.S. House,1,Republican,"Huelskamp, Tim",18,000110
+REPUBLIC,Freedom Township,U.S. House,1,Democratic,"Sherow, James E.",13,00012A
+REPUBLIC,Freedom Township,U.S. House,1,Republican,"Huelskamp, Tim",63,00012A
+REPUBLIC,Freedom Township Enclave,U.S. House,1,Democratic,"Sherow, James E.",0,00012B
+REPUBLIC,Freedom Township Enclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00012B
+REPUBLIC,Grant Township,U.S. House,1,Democratic,"Sherow, James E.",7,000130
+REPUBLIC,Grant Township,U.S. House,1,Republican,"Huelskamp, Tim",19,000130
+REPUBLIC,Jefferson Township,U.S. House,1,Democratic,"Sherow, James E.",12,000140
+REPUBLIC,Jefferson Township,U.S. House,1,Republican,"Huelskamp, Tim",33,000140
+REPUBLIC,Liberty Township,U.S. House,1,Democratic,"Sherow, James E.",5,000150
+REPUBLIC,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",10,000150
+REPUBLIC,Lincoln Township,U.S. House,1,Democratic,"Sherow, James E.",7,000160
+REPUBLIC,Lincoln Township,U.S. House,1,Republican,"Huelskamp, Tim",24,000160
+REPUBLIC,Norway Township,U.S. House,1,Democratic,"Sherow, James E.",14,000170
+REPUBLIC,Norway Township,U.S. House,1,Republican,"Huelskamp, Tim",45,000170
+REPUBLIC,Richland Township,U.S. House,1,Democratic,"Sherow, James E.",34,000180
+REPUBLIC,Richland Township,U.S. House,1,Republican,"Huelskamp, Tim",67,000180
+REPUBLIC,Rose Creek Township,U.S. House,1,Democratic,"Sherow, James E.",18,000190
+REPUBLIC,Rose Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",45,000190
+REPUBLIC,Scandia Township,U.S. House,1,Democratic,"Sherow, James E.",56,000200
+REPUBLIC,Scandia Township,U.S. House,1,Republican,"Huelskamp, Tim",108,000200
+REPUBLIC,Union Township,U.S. House,1,Democratic,"Sherow, James E.",6,000210
+REPUBLIC,Union Township,U.S. House,1,Republican,"Huelskamp, Tim",11,000210
+REPUBLIC,Washington Township,U.S. House,1,Democratic,"Sherow, James E.",5,000220
+REPUBLIC,Washington Township,U.S. House,1,Republican,"Huelskamp, Tim",29,000220
+REPUBLIC,White Rock Township,U.S. House,1,Democratic,"Sherow, James E.",11,000230
+REPUBLIC,White Rock Township,U.S. House,1,Republican,"Huelskamp, Tim",33,000230
+REPUBLIC,Albion Township,Attorney General,,Democratic,"Kotich, A.J.",9,000010
+REPUBLIC,Albion Township,Attorney General,,Republican,"Schmidt, Derek",39,000010
+REPUBLIC,Beaver Township,Attorney General,,Democratic,"Kotich, A.J.",10,000020
+REPUBLIC,Beaver Township,Attorney General,,Republican,"Schmidt, Derek",26,000020
+REPUBLIC,Belleville Township,Attorney General,,Democratic,"Kotich, A.J.",11,000030
+REPUBLIC,Belleville Township,Attorney General,,Republican,"Schmidt, Derek",88,000030
+REPUBLIC,Belleville Ward 1,Attorney General,,Democratic,"Kotich, A.J.",46,000040
+REPUBLIC,Belleville Ward 1,Attorney General,,Republican,"Schmidt, Derek",214,000040
+REPUBLIC,Belleville Ward 2,Attorney General,,Democratic,"Kotich, A.J.",47,00005A
+REPUBLIC,Belleville Ward 2,Attorney General,,Republican,"Schmidt, Derek",236,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,Attorney General,,Democratic,"Kotich, A.J.",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+REPUBLIC,Belleville Ward 3,Attorney General,,Democratic,"Kotich, A.J.",29,00006A
+REPUBLIC,Belleville Ward 3,Attorney General,,Republican,"Schmidt, Derek",133,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Attorney General,,Democratic,"Kotich, A.J.",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Attorney General,,Republican,"Schmidt, Derek",0,00006B
+REPUBLIC,Big Bend Township,Attorney General,,Democratic,"Kotich, A.J.",12,000070
+REPUBLIC,Big Bend Township,Attorney General,,Republican,"Schmidt, Derek",52,000070
+REPUBLIC,Courtland Township,Attorney General,,Democratic,"Kotich, A.J.",32,000080
+REPUBLIC,Courtland Township,Attorney General,,Republican,"Schmidt, Derek",132,000080
+REPUBLIC,Elk Creek Township,Attorney General,,Democratic,"Kotich, A.J.",12,000090
+REPUBLIC,Elk Creek Township,Attorney General,,Republican,"Schmidt, Derek",51,000090
+REPUBLIC,Fairview Township,Attorney General,,Democratic,"Kotich, A.J.",14,000100
+REPUBLIC,Fairview Township,Attorney General,,Republican,"Schmidt, Derek",54,000100
+REPUBLIC,Farmington Township,Attorney General,,Democratic,"Kotich, A.J.",2,000110
+REPUBLIC,Farmington Township,Attorney General,,Republican,"Schmidt, Derek",20,000110
+REPUBLIC,Freedom Township,Attorney General,,Democratic,"Kotich, A.J.",7,00012A
+REPUBLIC,Freedom Township,Attorney General,,Republican,"Schmidt, Derek",68,00012A
+REPUBLIC,Freedom Township Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00012B
+REPUBLIC,Freedom Township Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00012B
+REPUBLIC,Grant Township,Attorney General,,Democratic,"Kotich, A.J.",7,000130
+REPUBLIC,Grant Township,Attorney General,,Republican,"Schmidt, Derek",18,000130
+REPUBLIC,Jefferson Township,Attorney General,,Democratic,"Kotich, A.J.",6,000140
+REPUBLIC,Jefferson Township,Attorney General,,Republican,"Schmidt, Derek",37,000140
+REPUBLIC,Liberty Township,Attorney General,,Democratic,"Kotich, A.J.",4,000150
+REPUBLIC,Liberty Township,Attorney General,,Republican,"Schmidt, Derek",11,000150
+REPUBLIC,Lincoln Township,Attorney General,,Democratic,"Kotich, A.J.",5,000160
+REPUBLIC,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",26,000160
+REPUBLIC,Norway Township,Attorney General,,Democratic,"Kotich, A.J.",7,000170
+REPUBLIC,Norway Township,Attorney General,,Republican,"Schmidt, Derek",50,000170
+REPUBLIC,Richland Township,Attorney General,,Democratic,"Kotich, A.J.",24,000180
+REPUBLIC,Richland Township,Attorney General,,Republican,"Schmidt, Derek",73,000180
+REPUBLIC,Rose Creek Township,Attorney General,,Democratic,"Kotich, A.J.",11,000190
+REPUBLIC,Rose Creek Township,Attorney General,,Republican,"Schmidt, Derek",49,000190
+REPUBLIC,Scandia Township,Attorney General,,Democratic,"Kotich, A.J.",31,000200
+REPUBLIC,Scandia Township,Attorney General,,Republican,"Schmidt, Derek",131,000200
+REPUBLIC,Union Township,Attorney General,,Democratic,"Kotich, A.J.",3,000210
+REPUBLIC,Union Township,Attorney General,,Republican,"Schmidt, Derek",15,000210
+REPUBLIC,Washington Township,Attorney General,,Democratic,"Kotich, A.J.",4,000220
+REPUBLIC,Washington Township,Attorney General,,Republican,"Schmidt, Derek",29,000220
+REPUBLIC,White Rock Township,Attorney General,,Democratic,"Kotich, A.J.",9,000230
+REPUBLIC,White Rock Township,Attorney General,,Republican,"Schmidt, Derek",32,000230
+REPUBLIC,Albion Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,000010
+REPUBLIC,Albion Township,Commissioner of Insurance,,Republican,"Selzer, Ken",40,000010
+REPUBLIC,Beaver Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,000020
+REPUBLIC,Beaver Township,Commissioner of Insurance,,Republican,"Selzer, Ken",26,000020
+REPUBLIC,Belleville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,000030
+REPUBLIC,Belleville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",89,000030
+REPUBLIC,Belleville Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",54,000040
+REPUBLIC,Belleville Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",206,000040
+REPUBLIC,Belleville Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",75,00005A
+REPUBLIC,Belleville Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",208,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00005B
+REPUBLIC,Belleville Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,00006A
+REPUBLIC,Belleville Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",122,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006B
+REPUBLIC,Big Bend Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000070
+REPUBLIC,Big Bend Township,Commissioner of Insurance,,Republican,"Selzer, Ken",51,000070
+REPUBLIC,Courtland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",45,000080
+REPUBLIC,Courtland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",122,000080
+REPUBLIC,Elk Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,000090
+REPUBLIC,Elk Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",53,000090
+REPUBLIC,Fairview Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",16,000100
+REPUBLIC,Fairview Township,Commissioner of Insurance,,Republican,"Selzer, Ken",50,000100
+REPUBLIC,Farmington Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000110
+REPUBLIC,Farmington Township,Commissioner of Insurance,,Republican,"Selzer, Ken",19,000110
+REPUBLIC,Freedom Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,00012A
+REPUBLIC,Freedom Township,Commissioner of Insurance,,Republican,"Selzer, Ken",66,00012A
+REPUBLIC,Freedom Township Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00012B
+REPUBLIC,Freedom Township Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00012B
+REPUBLIC,Grant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000130
+REPUBLIC,Grant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",18,000130
+REPUBLIC,Jefferson Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,000140
+REPUBLIC,Jefferson Township,Commissioner of Insurance,,Republican,"Selzer, Ken",31,000140
+REPUBLIC,Liberty Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000150
+REPUBLIC,Liberty Township,Commissioner of Insurance,,Republican,"Selzer, Ken",12,000150
+REPUBLIC,Lincoln Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000160
+REPUBLIC,Lincoln Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000160
+REPUBLIC,Norway Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",9,000170
+REPUBLIC,Norway Township,Commissioner of Insurance,,Republican,"Selzer, Ken",49,000170
+REPUBLIC,Richland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",30,000180
+REPUBLIC,Richland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",69,000180
+REPUBLIC,Rose Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000190
+REPUBLIC,Rose Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",44,000190
+REPUBLIC,Scandia Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",39,000200
+REPUBLIC,Scandia Township,Commissioner of Insurance,,Republican,"Selzer, Ken",123,000200
+REPUBLIC,Union Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000210
+REPUBLIC,Union Township,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000210
+REPUBLIC,Washington Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000220
+REPUBLIC,Washington Township,Commissioner of Insurance,,Republican,"Selzer, Ken",29,000220
+REPUBLIC,White Rock Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000230
+REPUBLIC,White Rock Township,Commissioner of Insurance,,Republican,"Selzer, Ken",36,000230
+REPUBLIC,Albion Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,000010
+REPUBLIC,Albion Township,Secretary of State,,Republican,"Kobach, Kris",39,000010
+REPUBLIC,Beaver Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",13,000020
+REPUBLIC,Beaver Township,Secretary of State,,Republican,"Kobach, Kris",24,000020
+REPUBLIC,Belleville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000030
+REPUBLIC,Belleville Township,Secretary of State,,Republican,"Kobach, Kris",90,000030
+REPUBLIC,Belleville Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",57,000040
+REPUBLIC,Belleville Ward 1,Secretary of State,,Republican,"Kobach, Kris",208,000040
+REPUBLIC,Belleville Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",77,00005A
+REPUBLIC,Belleville Ward 2,Secretary of State,,Republican,"Kobach, Kris",211,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,Secretary of State,,Republican,"Kobach, Kris",0,00005B
+REPUBLIC,Belleville Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,00006A
+REPUBLIC,Belleville Ward 3,Secretary of State,,Republican,"Kobach, Kris",130,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,Secretary of State,,Republican,"Kobach, Kris",0,00006B
+REPUBLIC,Big Bend Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000070
+REPUBLIC,Big Bend Township,Secretary of State,,Republican,"Kobach, Kris",54,000070
+REPUBLIC,Courtland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",46,000080
+REPUBLIC,Courtland Township,Secretary of State,,Republican,"Kobach, Kris",120,000080
+REPUBLIC,Elk Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000090
+REPUBLIC,Elk Creek Township,Secretary of State,,Republican,"Kobach, Kris",53,000090
+REPUBLIC,Fairview Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",17,000100
+REPUBLIC,Fairview Township,Secretary of State,,Republican,"Kobach, Kris",54,000100
+REPUBLIC,Farmington Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000110
+REPUBLIC,Farmington Township,Secretary of State,,Republican,"Kobach, Kris",22,000110
+REPUBLIC,Freedom Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,00012A
+REPUBLIC,Freedom Township,Secretary of State,,Republican,"Kobach, Kris",65,00012A
+REPUBLIC,Freedom Township Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00012B
+REPUBLIC,Freedom Township Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00012B
+REPUBLIC,Grant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",9,000130
+REPUBLIC,Grant Township,Secretary of State,,Republican,"Kobach, Kris",17,000130
+REPUBLIC,Jefferson Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000140
+REPUBLIC,Jefferson Township,Secretary of State,,Republican,"Kobach, Kris",37,000140
+REPUBLIC,Liberty Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000150
+REPUBLIC,Liberty Township,Secretary of State,,Republican,"Kobach, Kris",11,000150
+REPUBLIC,Lincoln Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000160
+REPUBLIC,Lincoln Township,Secretary of State,,Republican,"Kobach, Kris",24,000160
+REPUBLIC,Norway Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,000170
+REPUBLIC,Norway Township,Secretary of State,,Republican,"Kobach, Kris",44,000170
+REPUBLIC,Richland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",22,000180
+REPUBLIC,Richland Township,Secretary of State,,Republican,"Kobach, Kris",83,000180
+REPUBLIC,Rose Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,000190
+REPUBLIC,Rose Creek Township,Secretary of State,,Republican,"Kobach, Kris",50,000190
+REPUBLIC,Scandia Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",44,000200
+REPUBLIC,Scandia Township,Secretary of State,,Republican,"Kobach, Kris",120,000200
+REPUBLIC,Union Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000210
+REPUBLIC,Union Township,Secretary of State,,Republican,"Kobach, Kris",11,000210
+REPUBLIC,Washington Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000220
+REPUBLIC,Washington Township,Secretary of State,,Republican,"Kobach, Kris",30,000220
+REPUBLIC,White Rock Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000230
+REPUBLIC,White Rock Township,Secretary of State,,Republican,"Kobach, Kris",36,000230
+REPUBLIC,Albion Township,State Treasurer,,Democratic,"Alldritt, Carmen",8,000010
+REPUBLIC,Albion Township,State Treasurer,,Republican,"Estes, Ron",40,000010
+REPUBLIC,Beaver Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000020
+REPUBLIC,Beaver Township,State Treasurer,,Republican,"Estes, Ron",26,000020
+REPUBLIC,Belleville Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000030
+REPUBLIC,Belleville Township,State Treasurer,,Republican,"Estes, Ron",90,000030
+REPUBLIC,Belleville Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",46,000040
+REPUBLIC,Belleville Ward 1,State Treasurer,,Republican,"Estes, Ron",222,000040
+REPUBLIC,Belleville Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",54,00005A
+REPUBLIC,Belleville Ward 2,State Treasurer,,Republican,"Estes, Ron",233,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,State Treasurer,,Democratic,"Alldritt, Carmen",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,State Treasurer,,Republican,"Estes, Ron",0,00005B
+REPUBLIC,Belleville Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",29,00006A
+REPUBLIC,Belleville Ward 3,State Treasurer,,Republican,"Estes, Ron",132,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,State Treasurer,,Republican,"Estes, Ron",0,00006B
+REPUBLIC,Big Bend Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000070
+REPUBLIC,Big Bend Township,State Treasurer,,Republican,"Estes, Ron",59,000070
+REPUBLIC,Courtland Township,State Treasurer,,Democratic,"Alldritt, Carmen",30,000080
+REPUBLIC,Courtland Township,State Treasurer,,Republican,"Estes, Ron",139,000080
+REPUBLIC,Elk Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",11,000090
+REPUBLIC,Elk Creek Township,State Treasurer,,Republican,"Estes, Ron",52,000090
+REPUBLIC,Fairview Township,State Treasurer,,Democratic,"Alldritt, Carmen",18,000100
+REPUBLIC,Fairview Township,State Treasurer,,Republican,"Estes, Ron",50,000100
+REPUBLIC,Farmington Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000110
+REPUBLIC,Farmington Township,State Treasurer,,Republican,"Estes, Ron",20,000110
+REPUBLIC,Freedom Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,00012A
+REPUBLIC,Freedom Township,State Treasurer,,Republican,"Estes, Ron",68,00012A
+REPUBLIC,Freedom Township Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00012B
+REPUBLIC,Freedom Township Enclave,State Treasurer,,Republican,"Estes, Ron",0,00012B
+REPUBLIC,Grant Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000130
+REPUBLIC,Grant Township,State Treasurer,,Republican,"Estes, Ron",22,000130
+REPUBLIC,Jefferson Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000140
+REPUBLIC,Jefferson Township,State Treasurer,,Republican,"Estes, Ron",39,000140
+REPUBLIC,Liberty Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000150
+REPUBLIC,Liberty Township,State Treasurer,,Republican,"Estes, Ron",11,000150
+REPUBLIC,Lincoln Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000160
+REPUBLIC,Lincoln Township,State Treasurer,,Republican,"Estes, Ron",24,000160
+REPUBLIC,Norway Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000170
+REPUBLIC,Norway Township,State Treasurer,,Republican,"Estes, Ron",55,000170
+REPUBLIC,Richland Township,State Treasurer,,Democratic,"Alldritt, Carmen",17,000180
+REPUBLIC,Richland Township,State Treasurer,,Republican,"Estes, Ron",83,000180
+REPUBLIC,Rose Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",11,000190
+REPUBLIC,Rose Creek Township,State Treasurer,,Republican,"Estes, Ron",49,000190
+REPUBLIC,Scandia Township,State Treasurer,,Democratic,"Alldritt, Carmen",27,000200
+REPUBLIC,Scandia Township,State Treasurer,,Republican,"Estes, Ron",139,000200
+REPUBLIC,Union Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000210
+REPUBLIC,Union Township,State Treasurer,,Republican,"Estes, Ron",14,000210
+REPUBLIC,Washington Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000220
+REPUBLIC,Washington Township,State Treasurer,,Republican,"Estes, Ron",31,000220
+REPUBLIC,White Rock Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000230
+REPUBLIC,White Rock Township,State Treasurer,,Republican,"Estes, Ron",37,000230
+REPUBLIC,Albion Township,U.S. Senate,,independent,"Orman, Greg",15,000010
+REPUBLIC,Albion Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000010
+REPUBLIC,Albion Township,U.S. Senate,,Republican,"Roberts, Pat",33,000010
+REPUBLIC,Beaver Township,U.S. Senate,,independent,"Orman, Greg",11,000020
+REPUBLIC,Beaver Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000020
+REPUBLIC,Beaver Township,U.S. Senate,,Republican,"Roberts, Pat",21,000020
+REPUBLIC,Belleville Township,U.S. Senate,,independent,"Orman, Greg",12,000030
+REPUBLIC,Belleville Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000030
+REPUBLIC,Belleville Township,U.S. Senate,,Republican,"Roberts, Pat",83,000030
+REPUBLIC,Belleville Ward 1,U.S. Senate,,independent,"Orman, Greg",72,000040
+REPUBLIC,Belleville Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",15,000040
+REPUBLIC,Belleville Ward 1,U.S. Senate,,Republican,"Roberts, Pat",183,000040
+REPUBLIC,Belleville Ward 2,U.S. Senate,,independent,"Orman, Greg",83,00005A
+REPUBLIC,Belleville Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",16,00005A
+REPUBLIC,Belleville Ward 2,U.S. Senate,,Republican,"Roberts, Pat",193,00005A
+REPUBLIC,Belleville Ward 2 Exclave Airport,U.S. Senate,,independent,"Orman, Greg",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,U.S. Senate,,Libertarian,"Batson, Randall",0,00005B
+REPUBLIC,Belleville Ward 2 Exclave Airport,U.S. Senate,,Republican,"Roberts, Pat",0,00005B
+REPUBLIC,Belleville Ward 3,U.S. Senate,,independent,"Orman, Greg",41,00006A
+REPUBLIC,Belleville Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",10,00006A
+REPUBLIC,Belleville Ward 3,U.S. Senate,,Republican,"Roberts, Pat",117,00006A
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,U.S. Senate,,independent,"Orman, Greg",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,U.S. Senate,,Libertarian,"Batson, Randall",0,00006B
+REPUBLIC,Belleville Ward 3 Exclave Cemetery,U.S. Senate,,Republican,"Roberts, Pat",0,00006B
+REPUBLIC,Big Bend Township,U.S. Senate,,independent,"Orman, Greg",11,000070
+REPUBLIC,Big Bend Township,U.S. Senate,,Libertarian,"Batson, Randall",7,000070
+REPUBLIC,Big Bend Township,U.S. Senate,,Republican,"Roberts, Pat",48,000070
+REPUBLIC,Courtland Township,U.S. Senate,,independent,"Orman, Greg",49,000080
+REPUBLIC,Courtland Township,U.S. Senate,,Libertarian,"Batson, Randall",10,000080
+REPUBLIC,Courtland Township,U.S. Senate,,Republican,"Roberts, Pat",110,000080
+REPUBLIC,Elk Creek Township,U.S. Senate,,independent,"Orman, Greg",14,000090
+REPUBLIC,Elk Creek Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000090
+REPUBLIC,Elk Creek Township,U.S. Senate,,Republican,"Roberts, Pat",51,000090
+REPUBLIC,Fairview Township,U.S. Senate,,independent,"Orman, Greg",16,000100
+REPUBLIC,Fairview Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000100
+REPUBLIC,Fairview Township,U.S. Senate,,Republican,"Roberts, Pat",55,000100
+REPUBLIC,Farmington Township,U.S. Senate,,independent,"Orman, Greg",3,000110
+REPUBLIC,Farmington Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000110
+REPUBLIC,Farmington Township,U.S. Senate,,Republican,"Roberts, Pat",21,000110
+REPUBLIC,Freedom Township,U.S. Senate,,independent,"Orman, Greg",13,00012A
+REPUBLIC,Freedom Township,U.S. Senate,,Libertarian,"Batson, Randall",2,00012A
+REPUBLIC,Freedom Township,U.S. Senate,,Republican,"Roberts, Pat",60,00012A
+REPUBLIC,Freedom Township Enclave,U.S. Senate,,independent,"Orman, Greg",0,00012B
+REPUBLIC,Freedom Township Enclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00012B
+REPUBLIC,Freedom Township Enclave,U.S. Senate,,Republican,"Roberts, Pat",0,00012B
+REPUBLIC,Grant Township,U.S. Senate,,independent,"Orman, Greg",6,000130
+REPUBLIC,Grant Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000130
+REPUBLIC,Grant Township,U.S. Senate,,Republican,"Roberts, Pat",18,000130
+REPUBLIC,Jefferson Township,U.S. Senate,,independent,"Orman, Greg",10,000140
+REPUBLIC,Jefferson Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000140
+REPUBLIC,Jefferson Township,U.S. Senate,,Republican,"Roberts, Pat",33,000140
+REPUBLIC,Liberty Township,U.S. Senate,,independent,"Orman, Greg",2,000150
+REPUBLIC,Liberty Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000150
+REPUBLIC,Liberty Township,U.S. Senate,,Republican,"Roberts, Pat",12,000150
+REPUBLIC,Lincoln Township,U.S. Senate,,independent,"Orman, Greg",4,000160
+REPUBLIC,Lincoln Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000160
+REPUBLIC,Lincoln Township,U.S. Senate,,Republican,"Roberts, Pat",27,000160
+REPUBLIC,Norway Township,U.S. Senate,,independent,"Orman, Greg",9,000170
+REPUBLIC,Norway Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000170
+REPUBLIC,Norway Township,U.S. Senate,,Republican,"Roberts, Pat",48,000170
+REPUBLIC,Richland Township,U.S. Senate,,independent,"Orman, Greg",30,000180
+REPUBLIC,Richland Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000180
+REPUBLIC,Richland Township,U.S. Senate,,Republican,"Roberts, Pat",72,000180
+REPUBLIC,Rose Creek Township,U.S. Senate,,independent,"Orman, Greg",13,000190
+REPUBLIC,Rose Creek Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000190
+REPUBLIC,Rose Creek Township,U.S. Senate,,Republican,"Roberts, Pat",51,000190
+REPUBLIC,Scandia Township,U.S. Senate,,independent,"Orman, Greg",52,000200
+REPUBLIC,Scandia Township,U.S. Senate,,Libertarian,"Batson, Randall",7,000200
+REPUBLIC,Scandia Township,U.S. Senate,,Republican,"Roberts, Pat",107,000200
+REPUBLIC,Union Township,U.S. Senate,,independent,"Orman, Greg",6,000210
+REPUBLIC,Union Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000210
+REPUBLIC,Union Township,U.S. Senate,,Republican,"Roberts, Pat",11,000210
+REPUBLIC,Washington Township,U.S. Senate,,independent,"Orman, Greg",4,000220
+REPUBLIC,Washington Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000220
+REPUBLIC,Washington Township,U.S. Senate,,Republican,"Roberts, Pat",31,000220
+REPUBLIC,White Rock Township,U.S. Senate,,independent,"Orman, Greg",7,000230
+REPUBLIC,White Rock Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000230
+REPUBLIC,White Rock Township,U.S. Senate,,Republican,"Roberts, Pat",36,000230

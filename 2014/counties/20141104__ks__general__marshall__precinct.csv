@@ -1,0 +1,632 @@
+county,precinct,office,district,party,candidate,votes,vtd
+MARSHALL,Balderson Township,Governor,,Democratic,"Davis, Paul",9,000010
+MARSHALL,Balderson Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000010
+MARSHALL,Balderson Township,Governor,,Republican,"Brownback, Sam",24,000010
+MARSHALL,Bigelow Township,Governor,,Democratic,"Davis, Paul",7,000020
+MARSHALL,Bigelow Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000020
+MARSHALL,Bigelow Township,Governor,,Republican,"Brownback, Sam",8,000020
+MARSHALL,Blue Rapids City,Governor,,Democratic,"Davis, Paul",124,000030
+MARSHALL,Blue Rapids City,Governor,,Libertarian,"Umbehr, Keen A.",20,000030
+MARSHALL,Blue Rapids City,Governor,,Republican,"Brownback, Sam",162,000030
+MARSHALL,Blue Rapids Township,Governor,,Democratic,"Davis, Paul",9,000040
+MARSHALL,Blue Rapids Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000040
+MARSHALL,Blue Rapids Township,Governor,,Republican,"Brownback, Sam",22,000040
+MARSHALL,Center Township,Governor,,Democratic,"Davis, Paul",13,000050
+MARSHALL,Center Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000050
+MARSHALL,Center Township,Governor,,Republican,"Brownback, Sam",30,000050
+MARSHALL,Clear Fork Township,Governor,,Democratic,"Davis, Paul",9,000060
+MARSHALL,Clear Fork Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000060
+MARSHALL,Clear Fork Township,Governor,,Republican,"Brownback, Sam",6,000060
+MARSHALL,Cleveland Township,Governor,,Democratic,"Davis, Paul",22,000070
+MARSHALL,Cleveland Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000070
+MARSHALL,Cleveland Township,Governor,,Republican,"Brownback, Sam",20,000070
+MARSHALL,Cottage Hill Township,Governor,,Democratic,"Davis, Paul",20,000080
+MARSHALL,Cottage Hill Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000080
+MARSHALL,Cottage Hill Township,Governor,,Republican,"Brownback, Sam",44,000080
+MARSHALL,East Vermillion Township,Governor,,Democratic,"Davis, Paul",81,000090
+MARSHALL,East Vermillion Township,Governor,,Libertarian,"Umbehr, Keen A.",8,000090
+MARSHALL,East Vermillion Township,Governor,,Republican,"Brownback, Sam",104,000090
+MARSHALL,Elm Creek Township,Governor,,Democratic,"Davis, Paul",33,000100
+MARSHALL,Elm Creek Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000100
+MARSHALL,Elm Creek Township,Governor,,Republican,"Brownback, Sam",34,000100
+MARSHALL,Herkimer Township,Governor,,Democratic,"Davis, Paul",16,000130
+MARSHALL,Herkimer Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000130
+MARSHALL,Herkimer Township,Governor,,Republican,"Brownback, Sam",78,000130
+MARSHALL,Lincoln Township,Governor,,Democratic,"Davis, Paul",20,000140
+MARSHALL,Lincoln Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000140
+MARSHALL,Lincoln Township,Governor,,Republican,"Brownback, Sam",40,000140
+MARSHALL,Logan Township,Governor,,Democratic,"Davis, Paul",34,000150
+MARSHALL,Logan Township,Governor,,Libertarian,"Umbehr, Keen A.",7,000150
+MARSHALL,Logan Township,Governor,,Republican,"Brownback, Sam",74,000150
+MARSHALL,Marysville City Ward 1,Governor,,Democratic,"Davis, Paul",173,000160
+MARSHALL,Marysville City Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",15,000160
+MARSHALL,Marysville City Ward 1,Governor,,Republican,"Brownback, Sam",165,000160
+MARSHALL,Marysville City Ward 2,Governor,,Democratic,"Davis, Paul",120,00017A
+MARSHALL,Marysville City Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",12,00017A
+MARSHALL,Marysville City Ward 2,Governor,,Republican,"Brownback, Sam",131,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Governor,,Democratic,"Davis, Paul",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor,,Republican,"Brownback, Sam",0,00017B
+MARSHALL,Marysville City Ward 3,Governor,,Democratic,"Davis, Paul",81,00018A
+MARSHALL,Marysville City Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",9,00018A
+MARSHALL,Marysville City Ward 3,Governor,,Republican,"Brownback, Sam",86,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Governor,,Democratic,"Davis, Paul",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor,,Republican,"Brownback, Sam",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Governor,,Democratic,"Davis, Paul",149,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor,,Libertarian,"Umbehr, Keen A.",16,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor,,Republican,"Brownback, Sam",138,00019A
+MARSHALL,Marysville City Ward 4 Part B,Governor,,Democratic,"Davis, Paul",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor,,Libertarian,"Umbehr, Keen A.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor,,Republican,"Brownback, Sam",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor,,Democratic,"Davis, Paul",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor,,Republican,"Brownback, Sam",0,00019C
+MARSHALL,Marysville Township,Governor,,Democratic,"Davis, Paul",53,000200
+MARSHALL,Marysville Township,Governor,,Libertarian,"Umbehr, Keen A.",6,000200
+MARSHALL,Marysville Township,Governor,,Republican,"Brownback, Sam",69,000200
+MARSHALL,Murray Township,Governor,,Democratic,"Davis, Paul",97,000210
+MARSHALL,Murray Township,Governor,,Libertarian,"Umbehr, Keen A.",12,000210
+MARSHALL,Murray Township,Governor,,Republican,"Brownback, Sam",137,000210
+MARSHALL,Noble Township,Governor,,Democratic,"Davis, Paul",27,000220
+MARSHALL,Noble Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000220
+MARSHALL,Noble Township,Governor,,Republican,"Brownback, Sam",49,000220
+MARSHALL,Oketo Township,Governor,,Democratic,"Davis, Paul",42,000230
+MARSHALL,Oketo Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000230
+MARSHALL,Oketo Township,Governor,,Republican,"Brownback, Sam",46,000230
+MARSHALL,Richland Township,Governor,,Democratic,"Davis, Paul",20,000240
+MARSHALL,Richland Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000240
+MARSHALL,Richland Township,Governor,,Republican,"Brownback, Sam",52,000240
+MARSHALL,Rock Township,Governor,,Democratic,"Davis, Paul",19,000250
+MARSHALL,Rock Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000250
+MARSHALL,Rock Township,Governor,,Republican,"Brownback, Sam",33,000250
+MARSHALL,St. Bridget Township,Governor,,Democratic,"Davis, Paul",26,000260
+MARSHALL,St. Bridget Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000260
+MARSHALL,St. Bridget Township,Governor,,Republican,"Brownback, Sam",31,000260
+MARSHALL,Walnut Township,Governor,,Democratic,"Davis, Paul",19,000270
+MARSHALL,Walnut Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000270
+MARSHALL,Walnut Township,Governor,,Republican,"Brownback, Sam",34,000270
+MARSHALL,Waterville Township,Governor,,Democratic,"Davis, Paul",109,000280
+MARSHALL,Waterville Township,Governor,,Libertarian,"Umbehr, Keen A.",18,000280
+MARSHALL,Waterville Township,Governor,,Republican,"Brownback, Sam",145,000280
+MARSHALL,Wells Township,Governor,,Democratic,"Davis, Paul",25,000290
+MARSHALL,Wells Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000290
+MARSHALL,Wells Township,Governor,,Republican,"Brownback, Sam",24,000290
+MARSHALL,West Vermillion Township,Governor,,Democratic,"Davis, Paul",80,000300
+MARSHALL,West Vermillion Township,Governor,,Libertarian,"Umbehr, Keen A.",11,000300
+MARSHALL,West Vermillion Township,Governor,,Republican,"Brownback, Sam",70,000300
+MARSHALL,Franklin Township C1,Governor,,Democratic,"Davis, Paul",34,120020
+MARSHALL,Franklin Township C1,Governor,,Libertarian,"Umbehr, Keen A.",1,120020
+MARSHALL,Franklin Township C1,Governor,,Republican,"Brownback, Sam",32,120020
+MARSHALL,Franklin Township C2,Governor,,Democratic,"Davis, Paul",25,120030
+MARSHALL,Franklin Township C2,Governor,,Libertarian,"Umbehr, Keen A.",1,120030
+MARSHALL,Franklin Township C2,Governor,,Republican,"Brownback, Sam",28,120030
+MARSHALL,Guittard Township C1,Governor,,Democratic,"Davis, Paul",1,120040
+MARSHALL,Guittard Township C1,Governor,,Libertarian,"Umbehr, Keen A.",0,120040
+MARSHALL,Guittard Township C1,Governor,,Republican,"Brownback, Sam",2,120040
+MARSHALL,Guittard Township C2,Governor,,Democratic,"Davis, Paul",66,120050
+MARSHALL,Guittard Township C2,Governor,,Libertarian,"Umbehr, Keen A.",5,120050
+MARSHALL,Guittard Township C2,Governor,,Republican,"Brownback, Sam",72,120050
+MARSHALL,Balderson Township,State House,106,Republican,"Schwartz, Sharon J.",29,000010
+MARSHALL,Bigelow Township,State House,106,Republican,"Schwartz, Sharon J.",11,000020
+MARSHALL,Blue Rapids City,State House,106,Republican,"Schwartz, Sharon J.",264,000030
+MARSHALL,Blue Rapids Township,State House,106,Republican,"Schwartz, Sharon J.",28,000040
+MARSHALL,Center Township,State House,106,Republican,"Schwartz, Sharon J.",42,000050
+MARSHALL,Clear Fork Township,State House,106,Republican,"Schwartz, Sharon J.",13,000060
+MARSHALL,Cleveland Township,State House,106,Republican,"Schwartz, Sharon J.",29,000070
+MARSHALL,Cottage Hill Township,State House,106,Republican,"Schwartz, Sharon J.",57,000080
+MARSHALL,East Vermillion Township,State House,106,Republican,"Schwartz, Sharon J.",159,000090
+MARSHALL,Elm Creek Township,State House,106,Republican,"Schwartz, Sharon J.",57,000100
+MARSHALL,Herkimer Township,State House,106,Republican,"Schwartz, Sharon J.",86,000130
+MARSHALL,Lincoln Township,State House,106,Republican,"Schwartz, Sharon J.",53,000140
+MARSHALL,Logan Township,State House,106,Republican,"Schwartz, Sharon J.",99,000150
+MARSHALL,Marysville City Ward 1,State House,106,Republican,"Schwartz, Sharon J.",304,000160
+MARSHALL,Marysville City Ward 2,State House,106,Republican,"Schwartz, Sharon J.",209,00017A
+MARSHALL,Marysville City Ward 2 Exclave,State House,106,Republican,"Schwartz, Sharon J.",0,00017B
+MARSHALL,Marysville City Ward 3,State House,106,Republican,"Schwartz, Sharon J.",150,00018A
+MARSHALL,Marysville City Ward 3 Exclave,State House,106,Republican,"Schwartz, Sharon J.",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,State House,106,Republican,"Schwartz, Sharon J.",241,00019A
+MARSHALL,Marysville City Ward 4 Part B,State House,106,Republican,"Schwartz, Sharon J.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,State House,106,Republican,"Schwartz, Sharon J.",0,00019C
+MARSHALL,Marysville Township,State House,106,Republican,"Schwartz, Sharon J.",103,000200
+MARSHALL,Murray Township,State House,106,Republican,"Schwartz, Sharon J.",213,000210
+MARSHALL,Noble Township,State House,106,Republican,"Schwartz, Sharon J.",71,000220
+MARSHALL,Oketo Township,State House,106,Republican,"Schwartz, Sharon J.",76,000230
+MARSHALL,Richland Township,State House,106,Republican,"Schwartz, Sharon J.",69,000240
+MARSHALL,Rock Township,State House,106,Republican,"Schwartz, Sharon J.",51,000250
+MARSHALL,St. Bridget Township,State House,106,Republican,"Schwartz, Sharon J.",46,000260
+MARSHALL,Walnut Township,State House,106,Republican,"Schwartz, Sharon J.",47,000270
+MARSHALL,Waterville Township,State House,106,Republican,"Schwartz, Sharon J.",226,000280
+MARSHALL,Wells Township,State House,106,Republican,"Schwartz, Sharon J.",42,000290
+MARSHALL,West Vermillion Township,State House,106,Republican,"Schwartz, Sharon J.",142,000300
+MARSHALL,Franklin Township C1,State House,106,Republican,"Schwartz, Sharon J.",55,120020
+MARSHALL,Franklin Township C2,State House,106,Republican,"Schwartz, Sharon J.",50,120030
+MARSHALL,Guittard Township C1,State House,106,Republican,"Schwartz, Sharon J.",3,120040
+MARSHALL,Guittard Township C2,State House,106,Republican,"Schwartz, Sharon J.",117,120050
+MARSHALL,Balderson Township,U.S. House,1,Democratic,"Sherow, James E.",6,000010
+MARSHALL,Balderson Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000010
+MARSHALL,Bigelow Township,U.S. House,2,Democratic,"Wakefield, Margie",6,000020
+MARSHALL,Bigelow Township,U.S. House,2,Libertarian,"Clemmons, Christopher",0,000020
+MARSHALL,Bigelow Township,U.S. House,2,Republican,"Jenkins, Lynn",9,000020
+MARSHALL,Blue Rapids City,U.S. House,2,Democratic,"Wakefield, Margie",90,000030
+MARSHALL,Blue Rapids City,U.S. House,2,Libertarian,"Clemmons, Christopher",13,000030
+MARSHALL,Blue Rapids City,U.S. House,2,Republican,"Jenkins, Lynn",202,000030
+MARSHALL,Blue Rapids Township,U.S. House,2,Democratic,"Wakefield, Margie",8,000040
+MARSHALL,Blue Rapids Township,U.S. House,2,Libertarian,"Clemmons, Christopher",0,000040
+MARSHALL,Blue Rapids Township,U.S. House,2,Republican,"Jenkins, Lynn",24,000040
+MARSHALL,Center Township,U.S. House,2,Democratic,"Wakefield, Margie",9,000050
+MARSHALL,Center Township,U.S. House,2,Libertarian,"Clemmons, Christopher",5,000050
+MARSHALL,Center Township,U.S. House,2,Republican,"Jenkins, Lynn",33,000050
+MARSHALL,Clear Fork Township,U.S. House,2,Democratic,"Wakefield, Margie",6,000060
+MARSHALL,Clear Fork Township,U.S. House,2,Libertarian,"Clemmons, Christopher",0,000060
+MARSHALL,Clear Fork Township,U.S. House,2,Republican,"Jenkins, Lynn",10,000060
+MARSHALL,Cleveland Township,U.S. House,2,Democratic,"Wakefield, Margie",16,000070
+MARSHALL,Cleveland Township,U.S. House,2,Libertarian,"Clemmons, Christopher",1,000070
+MARSHALL,Cleveland Township,U.S. House,2,Republican,"Jenkins, Lynn",26,000070
+MARSHALL,Cottage Hill Township,U.S. House,2,Democratic,"Wakefield, Margie",9,000080
+MARSHALL,Cottage Hill Township,U.S. House,2,Libertarian,"Clemmons, Christopher",2,000080
+MARSHALL,Cottage Hill Township,U.S. House,2,Republican,"Jenkins, Lynn",52,000080
+MARSHALL,East Vermillion Township,U.S. House,2,Democratic,"Wakefield, Margie",59,000090
+MARSHALL,East Vermillion Township,U.S. House,2,Libertarian,"Clemmons, Christopher",2,000090
+MARSHALL,East Vermillion Township,U.S. House,2,Republican,"Jenkins, Lynn",135,000090
+MARSHALL,Elm Creek Township,U.S. House,2,Democratic,"Wakefield, Margie",20,000100
+MARSHALL,Elm Creek Township,U.S. House,2,Libertarian,"Clemmons, Christopher",5,000100
+MARSHALL,Elm Creek Township,U.S. House,2,Republican,"Jenkins, Lynn",45,000100
+MARSHALL,Herkimer Township,U.S. House,1,Democratic,"Sherow, James E.",15,000130
+MARSHALL,Herkimer Township,U.S. House,1,Republican,"Huelskamp, Tim",78,000130
+MARSHALL,Lincoln Township,U.S. House,2,Democratic,"Wakefield, Margie",6,000140
+MARSHALL,Lincoln Township,U.S. House,2,Libertarian,"Clemmons, Christopher",2,000140
+MARSHALL,Lincoln Township,U.S. House,2,Republican,"Jenkins, Lynn",55,000140
+MARSHALL,Logan Township,U.S. House,1,Democratic,"Sherow, James E.",36,000150
+MARSHALL,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",78,000150
+MARSHALL,Marysville City Ward 1,U.S. House,1,Democratic,"Sherow, James E.",134,000160
+MARSHALL,Marysville City Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",219,000160
+MARSHALL,Marysville City Ward 2,U.S. House,1,Democratic,"Sherow, James E.",98,00017A
+MARSHALL,Marysville City Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",160,00017A
+MARSHALL,Marysville City Ward 2 Exclave,U.S. House,1,Democratic,"Sherow, James E.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00017B
+MARSHALL,Marysville City Ward 3,U.S. House,1,Democratic,"Sherow, James E.",74,00018A
+MARSHALL,Marysville City Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",103,00018A
+MARSHALL,Marysville City Ward 3 Exclave,U.S. House,1,Democratic,"Sherow, James E.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,U.S. House,1,Democratic,"Sherow, James E.",108,00019A
+MARSHALL,Marysville City Ward 4 Part A,U.S. House,1,Republican,"Huelskamp, Tim",191,00019A
+MARSHALL,Marysville City Ward 4 Part B,U.S. House,1,Democratic,"Sherow, James E.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,U.S. House,1,Republican,"Huelskamp, Tim",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,U.S. House,1,Democratic,"Sherow, James E.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00019C
+MARSHALL,Marysville Township,U.S. House,1,Democratic,"Sherow, James E.",47,000200
+MARSHALL,Marysville Township,U.S. House,1,Republican,"Huelskamp, Tim",79,000200
+MARSHALL,Murray Township,U.S. House,2,Democratic,"Wakefield, Margie",65,000210
+MARSHALL,Murray Township,U.S. House,2,Libertarian,"Clemmons, Christopher",11,000210
+MARSHALL,Murray Township,U.S. House,2,Republican,"Jenkins, Lynn",165,000210
+MARSHALL,Noble Township,U.S. House,2,Democratic,"Wakefield, Margie",20,000220
+MARSHALL,Noble Township,U.S. House,2,Libertarian,"Clemmons, Christopher",3,000220
+MARSHALL,Noble Township,U.S. House,2,Republican,"Jenkins, Lynn",57,000220
+MARSHALL,Oketo Township,U.S. House,1,Democratic,"Sherow, James E.",36,000230
+MARSHALL,Oketo Township,U.S. House,1,Republican,"Huelskamp, Tim",52,000230
+MARSHALL,Richland Township,U.S. House,1,Democratic,"Sherow, James E.",17,000240
+MARSHALL,Richland Township,U.S. House,1,Republican,"Huelskamp, Tim",54,000240
+MARSHALL,Rock Township,U.S. House,2,Democratic,"Wakefield, Margie",10,000250
+MARSHALL,Rock Township,U.S. House,2,Libertarian,"Clemmons, Christopher",1,000250
+MARSHALL,Rock Township,U.S. House,2,Republican,"Jenkins, Lynn",44,000250
+MARSHALL,St. Bridget Township,U.S. House,1,Democratic,"Sherow, James E.",18,000260
+MARSHALL,St. Bridget Township,U.S. House,1,Republican,"Huelskamp, Tim",39,000260
+MARSHALL,Walnut Township,U.S. House,2,Democratic,"Wakefield, Margie",11,000270
+MARSHALL,Walnut Township,U.S. House,2,Libertarian,"Clemmons, Christopher",0,000270
+MARSHALL,Walnut Township,U.S. House,2,Republican,"Jenkins, Lynn",43,000270
+MARSHALL,Waterville Township,U.S. House,2,Democratic,"Wakefield, Margie",80,000280
+MARSHALL,Waterville Township,U.S. House,2,Libertarian,"Clemmons, Christopher",11,000280
+MARSHALL,Waterville Township,U.S. House,2,Republican,"Jenkins, Lynn",179,000280
+MARSHALL,Wells Township,U.S. House,2,Democratic,"Wakefield, Margie",16,000290
+MARSHALL,Wells Township,U.S. House,2,Libertarian,"Clemmons, Christopher",3,000290
+MARSHALL,Wells Township,U.S. House,2,Republican,"Jenkins, Lynn",32,000290
+MARSHALL,West Vermillion Township,U.S. House,2,Democratic,"Wakefield, Margie",48,000300
+MARSHALL,West Vermillion Township,U.S. House,2,Libertarian,"Clemmons, Christopher",8,000300
+MARSHALL,West Vermillion Township,U.S. House,2,Republican,"Jenkins, Lynn",107,000300
+MARSHALL,Franklin Township C1,U.S. House,1,Democratic,"Sherow, James E.",28,120020
+MARSHALL,Franklin Township C1,U.S. House,1,Republican,"Huelskamp, Tim",37,120020
+MARSHALL,Franklin Township C2,U.S. House,2,Democratic,"Wakefield, Margie",15,120030
+MARSHALL,Franklin Township C2,U.S. House,2,Libertarian,"Clemmons, Christopher",2,120030
+MARSHALL,Franklin Township C2,U.S. House,2,Republican,"Jenkins, Lynn",36,120030
+MARSHALL,Guittard Township C1,U.S. House,1,Democratic,"Sherow, James E.",0,120040
+MARSHALL,Guittard Township C1,U.S. House,1,Republican,"Huelskamp, Tim",3,120040
+MARSHALL,Guittard Township C2,U.S. House,2,Democratic,"Wakefield, Margie",44,120050
+MARSHALL,Guittard Township C2,U.S. House,2,Libertarian,"Clemmons, Christopher",4,120050
+MARSHALL,Guittard Township C2,U.S. House,2,Republican,"Jenkins, Lynn",95,120050
+MARSHALL,Balderson Township,Attorney General,,Democratic,"Kotich, A.J.",4,000010
+MARSHALL,Balderson Township,Attorney General,,Republican,"Schmidt, Derek",29,000010
+MARSHALL,Bigelow Township,Attorney General,,Democratic,"Kotich, A.J.",5,000020
+MARSHALL,Bigelow Township,Attorney General,,Republican,"Schmidt, Derek",10,000020
+MARSHALL,Blue Rapids City,Attorney General,,Democratic,"Kotich, A.J.",72,000030
+MARSHALL,Blue Rapids City,Attorney General,,Republican,"Schmidt, Derek",230,000030
+MARSHALL,Blue Rapids Township,Attorney General,,Democratic,"Kotich, A.J.",7,000040
+MARSHALL,Blue Rapids Township,Attorney General,,Republican,"Schmidt, Derek",26,000040
+MARSHALL,Center Township,Attorney General,,Democratic,"Kotich, A.J.",8,000050
+MARSHALL,Center Township,Attorney General,,Republican,"Schmidt, Derek",37,000050
+MARSHALL,Clear Fork Township,Attorney General,,Democratic,"Kotich, A.J.",5,000060
+MARSHALL,Clear Fork Township,Attorney General,,Republican,"Schmidt, Derek",11,000060
+MARSHALL,Cleveland Township,Attorney General,,Democratic,"Kotich, A.J.",9,000070
+MARSHALL,Cleveland Township,Attorney General,,Republican,"Schmidt, Derek",31,000070
+MARSHALL,Cottage Hill Township,Attorney General,,Democratic,"Kotich, A.J.",6,000080
+MARSHALL,Cottage Hill Township,Attorney General,,Republican,"Schmidt, Derek",55,000080
+MARSHALL,East Vermillion Township,Attorney General,,Democratic,"Kotich, A.J.",48,000090
+MARSHALL,East Vermillion Township,Attorney General,,Republican,"Schmidt, Derek",140,000090
+MARSHALL,Elm Creek Township,Attorney General,,Democratic,"Kotich, A.J.",20,000100
+MARSHALL,Elm Creek Township,Attorney General,,Republican,"Schmidt, Derek",47,000100
+MARSHALL,Herkimer Township,Attorney General,,Democratic,"Kotich, A.J.",10,000130
+MARSHALL,Herkimer Township,Attorney General,,Republican,"Schmidt, Derek",78,000130
+MARSHALL,Lincoln Township,Attorney General,,Democratic,"Kotich, A.J.",8,000140
+MARSHALL,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",50,000140
+MARSHALL,Logan Township,Attorney General,,Democratic,"Kotich, A.J.",24,000150
+MARSHALL,Logan Township,Attorney General,,Republican,"Schmidt, Derek",87,000150
+MARSHALL,Marysville City Ward 1,Attorney General,,Democratic,"Kotich, A.J.",112,000160
+MARSHALL,Marysville City Ward 1,Attorney General,,Republican,"Schmidt, Derek",230,000160
+MARSHALL,Marysville City Ward 2,Attorney General,,Democratic,"Kotich, A.J.",75,00017A
+MARSHALL,Marysville City Ward 2,Attorney General,,Republican,"Schmidt, Derek",180,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+MARSHALL,Marysville City Ward 3,Attorney General,,Democratic,"Kotich, A.J.",52,00018A
+MARSHALL,Marysville City Ward 3,Attorney General,,Republican,"Schmidt, Derek",127,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Attorney General,,Democratic,"Kotich, A.J.",85,00019A
+MARSHALL,Marysville City Ward 4 Part A,Attorney General,,Republican,"Schmidt, Derek",209,00019A
+MARSHALL,Marysville City Ward 4 Part B,Attorney General,,Democratic,"Kotich, A.J.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00019C
+MARSHALL,Marysville Township,Attorney General,,Democratic,"Kotich, A.J.",28,000200
+MARSHALL,Marysville Township,Attorney General,,Republican,"Schmidt, Derek",94,000200
+MARSHALL,Murray Township,Attorney General,,Democratic,"Kotich, A.J.",56,000210
+MARSHALL,Murray Township,Attorney General,,Republican,"Schmidt, Derek",178,000210
+MARSHALL,Noble Township,Attorney General,,Democratic,"Kotich, A.J.",18,000220
+MARSHALL,Noble Township,Attorney General,,Republican,"Schmidt, Derek",60,000220
+MARSHALL,Oketo Township,Attorney General,,Democratic,"Kotich, A.J.",32,000230
+MARSHALL,Oketo Township,Attorney General,,Republican,"Schmidt, Derek",56,000230
+MARSHALL,Richland Township,Attorney General,,Democratic,"Kotich, A.J.",14,000240
+MARSHALL,Richland Township,Attorney General,,Republican,"Schmidt, Derek",57,000240
+MARSHALL,Rock Township,Attorney General,,Democratic,"Kotich, A.J.",10,000250
+MARSHALL,Rock Township,Attorney General,,Republican,"Schmidt, Derek",40,000250
+MARSHALL,St. Bridget Township,Attorney General,,Democratic,"Kotich, A.J.",17,000260
+MARSHALL,St. Bridget Township,Attorney General,,Republican,"Schmidt, Derek",38,000260
+MARSHALL,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",10,000270
+MARSHALL,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",42,000270
+MARSHALL,Waterville Township,Attorney General,,Democratic,"Kotich, A.J.",62,000280
+MARSHALL,Waterville Township,Attorney General,,Republican,"Schmidt, Derek",203,000280
+MARSHALL,Wells Township,Attorney General,,Democratic,"Kotich, A.J.",16,000290
+MARSHALL,Wells Township,Attorney General,,Republican,"Schmidt, Derek",32,000290
+MARSHALL,West Vermillion Township,Attorney General,,Democratic,"Kotich, A.J.",40,000300
+MARSHALL,West Vermillion Township,Attorney General,,Republican,"Schmidt, Derek",116,000300
+MARSHALL,Franklin Township C1,Attorney General,,Democratic,"Kotich, A.J.",20,120020
+MARSHALL,Franklin Township C1,Attorney General,,Republican,"Schmidt, Derek",44,120020
+MARSHALL,Franklin Township C2,Attorney General,,Democratic,"Kotich, A.J.",8,120030
+MARSHALL,Franklin Township C2,Attorney General,,Republican,"Schmidt, Derek",45,120030
+MARSHALL,Guittard Township C1,Attorney General,,Democratic,"Kotich, A.J.",0,120040
+MARSHALL,Guittard Township C1,Attorney General,,Republican,"Schmidt, Derek",3,120040
+MARSHALL,Guittard Township C2,Attorney General,,Democratic,"Kotich, A.J.",40,120050
+MARSHALL,Guittard Township C2,Attorney General,,Republican,"Schmidt, Derek",99,120050
+MARSHALL,Balderson Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000010
+MARSHALL,Balderson Township,Commissioner of Insurance,,Republican,"Selzer, Ken",29,000010
+MARSHALL,Bigelow Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000020
+MARSHALL,Bigelow Township,Commissioner of Insurance,,Republican,"Selzer, Ken",8,000020
+MARSHALL,Blue Rapids City,Commissioner of Insurance,,Democratic,"Anderson, Dennis",93,000030
+MARSHALL,Blue Rapids City,Commissioner of Insurance,,Republican,"Selzer, Ken",199,000030
+MARSHALL,Blue Rapids Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000040
+MARSHALL,Blue Rapids Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000040
+MARSHALL,Center Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",12,000050
+MARSHALL,Center Township,Commissioner of Insurance,,Republican,"Selzer, Ken",33,000050
+MARSHALL,Clear Fork Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000060
+MARSHALL,Clear Fork Township,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000060
+MARSHALL,Cleveland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000070
+MARSHALL,Cleveland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",24,000070
+MARSHALL,Cottage Hill Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,000080
+MARSHALL,Cottage Hill Township,Commissioner of Insurance,,Republican,"Selzer, Ken",45,000080
+MARSHALL,East Vermillion Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",65,000090
+MARSHALL,East Vermillion Township,Commissioner of Insurance,,Republican,"Selzer, Ken",118,000090
+MARSHALL,Elm Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",28,000100
+MARSHALL,Elm Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",37,000100
+MARSHALL,Herkimer Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,000130
+MARSHALL,Herkimer Township,Commissioner of Insurance,,Republican,"Selzer, Ken",77,000130
+MARSHALL,Lincoln Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000140
+MARSHALL,Lincoln Township,Commissioner of Insurance,,Republican,"Selzer, Ken",51,000140
+MARSHALL,Logan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000150
+MARSHALL,Logan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",80,000150
+MARSHALL,Marysville City Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",122,000160
+MARSHALL,Marysville City Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",212,000160
+MARSHALL,Marysville City Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",95,00017A
+MARSHALL,Marysville City Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",151,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+MARSHALL,Marysville City Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",67,00018A
+MARSHALL,Marysville City Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",107,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",96,00019A
+MARSHALL,Marysville City Ward 4 Part A,Commissioner of Insurance,,Republican,"Selzer, Ken",194,00019A
+MARSHALL,Marysville City Ward 4 Part B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00019C
+MARSHALL,Marysville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",36,000200
+MARSHALL,Marysville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",81,000200
+MARSHALL,Murray Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,000210
+MARSHALL,Murray Township,Commissioner of Insurance,,Republican,"Selzer, Ken",149,000210
+MARSHALL,Noble Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000220
+MARSHALL,Noble Township,Commissioner of Insurance,,Republican,"Selzer, Ken",60,000220
+MARSHALL,Oketo Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",38,000230
+MARSHALL,Oketo Township,Commissioner of Insurance,,Republican,"Selzer, Ken",49,000230
+MARSHALL,Richland Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",17,000240
+MARSHALL,Richland Township,Commissioner of Insurance,,Republican,"Selzer, Ken",52,000240
+MARSHALL,Rock Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",12,000250
+MARSHALL,Rock Township,Commissioner of Insurance,,Republican,"Selzer, Ken",38,000250
+MARSHALL,St. Bridget Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",16,000260
+MARSHALL,St. Bridget Township,Commissioner of Insurance,,Republican,"Selzer, Ken",36,000260
+MARSHALL,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,000270
+MARSHALL,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",39,000270
+MARSHALL,Waterville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",77,000280
+MARSHALL,Waterville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",174,000280
+MARSHALL,Wells Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000290
+MARSHALL,Wells Township,Commissioner of Insurance,,Republican,"Selzer, Ken",33,000290
+MARSHALL,West Vermillion Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",51,000300
+MARSHALL,West Vermillion Township,Commissioner of Insurance,,Republican,"Selzer, Ken",103,000300
+MARSHALL,Franklin Township C1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",25,120020
+MARSHALL,Franklin Township C1,Commissioner of Insurance,,Republican,"Selzer, Ken",42,120020
+MARSHALL,Franklin Township C2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,120030
+MARSHALL,Franklin Township C2,Commissioner of Insurance,,Republican,"Selzer, Ken",41,120030
+MARSHALL,Guittard Township C1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,120040
+MARSHALL,Guittard Township C1,Commissioner of Insurance,,Republican,"Selzer, Ken",2,120040
+MARSHALL,Guittard Township C2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",50,120050
+MARSHALL,Guittard Township C2,Commissioner of Insurance,,Republican,"Selzer, Ken",85,120050
+MARSHALL,Balderson Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000010
+MARSHALL,Balderson Township,Secretary of State,,Republican,"Kobach, Kris",28,000010
+MARSHALL,Bigelow Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000020
+MARSHALL,Bigelow Township,Secretary of State,,Republican,"Kobach, Kris",9,000020
+MARSHALL,Blue Rapids City,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",99,000030
+MARSHALL,Blue Rapids City,Secretary of State,,Republican,"Kobach, Kris",203,000030
+MARSHALL,Blue Rapids Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000040
+MARSHALL,Blue Rapids Township,Secretary of State,,Republican,"Kobach, Kris",23,000040
+MARSHALL,Center Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000050
+MARSHALL,Center Township,Secretary of State,,Republican,"Kobach, Kris",39,000050
+MARSHALL,Clear Fork Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000060
+MARSHALL,Clear Fork Township,Secretary of State,,Republican,"Kobach, Kris",11,000060
+MARSHALL,Cleveland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",16,000070
+MARSHALL,Cleveland Township,Secretary of State,,Republican,"Kobach, Kris",26,000070
+MARSHALL,Cottage Hill Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000080
+MARSHALL,Cottage Hill Township,Secretary of State,,Republican,"Kobach, Kris",56,000080
+MARSHALL,East Vermillion Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",61,000090
+MARSHALL,East Vermillion Township,Secretary of State,,Republican,"Kobach, Kris",131,000090
+MARSHALL,Elm Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",24,000100
+MARSHALL,Elm Creek Township,Secretary of State,,Republican,"Kobach, Kris",44,000100
+MARSHALL,Herkimer Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",14,000130
+MARSHALL,Herkimer Township,Secretary of State,,Republican,"Kobach, Kris",78,000130
+MARSHALL,Lincoln Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",11,000140
+MARSHALL,Lincoln Township,Secretary of State,,Republican,"Kobach, Kris",51,000140
+MARSHALL,Logan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000150
+MARSHALL,Logan Township,Secretary of State,,Republican,"Kobach, Kris",87,000150
+MARSHALL,Marysville City Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",121,000160
+MARSHALL,Marysville City Ward 1,Secretary of State,,Republican,"Kobach, Kris",225,000160
+MARSHALL,Marysville City Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",89,00017A
+MARSHALL,Marysville City Ward 2,Secretary of State,,Republican,"Kobach, Kris",169,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+MARSHALL,Marysville City Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",60,00018A
+MARSHALL,Marysville City Ward 3,Secretary of State,,Republican,"Kobach, Kris",118,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",103,00019A
+MARSHALL,Marysville City Ward 4 Part A,Secretary of State,,Republican,"Kobach, Kris",195,00019A
+MARSHALL,Marysville City Ward 4 Part B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Secretary of State,,Republican,"Kobach, Kris",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00019C
+MARSHALL,Marysville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,000200
+MARSHALL,Marysville Township,Secretary of State,,Republican,"Kobach, Kris",86,000200
+MARSHALL,Murray Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",76,000210
+MARSHALL,Murray Township,Secretary of State,,Republican,"Kobach, Kris",167,000210
+MARSHALL,Noble Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",17,000220
+MARSHALL,Noble Township,Secretary of State,,Republican,"Kobach, Kris",62,000220
+MARSHALL,Oketo Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,000230
+MARSHALL,Oketo Township,Secretary of State,,Republican,"Kobach, Kris",60,000230
+MARSHALL,Richland Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000240
+MARSHALL,Richland Township,Secretary of State,,Republican,"Kobach, Kris",50,000240
+MARSHALL,Rock Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",13,000250
+MARSHALL,Rock Township,Secretary of State,,Republican,"Kobach, Kris",42,000250
+MARSHALL,St. Bridget Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000260
+MARSHALL,St. Bridget Township,Secretary of State,,Republican,"Kobach, Kris",40,000260
+MARSHALL,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",16,000270
+MARSHALL,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",37,000270
+MARSHALL,Waterville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",77,000280
+MARSHALL,Waterville Township,Secretary of State,,Republican,"Kobach, Kris",188,000280
+MARSHALL,Wells Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,000290
+MARSHALL,Wells Township,Secretary of State,,Republican,"Kobach, Kris",30,000290
+MARSHALL,West Vermillion Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",56,000300
+MARSHALL,West Vermillion Township,Secretary of State,,Republican,"Kobach, Kris",103,000300
+MARSHALL,Franklin Township C1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",21,120020
+MARSHALL,Franklin Township C1,Secretary of State,,Republican,"Kobach, Kris",45,120020
+MARSHALL,Franklin Township C2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,120030
+MARSHALL,Franklin Township C2,Secretary of State,,Republican,"Kobach, Kris",42,120030
+MARSHALL,Guittard Township C1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120040
+MARSHALL,Guittard Township C1,Secretary of State,,Republican,"Kobach, Kris",3,120040
+MARSHALL,Guittard Township C2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",53,120050
+MARSHALL,Guittard Township C2,Secretary of State,,Republican,"Kobach, Kris",89,120050
+MARSHALL,Balderson Township,State Treasurer,,Democratic,"Alldritt, Carmen",8,000010
+MARSHALL,Balderson Township,State Treasurer,,Republican,"Estes, Ron",26,000010
+MARSHALL,Bigelow Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000020
+MARSHALL,Bigelow Township,State Treasurer,,Republican,"Estes, Ron",10,000020
+MARSHALL,Blue Rapids City,State Treasurer,,Democratic,"Alldritt, Carmen",67,000030
+MARSHALL,Blue Rapids City,State Treasurer,,Republican,"Estes, Ron",232,000030
+MARSHALL,Blue Rapids Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000040
+MARSHALL,Blue Rapids Township,State Treasurer,,Republican,"Estes, Ron",25,000040
+MARSHALL,Center Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000050
+MARSHALL,Center Township,State Treasurer,,Republican,"Estes, Ron",37,000050
+MARSHALL,Clear Fork Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000060
+MARSHALL,Clear Fork Township,State Treasurer,,Republican,"Estes, Ron",11,000060
+MARSHALL,Cleveland Township,State Treasurer,,Democratic,"Alldritt, Carmen",11,000070
+MARSHALL,Cleveland Township,State Treasurer,,Republican,"Estes, Ron",32,000070
+MARSHALL,Cottage Hill Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000080
+MARSHALL,Cottage Hill Township,State Treasurer,,Republican,"Estes, Ron",54,000080
+MARSHALL,East Vermillion Township,State Treasurer,,Democratic,"Alldritt, Carmen",44,000090
+MARSHALL,East Vermillion Township,State Treasurer,,Republican,"Estes, Ron",141,000090
+MARSHALL,Elm Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",17,000100
+MARSHALL,Elm Creek Township,State Treasurer,,Republican,"Estes, Ron",49,000100
+MARSHALL,Herkimer Township,State Treasurer,,Democratic,"Alldritt, Carmen",11,000130
+MARSHALL,Herkimer Township,State Treasurer,,Republican,"Estes, Ron",79,000130
+MARSHALL,Lincoln Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000140
+MARSHALL,Lincoln Township,State Treasurer,,Republican,"Estes, Ron",53,000140
+MARSHALL,Logan Township,State Treasurer,,Democratic,"Alldritt, Carmen",25,000150
+MARSHALL,Logan Township,State Treasurer,,Republican,"Estes, Ron",88,000150
+MARSHALL,Marysville City Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",109,000160
+MARSHALL,Marysville City Ward 1,State Treasurer,,Republican,"Estes, Ron",232,000160
+MARSHALL,Marysville City Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",88,00017A
+MARSHALL,Marysville City Ward 2,State Treasurer,,Republican,"Estes, Ron",162,00017A
+MARSHALL,Marysville City Ward 2 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00017B
+MARSHALL,Marysville City Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",57,00018A
+MARSHALL,Marysville City Ward 3,State Treasurer,,Republican,"Estes, Ron",120,00018A
+MARSHALL,Marysville City Ward 3 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,State Treasurer,,Democratic,"Alldritt, Carmen",90,00019A
+MARSHALL,Marysville City Ward 4 Part A,State Treasurer,,Republican,"Estes, Ron",201,00019A
+MARSHALL,Marysville City Ward 4 Part B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,State Treasurer,,Republican,"Estes, Ron",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,State Treasurer,,Republican,"Estes, Ron",0,00019C
+MARSHALL,Marysville Township,State Treasurer,,Democratic,"Alldritt, Carmen",34,000200
+MARSHALL,Marysville Township,State Treasurer,,Republican,"Estes, Ron",87,000200
+MARSHALL,Murray Township,State Treasurer,,Democratic,"Alldritt, Carmen",59,000210
+MARSHALL,Murray Township,State Treasurer,,Republican,"Estes, Ron",168,000210
+MARSHALL,Noble Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000220
+MARSHALL,Noble Township,State Treasurer,,Republican,"Estes, Ron",62,000220
+MARSHALL,Oketo Township,State Treasurer,,Democratic,"Alldritt, Carmen",36,000230
+MARSHALL,Oketo Township,State Treasurer,,Republican,"Estes, Ron",50,000230
+MARSHALL,Richland Township,State Treasurer,,Democratic,"Alldritt, Carmen",16,000240
+MARSHALL,Richland Township,State Treasurer,,Republican,"Estes, Ron",55,000240
+MARSHALL,Rock Township,State Treasurer,,Democratic,"Alldritt, Carmen",12,000250
+MARSHALL,Rock Township,State Treasurer,,Republican,"Estes, Ron",40,000250
+MARSHALL,St. Bridget Township,State Treasurer,,Democratic,"Alldritt, Carmen",15,000260
+MARSHALL,St. Bridget Township,State Treasurer,,Republican,"Estes, Ron",41,000260
+MARSHALL,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000270
+MARSHALL,Walnut Township,State Treasurer,,Republican,"Estes, Ron",41,000270
+MARSHALL,Waterville Township,State Treasurer,,Democratic,"Alldritt, Carmen",68,000280
+MARSHALL,Waterville Township,State Treasurer,,Republican,"Estes, Ron",196,000280
+MARSHALL,Wells Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000290
+MARSHALL,Wells Township,State Treasurer,,Republican,"Estes, Ron",35,000290
+MARSHALL,West Vermillion Township,State Treasurer,,Democratic,"Alldritt, Carmen",42,000300
+MARSHALL,West Vermillion Township,State Treasurer,,Republican,"Estes, Ron",113,000300
+MARSHALL,Franklin Township C1,State Treasurer,,Democratic,"Alldritt, Carmen",21,120020
+MARSHALL,Franklin Township C1,State Treasurer,,Republican,"Estes, Ron",46,120020
+MARSHALL,Franklin Township C2,State Treasurer,,Democratic,"Alldritt, Carmen",9,120030
+MARSHALL,Franklin Township C2,State Treasurer,,Republican,"Estes, Ron",44,120030
+MARSHALL,Guittard Township C1,State Treasurer,,Democratic,"Alldritt, Carmen",1,120040
+MARSHALL,Guittard Township C1,State Treasurer,,Republican,"Estes, Ron",2,120040
+MARSHALL,Guittard Township C2,State Treasurer,,Democratic,"Alldritt, Carmen",42,120050
+MARSHALL,Guittard Township C2,State Treasurer,,Republican,"Estes, Ron",97,120050
+MARSHALL,Balderson Township,U.S. Senate,,independent,"Orman, Greg",4,000010
+MARSHALL,Balderson Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000010
+MARSHALL,Balderson Township,U.S. Senate,,Republican,"Roberts, Pat",29,000010
+MARSHALL,Bigelow Township,U.S. Senate,,independent,"Orman, Greg",7,000020
+MARSHALL,Bigelow Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000020
+MARSHALL,Bigelow Township,U.S. Senate,,Republican,"Roberts, Pat",8,000020
+MARSHALL,Blue Rapids City,U.S. Senate,,independent,"Orman, Greg",114,000030
+MARSHALL,Blue Rapids City,U.S. Senate,,Libertarian,"Batson, Randall",20,000030
+MARSHALL,Blue Rapids City,U.S. Senate,,Republican,"Roberts, Pat",172,000030
+MARSHALL,Blue Rapids Township,U.S. Senate,,independent,"Orman, Greg",9,000040
+MARSHALL,Blue Rapids Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000040
+MARSHALL,Blue Rapids Township,U.S. Senate,,Republican,"Roberts, Pat",22,000040
+MARSHALL,Center Township,U.S. Senate,,independent,"Orman, Greg",16,000050
+MARSHALL,Center Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000050
+MARSHALL,Center Township,U.S. Senate,,Republican,"Roberts, Pat",31,000050
+MARSHALL,Clear Fork Township,U.S. Senate,,independent,"Orman, Greg",7,000060
+MARSHALL,Clear Fork Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000060
+MARSHALL,Clear Fork Township,U.S. Senate,,Republican,"Roberts, Pat",9,000060
+MARSHALL,Cleveland Township,U.S. Senate,,independent,"Orman, Greg",18,000070
+MARSHALL,Cleveland Township,U.S. Senate,,Libertarian,"Batson, Randall",3,000070
+MARSHALL,Cleveland Township,U.S. Senate,,Republican,"Roberts, Pat",22,000070
+MARSHALL,Cottage Hill Township,U.S. Senate,,independent,"Orman, Greg",19,000080
+MARSHALL,Cottage Hill Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000080
+MARSHALL,Cottage Hill Township,U.S. Senate,,Republican,"Roberts, Pat",42,000080
+MARSHALL,East Vermillion Township,U.S. Senate,,independent,"Orman, Greg",64,000090
+MARSHALL,East Vermillion Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000090
+MARSHALL,East Vermillion Township,U.S. Senate,,Republican,"Roberts, Pat",124,000090
+MARSHALL,Elm Creek Township,U.S. Senate,,independent,"Orman, Greg",21,000100
+MARSHALL,Elm Creek Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000100
+MARSHALL,Elm Creek Township,U.S. Senate,,Republican,"Roberts, Pat",45,000100
+MARSHALL,Herkimer Township,U.S. Senate,,independent,"Orman, Greg",14,000130
+MARSHALL,Herkimer Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000130
+MARSHALL,Herkimer Township,U.S. Senate,,Republican,"Roberts, Pat",79,000130
+MARSHALL,Lincoln Township,U.S. Senate,,independent,"Orman, Greg",10,000140
+MARSHALL,Lincoln Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000140
+MARSHALL,Lincoln Township,U.S. Senate,,Republican,"Roberts, Pat",53,000140
+MARSHALL,Logan Township,U.S. Senate,,independent,"Orman, Greg",28,000150
+MARSHALL,Logan Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000150
+MARSHALL,Logan Township,U.S. Senate,,Republican,"Roberts, Pat",81,000150
+MARSHALL,Marysville City Ward 1,U.S. Senate,,independent,"Orman, Greg",146,000160
+MARSHALL,Marysville City Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",13,000160
+MARSHALL,Marysville City Ward 1,U.S. Senate,,Republican,"Roberts, Pat",196,000160
+MARSHALL,Marysville City Ward 2,U.S. Senate,,independent,"Orman, Greg",107,00017A
+MARSHALL,Marysville City Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",13,00017A
+MARSHALL,Marysville City Ward 2,U.S. Senate,,Republican,"Roberts, Pat",141,00017A
+MARSHALL,Marysville City Ward 2 Exclave,U.S. Senate,,independent,"Orman, Greg",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,U.S. Senate,,Republican,"Roberts, Pat",0,00017B
+MARSHALL,Marysville City Ward 3,U.S. Senate,,independent,"Orman, Greg",75,00018A
+MARSHALL,Marysville City Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",8,00018A
+MARSHALL,Marysville City Ward 3,U.S. Senate,,Republican,"Roberts, Pat",96,00018A
+MARSHALL,Marysville City Ward 3 Exclave,U.S. Senate,,independent,"Orman, Greg",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,U.S. Senate,,Republican,"Roberts, Pat",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,U.S. Senate,,independent,"Orman, Greg",119,00019A
+MARSHALL,Marysville City Ward 4 Part A,U.S. Senate,,Libertarian,"Batson, Randall",12,00019A
+MARSHALL,Marysville City Ward 4 Part A,U.S. Senate,,Republican,"Roberts, Pat",168,00019A
+MARSHALL,Marysville City Ward 4 Part B,U.S. Senate,,independent,"Orman, Greg",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,U.S. Senate,,Libertarian,"Batson, Randall",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,U.S. Senate,,Republican,"Roberts, Pat",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,U.S. Senate,,independent,"Orman, Greg",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,U.S. Senate,,Republican,"Roberts, Pat",0,00019C
+MARSHALL,Marysville Township,U.S. Senate,,independent,"Orman, Greg",47,000200
+MARSHALL,Marysville Township,U.S. Senate,,Libertarian,"Batson, Randall",3,000200
+MARSHALL,Marysville Township,U.S. Senate,,Republican,"Roberts, Pat",77,000200
+MARSHALL,Murray Township,U.S. Senate,,independent,"Orman, Greg",75,000210
+MARSHALL,Murray Township,U.S. Senate,,Libertarian,"Batson, Randall",14,000210
+MARSHALL,Murray Township,U.S. Senate,,Republican,"Roberts, Pat",154,000210
+MARSHALL,Noble Township,U.S. Senate,,independent,"Orman, Greg",23,000220
+MARSHALL,Noble Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000220
+MARSHALL,Noble Township,U.S. Senate,,Republican,"Roberts, Pat",53,000220
+MARSHALL,Oketo Township,U.S. Senate,,independent,"Orman, Greg",31,000230
+MARSHALL,Oketo Township,U.S. Senate,,Libertarian,"Batson, Randall",3,000230
+MARSHALL,Oketo Township,U.S. Senate,,Republican,"Roberts, Pat",56,000230
+MARSHALL,Richland Township,U.S. Senate,,independent,"Orman, Greg",16,000240
+MARSHALL,Richland Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000240
+MARSHALL,Richland Township,U.S. Senate,,Republican,"Roberts, Pat",54,000240
+MARSHALL,Rock Township,U.S. Senate,,independent,"Orman, Greg",12,000250
+MARSHALL,Rock Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000250
+MARSHALL,Rock Township,U.S. Senate,,Republican,"Roberts, Pat",44,000250
+MARSHALL,St. Bridget Township,U.S. Senate,,independent,"Orman, Greg",15,000260
+MARSHALL,St. Bridget Township,U.S. Senate,,Libertarian,"Batson, Randall",8,000260
+MARSHALL,St. Bridget Township,U.S. Senate,,Republican,"Roberts, Pat",35,000260
+MARSHALL,Walnut Township,U.S. Senate,,independent,"Orman, Greg",14,000270
+MARSHALL,Walnut Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000270
+MARSHALL,Walnut Township,U.S. Senate,,Republican,"Roberts, Pat",40,000270
+MARSHALL,Waterville Township,U.S. Senate,,independent,"Orman, Greg",96,000280
+MARSHALL,Waterville Township,U.S. Senate,,Libertarian,"Batson, Randall",17,000280
+MARSHALL,Waterville Township,U.S. Senate,,Republican,"Roberts, Pat",151,000280
+MARSHALL,Wells Township,U.S. Senate,,independent,"Orman, Greg",16,000290
+MARSHALL,Wells Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000290
+MARSHALL,Wells Township,U.S. Senate,,Republican,"Roberts, Pat",31,000290
+MARSHALL,West Vermillion Township,U.S. Senate,,independent,"Orman, Greg",67,000300
+MARSHALL,West Vermillion Township,U.S. Senate,,Libertarian,"Batson, Randall",7,000300
+MARSHALL,West Vermillion Township,U.S. Senate,,Republican,"Roberts, Pat",87,000300
+MARSHALL,Franklin Township C1,U.S. Senate,,independent,"Orman, Greg",28,120020
+MARSHALL,Franklin Township C1,U.S. Senate,,Libertarian,"Batson, Randall",2,120020
+MARSHALL,Franklin Township C1,U.S. Senate,,Republican,"Roberts, Pat",35,120020
+MARSHALL,Franklin Township C2,U.S. Senate,,independent,"Orman, Greg",21,120030
+MARSHALL,Franklin Township C2,U.S. Senate,,Libertarian,"Batson, Randall",1,120030
+MARSHALL,Franklin Township C2,U.S. Senate,,Republican,"Roberts, Pat",31,120030
+MARSHALL,Guittard Township C1,U.S. Senate,,independent,"Orman, Greg",1,120040
+MARSHALL,Guittard Township C1,U.S. Senate,,Libertarian,"Batson, Randall",0,120040
+MARSHALL,Guittard Township C1,U.S. Senate,,Republican,"Roberts, Pat",2,120040
+MARSHALL,Guittard Township C2,U.S. Senate,,independent,"Orman, Greg",55,120050
+MARSHALL,Guittard Township C2,U.S. Senate,,Libertarian,"Batson, Randall",5,120050
+MARSHALL,Guittard Township C2,U.S. Senate,,Republican,"Roberts, Pat",82,120050

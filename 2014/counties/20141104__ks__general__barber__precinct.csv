@@ -1,0 +1,392 @@
+county,precinct,office,district,party,candidate,votes,vtd
+BARBER,Aetna Township,Governor,,Democratic,"Davis, Paul",0,000010
+BARBER,Aetna Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000010
+BARBER,Aetna Township,Governor,,Republican,"Brownback, Sam",4,000010
+BARBER,Deerhead Township,Governor,,Democratic,"Davis, Paul",0,000020
+BARBER,Deerhead Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000020
+BARBER,Deerhead Township,Governor,,Republican,"Brownback, Sam",5,000020
+BARBER,Eagle Township,Governor,,Democratic,"Davis, Paul",0,000030
+BARBER,Eagle Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+BARBER,Eagle Township,Governor,,Republican,"Brownback, Sam",14,000030
+BARBER,Elm Mills Township,Governor,,Democratic,"Davis, Paul",15,000040
+BARBER,Elm Mills Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000040
+BARBER,Elm Mills Township,Governor,,Republican,"Brownback, Sam",43,000040
+BARBER,Elwood Township,Governor,,Democratic,"Davis, Paul",18,000050
+BARBER,Elwood Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000050
+BARBER,Elwood Township,Governor,,Republican,"Brownback, Sam",43,000050
+BARBER,Hazelton Township,Governor,,Democratic,"Davis, Paul",30,000060
+BARBER,Hazelton Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000060
+BARBER,Hazelton Township,Governor,,Republican,"Brownback, Sam",39,000060
+BARBER,Kiowa East Township,Governor,,Democratic,"Davis, Paul",70,000070
+BARBER,Kiowa East Township,Governor,,Libertarian,"Umbehr, Keen A.",14,000070
+BARBER,Kiowa East Township,Governor,,Republican,"Brownback, Sam",169,000070
+BARBER,Kiowa West Township,Governor,,Democratic,"Davis, Paul",57,000080
+BARBER,Kiowa West Township,Governor,,Libertarian,"Umbehr, Keen A.",10,000080
+BARBER,Kiowa West Township,Governor,,Republican,"Brownback, Sam",102,000080
+BARBER,Lake City Township,Governor,,Democratic,"Davis, Paul",8,000090
+BARBER,Lake City Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000090
+BARBER,Lake City Township,Governor,,Republican,"Brownback, Sam",22,000090
+BARBER,McAdoo Township,Governor,,Democratic,"Davis, Paul",1,000100
+BARBER,McAdoo Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000100
+BARBER,McAdoo Township,Governor,,Republican,"Brownback, Sam",8,000100
+BARBER,Medicine Lodge Precinct 1,Governor,,Democratic,"Davis, Paul",107,000110
+BARBER,Medicine Lodge Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",10,000110
+BARBER,Medicine Lodge Precinct 1,Governor,,Republican,"Brownback, Sam",160,000110
+BARBER,Medicine Lodge Precinct 2,Governor,,Democratic,"Davis, Paul",62,00012A
+BARBER,Medicine Lodge Precinct 2,Governor,,Libertarian,"Umbehr, Keen A.",11,00012A
+BARBER,Medicine Lodge Precinct 2,Governor,,Republican,"Brownback, Sam",129,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,Governor,,Democratic,"Davis, Paul",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,Governor,,Republican,"Brownback, Sam",0,00012B
+BARBER,Medicine Lodge Precinct 3,Governor,,Democratic,"Davis, Paul",55,000130
+BARBER,Medicine Lodge Precinct 3,Governor,,Libertarian,"Umbehr, Keen A.",3,000130
+BARBER,Medicine Lodge Precinct 3,Governor,,Republican,"Brownback, Sam",83,000130
+BARBER,Medicine Lodge Precinct 4,Governor,,Democratic,"Davis, Paul",25,000140
+BARBER,Medicine Lodge Precinct 4,Governor,,Libertarian,"Umbehr, Keen A.",5,000140
+BARBER,Medicine Lodge Precinct 4,Governor,,Republican,"Brownback, Sam",89,000140
+BARBER,Medicine Lodge Precinct 5,Governor,,Democratic,"Davis, Paul",5,000150
+BARBER,Medicine Lodge Precinct 5,Governor,,Libertarian,"Umbehr, Keen A.",1,000150
+BARBER,Medicine Lodge Precinct 5,Governor,,Republican,"Brownback, Sam",21,000150
+BARBER,Mingona Township,Governor,,Democratic,"Davis, Paul",10,000160
+BARBER,Mingona Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000160
+BARBER,Mingona Township,Governor,,Republican,"Brownback, Sam",24,000160
+BARBER,Moore Township,Governor,,Democratic,"Davis, Paul",6,000170
+BARBER,Moore Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000170
+BARBER,Moore Township,Governor,,Republican,"Brownback, Sam",7,000170
+BARBER,Nippawalla Township,Governor,,Democratic,"Davis, Paul",0,000180
+BARBER,Nippawalla Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000180
+BARBER,Nippawalla Township,Governor,,Republican,"Brownback, Sam",16,000180
+BARBER,Sun City Township,Governor,,Democratic,"Davis, Paul",1,000210
+BARBER,Sun City Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000210
+BARBER,Sun City Township,Governor,,Republican,"Brownback, Sam",19,000210
+BARBER,Turkey Creek Township,Governor,,Democratic,"Davis, Paul",5,000220
+BARBER,Turkey Creek Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000220
+BARBER,Turkey Creek Township,Governor,,Republican,"Brownback, Sam",5,000220
+BARBER,Valley Township,Governor,,Democratic,"Davis, Paul",11,000230
+BARBER,Valley Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000230
+BARBER,Valley Township,Governor,,Republican,"Brownback, Sam",46,000230
+BARBER,Sharon Township,Governor,,Democratic,"Davis, Paul",34,130010
+BARBER,Sharon Township,Governor,,Libertarian,"Umbehr, Keen A.",7,130010
+BARBER,Sharon Township,Governor,,Republican,"Brownback, Sam",109,130010
+BARBER,Aetna Township,State House,116,Republican,"Hoffman, Kyle D",4,000010
+BARBER,Deerhead Township,State House,116,Republican,"Hoffman, Kyle D",5,000020
+BARBER,Eagle Township,State House,116,Republican,"Hoffman, Kyle D",14,000030
+BARBER,Elm Mills Township,State House,116,Republican,"Hoffman, Kyle D",55,000040
+BARBER,Elwood Township,State House,116,Republican,"Hoffman, Kyle D",57,000050
+BARBER,Hazelton Township,State House,116,Republican,"Hoffman, Kyle D",66,000060
+BARBER,Kiowa East Township,State House,116,Republican,"Hoffman, Kyle D",236,000070
+BARBER,Kiowa West Township,State House,116,Republican,"Hoffman, Kyle D",148,000080
+BARBER,Lake City Township,State House,116,Republican,"Hoffman, Kyle D",25,000090
+BARBER,McAdoo Township,State House,116,Republican,"Hoffman, Kyle D",9,000100
+BARBER,Medicine Lodge Precinct 1,State House,116,Republican,"Hoffman, Kyle D",238,000110
+BARBER,Medicine Lodge Precinct 2,State House,116,Republican,"Hoffman, Kyle D",181,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,State House,116,Republican,"Hoffman, Kyle D",0,00012B
+BARBER,Medicine Lodge Precinct 3,State House,116,Republican,"Hoffman, Kyle D",128,000130
+BARBER,Medicine Lodge Precinct 4,State House,116,Republican,"Hoffman, Kyle D",110,000140
+BARBER,Medicine Lodge Precinct 5,State House,116,Republican,"Hoffman, Kyle D",25,000150
+BARBER,Mingona Township,State House,116,Republican,"Hoffman, Kyle D",28,000160
+BARBER,Moore Township,State House,116,Republican,"Hoffman, Kyle D",10,000170
+BARBER,Nippawalla Township,State House,116,Republican,"Hoffman, Kyle D",14,000180
+BARBER,Sun City Township,State House,116,Republican,"Hoffman, Kyle D",20,000210
+BARBER,Turkey Creek Township,State House,116,Republican,"Hoffman, Kyle D",6,000220
+BARBER,Valley Township,State House,116,Republican,"Hoffman, Kyle D",53,000230
+BARBER,Sharon Township,State House,116,Republican,"Hoffman, Kyle D",136,130010
+BARBER,Aetna Township,U.S. House,4,Democratic,"Schuckman, Perry L.",0,000010
+BARBER,Aetna Township,U.S. House,4,Republican,"Pompeo, Mike",4,000010
+BARBER,Deerhead Township,U.S. House,4,Democratic,"Schuckman, Perry L.",0,000020
+BARBER,Deerhead Township,U.S. House,4,Republican,"Pompeo, Mike",5,000020
+BARBER,Eagle Township,U.S. House,4,Democratic,"Schuckman, Perry L.",1,000030
+BARBER,Eagle Township,U.S. House,4,Republican,"Pompeo, Mike",13,000030
+BARBER,Elm Mills Township,U.S. House,4,Democratic,"Schuckman, Perry L.",11,000040
+BARBER,Elm Mills Township,U.S. House,4,Republican,"Pompeo, Mike",51,000040
+BARBER,Elwood Township,U.S. House,4,Democratic,"Schuckman, Perry L.",16,000050
+BARBER,Elwood Township,U.S. House,4,Republican,"Pompeo, Mike",49,000050
+BARBER,Hazelton Township,U.S. House,4,Democratic,"Schuckman, Perry L.",21,000060
+BARBER,Hazelton Township,U.S. House,4,Republican,"Pompeo, Mike",51,000060
+BARBER,Kiowa East Township,U.S. House,4,Democratic,"Schuckman, Perry L.",32,000070
+BARBER,Kiowa East Township,U.S. House,4,Republican,"Pompeo, Mike",224,000070
+BARBER,Kiowa West Township,U.S. House,4,Democratic,"Schuckman, Perry L.",42,000080
+BARBER,Kiowa West Township,U.S. House,4,Republican,"Pompeo, Mike",126,000080
+BARBER,Lake City Township,U.S. House,4,Democratic,"Schuckman, Perry L.",6,000090
+BARBER,Lake City Township,U.S. House,4,Republican,"Pompeo, Mike",20,000090
+BARBER,McAdoo Township,U.S. House,4,Democratic,"Schuckman, Perry L.",0,000100
+BARBER,McAdoo Township,U.S. House,4,Republican,"Pompeo, Mike",9,000100
+BARBER,Medicine Lodge Precinct 1,U.S. House,4,Democratic,"Schuckman, Perry L.",64,000110
+BARBER,Medicine Lodge Precinct 1,U.S. House,4,Republican,"Pompeo, Mike",209,000110
+BARBER,Medicine Lodge Precinct 2,U.S. House,4,Democratic,"Schuckman, Perry L.",47,00012A
+BARBER,Medicine Lodge Precinct 2,U.S. House,4,Republican,"Pompeo, Mike",154,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,U.S. House,4,Democratic,"Schuckman, Perry L.",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,U.S. House,4,Republican,"Pompeo, Mike",0,00012B
+BARBER,Medicine Lodge Precinct 3,U.S. House,4,Democratic,"Schuckman, Perry L.",28,000130
+BARBER,Medicine Lodge Precinct 3,U.S. House,4,Republican,"Pompeo, Mike",111,000130
+BARBER,Medicine Lodge Precinct 4,U.S. House,4,Democratic,"Schuckman, Perry L.",15,000140
+BARBER,Medicine Lodge Precinct 4,U.S. House,4,Republican,"Pompeo, Mike",102,000140
+BARBER,Medicine Lodge Precinct 5,U.S. House,4,Democratic,"Schuckman, Perry L.",3,000150
+BARBER,Medicine Lodge Precinct 5,U.S. House,4,Republican,"Pompeo, Mike",24,000150
+BARBER,Mingona Township,U.S. House,4,Democratic,"Schuckman, Perry L.",9,000160
+BARBER,Mingona Township,U.S. House,4,Republican,"Pompeo, Mike",25,000160
+BARBER,Moore Township,U.S. House,4,Democratic,"Schuckman, Perry L.",5,000170
+BARBER,Moore Township,U.S. House,4,Republican,"Pompeo, Mike",8,000170
+BARBER,Nippawalla Township,U.S. House,4,Democratic,"Schuckman, Perry L.",1,000180
+BARBER,Nippawalla Township,U.S. House,4,Republican,"Pompeo, Mike",15,000180
+BARBER,Sun City Township,U.S. House,4,Democratic,"Schuckman, Perry L.",0,000210
+BARBER,Sun City Township,U.S. House,4,Republican,"Pompeo, Mike",20,000210
+BARBER,Turkey Creek Township,U.S. House,4,Democratic,"Schuckman, Perry L.",4,000220
+BARBER,Turkey Creek Township,U.S. House,4,Republican,"Pompeo, Mike",6,000220
+BARBER,Valley Township,U.S. House,4,Democratic,"Schuckman, Perry L.",5,000230
+BARBER,Valley Township,U.S. House,4,Republican,"Pompeo, Mike",52,000230
+BARBER,Sharon Township,U.S. House,4,Democratic,"Schuckman, Perry L.",24,130010
+BARBER,Sharon Township,U.S. House,4,Republican,"Pompeo, Mike",125,130010
+BARBER,Aetna Township,Attorney General,,Democratic,"Kotich, A.J.",0,000010
+BARBER,Aetna Township,Attorney General,,Republican,"Schmidt, Derek",4,000010
+BARBER,Deerhead Township,Attorney General,,Democratic,"Kotich, A.J.",0,000020
+BARBER,Deerhead Township,Attorney General,,Republican,"Schmidt, Derek",5,000020
+BARBER,Eagle Township,Attorney General,,Democratic,"Kotich, A.J.",1,000030
+BARBER,Eagle Township,Attorney General,,Republican,"Schmidt, Derek",13,000030
+BARBER,Elm Mills Township,Attorney General,,Democratic,"Kotich, A.J.",9,000040
+BARBER,Elm Mills Township,Attorney General,,Republican,"Schmidt, Derek",53,000040
+BARBER,Elwood Township,Attorney General,,Democratic,"Kotich, A.J.",18,000050
+BARBER,Elwood Township,Attorney General,,Republican,"Schmidt, Derek",47,000050
+BARBER,Hazelton Township,Attorney General,,Democratic,"Kotich, A.J.",18,000060
+BARBER,Hazelton Township,Attorney General,,Republican,"Schmidt, Derek",51,000060
+BARBER,Kiowa East Township,Attorney General,,Democratic,"Kotich, A.J.",32,000070
+BARBER,Kiowa East Township,Attorney General,,Republican,"Schmidt, Derek",215,000070
+BARBER,Kiowa West Township,Attorney General,,Democratic,"Kotich, A.J.",39,000080
+BARBER,Kiowa West Township,Attorney General,,Republican,"Schmidt, Derek",127,000080
+BARBER,Lake City Township,Attorney General,,Democratic,"Kotich, A.J.",5,000090
+BARBER,Lake City Township,Attorney General,,Republican,"Schmidt, Derek",23,000090
+BARBER,McAdoo Township,Attorney General,,Democratic,"Kotich, A.J.",0,000100
+BARBER,McAdoo Township,Attorney General,,Republican,"Schmidt, Derek",9,000100
+BARBER,Medicine Lodge Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",57,000110
+BARBER,Medicine Lodge Precinct 1,Attorney General,,Republican,"Schmidt, Derek",214,000110
+BARBER,Medicine Lodge Precinct 2,Attorney General,,Democratic,"Kotich, A.J.",42,00012A
+BARBER,Medicine Lodge Precinct 2,Attorney General,,Republican,"Schmidt, Derek",157,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,Attorney General,,Democratic,"Kotich, A.J.",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00012B
+BARBER,Medicine Lodge Precinct 3,Attorney General,,Democratic,"Kotich, A.J.",17,000130
+BARBER,Medicine Lodge Precinct 3,Attorney General,,Republican,"Schmidt, Derek",121,000130
+BARBER,Medicine Lodge Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",17,000140
+BARBER,Medicine Lodge Precinct 4,Attorney General,,Republican,"Schmidt, Derek",96,000140
+BARBER,Medicine Lodge Precinct 5,Attorney General,,Democratic,"Kotich, A.J.",3,000150
+BARBER,Medicine Lodge Precinct 5,Attorney General,,Republican,"Schmidt, Derek",24,000150
+BARBER,Mingona Township,Attorney General,,Democratic,"Kotich, A.J.",6,000160
+BARBER,Mingona Township,Attorney General,,Republican,"Schmidt, Derek",26,000160
+BARBER,Moore Township,Attorney General,,Democratic,"Kotich, A.J.",5,000170
+BARBER,Moore Township,Attorney General,,Republican,"Schmidt, Derek",8,000170
+BARBER,Nippawalla Township,Attorney General,,Democratic,"Kotich, A.J.",1,000180
+BARBER,Nippawalla Township,Attorney General,,Republican,"Schmidt, Derek",14,000180
+BARBER,Sun City Township,Attorney General,,Democratic,"Kotich, A.J.",3,000210
+BARBER,Sun City Township,Attorney General,,Republican,"Schmidt, Derek",16,000210
+BARBER,Turkey Creek Township,Attorney General,,Democratic,"Kotich, A.J.",4,000220
+BARBER,Turkey Creek Township,Attorney General,,Republican,"Schmidt, Derek",6,000220
+BARBER,Valley Township,Attorney General,,Democratic,"Kotich, A.J.",6,000230
+BARBER,Valley Township,Attorney General,,Republican,"Schmidt, Derek",49,000230
+BARBER,Sharon Township,Attorney General,,Democratic,"Kotich, A.J.",14,130010
+BARBER,Sharon Township,Attorney General,,Republican,"Schmidt, Derek",132,130010
+BARBER,Aetna Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000010
+BARBER,Aetna Township,Commissioner of Insurance,,Republican,"Selzer, Ken",2,000010
+BARBER,Deerhead Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000020
+BARBER,Deerhead Township,Commissioner of Insurance,,Republican,"Selzer, Ken",5,000020
+BARBER,Eagle Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000030
+BARBER,Eagle Township,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000030
+BARBER,Elm Mills Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",13,000040
+BARBER,Elm Mills Township,Commissioner of Insurance,,Republican,"Selzer, Ken",48,000040
+BARBER,Elwood Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,000050
+BARBER,Elwood Township,Commissioner of Insurance,,Republican,"Selzer, Ken",51,000050
+BARBER,Hazelton Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",19,000060
+BARBER,Hazelton Township,Commissioner of Insurance,,Republican,"Selzer, Ken",46,000060
+BARBER,Kiowa East Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",44,000070
+BARBER,Kiowa East Township,Commissioner of Insurance,,Republican,"Selzer, Ken",202,000070
+BARBER,Kiowa West Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",46,000080
+BARBER,Kiowa West Township,Commissioner of Insurance,,Republican,"Selzer, Ken",115,000080
+BARBER,Lake City Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000090
+BARBER,Lake City Township,Commissioner of Insurance,,Republican,"Selzer, Ken",20,000090
+BARBER,McAdoo Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000100
+BARBER,McAdoo Township,Commissioner of Insurance,,Republican,"Selzer, Ken",7,000100
+BARBER,Medicine Lodge Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,000110
+BARBER,Medicine Lodge Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",200,000110
+BARBER,Medicine Lodge Precinct 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",58,00012A
+BARBER,Medicine Lodge Precinct 2,Commissioner of Insurance,,Republican,"Selzer, Ken",143,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00012B
+BARBER,Medicine Lodge Precinct 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",33,000130
+BARBER,Medicine Lodge Precinct 3,Commissioner of Insurance,,Republican,"Selzer, Ken",105,000130
+BARBER,Medicine Lodge Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000140
+BARBER,Medicine Lodge Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",93,000140
+BARBER,Medicine Lodge Precinct 5,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000150
+BARBER,Medicine Lodge Precinct 5,Commissioner of Insurance,,Republican,"Selzer, Ken",24,000150
+BARBER,Mingona Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",7,000160
+BARBER,Mingona Township,Commissioner of Insurance,,Republican,"Selzer, Ken",23,000160
+BARBER,Moore Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000170
+BARBER,Moore Township,Commissioner of Insurance,,Republican,"Selzer, Ken",8,000170
+BARBER,Nippawalla Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000180
+BARBER,Nippawalla Township,Commissioner of Insurance,,Republican,"Selzer, Ken",13,000180
+BARBER,Sun City Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,000210
+BARBER,Sun City Township,Commissioner of Insurance,,Republican,"Selzer, Ken",19,000210
+BARBER,Turkey Creek Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000220
+BARBER,Turkey Creek Township,Commissioner of Insurance,,Republican,"Selzer, Ken",5,000220
+BARBER,Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000230
+BARBER,Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",50,000230
+BARBER,Sharon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",22,130010
+BARBER,Sharon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",122,130010
+BARBER,Aetna Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000010
+BARBER,Aetna Township,Secretary of State,,Republican,"Kobach, Kris",4,000010
+BARBER,Deerhead Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000020
+BARBER,Deerhead Township,Secretary of State,,Republican,"Kobach, Kris",5,000020
+BARBER,Eagle Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000030
+BARBER,Eagle Township,Secretary of State,,Republican,"Kobach, Kris",11,000030
+BARBER,Elm Mills Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",16,000040
+BARBER,Elm Mills Township,Secretary of State,,Republican,"Kobach, Kris",46,000040
+BARBER,Elwood Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000050
+BARBER,Elwood Township,Secretary of State,,Republican,"Kobach, Kris",46,000050
+BARBER,Hazelton Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",26,000060
+BARBER,Hazelton Township,Secretary of State,,Republican,"Kobach, Kris",43,000060
+BARBER,Kiowa East Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",54,000070
+BARBER,Kiowa East Township,Secretary of State,,Republican,"Kobach, Kris",201,000070
+BARBER,Kiowa West Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",58,000080
+BARBER,Kiowa West Township,Secretary of State,,Republican,"Kobach, Kris",110,000080
+BARBER,Lake City Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000090
+BARBER,Lake City Township,Secretary of State,,Republican,"Kobach, Kris",21,000090
+BARBER,McAdoo Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000100
+BARBER,McAdoo Township,Secretary of State,,Republican,"Kobach, Kris",6,000100
+BARBER,Medicine Lodge Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",87,000110
+BARBER,Medicine Lodge Precinct 1,Secretary of State,,Republican,"Kobach, Kris",188,000110
+BARBER,Medicine Lodge Precinct 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",66,00012A
+BARBER,Medicine Lodge Precinct 2,Secretary of State,,Republican,"Kobach, Kris",138,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,Secretary of State,,Republican,"Kobach, Kris",0,00012B
+BARBER,Medicine Lodge Precinct 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",39,000130
+BARBER,Medicine Lodge Precinct 3,Secretary of State,,Republican,"Kobach, Kris",102,000130
+BARBER,Medicine Lodge Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000140
+BARBER,Medicine Lodge Precinct 4,Secretary of State,,Republican,"Kobach, Kris",87,000140
+BARBER,Medicine Lodge Precinct 5,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000150
+BARBER,Medicine Lodge Precinct 5,Secretary of State,,Republican,"Kobach, Kris",22,000150
+BARBER,Mingona Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,000160
+BARBER,Mingona Township,Secretary of State,,Republican,"Kobach, Kris",24,000160
+BARBER,Moore Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000170
+BARBER,Moore Township,Secretary of State,,Republican,"Kobach, Kris",8,000170
+BARBER,Nippawalla Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000180
+BARBER,Nippawalla Township,Secretary of State,,Republican,"Kobach, Kris",14,000180
+BARBER,Sun City Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000210
+BARBER,Sun City Township,Secretary of State,,Republican,"Kobach, Kris",18,000210
+BARBER,Turkey Creek Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000220
+BARBER,Turkey Creek Township,Secretary of State,,Republican,"Kobach, Kris",6,000220
+BARBER,Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000230
+BARBER,Valley Township,Secretary of State,,Republican,"Kobach, Kris",50,000230
+BARBER,Sharon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,130010
+BARBER,Sharon Township,Secretary of State,,Republican,"Kobach, Kris",114,130010
+BARBER,Aetna Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000010
+BARBER,Aetna Township,State Treasurer,,Republican,"Estes, Ron",4,000010
+BARBER,Deerhead Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000020
+BARBER,Deerhead Township,State Treasurer,,Republican,"Estes, Ron",5,000020
+BARBER,Eagle Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000030
+BARBER,Eagle Township,State Treasurer,,Republican,"Estes, Ron",13,000030
+BARBER,Elm Mills Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000040
+BARBER,Elm Mills Township,State Treasurer,,Republican,"Estes, Ron",51,000040
+BARBER,Elwood Township,State Treasurer,,Democratic,"Alldritt, Carmen",12,000050
+BARBER,Elwood Township,State Treasurer,,Republican,"Estes, Ron",53,000050
+BARBER,Hazelton Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000060
+BARBER,Hazelton Township,State Treasurer,,Republican,"Estes, Ron",48,000060
+BARBER,Kiowa East Township,State Treasurer,,Democratic,"Alldritt, Carmen",37,000070
+BARBER,Kiowa East Township,State Treasurer,,Republican,"Estes, Ron",212,000070
+BARBER,Kiowa West Township,State Treasurer,,Democratic,"Alldritt, Carmen",46,000080
+BARBER,Kiowa West Township,State Treasurer,,Republican,"Estes, Ron",121,000080
+BARBER,Lake City Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000090
+BARBER,Lake City Township,State Treasurer,,Republican,"Estes, Ron",21,000090
+BARBER,McAdoo Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000100
+BARBER,McAdoo Township,State Treasurer,,Republican,"Estes, Ron",7,000100
+BARBER,Medicine Lodge Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",63,000110
+BARBER,Medicine Lodge Precinct 1,State Treasurer,,Republican,"Estes, Ron",209,000110
+BARBER,Medicine Lodge Precinct 2,State Treasurer,,Democratic,"Alldritt, Carmen",44,00012A
+BARBER,Medicine Lodge Precinct 2,State Treasurer,,Republican,"Estes, Ron",157,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,State Treasurer,,Republican,"Estes, Ron",0,00012B
+BARBER,Medicine Lodge Precinct 3,State Treasurer,,Democratic,"Alldritt, Carmen",25,000130
+BARBER,Medicine Lodge Precinct 3,State Treasurer,,Republican,"Estes, Ron",114,000130
+BARBER,Medicine Lodge Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",19,000140
+BARBER,Medicine Lodge Precinct 4,State Treasurer,,Republican,"Estes, Ron",94,000140
+BARBER,Medicine Lodge Precinct 5,State Treasurer,,Democratic,"Alldritt, Carmen",4,000150
+BARBER,Medicine Lodge Precinct 5,State Treasurer,,Republican,"Estes, Ron",23,000150
+BARBER,Mingona Township,State Treasurer,,Democratic,"Alldritt, Carmen",9,000160
+BARBER,Mingona Township,State Treasurer,,Republican,"Estes, Ron",23,000160
+BARBER,Moore Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000170
+BARBER,Moore Township,State Treasurer,,Republican,"Estes, Ron",9,000170
+BARBER,Nippawalla Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000180
+BARBER,Nippawalla Township,State Treasurer,,Republican,"Estes, Ron",13,000180
+BARBER,Sun City Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000210
+BARBER,Sun City Township,State Treasurer,,Republican,"Estes, Ron",18,000210
+BARBER,Turkey Creek Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000220
+BARBER,Turkey Creek Township,State Treasurer,,Republican,"Estes, Ron",5,000220
+BARBER,Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000230
+BARBER,Valley Township,State Treasurer,,Republican,"Estes, Ron",50,000230
+BARBER,Sharon Township,State Treasurer,,Democratic,"Alldritt, Carmen",26,130010
+BARBER,Sharon Township,State Treasurer,,Republican,"Estes, Ron",120,130010
+BARBER,Aetna Township,U.S. Senate,,independent,"Orman, Greg",0,000010
+BARBER,Aetna Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000010
+BARBER,Aetna Township,U.S. Senate,,Republican,"Roberts, Pat",4,000010
+BARBER,Deerhead Township,U.S. Senate,,independent,"Orman, Greg",0,000020
+BARBER,Deerhead Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000020
+BARBER,Deerhead Township,U.S. Senate,,Republican,"Roberts, Pat",5,000020
+BARBER,Eagle Township,U.S. Senate,,independent,"Orman, Greg",0,000030
+BARBER,Eagle Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000030
+BARBER,Eagle Township,U.S. Senate,,Republican,"Roberts, Pat",14,000030
+BARBER,Elm Mills Township,U.S. Senate,,independent,"Orman, Greg",18,000040
+BARBER,Elm Mills Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000040
+BARBER,Elm Mills Township,U.S. Senate,,Republican,"Roberts, Pat",39,000040
+BARBER,Elwood Township,U.S. Senate,,independent,"Orman, Greg",18,000050
+BARBER,Elwood Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000050
+BARBER,Elwood Township,U.S. Senate,,Republican,"Roberts, Pat",40,000050
+BARBER,Hazelton Township,U.S. Senate,,independent,"Orman, Greg",22,000060
+BARBER,Hazelton Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000060
+BARBER,Hazelton Township,U.S. Senate,,Republican,"Roberts, Pat",42,000060
+BARBER,Kiowa East Township,U.S. Senate,,independent,"Orman, Greg",51,000070
+BARBER,Kiowa East Township,U.S. Senate,,Libertarian,"Batson, Randall",10,000070
+BARBER,Kiowa East Township,U.S. Senate,,Republican,"Roberts, Pat",186,000070
+BARBER,Kiowa West Township,U.S. Senate,,independent,"Orman, Greg",51,000080
+BARBER,Kiowa West Township,U.S. Senate,,Libertarian,"Batson, Randall",9,000080
+BARBER,Kiowa West Township,U.S. Senate,,Republican,"Roberts, Pat",108,000080
+BARBER,Lake City Township,U.S. Senate,,independent,"Orman, Greg",7,000090
+BARBER,Lake City Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000090
+BARBER,Lake City Township,U.S. Senate,,Republican,"Roberts, Pat",21,000090
+BARBER,McAdoo Township,U.S. Senate,,independent,"Orman, Greg",2,000100
+BARBER,McAdoo Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000100
+BARBER,McAdoo Township,U.S. Senate,,Republican,"Roberts, Pat",7,000100
+BARBER,Medicine Lodge Precinct 1,U.S. Senate,,independent,"Orman, Greg",87,000110
+BARBER,Medicine Lodge Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",9,000110
+BARBER,Medicine Lodge Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",171,000110
+BARBER,Medicine Lodge Precinct 2,U.S. Senate,,independent,"Orman, Greg",56,00012A
+BARBER,Medicine Lodge Precinct 2,U.S. Senate,,Libertarian,"Batson, Randall",7,00012A
+BARBER,Medicine Lodge Precinct 2,U.S. Senate,,Republican,"Roberts, Pat",140,00012A
+BARBER,Medicine Lodge Precinct 2 Exclave,U.S. Senate,,independent,"Orman, Greg",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00012B
+BARBER,Medicine Lodge Precinct 2 Exclave,U.S. Senate,,Republican,"Roberts, Pat",0,00012B
+BARBER,Medicine Lodge Precinct 3,U.S. Senate,,independent,"Orman, Greg",46,000130
+BARBER,Medicine Lodge Precinct 3,U.S. Senate,,Libertarian,"Batson, Randall",1,000130
+BARBER,Medicine Lodge Precinct 3,U.S. Senate,,Republican,"Roberts, Pat",90,000130
+BARBER,Medicine Lodge Precinct 4,U.S. Senate,,independent,"Orman, Greg",20,000140
+BARBER,Medicine Lodge Precinct 4,U.S. Senate,,Libertarian,"Batson, Randall",5,000140
+BARBER,Medicine Lodge Precinct 4,U.S. Senate,,Republican,"Roberts, Pat",90,000140
+BARBER,Medicine Lodge Precinct 5,U.S. Senate,,independent,"Orman, Greg",9,000150
+BARBER,Medicine Lodge Precinct 5,U.S. Senate,,Libertarian,"Batson, Randall",1,000150
+BARBER,Medicine Lodge Precinct 5,U.S. Senate,,Republican,"Roberts, Pat",16,000150
+BARBER,Mingona Township,U.S. Senate,,independent,"Orman, Greg",12,000160
+BARBER,Mingona Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000160
+BARBER,Mingona Township,U.S. Senate,,Republican,"Roberts, Pat",22,000160
+BARBER,Moore Township,U.S. Senate,,independent,"Orman, Greg",5,000170
+BARBER,Moore Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000170
+BARBER,Moore Township,U.S. Senate,,Republican,"Roberts, Pat",8,000170
+BARBER,Nippawalla Township,U.S. Senate,,independent,"Orman, Greg",1,000180
+BARBER,Nippawalla Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000180
+BARBER,Nippawalla Township,U.S. Senate,,Republican,"Roberts, Pat",15,000180
+BARBER,Sun City Township,U.S. Senate,,independent,"Orman, Greg",1,000210
+BARBER,Sun City Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000210
+BARBER,Sun City Township,U.S. Senate,,Republican,"Roberts, Pat",18,000210
+BARBER,Turkey Creek Township,U.S. Senate,,independent,"Orman, Greg",5,000220
+BARBER,Turkey Creek Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000220
+BARBER,Turkey Creek Township,U.S. Senate,,Republican,"Roberts, Pat",4,000220
+BARBER,Valley Township,U.S. Senate,,independent,"Orman, Greg",9,000230
+BARBER,Valley Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000230
+BARBER,Valley Township,U.S. Senate,,Republican,"Roberts, Pat",46,000230
+BARBER,Sharon Township,U.S. Senate,,independent,"Orman, Greg",27,130010
+BARBER,Sharon Township,U.S. Senate,,Libertarian,"Batson, Randall",8,130010
+BARBER,Sharon Township,U.S. Senate,,Republican,"Roberts, Pat",110,130010

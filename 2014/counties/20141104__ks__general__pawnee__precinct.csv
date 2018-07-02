@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes,vtd
+PAWNEE,Ash Valley Township,Governor,,Democratic,"Davis, Paul",17,000010
+PAWNEE,Ash Valley Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000010
+PAWNEE,Ash Valley Township,Governor,,Republican,"Brownback, Sam",12,000010
+PAWNEE,Conkling Township,Governor,,Democratic,"Davis, Paul",5,000030
+PAWNEE,Conkling Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000030
+PAWNEE,Conkling Township,Governor,,Republican,"Brownback, Sam",5,000030
+PAWNEE,Garfield Township,Governor,,Democratic,"Davis, Paul",26,000040
+PAWNEE,Garfield Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000040
+PAWNEE,Garfield Township,Governor,,Republican,"Brownback, Sam",42,000040
+PAWNEE,Keysville Township,Governor,,Democratic,"Davis, Paul",5,000060
+PAWNEE,Keysville Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000060
+PAWNEE,Keysville Township,Governor,,Republican,"Brownback, Sam",13,000060
+PAWNEE,Larned Township,Governor,,Democratic,"Davis, Paul",49,000070
+PAWNEE,Larned Township,Governor,,Libertarian,"Umbehr, Keen A.",5,000070
+PAWNEE,Larned Township,Governor,,Republican,"Brownback, Sam",72,000070
+PAWNEE,Larned Ward 1,Governor,,Democratic,"Davis, Paul",139,000080
+PAWNEE,Larned Ward 1,Governor,,Libertarian,"Umbehr, Keen A.",13,000080
+PAWNEE,Larned Ward 1,Governor,,Republican,"Brownback, Sam",120,000080
+PAWNEE,Larned Ward 2,Governor,,Democratic,"Davis, Paul",207,000090
+PAWNEE,Larned Ward 2,Governor,,Libertarian,"Umbehr, Keen A.",20,000090
+PAWNEE,Larned Ward 2,Governor,,Republican,"Brownback, Sam",182,000090
+PAWNEE,Larned Ward 3,Governor,,Democratic,"Davis, Paul",199,000100
+PAWNEE,Larned Ward 3,Governor,,Libertarian,"Umbehr, Keen A.",9,000100
+PAWNEE,Larned Ward 3,Governor,,Republican,"Brownback, Sam",221,000100
+PAWNEE,Larned Ward 4,Governor,,Democratic,"Davis, Paul",104,000110
+PAWNEE,Larned Ward 4,Governor,,Libertarian,"Umbehr, Keen A.",9,000110
+PAWNEE,Larned Ward 4,Governor,,Republican,"Brownback, Sam",72,000110
+PAWNEE,Lincoln Township,Governor,,Democratic,"Davis, Paul",2,000120
+PAWNEE,Lincoln Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000120
+PAWNEE,Lincoln Township,Governor,,Republican,"Brownback, Sam",9,000120
+PAWNEE,Logan Township,Governor,,Democratic,"Davis, Paul",2,000130
+PAWNEE,Logan Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000130
+PAWNEE,Logan Township,Governor,,Republican,"Brownback, Sam",23,000130
+PAWNEE,Morton Township,Governor,,Democratic,"Davis, Paul",8,000140
+PAWNEE,Morton Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000140
+PAWNEE,Morton Township,Governor,,Republican,"Brownback, Sam",17,000140
+PAWNEE,Orange Township,Governor,,Democratic,"Davis, Paul",6,000150
+PAWNEE,Orange Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000150
+PAWNEE,Orange Township,Governor,,Republican,"Brownback, Sam",11,000150
+PAWNEE,Pawnee Township,Governor,,Democratic,"Davis, Paul",16,000160
+PAWNEE,Pawnee Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000160
+PAWNEE,Pawnee Township,Governor,,Republican,"Brownback, Sam",20,000160
+PAWNEE,Pleasant Grove Township,Governor,,Democratic,"Davis, Paul",23,00017A
+PAWNEE,Pleasant Grove Township,Governor,,Libertarian,"Umbehr, Keen A.",2,00017A
+PAWNEE,Pleasant Grove Township,Governor,,Republican,"Brownback, Sam",39,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,Governor,,Democratic,"Davis, Paul",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,Governor,,Republican,"Brownback, Sam",0,00017B
+PAWNEE,Pleasant Ridge Township,Governor,,Democratic,"Davis, Paul",7,000180
+PAWNEE,Pleasant Ridge Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000180
+PAWNEE,Pleasant Ridge Township,Governor,,Republican,"Brownback, Sam",9,000180
+PAWNEE,Pleasant Valley Township,Governor,,Democratic,"Davis, Paul",10,000190
+PAWNEE,Pleasant Valley Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000190
+PAWNEE,Pleasant Valley Township,Governor,,Republican,"Brownback, Sam",28,000190
+PAWNEE,River Township,Governor,,Democratic,"Davis, Paul",5,000200
+PAWNEE,River Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000200
+PAWNEE,River Township,Governor,,Republican,"Brownback, Sam",22,000200
+PAWNEE,Santa Fe Township,Governor,,Democratic,"Davis, Paul",27,000210
+PAWNEE,Santa Fe Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000210
+PAWNEE,Santa Fe Township,Governor,,Republican,"Brownback, Sam",22,000210
+PAWNEE,Sawmill Township,Governor,,Democratic,"Davis, Paul",3,000220
+PAWNEE,Sawmill Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000220
+PAWNEE,Sawmill Township,Governor,,Republican,"Brownback, Sam",8,000220
+PAWNEE,Shiley Township,Governor,,Democratic,"Davis, Paul",0,000230
+PAWNEE,Shiley Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000230
+PAWNEE,Shiley Township,Governor,,Republican,"Brownback, Sam",15,000230
+PAWNEE,Valley Center Township,Governor,,Democratic,"Davis, Paul",1,000240
+PAWNEE,Valley Center Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000240
+PAWNEE,Valley Center Township,Governor,,Republican,"Brownback, Sam",13,000240
+PAWNEE,Walnut Township,Governor,,Democratic,"Davis, Paul",12,000250
+PAWNEE,Walnut Township,Governor,,Libertarian,"Umbehr, Keen A.",4,000250
+PAWNEE,Walnut Township,Governor,,Republican,"Brownback, Sam",15,000250
+PAWNEE,Browns Grove Township C1,Governor,,Democratic,"Davis, Paul",40,120020
+PAWNEE,Browns Grove Township C1,Governor,,Libertarian,"Umbehr, Keen A.",7,120020
+PAWNEE,Browns Grove Township C1,Governor,,Republican,"Brownback, Sam",69,120020
+PAWNEE,Browns Grove Township C4,Governor,,Democratic,"Davis, Paul",1,120030
+PAWNEE,Browns Grove Township C4,Governor,,Libertarian,"Umbehr, Keen A.",0,120030
+PAWNEE,Browns Grove Township C4,Governor,,Republican,"Brownback, Sam",1,120030
+PAWNEE,Grant Township C1,Governor,,Democratic,"Davis, Paul",23,120040
+PAWNEE,Grant Township C1,Governor,,Libertarian,"Umbehr, Keen A.",2,120040
+PAWNEE,Grant Township C1,Governor,,Republican,"Brownback, Sam",55,120040
+PAWNEE,Grant Township C4,Governor,,Democratic,"Davis, Paul",1,120050
+PAWNEE,Grant Township C4,Governor,,Libertarian,"Umbehr, Keen A.",0,120050
+PAWNEE,Grant Township C4,Governor,,Republican,"Brownback, Sam",11,120050
+PAWNEE,Ash Valley Township,State House,117,Republican,"Ewy, John L.",19,000010
+PAWNEE,Conkling Township,State House,117,Republican,"Ewy, John L.",9,000030
+PAWNEE,Garfield Township,State House,117,Republican,"Ewy, John L.",60,000040
+PAWNEE,Keysville Township,State House,117,Republican,"Ewy, John L.",16,000060
+PAWNEE,Larned Township,State House,117,Republican,"Ewy, John L.",115,000070
+PAWNEE,Larned Ward 1,State House,117,Republican,"Ewy, John L.",234,000080
+PAWNEE,Larned Ward 2,State House,117,Republican,"Ewy, John L.",377,000090
+PAWNEE,Larned Ward 3,State House,117,Republican,"Ewy, John L.",368,000100
+PAWNEE,Larned Ward 4,State House,117,Republican,"Ewy, John L.",164,000110
+PAWNEE,Lincoln Township,State House,117,Republican,"Ewy, John L.",11,000120
+PAWNEE,Logan Township,State House,113,Republican,"Dannebohm, Jeremy ""Basil""",22,000130
+PAWNEE,Morton Township,State House,117,Republican,"Ewy, John L.",25,000140
+PAWNEE,Orange Township,State House,117,Republican,"Ewy, John L.",18,000150
+PAWNEE,Pawnee Township,State House,117,Republican,"Ewy, John L.",32,000160
+PAWNEE,Pleasant Grove Township,State House,117,Republican,"Ewy, John L.",60,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,State House,117,Republican,"Ewy, John L.",0,00017B
+PAWNEE,Pleasant Ridge Township,State House,117,Republican,"Ewy, John L.",15,000180
+PAWNEE,Pleasant Valley Township,State House,117,Republican,"Ewy, John L.",37,000190
+PAWNEE,River Township,State House,113,Republican,"Dannebohm, Jeremy ""Basil""",28,000200
+PAWNEE,Santa Fe Township,State House,117,Republican,"Ewy, John L.",41,000210
+PAWNEE,Sawmill Township,State House,117,Republican,"Ewy, John L.",10,000220
+PAWNEE,Shiley Township,State House,117,Republican,"Ewy, John L.",13,000230
+PAWNEE,Valley Center Township,State House,113,Republican,"Dannebohm, Jeremy ""Basil""",15,000240
+PAWNEE,Walnut Township,State House,117,Republican,"Ewy, John L.",27,000250
+PAWNEE,Browns Grove Township C1,State House,117,Republican,"Ewy, John L.",108,120020
+PAWNEE,Browns Grove Township C4,State House,117,Republican,"Ewy, John L.",2,120030
+PAWNEE,Grant Township C1,State House,117,Republican,"Ewy, John L.",78,120040
+PAWNEE,Grant Township C4,State House,117,Republican,"Ewy, John L.",12,120050
+PAWNEE,Ash Valley Township,U.S. House,1,Democratic,"Sherow, James E.",16,000010
+PAWNEE,Ash Valley Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000010
+PAWNEE,Conkling Township,U.S. House,1,Democratic,"Sherow, James E.",3,000030
+PAWNEE,Conkling Township,U.S. House,1,Republican,"Huelskamp, Tim",7,000030
+PAWNEE,Garfield Township,U.S. House,4,Democratic,"Schuckman, Perry L.",14,000040
+PAWNEE,Garfield Township,U.S. House,4,Republican,"Pompeo, Mike",54,000040
+PAWNEE,Keysville Township,U.S. House,4,Democratic,"Schuckman, Perry L.",4,000060
+PAWNEE,Keysville Township,U.S. House,4,Republican,"Pompeo, Mike",14,000060
+PAWNEE,Larned Township,U.S. House,1,Democratic,"Sherow, James E.",36,000070
+PAWNEE,Larned Township,U.S. House,1,Republican,"Huelskamp, Tim",90,000070
+PAWNEE,Larned Ward 1,U.S. House,1,Democratic,"Sherow, James E.",86,000080
+PAWNEE,Larned Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",185,000080
+PAWNEE,Larned Ward 2,U.S. House,1,Democratic,"Sherow, James E.",138,000090
+PAWNEE,Larned Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",278,000090
+PAWNEE,Larned Ward 3,U.S. House,1,Democratic,"Sherow, James E.",134,000100
+PAWNEE,Larned Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",290,000100
+PAWNEE,Larned Ward 4,U.S. House,1,Democratic,"Sherow, James E.",85,000110
+PAWNEE,Larned Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",106,000110
+PAWNEE,Lincoln Township,U.S. House,1,Democratic,"Sherow, James E.",1,000120
+PAWNEE,Lincoln Township,U.S. House,1,Republican,"Huelskamp, Tim",10,000120
+PAWNEE,Logan Township,U.S. House,1,Democratic,"Sherow, James E.",1,000130
+PAWNEE,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",24,000130
+PAWNEE,Morton Township,U.S. House,1,Democratic,"Sherow, James E.",6,000140
+PAWNEE,Morton Township,U.S. House,1,Republican,"Huelskamp, Tim",20,000140
+PAWNEE,Orange Township,U.S. House,1,Democratic,"Sherow, James E.",5,000150
+PAWNEE,Orange Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000150
+PAWNEE,Pawnee Township,U.S. House,1,Democratic,"Sherow, James E.",11,000160
+PAWNEE,Pawnee Township,U.S. House,1,Republican,"Huelskamp, Tim",24,000160
+PAWNEE,Pleasant Grove Township,U.S. House,1,Democratic,"Sherow, James E.",14,00017A
+PAWNEE,Pleasant Grove Township,U.S. House,1,Republican,"Huelskamp, Tim",49,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,U.S. House,1,Democratic,"Sherow, James E.",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00017B
+PAWNEE,Pleasant Ridge Township,U.S. House,4,Democratic,"Schuckman, Perry L.",4,000180
+PAWNEE,Pleasant Ridge Township,U.S. House,4,Republican,"Pompeo, Mike",13,000180
+PAWNEE,Pleasant Valley Township,U.S. House,1,Democratic,"Sherow, James E.",4,000190
+PAWNEE,Pleasant Valley Township,U.S. House,1,Republican,"Huelskamp, Tim",34,000190
+PAWNEE,River Township,U.S. House,1,Democratic,"Sherow, James E.",2,000200
+PAWNEE,River Township,U.S. House,1,Republican,"Huelskamp, Tim",26,000200
+PAWNEE,Santa Fe Township,U.S. House,1,Democratic,"Sherow, James E.",24,000210
+PAWNEE,Santa Fe Township,U.S. House,1,Republican,"Huelskamp, Tim",29,000210
+PAWNEE,Sawmill Township,U.S. House,4,Democratic,"Schuckman, Perry L.",3,000220
+PAWNEE,Sawmill Township,U.S. House,4,Republican,"Pompeo, Mike",9,000220
+PAWNEE,Shiley Township,U.S. House,1,Democratic,"Sherow, James E.",1,000230
+PAWNEE,Shiley Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000230
+PAWNEE,Valley Center Township,U.S. House,1,Democratic,"Sherow, James E.",3,000240
+PAWNEE,Valley Center Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000240
+PAWNEE,Walnut Township,U.S. House,1,Democratic,"Sherow, James E.",10,000250
+PAWNEE,Walnut Township,U.S. House,1,Republican,"Huelskamp, Tim",21,000250
+PAWNEE,Browns Grove Township C1,U.S. House,1,Democratic,"Sherow, James E.",32,120020
+PAWNEE,Browns Grove Township C1,U.S. House,1,Republican,"Huelskamp, Tim",84,120020
+PAWNEE,Browns Grove Township C4,U.S. House,4,Democratic,"Schuckman, Perry L.",0,120030
+PAWNEE,Browns Grove Township C4,U.S. House,4,Republican,"Pompeo, Mike",2,120030
+PAWNEE,Grant Township C1,U.S. House,1,Democratic,"Sherow, James E.",20,120040
+PAWNEE,Grant Township C1,U.S. House,1,Republican,"Huelskamp, Tim",61,120040
+PAWNEE,Grant Township C4,U.S. House,4,Democratic,"Schuckman, Perry L.",1,120050
+PAWNEE,Grant Township C4,U.S. House,4,Republican,"Pompeo, Mike",11,120050
+PAWNEE,Ash Valley Township,Attorney General,,Democratic,"Kotich, A.J.",13,000010
+PAWNEE,Ash Valley Township,Attorney General,,Republican,"Schmidt, Derek",16,000010
+PAWNEE,Conkling Township,Attorney General,,Democratic,"Kotich, A.J.",0,000030
+PAWNEE,Conkling Township,Attorney General,,Republican,"Schmidt, Derek",10,000030
+PAWNEE,Garfield Township,Attorney General,,Democratic,"Kotich, A.J.",16,000040
+PAWNEE,Garfield Township,Attorney General,,Republican,"Schmidt, Derek",52,000040
+PAWNEE,Keysville Township,Attorney General,,Democratic,"Kotich, A.J.",4,000060
+PAWNEE,Keysville Township,Attorney General,,Republican,"Schmidt, Derek",13,000060
+PAWNEE,Larned Township,Attorney General,,Democratic,"Kotich, A.J.",24,000070
+PAWNEE,Larned Township,Attorney General,,Republican,"Schmidt, Derek",103,000070
+PAWNEE,Larned Ward 1,Attorney General,,Democratic,"Kotich, A.J.",68,000080
+PAWNEE,Larned Ward 1,Attorney General,,Republican,"Schmidt, Derek",201,000080
+PAWNEE,Larned Ward 2,Attorney General,,Democratic,"Kotich, A.J.",73,000090
+PAWNEE,Larned Ward 2,Attorney General,,Republican,"Schmidt, Derek",336,000090
+PAWNEE,Larned Ward 3,Attorney General,,Democratic,"Kotich, A.J.",83,000100
+PAWNEE,Larned Ward 3,Attorney General,,Republican,"Schmidt, Derek",339,000100
+PAWNEE,Larned Ward 4,Attorney General,,Democratic,"Kotich, A.J.",65,000110
+PAWNEE,Larned Ward 4,Attorney General,,Republican,"Schmidt, Derek",125,000110
+PAWNEE,Lincoln Township,Attorney General,,Democratic,"Kotich, A.J.",1,000120
+PAWNEE,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",10,000120
+PAWNEE,Logan Township,Attorney General,,Democratic,"Kotich, A.J.",0,000130
+PAWNEE,Logan Township,Attorney General,,Republican,"Schmidt, Derek",25,000130
+PAWNEE,Morton Township,Attorney General,,Democratic,"Kotich, A.J.",4,000140
+PAWNEE,Morton Township,Attorney General,,Republican,"Schmidt, Derek",22,000140
+PAWNEE,Orange Township,Attorney General,,Democratic,"Kotich, A.J.",5,000150
+PAWNEE,Orange Township,Attorney General,,Republican,"Schmidt, Derek",13,000150
+PAWNEE,Pawnee Township,Attorney General,,Democratic,"Kotich, A.J.",8,000160
+PAWNEE,Pawnee Township,Attorney General,,Republican,"Schmidt, Derek",27,000160
+PAWNEE,Pleasant Grove Township,Attorney General,,Democratic,"Kotich, A.J.",14,00017A
+PAWNEE,Pleasant Grove Township,Attorney General,,Republican,"Schmidt, Derek",48,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+PAWNEE,Pleasant Ridge Township,Attorney General,,Democratic,"Kotich, A.J.",4,000180
+PAWNEE,Pleasant Ridge Township,Attorney General,,Republican,"Schmidt, Derek",13,000180
+PAWNEE,Pleasant Valley Township,Attorney General,,Democratic,"Kotich, A.J.",3,000190
+PAWNEE,Pleasant Valley Township,Attorney General,,Republican,"Schmidt, Derek",33,000190
+PAWNEE,River Township,Attorney General,,Democratic,"Kotich, A.J.",1,000200
+PAWNEE,River Township,Attorney General,,Republican,"Schmidt, Derek",27,000200
+PAWNEE,Santa Fe Township,Attorney General,,Democratic,"Kotich, A.J.",22,000210
+PAWNEE,Santa Fe Township,Attorney General,,Republican,"Schmidt, Derek",33,000210
+PAWNEE,Sawmill Township,Attorney General,,Democratic,"Kotich, A.J.",1,000220
+PAWNEE,Sawmill Township,Attorney General,,Republican,"Schmidt, Derek",11,000220
+PAWNEE,Shiley Township,Attorney General,,Democratic,"Kotich, A.J.",2,000230
+PAWNEE,Shiley Township,Attorney General,,Republican,"Schmidt, Derek",13,000230
+PAWNEE,Valley Center Township,Attorney General,,Democratic,"Kotich, A.J.",1,000240
+PAWNEE,Valley Center Township,Attorney General,,Republican,"Schmidt, Derek",14,000240
+PAWNEE,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",7,000250
+PAWNEE,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",24,000250
+PAWNEE,Browns Grove Township C1,Attorney General,,Democratic,"Kotich, A.J.",16,120020
+PAWNEE,Browns Grove Township C1,Attorney General,,Republican,"Schmidt, Derek",94,120020
+PAWNEE,Browns Grove Township C4,Attorney General,,Democratic,"Kotich, A.J.",0,120030
+PAWNEE,Browns Grove Township C4,Attorney General,,Republican,"Schmidt, Derek",2,120030
+PAWNEE,Grant Township C1,Attorney General,,Democratic,"Kotich, A.J.",9,120040
+PAWNEE,Grant Township C1,Attorney General,,Republican,"Schmidt, Derek",71,120040
+PAWNEE,Grant Township C4,Attorney General,,Democratic,"Kotich, A.J.",0,120050
+PAWNEE,Grant Township C4,Attorney General,,Republican,"Schmidt, Derek",12,120050
+PAWNEE,Ash Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",15,000010
+PAWNEE,Ash Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000010
+PAWNEE,Conkling Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000030
+PAWNEE,Conkling Township,Commissioner of Insurance,,Republican,"Selzer, Ken",7,000030
+PAWNEE,Garfield Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000040
+PAWNEE,Garfield Township,Commissioner of Insurance,,Republican,"Selzer, Ken",49,000040
+PAWNEE,Keysville Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000060
+PAWNEE,Keysville Township,Commissioner of Insurance,,Republican,"Selzer, Ken",11,000060
+PAWNEE,Larned Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",31,000070
+PAWNEE,Larned Township,Commissioner of Insurance,,Republican,"Selzer, Ken",95,000070
+PAWNEE,Larned Ward 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",76,000080
+PAWNEE,Larned Ward 1,Commissioner of Insurance,,Republican,"Selzer, Ken",187,000080
+PAWNEE,Larned Ward 2,Commissioner of Insurance,,Democratic,"Anderson, Dennis",127,000090
+PAWNEE,Larned Ward 2,Commissioner of Insurance,,Republican,"Selzer, Ken",274,000090
+PAWNEE,Larned Ward 3,Commissioner of Insurance,,Democratic,"Anderson, Dennis",112,000100
+PAWNEE,Larned Ward 3,Commissioner of Insurance,,Republican,"Selzer, Ken",294,000100
+PAWNEE,Larned Ward 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",78,000110
+PAWNEE,Larned Ward 4,Commissioner of Insurance,,Republican,"Selzer, Ken",109,000110
+PAWNEE,Lincoln Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",2,000120
+PAWNEE,Lincoln Township,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000120
+PAWNEE,Logan Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000130
+PAWNEE,Logan Township,Commissioner of Insurance,,Republican,"Selzer, Ken",24,000130
+PAWNEE,Morton Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",4,000140
+PAWNEE,Morton Township,Commissioner of Insurance,,Republican,"Selzer, Ken",21,000140
+PAWNEE,Orange Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000150
+PAWNEE,Orange Township,Commissioner of Insurance,,Republican,"Selzer, Ken",12,000150
+PAWNEE,Pawnee Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",11,000160
+PAWNEE,Pawnee Township,Commissioner of Insurance,,Republican,"Selzer, Ken",22,000160
+PAWNEE,Pleasant Grove Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",15,00017A
+PAWNEE,Pleasant Grove Township,Commissioner of Insurance,,Republican,"Selzer, Ken",46,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+PAWNEE,Pleasant Ridge Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000180
+PAWNEE,Pleasant Ridge Township,Commissioner of Insurance,,Republican,"Selzer, Ken",10,000180
+PAWNEE,Pleasant Valley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,000190
+PAWNEE,Pleasant Valley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",29,000190
+PAWNEE,River Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000200
+PAWNEE,River Township,Commissioner of Insurance,,Republican,"Selzer, Ken",27,000200
+PAWNEE,Santa Fe Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",23,000210
+PAWNEE,Santa Fe Township,Commissioner of Insurance,,Republican,"Selzer, Ken",30,000210
+PAWNEE,Sawmill Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",3,000220
+PAWNEE,Sawmill Township,Commissioner of Insurance,,Republican,"Selzer, Ken",9,000220
+PAWNEE,Shiley Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000230
+PAWNEE,Shiley Township,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000230
+PAWNEE,Valley Center Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000240
+PAWNEE,Valley Center Township,Commissioner of Insurance,,Republican,"Selzer, Ken",14,000240
+PAWNEE,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",10,000250
+PAWNEE,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",19,000250
+PAWNEE,Browns Grove Township C1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",29,120020
+PAWNEE,Browns Grove Township C1,Commissioner of Insurance,,Republican,"Selzer, Ken",81,120020
+PAWNEE,Browns Grove Township C4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120030
+PAWNEE,Browns Grove Township C4,Commissioner of Insurance,,Republican,"Selzer, Ken",2,120030
+PAWNEE,Grant Township C1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",12,120040
+PAWNEE,Grant Township C1,Commissioner of Insurance,,Republican,"Selzer, Ken",67,120040
+PAWNEE,Grant Township C4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,120050
+PAWNEE,Grant Township C4,Commissioner of Insurance,,Republican,"Selzer, Ken",11,120050
+PAWNEE,Ash Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,000010
+PAWNEE,Ash Valley Township,Secretary of State,,Republican,"Kobach, Kris",14,000010
+PAWNEE,Conkling Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000030
+PAWNEE,Conkling Township,Secretary of State,,Republican,"Kobach, Kris",7,000030
+PAWNEE,Garfield Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",19,000040
+PAWNEE,Garfield Township,Secretary of State,,Republican,"Kobach, Kris",49,000040
+PAWNEE,Keysville Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",3,000060
+PAWNEE,Keysville Township,Secretary of State,,Republican,"Kobach, Kris",15,000060
+PAWNEE,Larned Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",44,000070
+PAWNEE,Larned Township,Secretary of State,,Republican,"Kobach, Kris",82,000070
+PAWNEE,Larned Ward 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",91,000080
+PAWNEE,Larned Ward 1,Secretary of State,,Republican,"Kobach, Kris",179,000080
+PAWNEE,Larned Ward 2,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",152,000090
+PAWNEE,Larned Ward 2,Secretary of State,,Republican,"Kobach, Kris",261,000090
+PAWNEE,Larned Ward 3,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",132,000100
+PAWNEE,Larned Ward 3,Secretary of State,,Republican,"Kobach, Kris",294,000100
+PAWNEE,Larned Ward 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",87,000110
+PAWNEE,Larned Ward 4,Secretary of State,,Republican,"Kobach, Kris",103,000110
+PAWNEE,Lincoln Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000120
+PAWNEE,Lincoln Township,Secretary of State,,Republican,"Kobach, Kris",9,000120
+PAWNEE,Logan Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000130
+PAWNEE,Logan Township,Secretary of State,,Republican,"Kobach, Kris",24,000130
+PAWNEE,Morton Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000140
+PAWNEE,Morton Township,Secretary of State,,Republican,"Kobach, Kris",22,000140
+PAWNEE,Orange Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000150
+PAWNEE,Orange Township,Secretary of State,,Republican,"Kobach, Kris",12,000150
+PAWNEE,Pawnee Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,000160
+PAWNEE,Pawnee Township,Secretary of State,,Republican,"Kobach, Kris",24,000160
+PAWNEE,Pleasant Grove Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",17,00017A
+PAWNEE,Pleasant Grove Township,Secretary of State,,Republican,"Kobach, Kris",46,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+PAWNEE,Pleasant Ridge Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000180
+PAWNEE,Pleasant Ridge Township,Secretary of State,,Republican,"Kobach, Kris",10,000180
+PAWNEE,Pleasant Valley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",8,000190
+PAWNEE,Pleasant Valley Township,Secretary of State,,Republican,"Kobach, Kris",31,000190
+PAWNEE,River Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",4,000200
+PAWNEE,River Township,Secretary of State,,Republican,"Kobach, Kris",24,000200
+PAWNEE,Santa Fe Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",23,000210
+PAWNEE,Santa Fe Township,Secretary of State,,Republican,"Kobach, Kris",33,000210
+PAWNEE,Sawmill Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",2,000220
+PAWNEE,Sawmill Township,Secretary of State,,Republican,"Kobach, Kris",10,000220
+PAWNEE,Shiley Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,000230
+PAWNEE,Shiley Township,Secretary of State,,Republican,"Kobach, Kris",15,000230
+PAWNEE,Valley Center Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000240
+PAWNEE,Valley Center Township,Secretary of State,,Republican,"Kobach, Kris",14,000240
+PAWNEE,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",10,000250
+PAWNEE,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",20,000250
+PAWNEE,Browns Grove Township C1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",27,120020
+PAWNEE,Browns Grove Township C1,Secretary of State,,Republican,"Kobach, Kris",85,120020
+PAWNEE,Browns Grove Township C4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120030
+PAWNEE,Browns Grove Township C4,Secretary of State,,Republican,"Kobach, Kris",2,120030
+PAWNEE,Grant Township C1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",18,120040
+PAWNEE,Grant Township C1,Secretary of State,,Republican,"Kobach, Kris",62,120040
+PAWNEE,Grant Township C4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,120050
+PAWNEE,Grant Township C4,Secretary of State,,Republican,"Kobach, Kris",11,120050
+PAWNEE,Ash Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",13,000010
+PAWNEE,Ash Valley Township,State Treasurer,,Republican,"Estes, Ron",16,000010
+PAWNEE,Conkling Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000030
+PAWNEE,Conkling Township,State Treasurer,,Republican,"Estes, Ron",10,000030
+PAWNEE,Garfield Township,State Treasurer,,Democratic,"Alldritt, Carmen",14,000040
+PAWNEE,Garfield Township,State Treasurer,,Republican,"Estes, Ron",51,000040
+PAWNEE,Keysville Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000060
+PAWNEE,Keysville Township,State Treasurer,,Republican,"Estes, Ron",15,000060
+PAWNEE,Larned Township,State Treasurer,,Democratic,"Alldritt, Carmen",22,000070
+PAWNEE,Larned Township,State Treasurer,,Republican,"Estes, Ron",104,000070
+PAWNEE,Larned Ward 1,State Treasurer,,Democratic,"Alldritt, Carmen",68,000080
+PAWNEE,Larned Ward 1,State Treasurer,,Republican,"Estes, Ron",195,000080
+PAWNEE,Larned Ward 2,State Treasurer,,Democratic,"Alldritt, Carmen",87,000090
+PAWNEE,Larned Ward 2,State Treasurer,,Republican,"Estes, Ron",316,000090
+PAWNEE,Larned Ward 3,State Treasurer,,Democratic,"Alldritt, Carmen",80,000100
+PAWNEE,Larned Ward 3,State Treasurer,,Republican,"Estes, Ron",333,000100
+PAWNEE,Larned Ward 4,State Treasurer,,Democratic,"Alldritt, Carmen",62,000110
+PAWNEE,Larned Ward 4,State Treasurer,,Republican,"Estes, Ron",123,000110
+PAWNEE,Lincoln Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000120
+PAWNEE,Lincoln Township,State Treasurer,,Republican,"Estes, Ron",11,000120
+PAWNEE,Logan Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000130
+PAWNEE,Logan Township,State Treasurer,,Republican,"Estes, Ron",25,000130
+PAWNEE,Morton Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000140
+PAWNEE,Morton Township,State Treasurer,,Republican,"Estes, Ron",24,000140
+PAWNEE,Orange Township,State Treasurer,,Democratic,"Alldritt, Carmen",5,000150
+PAWNEE,Orange Township,State Treasurer,,Republican,"Estes, Ron",13,000150
+PAWNEE,Pawnee Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000160
+PAWNEE,Pawnee Township,State Treasurer,,Republican,"Estes, Ron",23,000160
+PAWNEE,Pleasant Grove Township,State Treasurer,,Democratic,"Alldritt, Carmen",13,00017A
+PAWNEE,Pleasant Grove Township,State Treasurer,,Republican,"Estes, Ron",47,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,State Treasurer,,Republican,"Estes, Ron",0,00017B
+PAWNEE,Pleasant Ridge Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000180
+PAWNEE,Pleasant Ridge Township,State Treasurer,,Republican,"Estes, Ron",12,000180
+PAWNEE,Pleasant Valley Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000190
+PAWNEE,Pleasant Valley Township,State Treasurer,,Republican,"Estes, Ron",31,000190
+PAWNEE,River Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000200
+PAWNEE,River Township,State Treasurer,,Republican,"Estes, Ron",26,000200
+PAWNEE,Santa Fe Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000210
+PAWNEE,Santa Fe Township,State Treasurer,,Republican,"Estes, Ron",34,000210
+PAWNEE,Sawmill Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000220
+PAWNEE,Sawmill Township,State Treasurer,,Republican,"Estes, Ron",9,000220
+PAWNEE,Shiley Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000230
+PAWNEE,Shiley Township,State Treasurer,,Republican,"Estes, Ron",15,000230
+PAWNEE,Valley Center Township,State Treasurer,,Democratic,"Alldritt, Carmen",1,000240
+PAWNEE,Valley Center Township,State Treasurer,,Republican,"Estes, Ron",13,000240
+PAWNEE,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",7,000250
+PAWNEE,Walnut Township,State Treasurer,,Republican,"Estes, Ron",23,000250
+PAWNEE,Browns Grove Township C1,State Treasurer,,Democratic,"Alldritt, Carmen",13,120020
+PAWNEE,Browns Grove Township C1,State Treasurer,,Republican,"Estes, Ron",102,120020
+PAWNEE,Browns Grove Township C4,State Treasurer,,Democratic,"Alldritt, Carmen",0,120030
+PAWNEE,Browns Grove Township C4,State Treasurer,,Republican,"Estes, Ron",2,120030
+PAWNEE,Grant Township C1,State Treasurer,,Democratic,"Alldritt, Carmen",11,120040
+PAWNEE,Grant Township C1,State Treasurer,,Republican,"Estes, Ron",68,120040
+PAWNEE,Grant Township C4,State Treasurer,,Democratic,"Alldritt, Carmen",0,120050
+PAWNEE,Grant Township C4,State Treasurer,,Republican,"Estes, Ron",11,120050
+PAWNEE,Ash Valley Township,U.S. Senate,,independent,"Orman, Greg",17,000010
+PAWNEE,Ash Valley Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000010
+PAWNEE,Ash Valley Township,U.S. Senate,,Republican,"Roberts, Pat",12,000010
+PAWNEE,Conkling Township,U.S. Senate,,independent,"Orman, Greg",2,000030
+PAWNEE,Conkling Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000030
+PAWNEE,Conkling Township,U.S. Senate,,Republican,"Roberts, Pat",8,000030
+PAWNEE,Garfield Township,U.S. Senate,,independent,"Orman, Greg",17,000040
+PAWNEE,Garfield Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000040
+PAWNEE,Garfield Township,U.S. Senate,,Republican,"Roberts, Pat",47,000040
+PAWNEE,Keysville Township,U.S. Senate,,independent,"Orman, Greg",5,000060
+PAWNEE,Keysville Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000060
+PAWNEE,Keysville Township,U.S. Senate,,Republican,"Roberts, Pat",13,000060
+PAWNEE,Larned Township,U.S. Senate,,independent,"Orman, Greg",40,000070
+PAWNEE,Larned Township,U.S. Senate,,Libertarian,"Batson, Randall",6,000070
+PAWNEE,Larned Township,U.S. Senate,,Republican,"Roberts, Pat",82,000070
+PAWNEE,Larned Ward 1,U.S. Senate,,independent,"Orman, Greg",103,000080
+PAWNEE,Larned Ward 1,U.S. Senate,,Libertarian,"Batson, Randall",16,000080
+PAWNEE,Larned Ward 1,U.S. Senate,,Republican,"Roberts, Pat",155,000080
+PAWNEE,Larned Ward 2,U.S. Senate,,independent,"Orman, Greg",148,000090
+PAWNEE,Larned Ward 2,U.S. Senate,,Libertarian,"Batson, Randall",16,000090
+PAWNEE,Larned Ward 2,U.S. Senate,,Republican,"Roberts, Pat",249,000090
+PAWNEE,Larned Ward 3,U.S. Senate,,independent,"Orman, Greg",145,000100
+PAWNEE,Larned Ward 3,U.S. Senate,,Libertarian,"Batson, Randall",9,000100
+PAWNEE,Larned Ward 3,U.S. Senate,,Republican,"Roberts, Pat",277,000100
+PAWNEE,Larned Ward 4,U.S. Senate,,independent,"Orman, Greg",90,000110
+PAWNEE,Larned Ward 4,U.S. Senate,,Libertarian,"Batson, Randall",7,000110
+PAWNEE,Larned Ward 4,U.S. Senate,,Republican,"Roberts, Pat",92,000110
+PAWNEE,Lincoln Township,U.S. Senate,,independent,"Orman, Greg",0,000120
+PAWNEE,Lincoln Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000120
+PAWNEE,Lincoln Township,U.S. Senate,,Republican,"Roberts, Pat",10,000120
+PAWNEE,Logan Township,U.S. Senate,,independent,"Orman, Greg",1,000130
+PAWNEE,Logan Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000130
+PAWNEE,Logan Township,U.S. Senate,,Republican,"Roberts, Pat",21,000130
+PAWNEE,Morton Township,U.S. Senate,,independent,"Orman, Greg",5,000140
+PAWNEE,Morton Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000140
+PAWNEE,Morton Township,U.S. Senate,,Republican,"Roberts, Pat",22,000140
+PAWNEE,Orange Township,U.S. Senate,,independent,"Orman, Greg",4,000150
+PAWNEE,Orange Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000150
+PAWNEE,Orange Township,U.S. Senate,,Republican,"Roberts, Pat",10,000150
+PAWNEE,Pawnee Township,U.S. Senate,,independent,"Orman, Greg",12,000160
+PAWNEE,Pawnee Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000160
+PAWNEE,Pawnee Township,U.S. Senate,,Republican,"Roberts, Pat",22,000160
+PAWNEE,Pleasant Grove Township,U.S. Senate,,independent,"Orman, Greg",16,00017A
+PAWNEE,Pleasant Grove Township,U.S. Senate,,Libertarian,"Batson, Randall",5,00017A
+PAWNEE,Pleasant Grove Township,U.S. Senate,,Republican,"Roberts, Pat",43,00017A
+PAWNEE,Pleasant Grove Township Rural Enclave,U.S. Senate,,independent,"Orman, Greg",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00017B
+PAWNEE,Pleasant Grove Township Rural Enclave,U.S. Senate,,Republican,"Roberts, Pat",0,00017B
+PAWNEE,Pleasant Ridge Township,U.S. Senate,,independent,"Orman, Greg",5,000180
+PAWNEE,Pleasant Ridge Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000180
+PAWNEE,Pleasant Ridge Township,U.S. Senate,,Republican,"Roberts, Pat",10,000180
+PAWNEE,Pleasant Valley Township,U.S. Senate,,independent,"Orman, Greg",9,000190
+PAWNEE,Pleasant Valley Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000190
+PAWNEE,Pleasant Valley Township,U.S. Senate,,Republican,"Roberts, Pat",27,000190
+PAWNEE,River Township,U.S. Senate,,independent,"Orman, Greg",3,000200
+PAWNEE,River Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000200
+PAWNEE,River Township,U.S. Senate,,Republican,"Roberts, Pat",25,000200
+PAWNEE,Santa Fe Township,U.S. Senate,,independent,"Orman, Greg",19,000210
+PAWNEE,Santa Fe Township,U.S. Senate,,Libertarian,"Batson, Randall",4,000210
+PAWNEE,Santa Fe Township,U.S. Senate,,Republican,"Roberts, Pat",32,000210
+PAWNEE,Sawmill Township,U.S. Senate,,independent,"Orman, Greg",2,000220
+PAWNEE,Sawmill Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000220
+PAWNEE,Sawmill Township,U.S. Senate,,Republican,"Roberts, Pat",9,000220
+PAWNEE,Shiley Township,U.S. Senate,,independent,"Orman, Greg",0,000230
+PAWNEE,Shiley Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000230
+PAWNEE,Shiley Township,U.S. Senate,,Republican,"Roberts, Pat",15,000230
+PAWNEE,Valley Center Township,U.S. Senate,,independent,"Orman, Greg",1,000240
+PAWNEE,Valley Center Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000240
+PAWNEE,Valley Center Township,U.S. Senate,,Republican,"Roberts, Pat",12,000240
+PAWNEE,Walnut Township,U.S. Senate,,independent,"Orman, Greg",11,000250
+PAWNEE,Walnut Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000250
+PAWNEE,Walnut Township,U.S. Senate,,Republican,"Roberts, Pat",19,000250
+PAWNEE,Browns Grove Township C1,U.S. Senate,,independent,"Orman, Greg",26,120020
+PAWNEE,Browns Grove Township C1,U.S. Senate,,Libertarian,"Batson, Randall",8,120020
+PAWNEE,Browns Grove Township C1,U.S. Senate,,Republican,"Roberts, Pat",84,120020
+PAWNEE,Browns Grove Township C4,U.S. Senate,,independent,"Orman, Greg",1,120030
+PAWNEE,Browns Grove Township C4,U.S. Senate,,Libertarian,"Batson, Randall",0,120030
+PAWNEE,Browns Grove Township C4,U.S. Senate,,Republican,"Roberts, Pat",1,120030
+PAWNEE,Grant Township C1,U.S. Senate,,independent,"Orman, Greg",14,120040
+PAWNEE,Grant Township C1,U.S. Senate,,Libertarian,"Batson, Randall",1,120040
+PAWNEE,Grant Township C1,U.S. Senate,,Republican,"Roberts, Pat",65,120040
+PAWNEE,Grant Township C4,U.S. Senate,,independent,"Orman, Greg",1,120050
+PAWNEE,Grant Township C4,U.S. Senate,,Libertarian,"Batson, Randall",0,120050
+PAWNEE,Grant Township C4,U.S. Senate,,Republican,"Roberts, Pat",11,120050
