@@ -1,0 +1,703 @@
+county,precinct,office,district,party,candidate,votes,vtd
+ATCHISON,Atchison Precinct 1,State House,63,Democratic,"Henry, Jerry",169,000010
+ATCHISON,Atchison Precinct 1,State House,63,Republican,"Bodenhausen, Stephen",87,000010
+ATCHISON,Atchison Precinct 2 East,State House,63,Democratic,"Henry, Jerry",165,000020
+ATCHISON,Atchison Precinct 2 East,State House,63,Republican,"Bodenhausen, Stephen",106,000020
+ATCHISON,Atchison Precinct 2 West,State House,63,Democratic,"Henry, Jerry",201,000030
+ATCHISON,Atchison Precinct 2 West,State House,63,Republican,"Bodenhausen, Stephen",131,000030
+ATCHISON,Atchison Precinct 3 East,State House,63,Democratic,"Henry, Jerry",366,000040
+ATCHISON,Atchison Precinct 3 East,State House,63,Republican,"Bodenhausen, Stephen",174,000040
+ATCHISON,Atchison Precinct 3 West,State House,63,Democratic,"Henry, Jerry",573,00005A
+ATCHISON,Atchison Precinct 3 West,State House,63,Republican,"Bodenhausen, Stephen",283,00005A
+ATCHISON,Atchison Precinct 4,State House,63,Democratic,"Henry, Jerry",344,00006A
+ATCHISON,Atchison Precinct 4,State House,63,Republican,"Bodenhausen, Stephen",132,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,State House,63,Democratic,"Henry, Jerry",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,State House,63,Republican,"Bodenhausen, Stephen",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,State House,63,Democratic,"Henry, Jerry",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,State House,63,Republican,"Bodenhausen, Stephen",0,00006C
+ATCHISON,Atchison Precinct 5 North,State House,63,Democratic,"Henry, Jerry",395,00007A
+ATCHISON,Atchison Precinct 5 North,State House,63,Republican,"Bodenhausen, Stephen",230,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,State House,63,Democratic,"Henry, Jerry",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,State House,63,Republican,"Bodenhausen, Stephen",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,State House,63,Democratic,"Henry, Jerry",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,State House,63,Republican,"Bodenhausen, Stephen",0,00007C
+ATCHISON,Atchison Precinct 5 South,State House,63,Democratic,"Henry, Jerry",227,00008A
+ATCHISON,Atchison Precinct 5 South,State House,63,Republican,"Bodenhausen, Stephen",130,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,State House,63,Democratic,"Henry, Jerry",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,State House,63,Republican,"Bodenhausen, Stephen",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,State House,63,Democratic,"Henry, Jerry",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,State House,63,Republican,"Bodenhausen, Stephen",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,State House,63,Democratic,"Henry, Jerry",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,State House,63,Republican,"Bodenhausen, Stephen",0,00008D
+ATCHISON,Center Township,State House,63,Democratic,"Henry, Jerry",180,000100
+ATCHISON,Center Township,State House,63,Republican,"Bodenhausen, Stephen",136,000100
+ATCHISON,Grasshopper Township,State House,62,Democratic,"Stones, Dennis R.",76,000110
+ATCHISON,Grasshopper Township,State House,62,Republican,"Garber, Randy",206,000110
+ATCHISON,Huron Township,State House,63,Democratic,"Henry, Jerry",60,000120
+ATCHISON,Huron Township,State House,63,Republican,"Bodenhausen, Stephen",36,000120
+ATCHISON,Kapioma Township,State House,62,Democratic,"Stones, Dennis R.",37,000130
+ATCHISON,Kapioma Township,State House,62,Republican,"Garber, Randy",88,000130
+ATCHISON,Lancaster Township,State House,63,Democratic,"Henry, Jerry",195,000140
+ATCHISON,Lancaster Township,State House,63,Republican,"Bodenhausen, Stephen",105,000140
+ATCHISON,Shannon Township,State House,63,Democratic,"Henry, Jerry",434,00016A
+ATCHISON,Shannon Township,State House,63,Republican,"Bodenhausen, Stephen",216,00016A
+ATCHISON,Walnut Township,State House,63,Democratic,"Henry, Jerry",158,00017A
+ATCHISON,Walnut Township,State House,63,Republican,"Bodenhausen, Stephen",74,00017A
+ATCHISON,Walnut Township Enclave,State House,63,Democratic,"Henry, Jerry",0,00017B
+ATCHISON,Walnut Township Enclave,State House,63,Republican,"Bodenhausen, Stephen",0,00017B
+ATCHISON,Mount Pleasant Voting District Township,State House,63,Democratic,"Henry, Jerry",312,100050
+ATCHISON,Mount Pleasant Voting District Township,State House,63,Republican,"Bodenhausen, Stephen",139,100050
+ATCHISON,Benton Township H62,State House,62,Democratic,"Stones, Dennis R.",152,120020
+ATCHISON,Benton Township H62,State House,62,Republican,"Garber, Randy",182,120020
+ATCHISON,Benton Township H63,State House,63,Democratic,"Henry, Jerry",66,120030
+ATCHISON,Benton Township H63,State House,63,Republican,"Bodenhausen, Stephen",40,120030
+ATCHISON,Atchison Precinct 1,State Senate,1,Democratic,"Lukert, Steve",107,000010
+ATCHISON,Atchison Precinct 1,State Senate,1,Republican,"Pyle, Dennis D.",145,000010
+ATCHISON,Atchison Precinct 2 East,State Senate,1,Democratic,"Lukert, Steve",133,000020
+ATCHISON,Atchison Precinct 2 East,State Senate,1,Republican,"Pyle, Dennis D.",136,000020
+ATCHISON,Atchison Precinct 2 West,State Senate,1,Democratic,"Lukert, Steve",154,000030
+ATCHISON,Atchison Precinct 2 West,State Senate,1,Republican,"Pyle, Dennis D.",176,000030
+ATCHISON,Atchison Precinct 3 East,State Senate,1,Democratic,"Lukert, Steve",256,000040
+ATCHISON,Atchison Precinct 3 East,State Senate,1,Republican,"Pyle, Dennis D.",271,000040
+ATCHISON,Atchison Precinct 3 West,State Senate,1,Democratic,"Lukert, Steve",439,00005A
+ATCHISON,Atchison Precinct 3 West,State Senate,1,Republican,"Pyle, Dennis D.",413,00005A
+ATCHISON,Atchison Precinct 4,State Senate,1,Democratic,"Lukert, Steve",256,00006A
+ATCHISON,Atchison Precinct 4,State Senate,1,Republican,"Pyle, Dennis D.",202,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,State Senate,1,Democratic,"Lukert, Steve",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,State Senate,1,Republican,"Pyle, Dennis D.",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,State Senate,1,Democratic,"Lukert, Steve",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,State Senate,1,Republican,"Pyle, Dennis D.",0,00006C
+ATCHISON,Atchison Precinct 5 North,State Senate,1,Democratic,"Lukert, Steve",301,00007A
+ATCHISON,Atchison Precinct 5 North,State Senate,1,Republican,"Pyle, Dennis D.",314,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,State Senate,1,Democratic,"Lukert, Steve",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,State Senate,1,Republican,"Pyle, Dennis D.",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,State Senate,1,Democratic,"Lukert, Steve",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,State Senate,1,Republican,"Pyle, Dennis D.",0,00007C
+ATCHISON,Atchison Precinct 5 South,State Senate,1,Democratic,"Lukert, Steve",183,00008A
+ATCHISON,Atchison Precinct 5 South,State Senate,1,Republican,"Pyle, Dennis D.",168,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,State Senate,1,Democratic,"Lukert, Steve",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,State Senate,1,Republican,"Pyle, Dennis D.",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,State Senate,1,Democratic,"Lukert, Steve",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,State Senate,1,Republican,"Pyle, Dennis D.",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,State Senate,1,Democratic,"Lukert, Steve",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,State Senate,1,Republican,"Pyle, Dennis D.",0,00008D
+ATCHISON,Center Township,State Senate,1,Democratic,"Lukert, Steve",104,000100
+ATCHISON,Center Township,State Senate,1,Republican,"Pyle, Dennis D.",209,000100
+ATCHISON,Grasshopper Township,State Senate,1,Democratic,"Lukert, Steve",125,000110
+ATCHISON,Grasshopper Township,State Senate,1,Republican,"Pyle, Dennis D.",160,000110
+ATCHISON,Huron Township,State Senate,1,Democratic,"Lukert, Steve",48,000120
+ATCHISON,Huron Township,State Senate,1,Republican,"Pyle, Dennis D.",47,000120
+ATCHISON,Kapioma Township,State Senate,1,Democratic,"Lukert, Steve",47,000130
+ATCHISON,Kapioma Township,State Senate,1,Republican,"Pyle, Dennis D.",82,000130
+ATCHISON,Lancaster Township,State Senate,1,Democratic,"Lukert, Steve",145,000140
+ATCHISON,Lancaster Township,State Senate,1,Republican,"Pyle, Dennis D.",155,000140
+ATCHISON,Shannon Township,State Senate,1,Democratic,"Lukert, Steve",282,00016A
+ATCHISON,Shannon Township,State Senate,1,Republican,"Pyle, Dennis D.",356,00016A
+ATCHISON,Walnut Township,State Senate,1,Democratic,"Lukert, Steve",116,00017A
+ATCHISON,Walnut Township,State Senate,1,Republican,"Pyle, Dennis D.",110,00017A
+ATCHISON,Walnut Township Enclave,State Senate,1,Democratic,"Lukert, Steve",0,00017B
+ATCHISON,Walnut Township Enclave,State Senate,1,Republican,"Pyle, Dennis D.",0,00017B
+ATCHISON,Mount Pleasant Voting District Township,State Senate,1,Democratic,"Lukert, Steve",177,100050
+ATCHISON,Mount Pleasant Voting District Township,State Senate,1,Republican,"Pyle, Dennis D.",262,100050
+ATCHISON,Benton Township H62,State Senate,1,Democratic,"Lukert, Steve",191,120020
+ATCHISON,Benton Township H62,State Senate,1,Republican,"Pyle, Dennis D.",167,120020
+ATCHISON,Benton Township H63,State Senate,1,Democratic,"Lukert, Steve",55,120030
+ATCHISON,Benton Township H63,State Senate,1,Republican,"Pyle, Dennis D.",51,120030
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,Democratic,"Obama, Barack",113,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",8,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000010
+ATCHISON,Atchison Precinct 1,President / Vice President,,Republican,"Romney, Mitt",136,000010
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Barnett, Andre",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Bush, Kent W",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Christensen, Will",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Goode, Virgil",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Stein, Jill E",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,Democratic,"Obama, Barack",105,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,Libertarian,"Johnson, Gary",6,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,Reform,"Baldwin, Chuck",0,000020
+ATCHISON,Atchison Precinct 2 East,President / Vice President,,Republican,"Romney, Mitt",163,000020
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",1,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Barnett, Andre",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Bush, Kent W",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Christensen, Will",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Goode, Virgil",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Stein, Jill E",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,Democratic,"Obama, Barack",143,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,Libertarian,"Johnson, Gary",11,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,Reform,"Baldwin, Chuck",2,000030
+ATCHISON,Atchison Precinct 2 West,President / Vice President,,Republican,"Romney, Mitt",177,000030
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",2,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Barnett, Andre",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Bush, Kent W",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Christensen, Will",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Goode, Virgil",1,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Stein, Jill E",2,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,Democratic,"Obama, Barack",243,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,Libertarian,"Johnson, Gary",14,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,Reform,"Baldwin, Chuck",5,000040
+ATCHISON,Atchison Precinct 3 East,President / Vice President,,Republican,"Romney, Mitt",277,000040
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Ayers, Avery L",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Barnett, Andre",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Barr, Roseanne C",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Bush, Kent W",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Christensen, Will",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Duncan, Richard A",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Goode, Virgil",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Hoefling, Tom",1,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Knill, Dennis J",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Reed, Jill A.",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Rogers, Rick L",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Stein, Jill E",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Thorne, Kevin M",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,write - in,"Warner, Gerald L.",0,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,Democratic,"Obama, Barack",382,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,Libertarian,"Johnson, Gary",13,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,Reform,"Baldwin, Chuck",2,00005A
+ATCHISON,Atchison Precinct 3 West,President / Vice President,,Republican,"Romney, Mitt",464,00005A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Ayers, Avery L",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Barnett, Andre",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Barr, Roseanne C",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Bush, Kent W",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Christensen, Will",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Duncan, Richard A",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Goode, Virgil",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Hoefling, Tom",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Knill, Dennis J",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Reed, Jill A.",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Rogers, Rick L",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Stein, Jill E",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Thorne, Kevin M",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,write - in,"Warner, Gerald L.",0,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,Democratic,"Obama, Barack",256,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,Libertarian,"Johnson, Gary",5,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,Reform,"Baldwin, Chuck",1,00006A
+ATCHISON,Atchison Precinct 4,President / Vice President,,Republican,"Romney, Mitt",217,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Ayers, Avery L",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Barnett, Andre",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Bush, Kent W",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Christensen, Will",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Duncan, Richard A",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Goode, Virgil",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Knill, Dennis J",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Reed, Jill A.",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Rogers, Rick L",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Stein, Jill E",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,Democratic,"Obama, Barack",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,President / Vice President,,Republican,"Romney, Mitt",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Ayers, Avery L",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Barnett, Andre",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Barr, Roseanne C",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Bush, Kent W",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Christensen, Will",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Duncan, Richard A",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Goode, Virgil",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Knill, Dennis J",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Reed, Jill A.",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Rogers, Rick L",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Stein, Jill E",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Thorne, Kevin M",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,write - in,"Warner, Gerald L.",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,Democratic,"Obama, Barack",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,Reform,"Baldwin, Chuck",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,President / Vice President,,Republican,"Romney, Mitt",0,00006C
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Ayers, Avery L",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Barnett, Andre",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Barr, Roseanne C",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Bush, Kent W",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Christensen, Will",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Duncan, Richard A",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Goode, Virgil",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Hoefling, Tom",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Knill, Dennis J",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Reed, Jill A.",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Rogers, Rick L",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Stein, Jill E",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Thorne, Kevin M",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,write - in,"Warner, Gerald L.",0,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,Democratic,"Obama, Barack",266,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,Libertarian,"Johnson, Gary",12,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,Reform,"Baldwin, Chuck",4,00007A
+ATCHISON,Atchison Precinct 5 North,President / Vice President,,Republican,"Romney, Mitt",348,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Ayers, Avery L",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Barnett, Andre",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Bush, Kent W",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Christensen, Will",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Duncan, Richard A",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Goode, Virgil",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Knill, Dennis J",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Reed, Jill A.",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Rogers, Rick L",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Stein, Jill E",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,Democratic,"Obama, Barack",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,President / Vice President,,Republican,"Romney, Mitt",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Ayers, Avery L",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Barnett, Andre",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Barr, Roseanne C",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Bush, Kent W",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Christensen, Will",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Duncan, Richard A",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Goode, Virgil",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Knill, Dennis J",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Reed, Jill A.",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Rogers, Rick L",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Stein, Jill E",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Thorne, Kevin M",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,write - in,"Warner, Gerald L.",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,Democratic,"Obama, Barack",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,Reform,"Baldwin, Chuck",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,President / Vice President,,Republican,"Romney, Mitt",0,00007C
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Ayers, Avery L",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Barnett, Andre",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Barr, Roseanne C",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Bush, Kent W",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Christensen, Will",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Duncan, Richard A",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Goode, Virgil",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Hoefling, Tom",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Knill, Dennis J",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Reed, Jill A.",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Rogers, Rick L",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Stein, Jill E",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Thorne, Kevin M",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,write - in,"Warner, Gerald L.",0,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,Democratic,"Obama, Barack",158,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,Libertarian,"Johnson, Gary",7,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,Reform,"Baldwin, Chuck",3,00008A
+ATCHISON,Atchison Precinct 5 South,President / Vice President,,Republican,"Romney, Mitt",199,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Ayers, Avery L",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Barnett, Andre",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Bush, Kent W",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Christensen, Will",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Duncan, Richard A",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Goode, Virgil",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Knill, Dennis J",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Reed, Jill A.",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Rogers, Rick L",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Stein, Jill E",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,Democratic,"Obama, Barack",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,President / Vice President,,Republican,"Romney, Mitt",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Ayers, Avery L",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Barnett, Andre",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Barr, Roseanne C",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Bush, Kent W",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Christensen, Will",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Duncan, Richard A",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Goode, Virgil",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Knill, Dennis J",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Reed, Jill A.",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Rogers, Rick L",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Stein, Jill E",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Thorne, Kevin M",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,write - in,"Warner, Gerald L.",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,Democratic,"Obama, Barack",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,Reform,"Baldwin, Chuck",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,President / Vice President,,Republican,"Romney, Mitt",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Ayers, Avery L",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Barnett, Andre",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Barr, Roseanne C",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Bush, Kent W",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Christensen, Will",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Duncan, Richard A",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Goode, Virgil",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Hoefling, Tom",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Knill, Dennis J",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Reed, Jill A.",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Rogers, Rick L",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Stein, Jill E",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Thorne, Kevin M",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,write - in,"Warner, Gerald L.",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,Democratic,"Obama, Barack",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,Libertarian,"Johnson, Gary",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,Reform,"Baldwin, Chuck",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,President / Vice President,,Republican,"Romney, Mitt",0,00008D
+ATCHISON,Center Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Barnett, Andre",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Bush, Kent W",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Christensen, Will",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Goode, Virgil",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Stein, Jill E",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+ATCHISON,Center Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+ATCHISON,Center Township,President / Vice President,,Democratic,"Obama, Barack",82,000100
+ATCHISON,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000100
+ATCHISON,Center Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000100
+ATCHISON,Center Township,President / Vice President,,Republican,"Romney, Mitt",223,000100
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Barnett, Andre",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Bush, Kent W",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Christensen, Will",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Goode, Virgil",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Stein, Jill E",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+ATCHISON,Grasshopper Township,President / Vice President,,Democratic,"Obama, Barack",57,000110
+ATCHISON,Grasshopper Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000110
+ATCHISON,Grasshopper Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000110
+ATCHISON,Grasshopper Township,President / Vice President,,Republican,"Romney, Mitt",221,000110
+ATCHISON,Huron Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Barnett, Andre",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Bush, Kent W",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Christensen, Will",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Goode, Virgil",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Stein, Jill E",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+ATCHISON,Huron Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+ATCHISON,Huron Township,President / Vice President,,Democratic,"Obama, Barack",37,000120
+ATCHISON,Huron Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000120
+ATCHISON,Huron Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000120
+ATCHISON,Huron Township,President / Vice President,,Republican,"Romney, Mitt",60,000120
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Barnett, Andre",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Bush, Kent W",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Christensen, Will",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Goode, Virgil",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Stein, Jill E",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+ATCHISON,Kapioma Township,President / Vice President,,Democratic,"Obama, Barack",32,000130
+ATCHISON,Kapioma Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000130
+ATCHISON,Kapioma Township,President / Vice President,,Reform,"Baldwin, Chuck",2,000130
+ATCHISON,Kapioma Township,President / Vice President,,Republican,"Romney, Mitt",95,000130
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Barnett, Andre",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Bush, Kent W",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Christensen, Will",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Goode, Virgil",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Stein, Jill E",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+ATCHISON,Lancaster Township,President / Vice President,,Democratic,"Obama, Barack",105,000140
+ATCHISON,Lancaster Township,President / Vice President,,Libertarian,"Johnson, Gary",15,000140
+ATCHISON,Lancaster Township,President / Vice President,,Reform,"Baldwin, Chuck",3,000140
+ATCHISON,Lancaster Township,President / Vice President,,Republican,"Romney, Mitt",172,000140
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Ayers, Avery L",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Barnett, Andre",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Barr, Roseanne C",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Bush, Kent W",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Christensen, Will",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Duncan, Richard A",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Goode, Virgil",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Hoefling, Tom",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Knill, Dennis J",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Reed, Jill A.",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Rogers, Rick L",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Stein, Jill E",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Thorne, Kevin M",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,write - in,"Warner, Gerald L.",0,00016A
+ATCHISON,Shannon Township,President / Vice President,,Democratic,"Obama, Barack",214,00016A
+ATCHISON,Shannon Township,President / Vice President,,Libertarian,"Johnson, Gary",18,00016A
+ATCHISON,Shannon Township,President / Vice President,,Reform,"Baldwin, Chuck",3,00016A
+ATCHISON,Shannon Township,President / Vice President,,Republican,"Romney, Mitt",419,00016A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Ayers, Avery L",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Barnett, Andre",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Barr, Roseanne C",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Bush, Kent W",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Christensen, Will",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Duncan, Richard A",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Goode, Virgil",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Hoefling, Tom",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Knill, Dennis J",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Reed, Jill A.",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Rogers, Rick L",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Stein, Jill E",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Thorne, Kevin M",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,write - in,"Warner, Gerald L.",0,00017A
+ATCHISON,Walnut Township,President / Vice President,,Democratic,"Obama, Barack",100,00017A
+ATCHISON,Walnut Township,President / Vice President,,Libertarian,"Johnson, Gary",5,00017A
+ATCHISON,Walnut Township,President / Vice President,,Reform,"Baldwin, Chuck",2,00017A
+ATCHISON,Walnut Township,President / Vice President,,Republican,"Romney, Mitt",126,00017A
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Ayers, Avery L",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Barnett, Andre",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Barr, Roseanne C",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Bush, Kent W",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Christensen, Will",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Duncan, Richard A",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Goode, Virgil",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Knill, Dennis J",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Reed, Jill A.",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Rogers, Rick L",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Stein, Jill E",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Thorne, Kevin M",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,write - in,"Warner, Gerald L.",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,Democratic,"Obama, Barack",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,Reform,"Baldwin, Chuck",0,00017B
+ATCHISON,Walnut Township Enclave,President / Vice President,,Republican,"Romney, Mitt",0,00017B
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Ayers, Avery L",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Barnett, Andre",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Barr, Roseanne C",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Bush, Kent W",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Christensen, Will",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Duncan, Richard A",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Goode, Virgil",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Hoefling, Tom",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Knill, Dennis J",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Reed, Jill A.",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Rogers, Rick L",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Stein, Jill E",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Thorne, Kevin M",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,write - in,"Warner, Gerald L.",0,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,Democratic,"Obama, Barack",121,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,Libertarian,"Johnson, Gary",10,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,Reform,"Baldwin, Chuck",2,100050
+ATCHISON,Mount Pleasant Voting District Township,President / Vice President,,Republican,"Romney, Mitt",317,100050
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Ayers, Avery L",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Barnett, Andre",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Barr, Roseanne C",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Bush, Kent W",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Christensen, Will",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Duncan, Richard A",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Goode, Virgil",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Knill, Dennis J",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Reed, Jill A.",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Rogers, Rick L",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Stein, Jill E",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Thorne, Kevin M",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,write - in,"Warner, Gerald L.",0,120020
+ATCHISON,Benton Township H62,President / Vice President,,Democratic,"Obama, Barack",120,120020
+ATCHISON,Benton Township H62,President / Vice President,,Libertarian,"Johnson, Gary",6,120020
+ATCHISON,Benton Township H62,President / Vice President,,Reform,"Baldwin, Chuck",3,120020
+ATCHISON,Benton Township H62,President / Vice President,,Republican,"Romney, Mitt",232,120020
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Ayers, Avery L",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Barnett, Andre",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Barr, Roseanne C",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Bush, Kent W",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Christensen, Will",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Duncan, Richard A",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Goode, Virgil",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Knill, Dennis J",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Reed, Jill A.",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Rogers, Rick L",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Stein, Jill E",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Thorne, Kevin M",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,write - in,"Warner, Gerald L.",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,Democratic,"Obama, Barack",33,120030
+ATCHISON,Benton Township H63,President / Vice President,,Libertarian,"Johnson, Gary",3,120030
+ATCHISON,Benton Township H63,President / Vice President,,Reform,"Baldwin, Chuck",0,120030
+ATCHISON,Benton Township H63,President / Vice President,,Republican,"Romney, Mitt",71,120030
+ATCHISON,Atchison Precinct 1,U.S. House,2,Democratic,"Schlingensiepen, Tobias",76,000010
+ATCHISON,Atchison Precinct 1,U.S. House,2,Libertarian,"Hawver, Dennis",12,000010
+ATCHISON,Atchison Precinct 1,U.S. House,2,Republican,"Jenkins, Lynn",166,000010
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Democratic,"Schlingensiepen, Tobias",89,000020
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Libertarian,"Hawver, Dennis",6,000020
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Republican,"Jenkins, Lynn",175,000020
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Democratic,"Schlingensiepen, Tobias",110,000030
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Libertarian,"Hawver, Dennis",15,000030
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Republican,"Jenkins, Lynn",198,000030
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Democratic,"Schlingensiepen, Tobias",194,000040
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Libertarian,"Hawver, Dennis",27,000040
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Republican,"Jenkins, Lynn",304,000040
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Democratic,"Schlingensiepen, Tobias",283,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Libertarian,"Hawver, Dennis",37,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Republican,"Jenkins, Lynn",522,00005A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Democratic,"Schlingensiepen, Tobias",188,00006A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Libertarian,"Hawver, Dennis",16,00006A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Republican,"Jenkins, Lynn",257,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Libertarian,"Hawver, Dennis",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Libertarian,"Hawver, Dennis",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00006C
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Democratic,"Schlingensiepen, Tobias",213,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Libertarian,"Hawver, Dennis",24,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Republican,"Jenkins, Lynn",378,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Libertarian,"Hawver, Dennis",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Libertarian,"Hawver, Dennis",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00007C
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Democratic,"Schlingensiepen, Tobias",107,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Libertarian,"Hawver, Dennis",22,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Republican,"Jenkins, Lynn",227,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Libertarian,"Hawver, Dennis",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Libertarian,"Hawver, Dennis",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Libertarian,"Hawver, Dennis",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Republican,"Jenkins, Lynn",0,00008D
+ATCHISON,Center Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",71,000100
+ATCHISON,Center Township,U.S. House,2,Libertarian,"Hawver, Dennis",15,000100
+ATCHISON,Center Township,U.S. House,2,Republican,"Jenkins, Lynn",230,000100
+ATCHISON,Grasshopper Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",52,000110
+ATCHISON,Grasshopper Township,U.S. House,2,Libertarian,"Hawver, Dennis",18,000110
+ATCHISON,Grasshopper Township,U.S. House,2,Republican,"Jenkins, Lynn",214,000110
+ATCHISON,Huron Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",28,000120
+ATCHISON,Huron Township,U.S. House,2,Libertarian,"Hawver, Dennis",6,000120
+ATCHISON,Huron Township,U.S. House,2,Republican,"Jenkins, Lynn",64,000120
+ATCHISON,Kapioma Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",35,000130
+ATCHISON,Kapioma Township,U.S. House,2,Libertarian,"Hawver, Dennis",8,000130
+ATCHISON,Kapioma Township,U.S. House,2,Republican,"Jenkins, Lynn",86,000130
+ATCHISON,Lancaster Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",69,000140
+ATCHISON,Lancaster Township,U.S. House,2,Libertarian,"Hawver, Dennis",17,000140
+ATCHISON,Lancaster Township,U.S. House,2,Republican,"Jenkins, Lynn",210,000140
+ATCHISON,Shannon Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",164,00016A
+ATCHISON,Shannon Township,U.S. House,2,Libertarian,"Hawver, Dennis",40,00016A
+ATCHISON,Shannon Township,U.S. House,2,Republican,"Jenkins, Lynn",437,00016A
+ATCHISON,Walnut Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",83,00017A
+ATCHISON,Walnut Township,U.S. House,2,Libertarian,"Hawver, Dennis",12,00017A
+ATCHISON,Walnut Township,U.S. House,2,Republican,"Jenkins, Lynn",132,00017A
+ATCHISON,Walnut Township Enclave,U.S. House,2,Democratic,"Schlingensiepen, Tobias",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. House,2,Libertarian,"Hawver, Dennis",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. House,2,Republican,"Jenkins, Lynn",0,00017B
+ATCHISON,Mount Pleasant Voting District Township,U.S. House,2,Democratic,"Schlingensiepen, Tobias",107,100050
+ATCHISON,Mount Pleasant Voting District Township,U.S. House,2,Libertarian,"Hawver, Dennis",22,100050
+ATCHISON,Mount Pleasant Voting District Township,U.S. House,2,Republican,"Jenkins, Lynn",314,100050
+ATCHISON,Benton Township H62,U.S. House,2,Democratic,"Schlingensiepen, Tobias",96,120020
+ATCHISON,Benton Township H62,U.S. House,2,Libertarian,"Hawver, Dennis",20,120020
+ATCHISON,Benton Township H62,U.S. House,2,Republican,"Jenkins, Lynn",237,120020
+ATCHISON,Benton Township H63,U.S. House,2,Democratic,"Schlingensiepen, Tobias",24,120030
+ATCHISON,Benton Township H63,U.S. House,2,Libertarian,"Hawver, Dennis",5,120030
+ATCHISON,Benton Township H63,U.S. House,2,Republican,"Jenkins, Lynn",77,120030

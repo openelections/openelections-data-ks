@@ -1,0 +1,865 @@
+county,precinct,office,district,party,candidate,votes,vtd
+Lincoln,Battle Creek Township,State House,109,Republican,"Waymaster, Troy L.",20,000010
+Lincoln,Beaver Township,State House,107,Republican,"Concannon, Susan L.",29,00002A
+Lincoln,Cedron Township,State House,109,Republican,"Waymaster, Troy L.",20,000030
+Lincoln,Colorado Township,State House,107,Republican,"Concannon, Susan L.",98,000040
+Lincoln,Elkhorn Township Part A,State House,107,Republican,"Concannon, Susan L.",63,00005A
+Lincoln,Franklin Township,State House,107,Republican,"Concannon, Susan L.",45,000060
+Lincoln,Golden Belt Township,State House,109,Republican,"Waymaster, Troy L.",21,000070
+Lincoln,Grant Township,State House,109,Republican,"Waymaster, Troy L.",40,000080
+Lincoln,Hanover Township,State House,109,Republican,"Waymaster, Troy L.",23,000090
+Lincoln,Highland Township,State House,109,Republican,"Waymaster, Troy L.",31,000100
+Lincoln,Indiana Township,State House,109,Republican,"Waymaster, Troy L.",35,000110
+Lincoln,Lincoln Precinct 1,State House,109,Republican,"Waymaster, Troy L.",207,000120
+Lincoln,Lincoln Precinct 2,State House,109,Republican,"Waymaster, Troy L.",249,00013A
+Lincoln,Lincoln Precinct 2 Exclave,State House,107,Republican,"Concannon, Susan L.",0,00013B
+Lincoln,Logan Township,State House,107,Republican,"Concannon, Susan L.",30,000140
+Lincoln,Madison Township,State House,107,Republican,"Concannon, Susan L.",37,000150
+Lincoln,Marion Township,State House,109,Republican,"Waymaster, Troy L.",18,000160
+Lincoln,Orange Township,State House,109,Republican,"Waymaster, Troy L.",36,000170
+Lincoln,Pleasant Township,State House,109,Republican,"Waymaster, Troy L.",187,000180
+Lincoln,Salt Creek Township,State House,107,Republican,"Concannon, Susan L.",27,000190
+Lincoln,Scott Township,State House,107,Republican,"Concannon, Susan L.",46,000200
+Lincoln,Valley Township,State House,109,Republican,"Waymaster, Troy L.",16,000210
+Lincoln,Vesper Township,State House,109,Republican,"Waymaster, Troy L.",47,000220
+Lincoln,Marion Township Enclave 1,State House,109,Republican,"Waymaster, Troy L.",0,900010
+Lincoln,Battle Creek Township,State Senate,36,Democratic,"Angevine, Brian G.",1,000010
+Lincoln,Battle Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",23,000010
+Lincoln,Beaver Township,State Senate,36,Democratic,"Angevine, Brian G.",1,00002A
+Lincoln,Beaver Township,State Senate,36,Republican,"Bowers, Elaine S.",29,00002A
+Lincoln,Cedron Township,State Senate,36,Democratic,"Angevine, Brian G.",1,000030
+Lincoln,Cedron Township,State Senate,36,Republican,"Bowers, Elaine S.",20,000030
+Lincoln,Colorado Township,State Senate,36,Democratic,"Angevine, Brian G.",15,000040
+Lincoln,Colorado Township,State Senate,36,Republican,"Bowers, Elaine S.",92,000040
+Lincoln,Elkhorn Township Part A,State Senate,36,Democratic,"Angevine, Brian G.",5,00005A
+Lincoln,Elkhorn Township Part A,State Senate,36,Republican,"Bowers, Elaine S.",60,00005A
+Lincoln,Franklin Township,State Senate,36,Democratic,"Angevine, Brian G.",10,000060
+Lincoln,Franklin Township,State Senate,36,Republican,"Bowers, Elaine S.",43,000060
+Lincoln,Golden Belt Township,State Senate,36,Democratic,"Angevine, Brian G.",8,000070
+Lincoln,Golden Belt Township,State Senate,36,Republican,"Bowers, Elaine S.",15,000070
+Lincoln,Grant Township,State Senate,36,Democratic,"Angevine, Brian G.",2,000080
+Lincoln,Grant Township,State Senate,36,Republican,"Bowers, Elaine S.",41,000080
+Lincoln,Hanover Township,State Senate,36,Democratic,"Angevine, Brian G.",4,000090
+Lincoln,Hanover Township,State Senate,36,Republican,"Bowers, Elaine S.",19,000090
+Lincoln,Highland Township,State Senate,36,Democratic,"Angevine, Brian G.",9,000100
+Lincoln,Highland Township,State Senate,36,Republican,"Bowers, Elaine S.",26,000100
+Lincoln,Indiana Township,State Senate,36,Democratic,"Angevine, Brian G.",2,000110
+Lincoln,Indiana Township,State Senate,36,Republican,"Bowers, Elaine S.",38,000110
+Lincoln,Lincoln Precinct 1,State Senate,36,Democratic,"Angevine, Brian G.",40,000120
+Lincoln,Lincoln Precinct 1,State Senate,36,Republican,"Bowers, Elaine S.",190,000120
+Lincoln,Lincoln Precinct 2,State Senate,36,Democratic,"Angevine, Brian G.",33,00013A
+Lincoln,Lincoln Precinct 2,State Senate,36,Republican,"Bowers, Elaine S.",240,00013A
+Lincoln,Lincoln Precinct 2 Exclave,State Senate,36,Democratic,"Angevine, Brian G.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,State Senate,36,Republican,"Bowers, Elaine S.",0,00013B
+Lincoln,Logan Township,State Senate,36,Democratic,"Angevine, Brian G.",4,000140
+Lincoln,Logan Township,State Senate,36,Republican,"Bowers, Elaine S.",34,000140
+Lincoln,Madison Township,State Senate,36,Democratic,"Angevine, Brian G.",7,000150
+Lincoln,Madison Township,State Senate,36,Republican,"Bowers, Elaine S.",34,000150
+Lincoln,Marion Township,State Senate,36,Democratic,"Angevine, Brian G.",0,000160
+Lincoln,Marion Township,State Senate,36,Republican,"Bowers, Elaine S.",18,000160
+Lincoln,Orange Township,State Senate,36,Democratic,"Angevine, Brian G.",1,000170
+Lincoln,Orange Township,State Senate,36,Republican,"Bowers, Elaine S.",38,000170
+Lincoln,Pleasant Township,State Senate,36,Democratic,"Angevine, Brian G.",28,000180
+Lincoln,Pleasant Township,State Senate,36,Republican,"Bowers, Elaine S.",166,000180
+Lincoln,Salt Creek Township,State Senate,36,Democratic,"Angevine, Brian G.",3,000190
+Lincoln,Salt Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",26,000190
+Lincoln,Scott Township,State Senate,36,Democratic,"Angevine, Brian G.",4,000200
+Lincoln,Scott Township,State Senate,36,Republican,"Bowers, Elaine S.",44,000200
+Lincoln,Valley Township,State Senate,36,Democratic,"Angevine, Brian G.",3,000210
+Lincoln,Valley Township,State Senate,36,Republican,"Bowers, Elaine S.",17,000210
+Lincoln,Vesper Township,State Senate,36,Democratic,"Angevine, Brian G.",5,000220
+Lincoln,Vesper Township,State Senate,36,Republican,"Bowers, Elaine S.",45,000220
+Lincoln,Marion Township Enclave 1,State Senate,36,Democratic,"Angevine, Brian G.",0,900010
+Lincoln,Marion Township Enclave 1,State Senate,36,Republican,"Bowers, Elaine S.",0,900010
+Lincoln,Battle Creek Township,President,,independent,"Stein, Jill",1,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Basiago, Andrew D.",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Castle, Darrell L",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Giordani, Rocky",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Hedges, James A",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Hoefling, Tom",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Kahn, Lynn",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"La Riva, Gloria",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Levinson, Michael S.",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Maturen, Michael A",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"McMullin, Evan",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Moorehead, Monica G.",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Perry, Darryl",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Schoenke, Marshall R.",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Schriner, Joe C",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Smith, Mike",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Sood, Ajay",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Sterling, Shawna",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Valdivia, Anthony J",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000010
+Lincoln,Battle Creek Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000010
+Lincoln,Battle Creek Township,President,,Democratic,"Clinton, Hillary Rodham",2,000010
+Lincoln,Battle Creek Township,President,,Libertarian,"Johnson, Gary",2,000010
+Lincoln,Battle Creek Township,President,,Republican,"Trump, Donald J.",19,000010
+Lincoln,Beaver Township,President,,independent,"Stein, Jill",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Basiago, Andrew D.",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Castle, Darrell L",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Giordani, Rocky",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Hedges, James A",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Hoefling, Tom",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Kahn, Lynn",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"La Riva, Gloria",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Levinson, Michael S.",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Maturen, Michael A",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"McMullin, Evan",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Moorehead, Monica G.",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Perry, Darryl",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Schoenke, Marshall R.",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Schriner, Joe C",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Smith, Mike",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Sood, Ajay",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Sterling, Shawna",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Valdivia, Anthony J",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00002A
+Lincoln,Beaver Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00002A
+Lincoln,Beaver Township,President,,Democratic,"Clinton, Hillary Rodham",2,00002A
+Lincoln,Beaver Township,President,,Libertarian,"Johnson, Gary",0,00002A
+Lincoln,Beaver Township,President,,Republican,"Trump, Donald J.",30,00002A
+Lincoln,Cedron Township,President,,independent,"Stein, Jill",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Basiago, Andrew D.",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Castle, Darrell L",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Giordani, Rocky",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Hedges, James A",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Hoefling, Tom",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Kahn, Lynn",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"La Riva, Gloria",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Levinson, Michael S.",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Maturen, Michael A",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"McMullin, Evan",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Moorehead, Monica G.",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Perry, Darryl",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Schoenke, Marshall R.",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Schriner, Joe C",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Smith, Mike",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Sood, Ajay",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Sterling, Shawna",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Valdivia, Anthony J",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000030
+Lincoln,Cedron Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000030
+Lincoln,Cedron Township,President,,Democratic,"Clinton, Hillary Rodham",0,000030
+Lincoln,Cedron Township,President,,Libertarian,"Johnson, Gary",0,000030
+Lincoln,Cedron Township,President,,Republican,"Trump, Donald J.",21,000030
+Lincoln,Colorado Township,President,,independent,"Stein, Jill",2,000040
+Lincoln,Colorado Township,President,,Write-ins,"Basiago, Andrew D.",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Castle, Darrell L",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Giordani, Rocky",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Hedges, James A",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Hoefling, Tom",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Kahn, Lynn",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"La Riva, Gloria",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Levinson, Michael S.",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Maturen, Michael A",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"McMullin, Evan",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Moorehead, Monica G.",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Perry, Darryl",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Schoenke, Marshall R.",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Schriner, Joe C",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Smith, Mike",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Sood, Ajay",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Sterling, Shawna",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Valdivia, Anthony J",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000040
+Lincoln,Colorado Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000040
+Lincoln,Colorado Township,President,,Democratic,"Clinton, Hillary Rodham",18,000040
+Lincoln,Colorado Township,President,,Libertarian,"Johnson, Gary",4,000040
+Lincoln,Colorado Township,President,,Republican,"Trump, Donald J.",88,000040
+Lincoln,Elkhorn Township Part A,President,,independent,"Stein, Jill",1,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Basiago, Andrew D.",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Castle, Darrell L",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Giordani, Rocky",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Hedges, James A",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Hoefling, Tom",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Kahn, Lynn",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"La Riva, Gloria",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Levinson, Michael S.",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Maturen, Michael A",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"McMullin, Evan",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Moorehead, Monica G.",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Perry, Darryl",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Schoenke, Marshall R.",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Schriner, Joe C",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Smith, Mike",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Sood, Ajay",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Sterling, Shawna",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Valdivia, Anthony J",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00005A
+Lincoln,Elkhorn Township Part A,President,,Democratic,"Clinton, Hillary Rodham",6,00005A
+Lincoln,Elkhorn Township Part A,President,,Libertarian,"Johnson, Gary",2,00005A
+Lincoln,Elkhorn Township Part A,President,,Republican,"Trump, Donald J.",52,00005A
+Lincoln,Franklin Township,President,,independent,"Stein, Jill",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Basiago, Andrew D.",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Castle, Darrell L",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Giordani, Rocky",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Hedges, James A",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Hoefling, Tom",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Kahn, Lynn",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"La Riva, Gloria",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Levinson, Michael S.",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Maturen, Michael A",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"McMullin, Evan",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Moorehead, Monica G.",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Perry, Darryl",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Schoenke, Marshall R.",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Schriner, Joe C",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Smith, Mike",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Sood, Ajay",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Sterling, Shawna",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Valdivia, Anthony J",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000060
+Lincoln,Franklin Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000060
+Lincoln,Franklin Township,President,,Democratic,"Clinton, Hillary Rodham",6,000060
+Lincoln,Franklin Township,President,,Libertarian,"Johnson, Gary",0,000060
+Lincoln,Franklin Township,President,,Republican,"Trump, Donald J.",46,000060
+Lincoln,Golden Belt Township,President,,independent,"Stein, Jill",3,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Basiago, Andrew D.",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Castle, Darrell L",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Giordani, Rocky",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Hedges, James A",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Hoefling, Tom",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Kahn, Lynn",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"La Riva, Gloria",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Levinson, Michael S.",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Maturen, Michael A",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"McMullin, Evan",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Moorehead, Monica G.",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Perry, Darryl",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Schoenke, Marshall R.",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Schriner, Joe C",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Smith, Mike",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Sood, Ajay",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Sterling, Shawna",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Valdivia, Anthony J",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000070
+Lincoln,Golden Belt Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000070
+Lincoln,Golden Belt Township,President,,Democratic,"Clinton, Hillary Rodham",3,000070
+Lincoln,Golden Belt Township,President,,Libertarian,"Johnson, Gary",2,000070
+Lincoln,Golden Belt Township,President,,Republican,"Trump, Donald J.",16,000070
+Lincoln,Grant Township,President,,independent,"Stein, Jill",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Basiago, Andrew D.",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Castle, Darrell L",0,000080
+Lincoln,Grant Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Giordani, Rocky",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Hedges, James A",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Hoefling, Tom",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Kahn, Lynn",0,000080
+Lincoln,Grant Township,President,,Write-ins,"La Riva, Gloria",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Levinson, Michael S.",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Maturen, Michael A",0,000080
+Lincoln,Grant Township,President,,Write-ins,"McMullin, Evan",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Moorehead, Monica G.",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Perry, Darryl",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Schoenke, Marshall R.",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Schriner, Joe C",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Smith, Mike",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Sood, Ajay",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Sterling, Shawna",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Valdivia, Anthony J",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000080
+Lincoln,Grant Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000080
+Lincoln,Grant Township,President,,Democratic,"Clinton, Hillary Rodham",4,000080
+Lincoln,Grant Township,President,,Libertarian,"Johnson, Gary",0,000080
+Lincoln,Grant Township,President,,Republican,"Trump, Donald J.",40,000080
+Lincoln,Hanover Township,President,,independent,"Stein, Jill",1,000090
+Lincoln,Hanover Township,President,,Write-ins,"Basiago, Andrew D.",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Castle, Darrell L",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Giordani, Rocky",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Hedges, James A",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Hoefling, Tom",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Kahn, Lynn",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"La Riva, Gloria",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Levinson, Michael S.",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Maturen, Michael A",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"McMullin, Evan",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Moorehead, Monica G.",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Perry, Darryl",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Schoenke, Marshall R.",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Schriner, Joe C",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Smith, Mike",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Sood, Ajay",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Sterling, Shawna",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Valdivia, Anthony J",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000090
+Lincoln,Hanover Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000090
+Lincoln,Hanover Township,President,,Democratic,"Clinton, Hillary Rodham",0,000090
+Lincoln,Hanover Township,President,,Libertarian,"Johnson, Gary",1,000090
+Lincoln,Hanover Township,President,,Republican,"Trump, Donald J.",21,000090
+Lincoln,Highland Township,President,,independent,"Stein, Jill",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Basiago, Andrew D.",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Castle, Darrell L",0,000100
+Lincoln,Highland Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Giordani, Rocky",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Hedges, James A",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Hoefling, Tom",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Kahn, Lynn",0,000100
+Lincoln,Highland Township,President,,Write-ins,"La Riva, Gloria",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Levinson, Michael S.",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Maturen, Michael A",0,000100
+Lincoln,Highland Township,President,,Write-ins,"McMullin, Evan",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Moorehead, Monica G.",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Perry, Darryl",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Schoenke, Marshall R.",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Schriner, Joe C",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Smith, Mike",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Sood, Ajay",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Sterling, Shawna",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Valdivia, Anthony J",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000100
+Lincoln,Highland Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000100
+Lincoln,Highland Township,President,,Democratic,"Clinton, Hillary Rodham",12,000100
+Lincoln,Highland Township,President,,Libertarian,"Johnson, Gary",0,000100
+Lincoln,Highland Township,President,,Republican,"Trump, Donald J.",24,000100
+Lincoln,Indiana Township,President,,independent,"Stein, Jill",1,000110
+Lincoln,Indiana Township,President,,Write-ins,"Basiago, Andrew D.",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Castle, Darrell L",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Giordani, Rocky",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Hedges, James A",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Hoefling, Tom",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Kahn, Lynn",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"La Riva, Gloria",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Levinson, Michael S.",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Maturen, Michael A",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"McMullin, Evan",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Moorehead, Monica G.",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Perry, Darryl",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Schoenke, Marshall R.",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Schriner, Joe C",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Smith, Mike",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Sood, Ajay",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Sterling, Shawna",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Valdivia, Anthony J",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000110
+Lincoln,Indiana Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000110
+Lincoln,Indiana Township,President,,Democratic,"Clinton, Hillary Rodham",3,000110
+Lincoln,Indiana Township,President,,Libertarian,"Johnson, Gary",1,000110
+Lincoln,Indiana Township,President,,Republican,"Trump, Donald J.",36,000110
+Lincoln,Lincoln Precinct 1,President,,independent,"Stein, Jill",7,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Basiago, Andrew D.",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Castle, Darrell L",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Giordani, Rocky",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Hedges, James A",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Hoefling, Tom",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Kahn, Lynn",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"La Riva, Gloria",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Levinson, Michael S.",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Maturen, Michael A",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"McMullin, Evan",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Moorehead, Monica G.",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Perry, Darryl",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Schoenke, Marshall R.",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Schriner, Joe C",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Smith, Mike",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Sood, Ajay",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Sterling, Shawna",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Valdivia, Anthony J",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000120
+Lincoln,Lincoln Precinct 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000120
+Lincoln,Lincoln Precinct 1,President,,Democratic,"Clinton, Hillary Rodham",42,000120
+Lincoln,Lincoln Precinct 1,President,,Libertarian,"Johnson, Gary",7,000120
+Lincoln,Lincoln Precinct 1,President,,Republican,"Trump, Donald J.",175,000120
+Lincoln,Lincoln Precinct 2,President,,independent,"Stein, Jill",4,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Basiago, Andrew D.",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Castle, Darrell L",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Giordani, Rocky",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Hedges, James A",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Hoefling, Tom",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Kahn, Lynn",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"La Riva, Gloria",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Levinson, Michael S.",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Maturen, Michael A",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"McMullin, Evan",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Moorehead, Monica G.",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Perry, Darryl",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Schoenke, Marshall R.",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Schriner, Joe C",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Smith, Mike",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Sood, Ajay",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Sterling, Shawna",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Valdivia, Anthony J",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00013A
+Lincoln,Lincoln Precinct 2,President,,Democratic,"Clinton, Hillary Rodham",47,00013A
+Lincoln,Lincoln Precinct 2,President,,Libertarian,"Johnson, Gary",12,00013A
+Lincoln,Lincoln Precinct 2,President,,Republican,"Trump, Donald J.",214,00013A
+Lincoln,Lincoln Precinct 2 Exclave,President,,independent,"Stein, Jill",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Basiago, Andrew D.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Castle, Darrell L",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Giordani, Rocky",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Hedges, James A",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Hoefling, Tom",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Kahn, Lynn",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"La Riva, Gloria",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Levinson, Michael S.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Maturen, Michael A",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"McMullin, Evan",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Moorehead, Monica G.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Perry, Darryl",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Schoenke, Marshall R.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Schriner, Joe C",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Smith, Mike",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Sood, Ajay",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Sterling, Shawna",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Valdivia, Anthony J",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Democratic,"Clinton, Hillary Rodham",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Libertarian,"Johnson, Gary",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,President,,Republican,"Trump, Donald J.",0,00013B
+Lincoln,Logan Township,President,,independent,"Stein, Jill",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Basiago, Andrew D.",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Castle, Darrell L",0,000140
+Lincoln,Logan Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Giordani, Rocky",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Hedges, James A",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Hoefling, Tom",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Kahn, Lynn",0,000140
+Lincoln,Logan Township,President,,Write-ins,"La Riva, Gloria",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Levinson, Michael S.",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Maturen, Michael A",0,000140
+Lincoln,Logan Township,President,,Write-ins,"McMullin, Evan",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Moorehead, Monica G.",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Perry, Darryl",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Schoenke, Marshall R.",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Schriner, Joe C",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Smith, Mike",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Sood, Ajay",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Sterling, Shawna",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Valdivia, Anthony J",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000140
+Lincoln,Logan Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000140
+Lincoln,Logan Township,President,,Democratic,"Clinton, Hillary Rodham",5,000140
+Lincoln,Logan Township,President,,Libertarian,"Johnson, Gary",2,000140
+Lincoln,Logan Township,President,,Republican,"Trump, Donald J.",33,000140
+Lincoln,Madison Township,President,,independent,"Stein, Jill",1,000150
+Lincoln,Madison Township,President,,Write-ins,"Basiago, Andrew D.",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Castle, Darrell L",0,000150
+Lincoln,Madison Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Giordani, Rocky",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Hedges, James A",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Hoefling, Tom",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Kahn, Lynn",0,000150
+Lincoln,Madison Township,President,,Write-ins,"La Riva, Gloria",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Levinson, Michael S.",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Maturen, Michael A",0,000150
+Lincoln,Madison Township,President,,Write-ins,"McMullin, Evan",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Moorehead, Monica G.",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Perry, Darryl",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Schoenke, Marshall R.",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Schriner, Joe C",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Smith, Mike",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Sood, Ajay",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Sterling, Shawna",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Valdivia, Anthony J",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000150
+Lincoln,Madison Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000150
+Lincoln,Madison Township,President,,Democratic,"Clinton, Hillary Rodham",4,000150
+Lincoln,Madison Township,President,,Libertarian,"Johnson, Gary",1,000150
+Lincoln,Madison Township,President,,Republican,"Trump, Donald J.",34,000150
+Lincoln,Marion Township,President,,independent,"Stein, Jill",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Basiago, Andrew D.",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Castle, Darrell L",0,000160
+Lincoln,Marion Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Giordani, Rocky",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Hedges, James A",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Hoefling, Tom",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Kahn, Lynn",0,000160
+Lincoln,Marion Township,President,,Write-ins,"La Riva, Gloria",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Levinson, Michael S.",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Maturen, Michael A",0,000160
+Lincoln,Marion Township,President,,Write-ins,"McMullin, Evan",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Moorehead, Monica G.",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Perry, Darryl",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Schoenke, Marshall R.",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Schriner, Joe C",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Smith, Mike",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Sood, Ajay",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Sterling, Shawna",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Valdivia, Anthony J",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000160
+Lincoln,Marion Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000160
+Lincoln,Marion Township,President,,Democratic,"Clinton, Hillary Rodham",2,000160
+Lincoln,Marion Township,President,,Libertarian,"Johnson, Gary",1,000160
+Lincoln,Marion Township,President,,Republican,"Trump, Donald J.",16,000160
+Lincoln,Orange Township,President,,independent,"Stein, Jill",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Basiago, Andrew D.",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Castle, Darrell L",0,000170
+Lincoln,Orange Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Giordani, Rocky",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Hedges, James A",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Hoefling, Tom",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Kahn, Lynn",0,000170
+Lincoln,Orange Township,President,,Write-ins,"La Riva, Gloria",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Levinson, Michael S.",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Maturen, Michael A",0,000170
+Lincoln,Orange Township,President,,Write-ins,"McMullin, Evan",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Moorehead, Monica G.",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Perry, Darryl",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Schoenke, Marshall R.",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Schriner, Joe C",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Smith, Mike",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Sood, Ajay",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Sterling, Shawna",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Valdivia, Anthony J",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000170
+Lincoln,Orange Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000170
+Lincoln,Orange Township,President,,Democratic,"Clinton, Hillary Rodham",5,000170
+Lincoln,Orange Township,President,,Libertarian,"Johnson, Gary",0,000170
+Lincoln,Orange Township,President,,Republican,"Trump, Donald J.",34,000170
+Lincoln,Pleasant Township,President,,independent,"Stein, Jill",1,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Basiago, Andrew D.",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Castle, Darrell L",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Giordani, Rocky",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Hedges, James A",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Hoefling, Tom",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Kahn, Lynn",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"La Riva, Gloria",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Levinson, Michael S.",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Maturen, Michael A",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"McMullin, Evan",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Moorehead, Monica G.",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Perry, Darryl",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Schoenke, Marshall R.",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Schriner, Joe C",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Smith, Mike",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Sood, Ajay",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Sterling, Shawna",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Valdivia, Anthony J",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000180
+Lincoln,Pleasant Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000180
+Lincoln,Pleasant Township,President,,Democratic,"Clinton, Hillary Rodham",37,000180
+Lincoln,Pleasant Township,President,,Libertarian,"Johnson, Gary",4,000180
+Lincoln,Pleasant Township,President,,Republican,"Trump, Donald J.",157,000180
+Lincoln,Salt Creek Township,President,,independent,"Stein, Jill",2,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Basiago, Andrew D.",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Castle, Darrell L",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Giordani, Rocky",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Hedges, James A",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Hoefling, Tom",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Kahn, Lynn",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"La Riva, Gloria",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Levinson, Michael S.",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Maturen, Michael A",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"McMullin, Evan",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Moorehead, Monica G.",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Perry, Darryl",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Schoenke, Marshall R.",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Schriner, Joe C",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Smith, Mike",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Sood, Ajay",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Sterling, Shawna",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Valdivia, Anthony J",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000190
+Lincoln,Salt Creek Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000190
+Lincoln,Salt Creek Township,President,,Democratic,"Clinton, Hillary Rodham",6,000190
+Lincoln,Salt Creek Township,President,,Libertarian,"Johnson, Gary",1,000190
+Lincoln,Salt Creek Township,President,,Republican,"Trump, Donald J.",22,000190
+Lincoln,Scott Township,President,,independent,"Stein, Jill",1,000200
+Lincoln,Scott Township,President,,Write-ins,"Basiago, Andrew D.",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Castle, Darrell L",0,000200
+Lincoln,Scott Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Giordani, Rocky",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Hedges, James A",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Hoefling, Tom",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Kahn, Lynn",0,000200
+Lincoln,Scott Township,President,,Write-ins,"La Riva, Gloria",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Levinson, Michael S.",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Maturen, Michael A",0,000200
+Lincoln,Scott Township,President,,Write-ins,"McMullin, Evan",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Moorehead, Monica G.",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Perry, Darryl",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Schoenke, Marshall R.",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Schriner, Joe C",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Smith, Mike",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Sood, Ajay",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Sterling, Shawna",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Valdivia, Anthony J",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000200
+Lincoln,Scott Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000200
+Lincoln,Scott Township,President,,Democratic,"Clinton, Hillary Rodham",6,000200
+Lincoln,Scott Township,President,,Libertarian,"Johnson, Gary",0,000200
+Lincoln,Scott Township,President,,Republican,"Trump, Donald J.",40,000200
+Lincoln,Valley Township,President,,independent,"Stein, Jill",1,000210
+Lincoln,Valley Township,President,,Write-ins,"Basiago, Andrew D.",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Castle, Darrell L",0,000210
+Lincoln,Valley Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Giordani, Rocky",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Hedges, James A",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Hoefling, Tom",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Kahn, Lynn",0,000210
+Lincoln,Valley Township,President,,Write-ins,"La Riva, Gloria",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Levinson, Michael S.",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Maturen, Michael A",0,000210
+Lincoln,Valley Township,President,,Write-ins,"McMullin, Evan",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Moorehead, Monica G.",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Perry, Darryl",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Schoenke, Marshall R.",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Schriner, Joe C",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Smith, Mike",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Sood, Ajay",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Sterling, Shawna",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Valdivia, Anthony J",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000210
+Lincoln,Valley Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000210
+Lincoln,Valley Township,President,,Democratic,"Clinton, Hillary Rodham",2,000210
+Lincoln,Valley Township,President,,Libertarian,"Johnson, Gary",0,000210
+Lincoln,Valley Township,President,,Republican,"Trump, Donald J.",17,000210
+Lincoln,Vesper Township,President,,independent,"Stein, Jill",3,000220
+Lincoln,Vesper Township,President,,Write-ins,"Basiago, Andrew D.",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Castle, Darrell L",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Giordani, Rocky",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Hedges, James A",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Hoefling, Tom",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Kahn, Lynn",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"La Riva, Gloria",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Levinson, Michael S.",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Maturen, Michael A",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"McMullin, Evan",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Moorehead, Monica G.",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Perry, Darryl",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Schoenke, Marshall R.",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Schriner, Joe C",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Smith, Mike",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Sood, Ajay",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Sterling, Shawna",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Valdivia, Anthony J",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000220
+Lincoln,Vesper Township,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000220
+Lincoln,Vesper Township,President,,Democratic,"Clinton, Hillary Rodham",3,000220
+Lincoln,Vesper Township,President,,Libertarian,"Johnson, Gary",1,000220
+Lincoln,Vesper Township,President,,Republican,"Trump, Donald J.",44,000220
+Lincoln,Marion Township Enclave 1,President,,independent,"Stein, Jill",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Basiago, Andrew D.",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Castle, Darrell L",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Giordani, Rocky",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Hedges, James A",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Hoefling, Tom",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Kahn, Lynn",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"La Riva, Gloria",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Levinson, Michael S.",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Maturen, Michael A",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"McMullin, Evan",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Moorehead, Monica G.",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Perry, Darryl",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Schoenke, Marshall R.",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Schriner, Joe C",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Smith, Mike",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Sood, Ajay",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Sterling, Shawna",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Valdivia, Anthony J",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,900010
+Lincoln,Marion Township Enclave 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,900010
+Lincoln,Marion Township Enclave 1,President,,Democratic,"Clinton, Hillary Rodham",0,900010
+Lincoln,Marion Township Enclave 1,President,,Libertarian,"Johnson, Gary",0,900010
+Lincoln,Marion Township Enclave 1,President,,Republican,"Trump, Donald J.",0,900010
+Lincoln,Battle Creek Township,U.S. House,1,independent,"LaPolice, Alan",7,000010
+Lincoln,Battle Creek Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000010
+Lincoln,Battle Creek Township,U.S. House,1,Libertarian,"Burt, Kerry",2,000010
+Lincoln,Battle Creek Township,U.S. House,1,Republican,"Marshall, Roger",15,000010
+Lincoln,Beaver Township,U.S. House,1,independent,"LaPolice, Alan",13,00002A
+Lincoln,Beaver Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00002A
+Lincoln,Beaver Township,U.S. House,1,Libertarian,"Burt, Kerry",1,00002A
+Lincoln,Beaver Township,U.S. House,1,Republican,"Marshall, Roger",18,00002A
+Lincoln,Cedron Township,U.S. House,1,independent,"LaPolice, Alan",3,000030
+Lincoln,Cedron Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000030
+Lincoln,Cedron Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000030
+Lincoln,Cedron Township,U.S. House,1,Republican,"Marshall, Roger",18,000030
+Lincoln,Colorado Township,U.S. House,1,independent,"LaPolice, Alan",36,000040
+Lincoln,Colorado Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000040
+Lincoln,Colorado Township,U.S. House,1,Libertarian,"Burt, Kerry",8,000040
+Lincoln,Colorado Township,U.S. House,1,Republican,"Marshall, Roger",69,000040
+Lincoln,Elkhorn Township Part A,U.S. House,1,independent,"LaPolice, Alan",22,00005A
+Lincoln,Elkhorn Township Part A,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00005A
+Lincoln,Elkhorn Township Part A,U.S. House,1,Libertarian,"Burt, Kerry",2,00005A
+Lincoln,Elkhorn Township Part A,U.S. House,1,Republican,"Marshall, Roger",39,00005A
+Lincoln,Franklin Township,U.S. House,1,independent,"LaPolice, Alan",19,000060
+Lincoln,Franklin Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000060
+Lincoln,Franklin Township,U.S. House,1,Libertarian,"Burt, Kerry",1,000060
+Lincoln,Franklin Township,U.S. House,1,Republican,"Marshall, Roger",33,000060
+Lincoln,Golden Belt Township,U.S. House,1,independent,"LaPolice, Alan",9,000070
+Lincoln,Golden Belt Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000070
+Lincoln,Golden Belt Township,U.S. House,1,Libertarian,"Burt, Kerry",1,000070
+Lincoln,Golden Belt Township,U.S. House,1,Republican,"Marshall, Roger",14,000070
+Lincoln,Grant Township,U.S. House,1,independent,"LaPolice, Alan",13,000080
+Lincoln,Grant Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000080
+Lincoln,Grant Township,U.S. House,1,Libertarian,"Burt, Kerry",2,000080
+Lincoln,Grant Township,U.S. House,1,Republican,"Marshall, Roger",28,000080
+Lincoln,Hanover Township,U.S. House,1,independent,"LaPolice, Alan",8,000090
+Lincoln,Hanover Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000090
+Lincoln,Hanover Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000090
+Lincoln,Hanover Township,U.S. House,1,Republican,"Marshall, Roger",15,000090
+Lincoln,Highland Township,U.S. House,1,independent,"LaPolice, Alan",14,000100
+Lincoln,Highland Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000100
+Lincoln,Highland Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000100
+Lincoln,Highland Township,U.S. House,1,Republican,"Marshall, Roger",20,000100
+Lincoln,Indiana Township,U.S. House,1,independent,"LaPolice, Alan",16,000110
+Lincoln,Indiana Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000110
+Lincoln,Indiana Township,U.S. House,1,Libertarian,"Burt, Kerry",1,000110
+Lincoln,Indiana Township,U.S. House,1,Republican,"Marshall, Roger",22,000110
+Lincoln,Lincoln Precinct 1,U.S. House,1,independent,"LaPolice, Alan",90,000120
+Lincoln,Lincoln Precinct 1,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000120
+Lincoln,Lincoln Precinct 1,U.S. House,1,Libertarian,"Burt, Kerry",8,000120
+Lincoln,Lincoln Precinct 1,U.S. House,1,Republican,"Marshall, Roger",134,000120
+Lincoln,Lincoln Precinct 2,U.S. House,1,independent,"LaPolice, Alan",103,00013A
+Lincoln,Lincoln Precinct 2,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00013A
+Lincoln,Lincoln Precinct 2,U.S. House,1,Libertarian,"Burt, Kerry",10,00013A
+Lincoln,Lincoln Precinct 2,U.S. House,1,Republican,"Marshall, Roger",163,00013A
+Lincoln,Lincoln Precinct 2 Exclave,U.S. House,1,independent,"LaPolice, Alan",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. House,1,Libertarian,"Burt, Kerry",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. House,1,Republican,"Marshall, Roger",0,00013B
+Lincoln,Logan Township,U.S. House,1,independent,"LaPolice, Alan",14,000140
+Lincoln,Logan Township,U.S. House,1,Write-ins,"Huelskamp, Tim",3,000140
+Lincoln,Logan Township,U.S. House,1,Libertarian,"Burt, Kerry",3,000140
+Lincoln,Logan Township,U.S. House,1,Republican,"Marshall, Roger",18,000140
+Lincoln,Madison Township,U.S. House,1,independent,"LaPolice, Alan",13,000150
+Lincoln,Madison Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000150
+Lincoln,Madison Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000150
+Lincoln,Madison Township,U.S. House,1,Republican,"Marshall, Roger",29,000150
+Lincoln,Marion Township,U.S. House,1,independent,"LaPolice, Alan",5,000160
+Lincoln,Marion Township,U.S. House,1,Write-ins,"Huelskamp, Tim",2,000160
+Lincoln,Marion Township,U.S. House,1,Libertarian,"Burt, Kerry",1,000160
+Lincoln,Marion Township,U.S. House,1,Republican,"Marshall, Roger",10,000160
+Lincoln,Orange Township,U.S. House,1,independent,"LaPolice, Alan",9,000170
+Lincoln,Orange Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000170
+Lincoln,Orange Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000170
+Lincoln,Orange Township,U.S. House,1,Republican,"Marshall, Roger",29,000170
+Lincoln,Pleasant Township,U.S. House,1,independent,"LaPolice, Alan",64,000180
+Lincoln,Pleasant Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000180
+Lincoln,Pleasant Township,U.S. House,1,Libertarian,"Burt, Kerry",8,000180
+Lincoln,Pleasant Township,U.S. House,1,Republican,"Marshall, Roger",121,000180
+Lincoln,Salt Creek Township,U.S. House,1,independent,"LaPolice, Alan",10,000190
+Lincoln,Salt Creek Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000190
+Lincoln,Salt Creek Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000190
+Lincoln,Salt Creek Township,U.S. House,1,Republican,"Marshall, Roger",19,000190
+Lincoln,Scott Township,U.S. House,1,independent,"LaPolice, Alan",15,000200
+Lincoln,Scott Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000200
+Lincoln,Scott Township,U.S. House,1,Libertarian,"Burt, Kerry",1,000200
+Lincoln,Scott Township,U.S. House,1,Republican,"Marshall, Roger",31,000200
+Lincoln,Valley Township,U.S. House,1,independent,"LaPolice, Alan",6,000210
+Lincoln,Valley Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000210
+Lincoln,Valley Township,U.S. House,1,Libertarian,"Burt, Kerry",2,000210
+Lincoln,Valley Township,U.S. House,1,Republican,"Marshall, Roger",13,000210
+Lincoln,Vesper Township,U.S. House,1,independent,"LaPolice, Alan",13,000220
+Lincoln,Vesper Township,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000220
+Lincoln,Vesper Township,U.S. House,1,Libertarian,"Burt, Kerry",0,000220
+Lincoln,Vesper Township,U.S. House,1,Republican,"Marshall, Roger",37,000220
+Lincoln,Marion Township Enclave 1,U.S. House,1,independent,"LaPolice, Alan",0,900010
+Lincoln,Marion Township Enclave 1,U.S. House,1,Write-ins,"Huelskamp, Tim",0,900010
+Lincoln,Marion Township Enclave 1,U.S. House,1,Libertarian,"Burt, Kerry",0,900010
+Lincoln,Marion Township Enclave 1,U.S. House,1,Republican,"Marshall, Roger",0,900010
+Lincoln,Battle Creek Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000010
+Lincoln,Battle Creek Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,000010
+Lincoln,Battle Creek Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",4,000010
+Lincoln,Battle Creek Township,U.S. Senate,,Republican,"Moran, Jerry",19,000010
+Lincoln,Beaver Township,U.S. Senate,,Write-ins,"Smith, DJ",0,00002A
+Lincoln,Beaver Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,00002A
+Lincoln,Beaver Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",1,00002A
+Lincoln,Beaver Township,U.S. Senate,,Republican,"Moran, Jerry",29,00002A
+Lincoln,Cedron Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000030
+Lincoln,Cedron Township,U.S. Senate,,Democratic,"Wiesner, Patrick",2,000030
+Lincoln,Cedron Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000030
+Lincoln,Cedron Township,U.S. Senate,,Republican,"Moran, Jerry",19,000030
+Lincoln,Colorado Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000040
+Lincoln,Colorado Township,U.S. Senate,,Democratic,"Wiesner, Patrick",16,000040
+Lincoln,Colorado Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",8,000040
+Lincoln,Colorado Township,U.S. Senate,,Republican,"Moran, Jerry",89,000040
+Lincoln,Elkhorn Township Part A,U.S. Senate,,Write-ins,"Smith, DJ",0,00005A
+Lincoln,Elkhorn Township Part A,U.S. Senate,,Democratic,"Wiesner, Patrick",3,00005A
+Lincoln,Elkhorn Township Part A,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,00005A
+Lincoln,Elkhorn Township Part A,U.S. Senate,,Republican,"Moran, Jerry",59,00005A
+Lincoln,Franklin Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000060
+Lincoln,Franklin Township,U.S. Senate,,Democratic,"Wiesner, Patrick",4,000060
+Lincoln,Franklin Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",5,000060
+Lincoln,Franklin Township,U.S. Senate,,Republican,"Moran, Jerry",44,000060
+Lincoln,Golden Belt Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000070
+Lincoln,Golden Belt Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,000070
+Lincoln,Golden Belt Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,000070
+Lincoln,Golden Belt Township,U.S. Senate,,Republican,"Moran, Jerry",21,000070
+Lincoln,Grant Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000080
+Lincoln,Grant Township,U.S. Senate,,Democratic,"Wiesner, Patrick",3,000080
+Lincoln,Grant Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",3,000080
+Lincoln,Grant Township,U.S. Senate,,Republican,"Moran, Jerry",38,000080
+Lincoln,Hanover Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000090
+Lincoln,Hanover Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,000090
+Lincoln,Hanover Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",3,000090
+Lincoln,Hanover Township,U.S. Senate,,Republican,"Moran, Jerry",19,000090
+Lincoln,Highland Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000100
+Lincoln,Highland Township,U.S. Senate,,Democratic,"Wiesner, Patrick",8,000100
+Lincoln,Highland Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000100
+Lincoln,Highland Township,U.S. Senate,,Republican,"Moran, Jerry",28,000100
+Lincoln,Indiana Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000110
+Lincoln,Indiana Township,U.S. Senate,,Democratic,"Wiesner, Patrick",5,000110
+Lincoln,Indiana Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,000110
+Lincoln,Indiana Township,U.S. Senate,,Republican,"Moran, Jerry",33,000110
+Lincoln,Lincoln Precinct 1,U.S. Senate,,Write-ins,"Smith, DJ",0,000120
+Lincoln,Lincoln Precinct 1,U.S. Senate,,Democratic,"Wiesner, Patrick",31,000120
+Lincoln,Lincoln Precinct 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",14,000120
+Lincoln,Lincoln Precinct 1,U.S. Senate,,Republican,"Moran, Jerry",190,000120
+Lincoln,Lincoln Precinct 2,U.S. Senate,,Write-ins,"Smith, DJ",0,00013A
+Lincoln,Lincoln Precinct 2,U.S. Senate,,Democratic,"Wiesner, Patrick",38,00013A
+Lincoln,Lincoln Precinct 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",9,00013A
+Lincoln,Lincoln Precinct 2,U.S. Senate,,Republican,"Moran, Jerry",230,00013A
+Lincoln,Lincoln Precinct 2 Exclave,U.S. Senate,,Write-ins,"Smith, DJ",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. Senate,,Democratic,"Wiesner, Patrick",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,00013B
+Lincoln,Lincoln Precinct 2 Exclave,U.S. Senate,,Republican,"Moran, Jerry",0,00013B
+Lincoln,Logan Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000140
+Lincoln,Logan Township,U.S. Senate,,Democratic,"Wiesner, Patrick",4,000140
+Lincoln,Logan Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",5,000140
+Lincoln,Logan Township,U.S. Senate,,Republican,"Moran, Jerry",30,000140
+Lincoln,Madison Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000150
+Lincoln,Madison Township,U.S. Senate,,Democratic,"Wiesner, Patrick",7,000150
+Lincoln,Madison Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,000150
+Lincoln,Madison Township,U.S. Senate,,Republican,"Moran, Jerry",33,000150
+Lincoln,Marion Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000160
+Lincoln,Marion Township,U.S. Senate,,Democratic,"Wiesner, Patrick",0,000160
+Lincoln,Marion Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",1,000160
+Lincoln,Marion Township,U.S. Senate,,Republican,"Moran, Jerry",18,000160
+Lincoln,Orange Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000170
+Lincoln,Orange Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,000170
+Lincoln,Orange Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",1,000170
+Lincoln,Orange Township,U.S. Senate,,Republican,"Moran, Jerry",37,000170
+Lincoln,Pleasant Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000180
+Lincoln,Pleasant Township,U.S. Senate,,Democratic,"Wiesner, Patrick",31,000180
+Lincoln,Pleasant Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",5,000180
+Lincoln,Pleasant Township,U.S. Senate,,Republican,"Moran, Jerry",161,000180
+Lincoln,Salt Creek Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000190
+Lincoln,Salt Creek Township,U.S. Senate,,Democratic,"Wiesner, Patrick",3,000190
+Lincoln,Salt Creek Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,000190
+Lincoln,Salt Creek Township,U.S. Senate,,Republican,"Moran, Jerry",25,000190
+Lincoln,Scott Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000200
+Lincoln,Scott Township,U.S. Senate,,Democratic,"Wiesner, Patrick",2,000200
+Lincoln,Scott Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000200
+Lincoln,Scott Township,U.S. Senate,,Republican,"Moran, Jerry",45,000200
+Lincoln,Valley Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000210
+Lincoln,Valley Township,U.S. Senate,,Democratic,"Wiesner, Patrick",1,000210
+Lincoln,Valley Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000210
+Lincoln,Valley Township,U.S. Senate,,Republican,"Moran, Jerry",20,000210
+Lincoln,Vesper Township,U.S. Senate,,Write-ins,"Smith, DJ",0,000220
+Lincoln,Vesper Township,U.S. Senate,,Democratic,"Wiesner, Patrick",4,000220
+Lincoln,Vesper Township,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000220
+Lincoln,Vesper Township,U.S. Senate,,Republican,"Moran, Jerry",47,000220
+Lincoln,Marion Township Enclave 1,U.S. Senate,,Write-ins,"Smith, DJ",0,900010
+Lincoln,Marion Township Enclave 1,U.S. Senate,,Democratic,"Wiesner, Patrick",0,900010
+Lincoln,Marion Township Enclave 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,900010
+Lincoln,Marion Township Enclave 1,U.S. Senate,,Republican,"Moran, Jerry",0,900010

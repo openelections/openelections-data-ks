@@ -1,0 +1,986 @@
+county,precinct,office,district,party,candidate,votes,vtd
+BARTON,Albion Township,State House,112,Democratic,"Muehleisen, Steve",2,000010
+BARTON,Albion Township,State House,112,Republican,"Edmonds, John",30,000010
+BARTON,Beaver Township,State House,109,Republican,"Waymaster, Troy L.",43,000020
+BARTON,Buffalo Township,State House,112,Democratic,"Muehleisen, Steve",60,000030
+BARTON,Buffalo Township,State House,112,Republican,"Edmonds, John",145,000030
+BARTON,Cheyenne Township,State House,109,Republican,"Waymaster, Troy L.",94,000040
+BARTON,Clarence Township,State House,109,Republican,"Waymaster, Troy L.",52,000050
+BARTON,Cleveland Township,State House,109,Republican,"Waymaster, Troy L.",16,000060
+BARTON,Comanche Township,State House,113,Republican,"Christmann, Marshall",156,000070
+BARTON,Eureka Township,State House,112,Democratic,"Muehleisen, Steve",13,000080
+BARTON,Eureka Township,State House,112,Republican,"Edmonds, John",38,000080
+BARTON,Fairview Township,State House,109,Republican,"Waymaster, Troy L.",47,000090
+BARTON,Grant Township,State House,109,Republican,"Waymaster, Troy L.",24,000100
+BARTON,Great Bend City Ward 1 Precinct 1,State House,112,Democratic,"Muehleisen, Steve",116,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,State House,112,Republican,"Edmonds, John",200,00011A
+BARTON,Great Bend City Ward 1 Precinct 1 Courthouse,State House,112,Democratic,"Muehleisen, Steve",0,00011B
+BARTON,Great Bend City Ward 1 Precinct 1 Courthouse,State House,112,Republican,"Edmonds, John",0,00011B
+BARTON,Great Bend City Ward 1 Precinct 2,State House,112,Democratic,"Muehleisen, Steve",127,000120
+BARTON,Great Bend City Ward 1 Precinct 2,State House,112,Republican,"Edmonds, John",343,000120
+BARTON,Great Bend City Ward 1 Precinct 3,State House,112,Democratic,"Muehleisen, Steve",93,000130
+BARTON,Great Bend City Ward 1 Precinct 3,State House,112,Republican,"Edmonds, John",288,000130
+BARTON,Great Bend City Ward 2 Precinct 1,State House,112,Democratic,"Muehleisen, Steve",192,000140
+BARTON,Great Bend City Ward 2 Precinct 1,State House,112,Republican,"Edmonds, John",426,000140
+BARTON,Great Bend City Ward 2 Precinct 2,State House,112,Democratic,"Muehleisen, Steve",160,000150
+BARTON,Great Bend City Ward 2 Precinct 2,State House,112,Republican,"Edmonds, John",451,000150
+BARTON,Great Bend City Ward 2 Precinct 3,State House,112,Democratic,"Muehleisen, Steve",169,000160
+BARTON,Great Bend City Ward 2 Precinct 3,State House,112,Republican,"Edmonds, John",513,000160
+BARTON,Great Bend City Ward 3 Precinct 1,State House,112,Democratic,"Muehleisen, Steve",98,000170
+BARTON,Great Bend City Ward 3 Precinct 1,State House,112,Republican,"Edmonds, John",303,000170
+BARTON,Great Bend City Ward 3 Precinct 2,State House,112,Democratic,"Muehleisen, Steve",118,000180
+BARTON,Great Bend City Ward 3 Precinct 2,State House,112,Republican,"Edmonds, John",360,000180
+BARTON,Great Bend City Ward 3 Precinct 3,State House,112,Democratic,"Muehleisen, Steve",133,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,State House,112,Republican,"Edmonds, John",375,00019A
+BARTON,Great Bend City Ward 3 Precinct 3 Exclave,State House,112,Democratic,"Muehleisen, Steve",0,00019B
+BARTON,Great Bend City Ward 3 Precinct 3 Exclave,State House,112,Republican,"Edmonds, John",0,00019B
+BARTON,Great Bend City Ward 4 Precinct 1,State House,112,Democratic,"Muehleisen, Steve",97,000200
+BARTON,Great Bend City Ward 4 Precinct 1,State House,112,Republican,"Edmonds, John",178,000200
+BARTON,Great Bend City Ward 4 Precinct 2,State House,112,Democratic,"Muehleisen, Steve",79,000210
+BARTON,Great Bend City Ward 4 Precinct 2,State House,112,Republican,"Edmonds, John",147,000210
+BARTON,Great Bend City Ward 4 Precinct 3,State House,112,Democratic,"Muehleisen, Steve",34,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,State House,112,Republican,"Edmonds, John",52,00022A
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave A,State House,112,Democratic,"Muehleisen, Steve",0,00022B
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave A,State House,112,Republican,"Edmonds, John",0,00022B
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave B,State House,112,Democratic,"Muehleisen, Steve",0,00022C
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave B,State House,112,Republican,"Edmonds, John",0,00022C
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave C,State House,112,Democratic,"Muehleisen, Steve",0,00022D
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave C,State House,112,Republican,"Edmonds, John",0,00022D
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D1,State House,112,Democratic,"Muehleisen, Steve",0,00022E
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D1,State House,112,Republican,"Edmonds, John",0,00022E
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D2,State House,112,Democratic,"Muehleisen, Steve",0,00022F
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D2,State House,112,Republican,"Edmonds, John",0,00022F
+BARTON,Great Bend Township Part A,State House,112,Democratic,"Muehleisen, Steve",142,00023A
+BARTON,Great Bend Township Part A,State House,112,Republican,"Edmonds, John",415,00023A
+BARTON,Great Bend Township Part B,State House,112,Democratic,"Muehleisen, Steve",23,00023B
+BARTON,Great Bend Township Part B,State House,112,Republican,"Edmonds, John",87,00023B
+BARTON,Great Bend Township,State House,112,Democratic,"Muehleisen, Steve",0,00023C
+BARTON,Great Bend Township,State House,112,Republican,"Edmonds, John",0,00023C
+BARTON,Hoisington Ward 1,State House,112,Democratic,"Muehleisen, Steve",61,000240
+BARTON,Hoisington Ward 1,State House,112,Republican,"Edmonds, John",176,000240
+BARTON,Hoisington Ward 2,State House,112,Democratic,"Muehleisen, Steve",63,000250
+BARTON,Hoisington Ward 2,State House,112,Republican,"Edmonds, John",192,000250
+BARTON,Hoisington Ward 3,State House,112,Democratic,"Muehleisen, Steve",60,000260
+BARTON,Hoisington Ward 3,State House,112,Republican,"Edmonds, John",215,000260
+BARTON,Hoisington Ward 4,State House,112,Democratic,"Muehleisen, Steve",64,00027A
+BARTON,Hoisington Ward 4,State House,112,Republican,"Edmonds, John",181,00027A
+BARTON,Hoisington Ward 4 Exclave,State House,112,Democratic,"Muehleisen, Steve",0,00027B
+BARTON,Hoisington Ward 4 Exclave,State House,112,Republican,"Edmonds, John",0,00027B
+BARTON,Independent Township,State House,109,Republican,"Waymaster, Troy L.",307,000280
+BARTON,Lakin Township,State House,113,Republican,"Christmann, Marshall",804,000290
+BARTON,Liberty Township,State House,112,Democratic,"Muehleisen, Steve",26,000300
+BARTON,Liberty Township,State House,112,Republican,"Edmonds, John",83,000300
+BARTON,Logan Township,State House,109,Republican,"Waymaster, Troy L.",61,000310
+BARTON,North Homestead Township,State House,112,Democratic,"Muehleisen, Steve",17,000320
+BARTON,North Homestead Township,State House,112,Republican,"Edmonds, John",45,000320
+BARTON,Pawnee Rock Township,State House,113,Republican,"Christmann, Marshall",130,000330
+BARTON,South Bend Township,State House,112,Democratic,"Muehleisen, Steve",76,000340
+BARTON,South Bend Township,State House,112,Republican,"Edmonds, John",204,000340
+BARTON,South Homestead Township,State House,112,Democratic,"Muehleisen, Steve",33,000350
+BARTON,South Homestead Township,State House,112,Republican,"Edmonds, John",132,000350
+BARTON,Union Township,State House,109,Republican,"Waymaster, Troy L.",52,000360
+BARTON,Walnut Township Albert,State House,109,Republican,"Waymaster, Troy L.",93,000370
+BARTON,Walnut Township Olmitz,State House,109,Republican,"Waymaster, Troy L.",60,000380
+BARTON,Wheatland Township,State House,109,Republican,"Waymaster, Troy L.",28,000390
+BARTON,Hoisington Landfill,State House,112,Democratic,"Muehleisen, Steve",0,900010
+BARTON,Hoisington Landfill,State House,112,Republican,"Edmonds, John",0,900010
+BARTON,Albion Township,State Senate,33,Republican,"Holmes, Mitch",32,000010
+BARTON,Beaver Township,State Senate,33,Republican,"Holmes, Mitch",40,000020
+BARTON,Buffalo Township,State Senate,33,Republican,"Holmes, Mitch",188,000030
+BARTON,Cheyenne Township,State Senate,33,Republican,"Holmes, Mitch",96,000040
+BARTON,Clarence Township,State Senate,33,Republican,"Holmes, Mitch",52,000050
+BARTON,Cleveland Township,State Senate,33,Republican,"Holmes, Mitch",17,000060
+BARTON,Comanche Township,State Senate,33,Republican,"Holmes, Mitch",166,000070
+BARTON,Eureka Township,State Senate,33,Republican,"Holmes, Mitch",45,000080
+BARTON,Fairview Township,State Senate,33,Republican,"Holmes, Mitch",47,000090
+BARTON,Grant Township,State Senate,33,Republican,"Holmes, Mitch",25,000100
+BARTON,Great Bend City Ward 1 Precinct 1,State Senate,33,Republican,"Holmes, Mitch",272,00011A
+BARTON,Great Bend City Ward 1 Precinct 1 Courthouse,State Senate,33,Republican,"Holmes, Mitch",0,00011B
+BARTON,Great Bend City Ward 1 Precinct 2,State Senate,33,Republican,"Holmes, Mitch",418,000120
+BARTON,Great Bend City Ward 1 Precinct 3,State Senate,33,Republican,"Holmes, Mitch",339,000130
+BARTON,Great Bend City Ward 2 Precinct 1,State Senate,33,Republican,"Holmes, Mitch",535,000140
+BARTON,Great Bend City Ward 2 Precinct 2,State Senate,33,Republican,"Holmes, Mitch",544,000150
+BARTON,Great Bend City Ward 2 Precinct 3,State Senate,33,Republican,"Holmes, Mitch",600,000160
+BARTON,Great Bend City Ward 3 Precinct 1,State Senate,33,Republican,"Holmes, Mitch",348,000170
+BARTON,Great Bend City Ward 3 Precinct 2,State Senate,33,Republican,"Holmes, Mitch",418,000180
+BARTON,Great Bend City Ward 3 Precinct 3,State Senate,33,Republican,"Holmes, Mitch",451,00019A
+BARTON,Great Bend City Ward 3 Precinct 3 Exclave,State Senate,33,Republican,"Holmes, Mitch",0,00019B
+BARTON,Great Bend City Ward 4 Precinct 1,State Senate,33,Republican,"Holmes, Mitch",234,000200
+BARTON,Great Bend City Ward 4 Precinct 2,State Senate,33,Republican,"Holmes, Mitch",187,000210
+BARTON,Great Bend City Ward 4 Precinct 3,State Senate,33,Republican,"Holmes, Mitch",67,00022A
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave A,State Senate,33,Republican,"Holmes, Mitch",0,00022B
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave B,State Senate,33,Republican,"Holmes, Mitch",0,00022C
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave C,State Senate,33,Republican,"Holmes, Mitch",0,00022D
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D1,State Senate,33,Republican,"Holmes, Mitch",0,00022E
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D2,State Senate,33,Republican,"Holmes, Mitch",0,00022F
+BARTON,Great Bend Township Part A,State Senate,33,Republican,"Holmes, Mitch",512,00023A
+BARTON,Great Bend Township Part B,State Senate,33,Republican,"Holmes, Mitch",98,00023B
+BARTON,Great Bend Township,State Senate,33,Republican,"Holmes, Mitch",0,00023C
+BARTON,Hoisington Ward 1,State Senate,33,Republican,"Holmes, Mitch",193,000240
+BARTON,Hoisington Ward 2,State Senate,33,Republican,"Holmes, Mitch",216,000250
+BARTON,Hoisington Ward 3,State Senate,33,Republican,"Holmes, Mitch",257,000260
+BARTON,Hoisington Ward 4,State Senate,33,Republican,"Holmes, Mitch",217,00027A
+BARTON,Hoisington Ward 4 Exclave,State Senate,33,Republican,"Holmes, Mitch",0,00027B
+BARTON,Independent Township,State Senate,33,Republican,"Holmes, Mitch",317,000280
+BARTON,Lakin Township,State Senate,33,Republican,"Holmes, Mitch",843,000290
+BARTON,Liberty Township,State Senate,33,Republican,"Holmes, Mitch",105,000300
+BARTON,Logan Township,State Senate,33,Republican,"Holmes, Mitch",68,000310
+BARTON,North Homestead Township,State Senate,33,Republican,"Holmes, Mitch",55,000320
+BARTON,Pawnee Rock Township,State Senate,33,Republican,"Holmes, Mitch",132,000330
+BARTON,South Bend Township,State Senate,33,Republican,"Holmes, Mitch",262,000340
+BARTON,South Homestead Township,State Senate,33,Republican,"Holmes, Mitch",161,000350
+BARTON,Union Township,State Senate,33,Republican,"Holmes, Mitch",51,000360
+BARTON,Walnut Township Albert,State Senate,33,Republican,"Holmes, Mitch",98,000370
+BARTON,Walnut Township Olmitz,State Senate,33,Republican,"Holmes, Mitch",64,000380
+BARTON,Wheatland Township,State Senate,33,Republican,"Holmes, Mitch",28,000390
+BARTON,Hoisington Landfill,State Senate,33,Republican,"Holmes, Mitch",0,900010
+BARTON,Albion Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Bush, Kent W",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Christensen, Will",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Goode, Virgil",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Stein, Jill E",1,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+BARTON,Albion Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+BARTON,Albion Township,President / Vice President,,Democratic,"Obama, Barack",2,000010
+BARTON,Albion Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+BARTON,Albion Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000010
+BARTON,Albion Township,President / Vice President,,Republican,"Romney, Mitt",31,000010
+BARTON,Beaver Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Barnett, Andre",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Bush, Kent W",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Christensen, Will",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Goode, Virgil",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Stein, Jill E",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+BARTON,Beaver Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+BARTON,Beaver Township,President / Vice President,,Democratic,"Obama, Barack",11,000020
+BARTON,Beaver Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+BARTON,Beaver Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000020
+BARTON,Beaver Township,President / Vice President,,Republican,"Romney, Mitt",32,000020
+BARTON,Buffalo Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Barnett, Andre",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Bush, Kent W",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Christensen, Will",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Goode, Virgil",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Stein, Jill E",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+BARTON,Buffalo Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+BARTON,Buffalo Township,President / Vice President,,Democratic,"Obama, Barack",45,000030
+BARTON,Buffalo Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000030
+BARTON,Buffalo Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000030
+BARTON,Buffalo Township,President / Vice President,,Republican,"Romney, Mitt",167,000030
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Barnett, Andre",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Bush, Kent W",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Christensen, Will",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Goode, Virgil",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Stein, Jill E",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+BARTON,Cheyenne Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+BARTON,Cheyenne Township,President / Vice President,,Democratic,"Obama, Barack",11,000040
+BARTON,Cheyenne Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+BARTON,Cheyenne Township,President / Vice President,,Reform,"Baldwin, Chuck",2,000040
+BARTON,Cheyenne Township,President / Vice President,,Republican,"Romney, Mitt",94,000040
+BARTON,Clarence Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Barnett, Andre",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Bush, Kent W",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Christensen, Will",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Goode, Virgil",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Stein, Jill E",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+BARTON,Clarence Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+BARTON,Clarence Township,President / Vice President,,Democratic,"Obama, Barack",13,000050
+BARTON,Clarence Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000050
+BARTON,Clarence Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000050
+BARTON,Clarence Township,President / Vice President,,Republican,"Romney, Mitt",46,000050
+BARTON,Cleveland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Barnett, Andre",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Bush, Kent W",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Christensen, Will",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Goode, Virgil",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Stein, Jill E",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+BARTON,Cleveland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+BARTON,Cleveland Township,President / Vice President,,Democratic,"Obama, Barack",3,000060
+BARTON,Cleveland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000060
+BARTON,Cleveland Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000060
+BARTON,Cleveland Township,President / Vice President,,Republican,"Romney, Mitt",17,000060
+BARTON,Comanche Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Barnett, Andre",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Bush, Kent W",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Christensen, Will",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Goode, Virgil",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Stein, Jill E",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+BARTON,Comanche Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+BARTON,Comanche Township,President / Vice President,,Democratic,"Obama, Barack",37,000070
+BARTON,Comanche Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000070
+BARTON,Comanche Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000070
+BARTON,Comanche Township,President / Vice President,,Republican,"Romney, Mitt",155,000070
+BARTON,Eureka Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Ayers, Avery L",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Barnett, Andre",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Bush, Kent W",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Christensen, Will",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Duncan, Richard A",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Goode, Virgil",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Knill, Dennis J",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Reed, Jill A.",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Rogers, Rick L",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Stein, Jill E",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000080
+BARTON,Eureka Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000080
+BARTON,Eureka Township,President / Vice President,,Democratic,"Obama, Barack",6,000080
+BARTON,Eureka Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+BARTON,Eureka Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000080
+BARTON,Eureka Township,President / Vice President,,Republican,"Romney, Mitt",42,000080
+BARTON,Fairview Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Barnett, Andre",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Bush, Kent W",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Christensen, Will",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Goode, Virgil",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Stein, Jill E",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+BARTON,Fairview Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+BARTON,Fairview Township,President / Vice President,,Democratic,"Obama, Barack",15,000090
+BARTON,Fairview Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000090
+BARTON,Fairview Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000090
+BARTON,Fairview Township,President / Vice President,,Republican,"Romney, Mitt",38,000090
+BARTON,Grant Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Barnett, Andre",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Bush, Kent W",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Christensen, Will",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Goode, Virgil",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Stein, Jill E",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+BARTON,Grant Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+BARTON,Grant Township,President / Vice President,,Democratic,"Obama, Barack",7,000100
+BARTON,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+BARTON,Grant Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000100
+BARTON,Grant Township,President / Vice President,,Republican,"Romney, Mitt",21,000100
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",125,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",5,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",1,00011A
+BARTON,Great Bend City Ward 1 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",204,00011A
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",118,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",10,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",5,000120
+BARTON,Great Bend City Ward 1 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",358,000120
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Barnett, Andre",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Bush, Kent W",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Christensen, Will",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Goode, Virgil",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Stein, Jill E",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,Democratic,"Obama, Barack",84,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",6,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,Reform,"Baldwin, Chuck",1,000130
+BARTON,Great Bend City Ward 1 Precinct 3,President / Vice President,,Republican,"Romney, Mitt",312,000130
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",156,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",4,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",0,000140
+BARTON,Great Bend City Ward 2 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",484,000140
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",133,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",6,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",1,000150
+BARTON,Great Bend City Ward 2 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",502,000150
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Barnett, Andre",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Bush, Kent W",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Christensen, Will",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Goode, Virgil",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Stein, Jill E",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,Democratic,"Obama, Barack",145,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",7,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,Reform,"Baldwin, Chuck",1,000160
+BARTON,Great Bend City Ward 2 Precinct 3,President / Vice President,,Republican,"Romney, Mitt",557,000160
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",93,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",3,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",2,000170
+BARTON,Great Bend City Ward 3 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",317,000170
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",129,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",5,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",4,000180
+BARTON,Great Bend City Ward 3 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",355,000180
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Ayers, Avery L",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Barnett, Andre",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Barr, Roseanne C",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Bush, Kent W",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Christensen, Will",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Duncan, Richard A",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Goode, Virgil",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Knill, Dennis J",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Reed, Jill A.",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Rogers, Rick L",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Stein, Jill E",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Thorne, Kevin M",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,write - in,"Warner, Gerald L.",0,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,Democratic,"Obama, Barack",117,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",6,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,Reform,"Baldwin, Chuck",6,00019A
+BARTON,Great Bend City Ward 3 Precinct 3,President / Vice President,,Republican,"Romney, Mitt",405,00019A
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",100,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",8,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000200
+BARTON,Great Bend City Ward 4 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",186,000200
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",82,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",4,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",2,000210
+BARTON,Great Bend City Ward 4 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",149,000210
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Ayers, Avery L",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Barnett, Andre",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Barr, Roseanne C",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Bush, Kent W",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Christensen, Will",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Duncan, Richard A",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Goode, Virgil",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Knill, Dennis J",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Reed, Jill A.",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Rogers, Rick L",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Stein, Jill E",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Thorne, Kevin M",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,write - in,"Warner, Gerald L.",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,Democratic,"Obama, Barack",45,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",0,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,Reform,"Baldwin, Chuck",1,00022A
+BARTON,Great Bend City Ward 4 Precinct 3,President / Vice President,,Republican,"Romney, Mitt",43,00022A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Ayers, Avery L",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Barnett, Andre",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Barr, Roseanne C",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Bush, Kent W",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Christensen, Will",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Duncan, Richard A",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Goode, Virgil",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Hoefling, Tom",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Knill, Dennis J",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Reed, Jill A.",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Rogers, Rick L",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Stein, Jill E",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Thorne, Kevin M",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,write - in,"Warner, Gerald L.",0,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,Democratic,"Obama, Barack",104,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,Libertarian,"Johnson, Gary",3,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,Reform,"Baldwin, Chuck",1,00023A
+BARTON,Great Bend Township Part A,President / Vice President,,Republican,"Romney, Mitt",466,00023A
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Ayers, Avery L",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Barnett, Andre",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Barr, Roseanne C",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Bush, Kent W",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Christensen, Will",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Duncan, Richard A",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Goode, Virgil",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Hoefling, Tom",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Knill, Dennis J",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Reed, Jill A.",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Rogers, Rick L",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Stein, Jill E",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Thorne, Kevin M",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,write - in,"Warner, Gerald L.",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,Democratic,"Obama, Barack",18,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,Libertarian,"Johnson, Gary",2,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,Reform,"Baldwin, Chuck",0,00023B
+BARTON,Great Bend Township Part B,President / Vice President,,Republican,"Romney, Mitt",93,00023B
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000240
+BARTON,Hoisington Ward 1,President / Vice President,,Democratic,"Obama, Barack",51,000240
+BARTON,Hoisington Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",3,000240
+BARTON,Hoisington Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",2,000240
+BARTON,Hoisington Ward 1,President / Vice President,,Republican,"Romney, Mitt",182,000240
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,Democratic,"Obama, Barack",61,000250
+BARTON,Hoisington Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",2,000250
+BARTON,Hoisington Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",0,000250
+BARTON,Hoisington Ward 2,President / Vice President,,Republican,"Romney, Mitt",209,000250
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000260
+BARTON,Hoisington Ward 3,President / Vice President,,Democratic,"Obama, Barack",50,000260
+BARTON,Hoisington Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",6,000260
+BARTON,Hoisington Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",2,000260
+BARTON,Hoisington Ward 3,President / Vice President,,Republican,"Romney, Mitt",229,000260
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Ayers, Avery L",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Barnett, Andre",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Barr, Roseanne C",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Bush, Kent W",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Christensen, Will",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Duncan, Richard A",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Goode, Virgil",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Knill, Dennis J",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Reed, Jill A.",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Rogers, Rick L",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Stein, Jill E",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Thorne, Kevin M",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,write - in,"Warner, Gerald L.",0,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,Democratic,"Obama, Barack",53,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",3,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,Reform,"Baldwin, Chuck",1,00027A
+BARTON,Hoisington Ward 4,President / Vice President,,Republican,"Romney, Mitt",189,00027A
+BARTON,Independent Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Ayers, Avery L",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Barnett, Andre",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Bush, Kent W",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Christensen, Will",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Duncan, Richard A",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Goode, Virgil",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Knill, Dennis J",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Reed, Jill A.",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Rogers, Rick L",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Stein, Jill E",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000280
+BARTON,Independent Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000280
+BARTON,Independent Township,President / Vice President,,Democratic,"Obama, Barack",54,000280
+BARTON,Independent Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000280
+BARTON,Independent Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000280
+BARTON,Independent Township,President / Vice President,,Republican,"Romney, Mitt",293,000280
+BARTON,Lakin Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Ayers, Avery L",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Barnett, Andre",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Bush, Kent W",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Christensen, Will",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Duncan, Richard A",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Goode, Virgil",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Knill, Dennis J",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Reed, Jill A.",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Rogers, Rick L",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Stein, Jill E",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000290
+BARTON,Lakin Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000290
+BARTON,Lakin Township,President / Vice President,,Democratic,"Obama, Barack",195,000290
+BARTON,Lakin Township,President / Vice President,,Libertarian,"Johnson, Gary",11,000290
+BARTON,Lakin Township,President / Vice President,,Reform,"Baldwin, Chuck",6,000290
+BARTON,Lakin Township,President / Vice President,,Republican,"Romney, Mitt",793,000290
+BARTON,Liberty Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Ayers, Avery L",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Barnett, Andre",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Bush, Kent W",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Christensen, Will",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Duncan, Richard A",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Goode, Virgil",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Knill, Dennis J",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Reed, Jill A.",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Rogers, Rick L",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Stein, Jill E",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000300
+BARTON,Liberty Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000300
+BARTON,Liberty Township,President / Vice President,,Democratic,"Obama, Barack",20,000300
+BARTON,Liberty Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000300
+BARTON,Liberty Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000300
+BARTON,Liberty Township,President / Vice President,,Republican,"Romney, Mitt",98,000300
+BARTON,Logan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Barnett, Andre",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Bush, Kent W",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Christensen, Will",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Goode, Virgil",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Stein, Jill E",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000310
+BARTON,Logan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000310
+BARTON,Logan Township,President / Vice President,,Democratic,"Obama, Barack",8,000310
+BARTON,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000310
+BARTON,Logan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000310
+BARTON,Logan Township,President / Vice President,,Republican,"Romney, Mitt",70,000310
+BARTON,North Homestead Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Ayers, Avery L",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Barnett, Andre",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Bush, Kent W",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Christensen, Will",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Duncan, Richard A",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Goode, Virgil",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Knill, Dennis J",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Reed, Jill A.",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Rogers, Rick L",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Stein, Jill E",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000320
+BARTON,North Homestead Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000320
+BARTON,North Homestead Township,President / Vice President,,Democratic,"Obama, Barack",13,000320
+BARTON,North Homestead Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000320
+BARTON,North Homestead Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000320
+BARTON,North Homestead Township,President / Vice President,,Republican,"Romney, Mitt",51,000320
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Ayers, Avery L",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Barnett, Andre",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Bush, Kent W",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Christensen, Will",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Duncan, Richard A",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Goode, Virgil",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Hoefling, Tom",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Knill, Dennis J",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Reed, Jill A.",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Rogers, Rick L",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Stein, Jill E",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,Democratic,"Obama, Barack",42,000330
+BARTON,Pawnee Rock Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000330
+BARTON,Pawnee Rock Township,President / Vice President,,Reform,"Baldwin, Chuck",2,000330
+BARTON,Pawnee Rock Township,President / Vice President,,Republican,"Romney, Mitt",113,000330
+BARTON,South Bend Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Ayers, Avery L",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Barnett, Andre",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Bush, Kent W",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Christensen, Will",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Duncan, Richard A",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Goode, Virgil",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Hoefling, Tom",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Knill, Dennis J",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Reed, Jill A.",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Rogers, Rick L",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Stein, Jill E",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000340
+BARTON,South Bend Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000340
+BARTON,South Bend Township,President / Vice President,,Democratic,"Obama, Barack",69,000340
+BARTON,South Bend Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000340
+BARTON,South Bend Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000340
+BARTON,South Bend Township,President / Vice President,,Republican,"Romney, Mitt",221,000340
+BARTON,South Homestead Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Ayers, Avery L",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Barnett, Andre",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Bush, Kent W",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Christensen, Will",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Duncan, Richard A",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Goode, Virgil",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Hoefling, Tom",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Knill, Dennis J",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Reed, Jill A.",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Rogers, Rick L",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Stein, Jill E",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000350
+BARTON,South Homestead Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000350
+BARTON,South Homestead Township,President / Vice President,,Democratic,"Obama, Barack",20,000350
+BARTON,South Homestead Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000350
+BARTON,South Homestead Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000350
+BARTON,South Homestead Township,President / Vice President,,Republican,"Romney, Mitt",147,000350
+BARTON,Union Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Ayers, Avery L",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Barnett, Andre",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Bush, Kent W",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Christensen, Will",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Duncan, Richard A",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Goode, Virgil",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Knill, Dennis J",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Reed, Jill A.",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Rogers, Rick L",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Stein, Jill E",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000360
+BARTON,Union Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000360
+BARTON,Union Township,President / Vice President,,Democratic,"Obama, Barack",12,000360
+BARTON,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000360
+BARTON,Union Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000360
+BARTON,Union Township,President / Vice President,,Republican,"Romney, Mitt",41,000360
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Ayers, Avery L",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Barnett, Andre",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Barr, Roseanne C",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Bush, Kent W",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Christensen, Will",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Duncan, Richard A",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Goode, Virgil",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Hoefling, Tom",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Knill, Dennis J",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Reed, Jill A.",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Rogers, Rick L",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Stein, Jill E",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Thorne, Kevin M",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,write - in,"Warner, Gerald L.",0,000370
+BARTON,Walnut Township Albert,President / Vice President,,Democratic,"Obama, Barack",23,000370
+BARTON,Walnut Township Albert,President / Vice President,,Libertarian,"Johnson, Gary",2,000370
+BARTON,Walnut Township Albert,President / Vice President,,Reform,"Baldwin, Chuck",1,000370
+BARTON,Walnut Township Albert,President / Vice President,,Republican,"Romney, Mitt",80,000370
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Ayers, Avery L",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Barnett, Andre",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Barr, Roseanne C",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Bush, Kent W",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Christensen, Will",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Duncan, Richard A",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Goode, Virgil",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Hoefling, Tom",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Knill, Dennis J",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Reed, Jill A.",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Rogers, Rick L",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Stein, Jill E",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Thorne, Kevin M",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,write - in,"Warner, Gerald L.",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,Democratic,"Obama, Barack",22,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,Libertarian,"Johnson, Gary",2,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,Reform,"Baldwin, Chuck",0,000380
+BARTON,Walnut Township Olmitz,President / Vice President,,Republican,"Romney, Mitt",57,000380
+BARTON,Wheatland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Barnett, Andre",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Bush, Kent W",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Christensen, Will",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Goode, Virgil",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Stein, Jill E",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000390
+BARTON,Wheatland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000390
+BARTON,Wheatland Township,President / Vice President,,Democratic,"Obama, Barack",5,000390
+BARTON,Wheatland Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000390
+BARTON,Wheatland Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000390
+BARTON,Wheatland Township,President / Vice President,,Republican,"Romney, Mitt",27,000390
+BARTON,Albion Township,U.S. House,1,Republican,"Huelskamp, Tim",32,000010
+BARTON,Beaver Township,U.S. House,1,Republican,"Huelskamp, Tim",42,000020
+BARTON,Buffalo Township,U.S. House,1,Republican,"Huelskamp, Tim",189,000030
+BARTON,Cheyenne Township,U.S. House,1,Republican,"Huelskamp, Tim",100,000040
+BARTON,Clarence Township,U.S. House,1,Republican,"Huelskamp, Tim",52,000050
+BARTON,Cleveland Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000060
+BARTON,Comanche Township,U.S. House,1,Republican,"Huelskamp, Tim",172,000070
+BARTON,Eureka Township,U.S. House,1,Republican,"Huelskamp, Tim",48,000080
+BARTON,Fairview Township,U.S. House,1,Republican,"Huelskamp, Tim",50,000090
+BARTON,Grant Township,U.S. House,1,Republican,"Huelskamp, Tim",25,000100
+BARTON,Great Bend City Ward 1 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",275,00011A
+BARTON,Great Bend City Ward 1 Precinct 1 Courthouse,U.S. House,1,Republican,"Huelskamp, Tim",0,00011B
+BARTON,Great Bend City Ward 1 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",419,000120
+BARTON,Great Bend City Ward 1 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",342,000130
+BARTON,Great Bend City Ward 2 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",544,000140
+BARTON,Great Bend City Ward 2 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",551,000150
+BARTON,Great Bend City Ward 2 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",616,000160
+BARTON,Great Bend City Ward 3 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",361,000170
+BARTON,Great Bend City Ward 3 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",425,000180
+BARTON,Great Bend City Ward 3 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",468,00019A
+BARTON,Great Bend City Ward 3 Precinct 3 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00019B
+BARTON,Great Bend City Ward 4 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",236,000200
+BARTON,Great Bend City Ward 4 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",187,000210
+BARTON,Great Bend City Ward 4 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",71,00022A
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave A,U.S. House,1,Republican,"Huelskamp, Tim",0,00022B
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave B,U.S. House,1,Republican,"Huelskamp, Tim",0,00022C
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave C,U.S. House,1,Republican,"Huelskamp, Tim",0,00022D
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D1,U.S. House,1,Republican,"Huelskamp, Tim",0,00022E
+BARTON,Great Bend City Ward 4 Precinct 3 Exclave D2,U.S. House,1,Republican,"Huelskamp, Tim",0,00022F
+BARTON,Great Bend Township Part A,U.S. House,1,Republican,"Huelskamp, Tim",517,00023A
+BARTON,Great Bend Township Part B,U.S. House,1,Republican,"Huelskamp, Tim",102,00023B
+BARTON,Great Bend Township,U.S. House,1,Republican,"Huelskamp, Tim",0,00023C
+BARTON,Hoisington Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",199,000240
+BARTON,Hoisington Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",229,000250
+BARTON,Hoisington Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",259,000260
+BARTON,Hoisington Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",221,00027A
+BARTON,Hoisington Ward 4 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00027B
+BARTON,Independent Township,U.S. House,1,Republican,"Huelskamp, Tim",324,000280
+BARTON,Lakin Township,U.S. House,1,Republican,"Huelskamp, Tim",868,000290
+BARTON,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",105,000300
+BARTON,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",65,000310
+BARTON,North Homestead Township,U.S. House,1,Republican,"Huelskamp, Tim",54,000320
+BARTON,Pawnee Rock Township,U.S. House,1,Republican,"Huelskamp, Tim",133,000330
+BARTON,South Bend Township,U.S. House,1,Republican,"Huelskamp, Tim",267,000340
+BARTON,South Homestead Township,U.S. House,1,Republican,"Huelskamp, Tim",157,000350
+BARTON,Union Township,U.S. House,1,Republican,"Huelskamp, Tim",55,000360
+BARTON,Walnut Township Albert,U.S. House,1,Republican,"Huelskamp, Tim",101,000370
+BARTON,Walnut Township Olmitz,U.S. House,1,Republican,"Huelskamp, Tim",68,000380
+BARTON,Wheatland Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000390
+BARTON,Hoisington Landfill,U.S. House,1,Republican,"Huelskamp, Tim",0,900010

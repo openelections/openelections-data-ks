@@ -1,0 +1,469 @@
+county,precinct,office,district,party,candidate,votes,vtd
+GRAHAM,Allodium Township,State House,118,Republican,"Hineman, Don",15,000010
+GRAHAM,Bogue City,State House,118,Republican,"Hineman, Don",0,000020
+GRAHAM,Bryant Township,State House,118,Republican,"Hineman, Don",27,000030
+GRAHAM,Gettysburg Township,State House,118,Republican,"Hineman, Don",35,000040
+GRAHAM,Graham Township,State House,118,Republican,"Hineman, Don",22,000050
+GRAHAM,Happy Township,State House,118,Republican,"Hineman, Don",22,000060
+GRAHAM,Indiana Township,State House,118,Republican,"Hineman, Don",12,000100
+GRAHAM,Millbrook Township,State House,118,Republican,"Hineman, Don",63,000110
+GRAHAM,Morlan Township,State House,118,Republican,"Hineman, Don",39,000120
+GRAHAM,Morland City,State House,118,Republican,"Hineman, Don",0,000130
+GRAHAM,Pioneer Township,State House,118,Republican,"Hineman, Don",11,000150
+GRAHAM,Solomon Township,State House,118,Republican,"Hineman, Don",89,000160
+GRAHAM,Wildhorse Township,State House,118,Republican,"Hineman, Don",79,000170
+GRAHAM,Hill City Precinct 1 H110,State House,110,Democratic,"Martin, Philip H.",26,120020
+GRAHAM,Hill City Precinct 1 H110,State House,110,Republican,"Couture-Lovelady, Travis",83,120020
+GRAHAM,Hill City Precinct 1 H118,State House,118,Republican,"Hineman, Don",3,120030
+GRAHAM,Hill City Precinct 2 H110,State House,110,Democratic,"Martin, Philip H.",128,120040
+GRAHAM,Hill City Precinct 2 H110,State House,110,Republican,"Couture-Lovelady, Travis",360,120040
+GRAHAM,Hill City Precinct 2 H118,State House,118,Republican,"Hineman, Don",2,120050
+GRAHAM,Hill City Precinct 3 H110,State House,110,Democratic,"Martin, Philip H.",27,120060
+GRAHAM,Hill City Precinct 3 H110,State House,110,Republican,"Couture-Lovelady, Travis",130,120060
+GRAHAM,Hill City Precinct 3 H118,State House,118,Republican,"Hineman, Don",26,120070
+GRAHAM,Nicodemus Township  H110,State House,110,Democratic,"Martin, Philip H.",3,120080
+GRAHAM,Nicodemus Township  H110,State House,110,Republican,"Couture-Lovelady, Travis",8,120080
+GRAHAM,Nicodemus Township H118,State House,118,Republican,"Hineman, Don",9,120090
+GRAHAM,Allodium Township,State Senate,40,Democratic,"Schmidt, Allen Clark",1,000010
+GRAHAM,Allodium Township,State Senate,40,Republican,"Ostmeyer, Ralph",15,000010
+GRAHAM,Bogue City,State Senate,40,Democratic,"Schmidt, Allen Clark",0,000020
+GRAHAM,Bogue City,State Senate,40,Republican,"Ostmeyer, Ralph",0,000020
+GRAHAM,Bryant Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000030
+GRAHAM,Bryant Township,State Senate,40,Republican,"Ostmeyer, Ralph",34,000030
+GRAHAM,Gettysburg Township,State Senate,40,Democratic,"Schmidt, Allen Clark",6,000040
+GRAHAM,Gettysburg Township,State Senate,40,Republican,"Ostmeyer, Ralph",37,000040
+GRAHAM,Graham Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000050
+GRAHAM,Graham Township,State Senate,40,Republican,"Ostmeyer, Ralph",22,000050
+GRAHAM,Happy Township,State Senate,40,Democratic,"Schmidt, Allen Clark",7,000060
+GRAHAM,Happy Township,State Senate,40,Republican,"Ostmeyer, Ralph",20,000060
+GRAHAM,Indiana Township,State Senate,40,Democratic,"Schmidt, Allen Clark",3,000100
+GRAHAM,Indiana Township,State Senate,40,Republican,"Ostmeyer, Ralph",11,000100
+GRAHAM,Millbrook Township,State Senate,40,Democratic,"Schmidt, Allen Clark",13,000110
+GRAHAM,Millbrook Township,State Senate,40,Republican,"Ostmeyer, Ralph",57,000110
+GRAHAM,Morlan Township,State Senate,40,Democratic,"Schmidt, Allen Clark",6,000120
+GRAHAM,Morlan Township,State Senate,40,Republican,"Ostmeyer, Ralph",37,000120
+GRAHAM,Morland City,State Senate,40,Democratic,"Schmidt, Allen Clark",0,000130
+GRAHAM,Morland City,State Senate,40,Republican,"Ostmeyer, Ralph",0,000130
+GRAHAM,Pioneer Township,State Senate,40,Democratic,"Schmidt, Allen Clark",6,000150
+GRAHAM,Pioneer Township,State Senate,40,Republican,"Ostmeyer, Ralph",10,000150
+GRAHAM,Solomon Township,State Senate,40,Democratic,"Schmidt, Allen Clark",16,000160
+GRAHAM,Solomon Township,State Senate,40,Republican,"Ostmeyer, Ralph",83,000160
+GRAHAM,Wildhorse Township,State Senate,40,Democratic,"Schmidt, Allen Clark",34,000170
+GRAHAM,Wildhorse Township,State Senate,40,Republican,"Ostmeyer, Ralph",79,000170
+GRAHAM,Hill City Precinct 1 H110,State Senate,40,Democratic,"Schmidt, Allen Clark",30,120020
+GRAHAM,Hill City Precinct 1 H110,State Senate,40,Republican,"Ostmeyer, Ralph",77,120020
+GRAHAM,Hill City Precinct 1 H118,State Senate,40,Democratic,"Schmidt, Allen Clark",1,120030
+GRAHAM,Hill City Precinct 1 H118,State Senate,40,Republican,"Ostmeyer, Ralph",6,120030
+GRAHAM,Hill City Precinct 2 H110,State Senate,40,Democratic,"Schmidt, Allen Clark",127,120040
+GRAHAM,Hill City Precinct 2 H110,State Senate,40,Republican,"Ostmeyer, Ralph",345,120040
+GRAHAM,Hill City Precinct 2 H118,State Senate,40,Democratic,"Schmidt, Allen Clark",3,120050
+GRAHAM,Hill City Precinct 2 H118,State Senate,40,Republican,"Ostmeyer, Ralph",2,120050
+GRAHAM,Hill City Precinct 3 H110,State Senate,40,Democratic,"Schmidt, Allen Clark",27,120060
+GRAHAM,Hill City Precinct 3 H110,State Senate,40,Republican,"Ostmeyer, Ralph",128,120060
+GRAHAM,Hill City Precinct 3 H118,State Senate,40,Democratic,"Schmidt, Allen Clark",8,120070
+GRAHAM,Hill City Precinct 3 H118,State Senate,40,Republican,"Ostmeyer, Ralph",24,120070
+GRAHAM,Nicodemus Township  H110,State Senate,40,Democratic,"Schmidt, Allen Clark",4,120080
+GRAHAM,Nicodemus Township  H110,State Senate,40,Republican,"Ostmeyer, Ralph",7,120080
+GRAHAM,Nicodemus Township H118,State Senate,40,Democratic,"Schmidt, Allen Clark",4,120090
+GRAHAM,Nicodemus Township H118,State Senate,40,Republican,"Ostmeyer, Ralph",8,120090
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Bush, Kent W",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Christensen, Will",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Goode, Virgil",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Stein, Jill E",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+GRAHAM,Allodium Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+GRAHAM,Allodium Township,President / Vice President,,Democratic,"Obama, Barack",0,000010
+GRAHAM,Allodium Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000010
+GRAHAM,Allodium Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000010
+GRAHAM,Allodium Township,President / Vice President,,Republican,"Romney, Mitt",17,000010
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Barnett, Andre",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Bush, Kent W",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Christensen, Will",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Goode, Virgil",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Stein, Jill E",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+GRAHAM,Bryant Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+GRAHAM,Bryant Township,President / Vice President,,Democratic,"Obama, Barack",3,000030
+GRAHAM,Bryant Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+GRAHAM,Bryant Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000030
+GRAHAM,Bryant Township,President / Vice President,,Republican,"Romney, Mitt",36,000030
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Barnett, Andre",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Bush, Kent W",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Christensen, Will",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Goode, Virgil",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Stein, Jill E",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,Democratic,"Obama, Barack",2,000040
+GRAHAM,Gettysburg Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000040
+GRAHAM,Gettysburg Township,President / Vice President,,Republican,"Romney, Mitt",41,000040
+GRAHAM,Graham Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Barnett, Andre",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Bush, Kent W",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Christensen, Will",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Goode, Virgil",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Stein, Jill E",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+GRAHAM,Graham Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+GRAHAM,Graham Township,President / Vice President,,Democratic,"Obama, Barack",3,000050
+GRAHAM,Graham Township,President / Vice President,,Libertarian,"Johnson, Gary",3,000050
+GRAHAM,Graham Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000050
+GRAHAM,Graham Township,President / Vice President,,Republican,"Romney, Mitt",21,000050
+GRAHAM,Happy Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Barnett, Andre",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Bush, Kent W",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Christensen, Will",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Goode, Virgil",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Stein, Jill E",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+GRAHAM,Happy Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+GRAHAM,Happy Township,President / Vice President,,Democratic,"Obama, Barack",3,000060
+GRAHAM,Happy Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000060
+GRAHAM,Happy Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000060
+GRAHAM,Happy Township,President / Vice President,,Republican,"Romney, Mitt",24,000060
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Barnett, Andre",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Bush, Kent W",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Christensen, Will",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Goode, Virgil",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Stein, Jill E",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+GRAHAM,Indiana Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+GRAHAM,Indiana Township,President / Vice President,,Democratic,"Obama, Barack",1,000100
+GRAHAM,Indiana Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+GRAHAM,Indiana Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000100
+GRAHAM,Indiana Township,President / Vice President,,Republican,"Romney, Mitt",13,000100
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Barnett, Andre",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Bush, Kent W",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Christensen, Will",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Goode, Virgil",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Stein, Jill E",1,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,Democratic,"Obama, Barack",10,000110
+GRAHAM,Millbrook Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000110
+GRAHAM,Millbrook Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000110
+GRAHAM,Millbrook Township,President / Vice President,,Republican,"Romney, Mitt",58,000110
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Barnett, Andre",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Bush, Kent W",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Christensen, Will",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Goode, Virgil",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Stein, Jill E",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+GRAHAM,Morlan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+GRAHAM,Morlan Township,President / Vice President,,Democratic,"Obama, Barack",3,000120
+GRAHAM,Morlan Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+GRAHAM,Morlan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000120
+GRAHAM,Morlan Township,President / Vice President,,Republican,"Romney, Mitt",41,000120
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Barnett, Andre",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Bush, Kent W",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Christensen, Will",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Goode, Virgil",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Stein, Jill E",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,Democratic,"Obama, Barack",2,000150
+GRAHAM,Pioneer Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000150
+GRAHAM,Pioneer Township,President / Vice President,,Republican,"Romney, Mitt",13,000150
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Barnett, Andre",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Bush, Kent W",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Christensen, Will",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Goode, Virgil",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Stein, Jill E",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+GRAHAM,Solomon Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+GRAHAM,Solomon Township,President / Vice President,,Democratic,"Obama, Barack",8,000160
+GRAHAM,Solomon Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000160
+GRAHAM,Solomon Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000160
+GRAHAM,Solomon Township,President / Vice President,,Republican,"Romney, Mitt",91,000160
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Barnett, Andre",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Bush, Kent W",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Christensen, Will",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Goode, Virgil",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Stein, Jill E",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+GRAHAM,Wildhorse Township,President / Vice President,,Democratic,"Obama, Barack",25,000170
+GRAHAM,Wildhorse Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000170
+GRAHAM,Wildhorse Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000170
+GRAHAM,Wildhorse Township,President / Vice President,,Republican,"Romney, Mitt",84,000170
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Ayers, Avery L",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Barnett, Andre",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Barr, Roseanne C",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Bush, Kent W",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Christensen, Will",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Duncan, Richard A",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Goode, Virgil",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Knill, Dennis J",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Reed, Jill A.",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Rogers, Rick L",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Stein, Jill E",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Thorne, Kevin M",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,write - in,"Warner, Gerald L.",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,Democratic,"Obama, Barack",25,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,Libertarian,"Johnson, Gary",4,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,Reform,"Baldwin, Chuck",0,120020
+GRAHAM,Hill City Precinct 1 H110,President / Vice President,,Republican,"Romney, Mitt",79,120020
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Ayers, Avery L",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Barnett, Andre",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Barr, Roseanne C",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Bush, Kent W",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Christensen, Will",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Duncan, Richard A",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Goode, Virgil",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Knill, Dennis J",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Reed, Jill A.",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Rogers, Rick L",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Stein, Jill E",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Thorne, Kevin M",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,write - in,"Warner, Gerald L.",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,Democratic,"Obama, Barack",1,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,Libertarian,"Johnson, Gary",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,Reform,"Baldwin, Chuck",0,120030
+GRAHAM,Hill City Precinct 1 H118,President / Vice President,,Republican,"Romney, Mitt",6,120030
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Ayers, Avery L",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Barnett, Andre",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Barr, Roseanne C",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Bush, Kent W",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Christensen, Will",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Duncan, Richard A",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Goode, Virgil",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Hoefling, Tom",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Knill, Dennis J",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Reed, Jill A.",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Rogers, Rick L",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Stein, Jill E",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Thorne, Kevin M",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,write - in,"Warner, Gerald L.",0,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,Democratic,"Obama, Barack",118,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,Libertarian,"Johnson, Gary",5,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,Reform,"Baldwin, Chuck",8,120040
+GRAHAM,Hill City Precinct 2 H110,President / Vice President,,Republican,"Romney, Mitt",361,120040
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Ayers, Avery L",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Barnett, Andre",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Barr, Roseanne C",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Bush, Kent W",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Christensen, Will",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Duncan, Richard A",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Goode, Virgil",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Hoefling, Tom",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Knill, Dennis J",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Reed, Jill A.",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Rogers, Rick L",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Stein, Jill E",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Thorne, Kevin M",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,write - in,"Warner, Gerald L.",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,Democratic,"Obama, Barack",1,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,Libertarian,"Johnson, Gary",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,Reform,"Baldwin, Chuck",0,120050
+GRAHAM,Hill City Precinct 2 H118,President / Vice President,,Republican,"Romney, Mitt",4,120050
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Ayers, Avery L",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Barnett, Andre",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Barr, Roseanne C",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Bush, Kent W",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Christensen, Will",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Duncan, Richard A",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Goode, Virgil",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Hoefling, Tom",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Knill, Dennis J",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Reed, Jill A.",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Rogers, Rick L",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Stein, Jill E",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Thorne, Kevin M",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,write - in,"Warner, Gerald L.",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,Democratic,"Obama, Barack",34,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,Libertarian,"Johnson, Gary",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,Reform,"Baldwin, Chuck",0,120060
+GRAHAM,Hill City Precinct 3 H110,President / Vice President,,Republican,"Romney, Mitt",128,120060
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Ayers, Avery L",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Barnett, Andre",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Barr, Roseanne C",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Bush, Kent W",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Christensen, Will",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Duncan, Richard A",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Goode, Virgil",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Hoefling, Tom",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Knill, Dennis J",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Reed, Jill A.",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Rogers, Rick L",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Stein, Jill E",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Thorne, Kevin M",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,write - in,"Warner, Gerald L.",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,Democratic,"Obama, Barack",4,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,Libertarian,"Johnson, Gary",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,Reform,"Baldwin, Chuck",0,120070
+GRAHAM,Hill City Precinct 3 H118,President / Vice President,,Republican,"Romney, Mitt",27,120070
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Ayers, Avery L",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Barnett, Andre",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Barr, Roseanne C",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Bush, Kent W",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Christensen, Will",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Duncan, Richard A",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Goode, Virgil",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Hoefling, Tom",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Knill, Dennis J",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Reed, Jill A.",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Rogers, Rick L",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Stein, Jill E",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Thorne, Kevin M",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,write - in,"Warner, Gerald L.",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,Democratic,"Obama, Barack",5,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,Libertarian,"Johnson, Gary",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,Reform,"Baldwin, Chuck",0,120080
+GRAHAM,Nicodemus Township  H110,President / Vice President,,Republican,"Romney, Mitt",6,120080
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Ayers, Avery L",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Barnett, Andre",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Barr, Roseanne C",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Bush, Kent W",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Christensen, Will",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Duncan, Richard A",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Goode, Virgil",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Hoefling, Tom",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Knill, Dennis J",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Reed, Jill A.",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Rogers, Rick L",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Stein, Jill E",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Thorne, Kevin M",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,write - in,"Warner, Gerald L.",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,Democratic,"Obama, Barack",8,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,Libertarian,"Johnson, Gary",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,Reform,"Baldwin, Chuck",0,120090
+GRAHAM,Nicodemus Township H118,President / Vice President,,Republican,"Romney, Mitt",6,120090
+GRAHAM,Allodium Township,U.S. House,1,Republican,"Huelskamp, Tim",15,000010
+GRAHAM,Bogue City,U.S. House,1,Republican,"Huelskamp, Tim",0,000020
+GRAHAM,Bryant Township,U.S. House,1,Republican,"Huelskamp, Tim",32,000030
+GRAHAM,Gettysburg Township,U.S. House,1,Republican,"Huelskamp, Tim",38,000040
+GRAHAM,Graham Township,U.S. House,1,Republican,"Huelskamp, Tim",24,000050
+GRAHAM,Happy Township,U.S. House,1,Republican,"Huelskamp, Tim",24,000060
+GRAHAM,Indiana Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000100
+GRAHAM,Millbrook Township,U.S. House,1,Republican,"Huelskamp, Tim",65,000110
+GRAHAM,Morlan Township,U.S. House,1,Republican,"Huelskamp, Tim",41,000120
+GRAHAM,Morland City,U.S. House,1,Republican,"Huelskamp, Tim",0,000130
+GRAHAM,Pioneer Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000150
+GRAHAM,Solomon Township,U.S. House,1,Republican,"Huelskamp, Tim",95,000160
+GRAHAM,Wildhorse Township,U.S. House,1,Republican,"Huelskamp, Tim",90,000170
+GRAHAM,Hill City Precinct 1 H110,U.S. House,1,Republican,"Huelskamp, Tim",85,120020
+GRAHAM,Hill City Precinct 1 H118,U.S. House,1,Republican,"Huelskamp, Tim",6,120030
+GRAHAM,Hill City Precinct 2 H110,U.S. House,1,Republican,"Huelskamp, Tim",385,120040
+GRAHAM,Hill City Precinct 2 H118,U.S. House,1,Republican,"Huelskamp, Tim",4,120050
+GRAHAM,Hill City Precinct 3 H110,U.S. House,1,Republican,"Huelskamp, Tim",127,120060
+GRAHAM,Hill City Precinct 3 H118,U.S. House,1,Republican,"Huelskamp, Tim",22,120070
+GRAHAM,Nicodemus Township  H110,U.S. House,1,Republican,"Huelskamp, Tim",7,120080
+GRAHAM,Nicodemus Township H118,U.S. House,1,Republican,"Huelskamp, Tim",9,120090

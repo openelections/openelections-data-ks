@@ -1,0 +1,188 @@
+county,precinct,office,district,party,candidate,votes,vtd
+NESS,Bazine Township,Governor,,Democratic,"Davis, Paul",28,000010
+NESS,Bazine Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000010
+NESS,Bazine Township,Governor,,Republican,"Brownback, Sam",112,000010
+NESS,Eden Township,Governor,,Democratic,"Davis, Paul",5,000020
+NESS,Eden Township,Governor,,Libertarian,"Umbehr, Keen A.",0,000020
+NESS,Eden Township,Governor,,Republican,"Brownback, Sam",31,000020
+NESS,Forrester Township,Governor,,Democratic,"Davis, Paul",8,000030
+NESS,Forrester Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000030
+NESS,Forrester Township,Governor,,Republican,"Brownback, Sam",38,000030
+NESS,Franklin Township,Governor,,Democratic,"Davis, Paul",8,000040
+NESS,Franklin Township,Governor,,Libertarian,"Umbehr, Keen A.",2,000040
+NESS,Franklin Township,Governor,,Republican,"Brownback, Sam",40,000040
+NESS,Highpoint Township,Governor,,Democratic,"Davis, Paul",1,000050
+NESS,Highpoint Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000050
+NESS,Highpoint Township,Governor,,Republican,"Brownback, Sam",32,000050
+NESS,Johnson Township,Governor,,Democratic,"Davis, Paul",6,000060
+NESS,Johnson Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000060
+NESS,Johnson Township,Governor,,Republican,"Brownback, Sam",25,000060
+NESS,Nevada Township,Governor,,Democratic,"Davis, Paul",48,000070
+NESS,Nevada Township,Governor,,Libertarian,"Umbehr, Keen A.",10,000070
+NESS,Nevada Township,Governor,,Republican,"Brownback, Sam",102,000070
+NESS,North Center,Governor,,Democratic,"Davis, Paul",81,000080
+NESS,North Center,Governor,,Libertarian,"Umbehr, Keen A.",11,000080
+NESS,North Center,Governor,,Republican,"Brownback, Sam",262,000080
+NESS,Ohio Township,Governor,,Democratic,"Davis, Paul",15,000090
+NESS,Ohio Township,Governor,,Libertarian,"Umbehr, Keen A.",3,000090
+NESS,Ohio Township,Governor,,Republican,"Brownback, Sam",80,000090
+NESS,South Center,Governor,,Democratic,"Davis, Paul",53,000100
+NESS,South Center,Governor,,Libertarian,"Umbehr, Keen A.",5,000100
+NESS,South Center,Governor,,Republican,"Brownback, Sam",122,000100
+NESS,Waring Township,Governor,,Democratic,"Davis, Paul",7,000110
+NESS,Waring Township,Governor,,Libertarian,"Umbehr, Keen A.",1,000110
+NESS,Waring Township,Governor,,Republican,"Brownback, Sam",36,000110
+NESS,Bazine Township,State House,117,Republican,"Ewy, John L.",133,000010
+NESS,Eden Township,State House,117,Republican,"Ewy, John L.",36,000020
+NESS,Forrester Township,State House,117,Republican,"Ewy, John L.",44,000030
+NESS,Franklin Township,State House,117,Republican,"Ewy, John L.",43,000040
+NESS,Highpoint Township,State House,117,Republican,"Ewy, John L.",33,000050
+NESS,Johnson Township,State House,117,Republican,"Ewy, John L.",33,000060
+NESS,Nevada Township,State House,117,Republican,"Ewy, John L.",148,000070
+NESS,North Center,State House,117,Republican,"Ewy, John L.",324,000080
+NESS,Ohio Township,State House,117,Republican,"Ewy, John L.",92,000090
+NESS,South Center,State House,117,Republican,"Ewy, John L.",169,000100
+NESS,Waring Township,State House,117,Republican,"Ewy, John L.",42,000110
+NESS,Bazine Township,U.S. House,1,Democratic,"Sherow, James E.",22,000010
+NESS,Bazine Township,U.S. House,1,Republican,"Huelskamp, Tim",118,000010
+NESS,Eden Township,U.S. House,1,Democratic,"Sherow, James E.",4,000020
+NESS,Eden Township,U.S. House,1,Republican,"Huelskamp, Tim",31,000020
+NESS,Forrester Township,U.S. House,1,Democratic,"Sherow, James E.",4,000030
+NESS,Forrester Township,U.S. House,1,Republican,"Huelskamp, Tim",25,000030
+NESS,Franklin Township,U.S. House,1,Democratic,"Sherow, James E.",4,000040
+NESS,Franklin Township,U.S. House,1,Republican,"Huelskamp, Tim",45,000040
+NESS,Highpoint Township,U.S. House,1,Democratic,"Sherow, James E.",5,000050
+NESS,Highpoint Township,U.S. House,1,Republican,"Huelskamp, Tim",28,000050
+NESS,Johnson Township,U.S. House,1,Democratic,"Sherow, James E.",8,000060
+NESS,Johnson Township,U.S. House,1,Republican,"Huelskamp, Tim",42,000060
+NESS,Nevada Township,U.S. House,1,Democratic,"Sherow, James E.",49,000070
+NESS,Nevada Township,U.S. House,1,Republican,"Huelskamp, Tim",111,000070
+NESS,North Center,U.S. House,1,Democratic,"Sherow, James E.",73,000080
+NESS,North Center,U.S. House,1,Republican,"Huelskamp, Tim",274,000080
+NESS,Ohio Township,U.S. House,1,Democratic,"Sherow, James E.",14,000090
+NESS,Ohio Township,U.S. House,1,Republican,"Huelskamp, Tim",85,000090
+NESS,South Center,U.S. House,1,Democratic,"Sherow, James E.",41,000100
+NESS,South Center,U.S. House,1,Republican,"Huelskamp, Tim",134,000100
+NESS,Waring Township,U.S. House,1,Democratic,"Sherow, James E.",11,000110
+NESS,Waring Township,U.S. House,1,Republican,"Huelskamp, Tim",32,000110
+NESS,Bazine Township,Attorney General,,Democratic,"Kotich, A.J.",7,000010
+NESS,Bazine Township,Attorney General,,Republican,"Schmidt, Derek",132,000010
+NESS,Eden Township,Attorney General,,Democratic,"Kotich, A.J.",6,000020
+NESS,Eden Township,Attorney General,,Republican,"Schmidt, Derek",30,000020
+NESS,Forrester Township,Attorney General,,Democratic,"Kotich, A.J.",4,000030
+NESS,Forrester Township,Attorney General,,Republican,"Schmidt, Derek",42,000030
+NESS,Franklin Township,Attorney General,,Democratic,"Kotich, A.J.",4,000040
+NESS,Franklin Township,Attorney General,,Republican,"Schmidt, Derek",42,000040
+NESS,Highpoint Township,Attorney General,,Democratic,"Kotich, A.J.",0,000050
+NESS,Highpoint Township,Attorney General,,Republican,"Schmidt, Derek",34,000050
+NESS,Johnson Township,Attorney General,,Democratic,"Kotich, A.J.",1,000060
+NESS,Johnson Township,Attorney General,,Republican,"Schmidt, Derek",33,000060
+NESS,Nevada Township,Attorney General,,Democratic,"Kotich, A.J.",28,000070
+NESS,Nevada Township,Attorney General,,Republican,"Schmidt, Derek",131,000070
+NESS,North Center,Attorney General,,Democratic,"Kotich, A.J.",39,000080
+NESS,North Center,Attorney General,,Republican,"Schmidt, Derek",300,000080
+NESS,Ohio Township,Attorney General,,Democratic,"Kotich, A.J.",13,000090
+NESS,Ohio Township,Attorney General,,Republican,"Schmidt, Derek",84,000090
+NESS,South Center,Attorney General,,Democratic,"Kotich, A.J.",35,000100
+NESS,South Center,Attorney General,,Republican,"Schmidt, Derek",135,000100
+NESS,Waring Township,Attorney General,,Democratic,"Kotich, A.J.",3,000110
+NESS,Waring Township,Attorney General,,Republican,"Schmidt, Derek",41,000110
+NESS,Bazine Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",18,000010
+NESS,Bazine Township,Commissioner of Insurance,,Republican,"Selzer, Ken",115,000010
+NESS,Eden Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000020
+NESS,Eden Township,Commissioner of Insurance,,Republican,"Selzer, Ken",29,000020
+NESS,Forrester Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000030
+NESS,Forrester Township,Commissioner of Insurance,,Republican,"Selzer, Ken",40,000030
+NESS,Franklin Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",5,000040
+NESS,Franklin Township,Commissioner of Insurance,,Republican,"Selzer, Ken",39,000040
+NESS,Highpoint Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",1,000050
+NESS,Highpoint Township,Commissioner of Insurance,,Republican,"Selzer, Ken",33,000050
+NESS,Johnson Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",6,000060
+NESS,Johnson Township,Commissioner of Insurance,,Republican,"Selzer, Ken",26,000060
+NESS,Nevada Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",47,000070
+NESS,Nevada Township,Commissioner of Insurance,,Republican,"Selzer, Ken",110,000070
+NESS,North Center,Commissioner of Insurance,,Democratic,"Anderson, Dennis",64,000080
+NESS,North Center,Commissioner of Insurance,,Republican,"Selzer, Ken",264,000080
+NESS,Ohio Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",14,000090
+NESS,Ohio Township,Commissioner of Insurance,,Republican,"Selzer, Ken",81,000090
+NESS,South Center,Commissioner of Insurance,,Democratic,"Anderson, Dennis",42,000100
+NESS,South Center,Commissioner of Insurance,,Republican,"Selzer, Ken",128,000100
+NESS,Waring Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",8,000110
+NESS,Waring Township,Commissioner of Insurance,,Republican,"Selzer, Ken",35,000110
+NESS,Bazine Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",24,000010
+NESS,Bazine Township,Secretary of State,,Republican,"Kobach, Kris",117,000010
+NESS,Eden Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000020
+NESS,Eden Township,Secretary of State,,Republican,"Kobach, Kris",31,000020
+NESS,Forrester Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",6,000030
+NESS,Forrester Township,Secretary of State,,Republican,"Kobach, Kris",39,000030
+NESS,Franklin Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",12,000040
+NESS,Franklin Township,Secretary of State,,Republican,"Kobach, Kris",35,000040
+NESS,Highpoint Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",1,000050
+NESS,Highpoint Township,Secretary of State,,Republican,"Kobach, Kris",33,000050
+NESS,Johnson Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",5,000060
+NESS,Johnson Township,Secretary of State,,Republican,"Kobach, Kris",27,000060
+NESS,Nevada Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",41,000070
+NESS,Nevada Township,Secretary of State,,Republican,"Kobach, Kris",121,000070
+NESS,North Center,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",75,000080
+NESS,North Center,Secretary of State,,Republican,"Kobach, Kris",275,000080
+NESS,Ohio Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",15,000090
+NESS,Ohio Township,Secretary of State,,Republican,"Kobach, Kris",82,000090
+NESS,South Center,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",36,000100
+NESS,South Center,Secretary of State,,Republican,"Kobach, Kris",135,000100
+NESS,Waring Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",7,000110
+NESS,Waring Township,Secretary of State,,Republican,"Kobach, Kris",37,000110
+NESS,Bazine Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000010
+NESS,Bazine Township,State Treasurer,,Republican,"Estes, Ron",129,000010
+NESS,Eden Township,State Treasurer,,Democratic,"Alldritt, Carmen",2,000020
+NESS,Eden Township,State Treasurer,,Republican,"Estes, Ron",34,000020
+NESS,Forrester Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000030
+NESS,Forrester Township,State Treasurer,,Republican,"Estes, Ron",41,000030
+NESS,Franklin Township,State Treasurer,,Democratic,"Alldritt, Carmen",3,000040
+NESS,Franklin Township,State Treasurer,,Republican,"Estes, Ron",45,000040
+NESS,Highpoint Township,State Treasurer,,Democratic,"Alldritt, Carmen",0,000050
+NESS,Highpoint Township,State Treasurer,,Republican,"Estes, Ron",33,000050
+NESS,Johnson Township,State Treasurer,,Democratic,"Alldritt, Carmen",4,000060
+NESS,Johnson Township,State Treasurer,,Republican,"Estes, Ron",30,000060
+NESS,Nevada Township,State Treasurer,,Democratic,"Alldritt, Carmen",24,000070
+NESS,Nevada Township,State Treasurer,,Republican,"Estes, Ron",135,000070
+NESS,North Center,State Treasurer,,Democratic,"Alldritt, Carmen",39,000080
+NESS,North Center,State Treasurer,,Republican,"Estes, Ron",306,000080
+NESS,Ohio Township,State Treasurer,,Democratic,"Alldritt, Carmen",10,000090
+NESS,Ohio Township,State Treasurer,,Republican,"Estes, Ron",90,000090
+NESS,South Center,State Treasurer,,Democratic,"Alldritt, Carmen",24,000100
+NESS,South Center,State Treasurer,,Republican,"Estes, Ron",148,000100
+NESS,Waring Township,State Treasurer,,Democratic,"Alldritt, Carmen",6,000110
+NESS,Waring Township,State Treasurer,,Republican,"Estes, Ron",37,000110
+NESS,Bazine Township,U.S. Senate,,independent,"Orman, Greg",20,000010
+NESS,Bazine Township,U.S. Senate,,Libertarian,"Batson, Randall",3,000010
+NESS,Bazine Township,U.S. Senate,,Republican,"Roberts, Pat",119,000010
+NESS,Eden Township,U.S. Senate,,independent,"Orman, Greg",5,000020
+NESS,Eden Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000020
+NESS,Eden Township,U.S. Senate,,Republican,"Roberts, Pat",32,000020
+NESS,Forrester Township,U.S. Senate,,independent,"Orman, Greg",6,000030
+NESS,Forrester Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000030
+NESS,Forrester Township,U.S. Senate,,Republican,"Roberts, Pat",40,000030
+NESS,Franklin Township,U.S. Senate,,independent,"Orman, Greg",4,000040
+NESS,Franklin Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000040
+NESS,Franklin Township,U.S. Senate,,Republican,"Roberts, Pat",45,000040
+NESS,Highpoint Township,U.S. Senate,,independent,"Orman, Greg",1,000050
+NESS,Highpoint Township,U.S. Senate,,Libertarian,"Batson, Randall",1,000050
+NESS,Highpoint Township,U.S. Senate,,Republican,"Roberts, Pat",31,000050
+NESS,Johnson Township,U.S. Senate,,independent,"Orman, Greg",5,000060
+NESS,Johnson Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000060
+NESS,Johnson Township,U.S. Senate,,Republican,"Roberts, Pat",26,000060
+NESS,Nevada Township,U.S. Senate,,independent,"Orman, Greg",40,000070
+NESS,Nevada Township,U.S. Senate,,Libertarian,"Batson, Randall",11,000070
+NESS,Nevada Township,U.S. Senate,,Republican,"Roberts, Pat",111,000070
+NESS,North Center,U.S. Senate,,independent,"Orman, Greg",75,000080
+NESS,North Center,U.S. Senate,,Libertarian,"Batson, Randall",12,000080
+NESS,North Center,U.S. Senate,,Republican,"Roberts, Pat",264,000080
+NESS,Ohio Township,U.S. Senate,,independent,"Orman, Greg",12,000090
+NESS,Ohio Township,U.S. Senate,,Libertarian,"Batson, Randall",2,000090
+NESS,Ohio Township,U.S. Senate,,Republican,"Roberts, Pat",85,000090
+NESS,South Center,U.S. Senate,,independent,"Orman, Greg",43,000100
+NESS,South Center,U.S. Senate,,Libertarian,"Batson, Randall",9,000100
+NESS,South Center,U.S. Senate,,Republican,"Roberts, Pat",129,000100
+NESS,Waring Township,U.S. Senate,,independent,"Orman, Greg",9,000110
+NESS,Waring Township,U.S. Senate,,Libertarian,"Batson, Randall",0,000110
+NESS,Waring Township,U.S. Senate,,Republican,"Roberts, Pat",35,000110

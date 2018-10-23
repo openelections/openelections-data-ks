@@ -1,0 +1,573 @@
+county,precinct,office,district,party,candidate,votes,vtd
+HARPER,Anthony Ward 1,State House,116,Democratic,"Wetta, Vincent",153,000010
+HARPER,Anthony Ward 1,State House,116,Republican,"Hoffman, Kyle D.",256,000010
+HARPER,Anthony Ward 2,State House,116,Democratic,"Wetta, Vincent",88,000020
+HARPER,Anthony Ward 2,State House,116,Republican,"Hoffman, Kyle D.",125,000020
+HARPER,Anthony Ward 3,State House,116,Democratic,"Wetta, Vincent",20,000030
+HARPER,Anthony Ward 3,State House,116,Republican,"Hoffman, Kyle D.",54,000030
+HARPER,Anthony Ward 4,State House,116,Democratic,"Wetta, Vincent",52,000040
+HARPER,Anthony Ward 4,State House,116,Republican,"Hoffman, Kyle D.",90,000040
+HARPER,Harper Ward 1,State House,116,Democratic,"Wetta, Vincent",100,000050
+HARPER,Harper Ward 1,State House,116,Republican,"Hoffman, Kyle D.",138,000050
+HARPER,Harper Ward 2,State House,116,Democratic,"Wetta, Vincent",118,000060
+HARPER,Harper Ward 2,State House,116,Republican,"Hoffman, Kyle D.",169,000060
+HARPER,Township 1,State House,116,Democratic,"Wetta, Vincent",113,000070
+HARPER,Township 1,State House,116,Republican,"Hoffman, Kyle D.",279,000070
+HARPER,Township 2,State House,116,Democratic,"Wetta, Vincent",8,000080
+HARPER,Township 2,State House,116,Republican,"Hoffman, Kyle D.",43,000080
+HARPER,Township 4,State House,116,Democratic,"Wetta, Vincent",33,000100
+HARPER,Township 4,State House,116,Republican,"Hoffman, Kyle D.",41,000100
+HARPER,Township 3 East,State House,116,Democratic,"Wetta, Vincent",22,800010
+HARPER,Township 3 East,State House,116,Republican,"Hoffman, Kyle D.",34,800010
+HARPER,Township 3 West,State House,116,Democratic,"Wetta, Vincent",22,800020
+HARPER,Township 3 West,State House,116,Republican,"Hoffman, Kyle D.",60,800020
+HARPER,Township 5 East,State House,116,Democratic,"Wetta, Vincent",56,800030
+HARPER,Township 5 East,State House,116,Republican,"Hoffman, Kyle D.",91,800030
+HARPER,Township 5 West,State House,116,Democratic,"Wetta, Vincent",14,800040
+HARPER,Township 5 West,State House,116,Republican,"Hoffman, Kyle D.",28,800040
+HARPER,Township 6 East,State House,116,Democratic,"Wetta, Vincent",31,800050
+HARPER,Township 6 East,State House,116,Republican,"Hoffman, Kyle D.",63,800050
+HARPER,Township 6 West,State House,116,Democratic,"Wetta, Vincent",7,800060
+HARPER,Township 6 West,State House,116,Republican,"Hoffman, Kyle D.",26,800060
+HARPER,Anthony Ward 2 Exclave 1,State House,116,Democratic,"Wetta, Vincent",0,900010
+HARPER,Anthony Ward 2 Exclave 1,State House,116,Republican,"Hoffman, Kyle D.",0,900010
+HARPER,Anthony Ward 2 Exclave 2,State House,116,Democratic,"Wetta, Vincent",0,900020
+HARPER,Anthony Ward 2 Exclave 2,State House,116,Republican,"Hoffman, Kyle D.",0,900020
+HARPER,Anthony Ward 3 Exclave 1,State House,116,Democratic,"Wetta, Vincent",0,900030
+HARPER,Anthony Ward 3 Exclave 1,State House,116,Republican,"Hoffman, Kyle D.",0,900030
+HARPER,Anthony Ward 3 Exclave 2,State House,116,Democratic,"Wetta, Vincent",0,900040
+HARPER,Anthony Ward 3 Exclave 2,State House,116,Republican,"Hoffman, Kyle D.",0,900040
+HARPER,Anthony Ward 4 Exclave 1,State House,116,Democratic,"Wetta, Vincent",0,900050
+HARPER,Anthony Ward 4 Exclave 1,State House,116,Republican,"Hoffman, Kyle D.",0,900050
+HARPER,Harper Ward 1 Exclave 1,State House,116,Democratic,"Wetta, Vincent",0,900060
+HARPER,Harper Ward 1 Exclave 1,State House,116,Republican,"Hoffman, Kyle D.",0,900060
+HARPER,Township 5 West Enclave,State House,116,Democratic,"Wetta, Vincent",0,900070
+HARPER,Township 5 West Enclave,State House,116,Republican,"Hoffman, Kyle D.",0,900070
+HARPER,Anthony Ward 1,State Senate,32,Republican,"Abrams, Steve E",347,000010
+HARPER,Anthony Ward 2,State Senate,32,Republican,"Abrams, Steve E",173,000020
+HARPER,Anthony Ward 3,State Senate,32,Republican,"Abrams, Steve E",67,000030
+HARPER,Anthony Ward 4,State Senate,32,Republican,"Abrams, Steve E",112,000040
+HARPER,Harper Ward 1,State Senate,32,Republican,"Abrams, Steve E",200,000050
+HARPER,Harper Ward 2,State Senate,32,Republican,"Abrams, Steve E",221,000060
+HARPER,Township 1,State Senate,32,Republican,"Abrams, Steve E",316,000070
+HARPER,Township 2,State Senate,32,Republican,"Abrams, Steve E",45,000080
+HARPER,Township 4,State Senate,32,Republican,"Abrams, Steve E",54,000100
+HARPER,Township 3 East,State Senate,32,Republican,"Abrams, Steve E",44,800010
+HARPER,Township 3 West,State Senate,32,Republican,"Abrams, Steve E",69,800020
+HARPER,Township 5 East,State Senate,32,Republican,"Abrams, Steve E",115,800030
+HARPER,Township 5 West,State Senate,32,Republican,"Abrams, Steve E",36,800040
+HARPER,Township 6 East,State Senate,32,Republican,"Abrams, Steve E",72,800050
+HARPER,Township 6 West,State Senate,32,Republican,"Abrams, Steve E",28,800060
+HARPER,Anthony Ward 2 Exclave 1,State Senate,32,Republican,"Abrams, Steve E",0,900010
+HARPER,Anthony Ward 2 Exclave 2,State Senate,32,Republican,"Abrams, Steve E",0,900020
+HARPER,Anthony Ward 3 Exclave 1,State Senate,32,Republican,"Abrams, Steve E",0,900030
+HARPER,Anthony Ward 3 Exclave 2,State Senate,32,Republican,"Abrams, Steve E",0,900040
+HARPER,Anthony Ward 4 Exclave 1,State Senate,32,Republican,"Abrams, Steve E",0,900050
+HARPER,Harper Ward 1 Exclave 1,State Senate,32,Republican,"Abrams, Steve E",0,900060
+HARPER,Township 5 West Enclave,State Senate,32,Republican,"Abrams, Steve E",0,900070
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+HARPER,Anthony Ward 1,President / Vice President,,Democratic,"Obama, Barack",103,000010
+HARPER,Anthony Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",8,000010
+HARPER,Anthony Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000010
+HARPER,Anthony Ward 1,President / Vice President,,Republican,"Romney, Mitt",309,000010
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+HARPER,Anthony Ward 2,President / Vice President,,Democratic,"Obama, Barack",45,000020
+HARPER,Anthony Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",9,000020
+HARPER,Anthony Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",1,000020
+HARPER,Anthony Ward 2,President / Vice President,,Republican,"Romney, Mitt",159,000020
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+HARPER,Anthony Ward 3,President / Vice President,,Democratic,"Obama, Barack",13,000030
+HARPER,Anthony Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",2,000030
+HARPER,Anthony Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",1,000030
+HARPER,Anthony Ward 3,President / Vice President,,Republican,"Romney, Mitt",60,000030
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Barnett, Andre",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Bush, Kent W",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Christensen, Will",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Goode, Virgil",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Stein, Jill E",1,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,Democratic,"Obama, Barack",30,000040
+HARPER,Anthony Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",3,000040
+HARPER,Anthony Ward 4,President / Vice President,,Reform,"Baldwin, Chuck",0,000040
+HARPER,Anthony Ward 4,President / Vice President,,Republican,"Romney, Mitt",109,000040
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+HARPER,Harper Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+HARPER,Harper Ward 1,President / Vice President,,Democratic,"Obama, Barack",66,000050
+HARPER,Harper Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",3,000050
+HARPER,Harper Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",2,000050
+HARPER,Harper Ward 1,President / Vice President,,Republican,"Romney, Mitt",171,000050
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+HARPER,Harper Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+HARPER,Harper Ward 2,President / Vice President,,Democratic,"Obama, Barack",86,000060
+HARPER,Harper Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",7,000060
+HARPER,Harper Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",7,000060
+HARPER,Harper Ward 2,President / Vice President,,Republican,"Romney, Mitt",191,000060
+HARPER,Township 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Barnett, Andre",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Bush, Kent W",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Christensen, Will",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Goode, Virgil",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Stein, Jill E",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+HARPER,Township 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+HARPER,Township 1,President / Vice President,,Democratic,"Obama, Barack",91,000070
+HARPER,Township 1,President / Vice President,,Libertarian,"Johnson, Gary",18,000070
+HARPER,Township 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000070
+HARPER,Township 1,President / Vice President,,Republican,"Romney, Mitt",296,000070
+HARPER,Township 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Ayers, Avery L",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Barnett, Andre",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Bush, Kent W",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Christensen, Will",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Duncan, Richard A",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Goode, Virgil",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Knill, Dennis J",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Reed, Jill A.",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Rogers, Rick L",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Stein, Jill E",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000080
+HARPER,Township 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000080
+HARPER,Township 2,President / Vice President,,Democratic,"Obama, Barack",2,000080
+HARPER,Township 2,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+HARPER,Township 2,President / Vice President,,Reform,"Baldwin, Chuck",0,000080
+HARPER,Township 2,President / Vice President,,Republican,"Romney, Mitt",50,000080
+HARPER,Township 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Barnett, Andre",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Bush, Kent W",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Christensen, Will",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Goode, Virgil",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Stein, Jill E",2,000100
+HARPER,Township 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+HARPER,Township 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+HARPER,Township 4,President / Vice President,,Democratic,"Obama, Barack",27,000100
+HARPER,Township 4,President / Vice President,,Libertarian,"Johnson, Gary",1,000100
+HARPER,Township 4,President / Vice President,,Reform,"Baldwin, Chuck",1,000100
+HARPER,Township 4,President / Vice President,,Republican,"Romney, Mitt",48,000100
+HARPER,Township 3 East,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Ayers, Avery L",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Barnett, Andre",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Barr, Roseanne C",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Bush, Kent W",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Christensen, Will",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Duncan, Richard A",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Goode, Virgil",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Hoefling, Tom",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Knill, Dennis J",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Reed, Jill A.",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Rogers, Rick L",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Stein, Jill E",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Thorne, Kevin M",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800010
+HARPER,Township 3 East,President / Vice President,,write - in,"Warner, Gerald L.",0,800010
+HARPER,Township 3 East,President / Vice President,,Democratic,"Obama, Barack",12,800010
+HARPER,Township 3 East,President / Vice President,,Libertarian,"Johnson, Gary",0,800010
+HARPER,Township 3 East,President / Vice President,,Reform,"Baldwin, Chuck",1,800010
+HARPER,Township 3 East,President / Vice President,,Republican,"Romney, Mitt",42,800010
+HARPER,Township 3 West,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Ayers, Avery L",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Barnett, Andre",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Barr, Roseanne C",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Bush, Kent W",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Christensen, Will",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Duncan, Richard A",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Goode, Virgil",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Hoefling, Tom",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Knill, Dennis J",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Reed, Jill A.",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Rogers, Rick L",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Stein, Jill E",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Thorne, Kevin M",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800020
+HARPER,Township 3 West,President / Vice President,,write - in,"Warner, Gerald L.",0,800020
+HARPER,Township 3 West,President / Vice President,,Democratic,"Obama, Barack",17,800020
+HARPER,Township 3 West,President / Vice President,,Libertarian,"Johnson, Gary",1,800020
+HARPER,Township 3 West,President / Vice President,,Reform,"Baldwin, Chuck",1,800020
+HARPER,Township 3 West,President / Vice President,,Republican,"Romney, Mitt",65,800020
+HARPER,Township 5 East,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Ayers, Avery L",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Barnett, Andre",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Barr, Roseanne C",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Bush, Kent W",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Christensen, Will",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Duncan, Richard A",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Goode, Virgil",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Hoefling, Tom",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Knill, Dennis J",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Reed, Jill A.",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Rogers, Rick L",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Stein, Jill E",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Thorne, Kevin M",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800030
+HARPER,Township 5 East,President / Vice President,,write - in,"Warner, Gerald L.",0,800030
+HARPER,Township 5 East,President / Vice President,,Democratic,"Obama, Barack",27,800030
+HARPER,Township 5 East,President / Vice President,,Libertarian,"Johnson, Gary",4,800030
+HARPER,Township 5 East,President / Vice President,,Reform,"Baldwin, Chuck",0,800030
+HARPER,Township 5 East,President / Vice President,,Republican,"Romney, Mitt",121,800030
+HARPER,Township 5 West,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Ayers, Avery L",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Barnett, Andre",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Barr, Roseanne C",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Bush, Kent W",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Christensen, Will",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Duncan, Richard A",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Goode, Virgil",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Hoefling, Tom",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Knill, Dennis J",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Reed, Jill A.",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Rogers, Rick L",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Stein, Jill E",1,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Thorne, Kevin M",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800040
+HARPER,Township 5 West,President / Vice President,,write - in,"Warner, Gerald L.",0,800040
+HARPER,Township 5 West,President / Vice President,,Democratic,"Obama, Barack",9,800040
+HARPER,Township 5 West,President / Vice President,,Libertarian,"Johnson, Gary",0,800040
+HARPER,Township 5 West,President / Vice President,,Reform,"Baldwin, Chuck",1,800040
+HARPER,Township 5 West,President / Vice President,,Republican,"Romney, Mitt",31,800040
+HARPER,Township 6 East,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Ayers, Avery L",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Barnett, Andre",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Barr, Roseanne C",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Bush, Kent W",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Christensen, Will",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Duncan, Richard A",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Goode, Virgil",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Hoefling, Tom",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Knill, Dennis J",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Reed, Jill A.",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Rogers, Rick L",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Stein, Jill E",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Thorne, Kevin M",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800050
+HARPER,Township 6 East,President / Vice President,,write - in,"Warner, Gerald L.",0,800050
+HARPER,Township 6 East,President / Vice President,,Democratic,"Obama, Barack",19,800050
+HARPER,Township 6 East,President / Vice President,,Libertarian,"Johnson, Gary",1,800050
+HARPER,Township 6 East,President / Vice President,,Reform,"Baldwin, Chuck",0,800050
+HARPER,Township 6 East,President / Vice President,,Republican,"Romney, Mitt",79,800050
+HARPER,Township 6 West,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Ayers, Avery L",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Barnett, Andre",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Barr, Roseanne C",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Bush, Kent W",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Christensen, Will",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Duncan, Richard A",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Goode, Virgil",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Hoefling, Tom",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Knill, Dennis J",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Reed, Jill A.",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Rogers, Rick L",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Stein, Jill E",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Thorne, Kevin M",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,800060
+HARPER,Township 6 West,President / Vice President,,write - in,"Warner, Gerald L.",0,800060
+HARPER,Township 6 West,President / Vice President,,Democratic,"Obama, Barack",3,800060
+HARPER,Township 6 West,President / Vice President,,Libertarian,"Johnson, Gary",2,800060
+HARPER,Township 6 West,President / Vice President,,Reform,"Baldwin, Chuck",0,800060
+HARPER,Township 6 West,President / Vice President,,Republican,"Romney, Mitt",28,800060
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Ayers, Avery L",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Barnett, Andre",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Barr, Roseanne C",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Bush, Kent W",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Christensen, Will",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Duncan, Richard A",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Goode, Virgil",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Knill, Dennis J",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Reed, Jill A.",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Rogers, Rick L",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Stein, Jill E",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Thorne, Kevin M",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,write - in,"Warner, Gerald L.",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,Democratic,"Obama, Barack",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,Reform,"Baldwin, Chuck",0,900010
+HARPER,Anthony Ward 2 Exclave 1,President / Vice President,,Republican,"Romney, Mitt",0,900010
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Ayers, Avery L",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Barnett, Andre",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Barr, Roseanne C",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Bush, Kent W",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Christensen, Will",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Duncan, Richard A",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Goode, Virgil",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Knill, Dennis J",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Reed, Jill A.",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Rogers, Rick L",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Stein, Jill E",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Thorne, Kevin M",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,write - in,"Warner, Gerald L.",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,Democratic,"Obama, Barack",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,Reform,"Baldwin, Chuck",0,900020
+HARPER,Anthony Ward 2 Exclave 2,President / Vice President,,Republican,"Romney, Mitt",0,900020
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Ayers, Avery L",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Barnett, Andre",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Barr, Roseanne C",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Bush, Kent W",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Christensen, Will",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Duncan, Richard A",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Goode, Virgil",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Knill, Dennis J",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Reed, Jill A.",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Rogers, Rick L",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Stein, Jill E",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Thorne, Kevin M",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,write - in,"Warner, Gerald L.",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,Democratic,"Obama, Barack",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,Reform,"Baldwin, Chuck",0,900030
+HARPER,Anthony Ward 3 Exclave 1,President / Vice President,,Republican,"Romney, Mitt",0,900030
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Ayers, Avery L",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Barnett, Andre",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Barr, Roseanne C",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Bush, Kent W",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Christensen, Will",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Duncan, Richard A",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Goode, Virgil",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Hoefling, Tom",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Knill, Dennis J",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Reed, Jill A.",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Rogers, Rick L",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Stein, Jill E",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Thorne, Kevin M",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,write - in,"Warner, Gerald L.",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,Democratic,"Obama, Barack",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,Libertarian,"Johnson, Gary",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,Reform,"Baldwin, Chuck",0,900040
+HARPER,Anthony Ward 3 Exclave 2,President / Vice President,,Republican,"Romney, Mitt",0,900040
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Ayers, Avery L",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Barnett, Andre",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Barr, Roseanne C",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Bush, Kent W",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Christensen, Will",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Duncan, Richard A",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Goode, Virgil",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Knill, Dennis J",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Reed, Jill A.",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Rogers, Rick L",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Stein, Jill E",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Thorne, Kevin M",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,write - in,"Warner, Gerald L.",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,Democratic,"Obama, Barack",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,Reform,"Baldwin, Chuck",0,900050
+HARPER,Anthony Ward 4 Exclave 1,President / Vice President,,Republican,"Romney, Mitt",0,900050
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Ayers, Avery L",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Barnett, Andre",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Barr, Roseanne C",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Bush, Kent W",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Christensen, Will",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Duncan, Richard A",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Goode, Virgil",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Hoefling, Tom",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Knill, Dennis J",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Reed, Jill A.",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Rogers, Rick L",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Stein, Jill E",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Thorne, Kevin M",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,write - in,"Warner, Gerald L.",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,Democratic,"Obama, Barack",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,Libertarian,"Johnson, Gary",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,Reform,"Baldwin, Chuck",0,900060
+HARPER,Harper Ward 1 Exclave 1,President / Vice President,,Republican,"Romney, Mitt",0,900060
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Ayers, Avery L",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Barnett, Andre",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Barr, Roseanne C",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Bush, Kent W",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Christensen, Will",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Duncan, Richard A",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Goode, Virgil",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Knill, Dennis J",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Reed, Jill A.",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Rogers, Rick L",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Stein, Jill E",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Thorne, Kevin M",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,write - in,"Warner, Gerald L.",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,Democratic,"Obama, Barack",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,Reform,"Baldwin, Chuck",0,900070
+HARPER,Township 5 West Enclave,President / Vice President,,Republican,"Romney, Mitt",0,900070
+HARPER,Anthony Ward 1,U.S. House,4,Democratic,"Tillman, Robert Leon",73,000010
+HARPER,Anthony Ward 1,U.S. House,4,Libertarian,"Jefferson, Thomas",21,000010
+HARPER,Anthony Ward 1,U.S. House,4,Republican,"Pompeo, Mike",320,000010
+HARPER,Anthony Ward 2,U.S. House,4,Democratic,"Tillman, Robert Leon",42,000020
+HARPER,Anthony Ward 2,U.S. House,4,Libertarian,"Jefferson, Thomas",8,000020
+HARPER,Anthony Ward 2,U.S. House,4,Republican,"Pompeo, Mike",161,000020
+HARPER,Anthony Ward 3,U.S. House,4,Democratic,"Tillman, Robert Leon",10,000030
+HARPER,Anthony Ward 3,U.S. House,4,Libertarian,"Jefferson, Thomas",4,000030
+HARPER,Anthony Ward 3,U.S. House,4,Republican,"Pompeo, Mike",62,000030
+HARPER,Anthony Ward 4,U.S. House,4,Democratic,"Tillman, Robert Leon",18,000040
+HARPER,Anthony Ward 4,U.S. House,4,Libertarian,"Jefferson, Thomas",9,000040
+HARPER,Anthony Ward 4,U.S. House,4,Republican,"Pompeo, Mike",113,000040
+HARPER,Harper Ward 1,U.S. House,4,Democratic,"Tillman, Robert Leon",56,000050
+HARPER,Harper Ward 1,U.S. House,4,Libertarian,"Jefferson, Thomas",15,000050
+HARPER,Harper Ward 1,U.S. House,4,Republican,"Pompeo, Mike",161,000050
+HARPER,Harper Ward 2,U.S. House,4,Democratic,"Tillman, Robert Leon",57,000060
+HARPER,Harper Ward 2,U.S. House,4,Libertarian,"Jefferson, Thomas",18,000060
+HARPER,Harper Ward 2,U.S. House,4,Republican,"Pompeo, Mike",205,000060
+HARPER,Township 1,U.S. House,4,Democratic,"Tillman, Robert Leon",69,000070
+HARPER,Township 1,U.S. House,4,Libertarian,"Jefferson, Thomas",25,000070
+HARPER,Township 1,U.S. House,4,Republican,"Pompeo, Mike",302,000070
+HARPER,Township 2,U.S. House,4,Democratic,"Tillman, Robert Leon",2,000080
+HARPER,Township 2,U.S. House,4,Libertarian,"Jefferson, Thomas",1,000080
+HARPER,Township 2,U.S. House,4,Republican,"Pompeo, Mike",48,000080
+HARPER,Township 4,U.S. House,4,Democratic,"Tillman, Robert Leon",26,000100
+HARPER,Township 4,U.S. House,4,Libertarian,"Jefferson, Thomas",3,000100
+HARPER,Township 4,U.S. House,4,Republican,"Pompeo, Mike",45,000100
+HARPER,Township 3 East,U.S. House,4,Democratic,"Tillman, Robert Leon",17,800010
+HARPER,Township 3 East,U.S. House,4,Libertarian,"Jefferson, Thomas",2,800010
+HARPER,Township 3 East,U.S. House,4,Republican,"Pompeo, Mike",36,800010
+HARPER,Township 3 West,U.S. House,4,Democratic,"Tillman, Robert Leon",11,800020
+HARPER,Township 3 West,U.S. House,4,Libertarian,"Jefferson, Thomas",3,800020
+HARPER,Township 3 West,U.S. House,4,Republican,"Pompeo, Mike",64,800020
+HARPER,Township 5 East,U.S. House,4,Democratic,"Tillman, Robert Leon",22,800030
+HARPER,Township 5 East,U.S. House,4,Libertarian,"Jefferson, Thomas",5,800030
+HARPER,Township 5 East,U.S. House,4,Republican,"Pompeo, Mike",118,800030
+HARPER,Township 5 West,U.S. House,4,Democratic,"Tillman, Robert Leon",7,800040
+HARPER,Township 5 West,U.S. House,4,Libertarian,"Jefferson, Thomas",2,800040
+HARPER,Township 5 West,U.S. House,4,Republican,"Pompeo, Mike",33,800040
+HARPER,Township 6 East,U.S. House,4,Democratic,"Tillman, Robert Leon",12,800050
+HARPER,Township 6 East,U.S. House,4,Libertarian,"Jefferson, Thomas",8,800050
+HARPER,Township 6 East,U.S. House,4,Republican,"Pompeo, Mike",77,800050
+HARPER,Township 6 West,U.S. House,4,Democratic,"Tillman, Robert Leon",4,800060
+HARPER,Township 6 West,U.S. House,4,Libertarian,"Jefferson, Thomas",2,800060
+HARPER,Township 6 West,U.S. House,4,Republican,"Pompeo, Mike",27,800060
+HARPER,Anthony Ward 2 Exclave 1,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900010
+HARPER,Anthony Ward 2 Exclave 1,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900010
+HARPER,Anthony Ward 2 Exclave 1,U.S. House,4,Republican,"Pompeo, Mike",0,900010
+HARPER,Anthony Ward 2 Exclave 2,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900020
+HARPER,Anthony Ward 2 Exclave 2,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900020
+HARPER,Anthony Ward 2 Exclave 2,U.S. House,4,Republican,"Pompeo, Mike",0,900020
+HARPER,Anthony Ward 3 Exclave 1,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900030
+HARPER,Anthony Ward 3 Exclave 1,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900030
+HARPER,Anthony Ward 3 Exclave 1,U.S. House,4,Republican,"Pompeo, Mike",0,900030
+HARPER,Anthony Ward 3 Exclave 2,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900040
+HARPER,Anthony Ward 3 Exclave 2,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900040
+HARPER,Anthony Ward 3 Exclave 2,U.S. House,4,Republican,"Pompeo, Mike",0,900040
+HARPER,Anthony Ward 4 Exclave 1,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900050
+HARPER,Anthony Ward 4 Exclave 1,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900050
+HARPER,Anthony Ward 4 Exclave 1,U.S. House,4,Republican,"Pompeo, Mike",0,900050
+HARPER,Harper Ward 1 Exclave 1,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900060
+HARPER,Harper Ward 1 Exclave 1,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900060
+HARPER,Harper Ward 1 Exclave 1,U.S. House,4,Republican,"Pompeo, Mike",0,900060
+HARPER,Township 5 West Enclave,U.S. House,4,Democratic,"Tillman, Robert Leon",0,900070
+HARPER,Township 5 West Enclave,U.S. House,4,Libertarian,"Jefferson, Thomas",0,900070
+HARPER,Township 5 West Enclave,U.S. House,4,Republican,"Pompeo, Mike",0,900070

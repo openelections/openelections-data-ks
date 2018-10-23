@@ -1,0 +1,779 @@
+county,precinct,office,district,party,candidate,votes,vtd
+Seward,Fargo Township 1,State House,125,Republican,"Francis, Shannon",50,000010
+Seward,Fargo Township 2,State House,125,Republican,"Francis, Shannon",168,000020
+Seward,Fargo Township 3,State House,125,Republican,"Francis, Shannon",17,000030
+Seward,Fargo Township 4,State House,125,Republican,"Francis, Shannon",105,000040
+Seward,Liberal Township 1,State House,125,Republican,"Francis, Shannon",5,00005A
+Seward,Liberal Township 1 Exclave,State House,125,Republican,"Francis, Shannon",0,00005B
+Seward,Liberal Township 2,State House,125,Republican,"Francis, Shannon",104,000060
+Seward,Liberal Township 3,State House,125,Republican,"Francis, Shannon",56,000070
+Seward,Liberal Township 4,State House,125,Republican,"Francis, Shannon",36,00008A
+Seward,Liberal Township 4 Exclave,State House,125,Republican,"Francis, Shannon",0,00008B
+Seward,Liberal Township 5,State House,125,Republican,"Francis, Shannon",28,000090
+Seward,Liberal Ward 1 Precinct 1,State House,125,Republican,"Francis, Shannon",284,000100
+Seward,Liberal Ward 1 Precinct 2,State House,125,Republican,"Francis, Shannon",413,000110
+Seward,Liberal Ward 1 Precinct 3,State House,125,Republican,"Francis, Shannon",355,000120
+Seward,Liberal Ward 2,State House,125,Republican,"Francis, Shannon",361,000130
+Seward,Liberal Ward 3,State House,125,Republican,"Francis, Shannon",220,000140
+Seward,Liberal Ward 4,State House,125,Republican,"Francis, Shannon",267,000150
+Seward,Liberal Ward 5,State House,125,Republican,"Francis, Shannon",220,000160
+Seward,Liberal Ward 6 Precinct 1,State House,125,Republican,"Francis, Shannon",850,000170
+Seward,Liberal Ward 6 Precinct 2,State House,125,Republican,"Francis, Shannon",563,000180
+Seward,Seward Township 1,State House,124,Republican,"Alford, J. Stephen",31,000190
+Seward,Seward Township 2,State House,124,Republican,"Alford, J. Stephen",35,000200
+Seward,Seward Township 3,State House,124,Republican,"Alford, J. Stephen",20,000210
+Seward,Fargo Township 1,State Senate,38,Democratic,"Rodriguez, Miguel Angel",5,000010
+Seward,Fargo Township 1,State Senate,38,Republican,"Estes, Bud",47,000010
+Seward,Fargo Township 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",22,000020
+Seward,Fargo Township 2,State Senate,38,Republican,"Estes, Bud",153,000020
+Seward,Fargo Township 3,State Senate,38,Democratic,"Rodriguez, Miguel Angel",0,000030
+Seward,Fargo Township 3,State Senate,38,Republican,"Estes, Bud",18,000030
+Seward,Fargo Township 4,State Senate,38,Democratic,"Rodriguez, Miguel Angel",45,000040
+Seward,Fargo Township 4,State Senate,38,Republican,"Estes, Bud",74,000040
+Seward,Liberal Township 1,State Senate,38,Democratic,"Rodriguez, Miguel Angel",1,00005A
+Seward,Liberal Township 1,State Senate,38,Republican,"Estes, Bud",5,00005A
+Seward,Liberal Township 1 Exclave,State Senate,38,Democratic,"Rodriguez, Miguel Angel",0,00005B
+Seward,Liberal Township 1 Exclave,State Senate,38,Republican,"Estes, Bud",0,00005B
+Seward,Liberal Township 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",13,000060
+Seward,Liberal Township 2,State Senate,38,Republican,"Estes, Bud",96,000060
+Seward,Liberal Township 3,State Senate,38,Democratic,"Rodriguez, Miguel Angel",6,000070
+Seward,Liberal Township 3,State Senate,38,Republican,"Estes, Bud",56,000070
+Seward,Liberal Township 4,State Senate,38,Democratic,"Rodriguez, Miguel Angel",5,00008A
+Seward,Liberal Township 4,State Senate,38,Republican,"Estes, Bud",31,00008A
+Seward,Liberal Township 4 Exclave,State Senate,38,Democratic,"Rodriguez, Miguel Angel",0,00008B
+Seward,Liberal Township 4 Exclave,State Senate,38,Republican,"Estes, Bud",0,00008B
+Seward,Liberal Township 5,State Senate,38,Democratic,"Rodriguez, Miguel Angel",7,000090
+Seward,Liberal Township 5,State Senate,38,Republican,"Estes, Bud",23,000090
+Seward,Liberal Ward 1 Precinct 1,State Senate,38,Democratic,"Rodriguez, Miguel Angel",155,000100
+Seward,Liberal Ward 1 Precinct 1,State Senate,38,Republican,"Estes, Bud",178,000100
+Seward,Liberal Ward 1 Precinct 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",234,000110
+Seward,Liberal Ward 1 Precinct 2,State Senate,38,Republican,"Estes, Bud",254,000110
+Seward,Liberal Ward 1 Precinct 3,State Senate,38,Democratic,"Rodriguez, Miguel Angel",183,000120
+Seward,Liberal Ward 1 Precinct 3,State Senate,38,Republican,"Estes, Bud",238,000120
+Seward,Liberal Ward 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",130,000130
+Seward,Liberal Ward 2,State Senate,38,Republican,"Estes, Bud",270,000130
+Seward,Liberal Ward 3,State Senate,38,Democratic,"Rodriguez, Miguel Angel",135,000140
+Seward,Liberal Ward 3,State Senate,38,Republican,"Estes, Bud",120,000140
+Seward,Liberal Ward 4,State Senate,38,Democratic,"Rodriguez, Miguel Angel",106,000150
+Seward,Liberal Ward 4,State Senate,38,Republican,"Estes, Bud",192,000150
+Seward,Liberal Ward 5,State Senate,38,Democratic,"Rodriguez, Miguel Angel",92,000160
+Seward,Liberal Ward 5,State Senate,38,Republican,"Estes, Bud",162,000160
+Seward,Liberal Ward 6 Precinct 1,State Senate,38,Democratic,"Rodriguez, Miguel Angel",173,000170
+Seward,Liberal Ward 6 Precinct 1,State Senate,38,Republican,"Estes, Bud",715,000170
+Seward,Liberal Ward 6 Precinct 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",136,000180
+Seward,Liberal Ward 6 Precinct 2,State Senate,38,Republican,"Estes, Bud",454,000180
+Seward,Seward Township 1,State Senate,38,Democratic,"Rodriguez, Miguel Angel",2,000190
+Seward,Seward Township 1,State Senate,38,Republican,"Estes, Bud",29,000190
+Seward,Seward Township 2,State Senate,38,Democratic,"Rodriguez, Miguel Angel",4,000200
+Seward,Seward Township 2,State Senate,38,Republican,"Estes, Bud",36,000200
+Seward,Seward Township 3,State Senate,38,Democratic,"Rodriguez, Miguel Angel",2,000210
+Seward,Seward Township 3,State Senate,38,Republican,"Estes, Bud",20,000210
+Seward,Fargo Township 1,President,,independent,"Stein, Jill",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Basiago, Andrew D.",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Castle, Darrell L",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Giordani, Rocky",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Hedges, James A",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Hoefling, Tom",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Kahn, Lynn",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"La Riva, Gloria",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Levinson, Michael S.",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Maturen, Michael A",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"McMullin, Evan",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Moorehead, Monica G.",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Perry, Darryl",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Schoenke, Marshall R.",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Schriner, Joe C",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Smith, Mike",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Sood, Ajay",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Sterling, Shawna",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Valdivia, Anthony J",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000010
+Seward,Fargo Township 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000010
+Seward,Fargo Township 1,President,,Democratic,"Clinton, Hillary Rodham",8,000010
+Seward,Fargo Township 1,President,,Libertarian,"Johnson, Gary",0,000010
+Seward,Fargo Township 1,President,,Republican,"Trump, Donald J.",46,000010
+Seward,Fargo Township 2,President,,independent,"Stein, Jill",1,000020
+Seward,Fargo Township 2,President,,Write-ins,"Basiago, Andrew D.",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Castle, Darrell L",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Giordani, Rocky",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Hedges, James A",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Hoefling, Tom",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Kahn, Lynn",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"La Riva, Gloria",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Levinson, Michael S.",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Maturen, Michael A",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"McMullin, Evan",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Moorehead, Monica G.",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Perry, Darryl",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Schoenke, Marshall R.",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Schriner, Joe C",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Smith, Mike",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Sood, Ajay",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Sterling, Shawna",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Valdivia, Anthony J",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000020
+Seward,Fargo Township 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000020
+Seward,Fargo Township 2,President,,Democratic,"Clinton, Hillary Rodham",24,000020
+Seward,Fargo Township 2,President,,Libertarian,"Johnson, Gary",7,000020
+Seward,Fargo Township 2,President,,Republican,"Trump, Donald J.",151,000020
+Seward,Fargo Township 3,President,,independent,"Stein, Jill",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Basiago, Andrew D.",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Castle, Darrell L",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Giordani, Rocky",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Hedges, James A",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Hoefling, Tom",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Kahn, Lynn",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"La Riva, Gloria",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Levinson, Michael S.",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Maturen, Michael A",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"McMullin, Evan",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Moorehead, Monica G.",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Perry, Darryl",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Schoenke, Marshall R.",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Schriner, Joe C",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Smith, Mike",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Sood, Ajay",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Sterling, Shawna",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Valdivia, Anthony J",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000030
+Seward,Fargo Township 3,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000030
+Seward,Fargo Township 3,President,,Democratic,"Clinton, Hillary Rodham",0,000030
+Seward,Fargo Township 3,President,,Libertarian,"Johnson, Gary",0,000030
+Seward,Fargo Township 3,President,,Republican,"Trump, Donald J.",18,000030
+Seward,Fargo Township 4,President,,independent,"Stein, Jill",5,000040
+Seward,Fargo Township 4,President,,Write-ins,"Basiago, Andrew D.",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Castle, Darrell L",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Giordani, Rocky",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Hedges, James A",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Hoefling, Tom",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Kahn, Lynn",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"La Riva, Gloria",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Levinson, Michael S.",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Maturen, Michael A",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"McMullin, Evan",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Moorehead, Monica G.",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Perry, Darryl",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Schoenke, Marshall R.",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Schriner, Joe C",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Smith, Mike",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Sood, Ajay",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Sterling, Shawna",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Valdivia, Anthony J",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000040
+Seward,Fargo Township 4,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000040
+Seward,Fargo Township 4,President,,Democratic,"Clinton, Hillary Rodham",53,000040
+Seward,Fargo Township 4,President,,Libertarian,"Johnson, Gary",4,000040
+Seward,Fargo Township 4,President,,Republican,"Trump, Donald J.",73,000040
+Seward,Liberal Township 1,President,,independent,"Stein, Jill",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Basiago, Andrew D.",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Castle, Darrell L",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Giordani, Rocky",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Hedges, James A",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Hoefling, Tom",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Kahn, Lynn",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"La Riva, Gloria",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Levinson, Michael S.",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Maturen, Michael A",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"McMullin, Evan",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Moorehead, Monica G.",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Perry, Darryl",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Schoenke, Marshall R.",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Schriner, Joe C",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Smith, Mike",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Sood, Ajay",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Sterling, Shawna",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Valdivia, Anthony J",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00005A
+Seward,Liberal Township 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00005A
+Seward,Liberal Township 1,President,,Democratic,"Clinton, Hillary Rodham",2,00005A
+Seward,Liberal Township 1,President,,Libertarian,"Johnson, Gary",0,00005A
+Seward,Liberal Township 1,President,,Republican,"Trump, Donald J.",5,00005A
+Seward,Liberal Township 2,President,,independent,"Stein, Jill",1,000060
+Seward,Liberal Township 2,President,,Write-ins,"Basiago, Andrew D.",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Castle, Darrell L",1,000060
+Seward,Liberal Township 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Giordani, Rocky",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Hedges, James A",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Hoefling, Tom",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Kahn, Lynn",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"La Riva, Gloria",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Levinson, Michael S.",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Maturen, Michael A",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"McMullin, Evan",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Moorehead, Monica G.",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Perry, Darryl",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Schoenke, Marshall R.",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Schriner, Joe C",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Smith, Mike",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Sood, Ajay",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Sterling, Shawna",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Valdivia, Anthony J",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000060
+Seward,Liberal Township 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000060
+Seward,Liberal Township 2,President,,Democratic,"Clinton, Hillary Rodham",13,000060
+Seward,Liberal Township 2,President,,Libertarian,"Johnson, Gary",2,000060
+Seward,Liberal Township 2,President,,Republican,"Trump, Donald J.",96,000060
+Seward,Liberal Township 3,President,,independent,"Stein, Jill",2,000070
+Seward,Liberal Township 3,President,,Write-ins,"Basiago, Andrew D.",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Castle, Darrell L",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Giordani, Rocky",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Hedges, James A",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Hoefling, Tom",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Kahn, Lynn",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"La Riva, Gloria",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Levinson, Michael S.",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Maturen, Michael A",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"McMullin, Evan",1,000070
+Seward,Liberal Township 3,President,,Write-ins,"Moorehead, Monica G.",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Perry, Darryl",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Schoenke, Marshall R.",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Schriner, Joe C",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Smith, Mike",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Sood, Ajay",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Sterling, Shawna",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Valdivia, Anthony J",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000070
+Seward,Liberal Township 3,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000070
+Seward,Liberal Township 3,President,,Democratic,"Clinton, Hillary Rodham",5,000070
+Seward,Liberal Township 3,President,,Libertarian,"Johnson, Gary",4,000070
+Seward,Liberal Township 3,President,,Republican,"Trump, Donald J.",53,000070
+Seward,Liberal Township 4,President,,independent,"Stein, Jill",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Basiago, Andrew D.",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Castle, Darrell L",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Giordani, Rocky",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Hedges, James A",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Hoefling, Tom",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Kahn, Lynn",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"La Riva, Gloria",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Levinson, Michael S.",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Maturen, Michael A",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"McMullin, Evan",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Moorehead, Monica G.",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Perry, Darryl",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Schoenke, Marshall R.",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Schriner, Joe C",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Smith, Mike",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Sood, Ajay",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Sterling, Shawna",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Valdivia, Anthony J",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Vogel-Walcutt, J.J.",0,00008A
+Seward,Liberal Township 4,President,,Write-ins,"Wysinger, Demetra Jefferson",0,00008A
+Seward,Liberal Township 4,President,,Democratic,"Clinton, Hillary Rodham",5,00008A
+Seward,Liberal Township 4,President,,Libertarian,"Johnson, Gary",2,00008A
+Seward,Liberal Township 4,President,,Republican,"Trump, Donald J.",32,00008A
+Seward,Liberal Township 5,President,,independent,"Stein, Jill",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Basiago, Andrew D.",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Castle, Darrell L",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Giordani, Rocky",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Hedges, James A",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Hoefling, Tom",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Kahn, Lynn",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"La Riva, Gloria",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Levinson, Michael S.",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Maturen, Michael A",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"McMullin, Evan",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Moorehead, Monica G.",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Perry, Darryl",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Schoenke, Marshall R.",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Schriner, Joe C",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Smith, Mike",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Sood, Ajay",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Sterling, Shawna",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Valdivia, Anthony J",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000090
+Seward,Liberal Township 5,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000090
+Seward,Liberal Township 5,President,,Democratic,"Clinton, Hillary Rodham",4,000090
+Seward,Liberal Township 5,President,,Libertarian,"Johnson, Gary",0,000090
+Seward,Liberal Township 5,President,,Republican,"Trump, Donald J.",28,000090
+Seward,Liberal Ward 1 Precinct 1,President,,independent,"Stein, Jill",7,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Basiago, Andrew D.",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Castle, Darrell L",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Giordani, Rocky",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Hedges, James A",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Hoefling, Tom",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Kahn, Lynn",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"La Riva, Gloria",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Levinson, Michael S.",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Maturen, Michael A",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"McMullin, Evan",1,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Moorehead, Monica G.",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Perry, Darryl",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Schoenke, Marshall R.",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Schriner, Joe C",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Smith, Mike",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Sood, Ajay",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Sterling, Shawna",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Valdivia, Anthony J",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Democratic,"Clinton, Hillary Rodham",177,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Libertarian,"Johnson, Gary",18,000100
+Seward,Liberal Ward 1 Precinct 1,President,,Republican,"Trump, Donald J.",183,000100
+Seward,Liberal Ward 1 Precinct 2,President,,independent,"Stein, Jill",6,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Basiago, Andrew D.",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Castle, Darrell L",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Giordani, Rocky",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Hedges, James A",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Hoefling, Tom",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Kahn, Lynn",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"La Riva, Gloria",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Levinson, Michael S.",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Maturen, Michael A",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"McMullin, Evan",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Moorehead, Monica G.",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Perry, Darryl",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Schoenke, Marshall R.",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Schriner, Joe C",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Smith, Mike",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Sood, Ajay",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Sterling, Shawna",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Valdivia, Anthony J",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Democratic,"Clinton, Hillary Rodham",262,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Libertarian,"Johnson, Gary",28,000110
+Seward,Liberal Ward 1 Precinct 2,President,,Republican,"Trump, Donald J.",256,000110
+Seward,Liberal Ward 1 Precinct 3,President,,independent,"Stein, Jill",5,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Basiago, Andrew D.",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Castle, Darrell L",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Giordani, Rocky",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Hedges, James A",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Hoefling, Tom",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Kahn, Lynn",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"La Riva, Gloria",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Levinson, Michael S.",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Maturen, Michael A",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"McMullin, Evan",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Moorehead, Monica G.",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Perry, Darryl",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Schoenke, Marshall R.",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Schriner, Joe C",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Smith, Mike",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Sood, Ajay",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Sterling, Shawna",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Valdivia, Anthony J",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Democratic,"Clinton, Hillary Rodham",196,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Libertarian,"Johnson, Gary",26,000120
+Seward,Liberal Ward 1 Precinct 3,President,,Republican,"Trump, Donald J.",231,000120
+Seward,Liberal Ward 2,President,,independent,"Stein, Jill",9,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Basiago, Andrew D.",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Castle, Darrell L",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Giordani, Rocky",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Hedges, James A",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Hoefling, Tom",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Kahn, Lynn",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"La Riva, Gloria",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Levinson, Michael S.",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Maturen, Michael A",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"McMullin, Evan",3,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Moorehead, Monica G.",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Perry, Darryl",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Schoenke, Marshall R.",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Schriner, Joe C",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Smith, Mike",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Sood, Ajay",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Sterling, Shawna",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Valdivia, Anthony J",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000130
+Seward,Liberal Ward 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000130
+Seward,Liberal Ward 2,President,,Democratic,"Clinton, Hillary Rodham",138,000130
+Seward,Liberal Ward 2,President,,Libertarian,"Johnson, Gary",14,000130
+Seward,Liberal Ward 2,President,,Republican,"Trump, Donald J.",270,000130
+Seward,Liberal Ward 3,President,,independent,"Stein, Jill",5,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Basiago, Andrew D.",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Castle, Darrell L",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Giordani, Rocky",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Hedges, James A",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Hoefling, Tom",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Kahn, Lynn",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"La Riva, Gloria",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Levinson, Michael S.",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Maturen, Michael A",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"McMullin, Evan",1,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Moorehead, Monica G.",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Perry, Darryl",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Schoenke, Marshall R.",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Schriner, Joe C",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Smith, Mike",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Sood, Ajay",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Sterling, Shawna",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Valdivia, Anthony J",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000140
+Seward,Liberal Ward 3,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000140
+Seward,Liberal Ward 3,President,,Democratic,"Clinton, Hillary Rodham",155,000140
+Seward,Liberal Ward 3,President,,Libertarian,"Johnson, Gary",19,000140
+Seward,Liberal Ward 3,President,,Republican,"Trump, Donald J.",118,000140
+Seward,Liberal Ward 4,President,,independent,"Stein, Jill",5,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Basiago, Andrew D.",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Castle, Darrell L",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Giordani, Rocky",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Hedges, James A",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Hoefling, Tom",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Kahn, Lynn",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"La Riva, Gloria",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Levinson, Michael S.",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Maturen, Michael A",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"McMullin, Evan",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Moorehead, Monica G.",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Perry, Darryl",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Schoenke, Marshall R.",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Schriner, Joe C",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Smith, Mike",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Sood, Ajay",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Sterling, Shawna",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Valdivia, Anthony J",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000150
+Seward,Liberal Ward 4,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000150
+Seward,Liberal Ward 4,President,,Democratic,"Clinton, Hillary Rodham",100,000150
+Seward,Liberal Ward 4,President,,Libertarian,"Johnson, Gary",17,000150
+Seward,Liberal Ward 4,President,,Republican,"Trump, Donald J.",192,000150
+Seward,Liberal Ward 5,President,,independent,"Stein, Jill",2,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Basiago, Andrew D.",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Castle, Darrell L",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Giordani, Rocky",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Hedges, James A",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Hoefling, Tom",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Kahn, Lynn",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"La Riva, Gloria",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Levinson, Michael S.",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Maturen, Michael A",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"McMullin, Evan",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Moorehead, Monica G.",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Perry, Darryl",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Schoenke, Marshall R.",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Schriner, Joe C",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Smith, Mike",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Sood, Ajay",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Sterling, Shawna",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Valdivia, Anthony J",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000160
+Seward,Liberal Ward 5,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000160
+Seward,Liberal Ward 5,President,,Democratic,"Clinton, Hillary Rodham",101,000160
+Seward,Liberal Ward 5,President,,Libertarian,"Johnson, Gary",6,000160
+Seward,Liberal Ward 5,President,,Republican,"Trump, Donald J.",177,000160
+Seward,Liberal Ward 6 Precinct 1,President,,independent,"Stein, Jill",4,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Basiago, Andrew D.",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Castle, Darrell L",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Giordani, Rocky",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Hedges, James A",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Hoefling, Tom",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Kahn, Lynn",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"La Riva, Gloria",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Levinson, Michael S.",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Maturen, Michael A",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"McMullin, Evan",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Moorehead, Monica G.",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Perry, Darryl",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Schoenke, Marshall R.",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Schriner, Joe C",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Smith, Mike",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Sood, Ajay",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Sterling, Shawna",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Valdivia, Anthony J",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Democratic,"Clinton, Hillary Rodham",212,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Libertarian,"Johnson, Gary",24,000170
+Seward,Liberal Ward 6 Precinct 1,President,,Republican,"Trump, Donald J.",701,000170
+Seward,Liberal Ward 6 Precinct 2,President,,independent,"Stein, Jill",5,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Basiago, Andrew D.",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Castle, Darrell L",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Giordani, Rocky",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Hedges, James A",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Hoefling, Tom",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Kahn, Lynn",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"La Riva, Gloria",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Levinson, Michael S.",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Maturen, Michael A",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"McMullin, Evan",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Moorehead, Monica G.",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Perry, Darryl",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Schoenke, Marshall R.",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Schriner, Joe C",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Smith, Mike",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Sood, Ajay",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Sterling, Shawna",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Valdivia, Anthony J",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Democratic,"Clinton, Hillary Rodham",164,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Libertarian,"Johnson, Gary",15,000180
+Seward,Liberal Ward 6 Precinct 2,President,,Republican,"Trump, Donald J.",442,000180
+Seward,Seward Township 1,President,,independent,"Stein, Jill",1,000190
+Seward,Seward Township 1,President,,Write-ins,"Basiago, Andrew D.",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Castle, Darrell L",0,000190
+Seward,Seward Township 1,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Giordani, Rocky",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Hedges, James A",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Hoefling, Tom",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Kahn, Lynn",0,000190
+Seward,Seward Township 1,President,,Write-ins,"La Riva, Gloria",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Levinson, Michael S.",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Maturen, Michael A",0,000190
+Seward,Seward Township 1,President,,Write-ins,"McMullin, Evan",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Moorehead, Monica G.",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Perry, Darryl",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Schoenke, Marshall R.",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Schriner, Joe C",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Smith, Mike",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Sood, Ajay",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Sterling, Shawna",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Valdivia, Anthony J",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000190
+Seward,Seward Township 1,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000190
+Seward,Seward Township 1,President,,Democratic,"Clinton, Hillary Rodham",0,000190
+Seward,Seward Township 1,President,,Libertarian,"Johnson, Gary",0,000190
+Seward,Seward Township 1,President,,Republican,"Trump, Donald J.",30,000190
+Seward,Seward Township 2,President,,independent,"Stein, Jill",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Basiago, Andrew D.",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Castle, Darrell L",0,000200
+Seward,Seward Township 2,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Giordani, Rocky",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Hedges, James A",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Hoefling, Tom",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Kahn, Lynn",0,000200
+Seward,Seward Township 2,President,,Write-ins,"La Riva, Gloria",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Levinson, Michael S.",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Maturen, Michael A",0,000200
+Seward,Seward Township 2,President,,Write-ins,"McMullin, Evan",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Moorehead, Monica G.",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Perry, Darryl",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Schoenke, Marshall R.",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Schriner, Joe C",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Smith, Mike",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Sood, Ajay",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Sterling, Shawna",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Valdivia, Anthony J",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000200
+Seward,Seward Township 2,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000200
+Seward,Seward Township 2,President,,Democratic,"Clinton, Hillary Rodham",7,000200
+Seward,Seward Township 2,President,,Libertarian,"Johnson, Gary",0,000200
+Seward,Seward Township 2,President,,Republican,"Trump, Donald J.",37,000200
+Seward,Seward Township 3,President,,independent,"Stein, Jill",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Basiago, Andrew D.",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Castle, Darrell L",0,000210
+Seward,Seward Township 3,President,,Write-ins,"De La Fuente, ""Rocky"" Roque",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Giordani, Rocky",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Hedges, James A",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Hoefling, Tom",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Kahn, Lynn",0,000210
+Seward,Seward Township 3,President,,Write-ins,"La Riva, Gloria",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Levinson, Michael S.",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Maturen, Michael A",0,000210
+Seward,Seward Township 3,President,,Write-ins,"McMullin, Evan",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Moorehead, Monica G.",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Perry, Darryl",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Schoenke, Marshall R.",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Schriner, Joe C",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Smith, Mike",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Sood, Ajay",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Sterling, Shawna",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Valdivia, Anthony J",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Vogel-Walcutt, J.J.",0,000210
+Seward,Seward Township 3,President,,Write-ins,"Wysinger, Demetra Jefferson",0,000210
+Seward,Seward Township 3,President,,Democratic,"Clinton, Hillary Rodham",2,000210
+Seward,Seward Township 3,President,,Libertarian,"Johnson, Gary",0,000210
+Seward,Seward Township 3,President,,Republican,"Trump, Donald J.",20,000210
+Seward,Fargo Township 1,U.S. House,1,independent,"LaPolice, Alan",8,000010
+Seward,Fargo Township 1,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000010
+Seward,Fargo Township 1,U.S. House,1,Libertarian,"Burt, Kerry",6,000010
+Seward,Fargo Township 1,U.S. House,1,Republican,"Marshall, Roger",38,000010
+Seward,Fargo Township 2,U.S. House,1,independent,"LaPolice, Alan",28,000020
+Seward,Fargo Township 2,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000020
+Seward,Fargo Township 2,U.S. House,1,Libertarian,"Burt, Kerry",14,000020
+Seward,Fargo Township 2,U.S. House,1,Republican,"Marshall, Roger",133,000020
+Seward,Fargo Township 3,U.S. House,1,independent,"LaPolice, Alan",4,000030
+Seward,Fargo Township 3,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000030
+Seward,Fargo Township 3,U.S. House,1,Libertarian,"Burt, Kerry",0,000030
+Seward,Fargo Township 3,U.S. House,1,Republican,"Marshall, Roger",14,000030
+Seward,Fargo Township 4,U.S. House,1,independent,"LaPolice, Alan",22,000040
+Seward,Fargo Township 4,U.S. House,1,Write-ins,"Huelskamp, Tim",1,000040
+Seward,Fargo Township 4,U.S. House,1,Libertarian,"Burt, Kerry",19,000040
+Seward,Fargo Township 4,U.S. House,1,Republican,"Marshall, Roger",73,000040
+Seward,Liberal Township 1,U.S. House,1,independent,"LaPolice, Alan",4,00005A
+Seward,Liberal Township 1,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00005A
+Seward,Liberal Township 1,U.S. House,1,Libertarian,"Burt, Kerry",0,00005A
+Seward,Liberal Township 1,U.S. House,1,Republican,"Marshall, Roger",2,00005A
+Seward,Liberal Township 1 Exclave,U.S. House,1,independent,"LaPolice, Alan",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. House,1,Libertarian,"Burt, Kerry",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. House,1,Republican,"Marshall, Roger",0,00005B
+Seward,Liberal Township 2,U.S. House,1,independent,"LaPolice, Alan",11,000060
+Seward,Liberal Township 2,U.S. House,1,Write-ins,"Huelskamp, Tim",1,000060
+Seward,Liberal Township 2,U.S. House,1,Libertarian,"Burt, Kerry",5,000060
+Seward,Liberal Township 2,U.S. House,1,Republican,"Marshall, Roger",90,000060
+Seward,Liberal Township 3,U.S. House,1,independent,"LaPolice, Alan",9,000070
+Seward,Liberal Township 3,U.S. House,1,Write-ins,"Huelskamp, Tim",2,000070
+Seward,Liberal Township 3,U.S. House,1,Libertarian,"Burt, Kerry",6,000070
+Seward,Liberal Township 3,U.S. House,1,Republican,"Marshall, Roger",45,000070
+Seward,Liberal Township 4,U.S. House,1,independent,"LaPolice, Alan",6,00008A
+Seward,Liberal Township 4,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00008A
+Seward,Liberal Township 4,U.S. House,1,Libertarian,"Burt, Kerry",3,00008A
+Seward,Liberal Township 4,U.S. House,1,Republican,"Marshall, Roger",28,00008A
+Seward,Liberal Township 4 Exclave,U.S. House,1,independent,"LaPolice, Alan",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. House,1,Write-ins,"Huelskamp, Tim",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. House,1,Libertarian,"Burt, Kerry",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. House,1,Republican,"Marshall, Roger",0,00008B
+Seward,Liberal Township 5,U.S. House,1,independent,"LaPolice, Alan",5,000090
+Seward,Liberal Township 5,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000090
+Seward,Liberal Township 5,U.S. House,1,Libertarian,"Burt, Kerry",2,000090
+Seward,Liberal Township 5,U.S. House,1,Republican,"Marshall, Roger",22,000090
+Seward,Liberal Ward 1 Precinct 1,U.S. House,1,independent,"LaPolice, Alan",45,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. House,1,Write-ins,"Huelskamp, Tim",1,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. House,1,Libertarian,"Burt, Kerry",64,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. House,1,Republican,"Marshall, Roger",188,000100
+Seward,Liberal Ward 1 Precinct 2,U.S. House,1,independent,"LaPolice, Alan",86,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. House,1,Libertarian,"Burt, Kerry",88,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. House,1,Republican,"Marshall, Roger",278,000110
+Seward,Liberal Ward 1 Precinct 3,U.S. House,1,independent,"LaPolice, Alan",76,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. House,1,Libertarian,"Burt, Kerry",69,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. House,1,Republican,"Marshall, Roger",249,000120
+Seward,Liberal Ward 2,U.S. House,1,independent,"LaPolice, Alan",67,000130
+Seward,Liberal Ward 2,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000130
+Seward,Liberal Ward 2,U.S. House,1,Libertarian,"Burt, Kerry",57,000130
+Seward,Liberal Ward 2,U.S. House,1,Republican,"Marshall, Roger",265,000130
+Seward,Liberal Ward 3,U.S. House,1,independent,"LaPolice, Alan",50,000140
+Seward,Liberal Ward 3,U.S. House,1,Write-ins,"Huelskamp, Tim",2,000140
+Seward,Liberal Ward 3,U.S. House,1,Libertarian,"Burt, Kerry",47,000140
+Seward,Liberal Ward 3,U.S. House,1,Republican,"Marshall, Roger",129,000140
+Seward,Liberal Ward 4,U.S. House,1,independent,"LaPolice, Alan",58,000150
+Seward,Liberal Ward 4,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000150
+Seward,Liberal Ward 4,U.S. House,1,Libertarian,"Burt, Kerry",35,000150
+Seward,Liberal Ward 4,U.S. House,1,Republican,"Marshall, Roger",193,000150
+Seward,Liberal Ward 5,U.S. House,1,independent,"LaPolice, Alan",56,000160
+Seward,Liberal Ward 5,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000160
+Seward,Liberal Ward 5,U.S. House,1,Libertarian,"Burt, Kerry",39,000160
+Seward,Liberal Ward 5,U.S. House,1,Republican,"Marshall, Roger",154,000160
+Seward,Liberal Ward 6 Precinct 1,U.S. House,1,independent,"LaPolice, Alan",123,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. House,1,Write-ins,"Huelskamp, Tim",2,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. House,1,Libertarian,"Burt, Kerry",61,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. House,1,Republican,"Marshall, Roger",703,000170
+Seward,Liberal Ward 6 Precinct 2,U.S. House,1,independent,"LaPolice, Alan",82,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. House,1,Write-ins,"Huelskamp, Tim",1,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. House,1,Libertarian,"Burt, Kerry",55,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. House,1,Republican,"Marshall, Roger",444,000180
+Seward,Seward Township 1,U.S. House,1,independent,"LaPolice, Alan",6,000190
+Seward,Seward Township 1,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000190
+Seward,Seward Township 1,U.S. House,1,Libertarian,"Burt, Kerry",0,000190
+Seward,Seward Township 1,U.S. House,1,Republican,"Marshall, Roger",26,000190
+Seward,Seward Township 2,U.S. House,1,independent,"LaPolice, Alan",6,000200
+Seward,Seward Township 2,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000200
+Seward,Seward Township 2,U.S. House,1,Libertarian,"Burt, Kerry",2,000200
+Seward,Seward Township 2,U.S. House,1,Republican,"Marshall, Roger",34,000200
+Seward,Seward Township 3,U.S. House,1,independent,"LaPolice, Alan",0,000210
+Seward,Seward Township 3,U.S. House,1,Write-ins,"Huelskamp, Tim",0,000210
+Seward,Seward Township 3,U.S. House,1,Libertarian,"Burt, Kerry",5,000210
+Seward,Seward Township 3,U.S. House,1,Republican,"Marshall, Roger",16,000210
+Seward,Fargo Township 1,U.S. Senate,,Write-ins,"Smith, DJ",0,000010
+Seward,Fargo Township 1,U.S. Senate,,Democratic,"Wiesner, Patrick",8,000010
+Seward,Fargo Township 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",4,000010
+Seward,Fargo Township 1,U.S. Senate,,Republican,"Moran, Jerry",41,000010
+Seward,Fargo Township 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000020
+Seward,Fargo Township 2,U.S. Senate,,Democratic,"Wiesner, Patrick",19,000020
+Seward,Fargo Township 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",17,000020
+Seward,Fargo Township 2,U.S. Senate,,Republican,"Moran, Jerry",142,000020
+Seward,Fargo Township 3,U.S. Senate,,Write-ins,"Smith, DJ",0,000030
+Seward,Fargo Township 3,U.S. Senate,,Democratic,"Wiesner, Patrick",0,000030
+Seward,Fargo Township 3,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000030
+Seward,Fargo Township 3,U.S. Senate,,Republican,"Moran, Jerry",18,000030
+Seward,Fargo Township 4,U.S. Senate,,Write-ins,"Smith, DJ",0,000040
+Seward,Fargo Township 4,U.S. Senate,,Democratic,"Wiesner, Patrick",44,000040
+Seward,Fargo Township 4,U.S. Senate,,Libertarian,"Garrard, Robert D.",13,000040
+Seward,Fargo Township 4,U.S. Senate,,Republican,"Moran, Jerry",65,000040
+Seward,Liberal Township 1,U.S. Senate,,Write-ins,"Smith, DJ",0,00005A
+Seward,Liberal Township 1,U.S. Senate,,Democratic,"Wiesner, Patrick",2,00005A
+Seward,Liberal Township 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",1,00005A
+Seward,Liberal Township 1,U.S. Senate,,Republican,"Moran, Jerry",3,00005A
+Seward,Liberal Township 1 Exclave,U.S. Senate,,Write-ins,"Smith, DJ",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. Senate,,Democratic,"Wiesner, Patrick",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,00005B
+Seward,Liberal Township 1 Exclave,U.S. Senate,,Republican,"Moran, Jerry",0,00005B
+Seward,Liberal Township 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000060
+Seward,Liberal Township 2,U.S. Senate,,Democratic,"Wiesner, Patrick",11,000060
+Seward,Liberal Township 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",7,000060
+Seward,Liberal Township 2,U.S. Senate,,Republican,"Moran, Jerry",94,000060
+Seward,Liberal Township 3,U.S. Senate,,Write-ins,"Smith, DJ",0,000070
+Seward,Liberal Township 3,U.S. Senate,,Democratic,"Wiesner, Patrick",4,000070
+Seward,Liberal Township 3,U.S. Senate,,Libertarian,"Garrard, Robert D.",4,000070
+Seward,Liberal Township 3,U.S. Senate,,Republican,"Moran, Jerry",55,000070
+Seward,Liberal Township 4,U.S. Senate,,Write-ins,"Smith, DJ",0,00008A
+Seward,Liberal Township 4,U.S. Senate,,Democratic,"Wiesner, Patrick",3,00008A
+Seward,Liberal Township 4,U.S. Senate,,Libertarian,"Garrard, Robert D.",3,00008A
+Seward,Liberal Township 4,U.S. Senate,,Republican,"Moran, Jerry",31,00008A
+Seward,Liberal Township 4 Exclave,U.S. Senate,,Write-ins,"Smith, DJ",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. Senate,,Democratic,"Wiesner, Patrick",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,00008B
+Seward,Liberal Township 4 Exclave,U.S. Senate,,Republican,"Moran, Jerry",0,00008B
+Seward,Liberal Township 5,U.S. Senate,,Write-ins,"Smith, DJ",0,000090
+Seward,Liberal Township 5,U.S. Senate,,Democratic,"Wiesner, Patrick",2,000090
+Seward,Liberal Township 5,U.S. Senate,,Libertarian,"Garrard, Robert D.",1,000090
+Seward,Liberal Township 5,U.S. Senate,,Republican,"Moran, Jerry",28,000090
+Seward,Liberal Ward 1 Precinct 1,U.S. Senate,,Write-ins,"Smith, DJ",0,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. Senate,,Democratic,"Wiesner, Patrick",131,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",36,000100
+Seward,Liberal Ward 1 Precinct 1,U.S. Senate,,Republican,"Moran, Jerry",168,000100
+Seward,Liberal Ward 1 Precinct 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. Senate,,Democratic,"Wiesner, Patrick",191,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",47,000110
+Seward,Liberal Ward 1 Precinct 2,U.S. Senate,,Republican,"Moran, Jerry",254,000110
+Seward,Liberal Ward 1 Precinct 3,U.S. Senate,,Write-ins,"Smith, DJ",0,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. Senate,,Democratic,"Wiesner, Patrick",159,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. Senate,,Libertarian,"Garrard, Robert D.",27,000120
+Seward,Liberal Ward 1 Precinct 3,U.S. Senate,,Republican,"Moran, Jerry",241,000120
+Seward,Liberal Ward 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000130
+Seward,Liberal Ward 2,U.S. Senate,,Democratic,"Wiesner, Patrick",94,000130
+Seward,Liberal Ward 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",32,000130
+Seward,Liberal Ward 2,U.S. Senate,,Republican,"Moran, Jerry",279,000130
+Seward,Liberal Ward 3,U.S. Senate,,Write-ins,"Smith, DJ",0,000140
+Seward,Liberal Ward 3,U.S. Senate,,Democratic,"Wiesner, Patrick",111,000140
+Seward,Liberal Ward 3,U.S. Senate,,Libertarian,"Garrard, Robert D.",24,000140
+Seward,Liberal Ward 3,U.S. Senate,,Republican,"Moran, Jerry",130,000140
+Seward,Liberal Ward 4,U.S. Senate,,Write-ins,"Smith, DJ",0,000150
+Seward,Liberal Ward 4,U.S. Senate,,Democratic,"Wiesner, Patrick",84,000150
+Seward,Liberal Ward 4,U.S. Senate,,Libertarian,"Garrard, Robert D.",11,000150
+Seward,Liberal Ward 4,U.S. Senate,,Republican,"Moran, Jerry",207,000150
+Seward,Liberal Ward 5,U.S. Senate,,Write-ins,"Smith, DJ",0,000160
+Seward,Liberal Ward 5,U.S. Senate,,Democratic,"Wiesner, Patrick",70,000160
+Seward,Liberal Ward 5,U.S. Senate,,Libertarian,"Garrard, Robert D.",21,000160
+Seward,Liberal Ward 5,U.S. Senate,,Republican,"Moran, Jerry",167,000160
+Seward,Liberal Ward 6 Precinct 1,U.S. Senate,,Write-ins,"Smith, DJ",0,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. Senate,,Democratic,"Wiesner, Patrick",152,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",55,000170
+Seward,Liberal Ward 6 Precinct 1,U.S. Senate,,Republican,"Moran, Jerry",699,000170
+Seward,Liberal Ward 6 Precinct 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. Senate,,Democratic,"Wiesner, Patrick",119,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",30,000180
+Seward,Liberal Ward 6 Precinct 2,U.S. Senate,,Republican,"Moran, Jerry",463,000180
+Seward,Seward Township 1,U.S. Senate,,Write-ins,"Smith, DJ",0,000190
+Seward,Seward Township 1,U.S. Senate,,Democratic,"Wiesner, Patrick",4,000190
+Seward,Seward Township 1,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000190
+Seward,Seward Township 1,U.S. Senate,,Republican,"Moran, Jerry",28,000190
+Seward,Seward Township 2,U.S. Senate,,Write-ins,"Smith, DJ",0,000200
+Seward,Seward Township 2,U.S. Senate,,Democratic,"Wiesner, Patrick",3,000200
+Seward,Seward Township 2,U.S. Senate,,Libertarian,"Garrard, Robert D.",2,000200
+Seward,Seward Township 2,U.S. Senate,,Republican,"Moran, Jerry",35,000200
+Seward,Seward Township 3,U.S. Senate,,Write-ins,"Smith, DJ",0,000210
+Seward,Seward Township 3,U.S. Senate,,Democratic,"Wiesner, Patrick",2,000210
+Seward,Seward Township 3,U.S. Senate,,Libertarian,"Garrard, Robert D.",0,000210
+Seward,Seward Township 3,U.S. Senate,,Republican,"Moran, Jerry",20,000210

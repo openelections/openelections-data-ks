@@ -1,0 +1,673 @@
+county,precinct,office,district,party,candidate,votes,vtd
+DECATUR,Allison Township,State House,120,Republican,"Cassidy, Ward M.",8,000010
+DECATUR,Altory Township,State House,120,Republican,"Cassidy, Ward M.",12,000020
+DECATUR,Bassettville Township,State House,120,Republican,"Cassidy, Ward M.",12,000030
+DECATUR,Beaver Township,State House,120,Republican,"Cassidy, Ward M.",28,000040
+DECATUR,Center Township,State House,120,Republican,"Cassidy, Ward M.",26,000050
+DECATUR,Cook Township,State House,120,Republican,"Cassidy, Ward M.",16,000060
+DECATUR,Custer Township,State House,120,Republican,"Cassidy, Ward M.",18,000070
+DECATUR,Dresden Township,State House,120,Republican,"Cassidy, Ward M.",50,000080
+DECATUR,Finley Township,State House,120,Republican,"Cassidy, Ward M.",15,000090
+DECATUR,Garfield Township,State House,120,Republican,"Cassidy, Ward M.",20,000100
+DECATUR,Grant Township,State House,120,Republican,"Cassidy, Ward M.",2,000110
+DECATUR,Harlan Township,State House,120,Republican,"Cassidy, Ward M.",16,000120
+DECATUR,Jennings Township,State House,120,Republican,"Cassidy, Ward M.",60,000130
+DECATUR,Liberty Township,State House,120,Republican,"Cassidy, Ward M.",26,000140
+DECATUR,Lincoln Township,State House,120,Republican,"Cassidy, Ward M.",72,000150
+DECATUR,Logan Township,State House,120,Republican,"Cassidy, Ward M.",16,000160
+DECATUR,Lyon Township,State House,120,Republican,"Cassidy, Ward M.",7,000170
+DECATUR,Oberlin City Precinct 1,State House,120,Republican,"Cassidy, Ward M.",354,000180
+DECATUR,Oberlin City Precinct 2,State House,120,Republican,"Cassidy, Ward M.",433,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,State House,120,Republican,"Cassidy, Ward M.",0,00019B
+DECATUR,Oberlin Township,State House,120,Republican,"Cassidy, Ward M.",46,000200
+DECATUR,Olive Township,State House,120,Republican,"Cassidy, Ward M.",24,000210
+DECATUR,Pleasant Valley Township,State House,120,Republican,"Cassidy, Ward M.",18,000220
+DECATUR,Prairie Dog Township,State House,120,Republican,"Cassidy, Ward M.",21,000230
+DECATUR,Roosevelt Township,State House,120,Republican,"Cassidy, Ward M.",9,000240
+DECATUR,Sappa Township,State House,120,Republican,"Cassidy, Ward M.",20,000250
+DECATUR,Sherman Township,State House,120,Republican,"Cassidy, Ward M.",7,000260
+DECATUR,Summit Township,State House,120,Republican,"Cassidy, Ward M.",13,000270
+DECATUR,Allison Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000010
+DECATUR,Allison Township,State Senate,40,Republican,"Ostmeyer, Ralph",8,000010
+DECATUR,Altory Township,State Senate,40,Democratic,"Schmidt, Allen Clark",3,000020
+DECATUR,Altory Township,State Senate,40,Republican,"Ostmeyer, Ralph",8,000020
+DECATUR,Bassettville Township,State Senate,40,Democratic,"Schmidt, Allen Clark",1,000030
+DECATUR,Bassettville Township,State Senate,40,Republican,"Ostmeyer, Ralph",12,000030
+DECATUR,Beaver Township,State Senate,40,Democratic,"Schmidt, Allen Clark",8,000040
+DECATUR,Beaver Township,State Senate,40,Republican,"Ostmeyer, Ralph",20,000040
+DECATUR,Center Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000050
+DECATUR,Center Township,State Senate,40,Republican,"Ostmeyer, Ralph",25,000050
+DECATUR,Cook Township,State Senate,40,Democratic,"Schmidt, Allen Clark",0,000060
+DECATUR,Cook Township,State Senate,40,Republican,"Ostmeyer, Ralph",16,000060
+DECATUR,Custer Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000070
+DECATUR,Custer Township,State Senate,40,Republican,"Ostmeyer, Ralph",16,000070
+DECATUR,Dresden Township,State Senate,40,Democratic,"Schmidt, Allen Clark",16,000080
+DECATUR,Dresden Township,State Senate,40,Republican,"Ostmeyer, Ralph",44,000080
+DECATUR,Finley Township,State Senate,40,Democratic,"Schmidt, Allen Clark",3,000090
+DECATUR,Finley Township,State Senate,40,Republican,"Ostmeyer, Ralph",14,000090
+DECATUR,Garfield Township,State Senate,40,Democratic,"Schmidt, Allen Clark",8,000100
+DECATUR,Garfield Township,State Senate,40,Republican,"Ostmeyer, Ralph",16,000100
+DECATUR,Grant Township,State Senate,40,Democratic,"Schmidt, Allen Clark",1,000110
+DECATUR,Grant Township,State Senate,40,Republican,"Ostmeyer, Ralph",2,000110
+DECATUR,Harlan Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000120
+DECATUR,Harlan Township,State Senate,40,Republican,"Ostmeyer, Ralph",13,000120
+DECATUR,Jennings Township,State Senate,40,Democratic,"Schmidt, Allen Clark",19,000130
+DECATUR,Jennings Township,State Senate,40,Republican,"Ostmeyer, Ralph",49,000130
+DECATUR,Liberty Township,State Senate,40,Democratic,"Schmidt, Allen Clark",2,000140
+DECATUR,Liberty Township,State Senate,40,Republican,"Ostmeyer, Ralph",23,000140
+DECATUR,Lincoln Township,State Senate,40,Democratic,"Schmidt, Allen Clark",17,000150
+DECATUR,Lincoln Township,State Senate,40,Republican,"Ostmeyer, Ralph",61,000150
+DECATUR,Logan Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000160
+DECATUR,Logan Township,State Senate,40,Republican,"Ostmeyer, Ralph",14,000160
+DECATUR,Lyon Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000170
+DECATUR,Lyon Township,State Senate,40,Republican,"Ostmeyer, Ralph",4,000170
+DECATUR,Oberlin City Precinct 1,State Senate,40,Democratic,"Schmidt, Allen Clark",93,000180
+DECATUR,Oberlin City Precinct 1,State Senate,40,Republican,"Ostmeyer, Ralph",295,000180
+DECATUR,Oberlin City Precinct 2,State Senate,40,Democratic,"Schmidt, Allen Clark",108,00019A
+DECATUR,Oberlin City Precinct 2,State Senate,40,Republican,"Ostmeyer, Ralph",371,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,State Senate,40,Democratic,"Schmidt, Allen Clark",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,State Senate,40,Republican,"Ostmeyer, Ralph",0,00019B
+DECATUR,Oberlin Township,State Senate,40,Democratic,"Schmidt, Allen Clark",11,000200
+DECATUR,Oberlin Township,State Senate,40,Republican,"Ostmeyer, Ralph",42,000200
+DECATUR,Olive Township,State Senate,40,Democratic,"Schmidt, Allen Clark",4,000210
+DECATUR,Olive Township,State Senate,40,Republican,"Ostmeyer, Ralph",22,000210
+DECATUR,Pleasant Valley Township,State Senate,40,Democratic,"Schmidt, Allen Clark",5,000220
+DECATUR,Pleasant Valley Township,State Senate,40,Republican,"Ostmeyer, Ralph",13,000220
+DECATUR,Prairie Dog Township,State Senate,40,Democratic,"Schmidt, Allen Clark",0,000230
+DECATUR,Prairie Dog Township,State Senate,40,Republican,"Ostmeyer, Ralph",22,000230
+DECATUR,Roosevelt Township,State Senate,40,Democratic,"Schmidt, Allen Clark",2,000240
+DECATUR,Roosevelt Township,State Senate,40,Republican,"Ostmeyer, Ralph",7,000240
+DECATUR,Sappa Township,State Senate,40,Democratic,"Schmidt, Allen Clark",0,000250
+DECATUR,Sappa Township,State Senate,40,Republican,"Ostmeyer, Ralph",20,000250
+DECATUR,Sherman Township,State Senate,40,Democratic,"Schmidt, Allen Clark",2,000260
+DECATUR,Sherman Township,State Senate,40,Republican,"Ostmeyer, Ralph",5,000260
+DECATUR,Summit Township,State Senate,40,Democratic,"Schmidt, Allen Clark",1,000270
+DECATUR,Summit Township,State Senate,40,Republican,"Ostmeyer, Ralph",12,000270
+DECATUR,Allison Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Bush, Kent W",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Christensen, Will",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Goode, Virgil",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Stein, Jill E",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+DECATUR,Allison Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+DECATUR,Allison Township,President / Vice President,,Democratic,"Obama, Barack",2,000010
+DECATUR,Allison Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+DECATUR,Allison Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000010
+DECATUR,Allison Township,President / Vice President,,Republican,"Romney, Mitt",11,000010
+DECATUR,Altory Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Barnett, Andre",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Bush, Kent W",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Christensen, Will",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Goode, Virgil",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Stein, Jill E",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+DECATUR,Altory Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+DECATUR,Altory Township,President / Vice President,,Democratic,"Obama, Barack",1,000020
+DECATUR,Altory Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000020
+DECATUR,Altory Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000020
+DECATUR,Altory Township,President / Vice President,,Republican,"Romney, Mitt",10,000020
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Barnett, Andre",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Bush, Kent W",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Christensen, Will",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Goode, Virgil",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Stein, Jill E",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+DECATUR,Bassettville Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+DECATUR,Bassettville Township,President / Vice President,,Democratic,"Obama, Barack",0,000030
+DECATUR,Bassettville Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+DECATUR,Bassettville Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000030
+DECATUR,Bassettville Township,President / Vice President,,Republican,"Romney, Mitt",13,000030
+DECATUR,Beaver Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Barnett, Andre",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Bush, Kent W",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Christensen, Will",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Goode, Virgil",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Stein, Jill E",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+DECATUR,Beaver Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+DECATUR,Beaver Township,President / Vice President,,Democratic,"Obama, Barack",6,000040
+DECATUR,Beaver Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000040
+DECATUR,Beaver Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000040
+DECATUR,Beaver Township,President / Vice President,,Republican,"Romney, Mitt",24,000040
+DECATUR,Center Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Barnett, Andre",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Bush, Kent W",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Christensen, Will",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Goode, Virgil",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Stein, Jill E",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+DECATUR,Center Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+DECATUR,Center Township,President / Vice President,,Democratic,"Obama, Barack",5,000050
+DECATUR,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000050
+DECATUR,Center Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000050
+DECATUR,Center Township,President / Vice President,,Republican,"Romney, Mitt",23,000050
+DECATUR,Cook Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Barnett, Andre",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Bush, Kent W",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Christensen, Will",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Goode, Virgil",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Stein, Jill E",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+DECATUR,Cook Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+DECATUR,Cook Township,President / Vice President,,Democratic,"Obama, Barack",0,000060
+DECATUR,Cook Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000060
+DECATUR,Cook Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000060
+DECATUR,Cook Township,President / Vice President,,Republican,"Romney, Mitt",16,000060
+DECATUR,Custer Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Barnett, Andre",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Bush, Kent W",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Christensen, Will",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Goode, Virgil",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Stein, Jill E",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+DECATUR,Custer Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+DECATUR,Custer Township,President / Vice President,,Democratic,"Obama, Barack",0,000070
+DECATUR,Custer Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
+DECATUR,Custer Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000070
+DECATUR,Custer Township,President / Vice President,,Republican,"Romney, Mitt",21,000070
+DECATUR,Dresden Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Ayers, Avery L",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Barnett, Andre",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Bush, Kent W",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Christensen, Will",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Duncan, Richard A",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Goode, Virgil",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Knill, Dennis J",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Reed, Jill A.",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Rogers, Rick L",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Stein, Jill E",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000080
+DECATUR,Dresden Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000080
+DECATUR,Dresden Township,President / Vice President,,Democratic,"Obama, Barack",9,000080
+DECATUR,Dresden Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000080
+DECATUR,Dresden Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000080
+DECATUR,Dresden Township,President / Vice President,,Republican,"Romney, Mitt",50,000080
+DECATUR,Finley Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Barnett, Andre",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Bush, Kent W",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Christensen, Will",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Goode, Virgil",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Stein, Jill E",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+DECATUR,Finley Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+DECATUR,Finley Township,President / Vice President,,Democratic,"Obama, Barack",3,000090
+DECATUR,Finley Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+DECATUR,Finley Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000090
+DECATUR,Finley Township,President / Vice President,,Republican,"Romney, Mitt",15,000090
+DECATUR,Garfield Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Barnett, Andre",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Bush, Kent W",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Christensen, Will",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Goode, Virgil",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Stein, Jill E",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+DECATUR,Garfield Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+DECATUR,Garfield Township,President / Vice President,,Democratic,"Obama, Barack",6,000100
+DECATUR,Garfield Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+DECATUR,Garfield Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000100
+DECATUR,Garfield Township,President / Vice President,,Republican,"Romney, Mitt",18,000100
+DECATUR,Grant Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Barnett, Andre",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Bush, Kent W",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Christensen, Will",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Goode, Virgil",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Stein, Jill E",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+DECATUR,Grant Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+DECATUR,Grant Township,President / Vice President,,Democratic,"Obama, Barack",0,000110
+DECATUR,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000110
+DECATUR,Grant Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000110
+DECATUR,Grant Township,President / Vice President,,Republican,"Romney, Mitt",4,000110
+DECATUR,Harlan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Barnett, Andre",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Bush, Kent W",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Christensen, Will",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Goode, Virgil",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Stein, Jill E",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+DECATUR,Harlan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+DECATUR,Harlan Township,President / Vice President,,Democratic,"Obama, Barack",0,000120
+DECATUR,Harlan Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000120
+DECATUR,Harlan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000120
+DECATUR,Harlan Township,President / Vice President,,Republican,"Romney, Mitt",16,000120
+DECATUR,Jennings Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Barnett, Andre",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Bush, Kent W",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Christensen, Will",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Goode, Virgil",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Stein, Jill E",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+DECATUR,Jennings Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+DECATUR,Jennings Township,President / Vice President,,Democratic,"Obama, Barack",26,000130
+DECATUR,Jennings Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000130
+DECATUR,Jennings Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000130
+DECATUR,Jennings Township,President / Vice President,,Republican,"Romney, Mitt",45,000130
+DECATUR,Liberty Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Barnett, Andre",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Bush, Kent W",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Christensen, Will",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Goode, Virgil",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Stein, Jill E",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+DECATUR,Liberty Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+DECATUR,Liberty Township,President / Vice President,,Democratic,"Obama, Barack",2,000140
+DECATUR,Liberty Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000140
+DECATUR,Liberty Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000140
+DECATUR,Liberty Township,President / Vice President,,Republican,"Romney, Mitt",25,000140
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Barnett, Andre",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Bush, Kent W",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Christensen, Will",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Goode, Virgil",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Stein, Jill E",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+DECATUR,Lincoln Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+DECATUR,Lincoln Township,President / Vice President,,Democratic,"Obama, Barack",13,000150
+DECATUR,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000150
+DECATUR,Lincoln Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000150
+DECATUR,Lincoln Township,President / Vice President,,Republican,"Romney, Mitt",68,000150
+DECATUR,Logan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Barnett, Andre",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Bush, Kent W",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Christensen, Will",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Goode, Virgil",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Stein, Jill E",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+DECATUR,Logan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+DECATUR,Logan Township,President / Vice President,,Democratic,"Obama, Barack",0,000160
+DECATUR,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000160
+DECATUR,Logan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000160
+DECATUR,Logan Township,President / Vice President,,Republican,"Romney, Mitt",18,000160
+DECATUR,Lyon Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Barnett, Andre",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Bush, Kent W",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Christensen, Will",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Goode, Virgil",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Stein, Jill E",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+DECATUR,Lyon Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+DECATUR,Lyon Township,President / Vice President,,Democratic,"Obama, Barack",4,000170
+DECATUR,Lyon Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000170
+DECATUR,Lyon Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000170
+DECATUR,Lyon Township,President / Vice President,,Republican,"Romney, Mitt",4,000170
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,Democratic,"Obama, Barack",81,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",17,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",2,000180
+DECATUR,Oberlin City Precinct 1,President / Vice President,,Republican,"Romney, Mitt",305,000180
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,Democratic,"Obama, Barack",86,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",17,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",2,00019A
+DECATUR,Oberlin City Precinct 2,President / Vice President,,Republican,"Romney, Mitt",384,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Ayers, Avery L",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Barnett, Andre",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Barr, Roseanne C",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Bush, Kent W",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Christensen, Will",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Duncan, Richard A",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Goode, Virgil",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Knill, Dennis J",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Reed, Jill A.",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Rogers, Rick L",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Stein, Jill E",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Thorne, Kevin M",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,write - in,"Warner, Gerald L.",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,Democratic,"Obama, Barack",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,Reform,"Baldwin, Chuck",0,00019B
+DECATUR,Oberlin City Precinct 2 Exclave,President / Vice President,,Republican,"Romney, Mitt",0,00019B
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Barnett, Andre",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Bush, Kent W",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Christensen, Will",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Goode, Virgil",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Stein, Jill E",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+DECATUR,Oberlin Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+DECATUR,Oberlin Township,President / Vice President,,Democratic,"Obama, Barack",6,000200
+DECATUR,Oberlin Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000200
+DECATUR,Oberlin Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000200
+DECATUR,Oberlin Township,President / Vice President,,Republican,"Romney, Mitt",49,000200
+DECATUR,Olive Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Ayers, Avery L",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Barnett, Andre",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Bush, Kent W",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Christensen, Will",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Duncan, Richard A",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Goode, Virgil",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Knill, Dennis J",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Reed, Jill A.",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Rogers, Rick L",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Stein, Jill E",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000210
+DECATUR,Olive Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000210
+DECATUR,Olive Township,President / Vice President,,Democratic,"Obama, Barack",2,000210
+DECATUR,Olive Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000210
+DECATUR,Olive Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000210
+DECATUR,Olive Township,President / Vice President,,Republican,"Romney, Mitt",24,000210
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Ayers, Avery L",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Barnett, Andre",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Bush, Kent W",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Christensen, Will",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Duncan, Richard A",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Goode, Virgil",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Knill, Dennis J",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Reed, Jill A.",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Rogers, Rick L",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Stein, Jill E",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,Democratic,"Obama, Barack",6,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000220
+DECATUR,Pleasant Valley Township,President / Vice President,,Republican,"Romney, Mitt",12,000220
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Ayers, Avery L",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Barnett, Andre",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Bush, Kent W",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Christensen, Will",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Duncan, Richard A",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Goode, Virgil",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Knill, Dennis J",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Reed, Jill A.",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Rogers, Rick L",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Stein, Jill E",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,Democratic,"Obama, Barack",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000230
+DECATUR,Prairie Dog Township,President / Vice President,,Republican,"Romney, Mitt",22,000230
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Ayers, Avery L",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Barnett, Andre",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Bush, Kent W",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Christensen, Will",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Duncan, Richard A",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Goode, Virgil",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Knill, Dennis J",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Reed, Jill A.",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Rogers, Rick L",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Stein, Jill E",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,Democratic,"Obama, Barack",4,000240
+DECATUR,Roosevelt Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000240
+DECATUR,Roosevelt Township,President / Vice President,,Republican,"Romney, Mitt",5,000240
+DECATUR,Sappa Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Ayers, Avery L",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Barnett, Andre",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Bush, Kent W",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Christensen, Will",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Duncan, Richard A",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Goode, Virgil",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Knill, Dennis J",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Reed, Jill A.",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Rogers, Rick L",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Stein, Jill E",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000250
+DECATUR,Sappa Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000250
+DECATUR,Sappa Township,President / Vice President,,Democratic,"Obama, Barack",0,000250
+DECATUR,Sappa Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000250
+DECATUR,Sappa Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000250
+DECATUR,Sappa Township,President / Vice President,,Republican,"Romney, Mitt",20,000250
+DECATUR,Sherman Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Ayers, Avery L",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Barnett, Andre",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Bush, Kent W",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Christensen, Will",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Duncan, Richard A",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Goode, Virgil",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Knill, Dennis J",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Reed, Jill A.",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Rogers, Rick L",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Stein, Jill E",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000260
+DECATUR,Sherman Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000260
+DECATUR,Sherman Township,President / Vice President,,Democratic,"Obama, Barack",0,000260
+DECATUR,Sherman Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000260
+DECATUR,Sherman Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000260
+DECATUR,Sherman Township,President / Vice President,,Republican,"Romney, Mitt",7,000260
+DECATUR,Summit Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Ayers, Avery L",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Barnett, Andre",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Bush, Kent W",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Christensen, Will",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Duncan, Richard A",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Goode, Virgil",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Knill, Dennis J",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Reed, Jill A.",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Rogers, Rick L",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Stein, Jill E",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000270
+DECATUR,Summit Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000270
+DECATUR,Summit Township,President / Vice President,,Democratic,"Obama, Barack",4,000270
+DECATUR,Summit Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000270
+DECATUR,Summit Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000270
+DECATUR,Summit Township,President / Vice President,,Republican,"Romney, Mitt",9,000270
+DECATUR,Allison Township,U.S. House,1,Republican,"Huelskamp, Tim",7,000010
+DECATUR,Altory Township,U.S. House,1,Republican,"Huelskamp, Tim",12,000020
+DECATUR,Bassettville Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000030
+DECATUR,Beaver Township,U.S. House,1,Republican,"Huelskamp, Tim",27,000040
+DECATUR,Center Township,U.S. House,1,Republican,"Huelskamp, Tim",27,000050
+DECATUR,Cook Township,U.S. House,1,Republican,"Huelskamp, Tim",15,000060
+DECATUR,Custer Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000070
+DECATUR,Dresden Township,U.S. House,1,Republican,"Huelskamp, Tim",49,000080
+DECATUR,Finley Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000090
+DECATUR,Garfield Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000100
+DECATUR,Grant Township,U.S. House,1,Republican,"Huelskamp, Tim",3,000110
+DECATUR,Harlan Township,U.S. House,1,Republican,"Huelskamp, Tim",15,000120
+DECATUR,Jennings Township,U.S. House,1,Republican,"Huelskamp, Tim",52,000130
+DECATUR,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",23,000140
+DECATUR,Lincoln Township,U.S. House,1,Republican,"Huelskamp, Tim",71,000150
+DECATUR,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000160
+DECATUR,Lyon Township,U.S. House,1,Republican,"Huelskamp, Tim",4,000170
+DECATUR,Oberlin City Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",335,000180
+DECATUR,Oberlin City Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",415,00019A
+DECATUR,Oberlin City Precinct 2 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00019B
+DECATUR,Oberlin Township,U.S. House,1,Republican,"Huelskamp, Tim",45,000200
+DECATUR,Olive Township,U.S. House,1,Republican,"Huelskamp, Tim",23,000210
+DECATUR,Pleasant Valley Township,U.S. House,1,Republican,"Huelskamp, Tim",14,000220
+DECATUR,Prairie Dog Township,U.S. House,1,Republican,"Huelskamp, Tim",21,000230
+DECATUR,Roosevelt Township,U.S. House,1,Republican,"Huelskamp, Tim",9,000240
+DECATUR,Sappa Township,U.S. House,1,Republican,"Huelskamp, Tim",20,000250
+DECATUR,Sherman Township,U.S. House,1,Republican,"Huelskamp, Tim",7,000260
+DECATUR,Summit Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000270

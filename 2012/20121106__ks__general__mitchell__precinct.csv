@@ -1,0 +1,793 @@
+county,precinct,office,district,party,candidate,votes,vtd
+MITCHELL,Asherville Township,State House,107,Republican,"Concannon, Susan L.",48,000010
+MITCHELL,Beloit City Ward 1,State House,107,Republican,"Concannon, Susan L.",262,000020
+MITCHELL,Beloit City Ward 2,State House,107,Republican,"Concannon, Susan L.",431,000030
+MITCHELL,Beloit City Ward 3,State House,107,Republican,"Concannon, Susan L.",451,000040
+MITCHELL,Beloit City Ward 4,State House,107,Republican,"Concannon, Susan L.",329,000050
+MITCHELL,Beloit Township,State House,107,Republican,"Concannon, Susan L.",111,00006A
+MITCHELL,Beloit Township Enclave A,State House,107,Republican,"Concannon, Susan L.",0,00006B
+MITCHELL,Beloit Township Enclave B,State House,107,Republican,"Concannon, Susan L.",0,00006C
+MITCHELL,Beloit Township Enclave C,State House,107,Republican,"Concannon, Susan L.",0,00006D
+MITCHELL,Bloomfield Township,State House,107,Republican,"Concannon, Susan L.",32,000070
+MITCHELL,Blue Hill Township,State House,107,Republican,"Concannon, Susan L.",17,000080
+MITCHELL,Carr Creek Township,State House,107,Republican,"Concannon, Susan L.",16,000090
+MITCHELL,Cawker City,State House,107,Republican,"Concannon, Susan L.",0,000100
+MITCHELL,Cawker Township,State House,107,Republican,"Concannon, Susan L.",218,000110
+MITCHELL,Center Township,State House,107,Republican,"Concannon, Susan L.",13,000120
+MITCHELL,Custer Township,State House,107,Republican,"Concannon, Susan L.",60,000130
+MITCHELL,Eureka Township,State House,107,Republican,"Concannon, Susan L.",15,000140
+MITCHELL,Glen Elder City,State House,107,Republican,"Concannon, Susan L.",0,000150
+MITCHELL,Glen Elder Township,State House,107,Republican,"Concannon, Susan L.",242,000160
+MITCHELL,Hayes Township,State House,107,Republican,"Concannon, Susan L.",17,000170
+MITCHELL,Hunter City,State House,107,Republican,"Concannon, Susan L.",0,000180
+MITCHELL,Logan Township,State House,107,Republican,"Concannon, Susan L.",41,000190
+MITCHELL,Lulu Township,State House,107,Republican,"Concannon, Susan L.",39,000200
+MITCHELL,Pittsburg Township,State House,107,Republican,"Concannon, Susan L.",162,000210
+MITCHELL,Plum Creek Township,State House,107,Republican,"Concannon, Susan L.",65,000220
+MITCHELL,Round Springs Township,State House,107,Republican,"Concannon, Susan L.",15,000230
+MITCHELL,Salt Creek Township,State House,107,Republican,"Concannon, Susan L.",10,000240
+MITCHELL,Scottsville City,State House,107,Republican,"Concannon, Susan L.",0,000250
+MITCHELL,Simpson City,State House,107,Republican,"Concannon, Susan L.",0,000260
+MITCHELL,Solomon Rapids Township,State House,107,Republican,"Concannon, Susan L.",32,000270
+MITCHELL,Tipton City,State House,107,Republican,"Concannon, Susan L.",0,000280
+MITCHELL,Turkey Creek Township,State House,107,Republican,"Concannon, Susan L.",51,000290
+MITCHELL,Walnut Creek Township,State House,107,Republican,"Concannon, Susan L.",19,000300
+MITCHELL,Asherville Township,State Senate,36,Democratic,"Clark, Marquis",11,000010
+MITCHELL,Asherville Township,State Senate,36,Republican,"Bowers, Elaine S.",41,000010
+MITCHELL,Beloit City Ward 1,State Senate,36,Democratic,"Clark, Marquis",40,000020
+MITCHELL,Beloit City Ward 1,State Senate,36,Republican,"Bowers, Elaine S.",238,000020
+MITCHELL,Beloit City Ward 2,State Senate,36,Democratic,"Clark, Marquis",100,000030
+MITCHELL,Beloit City Ward 2,State Senate,36,Republican,"Bowers, Elaine S.",368,000030
+MITCHELL,Beloit City Ward 3,State Senate,36,Democratic,"Clark, Marquis",86,000040
+MITCHELL,Beloit City Ward 3,State Senate,36,Republican,"Bowers, Elaine S.",386,000040
+MITCHELL,Beloit City Ward 4,State Senate,36,Democratic,"Clark, Marquis",64,000050
+MITCHELL,Beloit City Ward 4,State Senate,36,Republican,"Bowers, Elaine S.",297,000050
+MITCHELL,Beloit Township,State Senate,36,Democratic,"Clark, Marquis",22,00006A
+MITCHELL,Beloit Township,State Senate,36,Republican,"Bowers, Elaine S.",103,00006A
+MITCHELL,Beloit Township Enclave A,State Senate,36,Democratic,"Clark, Marquis",0,00006B
+MITCHELL,Beloit Township Enclave A,State Senate,36,Republican,"Bowers, Elaine S.",0,00006B
+MITCHELL,Beloit Township Enclave B,State Senate,36,Democratic,"Clark, Marquis",0,00006C
+MITCHELL,Beloit Township Enclave B,State Senate,36,Republican,"Bowers, Elaine S.",0,00006C
+MITCHELL,Beloit Township Enclave C,State Senate,36,Democratic,"Clark, Marquis",0,00006D
+MITCHELL,Beloit Township Enclave C,State Senate,36,Republican,"Bowers, Elaine S.",0,00006D
+MITCHELL,Bloomfield Township,State Senate,36,Democratic,"Clark, Marquis",4,000070
+MITCHELL,Bloomfield Township,State Senate,36,Republican,"Bowers, Elaine S.",35,000070
+MITCHELL,Blue Hill Township,State Senate,36,Democratic,"Clark, Marquis",1,000080
+MITCHELL,Blue Hill Township,State Senate,36,Republican,"Bowers, Elaine S.",16,000080
+MITCHELL,Carr Creek Township,State Senate,36,Democratic,"Clark, Marquis",0,000090
+MITCHELL,Carr Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",15,000090
+MITCHELL,Cawker City,State Senate,36,Democratic,"Clark, Marquis",0,000100
+MITCHELL,Cawker City,State Senate,36,Republican,"Bowers, Elaine S.",0,000100
+MITCHELL,Cawker Township,State Senate,36,Democratic,"Clark, Marquis",46,000110
+MITCHELL,Cawker Township,State Senate,36,Republican,"Bowers, Elaine S.",193,000110
+MITCHELL,Center Township,State Senate,36,Democratic,"Clark, Marquis",0,000120
+MITCHELL,Center Township,State Senate,36,Republican,"Bowers, Elaine S.",13,000120
+MITCHELL,Custer Township,State Senate,36,Democratic,"Clark, Marquis",12,000130
+MITCHELL,Custer Township,State Senate,36,Republican,"Bowers, Elaine S.",51,000130
+MITCHELL,Eureka Township,State Senate,36,Democratic,"Clark, Marquis",2,000140
+MITCHELL,Eureka Township,State Senate,36,Republican,"Bowers, Elaine S.",14,000140
+MITCHELL,Glen Elder City,State Senate,36,Democratic,"Clark, Marquis",0,000150
+MITCHELL,Glen Elder City,State Senate,36,Republican,"Bowers, Elaine S.",0,000150
+MITCHELL,Glen Elder Township,State Senate,36,Democratic,"Clark, Marquis",44,000160
+MITCHELL,Glen Elder Township,State Senate,36,Republican,"Bowers, Elaine S.",207,000160
+MITCHELL,Hayes Township,State Senate,36,Democratic,"Clark, Marquis",2,000170
+MITCHELL,Hayes Township,State Senate,36,Republican,"Bowers, Elaine S.",15,000170
+MITCHELL,Hunter City,State Senate,36,Democratic,"Clark, Marquis",0,000180
+MITCHELL,Hunter City,State Senate,36,Republican,"Bowers, Elaine S.",0,000180
+MITCHELL,Logan Township,State Senate,36,Democratic,"Clark, Marquis",7,000190
+MITCHELL,Logan Township,State Senate,36,Republican,"Bowers, Elaine S.",37,000190
+MITCHELL,Lulu Township,State Senate,36,Democratic,"Clark, Marquis",0,000200
+MITCHELL,Lulu Township,State Senate,36,Republican,"Bowers, Elaine S.",39,000200
+MITCHELL,Pittsburg Township,State Senate,36,Democratic,"Clark, Marquis",21,000210
+MITCHELL,Pittsburg Township,State Senate,36,Republican,"Bowers, Elaine S.",135,000210
+MITCHELL,Plum Creek Township,State Senate,36,Democratic,"Clark, Marquis",3,000220
+MITCHELL,Plum Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",63,000220
+MITCHELL,Round Springs Township,State Senate,36,Democratic,"Clark, Marquis",0,000230
+MITCHELL,Round Springs Township,State Senate,36,Republican,"Bowers, Elaine S.",15,000230
+MITCHELL,Salt Creek Township,State Senate,36,Democratic,"Clark, Marquis",1,000240
+MITCHELL,Salt Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",10,000240
+MITCHELL,Scottsville City,State Senate,36,Democratic,"Clark, Marquis",0,000250
+MITCHELL,Scottsville City,State Senate,36,Republican,"Bowers, Elaine S.",0,000250
+MITCHELL,Simpson City,State Senate,36,Democratic,"Clark, Marquis",0,000260
+MITCHELL,Simpson City,State Senate,36,Republican,"Bowers, Elaine S.",0,000260
+MITCHELL,Solomon Rapids Township,State Senate,36,Democratic,"Clark, Marquis",7,000270
+MITCHELL,Solomon Rapids Township,State Senate,36,Republican,"Bowers, Elaine S.",29,000270
+MITCHELL,Tipton City,State Senate,36,Democratic,"Clark, Marquis",0,000280
+MITCHELL,Tipton City,State Senate,36,Republican,"Bowers, Elaine S.",0,000280
+MITCHELL,Turkey Creek Township,State Senate,36,Democratic,"Clark, Marquis",5,000290
+MITCHELL,Turkey Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",53,000290
+MITCHELL,Walnut Creek Township,State Senate,36,Democratic,"Clark, Marquis",4,000300
+MITCHELL,Walnut Creek Township,State Senate,36,Republican,"Bowers, Elaine S.",18,000300
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Barnett, Andre",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Bush, Kent W",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Christensen, Will",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Goode, Virgil",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Stein, Jill E",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+MITCHELL,Asherville Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+MITCHELL,Asherville Township,President / Vice President,,Democratic,"Obama, Barack",10,000010
+MITCHELL,Asherville Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000010
+MITCHELL,Asherville Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000010
+MITCHELL,Asherville Township,President / Vice President,,Republican,"Romney, Mitt",41,000010
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,Democratic,"Obama, Barack",68,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",2,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",9,000020
+MITCHELL,Beloit City Ward 1,President / Vice President,,Republican,"Romney, Mitt",214,000020
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,Democratic,"Obama, Barack",111,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",3,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",6,000030
+MITCHELL,Beloit City Ward 2,President / Vice President,,Republican,"Romney, Mitt",359,000030
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,Democratic,"Obama, Barack",110,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",3,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",4,000040
+MITCHELL,Beloit City Ward 3,President / Vice President,,Republican,"Romney, Mitt",368,000040
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Barnett, Andre",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Bush, Kent W",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Christensen, Will",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Goode, Virgil",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Stein, Jill E",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,Democratic,"Obama, Barack",86,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",2,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,Reform,"Baldwin, Chuck",5,000050
+MITCHELL,Beloit City Ward 4,President / Vice President,,Republican,"Romney, Mitt",276,000050
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Ayers, Avery L",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Barnett, Andre",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Barr, Roseanne C",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Bush, Kent W",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Christensen, Will",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Duncan, Richard A",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Goode, Virgil",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Hoefling, Tom",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Knill, Dennis J",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Reed, Jill A.",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Rogers, Rick L",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Stein, Jill E",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Thorne, Kevin M",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,write - in,"Warner, Gerald L.",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,Democratic,"Obama, Barack",24,00006A
+MITCHELL,Beloit Township,President / Vice President,,Libertarian,"Johnson, Gary",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,Reform,"Baldwin, Chuck",0,00006A
+MITCHELL,Beloit Township,President / Vice President,,Republican,"Romney, Mitt",108,00006A
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Ayers, Avery L",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Barnett, Andre",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Bush, Kent W",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Christensen, Will",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Duncan, Richard A",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Goode, Virgil",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Knill, Dennis J",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Reed, Jill A.",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Rogers, Rick L",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Stein, Jill E",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,Democratic,"Obama, Barack",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,00006B
+MITCHELL,Beloit Township Enclave A,President / Vice President,,Republican,"Romney, Mitt",0,00006B
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Ayers, Avery L",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Barnett, Andre",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Barr, Roseanne C",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Bush, Kent W",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Christensen, Will",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Duncan, Richard A",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Goode, Virgil",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Hoefling, Tom",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Knill, Dennis J",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Reed, Jill A.",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Rogers, Rick L",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Stein, Jill E",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Thorne, Kevin M",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,write - in,"Warner, Gerald L.",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,Democratic,"Obama, Barack",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,Reform,"Baldwin, Chuck",0,00006C
+MITCHELL,Beloit Township Enclave B,President / Vice President,,Republican,"Romney, Mitt",0,00006C
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Ayers, Avery L",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Barnett, Andre",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Barr, Roseanne C",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Bush, Kent W",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Christensen, Will",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Duncan, Richard A",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Goode, Virgil",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Hoefling, Tom",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Knill, Dennis J",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Reed, Jill A.",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Rogers, Rick L",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Stein, Jill E",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Thorne, Kevin M",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,write - in,"Warner, Gerald L.",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,Democratic,"Obama, Barack",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,Libertarian,"Johnson, Gary",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,Reform,"Baldwin, Chuck",0,00006D
+MITCHELL,Beloit Township Enclave C,President / Vice President,,Republican,"Romney, Mitt",0,00006D
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Barnett, Andre",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Bush, Kent W",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Christensen, Will",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Goode, Virgil",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Stein, Jill E",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,Democratic,"Obama, Barack",3,000070
+MITCHELL,Bloomfield Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
+MITCHELL,Bloomfield Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000070
+MITCHELL,Bloomfield Township,President / Vice President,,Republican,"Romney, Mitt",35,000070
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Ayers, Avery L",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Barnett, Andre",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Bush, Kent W",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Christensen, Will",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Duncan, Richard A",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Goode, Virgil",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Knill, Dennis J",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Reed, Jill A.",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Rogers, Rick L",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Stein, Jill E",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,Democratic,"Obama, Barack",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000080
+MITCHELL,Blue Hill Township,President / Vice President,,Republican,"Romney, Mitt",17,000080
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Bush, Kent W",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Christensen, Will",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Goode, Virgil",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Stein, Jill E",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,Democratic,"Obama, Barack",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+MITCHELL,Carr Creek Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000090
+MITCHELL,Carr Creek Township,President / Vice President,,Republican,"Romney, Mitt",15,000090
+MITCHELL,Cawker City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Barnett, Andre",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Bush, Kent W",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Christensen, Will",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Goode, Virgil",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Stein, Jill E",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+MITCHELL,Cawker City,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+MITCHELL,Cawker City,President / Vice President,,Democratic,"Obama, Barack",0,000100
+MITCHELL,Cawker City,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+MITCHELL,Cawker City,President / Vice President,,Reform,"Baldwin, Chuck",0,000100
+MITCHELL,Cawker City,President / Vice President,,Republican,"Romney, Mitt",0,000100
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Barnett, Andre",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Bush, Kent W",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Christensen, Will",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Goode, Virgil",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Stein, Jill E",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+MITCHELL,Cawker Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+MITCHELL,Cawker Township,President / Vice President,,Democratic,"Obama, Barack",50,000110
+MITCHELL,Cawker Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000110
+MITCHELL,Cawker Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000110
+MITCHELL,Cawker Township,President / Vice President,,Republican,"Romney, Mitt",195,000110
+MITCHELL,Center Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Barnett, Andre",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Bush, Kent W",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Christensen, Will",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Goode, Virgil",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Stein, Jill E",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+MITCHELL,Center Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+MITCHELL,Center Township,President / Vice President,,Democratic,"Obama, Barack",1,000120
+MITCHELL,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+MITCHELL,Center Township,President / Vice President,,Reform,"Baldwin, Chuck",2,000120
+MITCHELL,Center Township,President / Vice President,,Republican,"Romney, Mitt",12,000120
+MITCHELL,Custer Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Barnett, Andre",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Bush, Kent W",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Christensen, Will",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Goode, Virgil",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Stein, Jill E",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+MITCHELL,Custer Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+MITCHELL,Custer Township,President / Vice President,,Democratic,"Obama, Barack",9,000130
+MITCHELL,Custer Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000130
+MITCHELL,Custer Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000130
+MITCHELL,Custer Township,President / Vice President,,Republican,"Romney, Mitt",51,000130
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Barnett, Andre",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Bush, Kent W",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Christensen, Will",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Goode, Virgil",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Stein, Jill E",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+MITCHELL,Eureka Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+MITCHELL,Eureka Township,President / Vice President,,Democratic,"Obama, Barack",4,000140
+MITCHELL,Eureka Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000140
+MITCHELL,Eureka Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000140
+MITCHELL,Eureka Township,President / Vice President,,Republican,"Romney, Mitt",12,000140
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Barnett, Andre",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Bush, Kent W",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Christensen, Will",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Goode, Virgil",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Stein, Jill E",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,Democratic,"Obama, Barack",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,Libertarian,"Johnson, Gary",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,Reform,"Baldwin, Chuck",0,000150
+MITCHELL,Glen Elder City,President / Vice President,,Republican,"Romney, Mitt",0,000150
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Barnett, Andre",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Bush, Kent W",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Christensen, Will",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Goode, Virgil",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Stein, Jill E",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+MITCHELL,Glen Elder Township,President / Vice President,,Democratic,"Obama, Barack",44,000160
+MITCHELL,Glen Elder Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000160
+MITCHELL,Glen Elder Township,President / Vice President,,Reform,"Baldwin, Chuck",5,000160
+MITCHELL,Glen Elder Township,President / Vice President,,Republican,"Romney, Mitt",209,000160
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Barnett, Andre",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Bush, Kent W",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Christensen, Will",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Goode, Virgil",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Stein, Jill E",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+MITCHELL,Hayes Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+MITCHELL,Hayes Township,President / Vice President,,Democratic,"Obama, Barack",0,000170
+MITCHELL,Hayes Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000170
+MITCHELL,Hayes Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000170
+MITCHELL,Hayes Township,President / Vice President,,Republican,"Romney, Mitt",16,000170
+MITCHELL,Hunter City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Ayers, Avery L",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Barnett, Andre",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Barr, Roseanne C",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Bush, Kent W",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Christensen, Will",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Duncan, Richard A",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Goode, Virgil",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Knill, Dennis J",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Reed, Jill A.",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Rogers, Rick L",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Stein, Jill E",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Thorne, Kevin M",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000180
+MITCHELL,Hunter City,President / Vice President,,write - in,"Warner, Gerald L.",0,000180
+MITCHELL,Hunter City,President / Vice President,,Democratic,"Obama, Barack",0,000180
+MITCHELL,Hunter City,President / Vice President,,Libertarian,"Johnson, Gary",0,000180
+MITCHELL,Hunter City,President / Vice President,,Reform,"Baldwin, Chuck",0,000180
+MITCHELL,Hunter City,President / Vice President,,Republican,"Romney, Mitt",0,000180
+MITCHELL,Logan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Barnett, Andre",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Bush, Kent W",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Christensen, Will",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Goode, Virgil",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Stein, Jill E",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000190
+MITCHELL,Logan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000190
+MITCHELL,Logan Township,President / Vice President,,Democratic,"Obama, Barack",12,000190
+MITCHELL,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000190
+MITCHELL,Logan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000190
+MITCHELL,Logan Township,President / Vice President,,Republican,"Romney, Mitt",35,000190
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Barnett, Andre",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Bush, Kent W",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Christensen, Will",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Goode, Virgil",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Stein, Jill E",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+MITCHELL,Lulu Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+MITCHELL,Lulu Township,President / Vice President,,Democratic,"Obama, Barack",2,000200
+MITCHELL,Lulu Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000200
+MITCHELL,Lulu Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000200
+MITCHELL,Lulu Township,President / Vice President,,Republican,"Romney, Mitt",37,000200
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Ayers, Avery L",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Barnett, Andre",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Bush, Kent W",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Christensen, Will",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Duncan, Richard A",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Goode, Virgil",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Knill, Dennis J",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Reed, Jill A.",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Rogers, Rick L",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Stein, Jill E",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,Democratic,"Obama, Barack",23,000210
+MITCHELL,Pittsburg Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000210
+MITCHELL,Pittsburg Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000210
+MITCHELL,Pittsburg Township,President / Vice President,,Republican,"Romney, Mitt",145,000210
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Bush, Kent W",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Christensen, Will",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Duncan, Richard A",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Goode, Virgil",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Knill, Dennis J",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Reed, Jill A.",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Rogers, Rick L",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Stein, Jill E",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,Democratic,"Obama, Barack",2,000220
+MITCHELL,Plum Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000220
+MITCHELL,Plum Creek Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000220
+MITCHELL,Plum Creek Township,President / Vice President,,Republican,"Romney, Mitt",65,000220
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Ayers, Avery L",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Barnett, Andre",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Bush, Kent W",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Christensen, Will",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Duncan, Richard A",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Goode, Virgil",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Knill, Dennis J",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Reed, Jill A.",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Rogers, Rick L",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Stein, Jill E",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,Democratic,"Obama, Barack",2,000230
+MITCHELL,Round Springs Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000230
+MITCHELL,Round Springs Township,President / Vice President,,Republican,"Romney, Mitt",14,000230
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Bush, Kent W",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Christensen, Will",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Duncan, Richard A",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Goode, Virgil",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Knill, Dennis J",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Reed, Jill A.",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Rogers, Rick L",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Stein, Jill E",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,Democratic,"Obama, Barack",2,000240
+MITCHELL,Salt Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000240
+MITCHELL,Salt Creek Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000240
+MITCHELL,Salt Creek Township,President / Vice President,,Republican,"Romney, Mitt",6,000240
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Ayers, Avery L",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Barnett, Andre",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Barr, Roseanne C",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Bush, Kent W",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Christensen, Will",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Duncan, Richard A",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Goode, Virgil",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Knill, Dennis J",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Reed, Jill A.",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Rogers, Rick L",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Stein, Jill E",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Thorne, Kevin M",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000250
+MITCHELL,Scottsville City,President / Vice President,,write - in,"Warner, Gerald L.",0,000250
+MITCHELL,Scottsville City,President / Vice President,,Democratic,"Obama, Barack",0,000250
+MITCHELL,Scottsville City,President / Vice President,,Libertarian,"Johnson, Gary",0,000250
+MITCHELL,Scottsville City,President / Vice President,,Reform,"Baldwin, Chuck",0,000250
+MITCHELL,Scottsville City,President / Vice President,,Republican,"Romney, Mitt",0,000250
+MITCHELL,Simpson City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Ayers, Avery L",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Barnett, Andre",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Barr, Roseanne C",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Bush, Kent W",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Christensen, Will",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Duncan, Richard A",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Goode, Virgil",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Knill, Dennis J",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Reed, Jill A.",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Rogers, Rick L",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Stein, Jill E",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Thorne, Kevin M",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000260
+MITCHELL,Simpson City,President / Vice President,,write - in,"Warner, Gerald L.",0,000260
+MITCHELL,Simpson City,President / Vice President,,Democratic,"Obama, Barack",0,000260
+MITCHELL,Simpson City,President / Vice President,,Libertarian,"Johnson, Gary",0,000260
+MITCHELL,Simpson City,President / Vice President,,Reform,"Baldwin, Chuck",0,000260
+MITCHELL,Simpson City,President / Vice President,,Republican,"Romney, Mitt",0,000260
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Ayers, Avery L",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Barnett, Andre",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Bush, Kent W",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Christensen, Will",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Duncan, Richard A",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Goode, Virgil",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Knill, Dennis J",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Reed, Jill A.",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Rogers, Rick L",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Stein, Jill E",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,Democratic,"Obama, Barack",9,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000270
+MITCHELL,Solomon Rapids Township,President / Vice President,,Republican,"Romney, Mitt",29,000270
+MITCHELL,Tipton City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Ayers, Avery L",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Barnett, Andre",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Barr, Roseanne C",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Bush, Kent W",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Christensen, Will",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Duncan, Richard A",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Goode, Virgil",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Knill, Dennis J",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Reed, Jill A.",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Rogers, Rick L",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Stein, Jill E",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Thorne, Kevin M",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000280
+MITCHELL,Tipton City,President / Vice President,,write - in,"Warner, Gerald L.",0,000280
+MITCHELL,Tipton City,President / Vice President,,Democratic,"Obama, Barack",0,000280
+MITCHELL,Tipton City,President / Vice President,,Libertarian,"Johnson, Gary",0,000280
+MITCHELL,Tipton City,President / Vice President,,Reform,"Baldwin, Chuck",0,000280
+MITCHELL,Tipton City,President / Vice President,,Republican,"Romney, Mitt",0,000280
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Bush, Kent W",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Christensen, Will",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Duncan, Richard A",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Goode, Virgil",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Knill, Dennis J",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Reed, Jill A.",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Rogers, Rick L",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Stein, Jill E",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,Democratic,"Obama, Barack",10,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000290
+MITCHELL,Turkey Creek Township,President / Vice President,,Republican,"Romney, Mitt",48,000290
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Ayers, Avery L",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Barnett, Andre",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Bush, Kent W",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Christensen, Will",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Duncan, Richard A",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Goode, Virgil",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Knill, Dennis J",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Reed, Jill A.",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Rogers, Rick L",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Stein, Jill E",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,Democratic,"Obama, Barack",2,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000300
+MITCHELL,Walnut Creek Township,President / Vice President,,Republican,"Romney, Mitt",20,000300
+MITCHELL,Asherville Township,U.S. House,1,Republican,"Huelskamp, Tim",46,000010
+MITCHELL,Beloit City Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",243,000020
+MITCHELL,Beloit City Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",409,000030
+MITCHELL,Beloit City Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",423,000040
+MITCHELL,Beloit City Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",304,000050
+MITCHELL,Beloit Township,U.S. House,1,Republican,"Huelskamp, Tim",110,00006A
+MITCHELL,Beloit Township Enclave A,U.S. House,1,Republican,"Huelskamp, Tim",0,00006B
+MITCHELL,Beloit Township Enclave B,U.S. House,1,Republican,"Huelskamp, Tim",0,00006C
+MITCHELL,Beloit Township Enclave C,U.S. House,1,Republican,"Huelskamp, Tim",0,00006D
+MITCHELL,Bloomfield Township,U.S. House,1,Republican,"Huelskamp, Tim",33,000070
+MITCHELL,Blue Hill Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000080
+MITCHELL,Carr Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",16,000090
+MITCHELL,Cawker City,U.S. House,1,Republican,"Huelskamp, Tim",0,000100
+MITCHELL,Cawker Township,U.S. House,1,Republican,"Huelskamp, Tim",207,000110
+MITCHELL,Center Township,U.S. House,1,Republican,"Huelskamp, Tim",11,000120
+MITCHELL,Custer Township,U.S. House,1,Republican,"Huelskamp, Tim",59,000130
+MITCHELL,Eureka Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000140
+MITCHELL,Glen Elder City,U.S. House,1,Republican,"Huelskamp, Tim",0,000150
+MITCHELL,Glen Elder Township,U.S. House,1,Republican,"Huelskamp, Tim",234,000160
+MITCHELL,Hayes Township,U.S. House,1,Republican,"Huelskamp, Tim",17,000170
+MITCHELL,Hunter City,U.S. House,1,Republican,"Huelskamp, Tim",0,000180
+MITCHELL,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",40,000190
+MITCHELL,Lulu Township,U.S. House,1,Republican,"Huelskamp, Tim",34,000200
+MITCHELL,Pittsburg Township,U.S. House,1,Republican,"Huelskamp, Tim",158,000210
+MITCHELL,Plum Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",62,000220
+MITCHELL,Round Springs Township,U.S. House,1,Republican,"Huelskamp, Tim",13,000230
+MITCHELL,Salt Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",10,000240
+MITCHELL,Scottsville City,U.S. House,1,Republican,"Huelskamp, Tim",0,000250
+MITCHELL,Simpson City,U.S. House,1,Republican,"Huelskamp, Tim",0,000260
+MITCHELL,Solomon Rapids Township,U.S. House,1,Republican,"Huelskamp, Tim",29,000270
+MITCHELL,Tipton City,U.S. House,1,Republican,"Huelskamp, Tim",0,000280
+MITCHELL,Turkey Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",55,000290
+MITCHELL,Walnut Creek Township,U.S. House,1,Republican,"Huelskamp, Tim",22,000300

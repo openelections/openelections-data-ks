@@ -1,0 +1,466 @@
+county,precinct,office,district,party,candidate,votes,vtd
+ATCHISON,Atchison Precinct 1,Governor,,Democratic,"Davis, Paul",78,000010
+ATCHISON,Atchison Precinct 1,Governor,,Libertarian,"Umbehr, Keen A.",8,000010
+ATCHISON,Atchison Precinct 1,Governor,,Republican,"Brownback, Sam",90,000010
+ATCHISON,Atchison Precinct 2 East,Governor,,Democratic,"Davis, Paul",88,000020
+ATCHISON,Atchison Precinct 2 East,Governor,,Libertarian,"Umbehr, Keen A.",10,000020
+ATCHISON,Atchison Precinct 2 East,Governor,,Republican,"Brownback, Sam",120,000020
+ATCHISON,Atchison Precinct 2 West,Governor,,Democratic,"Davis, Paul",91,000030
+ATCHISON,Atchison Precinct 2 West,Governor,,Libertarian,"Umbehr, Keen A.",9,000030
+ATCHISON,Atchison Precinct 2 West,Governor,,Republican,"Brownback, Sam",101,000030
+ATCHISON,Atchison Precinct 3 East,Governor,,Democratic,"Davis, Paul",184,000040
+ATCHISON,Atchison Precinct 3 East,Governor,,Libertarian,"Umbehr, Keen A.",7,000040
+ATCHISON,Atchison Precinct 3 East,Governor,,Republican,"Brownback, Sam",197,000040
+ATCHISON,Atchison Precinct 3 West,Governor,,Democratic,"Davis, Paul",262,00005A
+ATCHISON,Atchison Precinct 3 West,Governor,,Libertarian,"Umbehr, Keen A.",7,00005A
+ATCHISON,Atchison Precinct 3 West,Governor,,Republican,"Brownback, Sam",242,00005A
+ATCHISON,Atchison Precinct 4,Governor,,Democratic,"Davis, Paul",205,00006A
+ATCHISON,Atchison Precinct 4,Governor,,Libertarian,"Umbehr, Keen A.",10,00006A
+ATCHISON,Atchison Precinct 4,Governor,,Republican,"Brownback, Sam",125,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,Governor,,Democratic,"Davis, Paul",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,Governor,,Libertarian,"Umbehr, Keen A.",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,Governor,,Republican,"Brownback, Sam",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,Governor,,Democratic,"Davis, Paul",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,Governor,,Libertarian,"Umbehr, Keen A.",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,Governor,,Republican,"Brownback, Sam",0,00006C
+ATCHISON,Atchison Precinct 5 North,Governor,,Democratic,"Davis, Paul",191,00007A
+ATCHISON,Atchison Precinct 5 North,Governor,,Libertarian,"Umbehr, Keen A.",17,00007A
+ATCHISON,Atchison Precinct 5 North,Governor,,Republican,"Brownback, Sam",202,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,Governor,,Democratic,"Davis, Paul",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,Governor,,Libertarian,"Umbehr, Keen A.",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,Governor,,Republican,"Brownback, Sam",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,Governor,,Democratic,"Davis, Paul",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,Governor,,Libertarian,"Umbehr, Keen A.",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,Governor,,Republican,"Brownback, Sam",0,00007C
+ATCHISON,Atchison Precinct 5 South,Governor,,Democratic,"Davis, Paul",104,00008A
+ATCHISON,Atchison Precinct 5 South,Governor,,Libertarian,"Umbehr, Keen A.",8,00008A
+ATCHISON,Atchison Precinct 5 South,Governor,,Republican,"Brownback, Sam",109,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,Governor,,Democratic,"Davis, Paul",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,Governor,,Libertarian,"Umbehr, Keen A.",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,Governor,,Republican,"Brownback, Sam",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,Governor,,Democratic,"Davis, Paul",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,Governor,,Libertarian,"Umbehr, Keen A.",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,Governor,,Republican,"Brownback, Sam",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,Governor,,Democratic,"Davis, Paul",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,Governor,,Libertarian,"Umbehr, Keen A.",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,Governor,,Republican,"Brownback, Sam",0,00008D
+ATCHISON,Center Township,Governor,,Democratic,"Davis, Paul",89,000100
+ATCHISON,Center Township,Governor,,Libertarian,"Umbehr, Keen A.",7,000100
+ATCHISON,Center Township,Governor,,Republican,"Brownback, Sam",171,000100
+ATCHISON,Grasshopper Township,Governor,,Democratic,"Davis, Paul",76,000110
+ATCHISON,Grasshopper Township,Governor,,Libertarian,"Umbehr, Keen A.",6,000110
+ATCHISON,Grasshopper Township,Governor,,Republican,"Brownback, Sam",172,000110
+ATCHISON,Huron Township,Governor,,Democratic,"Davis, Paul",25,000120
+ATCHISON,Huron Township,Governor,,Libertarian,"Umbehr, Keen A.",6,000120
+ATCHISON,Huron Township,Governor,,Republican,"Brownback, Sam",43,000120
+ATCHISON,Kapioma Township,Governor,,Democratic,"Davis, Paul",43,000130
+ATCHISON,Kapioma Township,Governor,,Libertarian,"Umbehr, Keen A.",10,000130
+ATCHISON,Kapioma Township,Governor,,Republican,"Brownback, Sam",70,000130
+ATCHISON,Lancaster Township,Governor,,Democratic,"Davis, Paul",98,000140
+ATCHISON,Lancaster Township,Governor,,Libertarian,"Umbehr, Keen A.",16,000140
+ATCHISON,Lancaster Township,Governor,,Republican,"Brownback, Sam",106,000140
+ATCHISON,Shannon Township,Governor,,Democratic,"Davis, Paul",192,00016A
+ATCHISON,Shannon Township,Governor,,Libertarian,"Umbehr, Keen A.",14,00016A
+ATCHISON,Shannon Township,Governor,,Republican,"Brownback, Sam",248,00016A
+ATCHISON,Walnut Township,Governor,,Democratic,"Davis, Paul",79,00017A
+ATCHISON,Walnut Township,Governor,,Libertarian,"Umbehr, Keen A.",9,00017A
+ATCHISON,Walnut Township,Governor,,Republican,"Brownback, Sam",91,00017A
+ATCHISON,Walnut Township Enclave,Governor,,Democratic,"Davis, Paul",0,00017B
+ATCHISON,Walnut Township Enclave,Governor,,Libertarian,"Umbehr, Keen A.",0,00017B
+ATCHISON,Walnut Township Enclave,Governor,,Republican,"Brownback, Sam",0,00017B
+ATCHISON,Mount Pleasant Township,Governor,,Democratic,"Davis, Paul",138,100050
+ATCHISON,Mount Pleasant Township,Governor,,Libertarian,"Umbehr, Keen A.",14,100050
+ATCHISON,Mount Pleasant Township,Governor,,Republican,"Brownback, Sam",202,100050
+ATCHISON,Benton Township H62,Governor,,Democratic,"Davis, Paul",148,120020
+ATCHISON,Benton Township H62,Governor,,Libertarian,"Umbehr, Keen A.",15,120020
+ATCHISON,Benton Township H62,Governor,,Republican,"Brownback, Sam",131,120020
+ATCHISON,Benton Township H63,Governor,,Democratic,"Davis, Paul",38,120030
+ATCHISON,Benton Township H63,Governor,,Libertarian,"Umbehr, Keen A.",5,120030
+ATCHISON,Benton Township H63,Governor,,Republican,"Brownback, Sam",41,120030
+ATCHISON,Atchison Precinct 1,State House,63,Democratic,"Henry, Jerry",153,000010
+ATCHISON,Atchison Precinct 2 East,State House,63,Democratic,"Henry, Jerry",166,000020
+ATCHISON,Atchison Precinct 2 West,State House,63,Democratic,"Henry, Jerry",161,000030
+ATCHISON,Atchison Precinct 3 East,State House,63,Democratic,"Henry, Jerry",322,000040
+ATCHISON,Atchison Precinct 3 West,State House,63,Democratic,"Henry, Jerry",430,00005A
+ATCHISON,Atchison Precinct 4,State House,63,Democratic,"Henry, Jerry",302,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,State House,63,Democratic,"Henry, Jerry",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,State House,63,Democratic,"Henry, Jerry",0,00006C
+ATCHISON,Atchison Precinct 5 North,State House,63,Democratic,"Henry, Jerry",344,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,State House,63,Democratic,"Henry, Jerry",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,State House,63,Democratic,"Henry, Jerry",0,00007C
+ATCHISON,Atchison Precinct 5 South,State House,63,Democratic,"Henry, Jerry",188,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,State House,63,Democratic,"Henry, Jerry",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,State House,63,Democratic,"Henry, Jerry",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,State House,63,Democratic,"Henry, Jerry",0,00008D
+ATCHISON,Center Township,State House,63,Democratic,"Henry, Jerry",214,000100
+ATCHISON,Grasshopper Township,State House,62,Democratic,"Lukert, Steve",71,000110
+ATCHISON,Grasshopper Township,State House,62,Republican,"Garber, Randy",184,000110
+ATCHISON,Huron Township,State House,63,Democratic,"Henry, Jerry",60,000120
+ATCHISON,Kapioma Township,State House,62,Democratic,"Lukert, Steve",48,000130
+ATCHISON,Kapioma Township,State House,62,Republican,"Garber, Randy",77,000130
+ATCHISON,Lancaster Township,State House,63,Democratic,"Henry, Jerry",206,000140
+ATCHISON,Shannon Township,State House,63,Democratic,"Henry, Jerry",393,00016A
+ATCHISON,Walnut Township,State House,63,Democratic,"Henry, Jerry",147,00017A
+ATCHISON,Walnut Township Enclave,State House,63,Democratic,"Henry, Jerry",0,00017B
+ATCHISON,Mount Pleasant Township,State House,63,Democratic,"Henry, Jerry",283,100050
+ATCHISON,Benton Township H62,State House,62,Democratic,"Lukert, Steve",130,120020
+ATCHISON,Benton Township H62,State House,62,Republican,"Garber, Randy",148,120020
+ATCHISON,Benton Township H63,State House,63,Democratic,"Henry, Jerry",78,120030
+ATCHISON,Atchison Precinct 1,U.S. House,2,Democratic,"Wakefield, Margie",51,000010
+ATCHISON,Atchison Precinct 1,U.S. House,2,Libertarian,"Clemmons, Christopher",4,000010
+ATCHISON,Atchison Precinct 1,U.S. House,2,Republican,"Jenkins, Lynn",121,000010
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Democratic,"Wakefield, Margie",70,000020
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Libertarian,"Clemmons, Christopher",6,000020
+ATCHISON,Atchison Precinct 2 East,U.S. House,2,Republican,"Jenkins, Lynn",140,000020
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Democratic,"Wakefield, Margie",65,000030
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Libertarian,"Clemmons, Christopher",7,000030
+ATCHISON,Atchison Precinct 2 West,U.S. House,2,Republican,"Jenkins, Lynn",127,000030
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Democratic,"Wakefield, Margie",146,000040
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Libertarian,"Clemmons, Christopher",9,000040
+ATCHISON,Atchison Precinct 3 East,U.S. House,2,Republican,"Jenkins, Lynn",227,000040
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Democratic,"Wakefield, Margie",172,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Libertarian,"Clemmons, Christopher",16,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. House,2,Republican,"Jenkins, Lynn",327,00005A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Democratic,"Wakefield, Margie",146,00006A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Libertarian,"Clemmons, Christopher",14,00006A
+ATCHISON,Atchison Precinct 4,U.S. House,2,Republican,"Jenkins, Lynn",182,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Democratic,"Wakefield, Margie",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Democratic,"Wakefield, Margie",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00006C
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Democratic,"Wakefield, Margie",147,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Libertarian,"Clemmons, Christopher",9,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. House,2,Republican,"Jenkins, Lynn",255,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Democratic,"Wakefield, Margie",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Democratic,"Wakefield, Margie",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00007C
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Democratic,"Wakefield, Margie",83,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Libertarian,"Clemmons, Christopher",9,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. House,2,Republican,"Jenkins, Lynn",130,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Democratic,"Wakefield, Margie",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. House,2,Republican,"Jenkins, Lynn",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Democratic,"Wakefield, Margie",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. House,2,Republican,"Jenkins, Lynn",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Democratic,"Wakefield, Margie",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. House,2,Republican,"Jenkins, Lynn",0,00008D
+ATCHISON,Center Township,U.S. House,2,Democratic,"Wakefield, Margie",53,000100
+ATCHISON,Center Township,U.S. House,2,Libertarian,"Clemmons, Christopher",7,000100
+ATCHISON,Center Township,U.S. House,2,Republican,"Jenkins, Lynn",211,000100
+ATCHISON,Grasshopper Township,U.S. House,2,Democratic,"Wakefield, Margie",45,000110
+ATCHISON,Grasshopper Township,U.S. House,2,Libertarian,"Clemmons, Christopher",6,000110
+ATCHISON,Grasshopper Township,U.S. House,2,Republican,"Jenkins, Lynn",204,000110
+ATCHISON,Huron Township,U.S. House,2,Democratic,"Wakefield, Margie",13,000120
+ATCHISON,Huron Township,U.S. House,2,Libertarian,"Clemmons, Christopher",2,000120
+ATCHISON,Huron Township,U.S. House,2,Republican,"Jenkins, Lynn",57,000120
+ATCHISON,Kapioma Township,U.S. House,2,Democratic,"Wakefield, Margie",25,000130
+ATCHISON,Kapioma Township,U.S. House,2,Libertarian,"Clemmons, Christopher",9,000130
+ATCHISON,Kapioma Township,U.S. House,2,Republican,"Jenkins, Lynn",88,000130
+ATCHISON,Lancaster Township,U.S. House,2,Democratic,"Wakefield, Margie",52,000140
+ATCHISON,Lancaster Township,U.S. House,2,Libertarian,"Clemmons, Christopher",17,000140
+ATCHISON,Lancaster Township,U.S. House,2,Republican,"Jenkins, Lynn",156,000140
+ATCHISON,Shannon Township,U.S. House,2,Democratic,"Wakefield, Margie",124,00016A
+ATCHISON,Shannon Township,U.S. House,2,Libertarian,"Clemmons, Christopher",16,00016A
+ATCHISON,Shannon Township,U.S. House,2,Republican,"Jenkins, Lynn",312,00016A
+ATCHISON,Walnut Township,U.S. House,2,Democratic,"Wakefield, Margie",65,00017A
+ATCHISON,Walnut Township,U.S. House,2,Libertarian,"Clemmons, Christopher",14,00017A
+ATCHISON,Walnut Township,U.S. House,2,Republican,"Jenkins, Lynn",99,00017A
+ATCHISON,Walnut Township Enclave,U.S. House,2,Democratic,"Wakefield, Margie",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. House,2,Libertarian,"Clemmons, Christopher",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. House,2,Republican,"Jenkins, Lynn",0,00017B
+ATCHISON,Mount Pleasant Township,U.S. House,2,Democratic,"Wakefield, Margie",74,100050
+ATCHISON,Mount Pleasant Township,U.S. House,2,Libertarian,"Clemmons, Christopher",15,100050
+ATCHISON,Mount Pleasant Township,U.S. House,2,Republican,"Jenkins, Lynn",263,100050
+ATCHISON,Benton Township H62,U.S. House,2,Democratic,"Wakefield, Margie",70,120020
+ATCHISON,Benton Township H62,U.S. House,2,Libertarian,"Clemmons, Christopher",12,120020
+ATCHISON,Benton Township H62,U.S. House,2,Republican,"Jenkins, Lynn",212,120020
+ATCHISON,Benton Township H63,U.S. House,2,Democratic,"Wakefield, Margie",21,120030
+ATCHISON,Benton Township H63,U.S. House,2,Libertarian,"Clemmons, Christopher",3,120030
+ATCHISON,Benton Township H63,U.S. House,2,Republican,"Jenkins, Lynn",59,120030
+ATCHISON,Atchison Precinct 1,Attorney General,,Democratic,"Kotich, A.J.",69,000010
+ATCHISON,Atchison Precinct 1,Attorney General,,Republican,"Schmidt, Derek",104,000010
+ATCHISON,Atchison Precinct 2 East,Attorney General,,Democratic,"Kotich, A.J.",77,000020
+ATCHISON,Atchison Precinct 2 East,Attorney General,,Republican,"Schmidt, Derek",133,000020
+ATCHISON,Atchison Precinct 2 West,Attorney General,,Democratic,"Kotich, A.J.",88,000030
+ATCHISON,Atchison Precinct 2 West,Attorney General,,Republican,"Schmidt, Derek",108,000030
+ATCHISON,Atchison Precinct 3 East,Attorney General,,Democratic,"Kotich, A.J.",165,000040
+ATCHISON,Atchison Precinct 3 East,Attorney General,,Republican,"Schmidt, Derek",209,000040
+ATCHISON,Atchison Precinct 3 West,Attorney General,,Democratic,"Kotich, A.J.",205,00005A
+ATCHISON,Atchison Precinct 3 West,Attorney General,,Republican,"Schmidt, Derek",294,00005A
+ATCHISON,Atchison Precinct 4,Attorney General,,Democratic,"Kotich, A.J.",175,00006A
+ATCHISON,Atchison Precinct 4,Attorney General,,Republican,"Schmidt, Derek",160,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00006C
+ATCHISON,Atchison Precinct 5 North,Attorney General,,Democratic,"Kotich, A.J.",173,00007A
+ATCHISON,Atchison Precinct 5 North,Attorney General,,Republican,"Schmidt, Derek",226,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00007C
+ATCHISON,Atchison Precinct 5 South,Attorney General,,Democratic,"Kotich, A.J.",98,00008A
+ATCHISON,Atchison Precinct 5 South,Attorney General,,Republican,"Schmidt, Derek",122,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,Attorney General,,Democratic,"Kotich, A.J.",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,Attorney General,,Democratic,"Kotich, A.J.",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,Attorney General,,Democratic,"Kotich, A.J.",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,Attorney General,,Republican,"Schmidt, Derek",0,00008D
+ATCHISON,Center Township,Attorney General,,Democratic,"Kotich, A.J.",62,000100
+ATCHISON,Center Township,Attorney General,,Republican,"Schmidt, Derek",196,000100
+ATCHISON,Grasshopper Township,Attorney General,,Democratic,"Kotich, A.J.",58,000110
+ATCHISON,Grasshopper Township,Attorney General,,Republican,"Schmidt, Derek",193,000110
+ATCHISON,Huron Township,Attorney General,,Democratic,"Kotich, A.J.",28,000120
+ATCHISON,Huron Township,Attorney General,,Republican,"Schmidt, Derek",38,000120
+ATCHISON,Kapioma Township,Attorney General,,Democratic,"Kotich, A.J.",29,000130
+ATCHISON,Kapioma Township,Attorney General,,Republican,"Schmidt, Derek",94,000130
+ATCHISON,Lancaster Township,Attorney General,,Democratic,"Kotich, A.J.",80,000140
+ATCHISON,Lancaster Township,Attorney General,,Republican,"Schmidt, Derek",129,000140
+ATCHISON,Shannon Township,Attorney General,,Democratic,"Kotich, A.J.",145,00016A
+ATCHISON,Shannon Township,Attorney General,,Republican,"Schmidt, Derek",286,00016A
+ATCHISON,Walnut Township,Attorney General,,Democratic,"Kotich, A.J.",74,00017A
+ATCHISON,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",96,00017A
+ATCHISON,Walnut Township Enclave,Attorney General,,Democratic,"Kotich, A.J.",0,00017B
+ATCHISON,Walnut Township Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+ATCHISON,Mount Pleasant Township,Attorney General,,Democratic,"Kotich, A.J.",108,100050
+ATCHISON,Mount Pleasant Township,Attorney General,,Republican,"Schmidt, Derek",235,100050
+ATCHISON,Benton Township H62,Attorney General,,Democratic,"Kotich, A.J.",105,120020
+ATCHISON,Benton Township H62,Attorney General,,Republican,"Schmidt, Derek",174,120020
+ATCHISON,Benton Township H63,Attorney General,,Democratic,"Kotich, A.J.",26,120030
+ATCHISON,Benton Township H63,Attorney General,,Republican,"Schmidt, Derek",56,120030
+ATCHISON,Atchison Precinct 1,Commissioner of Insurance,,Democratic,"Anderson, Dennis",72,000010
+ATCHISON,Atchison Precinct 1,Commissioner of Insurance,,Republican,"Selzer, Ken",103,000010
+ATCHISON,Atchison Precinct 2 East,Commissioner of Insurance,,Democratic,"Anderson, Dennis",84,000020
+ATCHISON,Atchison Precinct 2 East,Commissioner of Insurance,,Republican,"Selzer, Ken",127,000020
+ATCHISON,Atchison Precinct 2 West,Commissioner of Insurance,,Democratic,"Anderson, Dennis",89,000030
+ATCHISON,Atchison Precinct 2 West,Commissioner of Insurance,,Republican,"Selzer, Ken",105,000030
+ATCHISON,Atchison Precinct 3 East,Commissioner of Insurance,,Democratic,"Anderson, Dennis",176,000040
+ATCHISON,Atchison Precinct 3 East,Commissioner of Insurance,,Republican,"Selzer, Ken",193,000040
+ATCHISON,Atchison Precinct 3 West,Commissioner of Insurance,,Democratic,"Anderson, Dennis",212,00005A
+ATCHISON,Atchison Precinct 3 West,Commissioner of Insurance,,Republican,"Selzer, Ken",282,00005A
+ATCHISON,Atchison Precinct 4,Commissioner of Insurance,,Democratic,"Anderson, Dennis",197,00006A
+ATCHISON,Atchison Precinct 4,Commissioner of Insurance,,Republican,"Selzer, Ken",134,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00006C
+ATCHISON,Atchison Precinct 5 North,Commissioner of Insurance,,Democratic,"Anderson, Dennis",180,00007A
+ATCHISON,Atchison Precinct 5 North,Commissioner of Insurance,,Republican,"Selzer, Ken",217,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00007C
+ATCHISON,Atchison Precinct 5 South,Commissioner of Insurance,,Democratic,"Anderson, Dennis",93,00008A
+ATCHISON,Atchison Precinct 5 South,Commissioner of Insurance,,Republican,"Selzer, Ken",122,00008A
+ATCHISON,Center Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",73,000100
+ATCHISON,Center Township,Commissioner of Insurance,,Republican,"Selzer, Ken",180,000100
+ATCHISON,Grasshopper Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",61,000110
+ATCHISON,Grasshopper Township,Commissioner of Insurance,,Republican,"Selzer, Ken",184,000110
+ATCHISON,Huron Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",34,000120
+ATCHISON,Huron Township,Commissioner of Insurance,,Republican,"Selzer, Ken",32,000120
+ATCHISON,Kapioma Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",40,000130
+ATCHISON,Kapioma Township,Commissioner of Insurance,,Republican,"Selzer, Ken",79,000130
+ATCHISON,Lancaster Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",95,000140
+ATCHISON,Lancaster Township,Commissioner of Insurance,,Republican,"Selzer, Ken",110,000140
+ATCHISON,Shannon Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",165,00016A
+ATCHISON,Shannon Township,Commissioner of Insurance,,Republican,"Selzer, Ken",259,00016A
+ATCHISON,Walnut Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",80,00017A
+ATCHISON,Walnut Township,Commissioner of Insurance,,Republican,"Selzer, Ken",90,00017A
+ATCHISON,Walnut Township Enclave,Commissioner of Insurance,,Democratic,"Anderson, Dennis",0,00017B
+ATCHISON,Walnut Township Enclave,Commissioner of Insurance,,Republican,"Selzer, Ken",0,00017B
+ATCHISON,Mount Pleasant Township,Commissioner of Insurance,,Democratic,"Anderson, Dennis",110,100050
+ATCHISON,Mount Pleasant Township,Commissioner of Insurance,,Republican,"Selzer, Ken",231,100050
+ATCHISON,Benton Township H62,Commissioner of Insurance,,Democratic,"Anderson, Dennis",108,120020
+ATCHISON,Benton Township H62,Commissioner of Insurance,,Republican,"Selzer, Ken",163,120020
+ATCHISON,Benton Township H63,Commissioner of Insurance,,Democratic,"Anderson, Dennis",32,120030
+ATCHISON,Benton Township H63,Commissioner of Insurance,,Republican,"Selzer, Ken",48,120030
+ATCHISON,Atchison Precinct 1,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",64,000010
+ATCHISON,Atchison Precinct 1,Secretary of State,,Republican,"Kobach, Kris",110,000010
+ATCHISON,Atchison Precinct 2 East,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",80,000020
+ATCHISON,Atchison Precinct 2 East,Secretary of State,,Republican,"Kobach, Kris",133,000020
+ATCHISON,Atchison Precinct 2 West,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",83,000030
+ATCHISON,Atchison Precinct 2 West,Secretary of State,,Republican,"Kobach, Kris",113,000030
+ATCHISON,Atchison Precinct 3 East,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",171,000040
+ATCHISON,Atchison Precinct 3 East,Secretary of State,,Republican,"Kobach, Kris",205,000040
+ATCHISON,Atchison Precinct 3 West,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",218,00005A
+ATCHISON,Atchison Precinct 3 West,Secretary of State,,Republican,"Kobach, Kris",284,00005A
+ATCHISON,Atchison Precinct 4,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",174,00006A
+ATCHISON,Atchison Precinct 4,Secretary of State,,Republican,"Kobach, Kris",163,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00006C
+ATCHISON,Atchison Precinct 5 North,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",174,00007A
+ATCHISON,Atchison Precinct 5 North,Secretary of State,,Republican,"Kobach, Kris",225,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00007C
+ATCHISON,Atchison Precinct 5 South,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",94,00008A
+ATCHISON,Atchison Precinct 5 South,Secretary of State,,Republican,"Kobach, Kris",127,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,Secretary of State,,Republican,"Kobach, Kris",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,Secretary of State,,Republican,"Kobach, Kris",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,Secretary of State,,Republican,"Kobach, Kris",0,00008D
+ATCHISON,Center Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",64,000100
+ATCHISON,Center Township,Secretary of State,,Republican,"Kobach, Kris",202,000100
+ATCHISON,Grasshopper Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",48,000110
+ATCHISON,Grasshopper Township,Secretary of State,,Republican,"Kobach, Kris",205,000110
+ATCHISON,Huron Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,000120
+ATCHISON,Huron Township,Secretary of State,,Republican,"Kobach, Kris",44,000120
+ATCHISON,Kapioma Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",29,000130
+ATCHISON,Kapioma Township,Secretary of State,,Republican,"Kobach, Kris",95,000130
+ATCHISON,Lancaster Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",71,000140
+ATCHISON,Lancaster Township,Secretary of State,,Republican,"Kobach, Kris",141,000140
+ATCHISON,Shannon Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",146,00016A
+ATCHISON,Shannon Township,Secretary of State,,Republican,"Kobach, Kris",293,00016A
+ATCHISON,Walnut Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",73,00017A
+ATCHISON,Walnut Township,Secretary of State,,Republican,"Kobach, Kris",102,00017A
+ATCHISON,Walnut Township Enclave,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",0,00017B
+ATCHISON,Walnut Township Enclave,Secretary of State,,Republican,"Kobach, Kris",0,00017B
+ATCHISON,Mount Pleasant Township,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",106,100050
+ATCHISON,Mount Pleasant Township,Secretary of State,,Republican,"Kobach, Kris",240,100050
+ATCHISON,Benton Township H62,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",92,120020
+ATCHISON,Benton Township H62,Secretary of State,,Republican,"Kobach, Kris",194,120020
+ATCHISON,Benton Township H63,Secretary of State,,Democratic,"Schodorf, Jean Kurtis",25,120030
+ATCHISON,Benton Township H63,Secretary of State,,Republican,"Kobach, Kris",56,120030
+ATCHISON,Atchison Precinct 1,State Treasurer,,Democratic,"Alldritt, Carmen",59,000010
+ATCHISON,Atchison Precinct 1,State Treasurer,,Republican,"Estes, Ron",114,000010
+ATCHISON,Atchison Precinct 2 East,State Treasurer,,Democratic,"Alldritt, Carmen",70,000020
+ATCHISON,Atchison Precinct 2 East,State Treasurer,,Republican,"Estes, Ron",140,000020
+ATCHISON,Atchison Precinct 2 West,State Treasurer,,Democratic,"Alldritt, Carmen",72,000030
+ATCHISON,Atchison Precinct 2 West,State Treasurer,,Republican,"Estes, Ron",125,000030
+ATCHISON,Atchison Precinct 3 East,State Treasurer,,Democratic,"Alldritt, Carmen",153,000040
+ATCHISON,Atchison Precinct 3 East,State Treasurer,,Republican,"Estes, Ron",226,000040
+ATCHISON,Atchison Precinct 3 West,State Treasurer,,Democratic,"Alldritt, Carmen",176,00005A
+ATCHISON,Atchison Precinct 3 West,State Treasurer,,Republican,"Estes, Ron",323,00005A
+ATCHISON,Atchison Precinct 4,State Treasurer,,Democratic,"Alldritt, Carmen",166,00006A
+ATCHISON,Atchison Precinct 4,State Treasurer,,Republican,"Estes, Ron",167,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00006C
+ATCHISON,Atchison Precinct 5 North,State Treasurer,,Democratic,"Alldritt, Carmen",162,00007A
+ATCHISON,Atchison Precinct 5 North,State Treasurer,,Republican,"Estes, Ron",237,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00007C
+ATCHISON,Atchison Precinct 5 South,State Treasurer,,Democratic,"Alldritt, Carmen",86,00008A
+ATCHISON,Atchison Precinct 5 South,State Treasurer,,Republican,"Estes, Ron",129,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,State Treasurer,,Democratic,"Alldritt, Carmen",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,State Treasurer,,Republican,"Estes, Ron",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,State Treasurer,,Democratic,"Alldritt, Carmen",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,State Treasurer,,Republican,"Estes, Ron",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,State Treasurer,,Democratic,"Alldritt, Carmen",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,State Treasurer,,Republican,"Estes, Ron",0,00008D
+ATCHISON,Center Township,State Treasurer,,Democratic,"Alldritt, Carmen",51,000100
+ATCHISON,Center Township,State Treasurer,,Republican,"Estes, Ron",209,000100
+ATCHISON,Grasshopper Township,State Treasurer,,Democratic,"Alldritt, Carmen",46,000110
+ATCHISON,Grasshopper Township,State Treasurer,,Republican,"Estes, Ron",202,000110
+ATCHISON,Huron Township,State Treasurer,,Democratic,"Alldritt, Carmen",19,000120
+ATCHISON,Huron Township,State Treasurer,,Republican,"Estes, Ron",48,000120
+ATCHISON,Kapioma Township,State Treasurer,,Democratic,"Alldritt, Carmen",24,000130
+ATCHISON,Kapioma Township,State Treasurer,,Republican,"Estes, Ron",98,000130
+ATCHISON,Lancaster Township,State Treasurer,,Democratic,"Alldritt, Carmen",65,000140
+ATCHISON,Lancaster Township,State Treasurer,,Republican,"Estes, Ron",145,000140
+ATCHISON,Shannon Township,State Treasurer,,Democratic,"Alldritt, Carmen",121,00016A
+ATCHISON,Shannon Township,State Treasurer,,Republican,"Estes, Ron",319,00016A
+ATCHISON,Walnut Township,State Treasurer,,Democratic,"Alldritt, Carmen",73,00017A
+ATCHISON,Walnut Township,State Treasurer,,Republican,"Estes, Ron",101,00017A
+ATCHISON,Walnut Township Enclave,State Treasurer,,Democratic,"Alldritt, Carmen",0,00017B
+ATCHISON,Walnut Township Enclave,State Treasurer,,Republican,"Estes, Ron",0,00017B
+ATCHISON,Mount Pleasant Township,State Treasurer,,Democratic,"Alldritt, Carmen",86,100050
+ATCHISON,Mount Pleasant Township,State Treasurer,,Republican,"Estes, Ron",258,100050
+ATCHISON,Benton Township H62,State Treasurer,,Democratic,"Alldritt, Carmen",89,120020
+ATCHISON,Benton Township H62,State Treasurer,,Republican,"Estes, Ron",193,120020
+ATCHISON,Benton Township H63,State Treasurer,,Democratic,"Alldritt, Carmen",25,120030
+ATCHISON,Benton Township H63,State Treasurer,,Republican,"Estes, Ron",57,120030
+ATCHISON,Atchison Precinct 1,U.S. Senate,,independent,"Orman, Greg",71,000010
+ATCHISON,Atchison Precinct 1,U.S. Senate,,Libertarian,"Batson, Randall",12,000010
+ATCHISON,Atchison Precinct 1,U.S. Senate,,Republican,"Roberts, Pat",93,000010
+ATCHISON,Atchison Precinct 2 East,U.S. Senate,,independent,"Orman, Greg",86,000020
+ATCHISON,Atchison Precinct 2 East,U.S. Senate,,Libertarian,"Batson, Randall",15,000020
+ATCHISON,Atchison Precinct 2 East,U.S. Senate,,Republican,"Roberts, Pat",115,000020
+ATCHISON,Atchison Precinct 2 West,U.S. Senate,,independent,"Orman, Greg",83,000030
+ATCHISON,Atchison Precinct 2 West,U.S. Senate,,Libertarian,"Batson, Randall",12,000030
+ATCHISON,Atchison Precinct 2 West,U.S. Senate,,Republican,"Roberts, Pat",104,000030
+ATCHISON,Atchison Precinct 3 East,U.S. Senate,,independent,"Orman, Greg",179,000040
+ATCHISON,Atchison Precinct 3 East,U.S. Senate,,Libertarian,"Batson, Randall",11,000040
+ATCHISON,Atchison Precinct 3 East,U.S. Senate,,Republican,"Roberts, Pat",193,000040
+ATCHISON,Atchison Precinct 3 West,U.S. Senate,,independent,"Orman, Greg",230,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. Senate,,Libertarian,"Batson, Randall",24,00005A
+ATCHISON,Atchison Precinct 3 West,U.S. Senate,,Republican,"Roberts, Pat",253,00005A
+ATCHISON,Atchison Precinct 4,U.S. Senate,,independent,"Orman, Greg",189,00006A
+ATCHISON,Atchison Precinct 4,U.S. Senate,,Libertarian,"Batson, Randall",20,00006A
+ATCHISON,Atchison Precinct 4,U.S. Senate,,Republican,"Roberts, Pat",129,00006A
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. Senate,,independent,"Orman, Greg",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. Senate,,Libertarian,"Batson, Randall",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave A,U.S. Senate,,Republican,"Roberts, Pat",0,00006B
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. Senate,,independent,"Orman, Greg",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. Senate,,Libertarian,"Batson, Randall",0,00006C
+ATCHISON,Atchison Precinct 4 Exclave B,U.S. Senate,,Republican,"Roberts, Pat",0,00006C
+ATCHISON,Atchison Precinct 5 North,U.S. Senate,,independent,"Orman, Greg",182,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. Senate,,Libertarian,"Batson, Randall",22,00007A
+ATCHISON,Atchison Precinct 5 North,U.S. Senate,,Republican,"Roberts, Pat",200,00007A
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. Senate,,independent,"Orman, Greg",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. Senate,,Libertarian,"Batson, Randall",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave A,U.S. Senate,,Republican,"Roberts, Pat",0,00007B
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. Senate,,independent,"Orman, Greg",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. Senate,,Libertarian,"Batson, Randall",0,00007C
+ATCHISON,Atchison Precinct 5 North Exclave B,U.S. Senate,,Republican,"Roberts, Pat",0,00007C
+ATCHISON,Atchison Precinct 5 South,U.S. Senate,,independent,"Orman, Greg",103,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. Senate,,Libertarian,"Batson, Randall",11,00008A
+ATCHISON,Atchison Precinct 5 South,U.S. Senate,,Republican,"Roberts, Pat",107,00008A
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. Senate,,independent,"Orman, Greg",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. Senate,,Libertarian,"Batson, Randall",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave A,U.S. Senate,,Republican,"Roberts, Pat",0,00008B
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. Senate,,independent,"Orman, Greg",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. Senate,,Libertarian,"Batson, Randall",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave B,U.S. Senate,,Republican,"Roberts, Pat",0,00008C
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. Senate,,independent,"Orman, Greg",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. Senate,,Libertarian,"Batson, Randall",0,00008D
+ATCHISON,Atchison Precinct 5 South Exclave C,U.S. Senate,,Republican,"Roberts, Pat",0,00008D
+ATCHISON,Center Township,U.S. Senate,,independent,"Orman, Greg",84,000100
+ATCHISON,Center Township,U.S. Senate,,Libertarian,"Batson, Randall",16,000100
+ATCHISON,Center Township,U.S. Senate,,Republican,"Roberts, Pat",164,000100
+ATCHISON,Grasshopper Township,U.S. Senate,,independent,"Orman, Greg",69,000110
+ATCHISON,Grasshopper Township,U.S. Senate,,Libertarian,"Batson, Randall",10,000110
+ATCHISON,Grasshopper Township,U.S. Senate,,Republican,"Roberts, Pat",173,000110
+ATCHISON,Huron Township,U.S. Senate,,independent,"Orman, Greg",21,000120
+ATCHISON,Huron Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000120
+ATCHISON,Huron Township,U.S. Senate,,Republican,"Roberts, Pat",46,000120
+ATCHISON,Kapioma Township,U.S. Senate,,independent,"Orman, Greg",41,000130
+ATCHISON,Kapioma Township,U.S. Senate,,Libertarian,"Batson, Randall",5,000130
+ATCHISON,Kapioma Township,U.S. Senate,,Republican,"Roberts, Pat",79,000130
+ATCHISON,Lancaster Township,U.S. Senate,,independent,"Orman, Greg",84,000140
+ATCHISON,Lancaster Township,U.S. Senate,,Libertarian,"Batson, Randall",23,000140
+ATCHISON,Lancaster Township,U.S. Senate,,Republican,"Roberts, Pat",115,000140
+ATCHISON,Shannon Township,U.S. Senate,,independent,"Orman, Greg",179,00016A
+ATCHISON,Shannon Township,U.S. Senate,,Libertarian,"Batson, Randall",35,00016A
+ATCHISON,Shannon Township,U.S. Senate,,Republican,"Roberts, Pat",236,00016A
+ATCHISON,Walnut Township,U.S. Senate,,independent,"Orman, Greg",73,00017A
+ATCHISON,Walnut Township,U.S. Senate,,Libertarian,"Batson, Randall",11,00017A
+ATCHISON,Walnut Township,U.S. Senate,,Republican,"Roberts, Pat",91,00017A
+ATCHISON,Walnut Township Enclave,U.S. Senate,,independent,"Orman, Greg",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. Senate,,Libertarian,"Batson, Randall",0,00017B
+ATCHISON,Walnut Township Enclave,U.S. Senate,,Republican,"Roberts, Pat",0,00017B
+ATCHISON,Mount Pleasant Township,U.S. Senate,,independent,"Orman, Greg",127,100050
+ATCHISON,Mount Pleasant Township,U.S. Senate,,Libertarian,"Batson, Randall",21,100050
+ATCHISON,Mount Pleasant Township,U.S. Senate,,Republican,"Roberts, Pat",199,100050
+ATCHISON,Benton Township H62,U.S. Senate,,independent,"Orman, Greg",123,120020
+ATCHISON,Benton Township H62,U.S. Senate,,Libertarian,"Batson, Randall",25,120020
+ATCHISON,Benton Township H62,U.S. Senate,,Republican,"Roberts, Pat",147,120020
+ATCHISON,Benton Township H63,U.S. Senate,,independent,"Orman, Greg",29,120030
+ATCHISON,Benton Township H63,U.S. Senate,,Libertarian,"Batson, Randall",8,120030
+ATCHISON,Benton Township H63,U.S. Senate,,Republican,"Roberts, Pat",46,120030

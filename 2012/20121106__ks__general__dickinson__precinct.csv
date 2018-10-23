@@ -1,0 +1,913 @@
+county,precinct,office,district,party,candidate,votes,vtd
+DICKINSON,Abilene Ward 1,State House,70,Republican,"Barker, John E",350,000010
+DICKINSON,Abilene Ward 2,State House,70,Republican,"Barker, John E",552,00002A
+DICKINSON,Abilene Ward 2 Exclave A,State House,70,Republican,"Barker, John E",0,00002B
+DICKINSON,Abilene Ward 3,State House,70,Republican,"Barker, John E",323,000030
+DICKINSON,Abilene Ward 4 Precinct 1,State House,70,Republican,"Barker, John E",444,000040
+DICKINSON,Abilene Ward 4 Precinct 2,State House,70,Republican,"Barker, John E",595,000050
+DICKINSON,Banner Township,State House,70,Republican,"Barker, John E",49,000060
+DICKINSON,Buckeye Township,State House,70,Republican,"Barker, John E",176,000070
+DICKINSON,Center Township,State House,70,Republican,"Barker, John E",391,000080
+DICKINSON,Cheever Township,State House,70,Republican,"Barker, John E",65,000090
+DICKINSON,Flora Township,State House,70,Republican,"Barker, John E",76,000100
+DICKINSON,Fragrant Hill Township,State House,70,Republican,"Barker, John E",127,000110
+DICKINSON,Garfield Township,State House,70,Republican,"Barker, John E",79,000120
+DICKINSON,Grant Township,State House,70,Republican,"Barker, John E",424,000130
+DICKINSON,Hayes Township,State House,70,Republican,"Barker, John E",107,000140
+DICKINSON,Herington Ward 1,State House,68,Republican,"Moxley, Tom J.",278,000150
+DICKINSON,Herington Ward 2,State House,68,Republican,"Moxley, Tom J.",268,000160
+DICKINSON,Herington Ward 4,State House,68,Republican,"Moxley, Tom J.",154,000170
+DICKINSON,Holland Township,State House,70,Republican,"Barker, John E",51,000180
+DICKINSON,Hope Township,State House,70,Republican,"Barker, John E",154,000190
+DICKINSON,Jefferson Township,State House,70,Republican,"Barker, John E",105,000200
+DICKINSON,Liberty Township,State House,70,Republican,"Barker, John E",128,000210
+DICKINSON,Lincoln Township,State House,70,Republican,"Barker, John E",562,000220
+DICKINSON,Logan Township,State House,70,Republican,"Barker, John E",79,000230
+DICKINSON,Newbern Township,State House,70,Republican,"Barker, John E",176,000250
+DICKINSON,Noble Township,State House,70,Republican,"Barker, John E",640,000260
+DICKINSON,Ridge Township,State House,70,Republican,"Barker, John E",58,000270
+DICKINSON,Rinehart Township,State House,70,Republican,"Barker, John E",102,000280
+DICKINSON,Sherman Township,State House,70,Republican,"Barker, John E",70,000290
+DICKINSON,Union Township,State House,70,Republican,"Barker, John E",66,000300
+DICKINSON,Wheatland Township,State House,70,Republican,"Barker, John E",61,000310
+DICKINSON,Willowdale Township,State House,70,Republican,"Barker, John E",123,000320
+DICKINSON,Lyon Township H68 A,State House,68,Republican,"Moxley, Tom J.",0,12002A
+DICKINSON,Lyon Township H68,State House,68,Republican,"Moxley, Tom J.",30,120020
+DICKINSON,Lyon Township H70,State House,70,Republican,"Barker, John E",69,120030
+DICKINSON,Abilene Ward 1 Exclave A,State House,70,Republican,"Barker, John E",0,900010
+DICKINSON,Abilene Ward 2 Exclave B,State House,70,Republican,"Barker, John E",0,900020
+DICKINSON,Grant Township Enclave,State House,70,Republican,"Barker, John E",0,900030
+DICKINSON,Abilene Ward 1,State Senate,24,Democratic,"Norlin, Janice",190,000010
+DICKINSON,Abilene Ward 1,State Senate,24,Republican,"Arpke, Tom",224,000010
+DICKINSON,Abilene Ward 2,State Senate,24,Democratic,"Norlin, Janice",238,00002A
+DICKINSON,Abilene Ward 2,State Senate,24,Republican,"Arpke, Tom",387,00002A
+DICKINSON,Abilene Ward 2 Exclave A,State Senate,24,Democratic,"Norlin, Janice",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,State Senate,24,Republican,"Arpke, Tom",0,00002B
+DICKINSON,Abilene Ward 3,State Senate,24,Democratic,"Norlin, Janice",160,000030
+DICKINSON,Abilene Ward 3,State Senate,24,Republican,"Arpke, Tom",217,000030
+DICKINSON,Abilene Ward 4 Precinct 1,State Senate,24,Democratic,"Norlin, Janice",220,000040
+DICKINSON,Abilene Ward 4 Precinct 1,State Senate,24,Republican,"Arpke, Tom",301,000040
+DICKINSON,Abilene Ward 4 Precinct 2,State Senate,24,Democratic,"Norlin, Janice",243,000050
+DICKINSON,Abilene Ward 4 Precinct 2,State Senate,24,Republican,"Arpke, Tom",429,000050
+DICKINSON,Banner Township,State Senate,35,Libertarian,"Bryant, Jesse",11,000060
+DICKINSON,Banner Township,State Senate,35,Republican,"Emler, Jay Scott",43,000060
+DICKINSON,Buckeye Township,State Senate,24,Democratic,"Norlin, Janice",47,000070
+DICKINSON,Buckeye Township,State Senate,24,Republican,"Arpke, Tom",154,000070
+DICKINSON,Center Township,State Senate,24,Democratic,"Norlin, Janice",124,000080
+DICKINSON,Center Township,State Senate,24,Republican,"Arpke, Tom",311,000080
+DICKINSON,Cheever Township,State Senate,24,Democratic,"Norlin, Janice",13,000090
+DICKINSON,Cheever Township,State Senate,24,Republican,"Arpke, Tom",52,000090
+DICKINSON,Flora Township,State Senate,24,Democratic,"Norlin, Janice",29,000100
+DICKINSON,Flora Township,State Senate,24,Republican,"Arpke, Tom",59,000100
+DICKINSON,Fragrant Hill Township,State Senate,24,Democratic,"Norlin, Janice",25,000110
+DICKINSON,Fragrant Hill Township,State Senate,24,Republican,"Arpke, Tom",116,000110
+DICKINSON,Garfield Township,State Senate,35,Libertarian,"Bryant, Jesse",19,000120
+DICKINSON,Garfield Township,State Senate,35,Republican,"Emler, Jay Scott",67,000120
+DICKINSON,Grant Township,State Senate,24,Democratic,"Norlin, Janice",135,000130
+DICKINSON,Grant Township,State Senate,24,Republican,"Arpke, Tom",334,000130
+DICKINSON,Hayes Township,State Senate,24,Democratic,"Norlin, Janice",23,000140
+DICKINSON,Hayes Township,State Senate,24,Republican,"Arpke, Tom",89,000140
+DICKINSON,Herington Ward 1,State Senate,35,Libertarian,"Bryant, Jesse",77,000150
+DICKINSON,Herington Ward 1,State Senate,35,Republican,"Emler, Jay Scott",221,000150
+DICKINSON,Herington Ward 2,State Senate,35,Libertarian,"Bryant, Jesse",87,000160
+DICKINSON,Herington Ward 2,State Senate,35,Republican,"Emler, Jay Scott",206,000160
+DICKINSON,Herington Ward 4,State Senate,35,Libertarian,"Bryant, Jesse",47,000170
+DICKINSON,Herington Ward 4,State Senate,35,Republican,"Emler, Jay Scott",125,000170
+DICKINSON,Holland Township,State Senate,35,Libertarian,"Bryant, Jesse",11,000180
+DICKINSON,Holland Township,State Senate,35,Republican,"Emler, Jay Scott",41,000180
+DICKINSON,Hope Township,State Senate,35,Libertarian,"Bryant, Jesse",48,000190
+DICKINSON,Hope Township,State Senate,35,Republican,"Emler, Jay Scott",133,000190
+DICKINSON,Jefferson Township,State Senate,35,Libertarian,"Bryant, Jesse",15,000200
+DICKINSON,Jefferson Township,State Senate,35,Republican,"Emler, Jay Scott",97,000200
+DICKINSON,Liberty Township,State Senate,35,Libertarian,"Bryant, Jesse",35,000210
+DICKINSON,Liberty Township,State Senate,35,Republican,"Emler, Jay Scott",109,000210
+DICKINSON,Lincoln Township,State Senate,24,Democratic,"Norlin, Janice",205,000220
+DICKINSON,Lincoln Township,State Senate,24,Republican,"Arpke, Tom",421,000220
+DICKINSON,Logan Township,State Senate,35,Libertarian,"Bryant, Jesse",16,000230
+DICKINSON,Logan Township,State Senate,35,Republican,"Emler, Jay Scott",68,000230
+DICKINSON,Newbern Township,State Senate,35,Libertarian,"Bryant, Jesse",37,000250
+DICKINSON,Newbern Township,State Senate,35,Republican,"Emler, Jay Scott",143,000250
+DICKINSON,Noble Township,State Senate,24,Democratic,"Norlin, Janice",281,000260
+DICKINSON,Noble Township,State Senate,24,Republican,"Arpke, Tom",449,000260
+DICKINSON,Ridge Township,State Senate,35,Libertarian,"Bryant, Jesse",14,000270
+DICKINSON,Ridge Township,State Senate,35,Republican,"Emler, Jay Scott",52,000270
+DICKINSON,Rinehart Township,State Senate,24,Democratic,"Norlin, Janice",28,000280
+DICKINSON,Rinehart Township,State Senate,24,Republican,"Arpke, Tom",85,000280
+DICKINSON,Sherman Township,State Senate,24,Democratic,"Norlin, Janice",17,000290
+DICKINSON,Sherman Township,State Senate,24,Republican,"Arpke, Tom",67,000290
+DICKINSON,Union Township,State Senate,35,Libertarian,"Bryant, Jesse",19,000300
+DICKINSON,Union Township,State Senate,35,Republican,"Emler, Jay Scott",49,000300
+DICKINSON,Wheatland Township,State Senate,35,Libertarian,"Bryant, Jesse",11,000310
+DICKINSON,Wheatland Township,State Senate,35,Republican,"Emler, Jay Scott",51,000310
+DICKINSON,Willowdale Township,State Senate,24,Democratic,"Norlin, Janice",34,000320
+DICKINSON,Willowdale Township,State Senate,24,Republican,"Arpke, Tom",97,000320
+DICKINSON,Lyon Township H68 A,State Senate,35,Libertarian,"Bryant, Jesse",0,12002A
+DICKINSON,Lyon Township H68 A,State Senate,35,Republican,"Emler, Jay Scott",0,12002A
+DICKINSON,Lyon Township H68,State Senate,35,Libertarian,"Bryant, Jesse",6,120020
+DICKINSON,Lyon Township H68,State Senate,35,Republican,"Emler, Jay Scott",27,120020
+DICKINSON,Lyon Township H70,State Senate,35,Libertarian,"Bryant, Jesse",10,120030
+DICKINSON,Lyon Township H70,State Senate,35,Republican,"Emler, Jay Scott",62,120030
+DICKINSON,Abilene Ward 1 Exclave A,State Senate,24,Democratic,"Norlin, Janice",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,State Senate,24,Republican,"Arpke, Tom",0,900010
+DICKINSON,Abilene Ward 2 Exclave B,State Senate,24,Democratic,"Norlin, Janice",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,State Senate,24,Republican,"Arpke, Tom",0,900020
+DICKINSON,Grant Township Enclave,State Senate,24,Democratic,"Norlin, Janice",0,900030
+DICKINSON,Grant Township Enclave,State Senate,24,Republican,"Arpke, Tom",0,900030
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,Democratic,"Obama, Barack",147,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",13,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",7,000010
+DICKINSON,Abilene Ward 1,President / Vice President,,Republican,"Romney, Mitt",258,000010
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Christensen, Will",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Stein, Jill E",1,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,Democratic,"Obama, Barack",161,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",16,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",1,00002A
+DICKINSON,Abilene Ward 2,President / Vice President,,Republican,"Romney, Mitt",459,00002A
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Ayers, Avery L",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Barnett, Andre",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Bush, Kent W",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Christensen, Will",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Duncan, Richard A",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Goode, Virgil",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Knill, Dennis J",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Reed, Jill A.",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Rogers, Rick L",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Stein, Jill E",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,Democratic,"Obama, Barack",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,00002B
+DICKINSON,Abilene Ward 2 Exclave A,President / Vice President,,Republican,"Romney, Mitt",0,00002B
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,Democratic,"Obama, Barack",113,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",10,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",2,000030
+DICKINSON,Abilene Ward 3,President / Vice President,,Republican,"Romney, Mitt",260,000030
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",167,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",16,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000040
+DICKINSON,Abilene Ward 4 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",348,000040
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",183,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",10,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",2,000050
+DICKINSON,Abilene Ward 4 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",484,000050
+DICKINSON,Banner Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Barnett, Andre",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Bush, Kent W",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Christensen, Will",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Goode, Virgil",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Stein, Jill E",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+DICKINSON,Banner Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+DICKINSON,Banner Township,President / Vice President,,Democratic,"Obama, Barack",7,000060
+DICKINSON,Banner Township,President / Vice President,,Libertarian,"Johnson, Gary",2,000060
+DICKINSON,Banner Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000060
+DICKINSON,Banner Township,President / Vice President,,Republican,"Romney, Mitt",47,000060
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Barnett, Andre",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Bush, Kent W",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Christensen, Will",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Goode, Virgil",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Stein, Jill E",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+DICKINSON,Buckeye Township,President / Vice President,,Democratic,"Obama, Barack",27,000070
+DICKINSON,Buckeye Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000070
+DICKINSON,Buckeye Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000070
+DICKINSON,Buckeye Township,President / Vice President,,Republican,"Romney, Mitt",169,000070
+DICKINSON,Center Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Ayers, Avery L",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Barnett, Andre",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Bush, Kent W",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Christensen, Will",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Duncan, Richard A",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Goode, Virgil",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Hoefling, Tom",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Knill, Dennis J",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Reed, Jill A.",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Rogers, Rick L",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Stein, Jill E",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000080
+DICKINSON,Center Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000080
+DICKINSON,Center Township,President / Vice President,,Democratic,"Obama, Barack",89,000080
+DICKINSON,Center Township,President / Vice President,,Libertarian,"Johnson, Gary",9,000080
+DICKINSON,Center Township,President / Vice President,,Reform,"Baldwin, Chuck",4,000080
+DICKINSON,Center Township,President / Vice President,,Republican,"Romney, Mitt",337,000080
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Barnett, Andre",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Bush, Kent W",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Christensen, Will",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Goode, Virgil",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Stein, Jill E",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+DICKINSON,Cheever Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+DICKINSON,Cheever Township,President / Vice President,,Democratic,"Obama, Barack",5,000090
+DICKINSON,Cheever Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+DICKINSON,Cheever Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000090
+DICKINSON,Cheever Township,President / Vice President,,Republican,"Romney, Mitt",62,000090
+DICKINSON,Flora Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Barnett, Andre",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Bush, Kent W",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Christensen, Will",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Goode, Virgil",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Stein, Jill E",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+DICKINSON,Flora Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+DICKINSON,Flora Township,President / Vice President,,Democratic,"Obama, Barack",24,000100
+DICKINSON,Flora Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000100
+DICKINSON,Flora Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000100
+DICKINSON,Flora Township,President / Vice President,,Republican,"Romney, Mitt",70,000100
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Barnett, Andre",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Bush, Kent W",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Christensen, Will",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Goode, Virgil",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Stein, Jill E",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,Democratic,"Obama, Barack",15,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000110
+DICKINSON,Fragrant Hill Township,President / Vice President,,Republican,"Romney, Mitt",120,000110
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Barnett, Andre",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Bush, Kent W",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Christensen, Will",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Goode, Virgil",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Stein, Jill E",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+DICKINSON,Garfield Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+DICKINSON,Garfield Township,President / Vice President,,Democratic,"Obama, Barack",18,000120
+DICKINSON,Garfield Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000120
+DICKINSON,Garfield Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000120
+DICKINSON,Garfield Township,President / Vice President,,Republican,"Romney, Mitt",76,000120
+DICKINSON,Grant Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Barnett, Andre",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Bush, Kent W",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Christensen, Will",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Goode, Virgil",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Stein, Jill E",1,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+DICKINSON,Grant Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+DICKINSON,Grant Township,President / Vice President,,Democratic,"Obama, Barack",100,000130
+DICKINSON,Grant Township,President / Vice President,,Libertarian,"Johnson, Gary",4,000130
+DICKINSON,Grant Township,President / Vice President,,Reform,"Baldwin, Chuck",3,000130
+DICKINSON,Grant Township,President / Vice President,,Republican,"Romney, Mitt",363,000130
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Barnett, Andre",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Bush, Kent W",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Christensen, Will",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Goode, Virgil",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Stein, Jill E",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+DICKINSON,Hayes Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+DICKINSON,Hayes Township,President / Vice President,,Democratic,"Obama, Barack",11,000140
+DICKINSON,Hayes Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000140
+DICKINSON,Hayes Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000140
+DICKINSON,Hayes Township,President / Vice President,,Republican,"Romney, Mitt",104,000140
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Barnett, Andre",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Bush, Kent W",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Christensen, Will",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Goode, Virgil",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Stein, Jill E",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+DICKINSON,Herington Ward 1,President / Vice President,,Democratic,"Obama, Barack",141,000150
+DICKINSON,Herington Ward 1,President / Vice President,,Libertarian,"Johnson, Gary",7,000150
+DICKINSON,Herington Ward 1,President / Vice President,,Reform,"Baldwin, Chuck",1,000150
+DICKINSON,Herington Ward 1,President / Vice President,,Republican,"Romney, Mitt",184,000150
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+DICKINSON,Herington Ward 2,President / Vice President,,Democratic,"Obama, Barack",122,000160
+DICKINSON,Herington Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",3,000160
+DICKINSON,Herington Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",2,000160
+DICKINSON,Herington Ward 2,President / Vice President,,Republican,"Romney, Mitt",195,000160
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Barnett, Andre",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Bush, Kent W",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Christensen, Will",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Goode, Virgil",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Stein, Jill E",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+DICKINSON,Herington Ward 4,President / Vice President,,Democratic,"Obama, Barack",48,000170
+DICKINSON,Herington Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",6,000170
+DICKINSON,Herington Ward 4,President / Vice President,,Reform,"Baldwin, Chuck",5,000170
+DICKINSON,Herington Ward 4,President / Vice President,,Republican,"Romney, Mitt",125,000170
+DICKINSON,Holland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Barnett, Andre",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Bush, Kent W",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Christensen, Will",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Goode, Virgil",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Stein, Jill E",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000180
+DICKINSON,Holland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000180
+DICKINSON,Holland Township,President / Vice President,,Democratic,"Obama, Barack",6,000180
+DICKINSON,Holland Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000180
+DICKINSON,Holland Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000180
+DICKINSON,Holland Township,President / Vice President,,Republican,"Romney, Mitt",50,000180
+DICKINSON,Hope Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Ayers, Avery L",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Barnett, Andre",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Bush, Kent W",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Christensen, Will",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Duncan, Richard A",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Goode, Virgil",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Knill, Dennis J",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Reed, Jill A.",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Rogers, Rick L",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Stein, Jill E",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000190
+DICKINSON,Hope Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000190
+DICKINSON,Hope Township,President / Vice President,,Democratic,"Obama, Barack",63,000190
+DICKINSON,Hope Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000190
+DICKINSON,Hope Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000190
+DICKINSON,Hope Township,President / Vice President,,Republican,"Romney, Mitt",126,000190
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Barnett, Andre",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Bush, Kent W",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Christensen, Will",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Goode, Virgil",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Stein, Jill E",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,Democratic,"Obama, Barack",16,000200
+DICKINSON,Jefferson Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000200
+DICKINSON,Jefferson Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000200
+DICKINSON,Jefferson Township,President / Vice President,,Republican,"Romney, Mitt",97,000200
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Ayers, Avery L",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Barnett, Andre",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Bush, Kent W",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Christensen, Will",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Duncan, Richard A",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Goode, Virgil",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Knill, Dennis J",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Reed, Jill A.",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Rogers, Rick L",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Stein, Jill E",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000210
+DICKINSON,Liberty Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000210
+DICKINSON,Liberty Township,President / Vice President,,Democratic,"Obama, Barack",44,000210
+DICKINSON,Liberty Township,President / Vice President,,Libertarian,"Johnson, Gary",6,000210
+DICKINSON,Liberty Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000210
+DICKINSON,Liberty Township,President / Vice President,,Republican,"Romney, Mitt",100,000210
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Ayers, Avery L",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Barnett, Andre",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Bush, Kent W",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Christensen, Will",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Duncan, Richard A",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Goode, Virgil",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Hoefling, Tom",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Knill, Dennis J",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Reed, Jill A.",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Rogers, Rick L",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Stein, Jill E",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000220
+DICKINSON,Lincoln Township,President / Vice President,,Democratic,"Obama, Barack",150,000220
+DICKINSON,Lincoln Township,President / Vice President,,Libertarian,"Johnson, Gary",10,000220
+DICKINSON,Lincoln Township,President / Vice President,,Reform,"Baldwin, Chuck",1,000220
+DICKINSON,Lincoln Township,President / Vice President,,Republican,"Romney, Mitt",478,000220
+DICKINSON,Logan Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Ayers, Avery L",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Barnett, Andre",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Bush, Kent W",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Christensen, Will",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Duncan, Richard A",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Goode, Virgil",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Hoefling, Tom",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Knill, Dennis J",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Reed, Jill A.",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Rogers, Rick L",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Stein, Jill E",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000230
+DICKINSON,Logan Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000230
+DICKINSON,Logan Township,President / Vice President,,Democratic,"Obama, Barack",21,000230
+DICKINSON,Logan Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000230
+DICKINSON,Logan Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000230
+DICKINSON,Logan Township,President / Vice President,,Republican,"Romney, Mitt",73,000230
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Ayers, Avery L",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Barnett, Andre",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Bush, Kent W",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Christensen, Will",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Duncan, Richard A",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Goode, Virgil",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Hoefling, Tom",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Knill, Dennis J",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Reed, Jill A.",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Rogers, Rick L",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Stein, Jill E",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000250
+DICKINSON,Newbern Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000250
+DICKINSON,Newbern Township,President / Vice President,,Democratic,"Obama, Barack",34,000250
+DICKINSON,Newbern Township,President / Vice President,,Libertarian,"Johnson, Gary",5,000250
+DICKINSON,Newbern Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000250
+DICKINSON,Newbern Township,President / Vice President,,Republican,"Romney, Mitt",153,000250
+DICKINSON,Noble Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Ayers, Avery L",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Barnett, Andre",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Bush, Kent W",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Christensen, Will",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Duncan, Richard A",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Goode, Virgil",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Hoefling, Tom",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Knill, Dennis J",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Reed, Jill A.",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Rogers, Rick L",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Stein, Jill E",1,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000260
+DICKINSON,Noble Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000260
+DICKINSON,Noble Township,President / Vice President,,Democratic,"Obama, Barack",191,000260
+DICKINSON,Noble Township,President / Vice President,,Libertarian,"Johnson, Gary",8,000260
+DICKINSON,Noble Township,President / Vice President,,Reform,"Baldwin, Chuck",5,000260
+DICKINSON,Noble Township,President / Vice President,,Republican,"Romney, Mitt",552,000260
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Ayers, Avery L",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Barnett, Andre",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Bush, Kent W",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Christensen, Will",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Duncan, Richard A",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Goode, Virgil",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Hoefling, Tom",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Knill, Dennis J",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Reed, Jill A.",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Rogers, Rick L",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Stein, Jill E",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000270
+DICKINSON,Ridge Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000270
+DICKINSON,Ridge Township,President / Vice President,,Democratic,"Obama, Barack",5,000270
+DICKINSON,Ridge Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000270
+DICKINSON,Ridge Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000270
+DICKINSON,Ridge Township,President / Vice President,,Republican,"Romney, Mitt",60,000270
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Ayers, Avery L",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Barnett, Andre",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Bush, Kent W",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Christensen, Will",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Duncan, Richard A",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Goode, Virgil",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Hoefling, Tom",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Knill, Dennis J",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Reed, Jill A.",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Rogers, Rick L",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Stein, Jill E",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,Democratic,"Obama, Barack",21,000280
+DICKINSON,Rinehart Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000280
+DICKINSON,Rinehart Township,President / Vice President,,Republican,"Romney, Mitt",95,000280
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Ayers, Avery L",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Barnett, Andre",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Bush, Kent W",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Christensen, Will",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Duncan, Richard A",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Goode, Virgil",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Hoefling, Tom",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Knill, Dennis J",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Reed, Jill A.",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Rogers, Rick L",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Stein, Jill E",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000290
+DICKINSON,Sherman Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000290
+DICKINSON,Sherman Township,President / Vice President,,Democratic,"Obama, Barack",13,000290
+DICKINSON,Sherman Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000290
+DICKINSON,Sherman Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000290
+DICKINSON,Sherman Township,President / Vice President,,Republican,"Romney, Mitt",72,000290
+DICKINSON,Union Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Ayers, Avery L",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Barnett, Andre",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Bush, Kent W",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Christensen, Will",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Duncan, Richard A",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Goode, Virgil",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Hoefling, Tom",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Knill, Dennis J",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Reed, Jill A.",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Rogers, Rick L",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Stein, Jill E",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000300
+DICKINSON,Union Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000300
+DICKINSON,Union Township,President / Vice President,,Democratic,"Obama, Barack",16,000300
+DICKINSON,Union Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000300
+DICKINSON,Union Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000300
+DICKINSON,Union Township,President / Vice President,,Republican,"Romney, Mitt",57,000300
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Ayers, Avery L",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Barnett, Andre",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Bush, Kent W",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Christensen, Will",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Duncan, Richard A",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Goode, Virgil",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Hoefling, Tom",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Knill, Dennis J",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Reed, Jill A.",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Rogers, Rick L",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Stein, Jill E",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,Democratic,"Obama, Barack",5,000310
+DICKINSON,Wheatland Township,President / Vice President,,Libertarian,"Johnson, Gary",1,000310
+DICKINSON,Wheatland Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000310
+DICKINSON,Wheatland Township,President / Vice President,,Republican,"Romney, Mitt",63,000310
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Ayers, Avery L",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Barnett, Andre",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Barr, Roseanne C",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Bush, Kent W",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Christensen, Will",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Duncan, Richard A",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Goode, Virgil",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Hoefling, Tom",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Knill, Dennis J",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Reed, Jill A.",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Rogers, Rick L",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Stein, Jill E",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Thorne, Kevin M",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,write - in,"Warner, Gerald L.",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,Democratic,"Obama, Barack",28,000320
+DICKINSON,Willowdale Township,President / Vice President,,Libertarian,"Johnson, Gary",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,Reform,"Baldwin, Chuck",0,000320
+DICKINSON,Willowdale Township,President / Vice President,,Republican,"Romney, Mitt",109,000320
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Ayers, Avery L",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Barnett, Andre",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Barr, Roseanne C",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Bush, Kent W",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Christensen, Will",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Duncan, Richard A",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Goode, Virgil",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Hoefling, Tom",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Knill, Dennis J",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Reed, Jill A.",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Rogers, Rick L",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Stein, Jill E",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Thorne, Kevin M",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,write - in,"Warner, Gerald L.",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,Democratic,"Obama, Barack",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,Libertarian,"Johnson, Gary",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,Reform,"Baldwin, Chuck",0,12002A
+DICKINSON,Lyon Township H68 A,President / Vice President,,Republican,"Romney, Mitt",1,12002A
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Ayers, Avery L",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Barnett, Andre",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Barr, Roseanne C",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Bush, Kent W",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Christensen, Will",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Duncan, Richard A",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Goode, Virgil",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Hoefling, Tom",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Knill, Dennis J",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Reed, Jill A.",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Rogers, Rick L",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Stein, Jill E",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Thorne, Kevin M",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,write - in,"Warner, Gerald L.",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,Democratic,"Obama, Barack",12,120020
+DICKINSON,Lyon Township H68,President / Vice President,,Libertarian,"Johnson, Gary",2,120020
+DICKINSON,Lyon Township H68,President / Vice President,,Reform,"Baldwin, Chuck",0,120020
+DICKINSON,Lyon Township H68,President / Vice President,,Republican,"Romney, Mitt",22,120020
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Ayers, Avery L",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Barnett, Andre",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Barr, Roseanne C",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Bush, Kent W",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Christensen, Will",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Duncan, Richard A",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Goode, Virgil",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Hoefling, Tom",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Knill, Dennis J",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Reed, Jill A.",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Rogers, Rick L",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Stein, Jill E",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Thorne, Kevin M",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,write - in,"Warner, Gerald L.",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,Democratic,"Obama, Barack",17,120030
+DICKINSON,Lyon Township H70,President / Vice President,,Libertarian,"Johnson, Gary",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,Reform,"Baldwin, Chuck",0,120030
+DICKINSON,Lyon Township H70,President / Vice President,,Republican,"Romney, Mitt",63,120030
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Ayers, Avery L",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Barnett, Andre",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Barr, Roseanne C",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Bush, Kent W",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Christensen, Will",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Duncan, Richard A",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Goode, Virgil",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Knill, Dennis J",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Reed, Jill A.",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Rogers, Rick L",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Stein, Jill E",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Thorne, Kevin M",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,write - in,"Warner, Gerald L.",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,Democratic,"Obama, Barack",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,Libertarian,"Johnson, Gary",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,Reform,"Baldwin, Chuck",0,900010
+DICKINSON,Abilene Ward 1 Exclave A,President / Vice President,,Republican,"Romney, Mitt",0,900010
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Ayers, Avery L",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Barnett, Andre",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Barr, Roseanne C",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Bush, Kent W",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Christensen, Will",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Duncan, Richard A",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Goode, Virgil",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Knill, Dennis J",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Reed, Jill A.",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Rogers, Rick L",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Stein, Jill E",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Thorne, Kevin M",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,write - in,"Warner, Gerald L.",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,Democratic,"Obama, Barack",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,Libertarian,"Johnson, Gary",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,Reform,"Baldwin, Chuck",0,900020
+DICKINSON,Abilene Ward 2 Exclave B,President / Vice President,,Republican,"Romney, Mitt",0,900020
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Ayers, Avery L",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Barnett, Andre",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Barr, Roseanne C",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Bush, Kent W",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Christensen, Will",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Duncan, Richard A",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Goode, Virgil",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Hoefling, Tom",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Knill, Dennis J",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Reed, Jill A.",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Rogers, Rick L",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Stein, Jill E",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Thorne, Kevin M",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,write - in,"Warner, Gerald L.",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,Democratic,"Obama, Barack",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,Libertarian,"Johnson, Gary",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,Reform,"Baldwin, Chuck",0,900030
+DICKINSON,Grant Township Enclave,President / Vice President,,Republican,"Romney, Mitt",0,900030
+DICKINSON,Abilene Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",322,000010
+DICKINSON,Abilene Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",522,00002A
+DICKINSON,Abilene Ward 2 Exclave A,U.S. House,1,Republican,"Huelskamp, Tim",0,00002B
+DICKINSON,Abilene Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",318,000030
+DICKINSON,Abilene Ward 4 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",409,000040
+DICKINSON,Abilene Ward 4 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",533,000050
+DICKINSON,Banner Township,U.S. House,1,Republican,"Huelskamp, Tim",50,000060
+DICKINSON,Buckeye Township,U.S. House,1,Republican,"Huelskamp, Tim",178,000070
+DICKINSON,Center Township,U.S. House,1,Republican,"Huelskamp, Tim",375,000080
+DICKINSON,Cheever Township,U.S. House,1,Republican,"Huelskamp, Tim",60,000090
+DICKINSON,Flora Township,U.S. House,1,Republican,"Huelskamp, Tim",71,000100
+DICKINSON,Fragrant Hill Township,U.S. House,1,Republican,"Huelskamp, Tim",128,000110
+DICKINSON,Garfield Township,U.S. House,1,Republican,"Huelskamp, Tim",77,000120
+DICKINSON,Grant Township,U.S. House,1,Republican,"Huelskamp, Tim",406,000130
+DICKINSON,Hayes Township,U.S. House,1,Republican,"Huelskamp, Tim",108,000140
+DICKINSON,Herington Ward 1,U.S. House,1,Republican,"Huelskamp, Tim",258,000150
+DICKINSON,Herington Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",265,000160
+DICKINSON,Herington Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",157,000170
+DICKINSON,Holland Township,U.S. House,1,Republican,"Huelskamp, Tim",51,000180
+DICKINSON,Hope Township,U.S. House,1,Republican,"Huelskamp, Tim",159,000190
+DICKINSON,Jefferson Township,U.S. House,1,Republican,"Huelskamp, Tim",99,000200
+DICKINSON,Liberty Township,U.S. House,1,Republican,"Huelskamp, Tim",126,000210
+DICKINSON,Lincoln Township,U.S. House,1,Republican,"Huelskamp, Tim",545,000220
+DICKINSON,Logan Township,U.S. House,1,Republican,"Huelskamp, Tim",78,000230
+DICKINSON,Newbern Township,U.S. House,1,Republican,"Huelskamp, Tim",167,000250
+DICKINSON,Noble Township,U.S. House,1,Republican,"Huelskamp, Tim",608,000260
+DICKINSON,Ridge Township,U.S. House,1,Republican,"Huelskamp, Tim",60,000270
+DICKINSON,Rinehart Township,U.S. House,1,Republican,"Huelskamp, Tim",103,000280
+DICKINSON,Sherman Township,U.S. House,1,Republican,"Huelskamp, Tim",70,000290
+DICKINSON,Union Township,U.S. House,1,Republican,"Huelskamp, Tim",63,000300
+DICKINSON,Wheatland Township,U.S. House,1,Republican,"Huelskamp, Tim",63,000310
+DICKINSON,Willowdale Township,U.S. House,1,Republican,"Huelskamp, Tim",118,000320
+DICKINSON,Lyon Township H68 A,U.S. House,1,Republican,"Huelskamp, Tim",0,12002A
+DICKINSON,Lyon Township H68,U.S. House,1,Republican,"Huelskamp, Tim",30,120020
+DICKINSON,Lyon Township H70,U.S. House,1,Republican,"Huelskamp, Tim",69,120030
+DICKINSON,Abilene Ward 1 Exclave A,U.S. House,1,Republican,"Huelskamp, Tim",0,900010
+DICKINSON,Abilene Ward 2 Exclave B,U.S. House,1,Republican,"Huelskamp, Tim",0,900020
+DICKINSON,Grant Township Enclave,U.S. House,1,Republican,"Huelskamp, Tim",0,900030

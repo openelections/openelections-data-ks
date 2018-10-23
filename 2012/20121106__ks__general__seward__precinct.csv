@@ -1,0 +1,627 @@
+county,precinct,office,district,party,candidate,votes,vtd
+SEWARD,Fargo Township 1,State House,125,Republican,"Petty, Reid",104,000010
+SEWARD,Fargo Township 2,State House,125,Republican,"Petty, Reid",28,000020
+SEWARD,Fargo Township 3,State House,125,Republican,"Petty, Reid",22,000030
+SEWARD,Fargo Township 4,State House,125,Republican,"Petty, Reid",17,000040
+SEWARD,Liberal Township 1,State House,125,Republican,"Petty, Reid",48,00005A
+SEWARD,Liberal Township 1 Exclave,State House,125,Republican,"Petty, Reid",0,00005B
+SEWARD,Liberal Township 2,State House,125,Republican,"Petty, Reid",36,000060
+SEWARD,Liberal Township 3,State House,125,Republican,"Petty, Reid",21,000070
+SEWARD,Liberal Township 4,State House,125,Republican,"Petty, Reid",27,00008A
+SEWARD,Liberal Township 4 Exclave,State House,125,Republican,"Petty, Reid",0,00008B
+SEWARD,Liberal Township 5,State House,125,Republican,"Petty, Reid",20,000090
+SEWARD,Liberal Ward 1 Precinct 1,State House,125,Republican,"Petty, Reid",195,000100
+SEWARD,Liberal Ward 1 Precinct 2,State House,125,Republican,"Petty, Reid",223,000110
+SEWARD,Liberal Ward 1 Precinct 3,State House,125,Republican,"Petty, Reid",178,000120
+SEWARD,Liberal Ward 2,State House,125,Republican,"Petty, Reid",209,000130
+SEWARD,Liberal Ward 3,State House,125,Republican,"Petty, Reid",153,000140
+SEWARD,Liberal Ward 4,State House,125,Republican,"Petty, Reid",211,000150
+SEWARD,Liberal Ward 5,State House,125,Republican,"Petty, Reid",128,000160
+SEWARD,Liberal Ward 6 Precinct 1,State House,125,Republican,"Petty, Reid",354,000170
+SEWARD,Liberal Ward 6 Precinct 2,State House,125,Republican,"Petty, Reid",261,000180
+SEWARD,Seward Township 1,State House,124,Republican,"Alford, J. Stephen",24,000190
+SEWARD,Seward Township 2,State House,124,Republican,"Alford, J. Stephen",16,000200
+SEWARD,Seward Township 3,State House,124,Republican,"Alford, J. Stephen",18,000210
+SEWARD,Kismet City,State House,125,Republican,"Petty, Reid",18,300010
+SEWARD,ADVANCE VOTES,State House,124,Republican,"Alford, J. Stephen",26,900010
+SEWARD,PROVISIONAL VOTES,State House,124,Republican,"Alford, J. Stephen",0,900020
+SEWARD,ADVANCE VOTES HOUSE125,State House,125,Republican,"Petty, Reid",1329,900030
+SEWARD,PROVISIONAL VOTES HOUSE125,State House,125,Republican,"Petty, Reid",153,900040
+SEWARD,Fargo Township 1,State Senate,38,Democratic,"Dunlap, Johnny  II",1,000010
+SEWARD,Fargo Township 1,State Senate,38,Republican,"Love, Garrett",29,000010
+SEWARD,Fargo Township 2,State Senate,38,Democratic,"Dunlap, Johnny  II",0,000020
+SEWARD,Fargo Township 2,State Senate,38,Republican,"Love, Garrett",24,000020
+SEWARD,Fargo Township 3,State Senate,38,Democratic,"Dunlap, Johnny  II",0,000030
+SEWARD,Fargo Township 3,State Senate,38,Republican,"Love, Garrett",20,000030
+SEWARD,Fargo Township 4,State Senate,38,Democratic,"Dunlap, Johnny  II",22,000040
+SEWARD,Fargo Township 4,State Senate,38,Republican,"Love, Garrett",42,000040
+SEWARD,Liberal Township 1,State Senate,38,Democratic,"Dunlap, Johnny  II",5,00005A
+SEWARD,Liberal Township 1,State Senate,38,Republican,"Love, Garrett",36,00005A
+SEWARD,Liberal Township 1 Exclave,State Senate,38,Democratic,"Dunlap, Johnny  II",0,00005B
+SEWARD,Liberal Township 1 Exclave,State Senate,38,Republican,"Love, Garrett",0,00005B
+SEWARD,Liberal Township 2,State Senate,38,Democratic,"Dunlap, Johnny  II",3,000060
+SEWARD,Liberal Township 2,State Senate,38,Republican,"Love, Garrett",23,000060
+SEWARD,Liberal Township 3,State Senate,38,Democratic,"Dunlap, Johnny  II",3,000070
+SEWARD,Liberal Township 3,State Senate,38,Republican,"Love, Garrett",29,000070
+SEWARD,Liberal Township 4,State Senate,38,Democratic,"Dunlap, Johnny  II",4,00008A
+SEWARD,Liberal Township 4,State Senate,38,Republican,"Love, Garrett",19,00008A
+SEWARD,Liberal Township 4 Exclave,State Senate,38,Democratic,"Dunlap, Johnny  II",0,00008B
+SEWARD,Liberal Township 4 Exclave,State Senate,38,Republican,"Love, Garrett",0,00008B
+SEWARD,Liberal Township 5,State Senate,38,Democratic,"Dunlap, Johnny  II",7,000090
+SEWARD,Liberal Township 5,State Senate,38,Republican,"Love, Garrett",19,000090
+SEWARD,Liberal Ward 1 Precinct 1,State Senate,38,Democratic,"Dunlap, Johnny  II",91,000100
+SEWARD,Liberal Ward 1 Precinct 1,State Senate,38,Republican,"Love, Garrett",154,000100
+SEWARD,Liberal Ward 1 Precinct 2,State Senate,38,Democratic,"Dunlap, Johnny  II",123,000110
+SEWARD,Liberal Ward 1 Precinct 2,State Senate,38,Republican,"Love, Garrett",171,000110
+SEWARD,Liberal Ward 1 Precinct 3,State Senate,38,Democratic,"Dunlap, Johnny  II",77,000120
+SEWARD,Liberal Ward 1 Precinct 3,State Senate,38,Republican,"Love, Garrett",142,000120
+SEWARD,Liberal Ward 2,State Senate,38,Democratic,"Dunlap, Johnny  II",73,000130
+SEWARD,Liberal Ward 2,State Senate,38,Republican,"Love, Garrett",190,000130
+SEWARD,Liberal Ward 3,State Senate,38,Democratic,"Dunlap, Johnny  II",85,000140
+SEWARD,Liberal Ward 3,State Senate,38,Republican,"Love, Garrett",125,000140
+SEWARD,Liberal Ward 4,State Senate,38,Democratic,"Dunlap, Johnny  II",57,000150
+SEWARD,Liberal Ward 4,State Senate,38,Republican,"Love, Garrett",191,000150
+SEWARD,Liberal Ward 5,State Senate,38,Democratic,"Dunlap, Johnny  II",41,000160
+SEWARD,Liberal Ward 5,State Senate,38,Republican,"Love, Garrett",114,000160
+SEWARD,Liberal Ward 6 Precinct 1,State Senate,38,Democratic,"Dunlap, Johnny  II",92,000170
+SEWARD,Liberal Ward 6 Precinct 1,State Senate,38,Republican,"Love, Garrett",354,000170
+SEWARD,Liberal Ward 6 Precinct 2,State Senate,38,Democratic,"Dunlap, Johnny  II",66,000180
+SEWARD,Liberal Ward 6 Precinct 2,State Senate,38,Republican,"Love, Garrett",266,000180
+SEWARD,Seward Township 1,State Senate,38,Democratic,"Dunlap, Johnny  II",4,000190
+SEWARD,Seward Township 1,State Senate,38,Republican,"Love, Garrett",22,000190
+SEWARD,Seward Township 2,State Senate,38,Democratic,"Dunlap, Johnny  II",1,000200
+SEWARD,Seward Township 2,State Senate,38,Republican,"Love, Garrett",17,000200
+SEWARD,Seward Township 3,State Senate,38,Democratic,"Dunlap, Johnny  II",1,000210
+SEWARD,Seward Township 3,State Senate,38,Republican,"Love, Garrett",17,000210
+SEWARD,Kismet City,State Senate,38,Democratic,"Dunlap, Johnny  II",11,300010
+SEWARD,Kismet City,State Senate,38,Republican,"Love, Garrett",103,300010
+SEWARD,ADVANCE VOTES,State Senate,38,Democratic,"Dunlap, Johnny  II",357,900010
+SEWARD,ADVANCE VOTES,State Senate,38,Republican,"Love, Garrett",1302,900010
+SEWARD,PROVISIONAL VOTES,State Senate,38,Democratic,"Dunlap, Johnny  II",72,900020
+SEWARD,PROVISIONAL VOTES,State Senate,38,Republican,"Love, Garrett",124,900020
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Ayers, Avery L",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Barnett, Andre",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Bush, Kent W",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Christensen, Will",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Duncan, Richard A",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Goode, Virgil",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Hoefling, Tom",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Knill, Dennis J",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Reed, Jill A.",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Rogers, Rick L",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Stein, Jill E",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,Democratic,"Obama, Barack",2,000010
+SEWARD,Fargo Township 1,President / Vice President,,Libertarian,"Johnson, Gary",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,Reform,"Baldwin, Chuck",0,000010
+SEWARD,Fargo Township 1,President / Vice President,,Republican,"Romney, Mitt",28,000010
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Ayers, Avery L",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Barnett, Andre",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Bush, Kent W",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Christensen, Will",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Duncan, Richard A",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Goode, Virgil",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Hoefling, Tom",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Knill, Dennis J",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Reed, Jill A.",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Rogers, Rick L",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Stein, Jill E",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,Democratic,"Obama, Barack",3,000020
+SEWARD,Fargo Township 2,President / Vice President,,Libertarian,"Johnson, Gary",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,Reform,"Baldwin, Chuck",0,000020
+SEWARD,Fargo Township 2,President / Vice President,,Republican,"Romney, Mitt",22,000020
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Ayers, Avery L",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Barnett, Andre",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Bush, Kent W",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Christensen, Will",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Duncan, Richard A",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Goode, Virgil",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Hoefling, Tom",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Knill, Dennis J",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Reed, Jill A.",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Rogers, Rick L",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Stein, Jill E",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,Democratic,"Obama, Barack",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,Libertarian,"Johnson, Gary",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000030
+SEWARD,Fargo Township 3,President / Vice President,,Republican,"Romney, Mitt",20,000030
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Ayers, Avery L",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Barnett, Andre",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Bush, Kent W",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Christensen, Will",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Duncan, Richard A",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Goode, Virgil",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Hoefling, Tom",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Knill, Dennis J",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Reed, Jill A.",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Rogers, Rick L",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Stein, Jill E",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,Democratic,"Obama, Barack",33,000040
+SEWARD,Fargo Township 4,President / Vice President,,Libertarian,"Johnson, Gary",1,000040
+SEWARD,Fargo Township 4,President / Vice President,,Reform,"Baldwin, Chuck",0,000040
+SEWARD,Fargo Township 4,President / Vice President,,Republican,"Romney, Mitt",38,000040
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Ayers, Avery L",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Barnett, Andre",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Barr, Roseanne C",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Bush, Kent W",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Christensen, Will",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Duncan, Richard A",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Goode, Virgil",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Hoefling, Tom",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Knill, Dennis J",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Reed, Jill A.",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Rogers, Rick L",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Stein, Jill E",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Thorne, Kevin M",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,write - in,"Warner, Gerald L.",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,Democratic,"Obama, Barack",7,00005A
+SEWARD,Liberal Township 1,President / Vice President,,Libertarian,"Johnson, Gary",0,00005A
+SEWARD,Liberal Township 1,President / Vice President,,Reform,"Baldwin, Chuck",1,00005A
+SEWARD,Liberal Township 1,President / Vice President,,Republican,"Romney, Mitt",34,00005A
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Ayers, Avery L",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Barnett, Andre",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Barr, Roseanne C",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Bush, Kent W",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Christensen, Will",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Duncan, Richard A",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Goode, Virgil",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Knill, Dennis J",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Reed, Jill A.",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Rogers, Rick L",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Stein, Jill E",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Thorne, Kevin M",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,write - in,"Warner, Gerald L.",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,Democratic,"Obama, Barack",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,Reform,"Baldwin, Chuck",0,00005B
+SEWARD,Liberal Township 1 Exclave,President / Vice President,,Republican,"Romney, Mitt",0,00005B
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Ayers, Avery L",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Barnett, Andre",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Bush, Kent W",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Christensen, Will",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Duncan, Richard A",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Goode, Virgil",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Hoefling, Tom",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Knill, Dennis J",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Reed, Jill A.",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Rogers, Rick L",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Stein, Jill E",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,Democratic,"Obama, Barack",3,000060
+SEWARD,Liberal Township 2,President / Vice President,,Libertarian,"Johnson, Gary",0,000060
+SEWARD,Liberal Township 2,President / Vice President,,Reform,"Baldwin, Chuck",1,000060
+SEWARD,Liberal Township 2,President / Vice President,,Republican,"Romney, Mitt",23,000060
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Ayers, Avery L",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Barnett, Andre",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Bush, Kent W",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Christensen, Will",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Duncan, Richard A",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Goode, Virgil",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Hoefling, Tom",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Knill, Dennis J",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Reed, Jill A.",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Rogers, Rick L",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Stein, Jill E",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,Democratic,"Obama, Barack",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,Libertarian,"Johnson, Gary",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000070
+SEWARD,Liberal Township 3,President / Vice President,,Republican,"Romney, Mitt",34,000070
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Ayers, Avery L",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Barnett, Andre",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Barr, Roseanne C",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Bush, Kent W",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Christensen, Will",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Duncan, Richard A",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Goode, Virgil",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Hoefling, Tom",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Knill, Dennis J",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Reed, Jill A.",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Rogers, Rick L",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Stein, Jill E",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Thorne, Kevin M",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,write - in,"Warner, Gerald L.",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,Democratic,"Obama, Barack",1,00008A
+SEWARD,Liberal Township 4,President / Vice President,,Libertarian,"Johnson, Gary",1,00008A
+SEWARD,Liberal Township 4,President / Vice President,,Reform,"Baldwin, Chuck",0,00008A
+SEWARD,Liberal Township 4,President / Vice President,,Republican,"Romney, Mitt",22,00008A
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Ayers, Avery L",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Barnett, Andre",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Barr, Roseanne C",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Bush, Kent W",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Christensen, Will",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Duncan, Richard A",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Goode, Virgil",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Hoefling, Tom",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Knill, Dennis J",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Reed, Jill A.",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Rogers, Rick L",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Stein, Jill E",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Thorne, Kevin M",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,write - in,"Warner, Gerald L.",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,Democratic,"Obama, Barack",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,Libertarian,"Johnson, Gary",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,Reform,"Baldwin, Chuck",0,00008B
+SEWARD,Liberal Township 4 Exclave,President / Vice President,,Republican,"Romney, Mitt",0,00008B
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Ayers, Avery L",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Barnett, Andre",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Barr, Roseanne C",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Bush, Kent W",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Christensen, Will",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Duncan, Richard A",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Goode, Virgil",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Hoefling, Tom",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Knill, Dennis J",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Reed, Jill A.",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Rogers, Rick L",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Stein, Jill E",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Thorne, Kevin M",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,write - in,"Warner, Gerald L.",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,Democratic,"Obama, Barack",5,000090
+SEWARD,Liberal Township 5,President / Vice President,,Libertarian,"Johnson, Gary",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,Reform,"Baldwin, Chuck",0,000090
+SEWARD,Liberal Township 5,President / Vice President,,Republican,"Romney, Mitt",21,000090
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",105,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",2,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",0,000100
+SEWARD,Liberal Ward 1 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",162,000100
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",147,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",5,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",3,000110
+SEWARD,Liberal Ward 1 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",168,000110
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Ayers, Avery L",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Barnett, Andre",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Bush, Kent W",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Christensen, Will",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Duncan, Richard A",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Goode, Virgil",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Hoefling, Tom",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Knill, Dennis J",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Reed, Jill A.",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Rogers, Rick L",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Stein, Jill E",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,Democratic,"Obama, Barack",88,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,Libertarian,"Johnson, Gary",1,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000120
+SEWARD,Liberal Ward 1 Precinct 3,President / Vice President,,Republican,"Romney, Mitt",151,000120
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Ayers, Avery L",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Barnett, Andre",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Bush, Kent W",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Christensen, Will",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Duncan, Richard A",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Goode, Virgil",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Hoefling, Tom",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Knill, Dennis J",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Reed, Jill A.",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Rogers, Rick L",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Stein, Jill E",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000130
+SEWARD,Liberal Ward 2,President / Vice President,,Democratic,"Obama, Barack",87,000130
+SEWARD,Liberal Ward 2,President / Vice President,,Libertarian,"Johnson, Gary",6,000130
+SEWARD,Liberal Ward 2,President / Vice President,,Reform,"Baldwin, Chuck",2,000130
+SEWARD,Liberal Ward 2,President / Vice President,,Republican,"Romney, Mitt",198,000130
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Ayers, Avery L",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Barnett, Andre",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Bush, Kent W",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Christensen, Will",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Duncan, Richard A",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Goode, Virgil",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Hoefling, Tom",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Knill, Dennis J",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Reed, Jill A.",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Rogers, Rick L",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Stein, Jill E",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,Democratic,"Obama, Barack",88,000140
+SEWARD,Liberal Ward 3,President / Vice President,,Libertarian,"Johnson, Gary",9,000140
+SEWARD,Liberal Ward 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000140
+SEWARD,Liberal Ward 3,President / Vice President,,Republican,"Romney, Mitt",133,000140
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Ayers, Avery L",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Barnett, Andre",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Barr, Roseanne C",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Bush, Kent W",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Christensen, Will",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Duncan, Richard A",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Goode, Virgil",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Hoefling, Tom",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Knill, Dennis J",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Reed, Jill A.",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Rogers, Rick L",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Stein, Jill E",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Thorne, Kevin M",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,write - in,"Warner, Gerald L.",0,000150
+SEWARD,Liberal Ward 4,President / Vice President,,Democratic,"Obama, Barack",67,000150
+SEWARD,Liberal Ward 4,President / Vice President,,Libertarian,"Johnson, Gary",4,000150
+SEWARD,Liberal Ward 4,President / Vice President,,Reform,"Baldwin, Chuck",1,000150
+SEWARD,Liberal Ward 4,President / Vice President,,Republican,"Romney, Mitt",190,000150
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Ayers, Avery L",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Barnett, Andre",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Barr, Roseanne C",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Bush, Kent W",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Christensen, Will",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Duncan, Richard A",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Goode, Virgil",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Hoefling, Tom",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Knill, Dennis J",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Reed, Jill A.",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Rogers, Rick L",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Stein, Jill E",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Thorne, Kevin M",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,write - in,"Warner, Gerald L.",0,000160
+SEWARD,Liberal Ward 5,President / Vice President,,Democratic,"Obama, Barack",44,000160
+SEWARD,Liberal Ward 5,President / Vice President,,Libertarian,"Johnson, Gary",4,000160
+SEWARD,Liberal Ward 5,President / Vice President,,Reform,"Baldwin, Chuck",2,000160
+SEWARD,Liberal Ward 5,President / Vice President,,Republican,"Romney, Mitt",120,000160
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Ayers, Avery L",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Barnett, Andre",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Bush, Kent W",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Christensen, Will",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Duncan, Richard A",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Goode, Virgil",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Hoefling, Tom",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Knill, Dennis J",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Reed, Jill A.",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Rogers, Rick L",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Stein, Jill E",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,Democratic,"Obama, Barack",95,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,Libertarian,"Johnson, Gary",3,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,Reform,"Baldwin, Chuck",0,000170
+SEWARD,Liberal Ward 6 Precinct 1,President / Vice President,,Republican,"Romney, Mitt",371,000170
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Ayers, Avery L",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Barnett, Andre",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Bush, Kent W",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Christensen, Will",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Duncan, Richard A",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Goode, Virgil",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Hoefling, Tom",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Knill, Dennis J",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Reed, Jill A.",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Rogers, Rick L",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Stein, Jill E",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,Democratic,"Obama, Barack",75,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,Libertarian,"Johnson, Gary",2,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,Reform,"Baldwin, Chuck",0,000180
+SEWARD,Liberal Ward 6 Precinct 2,President / Vice President,,Republican,"Romney, Mitt",275,000180
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Ayers, Avery L",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Barnett, Andre",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Barr, Roseanne C",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Bush, Kent W",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Christensen, Will",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Duncan, Richard A",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Goode, Virgil",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Hoefling, Tom",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Knill, Dennis J",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Reed, Jill A.",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Rogers, Rick L",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Stein, Jill E",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Thorne, Kevin M",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000190
+SEWARD,Seward Township 1,President / Vice President,,write - in,"Warner, Gerald L.",0,000190
+SEWARD,Seward Township 1,President / Vice President,,Democratic,"Obama, Barack",4,000190
+SEWARD,Seward Township 1,President / Vice President,,Libertarian,"Johnson, Gary",1,000190
+SEWARD,Seward Township 1,President / Vice President,,Reform,"Baldwin, Chuck",0,000190
+SEWARD,Seward Township 1,President / Vice President,,Republican,"Romney, Mitt",21,000190
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Ayers, Avery L",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Barnett, Andre",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Barr, Roseanne C",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Bush, Kent W",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Christensen, Will",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Duncan, Richard A",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Goode, Virgil",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Hoefling, Tom",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Knill, Dennis J",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Reed, Jill A.",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Rogers, Rick L",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Stein, Jill E",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Thorne, Kevin M",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000200
+SEWARD,Seward Township 2,President / Vice President,,write - in,"Warner, Gerald L.",0,000200
+SEWARD,Seward Township 2,President / Vice President,,Democratic,"Obama, Barack",3,000200
+SEWARD,Seward Township 2,President / Vice President,,Libertarian,"Johnson, Gary",0,000200
+SEWARD,Seward Township 2,President / Vice President,,Reform,"Baldwin, Chuck",0,000200
+SEWARD,Seward Township 2,President / Vice President,,Republican,"Romney, Mitt",16,000200
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Ayers, Avery L",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Barnett, Andre",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Barr, Roseanne C",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Bush, Kent W",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Christensen, Will",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Duncan, Richard A",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Goode, Virgil",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Hoefling, Tom",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Knill, Dennis J",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Reed, Jill A.",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Rogers, Rick L",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Stein, Jill E",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Thorne, Kevin M",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,000210
+SEWARD,Seward Township 3,President / Vice President,,write - in,"Warner, Gerald L.",0,000210
+SEWARD,Seward Township 3,President / Vice President,,Democratic,"Obama, Barack",0,000210
+SEWARD,Seward Township 3,President / Vice President,,Libertarian,"Johnson, Gary",0,000210
+SEWARD,Seward Township 3,President / Vice President,,Reform,"Baldwin, Chuck",0,000210
+SEWARD,Seward Township 3,President / Vice President,,Republican,"Romney, Mitt",17,000210
+SEWARD,Kismet City,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Ayers, Avery L",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Barnett, Andre",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Barr, Roseanne C",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Bush, Kent W",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Christensen, Will",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Duncan, Richard A",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Goode, Virgil",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Hoefling, Tom",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Knill, Dennis J",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Reed, Jill A.",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Rogers, Rick L",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Stein, Jill E",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Thorne, Kevin M",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,300010
+SEWARD,Kismet City,President / Vice President,,write - in,"Warner, Gerald L.",0,300010
+SEWARD,Kismet City,President / Vice President,,Democratic,"Obama, Barack",19,300010
+SEWARD,Kismet City,President / Vice President,,Libertarian,"Johnson, Gary",1,300010
+SEWARD,Kismet City,President / Vice President,,Reform,"Baldwin, Chuck",1,300010
+SEWARD,Kismet City,President / Vice President,,Republican,"Romney, Mitt",98,300010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Ayers, Avery L",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Barnett, Andre",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Barr, Roseanne C",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Bush, Kent W",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Christensen, Will",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Duncan, Richard A",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Goode, Virgil",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Hoefling, Tom",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Knill, Dennis J",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Reed, Jill A.",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Rogers, Rick L",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Stein, Jill E",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Thorne, Kevin M",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,write - in,"Warner, Gerald L.",0,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,Democratic,"Obama, Barack",517,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,Libertarian,"Johnson, Gary",13,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,Reform,"Baldwin, Chuck",3,900010
+SEWARD,ADVANCE VOTES,President / Vice President,,Republican,"Romney, Mitt",1333,900010
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Anderson, Ross ""Rocky"" C",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Ayers, Avery L",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Barnett, Andre",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Barr, Roseanne C",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Bush, Kent W",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Christensen, Will",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Duncan, Richard A",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Goode, Virgil",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Hoefling, Tom",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Knill, Dennis J",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Reed, Jill A.",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Rogers, Rick L",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Stein, Jill E",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Thorne, Kevin M",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Tittle, Sheila and/or Samm",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,write - in,"Warner, Gerald L.",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,Democratic,"Obama, Barack",97,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,Libertarian,"Johnson, Gary",2,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,Reform,"Baldwin, Chuck",0,900020
+SEWARD,PROVISIONAL VOTES,President / Vice President,,Republican,"Romney, Mitt",122,900020
+SEWARD,Fargo Township 1,U.S. House,1,Republican,"Huelskamp, Tim",29,000010
+SEWARD,Fargo Township 2,U.S. House,1,Republican,"Huelskamp, Tim",24,000020
+SEWARD,Fargo Township 3,U.S. House,1,Republican,"Huelskamp, Tim",20,000030
+SEWARD,Fargo Township 4,U.S. House,1,Republican,"Huelskamp, Tim",48,000040
+SEWARD,Liberal Township 1,U.S. House,1,Republican,"Huelskamp, Tim",39,00005A
+SEWARD,Liberal Township 1 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00005B
+SEWARD,Liberal Township 2,U.S. House,1,Republican,"Huelskamp, Tim",22,000060
+SEWARD,Liberal Township 3,U.S. House,1,Republican,"Huelskamp, Tim",30,000070
+SEWARD,Liberal Township 4,U.S. House,1,Republican,"Huelskamp, Tim",20,00008A
+SEWARD,Liberal Township 4 Exclave,U.S. House,1,Republican,"Huelskamp, Tim",0,00008B
+SEWARD,Liberal Township 5,U.S. House,1,Republican,"Huelskamp, Tim",24,000090
+SEWARD,Liberal Ward 1 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",200,000100
+SEWARD,Liberal Ward 1 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",228,000110
+SEWARD,Liberal Ward 1 Precinct 3,U.S. House,1,Republican,"Huelskamp, Tim",181,000120
+SEWARD,Liberal Ward 2,U.S. House,1,Republican,"Huelskamp, Tim",228,000130
+SEWARD,Liberal Ward 3,U.S. House,1,Republican,"Huelskamp, Tim",156,000140
+SEWARD,Liberal Ward 4,U.S. House,1,Republican,"Huelskamp, Tim",216,000150
+SEWARD,Liberal Ward 5,U.S. House,1,Republican,"Huelskamp, Tim",142,000160
+SEWARD,Liberal Ward 6 Precinct 1,U.S. House,1,Republican,"Huelskamp, Tim",390,000170
+SEWARD,Liberal Ward 6 Precinct 2,U.S. House,1,Republican,"Huelskamp, Tim",298,000180
+SEWARD,Seward Township 1,U.S. House,1,Republican,"Huelskamp, Tim",23,000190
+SEWARD,Seward Township 2,U.S. House,1,Republican,"Huelskamp, Tim",18,000200
+SEWARD,Seward Township 3,U.S. House,1,Republican,"Huelskamp, Tim",16,000210
+SEWARD,Kismet City,U.S. House,1,Republican,"Huelskamp, Tim",102,300010
+SEWARD,ADVANCE VOTES,U.S. House,1,Republican,"Huelskamp, Tim",1411,900010
+SEWARD,PROVISIONAL VOTES,U.S. House,1,Republican,"Huelskamp, Tim",165,900020
