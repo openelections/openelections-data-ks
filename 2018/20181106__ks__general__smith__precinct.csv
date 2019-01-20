@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,votes,vtd
+SMITH,Banner Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000010
+SMITH,Banner Township,Attorney General,,Republican,"Schmidt, Derek",24,000010
+SMITH,Beaver Township,Attorney General,,Democratic,"Swain, Sarah G.",0,000020
+SMITH,Beaver Township,Attorney General,,Republican,"Schmidt, Derek",22,000020
+SMITH,Blaine Township,Attorney General,,Democratic,"Swain, Sarah G.",0,000030
+SMITH,Blaine Township,Attorney General,,Republican,"Schmidt, Derek",19,000030
+SMITH,Cedar Township,Attorney General,,Democratic,"Swain, Sarah G.",37,000040
+SMITH,Cedar Township,Attorney General,,Republican,"Schmidt, Derek",167,000040
+SMITH,Cora Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000070
+SMITH,Cora Township,Attorney General,,Republican,"Schmidt, Derek",11,000070
+SMITH,Crystal Plains Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000080
+SMITH,Crystal Plains Township,Attorney General,,Republican,"Schmidt, Derek",13,000080
+SMITH,Dor Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000090
+SMITH,Dor Township,Attorney General,,Republican,"Schmidt, Derek",14,000090
+SMITH,Garfield Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000100
+SMITH,Garfield Township,Attorney General,,Republican,"Schmidt, Derek",15,000100
+SMITH,German Township,Attorney General,,Democratic,"Swain, Sarah G.",4,000110
+SMITH,German Township,Attorney General,,Republican,"Schmidt, Derek",8,000110
+SMITH,Harlan Township,Attorney General,,Democratic,"Swain, Sarah G.",7,000120
+SMITH,Harlan Township,Attorney General,,Republican,"Schmidt, Derek",35,000120
+SMITH,Harvey Township,Attorney General,,Democratic,"Swain, Sarah G.",8,000130
+SMITH,Harvey Township,Attorney General,,Republican,"Schmidt, Derek",45,000130
+SMITH,Houston Township,Attorney General,,Democratic,"Swain, Sarah G.",8,000140
+SMITH,Houston Township,Attorney General,,Republican,"Schmidt, Derek",45,000140
+SMITH,Lane Township,Attorney General,,Democratic,"Swain, Sarah G.",14,000150
+SMITH,Lane Township,Attorney General,,Republican,"Schmidt, Derek",32,000150
+SMITH,Lincoln Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000160
+SMITH,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",34,000160
+SMITH,Logan Township,Attorney General,,Democratic,"Swain, Sarah G.",6,000170
+SMITH,Logan Township,Attorney General,,Republican,"Schmidt, Derek",8,000170
+SMITH,Martin Township,Attorney General,,Democratic,"Swain, Sarah G.",0,000180
+SMITH,Martin Township,Attorney General,,Republican,"Schmidt, Derek",7,000180
+SMITH,Pawnee Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000210
+SMITH,Pawnee Township,Attorney General,,Republican,"Schmidt, Derek",8,000210
+SMITH,Pleasant Township,Attorney General,,Democratic,"Swain, Sarah G.",4,000220
+SMITH,Pleasant Township,Attorney General,,Republican,"Schmidt, Derek",13,000220
+SMITH,Swan Township,Attorney General,,Democratic,"Swain, Sarah G.",4,000230
+SMITH,Swan Township,Attorney General,,Republican,"Schmidt, Derek",10,000230
+SMITH,Valley Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000240
+SMITH,Valley Township,Attorney General,,Republican,"Schmidt, Derek",21,000240
+SMITH,Washington Township,Attorney General,,Democratic,"Swain, Sarah G.",1,000250
+SMITH,Washington Township,Attorney General,,Republican,"Schmidt, Derek",18,000250
+SMITH,Webster Township,Attorney General,,Democratic,"Swain, Sarah G.",4,000260
+SMITH,Webster Township,Attorney General,,Republican,"Schmidt, Derek",21,000260
+SMITH,White Rock Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000270
+SMITH,White Rock Township,Attorney General,,Republican,"Schmidt, Derek",20,000270
+SMITH,Oak Township,Attorney General,,Democratic,"Swain, Sarah G.",20,130010
+SMITH,Oak Township,Attorney General,,Republican,"Schmidt, Derek",89,130010
+SMITH,Center 1,Attorney General,,Democratic,"Swain, Sarah G.",49,140010
+SMITH,Center 1,Attorney General,,Republican,"Schmidt, Derek",196,140010
+SMITH,Center 2,Attorney General,,Democratic,"Swain, Sarah G.",55,140020
+SMITH,Center 2,Attorney General,,Republican,"Schmidt, Derek",214,140020
+SMITH,Center 3,Attorney General,,Democratic,"Swain, Sarah G.",20,140030
+SMITH,Center 3,Attorney General,,Republican,"Schmidt, Derek",164,140030
+SMITH,Center 4,Attorney General,,Democratic,"Swain, Sarah G.",7,140040
+SMITH,Center 4,Attorney General,,Republican,"Schmidt, Derek",51,140040
+SMITH,Banner Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000010
+SMITH,Banner Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000010
+SMITH,Banner Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",4,000010
+SMITH,Banner Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000010
+SMITH,Banner Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",22,000010
+SMITH,Beaver Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000020
+SMITH,Beaver Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000020
+SMITH,Beaver Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,000020
+SMITH,Beaver Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000020
+SMITH,Beaver Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",20,000020
+SMITH,Blaine Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000030
+SMITH,Blaine Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000030
+SMITH,Blaine Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",1,000030
+SMITH,Blaine Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000030
+SMITH,Blaine Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",18,000030
+SMITH,Cedar Township,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000040
+SMITH,Cedar Township,Governor / Lt. Governor,,independent,"Orman, Greg",10,000040
+SMITH,Cedar Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",59,000040
+SMITH,Cedar Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000040
+SMITH,Cedar Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",129,000040
+SMITH,Cora Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000070
+SMITH,Cora Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000070
+SMITH,Cora Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,000070
+SMITH,Cora Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000070
+SMITH,Cora Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",9,000070
+SMITH,Crystal Plains Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000080
+SMITH,Crystal Plains Township,Governor / Lt. Governor,,independent,"Orman, Greg",1,000080
+SMITH,Crystal Plains Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",3,000080
+SMITH,Crystal Plains Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000080
+SMITH,Crystal Plains Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",12,000080
+SMITH,Dor Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000090
+SMITH,Dor Township,Governor / Lt. Governor,,independent,"Orman, Greg",1,000090
+SMITH,Dor Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000090
+SMITH,Dor Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000090
+SMITH,Dor Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,000090
+SMITH,Garfield Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000100
+SMITH,Garfield Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000100
+SMITH,Garfield Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",1,000100
+SMITH,Garfield Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000100
+SMITH,Garfield Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",15,000100
+SMITH,German Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000110
+SMITH,German Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000110
+SMITH,German Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",7,000110
+SMITH,German Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000110
+SMITH,German Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",4,000110
+SMITH,Harlan Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000120
+SMITH,Harlan Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000120
+SMITH,Harlan Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",9,000120
+SMITH,Harlan Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000120
+SMITH,Harlan Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",29,000120
+SMITH,Harvey Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000130
+SMITH,Harvey Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000130
+SMITH,Harvey Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,000130
+SMITH,Harvey Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000130
+SMITH,Harvey Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",41,000130
+SMITH,Houston Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000140
+SMITH,Houston Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000140
+SMITH,Houston Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",19,000140
+SMITH,Houston Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000140
+SMITH,Houston Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",32,000140
+SMITH,Lane Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000150
+SMITH,Lane Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000150
+SMITH,Lane Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",16,000150
+SMITH,Lane Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000150
+SMITH,Lane Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",28,000150
+SMITH,Lincoln Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000160
+SMITH,Lincoln Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000160
+SMITH,Lincoln Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,000160
+SMITH,Lincoln Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000160
+SMITH,Lincoln Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",22,000160
+SMITH,Logan Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000170
+SMITH,Logan Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000170
+SMITH,Logan Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000170
+SMITH,Logan Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000170
+SMITH,Logan Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",9,000170
+SMITH,Martin Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000180
+SMITH,Martin Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000180
+SMITH,Martin Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,000180
+SMITH,Martin Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000180
+SMITH,Martin Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",5,000180
+SMITH,Pawnee Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000210
+SMITH,Pawnee Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000210
+SMITH,Pawnee Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",3,000210
+SMITH,Pawnee Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000210
+SMITH,Pawnee Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",6,000210
+SMITH,Pleasant Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000220
+SMITH,Pleasant Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000220
+SMITH,Pleasant Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",4,000220
+SMITH,Pleasant Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000220
+SMITH,Pleasant Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",10,000220
+SMITH,Swan Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000230
+SMITH,Swan Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000230
+SMITH,Swan Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000230
+SMITH,Swan Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000230
+SMITH,Swan Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",10,000230
+SMITH,Valley Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000240
+SMITH,Valley Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000240
+SMITH,Valley Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",6,000240
+SMITH,Valley Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000240
+SMITH,Valley Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",18,000240
+SMITH,Washington Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000250
+SMITH,Washington Township,Governor / Lt. Governor,,independent,"Orman, Greg",1,000250
+SMITH,Washington Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,000250
+SMITH,Washington Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000250
+SMITH,Washington Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",18,000250
+SMITH,Webster Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000260
+SMITH,Webster Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000260
+SMITH,Webster Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000260
+SMITH,Webster Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000260
+SMITH,Webster Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",20,000260
+SMITH,White Rock Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000270
+SMITH,White Rock Township,Governor / Lt. Governor,,independent,"Orman, Greg",0,000270
+SMITH,White Rock Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000270
+SMITH,White Rock Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000270
+SMITH,White Rock Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",18,000270
+SMITH,Oak Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,130010
+SMITH,Oak Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,130010
+SMITH,Oak Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",19,130010
+SMITH,Oak Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,130010
+SMITH,Oak Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",83,130010
+SMITH,Center 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,140010
+SMITH,Center 1,Governor / Lt. Governor,,independent,"Orman, Greg",19,140010
+SMITH,Center 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",62,140010
+SMITH,Center 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,140010
+SMITH,Center 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",161,140010
+SMITH,Center 2,Governor / Lt. Governor,,independent,"Kloos, Rick",3,140020
+SMITH,Center 2,Governor / Lt. Governor,,independent,"Orman, Greg",14,140020
+SMITH,Center 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",86,140020
+SMITH,Center 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",7,140020
+SMITH,Center 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",161,140020
+SMITH,Center 3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,140030
+SMITH,Center 3,Governor / Lt. Governor,,independent,"Orman, Greg",10,140030
+SMITH,Center 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",48,140030
+SMITH,Center 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,140030
+SMITH,Center 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",123,140030
+SMITH,Center 4,Governor / Lt. Governor,,independent,"Kloos, Rick",0,140040
+SMITH,Center 4,Governor / Lt. Governor,,independent,"Orman, Greg",2,140040
+SMITH,Center 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",16,140040
+SMITH,Center 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,140040
+SMITH,Center 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",38,140040
+SMITH,Banner Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000010
+SMITH,Banner Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",25,000010
+SMITH,Beaver Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,000020
+SMITH,Beaver Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",18,000020
+SMITH,Blaine Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,000030
+SMITH,Blaine Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",19,000030
+SMITH,Cedar Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",34,000040
+SMITH,Cedar Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",170,000040
+SMITH,Cora Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000070
+SMITH,Cora Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",10,000070
+SMITH,Crystal Plains Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000080
+SMITH,Crystal Plains Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",13,000080
+SMITH,Dor Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000090
+SMITH,Dor Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",15,000090
+SMITH,Garfield Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000100
+SMITH,Garfield Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",16,000100
+SMITH,German Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000110
+SMITH,German Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",8,000110
+SMITH,Harlan Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000120
+SMITH,Harlan Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",35,000120
+SMITH,Harvey Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000130
+SMITH,Harvey Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",51,000130
+SMITH,Houston Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000140
+SMITH,Houston Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",47,000140
+SMITH,Lane Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",11,000150
+SMITH,Lane Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",35,000150
+SMITH,Lincoln Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000160
+SMITH,Lincoln Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",34,000160
+SMITH,Logan Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000170
+SMITH,Logan Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",9,000170
+SMITH,Martin Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000180
+SMITH,Martin Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",6,000180
+SMITH,Pawnee Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000210
+SMITH,Pawnee Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",8,000210
+SMITH,Pleasant Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000220
+SMITH,Pleasant Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",13,000220
+SMITH,Swan Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000230
+SMITH,Swan Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",12,000230
+SMITH,Valley Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000240
+SMITH,Valley Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",23,000240
+SMITH,Washington Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000250
+SMITH,Washington Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",19,000250
+SMITH,Webster Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000260
+SMITH,Webster Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",23,000260
+SMITH,White Rock Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000270
+SMITH,White Rock Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",20,000270
+SMITH,Oak Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",13,130010
+SMITH,Oak Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",91,130010
+SMITH,Center 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",38,140010
+SMITH,Center 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",201,140010
+SMITH,Center 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",43,140020
+SMITH,Center 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",223,140020
+SMITH,Center 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",16,140030
+SMITH,Center 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",165,140030
+SMITH,Center 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",8,140040
+SMITH,Center 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",50,140040
+SMITH,Banner Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",4,000010
+SMITH,Banner Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000010
+SMITH,Banner Township,Secretary of State,,Republican,"Schwab, Scott",24,000010
+SMITH,Beaver Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",1,000020
+SMITH,Beaver Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000020
+SMITH,Beaver Township,Secretary of State,,Republican,"Schwab, Scott",21,000020
+SMITH,Blaine Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,000030
+SMITH,Blaine Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000030
+SMITH,Blaine Township,Secretary of State,,Republican,"Schwab, Scott",19,000030
+SMITH,Cedar Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",45,000040
+SMITH,Cedar Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000040
+SMITH,Cedar Township,Secretary of State,,Republican,"Schwab, Scott",156,000040
+SMITH,Cora Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,000070
+SMITH,Cora Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000070
+SMITH,Cora Township,Secretary of State,,Republican,"Schwab, Scott",10,000070
+SMITH,Crystal Plains Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,000080
+SMITH,Crystal Plains Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000080
+SMITH,Crystal Plains Township,Secretary of State,,Republican,"Schwab, Scott",12,000080
+SMITH,Dor Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",3,000090
+SMITH,Dor Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000090
+SMITH,Dor Township,Secretary of State,,Republican,"Schwab, Scott",15,000090
+SMITH,Garfield Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,000100
+SMITH,Garfield Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000100
+SMITH,Garfield Township,Secretary of State,,Republican,"Schwab, Scott",15,000100
+SMITH,German Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",7,000110
+SMITH,German Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000110
+SMITH,German Township,Secretary of State,,Republican,"Schwab, Scott",5,000110
+SMITH,Harlan Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000120
+SMITH,Harlan Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000120
+SMITH,Harlan Township,Secretary of State,,Republican,"Schwab, Scott",32,000120
+SMITH,Harvey Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000130
+SMITH,Harvey Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000130
+SMITH,Harvey Township,Secretary of State,,Republican,"Schwab, Scott",43,000130
+SMITH,Houston Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000140
+SMITH,Houston Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000140
+SMITH,Houston Township,Secretary of State,,Republican,"Schwab, Scott",41,000140
+SMITH,Lane Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",14,000150
+SMITH,Lane Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000150
+SMITH,Lane Township,Secretary of State,,Republican,"Schwab, Scott",29,000150
+SMITH,Lincoln Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000160
+SMITH,Lincoln Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000160
+SMITH,Lincoln Township,Secretary of State,,Republican,"Schwab, Scott",32,000160
+SMITH,Logan Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000170
+SMITH,Logan Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000170
+SMITH,Logan Township,Secretary of State,,Republican,"Schwab, Scott",7,000170
+SMITH,Martin Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",1,000180
+SMITH,Martin Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000180
+SMITH,Martin Township,Secretary of State,,Republican,"Schwab, Scott",5,000180
+SMITH,Pawnee Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,000210
+SMITH,Pawnee Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000210
+SMITH,Pawnee Township,Secretary of State,,Republican,"Schwab, Scott",8,000210
+SMITH,Pleasant Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000220
+SMITH,Pleasant Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000220
+SMITH,Pleasant Township,Secretary of State,,Republican,"Schwab, Scott",12,000220
+SMITH,Swan Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000230
+SMITH,Swan Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000230
+SMITH,Swan Township,Secretary of State,,Republican,"Schwab, Scott",9,000230
+SMITH,Valley Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,000240
+SMITH,Valley Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000240
+SMITH,Valley Township,Secretary of State,,Republican,"Schwab, Scott",21,000240
+SMITH,Washington Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",1,000250
+SMITH,Washington Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000250
+SMITH,Washington Township,Secretary of State,,Republican,"Schwab, Scott",18,000250
+SMITH,Webster Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",3,000260
+SMITH,Webster Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000260
+SMITH,Webster Township,Secretary of State,,Republican,"Schwab, Scott",23,000260
+SMITH,White Rock Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,000270
+SMITH,White Rock Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000270
+SMITH,White Rock Township,Secretary of State,,Republican,"Schwab, Scott",19,000270
+SMITH,Oak Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",18,130010
+SMITH,Oak Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,130010
+SMITH,Oak Township,Secretary of State,,Republican,"Schwab, Scott",85,130010
+SMITH,Center 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",49,140010
+SMITH,Center 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,140010
+SMITH,Center 1,Secretary of State,,Republican,"Schwab, Scott",188,140010
+SMITH,Center 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",66,140020
+SMITH,Center 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,140020
+SMITH,Center 2,Secretary of State,,Republican,"Schwab, Scott",198,140020
+SMITH,Center 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",24,140030
+SMITH,Center 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,140030
+SMITH,Center 3,Secretary of State,,Republican,"Schwab, Scott",156,140030
+SMITH,Center 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",9,140040
+SMITH,Center 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,140040
+SMITH,Center 4,Secretary of State,,Republican,"Schwab, Scott",45,140040
+SMITH,Banner Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",24,10
+SMITH,Beaver Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",22,20
+SMITH,Blaine Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",18,30
+SMITH,Cedar Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",193,40
+SMITH,Cora Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",11,70
+SMITH,Crystal Plains Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",14,80
+SMITH,Dor Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",17,90
+SMITH,Garfield Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",17,100
+SMITH,German Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",10,110
+SMITH,Harlan Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",37,120
+SMITH,Harvey Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",51,130
+SMITH,Houston Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",48,140
+SMITH,Lane Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",41,150
+SMITH,Lincoln Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",36,160
+SMITH,Logan Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",10,170
+SMITH,Martin Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",7,180
+SMITH,Pawnee Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",9,210
+SMITH,Pleasant Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",15,220
+SMITH,Swan Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",10,230
+SMITH,Valley Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",23,240
+SMITH,Washington Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",19,250
+SMITH,Webster Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",24,260
+SMITH,White Rock Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",21,270
+SMITH,Oak Township,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",102,130010
+SMITH,Center 1,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",222,140010
+SMITH,Center 2,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",245,140020
+SMITH,Center 3,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",174,140030
+SMITH,Center 4,Kansas House of Representatives,109,Republican,"Waymaster, Troy L.",55,140040
+SMITH,Banner Township,State Treasurer,,Democratic,"Francisco, Marci",3,000010
+SMITH,Banner Township,State Treasurer,,Republican,"LaTurner, Jake",24,000010
+SMITH,Beaver Township,State Treasurer,,Democratic,"Francisco, Marci",0,000020
+SMITH,Beaver Township,State Treasurer,,Republican,"LaTurner, Jake",21,000020
+SMITH,Blaine Township,State Treasurer,,Democratic,"Francisco, Marci",0,000030
+SMITH,Blaine Township,State Treasurer,,Republican,"LaTurner, Jake",19,000030
+SMITH,Cedar Township,State Treasurer,,Democratic,"Francisco, Marci",37,000040
+SMITH,Cedar Township,State Treasurer,,Republican,"LaTurner, Jake",168,000040
+SMITH,Cora Township,State Treasurer,,Democratic,"Francisco, Marci",2,000070
+SMITH,Cora Township,State Treasurer,,Republican,"LaTurner, Jake",11,000070
+SMITH,Crystal Plains Township,State Treasurer,,Democratic,"Francisco, Marci",2,000080
+SMITH,Crystal Plains Township,State Treasurer,,Republican,"LaTurner, Jake",13,000080
+SMITH,Dor Township,State Treasurer,,Democratic,"Francisco, Marci",4,000090
+SMITH,Dor Township,State Treasurer,,Republican,"LaTurner, Jake",15,000090
+SMITH,Garfield Township,State Treasurer,,Democratic,"Francisco, Marci",2,000100
+SMITH,Garfield Township,State Treasurer,,Republican,"LaTurner, Jake",15,000100
+SMITH,German Township,State Treasurer,,Democratic,"Francisco, Marci",5,000110
+SMITH,German Township,State Treasurer,,Republican,"LaTurner, Jake",7,000110
+SMITH,Harlan Township,State Treasurer,,Democratic,"Francisco, Marci",8,000120
+SMITH,Harlan Township,State Treasurer,,Republican,"LaTurner, Jake",34,000120
+SMITH,Harvey Township,State Treasurer,,Democratic,"Francisco, Marci",8,000130
+SMITH,Harvey Township,State Treasurer,,Republican,"LaTurner, Jake",46,000130
+SMITH,Houston Township,State Treasurer,,Democratic,"Francisco, Marci",9,000140
+SMITH,Houston Township,State Treasurer,,Republican,"LaTurner, Jake",44,000140
+SMITH,Lane Township,State Treasurer,,Democratic,"Francisco, Marci",12,000150
+SMITH,Lane Township,State Treasurer,,Republican,"LaTurner, Jake",34,000150
+SMITH,Lincoln Township,State Treasurer,,Democratic,"Francisco, Marci",4,000160
+SMITH,Lincoln Township,State Treasurer,,Republican,"LaTurner, Jake",33,000160
+SMITH,Logan Township,State Treasurer,,Democratic,"Francisco, Marci",5,000170
+SMITH,Logan Township,State Treasurer,,Republican,"LaTurner, Jake",9,000170
+SMITH,Martin Township,State Treasurer,,Democratic,"Francisco, Marci",0,000180
+SMITH,Martin Township,State Treasurer,,Republican,"LaTurner, Jake",7,000180
+SMITH,Pawnee Township,State Treasurer,,Democratic,"Francisco, Marci",2,000210
+SMITH,Pawnee Township,State Treasurer,,Republican,"LaTurner, Jake",8,000210
+SMITH,Pleasant Township,State Treasurer,,Democratic,"Francisco, Marci",5,000220
+SMITH,Pleasant Township,State Treasurer,,Republican,"LaTurner, Jake",12,000220
+SMITH,Swan Township,State Treasurer,,Democratic,"Francisco, Marci",5,000230
+SMITH,Swan Township,State Treasurer,,Republican,"LaTurner, Jake",10,000230
+SMITH,Valley Township,State Treasurer,,Democratic,"Francisco, Marci",5,000240
+SMITH,Valley Township,State Treasurer,,Republican,"LaTurner, Jake",22,000240
+SMITH,Washington Township,State Treasurer,,Democratic,"Francisco, Marci",2,000250
+SMITH,Washington Township,State Treasurer,,Republican,"LaTurner, Jake",18,000250
+SMITH,Webster Township,State Treasurer,,Democratic,"Francisco, Marci",3,000260
+SMITH,Webster Township,State Treasurer,,Republican,"LaTurner, Jake",24,000260
+SMITH,White Rock Township,State Treasurer,,Democratic,"Francisco, Marci",3,000270
+SMITH,White Rock Township,State Treasurer,,Republican,"LaTurner, Jake",19,000270
+SMITH,Oak Township,State Treasurer,,Democratic,"Francisco, Marci",13,130010
+SMITH,Oak Township,State Treasurer,,Republican,"LaTurner, Jake",96,130010
+SMITH,Center 1,State Treasurer,,Democratic,"Francisco, Marci",46,140010
+SMITH,Center 1,State Treasurer,,Republican,"LaTurner, Jake",197,140010
+SMITH,Center 2,State Treasurer,,Democratic,"Francisco, Marci",58,140020
+SMITH,Center 2,State Treasurer,,Republican,"LaTurner, Jake",211,140020
+SMITH,Center 3,State Treasurer,,Democratic,"Francisco, Marci",19,140030
+SMITH,Center 3,State Treasurer,,Republican,"LaTurner, Jake",162,140030
+SMITH,Center 4,State Treasurer,,Democratic,"Francisco, Marci",7,140040
+SMITH,Center 4,State Treasurer,,Republican,"LaTurner, Jake",51,140040
+SMITH,Banner Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",4,000010
+SMITH,Banner Township,United States House of Representatives,1,Republican,"Marshall, Roger",24,000010
+SMITH,Beaver Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,000020
+SMITH,Beaver Township,United States House of Representatives,1,Republican,"Marshall, Roger",21,000020
+SMITH,Blaine Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,000030
+SMITH,Blaine Township,United States House of Representatives,1,Republican,"Marshall, Roger",19,000030
+SMITH,Cedar Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",44,000040
+SMITH,Cedar Township,United States House of Representatives,1,Republican,"Marshall, Roger",162,000040
+SMITH,Cora Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,000070
+SMITH,Cora Township,United States House of Representatives,1,Republican,"Marshall, Roger",11,000070
+SMITH,Crystal Plains Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,000080
+SMITH,Crystal Plains Township,United States House of Representatives,1,Republican,"Marshall, Roger",14,000080
+SMITH,Dor Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",4,000090
+SMITH,Dor Township,United States House of Representatives,1,Republican,"Marshall, Roger",15,000090
+SMITH,Garfield Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",1,000100
+SMITH,Garfield Township,United States House of Representatives,1,Republican,"Marshall, Roger",16,000100
+SMITH,German Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",5,000110
+SMITH,German Township,United States House of Representatives,1,Republican,"Marshall, Roger",7,000110
+SMITH,Harlan Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",6,000120
+SMITH,Harlan Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000120
+SMITH,Harvey Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",7,000130
+SMITH,Harvey Township,United States House of Representatives,1,Republican,"Marshall, Roger",47,000130
+SMITH,Houston Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",12,000140
+SMITH,Houston Township,United States House of Representatives,1,Republican,"Marshall, Roger",41,000140
+SMITH,Lane Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",11,000150
+SMITH,Lane Township,United States House of Representatives,1,Republican,"Marshall, Roger",33,000150
+SMITH,Lincoln Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",3,000160
+SMITH,Lincoln Township,United States House of Representatives,1,Republican,"Marshall, Roger",34,000160
+SMITH,Logan Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",5,000170
+SMITH,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",9,000170
+SMITH,Martin Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,000180
+SMITH,Martin Township,United States House of Representatives,1,Republican,"Marshall, Roger",7,000180
+SMITH,Pawnee Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,000210
+SMITH,Pawnee Township,United States House of Representatives,1,Republican,"Marshall, Roger",8,000210
+SMITH,Pleasant Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",5,000220
+SMITH,Pleasant Township,United States House of Representatives,1,Republican,"Marshall, Roger",12,000220
+SMITH,Swan Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",4,000230
+SMITH,Swan Township,United States House of Representatives,1,Republican,"Marshall, Roger",11,000230
+SMITH,Valley Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",6,000240
+SMITH,Valley Township,United States House of Representatives,1,Republican,"Marshall, Roger",21,000240
+SMITH,Washington Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,000250
+SMITH,Washington Township,United States House of Representatives,1,Republican,"Marshall, Roger",19,000250
+SMITH,Webster Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",6,000260
+SMITH,Webster Township,United States House of Representatives,1,Republican,"Marshall, Roger",21,000260
+SMITH,White Rock Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",1,000270
+SMITH,White Rock Township,United States House of Representatives,1,Republican,"Marshall, Roger",22,000270
+SMITH,Oak Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",18,130010
+SMITH,Oak Township,United States House of Representatives,1,Republican,"Marshall, Roger",89,130010
+SMITH,Center 1,United States House of Representatives,1,Democratic,"LaPolice, Alan",53,140010
+SMITH,Center 1,United States House of Representatives,1,Republican,"Marshall, Roger",189,140010
+SMITH,Center 2,United States House of Representatives,1,Democratic,"LaPolice, Alan",68,140020
+SMITH,Center 2,United States House of Representatives,1,Republican,"Marshall, Roger",200,140020
+SMITH,Center 3,United States House of Representatives,1,Democratic,"LaPolice, Alan",23,140030
+SMITH,Center 3,United States House of Representatives,1,Republican,"Marshall, Roger",157,140030
+SMITH,Center 4,United States House of Representatives,1,Democratic,"LaPolice, Alan",12,140040
+SMITH,Center 4,United States House of Representatives,1,Republican,"Marshall, Roger",45,140040

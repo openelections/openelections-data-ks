@@ -1,0 +1,764 @@
+county,precinct,office,district,party,candidate,votes,vtd
+FINNEY,Friend Township,Attorney General,,Democratic,"Swain, Sarah G.",8,000010
+FINNEY,Friend Township,Attorney General,,Republican,"Schmidt, Derek",41,000010
+FINNEY,Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",197,000030
+FINNEY,Ward 2,Attorney General,,Republican,"Schmidt, Derek",128,000030
+FINNEY,Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",166,000040
+FINNEY,Ward 3,Attorney General,,Republican,"Schmidt, Derek",225,000040
+FINNEY,Ward 5,Attorney General,,Democratic,"Swain, Sarah G.",91,000060
+FINNEY,Ward 5,Attorney General,,Republican,"Schmidt, Derek",178,000060
+FINNEY,Ward 7,Attorney General,,Democratic,"Swain, Sarah G.",128,000080
+FINNEY,Ward 7,Attorney General,,Republican,"Schmidt, Derek",146,000080
+FINNEY,Ward 9,Attorney General,,Democratic,"Swain, Sarah G.",167,000100
+FINNEY,Ward 9,Attorney General,,Republican,"Schmidt, Derek",147,000100
+FINNEY,Ward 10,Attorney General,,Democratic,"Swain, Sarah G.",127,000110
+FINNEY,Ward 10,Attorney General,,Republican,"Schmidt, Derek",180,000110
+FINNEY,Ward 11,Attorney General,,Democratic,"Swain, Sarah G.",135,000120
+FINNEY,Ward 11,Attorney General,,Republican,"Schmidt, Derek",294,000120
+FINNEY,Ward 12,Attorney General,,Democratic,"Swain, Sarah G.",123,000130
+FINNEY,Ward 12,Attorney General,,Republican,"Schmidt, Derek",385,000130
+FINNEY,Ward 13,Attorney General,,Democratic,"Swain, Sarah G.",88,000140
+FINNEY,Ward 13,Attorney General,,Republican,"Schmidt, Derek",306,000140
+FINNEY,Ward 16,Attorney General,,Democratic,"Swain, Sarah G.",134,000170
+FINNEY,Ward 16,Attorney General,,Republican,"Schmidt, Derek",327,000170
+FINNEY,Holcomb,Attorney General,,Democratic,"Swain, Sarah G.",169,000190
+FINNEY,Holcomb,Attorney General,,Republican,"Schmidt, Derek",547,000190
+FINNEY,Huffman,Attorney General,,Democratic,"Swain, Sarah G.",82,000200
+FINNEY,Huffman,Attorney General,,Republican,"Schmidt, Derek",132,000200
+FINNEY,Kalvesta,Attorney General,,Democratic,"Swain, Sarah G.",4,000220
+FINNEY,Kalvesta,Attorney General,,Republican,"Schmidt, Derek",39,000220
+FINNEY,Pleasant Valley,Attorney General,,Democratic,"Swain, Sarah G.",1,000250
+FINNEY,Pleasant Valley,Attorney General,,Republican,"Schmidt, Derek",62,000250
+FINNEY,Plymell,Attorney General,,Democratic,"Swain, Sarah G.",26,000260
+FINNEY,Plymell,Attorney General,,Republican,"Schmidt, Derek",108,000260
+FINNEY,Theoni,Attorney General,,Democratic,"Swain, Sarah G.",6,000280
+FINNEY,Theoni,Attorney General,,Republican,"Schmidt, Derek",52,000280
+FINNEY,Ward 14 123.1,Attorney General,,Democratic,"Swain, Sarah G.",107,180010
+FINNEY,Ward 14 123.1,Attorney General,,Republican,"Schmidt, Derek",150,180010
+FINNEY,Ward 14 122.1,Attorney General,,Democratic,"Swain, Sarah G.",45,180020
+FINNEY,Ward 14 122.1,Attorney General,,Republican,"Schmidt, Derek",103,180020
+FINNEY,Ward 15 123.1,Attorney General,,Democratic,"Swain, Sarah G.",98,180030
+FINNEY,Ward 15 123.1,Attorney General,,Republican,"Schmidt, Derek",190,180030
+FINNEY,Ward 15 122.1,Attorney General,,Democratic,"Swain, Sarah G.",67,180040
+FINNEY,Ward 15 122.1,Attorney General,,Republican,"Schmidt, Derek",169,180040
+FINNEY,Ward 1 123.1,Attorney General,,Democratic,"Swain, Sarah G.",142,180050
+FINNEY,Ward 1 123.1,Attorney General,,Republican,"Schmidt, Derek",76,180050
+FINNEY,Ward 1 122.1,Attorney General,,Democratic,"Swain, Sarah G.",0,180060
+FINNEY,Ward 1 122.1,Attorney General,,Republican,"Schmidt, Derek",0,180060
+FINNEY,Ward 1 122.2,Attorney General,,Democratic,"Swain, Sarah G.",0,180070
+FINNEY,Ward 1 122.2,Attorney General,,Republican,"Schmidt, Derek",0,180070
+FINNEY,Ward 6 123.1,Attorney General,,Democratic,"Swain, Sarah G.",169,180080
+FINNEY,Ward 6 123.1,Attorney General,,Republican,"Schmidt, Derek",211,180080
+FINNEY,Ward 6 122.1,Attorney General,,Democratic,"Swain, Sarah G.",3,180090
+FINNEY,Ward 6 122.1,Attorney General,,Republican,"Schmidt, Derek",14,180090
+FINNEY,Ward 6 122.2,Attorney General,,Democratic,"Swain, Sarah G.",0,180100
+FINNEY,Ward 6 122.2,Attorney General,,Republican,"Schmidt, Derek",0,180100
+FINNEY,Ward 8 123.1,Attorney General,,Democratic,"Swain, Sarah G.",262,180110
+FINNEY,Ward 8 123.1,Attorney General,,Republican,"Schmidt, Derek",200,180110
+FINNEY,Ward 8 122.1,Attorney General,,Democratic,"Swain, Sarah G.",2,180120
+FINNEY,Ward 8 122.1,Attorney General,,Republican,"Schmidt, Derek",0,180120
+FINNEY,Ward 8 122.2,Attorney General,,Democratic,"Swain, Sarah G.",0,180130
+FINNEY,Ward 8 122.2,Attorney General,,Republican,"Schmidt, Derek",0,180130
+FINNEY,Jennie Barker 122.1,Attorney General,,Democratic,"Swain, Sarah G.",91,180140
+FINNEY,Jennie Barker 122.1,Attorney General,,Republican,"Schmidt, Derek",295,180140
+FINNEY,Jennie Barker 122.2,Attorney General,,Democratic,"Swain, Sarah G.",0,180150
+FINNEY,Jennie Barker 122.2,Attorney General,,Republican,"Schmidt, Derek",0,180150
+FINNEY,Jennie Barker 122.3,Attorney General,,Democratic,"Swain, Sarah G.",1,180160
+FINNEY,Jennie Barker 122.3,Attorney General,,Republican,"Schmidt, Derek",2,180160
+FINNEY,Jennie Barker 122.4,Attorney General,,Democratic,"Swain, Sarah G.",0,180170
+FINNEY,Jennie Barker 122.4,Attorney General,,Republican,"Schmidt, Derek",0,180170
+FINNEY,Jennie Barker 122.5,Attorney General,,Democratic,"Swain, Sarah G.",0,180180
+FINNEY,Jennie Barker 122.5,Attorney General,,Republican,"Schmidt, Derek",2,180180
+FINNEY,Jennie Barker 122.6,Attorney General,,Democratic,"Swain, Sarah G.",0,180190
+FINNEY,Jennie Barker 122.6,Attorney General,,Republican,"Schmidt, Derek",2,180190
+FINNEY,Jennie Barker 122.7,Attorney General,,Democratic,"Swain, Sarah G.",0,180200
+FINNEY,Jennie Barker 122.7,Attorney General,,Republican,"Schmidt, Derek",0,180200
+FINNEY,Mack 122.1,Attorney General,,Democratic,"Swain, Sarah G.",64,180210
+FINNEY,Mack 122.1,Attorney General,,Republican,"Schmidt, Derek",87,180210
+FINNEY,Mack 122.2,Attorney General,,Democratic,"Swain, Sarah G.",7,180220
+FINNEY,Mack 122.2,Attorney General,,Republican,"Schmidt, Derek",7,180220
+FINNEY,Mack 122.3,Attorney General,,Democratic,"Swain, Sarah G.",2,180230
+FINNEY,Mack 122.3,Attorney General,,Republican,"Schmidt, Derek",0,180230
+FINNEY,Ward 8 122.3,Attorney General,,Democratic,"Swain, Sarah G.",0,180240
+FINNEY,Ward 8 122.3,Attorney General,,Republican,"Schmidt, Derek",0,180240
+FINNEY,Ward 4,Attorney General,,Democratic,"Swain, Sarah G.",100,200020
+FINNEY,Ward 4,Attorney General,,Republican,"Schmidt, Derek",190,200020
+FINNEY,Pierceville,Attorney General,,Democratic,"Swain, Sarah G.",17,300010
+FINNEY,Pierceville,Attorney General,,Republican,"Schmidt, Derek",110,300010
+FINNEY,Riverside,Attorney General,,Democratic,"Swain, Sarah G.",104,300020
+FINNEY,Riverside,Attorney General,,Republican,"Schmidt, Derek",408,300020
+FINNEY,Friend Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
+FINNEY,Friend Township,Governor / Lt. Governor,,independent,"Orman, Greg",11,000010
+FINNEY,Friend Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000010
+FINNEY,Friend Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000010
+FINNEY,Friend Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",34,000010
+FINNEY,Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000030
+FINNEY,Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",43,000030
+FINNEY,Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",195,000030
+FINNEY,Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",8,000030
+FINNEY,Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",87,000030
+FINNEY,Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000040
+FINNEY,Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",72,000040
+FINNEY,Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",172,000040
+FINNEY,Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",11,000040
+FINNEY,Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",147,000040
+FINNEY,Ward 5,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000060
+FINNEY,Ward 5,Governor / Lt. Governor,,independent,"Orman, Greg",45,000060
+FINNEY,Ward 5,Governor / Lt. Governor,,Democratic,"Kelly, Laura",120,000060
+FINNEY,Ward 5,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000060
+FINNEY,Ward 5,Governor / Lt. Governor,,Republican,"Kobach, Kris",112,000060
+FINNEY,Ward 7,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000080
+FINNEY,Ward 7,Governor / Lt. Governor,,independent,"Orman, Greg",44,000080
+FINNEY,Ward 7,Governor / Lt. Governor,,Democratic,"Kelly, Laura",137,000080
+FINNEY,Ward 7,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000080
+FINNEY,Ward 7,Governor / Lt. Governor,,Republican,"Kobach, Kris",91,000080
+FINNEY,Ward 9,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000100
+FINNEY,Ward 9,Governor / Lt. Governor,,independent,"Orman, Greg",51,000100
+FINNEY,Ward 9,Governor / Lt. Governor,,Democratic,"Kelly, Laura",167,000100
+FINNEY,Ward 9,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,000100
+FINNEY,Ward 9,Governor / Lt. Governor,,Republican,"Kobach, Kris",105,000100
+FINNEY,Ward 10,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000110
+FINNEY,Ward 10,Governor / Lt. Governor,,independent,"Orman, Greg",56,000110
+FINNEY,Ward 10,Governor / Lt. Governor,,Democratic,"Kelly, Laura",138,000110
+FINNEY,Ward 10,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000110
+FINNEY,Ward 10,Governor / Lt. Governor,,Republican,"Kobach, Kris",113,000110
+FINNEY,Ward 11,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000120
+FINNEY,Ward 11,Governor / Lt. Governor,,independent,"Orman, Greg",70,000120
+FINNEY,Ward 11,Governor / Lt. Governor,,Democratic,"Kelly, Laura",152,000120
+FINNEY,Ward 11,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000120
+FINNEY,Ward 11,Governor / Lt. Governor,,Republican,"Kobach, Kris",211,000120
+FINNEY,Ward 12,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000130
+FINNEY,Ward 12,Governor / Lt. Governor,,independent,"Orman, Greg",103,000130
+FINNEY,Ward 12,Governor / Lt. Governor,,Democratic,"Kelly, Laura",158,000130
+FINNEY,Ward 12,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000130
+FINNEY,Ward 12,Governor / Lt. Governor,,Republican,"Kobach, Kris",254,000130
+FINNEY,Ward 13,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000140
+FINNEY,Ward 13,Governor / Lt. Governor,,independent,"Orman, Greg",78,000140
+FINNEY,Ward 13,Governor / Lt. Governor,,Democratic,"Kelly, Laura",109,000140
+FINNEY,Ward 13,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000140
+FINNEY,Ward 13,Governor / Lt. Governor,,Republican,"Kobach, Kris",214,000140
+FINNEY,Ward 16,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000170
+FINNEY,Ward 16,Governor / Lt. Governor,,independent,"Orman, Greg",74,000170
+FINNEY,Ward 16,Governor / Lt. Governor,,Democratic,"Kelly, Laura",160,000170
+FINNEY,Ward 16,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000170
+FINNEY,Ward 16,Governor / Lt. Governor,,Republican,"Kobach, Kris",231,000170
+FINNEY,Holcomb,Governor / Lt. Governor,,independent,"Kloos, Rick",5,000190
+FINNEY,Holcomb,Governor / Lt. Governor,,independent,"Orman, Greg",125,000190
+FINNEY,Holcomb,Governor / Lt. Governor,,Democratic,"Kelly, Laura",178,000190
+FINNEY,Holcomb,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",16,000190
+FINNEY,Holcomb,Governor / Lt. Governor,,Republican,"Kobach, Kris",418,000190
+FINNEY,Huffman,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000200
+FINNEY,Huffman,Governor / Lt. Governor,,independent,"Orman, Greg",33,000200
+FINNEY,Huffman,Governor / Lt. Governor,,Democratic,"Kelly, Laura",84,000200
+FINNEY,Huffman,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000200
+FINNEY,Huffman,Governor / Lt. Governor,,Republican,"Kobach, Kris",100,000200
+FINNEY,Kalvesta,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000220
+FINNEY,Kalvesta,Governor / Lt. Governor,,independent,"Orman, Greg",3,000220
+FINNEY,Kalvesta,Governor / Lt. Governor,,Democratic,"Kelly, Laura",5,000220
+FINNEY,Kalvesta,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000220
+FINNEY,Kalvesta,Governor / Lt. Governor,,Republican,"Kobach, Kris",35,000220
+FINNEY,Pleasant Valley,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000250
+FINNEY,Pleasant Valley,Governor / Lt. Governor,,independent,"Orman, Greg",11,000250
+FINNEY,Pleasant Valley,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,000250
+FINNEY,Pleasant Valley,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000250
+FINNEY,Pleasant Valley,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000250
+FINNEY,Plymell,Governor / Lt. Governor,,independent,"Kloos, Rick",4,000260
+FINNEY,Plymell,Governor / Lt. Governor,,independent,"Orman, Greg",16,000260
+FINNEY,Plymell,Governor / Lt. Governor,,Democratic,"Kelly, Laura",26,000260
+FINNEY,Plymell,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000260
+FINNEY,Plymell,Governor / Lt. Governor,,Republican,"Kobach, Kris",92,000260
+FINNEY,Theoni,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000280
+FINNEY,Theoni,Governor / Lt. Governor,,independent,"Orman, Greg",4,000280
+FINNEY,Theoni,Governor / Lt. Governor,,Democratic,"Kelly, Laura",9,000280
+FINNEY,Theoni,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000280
+FINNEY,Theoni,Governor / Lt. Governor,,Republican,"Kobach, Kris",46,000280
+FINNEY,Ward 14 123.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180010
+FINNEY,Ward 14 123.1,Governor / Lt. Governor,,independent,"Orman, Greg",38,180010
+FINNEY,Ward 14 123.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",139,180010
+FINNEY,Ward 14 123.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,180010
+FINNEY,Ward 14 123.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",91,180010
+FINNEY,Ward 14 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180020
+FINNEY,Ward 14 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",20,180020
+FINNEY,Ward 14 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",56,180020
+FINNEY,Ward 14 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,180020
+FINNEY,Ward 14 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",72,180020
+FINNEY,Ward 15 123.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180030
+FINNEY,Ward 15 123.1,Governor / Lt. Governor,,independent,"Orman, Greg",60,180030
+FINNEY,Ward 15 123.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",104,180030
+FINNEY,Ward 15 123.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,180030
+FINNEY,Ward 15 123.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",128,180030
+FINNEY,Ward 15 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",1,180040
+FINNEY,Ward 15 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",39,180040
+FINNEY,Ward 15 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",77,180040
+FINNEY,Ward 15 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,180040
+FINNEY,Ward 15 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",126,180040
+FINNEY,Ward 1 123.1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,180050
+FINNEY,Ward 1 123.1,Governor / Lt. Governor,,independent,"Orman, Greg",36,180050
+FINNEY,Ward 1 123.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",128,180050
+FINNEY,Ward 1 123.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,180050
+FINNEY,Ward 1 123.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",55,180050
+FINNEY,Ward 1 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180060
+FINNEY,Ward 1 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",0,180060
+FINNEY,Ward 1 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180060
+FINNEY,Ward 1 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180060
+FINNEY,Ward 1 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180060
+FINNEY,Ward 1 122.2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180070
+FINNEY,Ward 1 122.2,Governor / Lt. Governor,,independent,"Orman, Greg",0,180070
+FINNEY,Ward 1 122.2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180070
+FINNEY,Ward 1 122.2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180070
+FINNEY,Ward 1 122.2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180070
+FINNEY,Ward 6 123.1,Governor / Lt. Governor,,independent,"Kloos, Rick",3,180080
+FINNEY,Ward 6 123.1,Governor / Lt. Governor,,independent,"Orman, Greg",73,180080
+FINNEY,Ward 6 123.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",178,180080
+FINNEY,Ward 6 123.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",7,180080
+FINNEY,Ward 6 123.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",132,180080
+FINNEY,Ward 6 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180090
+FINNEY,Ward 6 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",3,180090
+FINNEY,Ward 6 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,180090
+FINNEY,Ward 6 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,180090
+FINNEY,Ward 6 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",11,180090
+FINNEY,Ward 6 122.2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180100
+FINNEY,Ward 6 122.2,Governor / Lt. Governor,,independent,"Orman, Greg",0,180100
+FINNEY,Ward 6 122.2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180100
+FINNEY,Ward 6 122.2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180100
+FINNEY,Ward 6 122.2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180100
+FINNEY,Ward 8 123.1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,180110
+FINNEY,Ward 8 123.1,Governor / Lt. Governor,,independent,"Orman, Greg",83,180110
+FINNEY,Ward 8 123.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",252,180110
+FINNEY,Ward 8 123.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",8,180110
+FINNEY,Ward 8 123.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",133,180110
+FINNEY,Ward 8 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180120
+FINNEY,Ward 8 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",0,180120
+FINNEY,Ward 8 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,180120
+FINNEY,Ward 8 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180120
+FINNEY,Ward 8 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180120
+FINNEY,Ward 8 122.2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180130
+FINNEY,Ward 8 122.2,Governor / Lt. Governor,,independent,"Orman, Greg",0,180130
+FINNEY,Ward 8 122.2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180130
+FINNEY,Ward 8 122.2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180130
+FINNEY,Ward 8 122.2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180130
+FINNEY,Jennie Barker 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,180140
+FINNEY,Jennie Barker 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",72,180140
+FINNEY,Jennie Barker 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",98,180140
+FINNEY,Jennie Barker 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,180140
+FINNEY,Jennie Barker 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",216,180140
+FINNEY,Jennie Barker 122.2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180150
+FINNEY,Jennie Barker 122.2,Governor / Lt. Governor,,independent,"Orman, Greg",0,180150
+FINNEY,Jennie Barker 122.2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180150
+FINNEY,Jennie Barker 122.2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180150
+FINNEY,Jennie Barker 122.2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180150
+FINNEY,Jennie Barker 122.3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180160
+FINNEY,Jennie Barker 122.3,Governor / Lt. Governor,,independent,"Orman, Greg",1,180160
+FINNEY,Jennie Barker 122.3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",1,180160
+FINNEY,Jennie Barker 122.3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180160
+FINNEY,Jennie Barker 122.3,Governor / Lt. Governor,,Republican,"Kobach, Kris",1,180160
+FINNEY,Jennie Barker 122.4,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180170
+FINNEY,Jennie Barker 122.4,Governor / Lt. Governor,,independent,"Orman, Greg",0,180170
+FINNEY,Jennie Barker 122.4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180170
+FINNEY,Jennie Barker 122.4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180170
+FINNEY,Jennie Barker 122.4,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180170
+FINNEY,Jennie Barker 122.5,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180180
+FINNEY,Jennie Barker 122.5,Governor / Lt. Governor,,independent,"Orman, Greg",0,180180
+FINNEY,Jennie Barker 122.5,Governor / Lt. Governor,,Democratic,"Kelly, Laura",1,180180
+FINNEY,Jennie Barker 122.5,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180180
+FINNEY,Jennie Barker 122.5,Governor / Lt. Governor,,Republican,"Kobach, Kris",2,180180
+FINNEY,Jennie Barker 122.6,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180190
+FINNEY,Jennie Barker 122.6,Governor / Lt. Governor,,independent,"Orman, Greg",0,180190
+FINNEY,Jennie Barker 122.6,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180190
+FINNEY,Jennie Barker 122.6,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180190
+FINNEY,Jennie Barker 122.6,Governor / Lt. Governor,,Republican,"Kobach, Kris",2,180190
+FINNEY,Jennie Barker 122.7,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180200
+FINNEY,Jennie Barker 122.7,Governor / Lt. Governor,,independent,"Orman, Greg",0,180200
+FINNEY,Jennie Barker 122.7,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180200
+FINNEY,Jennie Barker 122.7,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180200
+FINNEY,Jennie Barker 122.7,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180200
+FINNEY,Mack 122.1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,180210
+FINNEY,Mack 122.1,Governor / Lt. Governor,,independent,"Orman, Greg",26,180210
+FINNEY,Mack 122.1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",56,180210
+FINNEY,Mack 122.1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,180210
+FINNEY,Mack 122.1,Governor / Lt. Governor,,Republican,"Kobach, Kris",62,180210
+FINNEY,Mack 122.2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180220
+FINNEY,Mack 122.2,Governor / Lt. Governor,,independent,"Orman, Greg",2,180220
+FINNEY,Mack 122.2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",7,180220
+FINNEY,Mack 122.2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180220
+FINNEY,Mack 122.2,Governor / Lt. Governor,,Republican,"Kobach, Kris",4,180220
+FINNEY,Mack 122.3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180230
+FINNEY,Mack 122.3,Governor / Lt. Governor,,independent,"Orman, Greg",0,180230
+FINNEY,Mack 122.3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",2,180230
+FINNEY,Mack 122.3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180230
+FINNEY,Mack 122.3,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180230
+FINNEY,Ward 8 122.3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,180240
+FINNEY,Ward 8 122.3,Governor / Lt. Governor,,independent,"Orman, Greg",0,180240
+FINNEY,Ward 8 122.3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,180240
+FINNEY,Ward 8 122.3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,180240
+FINNEY,Ward 8 122.3,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,180240
+FINNEY,Ward 4,Governor / Lt. Governor,,independent,"Kloos, Rick",3,200020
+FINNEY,Ward 4,Governor / Lt. Governor,,independent,"Orman, Greg",51,200020
+FINNEY,Ward 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",113,200020
+FINNEY,Ward 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,200020
+FINNEY,Ward 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",129,200020
+FINNEY,Pierceville,Governor / Lt. Governor,,independent,"Kloos, Rick",0,300010
+FINNEY,Pierceville,Governor / Lt. Governor,,independent,"Orman, Greg",22,300010
+FINNEY,Pierceville,Governor / Lt. Governor,,Democratic,"Kelly, Laura",30,300010
+FINNEY,Pierceville,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,300010
+FINNEY,Pierceville,Governor / Lt. Governor,,Republican,"Kobach, Kris",80,300010
+FINNEY,Riverside,Governor / Lt. Governor,,independent,"Kloos, Rick",1,300020
+FINNEY,Riverside,Governor / Lt. Governor,,independent,"Orman, Greg",86,300020
+FINNEY,Riverside,Governor / Lt. Governor,,Democratic,"Kelly, Laura",129,300020
+FINNEY,Riverside,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,300020
+FINNEY,Riverside,Governor / Lt. Governor,,Republican,"Kobach, Kris",307,300020
+FINNEY,Friend Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000010
+FINNEY,Friend Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",46,000010
+FINNEY,Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",191,000030
+FINNEY,Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",134,000030
+FINNEY,Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",154,000040
+FINNEY,Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",233,000040
+FINNEY,Ward 5,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",94,000060
+FINNEY,Ward 5,Commissioner of Insurance,,Republican,"Schmidt, Vicki",174,000060
+FINNEY,Ward 7,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",124,000080
+FINNEY,Ward 7,Commissioner of Insurance,,Republican,"Schmidt, Vicki",145,000080
+FINNEY,Ward 9,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",162,000100
+FINNEY,Ward 9,Commissioner of Insurance,,Republican,"Schmidt, Vicki",152,000100
+FINNEY,Ward 10,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",117,000110
+FINNEY,Ward 10,Commissioner of Insurance,,Republican,"Schmidt, Vicki",187,000110
+FINNEY,Ward 11,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",121,000120
+FINNEY,Ward 11,Commissioner of Insurance,,Republican,"Schmidt, Vicki",301,000120
+FINNEY,Ward 12,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",111,000130
+FINNEY,Ward 12,Commissioner of Insurance,,Republican,"Schmidt, Vicki",397,000130
+FINNEY,Ward 13,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",77,000140
+FINNEY,Ward 13,Commissioner of Insurance,,Republican,"Schmidt, Vicki",314,000140
+FINNEY,Ward 16,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",117,000170
+FINNEY,Ward 16,Commissioner of Insurance,,Republican,"Schmidt, Vicki",345,000170
+FINNEY,Holcomb,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",157,000190
+FINNEY,Holcomb,Commissioner of Insurance,,Republican,"Schmidt, Vicki",561,000190
+FINNEY,Huffman,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",78,000200
+FINNEY,Huffman,Commissioner of Insurance,,Republican,"Schmidt, Vicki",139,000200
+FINNEY,Kalvesta,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000220
+FINNEY,Kalvesta,Commissioner of Insurance,,Republican,"Schmidt, Vicki",41,000220
+FINNEY,Pleasant Valley,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000250
+FINNEY,Pleasant Valley,Commissioner of Insurance,,Republican,"Schmidt, Vicki",60,000250
+FINNEY,Plymell,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",21,000260
+FINNEY,Plymell,Commissioner of Insurance,,Republican,"Schmidt, Vicki",111,000260
+FINNEY,Theoni,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000280
+FINNEY,Theoni,Commissioner of Insurance,,Republican,"Schmidt, Vicki",56,000280
+FINNEY,Ward 14 123.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",102,180010
+FINNEY,Ward 14 123.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",156,180010
+FINNEY,Ward 14 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",42,180020
+FINNEY,Ward 14 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",102,180020
+FINNEY,Ward 15 123.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",92,180030
+FINNEY,Ward 15 123.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",194,180030
+FINNEY,Ward 15 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",69,180040
+FINNEY,Ward 15 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",167,180040
+FINNEY,Ward 1 123.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",137,180050
+FINNEY,Ward 1 123.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",77,180050
+FINNEY,Ward 1 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180060
+FINNEY,Ward 1 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180060
+FINNEY,Ward 1 122.2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180070
+FINNEY,Ward 1 122.2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180070
+FINNEY,Ward 6 123.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",162,180080
+FINNEY,Ward 6 123.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",216,180080
+FINNEY,Ward 6 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,180090
+FINNEY,Ward 6 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",14,180090
+FINNEY,Ward 6 122.2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180100
+FINNEY,Ward 6 122.2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180100
+FINNEY,Ward 8 123.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",245,180110
+FINNEY,Ward 8 123.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",218,180110
+FINNEY,Ward 8 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,180120
+FINNEY,Ward 8 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180120
+FINNEY,Ward 8 122.2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180130
+FINNEY,Ward 8 122.2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180130
+FINNEY,Jennie Barker 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",90,180140
+FINNEY,Jennie Barker 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",299,180140
+FINNEY,Jennie Barker 122.2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180150
+FINNEY,Jennie Barker 122.2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180150
+FINNEY,Jennie Barker 122.3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,180160
+FINNEY,Jennie Barker 122.3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",2,180160
+FINNEY,Jennie Barker 122.4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180170
+FINNEY,Jennie Barker 122.4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180170
+FINNEY,Jennie Barker 122.5,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180180
+FINNEY,Jennie Barker 122.5,Commissioner of Insurance,,Republican,"Schmidt, Vicki",3,180180
+FINNEY,Jennie Barker 122.6,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180190
+FINNEY,Jennie Barker 122.6,Commissioner of Insurance,,Republican,"Schmidt, Vicki",2,180190
+FINNEY,Jennie Barker 122.7,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180200
+FINNEY,Jennie Barker 122.7,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180200
+FINNEY,Mack 122.1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",64,180210
+FINNEY,Mack 122.1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",85,180210
+FINNEY,Mack 122.2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,180220
+FINNEY,Mack 122.2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",7,180220
+FINNEY,Mack 122.3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,180230
+FINNEY,Mack 122.3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180230
+FINNEY,Ward 8 122.3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,180240
+FINNEY,Ward 8 122.3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,180240
+FINNEY,Ward 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",89,200020
+FINNEY,Ward 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",199,200020
+FINNEY,Pierceville,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",18,300010
+FINNEY,Pierceville,Commissioner of Insurance,,Republican,"Schmidt, Vicki",108,300010
+FINNEY,Riverside,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",95,300020
+FINNEY,Riverside,Commissioner of Insurance,,Republican,"Schmidt, Vicki",419,300020
+FINNEY,Friend Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",11,000010
+FINNEY,Friend Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000010
+FINNEY,Friend Township,Secretary of State,,Republican,"Schwab, Scott",37,000010
+FINNEY,Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",199,000030
+FINNEY,Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",15,000030
+FINNEY,Ward 2,Secretary of State,,Republican,"Schwab, Scott",113,000030
+FINNEY,Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",180,000040
+FINNEY,Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",24,000040
+FINNEY,Ward 3,Secretary of State,,Republican,"Schwab, Scott",191,000040
+FINNEY,Ward 5,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",116,000060
+FINNEY,Ward 5,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000060
+FINNEY,Ward 5,Secretary of State,,Republican,"Schwab, Scott",148,000060
+FINNEY,Ward 7,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",140,000080
+FINNEY,Ward 7,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000080
+FINNEY,Ward 7,Secretary of State,,Republican,"Schwab, Scott",121,000080
+FINNEY,Ward 9,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",176,000100
+FINNEY,Ward 9,Secretary of State,,Libertarian,"Hodgkinson, Rob",13,000100
+FINNEY,Ward 9,Secretary of State,,Republican,"Schwab, Scott",132,000100
+FINNEY,Ward 10,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",140,000110
+FINNEY,Ward 10,Secretary of State,,Libertarian,"Hodgkinson, Rob",17,000110
+FINNEY,Ward 10,Secretary of State,,Republican,"Schwab, Scott",152,000110
+FINNEY,Ward 11,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",153,000120
+FINNEY,Ward 11,Secretary of State,,Libertarian,"Hodgkinson, Rob",15,000120
+FINNEY,Ward 11,Secretary of State,,Republican,"Schwab, Scott",263,000120
+FINNEY,Ward 12,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",169,000130
+FINNEY,Ward 12,Secretary of State,,Libertarian,"Hodgkinson, Rob",14,000130
+FINNEY,Ward 12,Secretary of State,,Republican,"Schwab, Scott",331,000130
+FINNEY,Ward 13,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",114,000140
+FINNEY,Ward 13,Secretary of State,,Libertarian,"Hodgkinson, Rob",16,000140
+FINNEY,Ward 13,Secretary of State,,Republican,"Schwab, Scott",271,000140
+FINNEY,Ward 16,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",163,000170
+FINNEY,Ward 16,Secretary of State,,Libertarian,"Hodgkinson, Rob",16,000170
+FINNEY,Ward 16,Secretary of State,,Republican,"Schwab, Scott",288,000170
+FINNEY,Holcomb,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",188,000190
+FINNEY,Holcomb,Secretary of State,,Libertarian,"Hodgkinson, Rob",30,000190
+FINNEY,Holcomb,Secretary of State,,Republican,"Schwab, Scott",510,000190
+FINNEY,Huffman,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",91,000200
+FINNEY,Huffman,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000200
+FINNEY,Huffman,Secretary of State,,Republican,"Schwab, Scott",124,000200
+FINNEY,Kalvesta,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,000220
+FINNEY,Kalvesta,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000220
+FINNEY,Kalvesta,Secretary of State,,Republican,"Schwab, Scott",34,000220
+FINNEY,Pleasant Valley,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000250
+FINNEY,Pleasant Valley,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000250
+FINNEY,Pleasant Valley,Secretary of State,,Republican,"Schwab, Scott",57,000250
+FINNEY,Plymell,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",33,000260
+FINNEY,Plymell,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000260
+FINNEY,Plymell,Secretary of State,,Republican,"Schwab, Scott",103,000260
+FINNEY,Theoni,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000280
+FINNEY,Theoni,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000280
+FINNEY,Theoni,Secretary of State,,Republican,"Schwab, Scott",51,000280
+FINNEY,Ward 14 123.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",129,180010
+FINNEY,Ward 14 123.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",10,180010
+FINNEY,Ward 14 123.1,Secretary of State,,Republican,"Schwab, Scott",123,180010
+FINNEY,Ward 14 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",54,180020
+FINNEY,Ward 14 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,180020
+FINNEY,Ward 14 122.1,Secretary of State,,Republican,"Schwab, Scott",89,180020
+FINNEY,Ward 15 123.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",117,180030
+FINNEY,Ward 15 123.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",13,180030
+FINNEY,Ward 15 123.1,Secretary of State,,Republican,"Schwab, Scott",162,180030
+FINNEY,Ward 15 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",89,180040
+FINNEY,Ward 15 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,180040
+FINNEY,Ward 15 122.1,Secretary of State,,Republican,"Schwab, Scott",148,180040
+FINNEY,Ward 1 123.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",140,180050
+FINNEY,Ward 1 123.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,180050
+FINNEY,Ward 1 123.1,Secretary of State,,Republican,"Schwab, Scott",67,180050
+FINNEY,Ward 1 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180060
+FINNEY,Ward 1 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180060
+FINNEY,Ward 1 122.1,Secretary of State,,Republican,"Schwab, Scott",0,180060
+FINNEY,Ward 1 122.2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180070
+FINNEY,Ward 1 122.2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180070
+FINNEY,Ward 1 122.2,Secretary of State,,Republican,"Schwab, Scott",0,180070
+FINNEY,Ward 6 123.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",180,180080
+FINNEY,Ward 6 123.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",21,180080
+FINNEY,Ward 6 123.1,Secretary of State,,Republican,"Schwab, Scott",183,180080
+FINNEY,Ward 6 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,180090
+FINNEY,Ward 6 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,180090
+FINNEY,Ward 6 122.1,Secretary of State,,Republican,"Schwab, Scott",13,180090
+FINNEY,Ward 6 122.2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180100
+FINNEY,Ward 6 122.2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180100
+FINNEY,Ward 6 122.2,Secretary of State,,Republican,"Schwab, Scott",0,180100
+FINNEY,Ward 8 123.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",269,180110
+FINNEY,Ward 8 123.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",17,180110
+FINNEY,Ward 8 123.1,Secretary of State,,Republican,"Schwab, Scott",182,180110
+FINNEY,Ward 8 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,180120
+FINNEY,Ward 8 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180120
+FINNEY,Ward 8 122.1,Secretary of State,,Republican,"Schwab, Scott",0,180120
+FINNEY,Ward 8 122.2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180130
+FINNEY,Ward 8 122.2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180130
+FINNEY,Ward 8 122.2,Secretary of State,,Republican,"Schwab, Scott",0,180130
+FINNEY,Jennie Barker 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",107,180140
+FINNEY,Jennie Barker 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",20,180140
+FINNEY,Jennie Barker 122.1,Secretary of State,,Republican,"Schwab, Scott",262,180140
+FINNEY,Jennie Barker 122.2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180150
+FINNEY,Jennie Barker 122.2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180150
+FINNEY,Jennie Barker 122.2,Secretary of State,,Republican,"Schwab, Scott",0,180150
+FINNEY,Jennie Barker 122.3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",1,180160
+FINNEY,Jennie Barker 122.3,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180160
+FINNEY,Jennie Barker 122.3,Secretary of State,,Republican,"Schwab, Scott",2,180160
+FINNEY,Jennie Barker 122.4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180170
+FINNEY,Jennie Barker 122.4,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180170
+FINNEY,Jennie Barker 122.4,Secretary of State,,Republican,"Schwab, Scott",0,180170
+FINNEY,Jennie Barker 122.5,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180180
+FINNEY,Jennie Barker 122.5,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180180
+FINNEY,Jennie Barker 122.5,Secretary of State,,Republican,"Schwab, Scott",2,180180
+FINNEY,Jennie Barker 122.6,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180190
+FINNEY,Jennie Barker 122.6,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180190
+FINNEY,Jennie Barker 122.6,Secretary of State,,Republican,"Schwab, Scott",2,180190
+FINNEY,Jennie Barker 122.7,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180200
+FINNEY,Jennie Barker 122.7,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180200
+FINNEY,Jennie Barker 122.7,Secretary of State,,Republican,"Schwab, Scott",0,180200
+FINNEY,Mack 122.1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",72,180210
+FINNEY,Mack 122.1,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,180210
+FINNEY,Mack 122.1,Secretary of State,,Republican,"Schwab, Scott",74,180210
+FINNEY,Mack 122.2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,180220
+FINNEY,Mack 122.2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180220
+FINNEY,Mack 122.2,Secretary of State,,Republican,"Schwab, Scott",6,180220
+FINNEY,Mack 122.3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,180230
+FINNEY,Mack 122.3,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180230
+FINNEY,Mack 122.3,Secretary of State,,Republican,"Schwab, Scott",0,180230
+FINNEY,Ward 8 122.3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,180240
+FINNEY,Ward 8 122.3,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,180240
+FINNEY,Ward 8 122.3,Secretary of State,,Republican,"Schwab, Scott",0,180240
+FINNEY,Ward 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",120,200020
+FINNEY,Ward 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",10,200020
+FINNEY,Ward 4,Secretary of State,,Republican,"Schwab, Scott",165,200020
+FINNEY,Pierceville,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",28,300010
+FINNEY,Pierceville,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,300010
+FINNEY,Pierceville,Secretary of State,,Republican,"Schwab, Scott",101,300010
+FINNEY,Riverside,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",126,300020
+FINNEY,Riverside,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,300020
+FINNEY,Riverside,Secretary of State,,Republican,"Schwab, Scott",387,300020
+FINNEY,Friend Township,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",50,10
+FINNEY,Ward 2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",224,30
+FINNEY,Holcomb,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",668,190
+FINNEY,Huffman,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",176,200
+FINNEY,Pleasant Valley,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",59,250
+FINNEY,Plymell,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",120,260
+FINNEY,Theoni,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",55,280
+FINNEY,Ward 14 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",129,180020
+FINNEY,Ward 15 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",208,180040
+FINNEY,Ward 1 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180060
+FINNEY,Ward 1 122.2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180070
+FINNEY,Ward 6 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",15,180090
+FINNEY,Ward 6 122.2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180100
+FINNEY,Ward 8 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",1,180120
+FINNEY,Ward 8 122.2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180130
+FINNEY,Jennie Barker 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",353,180140
+FINNEY,Jennie Barker 122.2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180150
+FINNEY,Jennie Barker 122.3,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",3,180160
+FINNEY,Jennie Barker 122.4,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180170
+FINNEY,Jennie Barker 122.5,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",3,180180
+FINNEY,Jennie Barker 122.6,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",2,180190
+FINNEY,Jennie Barker 122.7,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180200
+FINNEY,Mack 122.1,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",111,180210
+FINNEY,Mack 122.2,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",10,180220
+FINNEY,Mack 122.3,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",1,180230
+FINNEY,Ward 8 122.3,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,180240
+FINNEY,Pierceville,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",123,300010
+FINNEY,Riverside,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",480,300020
+FINNEY,Kalvesta,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",40,220
+FINNEY,Ward 3,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",156,40
+FINNEY,Ward 5,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",103,60
+FINNEY,Ward 7,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",129,80
+FINNEY,Ward 9,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",184,100
+FINNEY,Ward 10,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",126,110
+FINNEY,Ward 11,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",136,120
+FINNEY,Ward 12,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",104,130
+FINNEY,Ward 13,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",81,140
+FINNEY,Ward 16,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",136,170
+FINNEY,Ward 14 123.1,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",122,180010
+FINNEY,Ward 15 123.1,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",90,180030
+FINNEY,Ward 1 123.1,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",147,180050
+FINNEY,Ward 6 123.1,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",178,180080
+FINNEY,Ward 8 123.1,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",264,180110
+FINNEY,Ward 4,Kansas House of Representatives,123,Democratic,"Rodriguez, Pedro",82,200020
+FINNEY,Ward 3,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",244,40
+FINNEY,Ward 5,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",175,60
+FINNEY,Ward 7,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",149,80
+FINNEY,Ward 9,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",143,100
+FINNEY,Ward 10,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",184,110
+FINNEY,Ward 11,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",294,120
+FINNEY,Ward 12,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",408,130
+FINNEY,Ward 13,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",324,140
+FINNEY,Ward 16,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",335,170
+FINNEY,Ward 14 123.1,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",146,180010
+FINNEY,Ward 15 123.1,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",199,180030
+FINNEY,Ward 1 123.1,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",79,180050
+FINNEY,Ward 6 123.1,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",213,180080
+FINNEY,Ward 8 123.1,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",210,180110
+FINNEY,Ward 4,Kansas House of Representatives,123,Republican,"Wheeler, John P. Jr.",212,200020
+FINNEY,Friend Township,State Treasurer,,Democratic,"Francisco, Marci",8,000010
+FINNEY,Friend Township,State Treasurer,,Republican,"LaTurner, Jake",43,000010
+FINNEY,Ward 2,State Treasurer,,Democratic,"Francisco, Marci",199,000030
+FINNEY,Ward 2,State Treasurer,,Republican,"LaTurner, Jake",129,000030
+FINNEY,Ward 3,State Treasurer,,Democratic,"Francisco, Marci",164,000040
+FINNEY,Ward 3,State Treasurer,,Republican,"LaTurner, Jake",230,000040
+FINNEY,Ward 5,State Treasurer,,Democratic,"Francisco, Marci",97,000060
+FINNEY,Ward 5,State Treasurer,,Republican,"LaTurner, Jake",174,000060
+FINNEY,Ward 7,State Treasurer,,Democratic,"Francisco, Marci",139,000080
+FINNEY,Ward 7,State Treasurer,,Republican,"LaTurner, Jake",133,000080
+FINNEY,Ward 9,State Treasurer,,Democratic,"Francisco, Marci",176,000100
+FINNEY,Ward 9,State Treasurer,,Republican,"LaTurner, Jake",145,000100
+FINNEY,Ward 10,State Treasurer,,Democratic,"Francisco, Marci",130,000110
+FINNEY,Ward 10,State Treasurer,,Republican,"LaTurner, Jake",176,000110
+FINNEY,Ward 11,State Treasurer,,Democratic,"Francisco, Marci",141,000120
+FINNEY,Ward 11,State Treasurer,,Republican,"LaTurner, Jake",287,000120
+FINNEY,Ward 12,State Treasurer,,Democratic,"Francisco, Marci",132,000130
+FINNEY,Ward 12,State Treasurer,,Republican,"LaTurner, Jake",380,000130
+FINNEY,Ward 13,State Treasurer,,Democratic,"Francisco, Marci",88,000140
+FINNEY,Ward 13,State Treasurer,,Republican,"LaTurner, Jake",313,000140
+FINNEY,Ward 16,State Treasurer,,Democratic,"Francisco, Marci",140,000170
+FINNEY,Ward 16,State Treasurer,,Republican,"LaTurner, Jake",327,000170
+FINNEY,Holcomb,State Treasurer,,Democratic,"Francisco, Marci",165,000190
+FINNEY,Holcomb,State Treasurer,,Republican,"LaTurner, Jake",561,000190
+FINNEY,Huffman,State Treasurer,,Democratic,"Francisco, Marci",81,000200
+FINNEY,Huffman,State Treasurer,,Republican,"LaTurner, Jake",138,000200
+FINNEY,Kalvesta,State Treasurer,,Democratic,"Francisco, Marci",3,000220
+FINNEY,Kalvesta,State Treasurer,,Republican,"LaTurner, Jake",40,000220
+FINNEY,Pleasant Valley,State Treasurer,,Democratic,"Francisco, Marci",1,000250
+FINNEY,Pleasant Valley,State Treasurer,,Republican,"LaTurner, Jake",62,000250
+FINNEY,Plymell,State Treasurer,,Democratic,"Francisco, Marci",24,000260
+FINNEY,Plymell,State Treasurer,,Republican,"LaTurner, Jake",111,000260
+FINNEY,Theoni,State Treasurer,,Democratic,"Francisco, Marci",6,000280
+FINNEY,Theoni,State Treasurer,,Republican,"LaTurner, Jake",53,000280
+FINNEY,Ward 14 123.1,State Treasurer,,Democratic,"Francisco, Marci",109,180010
+FINNEY,Ward 14 123.1,State Treasurer,,Republican,"LaTurner, Jake",155,180010
+FINNEY,Ward 14 122.1,State Treasurer,,Democratic,"Francisco, Marci",49,180020
+FINNEY,Ward 14 122.1,State Treasurer,,Republican,"LaTurner, Jake",100,180020
+FINNEY,Ward 15 123.1,State Treasurer,,Democratic,"Francisco, Marci",95,180030
+FINNEY,Ward 15 123.1,State Treasurer,,Republican,"LaTurner, Jake",190,180030
+FINNEY,Ward 15 122.1,State Treasurer,,Democratic,"Francisco, Marci",71,180040
+FINNEY,Ward 15 122.1,State Treasurer,,Republican,"LaTurner, Jake",169,180040
+FINNEY,Ward 1 123.1,State Treasurer,,Democratic,"Francisco, Marci",149,180050
+FINNEY,Ward 1 123.1,State Treasurer,,Republican,"LaTurner, Jake",75,180050
+FINNEY,Ward 1 122.1,State Treasurer,,Democratic,"Francisco, Marci",0,180060
+FINNEY,Ward 1 122.1,State Treasurer,,Republican,"LaTurner, Jake",0,180060
+FINNEY,Ward 1 122.2,State Treasurer,,Democratic,"Francisco, Marci",0,180070
+FINNEY,Ward 1 122.2,State Treasurer,,Republican,"LaTurner, Jake",0,180070
+FINNEY,Ward 6 123.1,State Treasurer,,Democratic,"Francisco, Marci",173,180080
+FINNEY,Ward 6 123.1,State Treasurer,,Republican,"LaTurner, Jake",211,180080
+FINNEY,Ward 6 122.1,State Treasurer,,Democratic,"Francisco, Marci",3,180090
+FINNEY,Ward 6 122.1,State Treasurer,,Republican,"LaTurner, Jake",14,180090
+FINNEY,Ward 6 122.2,State Treasurer,,Democratic,"Francisco, Marci",0,180100
+FINNEY,Ward 6 122.2,State Treasurer,,Republican,"LaTurner, Jake",0,180100
+FINNEY,Ward 8 123.1,State Treasurer,,Democratic,"Francisco, Marci",268,180110
+FINNEY,Ward 8 123.1,State Treasurer,,Republican,"LaTurner, Jake",200,180110
+FINNEY,Ward 8 122.1,State Treasurer,,Democratic,"Francisco, Marci",2,180120
+FINNEY,Ward 8 122.1,State Treasurer,,Republican,"LaTurner, Jake",0,180120
+FINNEY,Ward 8 122.2,State Treasurer,,Democratic,"Francisco, Marci",0,180130
+FINNEY,Ward 8 122.2,State Treasurer,,Republican,"LaTurner, Jake",0,180130
+FINNEY,Jennie Barker 122.1,State Treasurer,,Democratic,"Francisco, Marci",93,180140
+FINNEY,Jennie Barker 122.1,State Treasurer,,Republican,"LaTurner, Jake",294,180140
+FINNEY,Jennie Barker 122.2,State Treasurer,,Democratic,"Francisco, Marci",0,180150
+FINNEY,Jennie Barker 122.2,State Treasurer,,Republican,"LaTurner, Jake",0,180150
+FINNEY,Jennie Barker 122.3,State Treasurer,,Democratic,"Francisco, Marci",1,180160
+FINNEY,Jennie Barker 122.3,State Treasurer,,Republican,"LaTurner, Jake",2,180160
+FINNEY,Jennie Barker 122.4,State Treasurer,,Democratic,"Francisco, Marci",0,180170
+FINNEY,Jennie Barker 122.4,State Treasurer,,Republican,"LaTurner, Jake",0,180170
+FINNEY,Jennie Barker 122.5,State Treasurer,,Democratic,"Francisco, Marci",0,180180
+FINNEY,Jennie Barker 122.5,State Treasurer,,Republican,"LaTurner, Jake",2,180180
+FINNEY,Jennie Barker 122.6,State Treasurer,,Democratic,"Francisco, Marci",0,180190
+FINNEY,Jennie Barker 122.6,State Treasurer,,Republican,"LaTurner, Jake",2,180190
+FINNEY,Jennie Barker 122.7,State Treasurer,,Democratic,"Francisco, Marci",0,180200
+FINNEY,Jennie Barker 122.7,State Treasurer,,Republican,"LaTurner, Jake",0,180200
+FINNEY,Mack 122.1,State Treasurer,,Democratic,"Francisco, Marci",66,180210
+FINNEY,Mack 122.1,State Treasurer,,Republican,"LaTurner, Jake",84,180210
+FINNEY,Mack 122.2,State Treasurer,,Democratic,"Francisco, Marci",7,180220
+FINNEY,Mack 122.2,State Treasurer,,Republican,"LaTurner, Jake",7,180220
+FINNEY,Mack 122.3,State Treasurer,,Democratic,"Francisco, Marci",2,180230
+FINNEY,Mack 122.3,State Treasurer,,Republican,"LaTurner, Jake",0,180230
+FINNEY,Ward 8 122.3,State Treasurer,,Democratic,"Francisco, Marci",0,180240
+FINNEY,Ward 8 122.3,State Treasurer,,Republican,"LaTurner, Jake",0,180240
+FINNEY,Ward 4,State Treasurer,,Democratic,"Francisco, Marci",96,200020
+FINNEY,Ward 4,State Treasurer,,Republican,"LaTurner, Jake",198,200020
+FINNEY,Pierceville,State Treasurer,,Democratic,"Francisco, Marci",21,300010
+FINNEY,Pierceville,State Treasurer,,Republican,"LaTurner, Jake",109,300010
+FINNEY,Riverside,State Treasurer,,Democratic,"Francisco, Marci",112,300020
+FINNEY,Riverside,State Treasurer,,Republican,"LaTurner, Jake",412,300020
+FINNEY,Friend Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",8,000010
+FINNEY,Friend Township,United States House of Representatives,1,Republican,"Marshall, Roger",42,000010
+FINNEY,Ward 2,United States House of Representatives,1,Democratic,"LaPolice, Alan",191,000030
+FINNEY,Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",129,000030
+FINNEY,Ward 3,United States House of Representatives,1,Democratic,"LaPolice, Alan",183,000040
+FINNEY,Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",211,000040
+FINNEY,Ward 5,United States House of Representatives,1,Democratic,"LaPolice, Alan",102,000060
+FINNEY,Ward 5,United States House of Representatives,1,Republican,"Marshall, Roger",168,000060
+FINNEY,Ward 7,United States House of Representatives,1,Democratic,"LaPolice, Alan",126,000080
+FINNEY,Ward 7,United States House of Representatives,1,Republican,"Marshall, Roger",144,000080
+FINNEY,Ward 9,United States House of Representatives,1,Democratic,"LaPolice, Alan",172,000100
+FINNEY,Ward 9,United States House of Representatives,1,Republican,"Marshall, Roger",147,000100
+FINNEY,Ward 10,United States House of Representatives,1,Democratic,"LaPolice, Alan",141,000110
+FINNEY,Ward 10,United States House of Representatives,1,Republican,"Marshall, Roger",163,000110
+FINNEY,Ward 11,United States House of Representatives,1,Democratic,"LaPolice, Alan",140,000120
+FINNEY,Ward 11,United States House of Representatives,1,Republican,"Marshall, Roger",290,000120
+FINNEY,Ward 12,United States House of Representatives,1,Democratic,"LaPolice, Alan",155,000130
+FINNEY,Ward 12,United States House of Representatives,1,Republican,"Marshall, Roger",354,000130
+FINNEY,Ward 13,United States House of Representatives,1,Democratic,"LaPolice, Alan",97,000140
+FINNEY,Ward 13,United States House of Representatives,1,Republican,"Marshall, Roger",299,000140
+FINNEY,Ward 16,United States House of Representatives,1,Democratic,"LaPolice, Alan",140,000170
+FINNEY,Ward 16,United States House of Representatives,1,Republican,"Marshall, Roger",318,000170
+FINNEY,Holcomb,United States House of Representatives,1,Democratic,"LaPolice, Alan",177,000190
+FINNEY,Holcomb,United States House of Representatives,1,Republican,"Marshall, Roger",555,000190
+FINNEY,Huffman,United States House of Representatives,1,Democratic,"LaPolice, Alan",86,000200
+FINNEY,Huffman,United States House of Representatives,1,Republican,"Marshall, Roger",132,000200
+FINNEY,Kalvesta,United States House of Representatives,1,Democratic,"LaPolice, Alan",4,000220
+FINNEY,Kalvesta,United States House of Representatives,1,Republican,"Marshall, Roger",39,000220
+FINNEY,Pleasant Valley,United States House of Representatives,1,Democratic,"LaPolice, Alan",3,000250
+FINNEY,Pleasant Valley,United States House of Representatives,1,Republican,"Marshall, Roger",61,000250
+FINNEY,Plymell,United States House of Representatives,1,Democratic,"LaPolice, Alan",30,000260
+FINNEY,Plymell,United States House of Representatives,1,Republican,"Marshall, Roger",106,000260
+FINNEY,Theoni,United States House of Representatives,1,Democratic,"LaPolice, Alan",8,000280
+FINNEY,Theoni,United States House of Representatives,1,Republican,"Marshall, Roger",48,000280
+FINNEY,Ward 14 123.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",120,180010
+FINNEY,Ward 14 123.1,United States House of Representatives,1,Republican,"Marshall, Roger",143,180010
+FINNEY,Ward 14 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",50,180020
+FINNEY,Ward 14 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",99,180020
+FINNEY,Ward 15 123.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",110,180030
+FINNEY,Ward 15 123.1,United States House of Representatives,1,Republican,"Marshall, Roger",178,180030
+FINNEY,Ward 15 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",76,180040
+FINNEY,Ward 15 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",166,180040
+FINNEY,Ward 1 123.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",138,180050
+FINNEY,Ward 1 123.1,United States House of Representatives,1,Republican,"Marshall, Roger",81,180050
+FINNEY,Ward 1 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180060
+FINNEY,Ward 1 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",0,180060
+FINNEY,Ward 1 122.2,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180070
+FINNEY,Ward 1 122.2,United States House of Representatives,1,Republican,"Marshall, Roger",0,180070
+FINNEY,Ward 6 123.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",187,180080
+FINNEY,Ward 6 123.1,United States House of Representatives,1,Republican,"Marshall, Roger",197,180080
+FINNEY,Ward 6 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,180090
+FINNEY,Ward 6 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",15,180090
+FINNEY,Ward 6 122.2,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180100
+FINNEY,Ward 6 122.2,United States House of Representatives,1,Republican,"Marshall, Roger",0,180100
+FINNEY,Ward 8 123.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",261,180110
+FINNEY,Ward 8 123.1,United States House of Representatives,1,Republican,"Marshall, Roger",195,180110
+FINNEY,Ward 8 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,180120
+FINNEY,Ward 8 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",0,180120
+FINNEY,Ward 8 122.2,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180130
+FINNEY,Ward 8 122.2,United States House of Representatives,1,Republican,"Marshall, Roger",0,180130
+FINNEY,Jennie Barker 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",97,180140
+FINNEY,Jennie Barker 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",291,180140
+FINNEY,Jennie Barker 122.2,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180150
+FINNEY,Jennie Barker 122.2,United States House of Representatives,1,Republican,"Marshall, Roger",0,180150
+FINNEY,Jennie Barker 122.3,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180160
+FINNEY,Jennie Barker 122.3,United States House of Representatives,1,Republican,"Marshall, Roger",2,180160
+FINNEY,Jennie Barker 122.4,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180170
+FINNEY,Jennie Barker 122.4,United States House of Representatives,1,Republican,"Marshall, Roger",0,180170
+FINNEY,Jennie Barker 122.5,United States House of Representatives,1,Democratic,"LaPolice, Alan",1,180180
+FINNEY,Jennie Barker 122.5,United States House of Representatives,1,Republican,"Marshall, Roger",1,180180
+FINNEY,Jennie Barker 122.6,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180190
+FINNEY,Jennie Barker 122.6,United States House of Representatives,1,Republican,"Marshall, Roger",2,180190
+FINNEY,Jennie Barker 122.7,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180200
+FINNEY,Jennie Barker 122.7,United States House of Representatives,1,Republican,"Marshall, Roger",0,180200
+FINNEY,Mack 122.1,United States House of Representatives,1,Democratic,"LaPolice, Alan",68,180210
+FINNEY,Mack 122.1,United States House of Representatives,1,Republican,"Marshall, Roger",83,180210
+FINNEY,Mack 122.2,United States House of Representatives,1,Democratic,"LaPolice, Alan",9,180220
+FINNEY,Mack 122.2,United States House of Representatives,1,Republican,"Marshall, Roger",6,180220
+FINNEY,Mack 122.3,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,180230
+FINNEY,Mack 122.3,United States House of Representatives,1,Republican,"Marshall, Roger",0,180230
+FINNEY,Ward 8 122.3,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,180240
+FINNEY,Ward 8 122.3,United States House of Representatives,1,Republican,"Marshall, Roger",0,180240
+FINNEY,Ward 4,United States House of Representatives,1,Democratic,"LaPolice, Alan",97,200020
+FINNEY,Ward 4,United States House of Representatives,1,Republican,"Marshall, Roger",191,200020
+FINNEY,Pierceville,United States House of Representatives,1,Democratic,"LaPolice, Alan",30,300010
+FINNEY,Pierceville,United States House of Representatives,1,Republican,"Marshall, Roger",102,300010
+FINNEY,Riverside,United States House of Representatives,1,Democratic,"LaPolice, Alan",116,300020
+FINNEY,Riverside,United States House of Representatives,1,Republican,"Marshall, Roger",407,300020

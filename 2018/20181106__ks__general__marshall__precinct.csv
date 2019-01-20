@@ -1,0 +1,632 @@
+county,precinct,office,district,party,candidate,votes,vtd
+MARSHALL,Balderson Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000010
+MARSHALL,Balderson Township,Attorney General,,Republican,"Schmidt, Derek",21,000010
+MARSHALL,Bigelow Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000020
+MARSHALL,Bigelow Township,Attorney General,,Republican,"Schmidt, Derek",10,000020
+MARSHALL,Blue Rapids City,Attorney General,,Democratic,"Swain, Sarah G.",76,000030
+MARSHALL,Blue Rapids City,Attorney General,,Republican,"Schmidt, Derek",250,000030
+MARSHALL,Blue Rapids Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000040
+MARSHALL,Blue Rapids Township,Attorney General,,Republican,"Schmidt, Derek",18,000040
+MARSHALL,Center Township,Attorney General,,Democratic,"Swain, Sarah G.",7,000050
+MARSHALL,Center Township,Attorney General,,Republican,"Schmidt, Derek",52,000050
+MARSHALL,Clear Fork Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000060
+MARSHALL,Clear Fork Township,Attorney General,,Republican,"Schmidt, Derek",12,000060
+MARSHALL,Cleveland Township,Attorney General,,Democratic,"Swain, Sarah G.",2,000070
+MARSHALL,Cleveland Township,Attorney General,,Republican,"Schmidt, Derek",22,000070
+MARSHALL,Cottage Hill Township,Attorney General,,Democratic,"Swain, Sarah G.",6,000080
+MARSHALL,Cottage Hill Township,Attorney General,,Republican,"Schmidt, Derek",50,000080
+MARSHALL,East Vermillion Township,Attorney General,,Democratic,"Swain, Sarah G.",69,000090
+MARSHALL,East Vermillion Township,Attorney General,,Republican,"Schmidt, Derek",136,000090
+MARSHALL,Elm Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",20,000100
+MARSHALL,Elm Creek Township,Attorney General,,Republican,"Schmidt, Derek",26,000100
+MARSHALL,Herkimer Township,Attorney General,,Democratic,"Swain, Sarah G.",16,000130
+MARSHALL,Herkimer Township,Attorney General,,Republican,"Schmidt, Derek",48,000130
+MARSHALL,Lincoln Township,Attorney General,,Democratic,"Swain, Sarah G.",9,000140
+MARSHALL,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",57,000140
+MARSHALL,Logan Township,Attorney General,,Democratic,"Swain, Sarah G.",12,000150
+MARSHALL,Logan Township,Attorney General,,Republican,"Schmidt, Derek",87,000150
+MARSHALL,Marysville City Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",120,000160
+MARSHALL,Marysville City Ward 1,Attorney General,,Republican,"Schmidt, Derek",252,000160
+MARSHALL,Marysville City Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",81,00017A
+MARSHALL,Marysville City Ward 2,Attorney General,,Republican,"Schmidt, Derek",194,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+MARSHALL,Marysville City Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",28,00018A
+MARSHALL,Marysville City Ward 3,Attorney General,,Republican,"Schmidt, Derek",119,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Attorney General,,Democratic,"Swain, Sarah G.",103,00019A
+MARSHALL,Marysville City Ward 4 Part A,Attorney General,,Republican,"Schmidt, Derek",219,00019A
+MARSHALL,Marysville City Ward 4 Part B,Attorney General,,Democratic,"Swain, Sarah G.",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00019C
+MARSHALL,Marysville Township,Attorney General,,Democratic,"Swain, Sarah G.",35,000200
+MARSHALL,Marysville Township,Attorney General,,Republican,"Schmidt, Derek",93,000200
+MARSHALL,Murray Township,Attorney General,,Democratic,"Swain, Sarah G.",50,000210
+MARSHALL,Murray Township,Attorney General,,Republican,"Schmidt, Derek",176,000210
+MARSHALL,Noble Township,Attorney General,,Democratic,"Swain, Sarah G.",15,000220
+MARSHALL,Noble Township,Attorney General,,Republican,"Schmidt, Derek",66,000220
+MARSHALL,Oketo Township,Attorney General,,Democratic,"Swain, Sarah G.",9,000230
+MARSHALL,Oketo Township,Attorney General,,Republican,"Schmidt, Derek",41,000230
+MARSHALL,Richland Township,Attorney General,,Democratic,"Swain, Sarah G.",7,000240
+MARSHALL,Richland Township,Attorney General,,Republican,"Schmidt, Derek",54,000240
+MARSHALL,Rock Township,Attorney General,,Democratic,"Swain, Sarah G.",9,000250
+MARSHALL,Rock Township,Attorney General,,Republican,"Schmidt, Derek",33,000250
+MARSHALL,St. Bridget Township,Attorney General,,Democratic,"Swain, Sarah G.",13,000260
+MARSHALL,St. Bridget Township,Attorney General,,Republican,"Schmidt, Derek",47,000260
+MARSHALL,Walnut Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000270
+MARSHALL,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",27,000270
+MARSHALL,Waterville Township,Attorney General,,Democratic,"Swain, Sarah G.",73,000280
+MARSHALL,Waterville Township,Attorney General,,Republican,"Schmidt, Derek",204,000280
+MARSHALL,Wells Township,Attorney General,,Democratic,"Swain, Sarah G.",21,000290
+MARSHALL,Wells Township,Attorney General,,Republican,"Schmidt, Derek",45,000290
+MARSHALL,West Vermillion Township,Attorney General,,Democratic,"Swain, Sarah G.",49,000300
+MARSHALL,West Vermillion Township,Attorney General,,Republican,"Schmidt, Derek",127,000300
+MARSHALL,Franklin Township C1,Attorney General,,Democratic,"Swain, Sarah G.",10,120020
+MARSHALL,Franklin Township C1,Attorney General,,Republican,"Schmidt, Derek",58,120020
+MARSHALL,Franklin Township C2,Attorney General,,Democratic,"Swain, Sarah G.",3,120030
+MARSHALL,Franklin Township C2,Attorney General,,Republican,"Schmidt, Derek",29,120030
+MARSHALL,Guittard Township C1,Attorney General,,Democratic,"Swain, Sarah G.",0,120040
+MARSHALL,Guittard Township C1,Attorney General,,Republican,"Schmidt, Derek",2,120040
+MARSHALL,Guittard Township C2,Attorney General,,Democratic,"Swain, Sarah G.",32,120050
+MARSHALL,Guittard Township C2,Attorney General,,Republican,"Schmidt, Derek",85,120050
+MARSHALL,Balderson Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000010
+MARSHALL,Balderson Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000010
+MARSHALL,Balderson Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",7,000010
+MARSHALL,Balderson Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000010
+MARSHALL,Balderson Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,000010
+MARSHALL,Bigelow Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000020
+MARSHALL,Bigelow Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000020
+MARSHALL,Bigelow Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",6,000020
+MARSHALL,Bigelow Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000020
+MARSHALL,Bigelow Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",5,000020
+MARSHALL,Blue Rapids City,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000030
+MARSHALL,Blue Rapids City,Governor / Lt. Governor,,independent,"Orman, Greg",53,000030
+MARSHALL,Blue Rapids City,Governor / Lt. Governor,,Democratic,"Kelly, Laura",121,000030
+MARSHALL,Blue Rapids City,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",8,000030
+MARSHALL,Blue Rapids City,Governor / Lt. Governor,,Republican,"Kobach, Kris",147,000030
+MARSHALL,Blue Rapids Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000040
+MARSHALL,Blue Rapids Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000040
+MARSHALL,Blue Rapids Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",8,000040
+MARSHALL,Blue Rapids Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000040
+MARSHALL,Blue Rapids Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,000040
+MARSHALL,Center Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000050
+MARSHALL,Center Township,Governor / Lt. Governor,,independent,"Orman, Greg",6,000050
+MARSHALL,Center Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",11,000050
+MARSHALL,Center Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000050
+MARSHALL,Center Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",37,000050
+MARSHALL,Clear Fork Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000060
+MARSHALL,Clear Fork Township,Governor / Lt. Governor,,independent,"Orman, Greg",1,000060
+MARSHALL,Clear Fork Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",8,000060
+MARSHALL,Clear Fork Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000060
+MARSHALL,Clear Fork Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",5,000060
+MARSHALL,Cleveland Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000070
+MARSHALL,Cleveland Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000070
+MARSHALL,Cleveland Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",6,000070
+MARSHALL,Cleveland Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000070
+MARSHALL,Cleveland Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,000070
+MARSHALL,Cottage Hill Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000080
+MARSHALL,Cottage Hill Township,Governor / Lt. Governor,,independent,"Orman, Greg",14,000080
+MARSHALL,Cottage Hill Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,000080
+MARSHALL,Cottage Hill Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000080
+MARSHALL,Cottage Hill Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",29,000080
+MARSHALL,East Vermillion Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000090
+MARSHALL,East Vermillion Township,Governor / Lt. Governor,,independent,"Orman, Greg",22,000090
+MARSHALL,East Vermillion Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",110,000090
+MARSHALL,East Vermillion Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000090
+MARSHALL,East Vermillion Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",75,000090
+MARSHALL,Elm Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000100
+MARSHALL,Elm Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",6,000100
+MARSHALL,Elm Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",26,000100
+MARSHALL,Elm Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000100
+MARSHALL,Elm Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",19,000100
+MARSHALL,Herkimer Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000130
+MARSHALL,Herkimer Township,Governor / Lt. Governor,,independent,"Orman, Greg",7,000130
+MARSHALL,Herkimer Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",15,000130
+MARSHALL,Herkimer Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000130
+MARSHALL,Herkimer Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",42,000130
+MARSHALL,Lincoln Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000140
+MARSHALL,Lincoln Township,Governor / Lt. Governor,,independent,"Orman, Greg",6,000140
+MARSHALL,Lincoln Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",21,000140
+MARSHALL,Lincoln Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000140
+MARSHALL,Lincoln Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",41,000140
+MARSHALL,Logan Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000150
+MARSHALL,Logan Township,Governor / Lt. Governor,,independent,"Orman, Greg",15,000150
+MARSHALL,Logan Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",34,000150
+MARSHALL,Logan Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000150
+MARSHALL,Logan Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",47,000150
+MARSHALL,Marysville City Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000160
+MARSHALL,Marysville City Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",30,000160
+MARSHALL,Marysville City Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",192,000160
+MARSHALL,Marysville City Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000160
+MARSHALL,Marysville City Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",88,000160
+MARSHALL,Marysville City Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",4,00017A
+MARSHALL,Marysville City Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",21,00017A
+MARSHALL,Marysville City Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",119,00017A
+MARSHALL,Marysville City Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,00017A
+MARSHALL,Marysville City Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",120,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00017B
+MARSHALL,Marysville City Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00018A
+MARSHALL,Marysville City Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",23,00018A
+MARSHALL,Marysville City Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",39,00018A
+MARSHALL,Marysville City Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,00018A
+MARSHALL,Marysville City Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",71,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Governor / Lt. Governor,,independent,"Kloos, Rick",1,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor / Lt. Governor,,independent,"Orman, Greg",32,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",142,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,00019A
+MARSHALL,Marysville City Ward 4 Part A,Governor / Lt. Governor,,Republican,"Kobach, Kris",136,00019A
+MARSHALL,Marysville City Ward 4 Part B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00019C
+MARSHALL,Marysville Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000200
+MARSHALL,Marysville Township,Governor / Lt. Governor,,independent,"Orman, Greg",12,000200
+MARSHALL,Marysville Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",62,000200
+MARSHALL,Marysville Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000200
+MARSHALL,Marysville Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",57,000200
+MARSHALL,Murray Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000210
+MARSHALL,Murray Township,Governor / Lt. Governor,,independent,"Orman, Greg",25,000210
+MARSHALL,Murray Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",91,000210
+MARSHALL,Murray Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000210
+MARSHALL,Murray Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",107,000210
+MARSHALL,Noble Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000220
+MARSHALL,Noble Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000220
+MARSHALL,Noble Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",21,000220
+MARSHALL,Noble Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000220
+MARSHALL,Noble Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000220
+MARSHALL,Oketo Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000230
+MARSHALL,Oketo Township,Governor / Lt. Governor,,independent,"Orman, Greg",3,000230
+MARSHALL,Oketo Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",18,000230
+MARSHALL,Oketo Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000230
+MARSHALL,Oketo Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",30,000230
+MARSHALL,Richland Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000240
+MARSHALL,Richland Township,Governor / Lt. Governor,,independent,"Orman, Greg",4,000240
+MARSHALL,Richland Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",19,000240
+MARSHALL,Richland Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000240
+MARSHALL,Richland Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",40,000240
+MARSHALL,Rock Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000250
+MARSHALL,Rock Township,Governor / Lt. Governor,,independent,"Orman, Greg",4,000250
+MARSHALL,Rock Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,000250
+MARSHALL,Rock Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000250
+MARSHALL,Rock Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",26,000250
+MARSHALL,St. Bridget Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000260
+MARSHALL,St. Bridget Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000260
+MARSHALL,St. Bridget Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",23,000260
+MARSHALL,St. Bridget Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000260
+MARSHALL,St. Bridget Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",31,000260
+MARSHALL,Walnut Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000270
+MARSHALL,Walnut Township,Governor / Lt. Governor,,independent,"Orman, Greg",4,000270
+MARSHALL,Walnut Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",13,000270
+MARSHALL,Walnut Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000270
+MARSHALL,Walnut Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",18,000270
+MARSHALL,Waterville Township,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000280
+MARSHALL,Waterville Township,Governor / Lt. Governor,,independent,"Orman, Greg",27,000280
+MARSHALL,Waterville Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",105,000280
+MARSHALL,Waterville Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000280
+MARSHALL,Waterville Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",142,000280
+MARSHALL,Wells Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000290
+MARSHALL,Wells Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000290
+MARSHALL,Wells Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",40,000290
+MARSHALL,Wells Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000290
+MARSHALL,Wells Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",14,000290
+MARSHALL,West Vermillion Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000300
+MARSHALL,West Vermillion Township,Governor / Lt. Governor,,independent,"Orman, Greg",29,000300
+MARSHALL,West Vermillion Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",85,000300
+MARSHALL,West Vermillion Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000300
+MARSHALL,West Vermillion Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000300
+MARSHALL,Franklin Township C1,Governor / Lt. Governor,,independent,"Kloos, Rick",1,120020
+MARSHALL,Franklin Township C1,Governor / Lt. Governor,,independent,"Orman, Greg",5,120020
+MARSHALL,Franklin Township C1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",17,120020
+MARSHALL,Franklin Township C1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,120020
+MARSHALL,Franklin Township C1,Governor / Lt. Governor,,Republican,"Kobach, Kris",37,120020
+MARSHALL,Franklin Township C2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,120030
+MARSHALL,Franklin Township C2,Governor / Lt. Governor,,independent,"Orman, Greg",2,120030
+MARSHALL,Franklin Township C2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,120030
+MARSHALL,Franklin Township C2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,120030
+MARSHALL,Franklin Township C2,Governor / Lt. Governor,,Republican,"Kobach, Kris",21,120030
+MARSHALL,Guittard Township C1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,120040
+MARSHALL,Guittard Township C1,Governor / Lt. Governor,,independent,"Orman, Greg",0,120040
+MARSHALL,Guittard Township C1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,120040
+MARSHALL,Guittard Township C1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,120040
+MARSHALL,Guittard Township C1,Governor / Lt. Governor,,Republican,"Kobach, Kris",2,120040
+MARSHALL,Guittard Township C2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,120050
+MARSHALL,Guittard Township C2,Governor / Lt. Governor,,independent,"Orman, Greg",9,120050
+MARSHALL,Guittard Township C2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",52,120050
+MARSHALL,Guittard Township C2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,120050
+MARSHALL,Guittard Township C2,Governor / Lt. Governor,,Republican,"Kobach, Kris",55,120050
+MARSHALL,Balderson Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000010
+MARSHALL,Balderson Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",20,000010
+MARSHALL,Bigelow Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000020
+MARSHALL,Bigelow Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",10,000020
+MARSHALL,Blue Rapids City,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",55,000030
+MARSHALL,Blue Rapids City,Commissioner of Insurance,,Republican,"Schmidt, Vicki",264,000030
+MARSHALL,Blue Rapids Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000040
+MARSHALL,Blue Rapids Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",17,000040
+MARSHALL,Center Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000050
+MARSHALL,Center Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",54,000050
+MARSHALL,Clear Fork Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000060
+MARSHALL,Clear Fork Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",13,000060
+MARSHALL,Cleveland Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000070
+MARSHALL,Cleveland Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",21,000070
+MARSHALL,Cottage Hill Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000080
+MARSHALL,Cottage Hill Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",56,000080
+MARSHALL,East Vermillion Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",50,000090
+MARSHALL,East Vermillion Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",155,000090
+MARSHALL,Elm Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,000100
+MARSHALL,Elm Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",67,000100
+MARSHALL,Herkimer Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",11,000130
+MARSHALL,Herkimer Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",51,000130
+MARSHALL,Lincoln Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000140
+MARSHALL,Lincoln Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",67,000140
+MARSHALL,Logan Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",9,000150
+MARSHALL,Logan Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",92,000150
+MARSHALL,Marysville City Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",80,000160
+MARSHALL,Marysville City Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",288,000160
+MARSHALL,Marysville City Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",63,00017A
+MARSHALL,Marysville City Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",206,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00017B
+MARSHALL,Marysville City Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",26,00018A
+MARSHALL,Marysville City Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",123,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",87,00019A
+MARSHALL,Marysville City Ward 4 Part A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",227,00019A
+MARSHALL,Marysville City Ward 4 Part B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00019C
+MARSHALL,Marysville Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",29,000200
+MARSHALL,Marysville Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",98,000200
+MARSHALL,Murray Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",32,000210
+MARSHALL,Murray Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",203,000210
+MARSHALL,Noble Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",9,000220
+MARSHALL,Noble Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",73,000220
+MARSHALL,Oketo Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000230
+MARSHALL,Oketo Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",45,000230
+MARSHALL,Richland Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000240
+MARSHALL,Richland Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",52,000240
+MARSHALL,Rock Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000250
+MARSHALL,Rock Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",35,000250
+MARSHALL,St. Bridget Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000260
+MARSHALL,St. Bridget Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",50,000260
+MARSHALL,Walnut Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000270
+MARSHALL,Walnut Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",28,000270
+MARSHALL,Waterville Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",60,000280
+MARSHALL,Waterville Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",218,000280
+MARSHALL,Wells Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",19,000290
+MARSHALL,Wells Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",46,000290
+MARSHALL,West Vermillion Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",33,000300
+MARSHALL,West Vermillion Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",138,000300
+MARSHALL,Franklin Township C1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",13,120020
+MARSHALL,Franklin Township C1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",51,120020
+MARSHALL,Franklin Township C2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",1,120030
+MARSHALL,Franklin Township C2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",29,120030
+MARSHALL,Guittard Township C1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,120040
+MARSHALL,Guittard Township C1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",2,120040
+MARSHALL,Guittard Township C2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",24,120050
+MARSHALL,Guittard Township C2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",92,120050
+MARSHALL,Balderson Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",4,000010
+MARSHALL,Balderson Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000010
+MARSHALL,Balderson Township,Secretary of State,,Republican,"Schwab, Scott",17,000010
+MARSHALL,Bigelow Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,000020
+MARSHALL,Bigelow Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000020
+MARSHALL,Bigelow Township,Secretary of State,,Republican,"Schwab, Scott",7,000020
+MARSHALL,Blue Rapids City,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",106,000030
+MARSHALL,Blue Rapids City,Secretary of State,,Libertarian,"Hodgkinson, Rob",11,000030
+MARSHALL,Blue Rapids City,Secretary of State,,Republican,"Schwab, Scott",203,000030
+MARSHALL,Blue Rapids Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000040
+MARSHALL,Blue Rapids Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000040
+MARSHALL,Blue Rapids Township,Secretary of State,,Republican,"Schwab, Scott",14,000040
+MARSHALL,Center Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",13,000050
+MARSHALL,Center Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000050
+MARSHALL,Center Township,Secretary of State,,Republican,"Schwab, Scott",40,000050
+MARSHALL,Clear Fork Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,000060
+MARSHALL,Clear Fork Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000060
+MARSHALL,Clear Fork Township,Secretary of State,,Republican,"Schwab, Scott",8,000060
+MARSHALL,Cleveland Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",5,000070
+MARSHALL,Cleveland Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000070
+MARSHALL,Cleveland Township,Secretary of State,,Republican,"Schwab, Scott",18,000070
+MARSHALL,Cottage Hill Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",12,000080
+MARSHALL,Cottage Hill Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000080
+MARSHALL,Cottage Hill Township,Secretary of State,,Republican,"Schwab, Scott",43,000080
+MARSHALL,East Vermillion Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",97,000090
+MARSHALL,East Vermillion Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000090
+MARSHALL,East Vermillion Township,Secretary of State,,Republican,"Schwab, Scott",101,000090
+MARSHALL,Elm Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000100
+MARSHALL,Elm Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000100
+MARSHALL,Elm Creek Township,Secretary of State,,Republican,"Schwab, Scott",19,000100
+MARSHALL,Herkimer Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",17,000130
+MARSHALL,Herkimer Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000130
+MARSHALL,Herkimer Township,Secretary of State,,Republican,"Schwab, Scott",46,000130
+MARSHALL,Lincoln Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",12,000140
+MARSHALL,Lincoln Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000140
+MARSHALL,Lincoln Township,Secretary of State,,Republican,"Schwab, Scott",56,000140
+MARSHALL,Logan Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",19,000150
+MARSHALL,Logan Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000150
+MARSHALL,Logan Township,Secretary of State,,Republican,"Schwab, Scott",79,000150
+MARSHALL,Marysville City Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",147,000160
+MARSHALL,Marysville City Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000160
+MARSHALL,Marysville City Ward 1,Secretary of State,,Republican,"Schwab, Scott",213,000160
+MARSHALL,Marysville City Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",106,00017A
+MARSHALL,Marysville City Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,00017A
+MARSHALL,Marysville City Ward 2,Secretary of State,,Republican,"Schwab, Scott",154,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,00017B
+MARSHALL,Marysville City Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",72,00018A
+MARSHALL,Marysville City Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,00018A
+MARSHALL,Marysville City Ward 3,Secretary of State,,Republican,"Schwab, Scott",86,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",139,00019A
+MARSHALL,Marysville City Ward 4 Part A,Secretary of State,,Libertarian,"Hodgkinson, Rob",8,00019A
+MARSHALL,Marysville City Ward 4 Part A,Secretary of State,,Republican,"Schwab, Scott",173,00019A
+MARSHALL,Marysville City Ward 4 Part B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,Secretary of State,,Republican,"Schwab, Scott",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,Secretary of State,,Republican,"Schwab, Scott",0,00019C
+MARSHALL,Marysville Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",46,000200
+MARSHALL,Marysville Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000200
+MARSHALL,Marysville Township,Secretary of State,,Republican,"Schwab, Scott",81,000200
+MARSHALL,Murray Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",73,000210
+MARSHALL,Murray Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000210
+MARSHALL,Murray Township,Secretary of State,,Republican,"Schwab, Scott",155,000210
+MARSHALL,Noble Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",17,000220
+MARSHALL,Noble Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000220
+MARSHALL,Noble Township,Secretary of State,,Republican,"Schwab, Scott",61,000220
+MARSHALL,Oketo Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",15,000230
+MARSHALL,Oketo Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000230
+MARSHALL,Oketo Township,Secretary of State,,Republican,"Schwab, Scott",35,000230
+MARSHALL,Richland Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",13,000240
+MARSHALL,Richland Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000240
+MARSHALL,Richland Township,Secretary of State,,Republican,"Schwab, Scott",46,000240
+MARSHALL,Rock Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",16,000250
+MARSHALL,Rock Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000250
+MARSHALL,Rock Township,Secretary of State,,Republican,"Schwab, Scott",26,000250
+MARSHALL,St. Bridget Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",18,000260
+MARSHALL,St. Bridget Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000260
+MARSHALL,St. Bridget Township,Secretary of State,,Republican,"Schwab, Scott",38,000260
+MARSHALL,Walnut Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",12,000270
+MARSHALL,Walnut Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000270
+MARSHALL,Walnut Township,Secretary of State,,Republican,"Schwab, Scott",18,000270
+MARSHALL,Waterville Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",95,000280
+MARSHALL,Waterville Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000280
+MARSHALL,Waterville Township,Secretary of State,,Republican,"Schwab, Scott",172,000280
+MARSHALL,Wells Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",24,000290
+MARSHALL,Wells Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000290
+MARSHALL,Wells Township,Secretary of State,,Republican,"Schwab, Scott",38,000290
+MARSHALL,West Vermillion Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",74,000300
+MARSHALL,West Vermillion Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000300
+MARSHALL,West Vermillion Township,Secretary of State,,Republican,"Schwab, Scott",93,000300
+MARSHALL,Franklin Township C1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",15,120020
+MARSHALL,Franklin Township C1,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,120020
+MARSHALL,Franklin Township C1,Secretary of State,,Republican,"Schwab, Scott",46,120020
+MARSHALL,Franklin Township C2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",11,120030
+MARSHALL,Franklin Township C2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,120030
+MARSHALL,Franklin Township C2,Secretary of State,,Republican,"Schwab, Scott",20,120030
+MARSHALL,Guittard Township C1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,120040
+MARSHALL,Guittard Township C1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,120040
+MARSHALL,Guittard Township C1,Secretary of State,,Republican,"Schwab, Scott",2,120040
+MARSHALL,Guittard Township C2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",43,120050
+MARSHALL,Guittard Township C2,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,120050
+MARSHALL,Guittard Township C2,Secretary of State,,Republican,"Schwab, Scott",69,120050
+MARSHALL,Balderson Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",20,10
+MARSHALL,Bigelow Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",10,20
+MARSHALL,Blue Rapids City,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",290,30
+MARSHALL,Blue Rapids Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",18,40
+MARSHALL,Center Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",59,50
+MARSHALL,Clear Fork Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",13,60
+MARSHALL,Cleveland Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",21,70
+MARSHALL,Cottage Hill Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",53,80
+MARSHALL,East Vermillion Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",172,90
+MARSHALL,Elm Creek Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",63,100
+MARSHALL,Herkimer Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",58,130
+MARSHALL,Lincoln Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",62,140
+MARSHALL,Logan Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",102,150
+MARSHALL,Marysville City Ward 1,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",328,160
+MARSHALL,Marysville City Ward 2,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",236,00017A
+MARSHALL,Marysville City Ward 2 Exclave,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",0,00017B
+MARSHALL,Marysville City Ward 3,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",148,00018A
+MARSHALL,Marysville City Ward 3 Exclave,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",272,00019A
+MARSHALL,Marysville City Ward 4 Part B,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",0,00019C
+MARSHALL,Marysville Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",106,200
+MARSHALL,Murray Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",210,210
+MARSHALL,Noble Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",76,220
+MARSHALL,Oketo Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",47,230
+MARSHALL,Richland Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",52,240
+MARSHALL,Rock Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",40,250
+MARSHALL,St. Bridget Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",50,260
+MARSHALL,Walnut Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",33,270
+MARSHALL,Waterville Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",228,280
+MARSHALL,Wells Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",51,290
+MARSHALL,West Vermillion Township,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",147,300
+MARSHALL,Franklin Township C1,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",63,120020
+MARSHALL,Franklin Township C2,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",29,120030
+MARSHALL,Guittard Township C1,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",2,120040
+MARSHALL,Guittard Township C2,Kansas House of Representatives,106,Republican,"Pannbacker, Bill",98,120050
+MARSHALL,Balderson Township,State Treasurer,,Democratic,"Francisco, Marci",2,000010
+MARSHALL,Balderson Township,State Treasurer,,Republican,"LaTurner, Jake",21,000010
+MARSHALL,Bigelow Township,State Treasurer,,Democratic,"Francisco, Marci",3,000020
+MARSHALL,Bigelow Township,State Treasurer,,Republican,"LaTurner, Jake",10,000020
+MARSHALL,Blue Rapids City,State Treasurer,,Democratic,"Francisco, Marci",74,000030
+MARSHALL,Blue Rapids City,State Treasurer,,Republican,"LaTurner, Jake",246,000030
+MARSHALL,Blue Rapids Township,State Treasurer,,Democratic,"Francisco, Marci",4,000040
+MARSHALL,Blue Rapids Township,State Treasurer,,Republican,"LaTurner, Jake",18,000040
+MARSHALL,Center Township,State Treasurer,,Democratic,"Francisco, Marci",6,000050
+MARSHALL,Center Township,State Treasurer,,Republican,"LaTurner, Jake",51,000050
+MARSHALL,Clear Fork Township,State Treasurer,,Democratic,"Francisco, Marci",3,000060
+MARSHALL,Clear Fork Township,State Treasurer,,Republican,"LaTurner, Jake",11,000060
+MARSHALL,Cleveland Township,State Treasurer,,Democratic,"Francisco, Marci",4,000070
+MARSHALL,Cleveland Township,State Treasurer,,Republican,"LaTurner, Jake",20,000070
+MARSHALL,Cottage Hill Township,State Treasurer,,Democratic,"Francisco, Marci",3,000080
+MARSHALL,Cottage Hill Township,State Treasurer,,Republican,"LaTurner, Jake",53,000080
+MARSHALL,East Vermillion Township,State Treasurer,,Democratic,"Francisco, Marci",63,000090
+MARSHALL,East Vermillion Township,State Treasurer,,Republican,"LaTurner, Jake",131,000090
+MARSHALL,Elm Creek Township,State Treasurer,,Democratic,"Francisco, Marci",12,000100
+MARSHALL,Elm Creek Township,State Treasurer,,Republican,"LaTurner, Jake",28,000100
+MARSHALL,Herkimer Township,State Treasurer,,Democratic,"Francisco, Marci",13,000130
+MARSHALL,Herkimer Township,State Treasurer,,Republican,"LaTurner, Jake",48,000130
+MARSHALL,Lincoln Township,State Treasurer,,Democratic,"Francisco, Marci",5,000140
+MARSHALL,Lincoln Township,State Treasurer,,Republican,"LaTurner, Jake",60,000140
+MARSHALL,Logan Township,State Treasurer,,Democratic,"Francisco, Marci",15,000150
+MARSHALL,Logan Township,State Treasurer,,Republican,"LaTurner, Jake",85,000150
+MARSHALL,Marysville City Ward 1,State Treasurer,,Democratic,"Francisco, Marci",123,000160
+MARSHALL,Marysville City Ward 1,State Treasurer,,Republican,"LaTurner, Jake",244,000160
+MARSHALL,Marysville City Ward 2,State Treasurer,,Democratic,"Francisco, Marci",77,00017A
+MARSHALL,Marysville City Ward 2,State Treasurer,,Republican,"LaTurner, Jake",191,00017A
+MARSHALL,Marysville City Ward 2 Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,00017B
+MARSHALL,Marysville City Ward 3,State Treasurer,,Democratic,"Francisco, Marci",62,00018A
+MARSHALL,Marysville City Ward 3,State Treasurer,,Republican,"LaTurner, Jake",106,00018A
+MARSHALL,Marysville City Ward 3 Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,State Treasurer,,Democratic,"Francisco, Marci",102,00019A
+MARSHALL,Marysville City Ward 4 Part A,State Treasurer,,Republican,"LaTurner, Jake",215,00019A
+MARSHALL,Marysville City Ward 4 Part B,State Treasurer,,Democratic,"Francisco, Marci",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,State Treasurer,,Republican,"LaTurner, Jake",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,00019C
+MARSHALL,Marysville Township,State Treasurer,,Democratic,"Francisco, Marci",40,000200
+MARSHALL,Marysville Township,State Treasurer,,Republican,"LaTurner, Jake",89,000200
+MARSHALL,Murray Township,State Treasurer,,Democratic,"Francisco, Marci",53,000210
+MARSHALL,Murray Township,State Treasurer,,Republican,"LaTurner, Jake",177,000210
+MARSHALL,Noble Township,State Treasurer,,Democratic,"Francisco, Marci",12,000220
+MARSHALL,Noble Township,State Treasurer,,Republican,"LaTurner, Jake",69,000220
+MARSHALL,Oketo Township,State Treasurer,,Democratic,"Francisco, Marci",9,000230
+MARSHALL,Oketo Township,State Treasurer,,Republican,"LaTurner, Jake",40,000230
+MARSHALL,Richland Township,State Treasurer,,Democratic,"Francisco, Marci",11,000240
+MARSHALL,Richland Township,State Treasurer,,Republican,"LaTurner, Jake",49,000240
+MARSHALL,Rock Township,State Treasurer,,Democratic,"Francisco, Marci",10,000250
+MARSHALL,Rock Township,State Treasurer,,Republican,"LaTurner, Jake",29,000250
+MARSHALL,St. Bridget Township,State Treasurer,,Democratic,"Francisco, Marci",11,000260
+MARSHALL,St. Bridget Township,State Treasurer,,Republican,"LaTurner, Jake",44,000260
+MARSHALL,Walnut Township,State Treasurer,,Democratic,"Francisco, Marci",4,000270
+MARSHALL,Walnut Township,State Treasurer,,Republican,"LaTurner, Jake",27,000270
+MARSHALL,Waterville Township,State Treasurer,,Democratic,"Francisco, Marci",72,000280
+MARSHALL,Waterville Township,State Treasurer,,Republican,"LaTurner, Jake",203,000280
+MARSHALL,Wells Township,State Treasurer,,Democratic,"Francisco, Marci",22,000290
+MARSHALL,Wells Township,State Treasurer,,Republican,"LaTurner, Jake",41,000290
+MARSHALL,West Vermillion Township,State Treasurer,,Democratic,"Francisco, Marci",50,000300
+MARSHALL,West Vermillion Township,State Treasurer,,Republican,"LaTurner, Jake",122,000300
+MARSHALL,Franklin Township C1,State Treasurer,,Democratic,"Francisco, Marci",13,120020
+MARSHALL,Franklin Township C1,State Treasurer,,Republican,"LaTurner, Jake",53,120020
+MARSHALL,Franklin Township C2,State Treasurer,,Democratic,"Francisco, Marci",4,120030
+MARSHALL,Franklin Township C2,State Treasurer,,Republican,"LaTurner, Jake",29,120030
+MARSHALL,Guittard Township C1,State Treasurer,,Democratic,"Francisco, Marci",0,120040
+MARSHALL,Guittard Township C1,State Treasurer,,Republican,"LaTurner, Jake",1,120040
+MARSHALL,Guittard Township C2,State Treasurer,,Democratic,"Francisco, Marci",30,120050
+MARSHALL,Guittard Township C2,State Treasurer,,Republican,"LaTurner, Jake",84,120050
+MARSHALL,Balderson Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",2,000010
+MARSHALL,Balderson Township,United States House of Representatives,1,Republican,"Marshall, Roger",21,000010
+MARSHALL,Bigelow Township,United States House of Representatives,2,Democratic,"Davis, Paul",6,000020
+MARSHALL,Bigelow Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,000020
+MARSHALL,Bigelow Township,United States House of Representatives,2,Republican,"Watkins, Steve",7,000020
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Democratic,"Davis, Paul",91,000030
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Libertarian,"Standley, Kelly",31,000030
+MARSHALL,Blue Rapids City,United States House of Representatives,2,Republican,"Watkins, Steve",208,000030
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Democratic,"Davis, Paul",8,000040
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000040
+MARSHALL,Blue Rapids Township,United States House of Representatives,2,Republican,"Watkins, Steve",14,000040
+MARSHALL,Center Township,United States House of Representatives,2,Democratic,"Davis, Paul",8,000050
+MARSHALL,Center Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000050
+MARSHALL,Center Township,United States House of Representatives,2,Republican,"Watkins, Steve",49,000050
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Democratic,"Davis, Paul",6,000060
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,000060
+MARSHALL,Clear Fork Township,United States House of Representatives,2,Republican,"Watkins, Steve",8,000060
+MARSHALL,Cleveland Township,United States House of Representatives,2,Democratic,"Davis, Paul",5,000070
+MARSHALL,Cleveland Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000070
+MARSHALL,Cleveland Township,United States House of Representatives,2,Republican,"Watkins, Steve",17,000070
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Democratic,"Davis, Paul",8,000080
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000080
+MARSHALL,Cottage Hill Township,United States House of Representatives,2,Republican,"Watkins, Steve",40,000080
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Democratic,"Davis, Paul",86,000090
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",18,000090
+MARSHALL,East Vermillion Township,United States House of Representatives,2,Republican,"Watkins, Steve",105,000090
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Democratic,"Davis, Paul",7,000100
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000100
+MARSHALL,Elm Creek Township,United States House of Representatives,2,Republican,"Watkins, Steve",49,000100
+MARSHALL,Herkimer Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",19,000130
+MARSHALL,Herkimer Township,United States House of Representatives,1,Republican,"Marshall, Roger",47,000130
+MARSHALL,Lincoln Township,United States House of Representatives,2,Democratic,"Davis, Paul",13,000140
+MARSHALL,Lincoln Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000140
+MARSHALL,Lincoln Township,United States House of Representatives,2,Republican,"Watkins, Steve",53,000140
+MARSHALL,Logan Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",21,000150
+MARSHALL,Logan Township,United States House of Representatives,1,Republican,"Marshall, Roger",81,000150
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,Democratic,"LaPolice, Alan",138,000160
+MARSHALL,Marysville City Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",232,000160
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,Democratic,"LaPolice, Alan",152,00017A
+MARSHALL,Marysville City Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",122,00017A
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,00017B
+MARSHALL,Marysville City Ward 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00017B
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,Democratic,"LaPolice, Alan",68,00018A
+MARSHALL,Marysville City Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",101,00018A
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,00018B
+MARSHALL,Marysville City Ward 3 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00018B
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,Democratic,"LaPolice, Alan",128,00019A
+MARSHALL,Marysville City Ward 4 Part A,United States House of Representatives,1,Republican,"Marshall, Roger",198,00019A
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,00019B
+MARSHALL,Marysville City Ward 4 Part B,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019B
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,00019C
+MARSHALL,Marysville City Ward 4 Part B Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00019C
+MARSHALL,Marysville Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",44,000200
+MARSHALL,Marysville Township,United States House of Representatives,1,Republican,"Marshall, Roger",90,000200
+MARSHALL,Murray Township,United States House of Representatives,2,Democratic,"Davis, Paul",68,000210
+MARSHALL,Murray Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",16,000210
+MARSHALL,Murray Township,United States House of Representatives,2,Republican,"Watkins, Steve",157,000210
+MARSHALL,Noble Township,United States House of Representatives,2,Democratic,"Davis, Paul",17,000220
+MARSHALL,Noble Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000220
+MARSHALL,Noble Township,United States House of Representatives,2,Republican,"Watkins, Steve",67,000220
+MARSHALL,Oketo Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",15,000230
+MARSHALL,Oketo Township,United States House of Representatives,1,Republican,"Marshall, Roger",34,000230
+MARSHALL,Richland Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",13,000240
+MARSHALL,Richland Township,United States House of Representatives,1,Republican,"Marshall, Roger",47,000240
+MARSHALL,Rock Township,United States House of Representatives,2,Democratic,"Davis, Paul",14,000250
+MARSHALL,Rock Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000250
+MARSHALL,Rock Township,United States House of Representatives,2,Republican,"Watkins, Steve",27,000250
+MARSHALL,St. Bridget Township,United States House of Representatives,1,Democratic,"LaPolice, Alan",19,000260
+MARSHALL,St. Bridget Township,United States House of Representatives,1,Republican,"Marshall, Roger",41,000260
+MARSHALL,Walnut Township,United States House of Representatives,2,Democratic,"Davis, Paul",6,000270
+MARSHALL,Walnut Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000270
+MARSHALL,Walnut Township,United States House of Representatives,2,Republican,"Watkins, Steve",24,000270
+MARSHALL,Waterville Township,United States House of Representatives,2,Democratic,"Davis, Paul",78,000280
+MARSHALL,Waterville Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",11,000280
+MARSHALL,Waterville Township,United States House of Representatives,2,Republican,"Watkins, Steve",183,000280
+MARSHALL,Wells Township,United States House of Representatives,2,Democratic,"Davis, Paul",33,000290
+MARSHALL,Wells Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000290
+MARSHALL,Wells Township,United States House of Representatives,2,Republican,"Watkins, Steve",29,000290
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Democratic,"Davis, Paul",77,000300
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",9,000300
+MARSHALL,West Vermillion Township,United States House of Representatives,2,Republican,"Watkins, Steve",92,000300
+MARSHALL,Franklin Township C1,United States House of Representatives,1,Democratic,"LaPolice, Alan",19,120020
+MARSHALL,Franklin Township C1,United States House of Representatives,1,Republican,"Marshall, Roger",46,120020
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Democratic,"Davis, Paul",7,120030
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,120030
+MARSHALL,Franklin Township C2,United States House of Representatives,2,Republican,"Watkins, Steve",25,120030
+MARSHALL,Guittard Township C1,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,120040
+MARSHALL,Guittard Township C1,United States House of Representatives,1,Republican,"Marshall, Roger",2,120040
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Democratic,"Davis, Paul",40,120050
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Libertarian,"Standley, Kelly",8,120050
+MARSHALL,Guittard Township C2,United States House of Representatives,2,Republican,"Watkins, Steve",70,120050

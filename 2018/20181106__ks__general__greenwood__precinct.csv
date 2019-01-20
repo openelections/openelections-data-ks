@@ -1,0 +1,358 @@
+county,precinct,office,district,party,candidate,votes,vtd
+GREENWOOD,Bachelor Township,Attorney General,,Democratic,"Swain, Sarah G.",18,000010
+GREENWOOD,Bachelor Township,Attorney General,,Republican,"Schmidt, Derek",84,000010
+GREENWOOD,Eureka Township,Attorney General,,Democratic,"Swain, Sarah G.",42,000020
+GREENWOOD,Eureka Township,Attorney General,,Republican,"Schmidt, Derek",134,000020
+GREENWOOD,Eureka Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",53,000030
+GREENWOOD,Eureka Ward 1,Attorney General,,Republican,"Schmidt, Derek",251,000030
+GREENWOOD,Eureka Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",43,000040
+GREENWOOD,Eureka Ward 2,Attorney General,,Republican,"Schmidt, Derek",170,000040
+GREENWOOD,Eureka Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",59,000050
+GREENWOOD,Eureka Ward 3,Attorney General,,Republican,"Schmidt, Derek",179,000050
+GREENWOOD,Fall River Township,Attorney General,,Democratic,"Swain, Sarah G.",27,000060
+GREENWOOD,Fall River Township,Attorney General,,Republican,"Schmidt, Derek",67,000060
+GREENWOOD,Janesville Township,Attorney General,,Democratic,"Swain, Sarah G.",22,000070
+GREENWOOD,Janesville Township,Attorney General,,Republican,"Schmidt, Derek",156,000070
+GREENWOOD,Lane Township,Attorney General,,Democratic,"Swain, Sarah G.",8,000080
+GREENWOOD,Lane Township,Attorney General,,Republican,"Schmidt, Derek",27,000080
+GREENWOOD,Madison Township,Attorney General,,Democratic,"Swain, Sarah G.",96,000090
+GREENWOOD,Madison Township,Attorney General,,Republican,"Schmidt, Derek",271,000090
+GREENWOOD,Otter Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",20,000100
+GREENWOOD,Otter Creek Township,Attorney General,,Republican,"Schmidt, Derek",59,000100
+GREENWOOD,Pleasant Grove Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000110
+GREENWOOD,Pleasant Grove Township,Attorney General,,Republican,"Schmidt, Derek",31,000110
+GREENWOOD,Quincy Township,Attorney General,,Democratic,"Swain, Sarah G.",7,000120
+GREENWOOD,Quincy Township,Attorney General,,Republican,"Schmidt, Derek",41,000120
+GREENWOOD,Salem Township,Attorney General,,Democratic,"Swain, Sarah G.",1,000130
+GREENWOOD,Salem Township,Attorney General,,Republican,"Schmidt, Derek",14,000130
+GREENWOOD,Salt Springs Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000140
+GREENWOOD,Salt Springs Township,Attorney General,,Republican,"Schmidt, Derek",31,000140
+GREENWOOD,Shell Rock Township,Attorney General,,Democratic,"Swain, Sarah G.",7,000150
+GREENWOOD,Shell Rock Township,Attorney General,,Republican,"Schmidt, Derek",65,000150
+GREENWOOD,Spring Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",14,000170
+GREENWOOD,Spring Creek Township,Attorney General,,Republican,"Schmidt, Derek",42,000170
+GREENWOOD,Twin Grove Township,Attorney General,,Democratic,"Swain, Sarah G.",3,000180
+GREENWOOD,Twin Grove Township,Attorney General,,Republican,"Schmidt, Derek",18,000180
+GREENWOOD,South Salem Township C01,Attorney General,,Democratic,"Swain, Sarah G.",8,200010
+GREENWOOD,South Salem Township C01,Attorney General,,Republican,"Schmidt, Derek",36,200010
+GREENWOOD,South Salem Township C04,Attorney General,,Democratic,"Swain, Sarah G.",0,200020
+GREENWOOD,South Salem Township C04,Attorney General,,Republican,"Schmidt, Derek",0,200020
+GREENWOOD,Eureka Airport,Attorney General,,Democratic,"Swain, Sarah G.",0,900010
+GREENWOOD,Eureka Airport,Attorney General,,Republican,"Schmidt, Derek",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900020
+GREENWOOD,Bachelor Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
+GREENWOOD,Bachelor Township,Governor / Lt. Governor,,independent,"Orman, Greg",11,000010
+GREENWOOD,Bachelor Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",30,000010
+GREENWOOD,Bachelor Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000010
+GREENWOOD,Bachelor Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",60,000010
+GREENWOOD,Eureka Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000020
+GREENWOOD,Eureka Township,Governor / Lt. Governor,,independent,"Orman, Greg",11,000020
+GREENWOOD,Eureka Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",75,000020
+GREENWOOD,Eureka Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",5,000020
+GREENWOOD,Eureka Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",86,000020
+GREENWOOD,Eureka Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000030
+GREENWOOD,Eureka Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",31,000030
+GREENWOOD,Eureka Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",89,000030
+GREENWOOD,Eureka Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",13,000030
+GREENWOOD,Eureka Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",175,000030
+GREENWOOD,Eureka Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000040
+GREENWOOD,Eureka Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",25,000040
+GREENWOOD,Eureka Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",72,000040
+GREENWOOD,Eureka Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000040
+GREENWOOD,Eureka Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",110,000040
+GREENWOOD,Eureka Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000050
+GREENWOOD,Eureka Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",27,000050
+GREENWOOD,Eureka Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",84,000050
+GREENWOOD,Eureka Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,000050
+GREENWOOD,Eureka Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",126,000050
+GREENWOOD,Fall River Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000060
+GREENWOOD,Fall River Township,Governor / Lt. Governor,,independent,"Orman, Greg",6,000060
+GREENWOOD,Fall River Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",32,000060
+GREENWOOD,Fall River Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000060
+GREENWOOD,Fall River Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",58,000060
+GREENWOOD,Janesville Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000070
+GREENWOOD,Janesville Township,Governor / Lt. Governor,,independent,"Orman, Greg",14,000070
+GREENWOOD,Janesville Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",41,000070
+GREENWOOD,Janesville Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,000070
+GREENWOOD,Janesville Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",118,000070
+GREENWOOD,Lane Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000080
+GREENWOOD,Lane Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000080
+GREENWOOD,Lane Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",9,000080
+GREENWOOD,Lane Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000080
+GREENWOOD,Lane Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",23,000080
+GREENWOOD,Madison Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000090
+GREENWOOD,Madison Township,Governor / Lt. Governor,,independent,"Orman, Greg",39,000090
+GREENWOOD,Madison Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",122,000090
+GREENWOOD,Madison Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000090
+GREENWOOD,Madison Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",201,000090
+GREENWOOD,Otter Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000100
+GREENWOOD,Otter Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000100
+GREENWOOD,Otter Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",22,000100
+GREENWOOD,Otter Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000100
+GREENWOOD,Otter Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",48,000100
+GREENWOOD,Pleasant Grove Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000110
+GREENWOOD,Pleasant Grove Township,Governor / Lt. Governor,,independent,"Orman, Greg",4,000110
+GREENWOOD,Pleasant Grove Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,000110
+GREENWOOD,Pleasant Grove Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000110
+GREENWOOD,Pleasant Grove Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",19,000110
+GREENWOOD,Quincy Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000120
+GREENWOOD,Quincy Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000120
+GREENWOOD,Quincy Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",9,000120
+GREENWOOD,Quincy Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000120
+GREENWOOD,Quincy Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",31,000120
+GREENWOOD,Salem Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000130
+GREENWOOD,Salem Township,Governor / Lt. Governor,,independent,"Orman, Greg",4,000130
+GREENWOOD,Salem Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",4,000130
+GREENWOOD,Salem Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000130
+GREENWOOD,Salem Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",6,000130
+GREENWOOD,Salt Springs Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000140
+GREENWOOD,Salt Springs Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000140
+GREENWOOD,Salt Springs Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",4,000140
+GREENWOOD,Salt Springs Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000140
+GREENWOOD,Salt Springs Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",29,000140
+GREENWOOD,Shell Rock Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000150
+GREENWOOD,Shell Rock Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000150
+GREENWOOD,Shell Rock Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,000150
+GREENWOOD,Shell Rock Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000150
+GREENWOOD,Shell Rock Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",52,000150
+GREENWOOD,Spring Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000170
+GREENWOOD,Spring Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",6,000170
+GREENWOOD,Spring Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",22,000170
+GREENWOOD,Spring Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000170
+GREENWOOD,Spring Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",28,000170
+GREENWOOD,Twin Grove Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000180
+GREENWOOD,Twin Grove Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000180
+GREENWOOD,Twin Grove Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",6,000180
+GREENWOOD,Twin Grove Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000180
+GREENWOOD,Twin Grove Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,000180
+GREENWOOD,South Salem Township C01,Governor / Lt. Governor,,independent,"Kloos, Rick",0,200010
+GREENWOOD,South Salem Township C01,Governor / Lt. Governor,,independent,"Orman, Greg",4,200010
+GREENWOOD,South Salem Township C01,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,200010
+GREENWOOD,South Salem Township C01,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,200010
+GREENWOOD,South Salem Township C01,Governor / Lt. Governor,,Republican,"Kobach, Kris",31,200010
+GREENWOOD,South Salem Township C04,Governor / Lt. Governor,,independent,"Kloos, Rick",0,200020
+GREENWOOD,South Salem Township C04,Governor / Lt. Governor,,independent,"Orman, Greg",0,200020
+GREENWOOD,South Salem Township C04,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,200020
+GREENWOOD,South Salem Township C04,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,200020
+GREENWOOD,South Salem Township C04,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,200020
+GREENWOOD,Eureka Airport,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900010
+GREENWOOD,Eureka Airport,Governor / Lt. Governor,,independent,"Orman, Greg",0,900010
+GREENWOOD,Eureka Airport,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900010
+GREENWOOD,Eureka Airport,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900010
+GREENWOOD,Eureka Airport,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900020
+GREENWOOD,Bachelor Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",16,000010
+GREENWOOD,Bachelor Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",84,000010
+GREENWOOD,Eureka Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",45,000020
+GREENWOOD,Eureka Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",128,000020
+GREENWOOD,Eureka Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",47,000030
+GREENWOOD,Eureka Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",255,000030
+GREENWOOD,Eureka Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",44,000040
+GREENWOOD,Eureka Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",166,000040
+GREENWOOD,Eureka Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",60,000050
+GREENWOOD,Eureka Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",172,000050
+GREENWOOD,Fall River Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",21,000060
+GREENWOOD,Fall River Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",70,000060
+GREENWOOD,Janesville Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",18,000070
+GREENWOOD,Janesville Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",149,000070
+GREENWOOD,Lane Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",8,000080
+GREENWOOD,Lane Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",25,000080
+GREENWOOD,Madison Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",85,000090
+GREENWOOD,Madison Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",278,000090
+GREENWOOD,Otter Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",23,000100
+GREENWOOD,Otter Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",55,000100
+GREENWOOD,Pleasant Grove Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",8,000110
+GREENWOOD,Pleasant Grove Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",26,000110
+GREENWOOD,Quincy Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000120
+GREENWOOD,Quincy Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",41,000120
+GREENWOOD,Salem Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000130
+GREENWOOD,Salem Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",12,000130
+GREENWOOD,Salt Springs Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000140
+GREENWOOD,Salt Springs Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",29,000140
+GREENWOOD,Shell Rock Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000150
+GREENWOOD,Shell Rock Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",65,000150
+GREENWOOD,Spring Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",14,000170
+GREENWOOD,Spring Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",42,000170
+GREENWOOD,Twin Grove Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000180
+GREENWOOD,Twin Grove Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",17,000180
+GREENWOOD,South Salem Township C01,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,200010
+GREENWOOD,South Salem Township C01,Commissioner of Insurance,,Republican,"Schmidt, Vicki",33,200010
+GREENWOOD,South Salem Township C04,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,200020
+GREENWOOD,South Salem Township C04,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,200020
+GREENWOOD,Eureka Airport,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900010
+GREENWOOD,Eureka Airport,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900020
+GREENWOOD,Bachelor Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",23,000010
+GREENWOOD,Bachelor Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000010
+GREENWOOD,Bachelor Township,Secretary of State,,Republican,"Schwab, Scott",77,000010
+GREENWOOD,Eureka Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",58,000020
+GREENWOOD,Eureka Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000020
+GREENWOOD,Eureka Township,Secretary of State,,Republican,"Schwab, Scott",109,000020
+GREENWOOD,Eureka Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",75,000030
+GREENWOOD,Eureka Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",14,000030
+GREENWOOD,Eureka Ward 1,Secretary of State,,Republican,"Schwab, Scott",216,000030
+GREENWOOD,Eureka Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",67,000040
+GREENWOOD,Eureka Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000040
+GREENWOOD,Eureka Ward 2,Secretary of State,,Republican,"Schwab, Scott",140,000040
+GREENWOOD,Eureka Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",71,000050
+GREENWOOD,Eureka Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",10,000050
+GREENWOOD,Eureka Ward 3,Secretary of State,,Republican,"Schwab, Scott",151,000050
+GREENWOOD,Fall River Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",31,000060
+GREENWOOD,Fall River Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000060
+GREENWOOD,Fall River Township,Secretary of State,,Republican,"Schwab, Scott",59,000060
+GREENWOOD,Janesville Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",35,000070
+GREENWOOD,Janesville Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000070
+GREENWOOD,Janesville Township,Secretary of State,,Republican,"Schwab, Scott",134,000070
+GREENWOOD,Lane Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",7,000080
+GREENWOOD,Lane Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000080
+GREENWOOD,Lane Township,Secretary of State,,Republican,"Schwab, Scott",26,000080
+GREENWOOD,Madison Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",117,000090
+GREENWOOD,Madison Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",12,000090
+GREENWOOD,Madison Township,Secretary of State,,Republican,"Schwab, Scott",237,000090
+GREENWOOD,Otter Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",23,000100
+GREENWOOD,Otter Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000100
+GREENWOOD,Otter Creek Township,Secretary of State,,Republican,"Schwab, Scott",55,000100
+GREENWOOD,Pleasant Grove Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",11,000110
+GREENWOOD,Pleasant Grove Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000110
+GREENWOOD,Pleasant Grove Township,Secretary of State,,Republican,"Schwab, Scott",24,000110
+GREENWOOD,Quincy Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",9,000120
+GREENWOOD,Quincy Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000120
+GREENWOOD,Quincy Township,Secretary of State,,Republican,"Schwab, Scott",38,000120
+GREENWOOD,Salem Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",1,000130
+GREENWOOD,Salem Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000130
+GREENWOOD,Salem Township,Secretary of State,,Republican,"Schwab, Scott",13,000130
+GREENWOOD,Salt Springs Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",7,000140
+GREENWOOD,Salt Springs Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000140
+GREENWOOD,Salt Springs Township,Secretary of State,,Republican,"Schwab, Scott",26,000140
+GREENWOOD,Shell Rock Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000150
+GREENWOOD,Shell Rock Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000150
+GREENWOOD,Shell Rock Township,Secretary of State,,Republican,"Schwab, Scott",63,000150
+GREENWOOD,Spring Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",18,000170
+GREENWOOD,Spring Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000170
+GREENWOOD,Spring Creek Township,Secretary of State,,Republican,"Schwab, Scott",38,000170
+GREENWOOD,Twin Grove Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,000180
+GREENWOOD,Twin Grove Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000180
+GREENWOOD,Twin Grove Township,Secretary of State,,Republican,"Schwab, Scott",15,000180
+GREENWOOD,South Salem Township C01,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",12,200010
+GREENWOOD,South Salem Township C01,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,200010
+GREENWOOD,South Salem Township C01,Secretary of State,,Republican,"Schwab, Scott",29,200010
+GREENWOOD,South Salem Township C04,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,200020
+GREENWOOD,South Salem Township C04,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,200020
+GREENWOOD,South Salem Township C04,Secretary of State,,Republican,"Schwab, Scott",0,200020
+GREENWOOD,Eureka Airport,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900010
+GREENWOOD,Eureka Airport,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900010
+GREENWOOD,Eureka Airport,Secretary of State,,Republican,"Schwab, Scott",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,900020
+GREENWOOD,Bachelor Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",85,10
+GREENWOOD,Eureka Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",149,20
+GREENWOOD,Eureka Ward 1,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",273,30
+GREENWOOD,Eureka Ward 2,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",188,40
+GREENWOOD,Eureka Ward 3,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",207,50
+GREENWOOD,Fall River Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",78,60
+GREENWOOD,Janesville Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",135,70
+GREENWOOD,Lane Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",27,80
+GREENWOOD,Madison Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",311,90
+GREENWOOD,Otter Creek Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",63,100
+GREENWOOD,Pleasant Grove Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",31,110
+GREENWOOD,Quincy Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",34,120
+GREENWOOD,Salem Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",11,130
+GREENWOOD,Salt Springs Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",29,140
+GREENWOOD,Shell Rock Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",68,150
+GREENWOOD,Spring Creek Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",46,170
+GREENWOOD,Twin Grove Township,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",18,180
+GREENWOOD,South Salem Township C01,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",38,200010
+GREENWOOD,South Salem Township C04,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",0,200020
+GREENWOOD,Eureka Airport,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,Kansas House of Representatives,13,Republican,"Hibbard, Larry P.",0,900020
+GREENWOOD,Bachelor Township,State Treasurer,,Democratic,"Francisco, Marci",19,000010
+GREENWOOD,Bachelor Township,State Treasurer,,Republican,"LaTurner, Jake",83,000010
+GREENWOOD,Eureka Township,State Treasurer,,Democratic,"Francisco, Marci",45,000020
+GREENWOOD,Eureka Township,State Treasurer,,Republican,"LaTurner, Jake",131,000020
+GREENWOOD,Eureka Ward 1,State Treasurer,,Democratic,"Francisco, Marci",59,000030
+GREENWOOD,Eureka Ward 1,State Treasurer,,Republican,"LaTurner, Jake",240,000030
+GREENWOOD,Eureka Ward 2,State Treasurer,,Democratic,"Francisco, Marci",52,000040
+GREENWOOD,Eureka Ward 2,State Treasurer,,Republican,"LaTurner, Jake",161,000040
+GREENWOOD,Eureka Ward 3,State Treasurer,,Democratic,"Francisco, Marci",57,000050
+GREENWOOD,Eureka Ward 3,State Treasurer,,Republican,"LaTurner, Jake",174,000050
+GREENWOOD,Fall River Township,State Treasurer,,Democratic,"Francisco, Marci",24,000060
+GREENWOOD,Fall River Township,State Treasurer,,Republican,"LaTurner, Jake",65,000060
+GREENWOOD,Janesville Township,State Treasurer,,Democratic,"Francisco, Marci",27,000070
+GREENWOOD,Janesville Township,State Treasurer,,Republican,"LaTurner, Jake",148,000070
+GREENWOOD,Lane Township,State Treasurer,,Democratic,"Francisco, Marci",7,000080
+GREENWOOD,Lane Township,State Treasurer,,Republican,"LaTurner, Jake",27,000080
+GREENWOOD,Madison Township,State Treasurer,,Democratic,"Francisco, Marci",96,000090
+GREENWOOD,Madison Township,State Treasurer,,Republican,"LaTurner, Jake",270,000090
+GREENWOOD,Otter Creek Township,State Treasurer,,Democratic,"Francisco, Marci",22,000100
+GREENWOOD,Otter Creek Township,State Treasurer,,Republican,"LaTurner, Jake",58,000100
+GREENWOOD,Pleasant Grove Township,State Treasurer,,Democratic,"Francisco, Marci",10,000110
+GREENWOOD,Pleasant Grove Township,State Treasurer,,Republican,"LaTurner, Jake",25,000110
+GREENWOOD,Quincy Township,State Treasurer,,Democratic,"Francisco, Marci",7,000120
+GREENWOOD,Quincy Township,State Treasurer,,Republican,"LaTurner, Jake",39,000120
+GREENWOOD,Salem Township,State Treasurer,,Democratic,"Francisco, Marci",3,000130
+GREENWOOD,Salem Township,State Treasurer,,Republican,"LaTurner, Jake",12,000130
+GREENWOOD,Salt Springs Township,State Treasurer,,Democratic,"Francisco, Marci",3,000140
+GREENWOOD,Salt Springs Township,State Treasurer,,Republican,"LaTurner, Jake",30,000140
+GREENWOOD,Shell Rock Township,State Treasurer,,Democratic,"Francisco, Marci",6,000150
+GREENWOOD,Shell Rock Township,State Treasurer,,Republican,"LaTurner, Jake",66,000150
+GREENWOOD,Spring Creek Township,State Treasurer,,Democratic,"Francisco, Marci",14,000170
+GREENWOOD,Spring Creek Township,State Treasurer,,Republican,"LaTurner, Jake",43,000170
+GREENWOOD,Twin Grove Township,State Treasurer,,Democratic,"Francisco, Marci",3,000180
+GREENWOOD,Twin Grove Township,State Treasurer,,Republican,"LaTurner, Jake",17,000180
+GREENWOOD,South Salem Township C01,State Treasurer,,Democratic,"Francisco, Marci",9,200010
+GREENWOOD,South Salem Township C01,State Treasurer,,Republican,"LaTurner, Jake",31,200010
+GREENWOOD,South Salem Township C04,State Treasurer,,Democratic,"Francisco, Marci",0,200020
+GREENWOOD,South Salem Township C04,State Treasurer,,Republican,"LaTurner, Jake",0,200020
+GREENWOOD,Eureka Airport,State Treasurer,,Democratic,"Francisco, Marci",0,900010
+GREENWOOD,Eureka Airport,State Treasurer,,Republican,"LaTurner, Jake",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,900020
+GREENWOOD,Bachelor Township,United States House of Representatives,4,Democratic,"Thompson, James A.",18,000010
+GREENWOOD,Bachelor Township,United States House of Representatives,4,Republican,"Estes, Ron",84,000010
+GREENWOOD,Eureka Township,United States House of Representatives,4,Democratic,"Thompson, James A.",49,000020
+GREENWOOD,Eureka Township,United States House of Representatives,4,Republican,"Estes, Ron",129,000020
+GREENWOOD,Eureka Ward 1,United States House of Representatives,4,Democratic,"Thompson, James A.",71,000030
+GREENWOOD,Eureka Ward 1,United States House of Representatives,4,Republican,"Estes, Ron",235,000030
+GREENWOOD,Eureka Ward 2,United States House of Representatives,4,Democratic,"Thompson, James A.",51,000040
+GREENWOOD,Eureka Ward 2,United States House of Representatives,4,Republican,"Estes, Ron",158,000040
+GREENWOOD,Eureka Ward 3,United States House of Representatives,4,Democratic,"Thompson, James A.",65,000050
+GREENWOOD,Eureka Ward 3,United States House of Representatives,4,Republican,"Estes, Ron",172,000050
+GREENWOOD,Fall River Township,United States House of Representatives,4,Democratic,"Thompson, James A.",31,000060
+GREENWOOD,Fall River Township,United States House of Representatives,4,Republican,"Estes, Ron",65,000060
+GREENWOOD,Janesville Township,United States House of Representatives,4,Democratic,"Thompson, James A.",25,000070
+GREENWOOD,Janesville Township,United States House of Representatives,4,Republican,"Estes, Ron",153,000070
+GREENWOOD,Lane Township,United States House of Representatives,4,Democratic,"Thompson, James A.",5,000080
+GREENWOOD,Lane Township,United States House of Representatives,4,Republican,"Estes, Ron",30,000080
+GREENWOOD,Madison Township,United States House of Representatives,4,Democratic,"Thompson, James A.",105,000090
+GREENWOOD,Madison Township,United States House of Representatives,4,Republican,"Estes, Ron",259,000090
+GREENWOOD,Otter Creek Township,United States House of Representatives,4,Democratic,"Thompson, James A.",21,000100
+GREENWOOD,Otter Creek Township,United States House of Representatives,4,Republican,"Estes, Ron",59,000100
+GREENWOOD,Pleasant Grove Township,United States House of Representatives,4,Democratic,"Thompson, James A.",10,000110
+GREENWOOD,Pleasant Grove Township,United States House of Representatives,4,Republican,"Estes, Ron",25,000110
+GREENWOOD,Quincy Township,United States House of Representatives,4,Democratic,"Thompson, James A.",8,000120
+GREENWOOD,Quincy Township,United States House of Representatives,4,Republican,"Estes, Ron",40,000120
+GREENWOOD,Salem Township,United States House of Representatives,4,Democratic,"Thompson, James A.",3,000130
+GREENWOOD,Salem Township,United States House of Representatives,4,Republican,"Estes, Ron",12,000130
+GREENWOOD,Salt Springs Township,United States House of Representatives,4,Democratic,"Thompson, James A.",4,000140
+GREENWOOD,Salt Springs Township,United States House of Representatives,4,Republican,"Estes, Ron",31,000140
+GREENWOOD,Shell Rock Township,United States House of Representatives,4,Democratic,"Thompson, James A.",8,000150
+GREENWOOD,Shell Rock Township,United States House of Representatives,4,Republican,"Estes, Ron",63,000150
+GREENWOOD,Spring Creek Township,United States House of Representatives,4,Democratic,"Thompson, James A.",16,000170
+GREENWOOD,Spring Creek Township,United States House of Representatives,4,Republican,"Estes, Ron",42,000170
+GREENWOOD,Twin Grove Township,United States House of Representatives,4,Democratic,"Thompson, James A.",5,000180
+GREENWOOD,Twin Grove Township,United States House of Representatives,4,Republican,"Estes, Ron",16,000180
+GREENWOOD,South Salem Township C01,United States House of Representatives,4,Democratic,"Thompson, James A.",7,200010
+GREENWOOD,South Salem Township C01,United States House of Representatives,4,Republican,"Estes, Ron",37,200010
+GREENWOOD,South Salem Township C04,United States House of Representatives,4,Democratic,"Thompson, James A.",0,200020
+GREENWOOD,South Salem Township C04,United States House of Representatives,4,Republican,"Estes, Ron",0,200020
+GREENWOOD,Eureka Airport,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900010
+GREENWOOD,Eureka Airport,United States House of Representatives,4,Republican,"Estes, Ron",0,900010
+GREENWOOD,Eureka Ward 1 Exclave,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900020
+GREENWOOD,Eureka Ward 1 Exclave,United States House of Representatives,4,Republican,"Estes, Ron",0,900020
