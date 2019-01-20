@@ -1,0 +1,533 @@
+county,precinct,office,district,party,candidate,votes,vtd
+BROWN,Hamlin Township,Attorney General,,Democratic,"Swain, Sarah G.",13,000010
+BROWN,Hamlin Township,Attorney General,,Republican,"Schmidt, Derek",56,000010
+BROWN,Hiawatha City Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",49,000020
+BROWN,Hiawatha City Ward 1,Attorney General,,Republican,"Schmidt, Derek",99,000020
+BROWN,Hiawatha City Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",144,000030
+BROWN,Hiawatha City Ward 2,Attorney General,,Republican,"Schmidt, Derek",338,000030
+BROWN,Hiawatha City Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",99,00004A
+BROWN,Hiawatha City Ward 3,Attorney General,,Republican,"Schmidt, Derek",302,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,00004B
+BROWN,Hiawatha City Ward 4,Attorney General,,Democratic,"Swain, Sarah G.",10,00005A
+BROWN,Hiawatha City Ward 4,Attorney General,,Republican,"Schmidt, Derek",30,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Attorney General,,Democratic,"Swain, Sarah G.",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Attorney General,,Republican,"Schmidt, Derek",0,00005B
+BROWN,Hiawatha Township,Attorney General,,Democratic,"Swain, Sarah G.",49,000060
+BROWN,Hiawatha Township,Attorney General,,Republican,"Schmidt, Derek",239,000060
+BROWN,Horton Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",44,000070
+BROWN,Horton Ward 1,Attorney General,,Republican,"Schmidt, Derek",131,000070
+BROWN,Horton Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",20,000080
+BROWN,Horton Ward 2,Attorney General,,Republican,"Schmidt, Derek",118,000080
+BROWN,Horton Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",22,00009A
+BROWN,Horton Ward 3,Attorney General,,Republican,"Schmidt, Derek",69,00009A
+BROWN,Horton Ward 3 Exclave A,Attorney General,,Democratic,"Swain, Sarah G.",0,00009B
+BROWN,Horton Ward 3 Exclave A,Attorney General,,Republican,"Schmidt, Derek",0,00009B
+BROWN,Horton Ward 3 Exclave B,Attorney General,,Democratic,"Swain, Sarah G.",0,00009C
+BROWN,Horton Ward 3 Exclave B,Attorney General,,Republican,"Schmidt, Derek",0,00009C
+BROWN,Irving Township,Attorney General,,Democratic,"Swain, Sarah G.",31,000100
+BROWN,Irving Township,Attorney General,,Republican,"Schmidt, Derek",83,000100
+BROWN,Mission Township,Attorney General,,Democratic,"Swain, Sarah G.",47,000110
+BROWN,Mission Township,Attorney General,,Republican,"Schmidt, Derek",225,000110
+BROWN,Morrill Township,Attorney General,,Democratic,"Swain, Sarah G.",24,000120
+BROWN,Morrill Township,Attorney General,,Republican,"Schmidt, Derek",168,000120
+BROWN,Padonia Township,Attorney General,,Democratic,"Swain, Sarah G.",21,000130
+BROWN,Padonia Township,Attorney General,,Republican,"Schmidt, Derek",63,000130
+BROWN,Powhattan Township,Attorney General,,Democratic,"Swain, Sarah G.",91,000140
+BROWN,Powhattan Township,Attorney General,,Republican,"Schmidt, Derek",133,000140
+BROWN,Reserve Township,Attorney General,,Democratic,"Swain, Sarah G.",10,000150
+BROWN,Reserve Township,Attorney General,,Republican,"Schmidt, Derek",37,000150
+BROWN,Robinson Township,Attorney General,,Democratic,"Swain, Sarah G.",41,000160
+BROWN,Robinson Township,Attorney General,,Republican,"Schmidt, Derek",111,000160
+BROWN,Sabetha Ward 1 Part A,Attorney General,,Democratic,"Swain, Sarah G.",0,00017A
+BROWN,Sabetha Ward 1 Part A,Attorney General,,Republican,"Schmidt, Derek",0,00017A
+BROWN,Sabetha Ward 1 Part B,Attorney General,,Democratic,"Swain, Sarah G.",0,00017B
+BROWN,Sabetha Ward 1 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00017B
+BROWN,Sabetha Ward 4 Part A,Attorney General,,Democratic,"Swain, Sarah G.",0,00018A
+BROWN,Sabetha Ward 4 Part A,Attorney General,,Republican,"Schmidt, Derek",0,00018A
+BROWN,Sabetha Ward 4 Part B,Attorney General,,Democratic,"Swain, Sarah G.",0,00018B
+BROWN,Sabetha Ward 4 Part B,Attorney General,,Republican,"Schmidt, Derek",0,00018B
+BROWN,Sabetha Ward 5,Attorney General,,Democratic,"Swain, Sarah G.",0,000190
+BROWN,Sabetha Ward 5,Attorney General,,Republican,"Schmidt, Derek",0,000190
+BROWN,Walnut Township,Attorney General,,Democratic,"Swain, Sarah G.",43,000200
+BROWN,Walnut Township,Attorney General,,Republican,"Schmidt, Derek",218,000200
+BROWN,Washington Township,Attorney General,,Democratic,"Swain, Sarah G.",37,000210
+BROWN,Washington Township,Attorney General,,Republican,"Schmidt, Derek",156,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900010
+BROWN,Hamlin Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",16,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000010
+BROWN,Hamlin Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",45,000010
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",10,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",66,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",7,000020
+BROWN,Hiawatha City Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",64,000020
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",43,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",220,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",16,000030
+BROWN,Hiawatha City Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",202,000030
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",41,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",147,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",13,00004A
+BROWN,Hiawatha City Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",209,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00004B
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,independent,"Orman, Greg",5,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,00005A
+BROWN,Hiawatha City Ward 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",23,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,independent,"Orman, Greg",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00005B
+BROWN,Hiawatha Township,Governor / Lt. Governor,,independent,"Kloos, Rick",5,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,independent,"Orman, Greg",22,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",83,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,000060
+BROWN,Hiawatha Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",177,000060
+BROWN,Horton Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",16,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",62,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",7,000070
+BROWN,Horton Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",91,000070
+BROWN,Horton Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",13,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",36,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000080
+BROWN,Horton Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",87,000080
+BROWN,Horton Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",2,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",6,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",32,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,00009A
+BROWN,Horton Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",47,00009A
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,independent,"Orman, Greg",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00009B
+BROWN,Horton Ward 3 Exclave A,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00009B
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00009C
+BROWN,Horton Ward 3 Exclave B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00009C
+BROWN,Irving Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000100
+BROWN,Irving Township,Governor / Lt. Governor,,independent,"Orman, Greg",12,000100
+BROWN,Irving Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",37,000100
+BROWN,Irving Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000100
+BROWN,Irving Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",63,000100
+BROWN,Mission Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000110
+BROWN,Mission Township,Governor / Lt. Governor,,independent,"Orman, Greg",19,000110
+BROWN,Mission Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",75,000110
+BROWN,Mission Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000110
+BROWN,Mission Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",178,000110
+BROWN,Morrill Township,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,independent,"Orman, Greg",15,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",28,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000120
+BROWN,Morrill Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",141,000120
+BROWN,Padonia Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",25,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000130
+BROWN,Padonia Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",45,000130
+BROWN,Powhattan Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,independent,"Orman, Greg",27,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",94,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000140
+BROWN,Powhattan Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",97,000140
+BROWN,Reserve Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000150
+BROWN,Reserve Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",28,000150
+BROWN,Robinson Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,independent,"Orman, Greg",21,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",53,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000160
+BROWN,Robinson Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",77,000160
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,independent,"Orman, Greg",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00017A
+BROWN,Sabetha Ward 1 Part A,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00017A
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00017B
+BROWN,Sabetha Ward 1 Part B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00017B
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,independent,"Orman, Greg",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00018A
+BROWN,Sabetha Ward 4 Part A,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00018A
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00018B
+BROWN,Sabetha Ward 4 Part B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00018B
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,independent,"Orman, Greg",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000190
+BROWN,Sabetha Ward 5,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,000190
+BROWN,Walnut Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,independent,"Orman, Greg",32,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",80,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000200
+BROWN,Walnut Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",147,000200
+BROWN,Washington Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000210
+BROWN,Washington Township,Governor / Lt. Governor,,independent,"Orman, Greg",20,000210
+BROWN,Washington Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",55,000210
+BROWN,Washington Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000210
+BROWN,Washington Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",115,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900010
+BROWN,Hamlin Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",11,000010
+BROWN,Hamlin Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",57,000010
+BROWN,Hiawatha City Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",41,000020
+BROWN,Hiawatha City Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",104,000020
+BROWN,Hiawatha City Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",113,000030
+BROWN,Hiawatha City Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",363,000030
+BROWN,Hiawatha City Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",81,00004A
+BROWN,Hiawatha City Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",318,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00004B
+BROWN,Hiawatha City Ward 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,00005A
+BROWN,Hiawatha City Ward 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",37,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00005B
+BROWN,Hiawatha Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",29,000060
+BROWN,Hiawatha Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",253,000060
+BROWN,Horton Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",39,000070
+BROWN,Horton Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",136,000070
+BROWN,Horton Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",18,000080
+BROWN,Horton Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",120,000080
+BROWN,Horton Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",20,00009A
+BROWN,Horton Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",70,00009A
+BROWN,Horton Ward 3 Exclave A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00009B
+BROWN,Horton Ward 3 Exclave A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00009B
+BROWN,Horton Ward 3 Exclave B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00009C
+BROWN,Horton Ward 3 Exclave B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00009C
+BROWN,Irving Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",32,000100
+BROWN,Irving Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",81,000100
+BROWN,Mission Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",39,000110
+BROWN,Mission Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",228,000110
+BROWN,Morrill Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",17,000120
+BROWN,Morrill Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",166,000120
+BROWN,Padonia Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",17,000130
+BROWN,Padonia Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",63,000130
+BROWN,Powhattan Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",77,000140
+BROWN,Powhattan Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",143,000140
+BROWN,Reserve Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",12,000150
+BROWN,Reserve Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",35,000150
+BROWN,Robinson Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",30,000160
+BROWN,Robinson Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",121,000160
+BROWN,Sabetha Ward 1 Part A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00017A
+BROWN,Sabetha Ward 1 Part A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00017A
+BROWN,Sabetha Ward 1 Part B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00017B
+BROWN,Sabetha Ward 1 Part B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00017B
+BROWN,Sabetha Ward 4 Part A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00018A
+BROWN,Sabetha Ward 4 Part A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00018A
+BROWN,Sabetha Ward 4 Part B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00018B
+BROWN,Sabetha Ward 4 Part B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00018B
+BROWN,Sabetha Ward 5,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,000190
+BROWN,Sabetha Ward 5,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,000190
+BROWN,Walnut Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",42,000200
+BROWN,Walnut Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",215,000200
+BROWN,Washington Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",34,000210
+BROWN,Washington Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",159,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900010
+BROWN,Hamlin Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",13,000010
+BROWN,Hamlin Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000010
+BROWN,Hamlin Township,Secretary of State,,Republican,"Schwab, Scott",55,000010
+BROWN,Hiawatha City Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",61,000020
+BROWN,Hiawatha City Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000020
+BROWN,Hiawatha City Ward 1,Secretary of State,,Republican,"Schwab, Scott",81,000020
+BROWN,Hiawatha City Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",182,000030
+BROWN,Hiawatha City Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",16,000030
+BROWN,Hiawatha City Ward 2,Secretary of State,,Republican,"Schwab, Scott",279,000030
+BROWN,Hiawatha City Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",126,00004A
+BROWN,Hiawatha City Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",16,00004A
+BROWN,Hiawatha City Ward 3,Secretary of State,,Republican,"Schwab, Scott",257,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,00004B
+BROWN,Hiawatha City Ward 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,00005A
+BROWN,Hiawatha City Ward 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00005A
+BROWN,Hiawatha City Ward 4,Secretary of State,,Republican,"Schwab, Scott",33,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,Secretary of State,,Republican,"Schwab, Scott",0,00005B
+BROWN,Hiawatha Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",53,000060
+BROWN,Hiawatha Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",12,000060
+BROWN,Hiawatha Township,Secretary of State,,Republican,"Schwab, Scott",219,000060
+BROWN,Horton Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",61,000070
+BROWN,Horton Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000070
+BROWN,Horton Ward 1,Secretary of State,,Republican,"Schwab, Scott",107,000070
+BROWN,Horton Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",28,000080
+BROWN,Horton Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000080
+BROWN,Horton Ward 2,Secretary of State,,Republican,"Schwab, Scott",105,000080
+BROWN,Horton Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",27,00009A
+BROWN,Horton Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,00009A
+BROWN,Horton Ward 3,Secretary of State,,Republican,"Schwab, Scott",61,00009A
+BROWN,Horton Ward 3 Exclave A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00009B
+BROWN,Horton Ward 3 Exclave A,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00009B
+BROWN,Horton Ward 3 Exclave A,Secretary of State,,Republican,"Schwab, Scott",0,00009B
+BROWN,Horton Ward 3 Exclave B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00009C
+BROWN,Horton Ward 3 Exclave B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00009C
+BROWN,Horton Ward 3 Exclave B,Secretary of State,,Republican,"Schwab, Scott",0,00009C
+BROWN,Irving Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",37,000100
+BROWN,Irving Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000100
+BROWN,Irving Township,Secretary of State,,Republican,"Schwab, Scott",73,000100
+BROWN,Mission Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",63,000110
+BROWN,Mission Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000110
+BROWN,Mission Township,Secretary of State,,Republican,"Schwab, Scott",200,000110
+BROWN,Morrill Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",26,000120
+BROWN,Morrill Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000120
+BROWN,Morrill Township,Secretary of State,,Republican,"Schwab, Scott",160,000120
+BROWN,Padonia Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",26,000130
+BROWN,Padonia Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000130
+BROWN,Padonia Township,Secretary of State,,Republican,"Schwab, Scott",49,000130
+BROWN,Powhattan Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",107,000140
+BROWN,Powhattan Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",8,000140
+BROWN,Powhattan Township,Secretary of State,,Republican,"Schwab, Scott",108,000140
+BROWN,Reserve Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",10,000150
+BROWN,Reserve Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000150
+BROWN,Reserve Township,Secretary of State,,Republican,"Schwab, Scott",36,000150
+BROWN,Robinson Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",46,000160
+BROWN,Robinson Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000160
+BROWN,Robinson Township,Secretary of State,,Republican,"Schwab, Scott",103,000160
+BROWN,Sabetha Ward 1 Part A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00017A
+BROWN,Sabetha Ward 1 Part A,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00017A
+BROWN,Sabetha Ward 1 Part A,Secretary of State,,Republican,"Schwab, Scott",0,00017A
+BROWN,Sabetha Ward 1 Part B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00017B
+BROWN,Sabetha Ward 1 Part B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00017B
+BROWN,Sabetha Ward 1 Part B,Secretary of State,,Republican,"Schwab, Scott",0,00017B
+BROWN,Sabetha Ward 4 Part A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00018A
+BROWN,Sabetha Ward 4 Part A,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00018A
+BROWN,Sabetha Ward 4 Part A,Secretary of State,,Republican,"Schwab, Scott",0,00018A
+BROWN,Sabetha Ward 4 Part B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00018B
+BROWN,Sabetha Ward 4 Part B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00018B
+BROWN,Sabetha Ward 4 Part B,Secretary of State,,Republican,"Schwab, Scott",0,00018B
+BROWN,Sabetha Ward 5,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,000190
+BROWN,Sabetha Ward 5,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000190
+BROWN,Sabetha Ward 5,Secretary of State,,Republican,"Schwab, Scott",0,000190
+BROWN,Walnut Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",65,000200
+BROWN,Walnut Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000200
+BROWN,Walnut Township,Secretary of State,,Republican,"Schwab, Scott",186,000200
+BROWN,Washington Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",47,000210
+BROWN,Washington Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000210
+BROWN,Washington Township,Secretary of State,,Republican,"Schwab, Scott",144,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,900010
+BROWN,Hamlin Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",13,10
+BROWN,Hiawatha City Ward 1,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",65,20
+BROWN,Hiawatha City Ward 2,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",193,30
+BROWN,Hiawatha City Ward 3,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",125,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00004B
+BROWN,Hiawatha City Ward 4,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",6,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00005B
+BROWN,Hiawatha Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",51,60
+BROWN,Horton Ward 1,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",52,70
+BROWN,Horton Ward 2,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",29,80
+BROWN,Horton Ward 3,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",28,00009A
+BROWN,Horton Ward 3 Exclave A,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00009B
+BROWN,Horton Ward 3 Exclave B,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00009C
+BROWN,Irving Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",30,100
+BROWN,Mission Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",53,110
+BROWN,Morrill Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",22,120
+BROWN,Padonia Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",20,130
+BROWN,Powhattan Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",93,140
+BROWN,Reserve Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",14,150
+BROWN,Robinson Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",46,160
+BROWN,Sabetha Ward 1 Part A,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00017A
+BROWN,Sabetha Ward 1 Part B,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00017B
+BROWN,Sabetha Ward 4 Part A,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00018A
+BROWN,Sabetha Ward 4 Part B,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00018B
+BROWN,Sabetha Ward 5,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,190
+BROWN,Walnut Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",57,200
+BROWN,Washington Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",40,210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,900010
+BROWN,Hamlin Township,Kansas House of Representatives,62,Republican,"Garber, Randy",56,10
+BROWN,Hiawatha City Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",81,20
+BROWN,Hiawatha City Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",287,30
+BROWN,Hiawatha City Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",284,00004A
+BROWN,Hiawatha City Ward 3 Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00004B
+BROWN,Hiawatha City Ward 4,Kansas House of Representatives,62,Republican,"Garber, Randy",35,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00005B
+BROWN,Hiawatha Township,Kansas House of Representatives,62,Republican,"Garber, Randy",239,60
+BROWN,Horton Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",128,70
+BROWN,Horton Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",110,80
+BROWN,Horton Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",63,00009A
+BROWN,Horton Ward 3 Exclave A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00009B
+BROWN,Horton Ward 3 Exclave B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00009C
+BROWN,Irving Township,Kansas House of Representatives,62,Republican,"Garber, Randy",84,100
+BROWN,Mission Township,Kansas House of Representatives,62,Republican,"Garber, Randy",218,110
+BROWN,Morrill Township,Kansas House of Representatives,62,Republican,"Garber, Randy",168,120
+BROWN,Padonia Township,Kansas House of Representatives,62,Republican,"Garber, Randy",63,130
+BROWN,Powhattan Township,Kansas House of Representatives,62,Republican,"Garber, Randy",128,140
+BROWN,Reserve Township,Kansas House of Representatives,62,Republican,"Garber, Randy",33,150
+BROWN,Robinson Township,Kansas House of Representatives,62,Republican,"Garber, Randy",106,160
+BROWN,Sabetha Ward 1 Part A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00017A
+BROWN,Sabetha Ward 1 Part B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00017B
+BROWN,Sabetha Ward 4 Part A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00018A
+BROWN,Sabetha Ward 4 Part B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00018B
+BROWN,Sabetha Ward 5,Kansas House of Representatives,62,Republican,"Garber, Randy",0,190
+BROWN,Walnut Township,Kansas House of Representatives,62,Republican,"Garber, Randy",205,200
+BROWN,Washington Township,Kansas House of Representatives,62,Republican,"Garber, Randy",155,210
+BROWN,Sabetha Ward 1 Part 1 Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900010
+BROWN,Hamlin Township,State Treasurer,,Democratic,"Francisco, Marci",14,000010
+BROWN,Hamlin Township,State Treasurer,,Republican,"LaTurner, Jake",55,000010
+BROWN,Hiawatha City Ward 1,State Treasurer,,Democratic,"Francisco, Marci",50,000020
+BROWN,Hiawatha City Ward 1,State Treasurer,,Republican,"LaTurner, Jake",97,000020
+BROWN,Hiawatha City Ward 2,State Treasurer,,Democratic,"Francisco, Marci",155,000030
+BROWN,Hiawatha City Ward 2,State Treasurer,,Republican,"LaTurner, Jake",325,000030
+BROWN,Hiawatha City Ward 3,State Treasurer,,Democratic,"Francisco, Marci",111,00004A
+BROWN,Hiawatha City Ward 3,State Treasurer,,Republican,"LaTurner, Jake",286,00004A
+BROWN,Hiawatha City Ward 3 Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,00004B
+BROWN,Hiawatha City Ward 4,State Treasurer,,Democratic,"Francisco, Marci",6,00005A
+BROWN,Hiawatha City Ward 4,State Treasurer,,Republican,"LaTurner, Jake",33,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,State Treasurer,,Democratic,"Francisco, Marci",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,State Treasurer,,Republican,"LaTurner, Jake",0,00005B
+BROWN,Hiawatha Township,State Treasurer,,Democratic,"Francisco, Marci",42,000060
+BROWN,Hiawatha Township,State Treasurer,,Republican,"LaTurner, Jake",239,000060
+BROWN,Horton Ward 1,State Treasurer,,Democratic,"Francisco, Marci",54,000070
+BROWN,Horton Ward 1,State Treasurer,,Republican,"LaTurner, Jake",121,000070
+BROWN,Horton Ward 2,State Treasurer,,Democratic,"Francisco, Marci",24,000080
+BROWN,Horton Ward 2,State Treasurer,,Republican,"LaTurner, Jake",115,000080
+BROWN,Horton Ward 3,State Treasurer,,Democratic,"Francisco, Marci",27,00009A
+BROWN,Horton Ward 3,State Treasurer,,Republican,"LaTurner, Jake",64,00009A
+BROWN,Horton Ward 3 Exclave A,State Treasurer,,Democratic,"Francisco, Marci",0,00009B
+BROWN,Horton Ward 3 Exclave A,State Treasurer,,Republican,"LaTurner, Jake",0,00009B
+BROWN,Horton Ward 3 Exclave B,State Treasurer,,Democratic,"Francisco, Marci",0,00009C
+BROWN,Horton Ward 3 Exclave B,State Treasurer,,Republican,"LaTurner, Jake",0,00009C
+BROWN,Irving Township,State Treasurer,,Democratic,"Francisco, Marci",33,000100
+BROWN,Irving Township,State Treasurer,,Republican,"LaTurner, Jake",81,000100
+BROWN,Mission Township,State Treasurer,,Democratic,"Francisco, Marci",47,000110
+BROWN,Mission Township,State Treasurer,,Republican,"LaTurner, Jake",222,000110
+BROWN,Morrill Township,State Treasurer,,Democratic,"Francisco, Marci",20,000120
+BROWN,Morrill Township,State Treasurer,,Republican,"LaTurner, Jake",169,000120
+BROWN,Padonia Township,State Treasurer,,Democratic,"Francisco, Marci",18,000130
+BROWN,Padonia Township,State Treasurer,,Republican,"LaTurner, Jake",65,000130
+BROWN,Powhattan Township,State Treasurer,,Democratic,"Francisco, Marci",92,000140
+BROWN,Powhattan Township,State Treasurer,,Republican,"LaTurner, Jake",130,000140
+BROWN,Reserve Township,State Treasurer,,Democratic,"Francisco, Marci",9,000150
+BROWN,Reserve Township,State Treasurer,,Republican,"LaTurner, Jake",37,000150
+BROWN,Robinson Township,State Treasurer,,Democratic,"Francisco, Marci",45,000160
+BROWN,Robinson Township,State Treasurer,,Republican,"LaTurner, Jake",106,000160
+BROWN,Sabetha Ward 1 Part A,State Treasurer,,Democratic,"Francisco, Marci",0,00017A
+BROWN,Sabetha Ward 1 Part A,State Treasurer,,Republican,"LaTurner, Jake",0,00017A
+BROWN,Sabetha Ward 1 Part B,State Treasurer,,Democratic,"Francisco, Marci",0,00017B
+BROWN,Sabetha Ward 1 Part B,State Treasurer,,Republican,"LaTurner, Jake",0,00017B
+BROWN,Sabetha Ward 4 Part A,State Treasurer,,Democratic,"Francisco, Marci",0,00018A
+BROWN,Sabetha Ward 4 Part A,State Treasurer,,Republican,"LaTurner, Jake",0,00018A
+BROWN,Sabetha Ward 4 Part B,State Treasurer,,Democratic,"Francisco, Marci",0,00018B
+BROWN,Sabetha Ward 4 Part B,State Treasurer,,Republican,"LaTurner, Jake",0,00018B
+BROWN,Sabetha Ward 5,State Treasurer,,Democratic,"Francisco, Marci",0,000190
+BROWN,Sabetha Ward 5,State Treasurer,,Republican,"LaTurner, Jake",0,000190
+BROWN,Walnut Township,State Treasurer,,Democratic,"Francisco, Marci",53,000200
+BROWN,Walnut Township,State Treasurer,,Republican,"LaTurner, Jake",202,000200
+BROWN,Washington Township,State Treasurer,,Democratic,"Francisco, Marci",41,000210
+BROWN,Washington Township,State Treasurer,,Republican,"LaTurner, Jake",152,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,900010
+BROWN,Hamlin Township,United States House of Representatives,2,Democratic,"Davis, Paul",16,000010
+BROWN,Hamlin Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000010
+BROWN,Hamlin Township,United States House of Representatives,2,Republican,"Watkins, Steve",50,000010
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Democratic,"Davis, Paul",64,000020
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",6,000020
+BROWN,Hiawatha City Ward 1,United States House of Representatives,2,Republican,"Watkins, Steve",74,000020
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Democratic,"Davis, Paul",199,000030
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",31,000030
+BROWN,Hiawatha City Ward 2,United States House of Representatives,2,Republican,"Watkins, Steve",252,000030
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Democratic,"Davis, Paul",136,00004A
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Libertarian,"Standley, Kelly",31,00004A
+BROWN,Hiawatha City Ward 3,United States House of Representatives,2,Republican,"Watkins, Steve",231,00004A
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Democratic,"Davis, Paul",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00004B
+BROWN,Hiawatha City Ward 3 Exclave,United States House of Representatives,2,Republican,"Watkins, Steve",0,00004B
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Democratic,"Davis, Paul",12,00005A
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Libertarian,"Standley, Kelly",4,00005A
+BROWN,Hiawatha City Ward 4,United States House of Representatives,2,Republican,"Watkins, Steve",25,00005A
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Democratic,"Davis, Paul",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00005B
+BROWN,Hiawatha City Ward 4 Exclave Club,United States House of Representatives,2,Republican,"Watkins, Steve",0,00005B
+BROWN,Hiawatha Township,United States House of Representatives,2,Democratic,"Davis, Paul",67,000060
+BROWN,Hiawatha Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",15,000060
+BROWN,Hiawatha Township,United States House of Representatives,2,Republican,"Watkins, Steve",209,000060
+BROWN,Horton Ward 1,United States House of Representatives,2,Democratic,"Davis, Paul",49,000070
+BROWN,Horton Ward 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",17,000070
+BROWN,Horton Ward 1,United States House of Representatives,2,Republican,"Watkins, Steve",110,000070
+BROWN,Horton Ward 2,United States House of Representatives,2,Democratic,"Davis, Paul",26,000080
+BROWN,Horton Ward 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",11,000080
+BROWN,Horton Ward 2,United States House of Representatives,2,Republican,"Watkins, Steve",103,000080
+BROWN,Horton Ward 3,United States House of Representatives,2,Democratic,"Davis, Paul",29,00009A
+BROWN,Horton Ward 3,United States House of Representatives,2,Libertarian,"Standley, Kelly",12,00009A
+BROWN,Horton Ward 3,United States House of Representatives,2,Republican,"Watkins, Steve",51,00009A
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Democratic,"Davis, Paul",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00009B
+BROWN,Horton Ward 3 Exclave A,United States House of Representatives,2,Republican,"Watkins, Steve",0,00009B
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Democratic,"Davis, Paul",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00009C
+BROWN,Horton Ward 3 Exclave B,United States House of Representatives,2,Republican,"Watkins, Steve",0,00009C
+BROWN,Irving Township,United States House of Representatives,2,Democratic,"Davis, Paul",33,000100
+BROWN,Irving Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",7,000100
+BROWN,Irving Township,United States House of Representatives,2,Republican,"Watkins, Steve",75,000100
+BROWN,Mission Township,United States House of Representatives,2,Democratic,"Davis, Paul",63,000110
+BROWN,Mission Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",12,000110
+BROWN,Mission Township,United States House of Representatives,2,Republican,"Watkins, Steve",197,000110
+BROWN,Morrill Township,United States House of Representatives,2,Democratic,"Davis, Paul",24,000120
+BROWN,Morrill Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",10,000120
+BROWN,Morrill Township,United States House of Representatives,2,Republican,"Watkins, Steve",154,000120
+BROWN,Padonia Township,United States House of Representatives,2,Democratic,"Davis, Paul",25,000130
+BROWN,Padonia Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",14,000130
+BROWN,Padonia Township,United States House of Representatives,2,Republican,"Watkins, Steve",46,000130
+BROWN,Powhattan Township,United States House of Representatives,2,Democratic,"Davis, Paul",92,000140
+BROWN,Powhattan Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",15,000140
+BROWN,Powhattan Township,United States House of Representatives,2,Republican,"Watkins, Steve",113,000140
+BROWN,Reserve Township,United States House of Representatives,2,Democratic,"Davis, Paul",13,000150
+BROWN,Reserve Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000150
+BROWN,Reserve Township,United States House of Representatives,2,Republican,"Watkins, Steve",27,000150
+BROWN,Robinson Township,United States House of Representatives,2,Democratic,"Davis, Paul",48,000160
+BROWN,Robinson Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",8,000160
+BROWN,Robinson Township,United States House of Representatives,2,Republican,"Watkins, Steve",97,000160
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Democratic,"Davis, Paul",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00017A
+BROWN,Sabetha Ward 1 Part A,United States House of Representatives,2,Republican,"Watkins, Steve",0,00017A
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Democratic,"Davis, Paul",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00017B
+BROWN,Sabetha Ward 1 Part B,United States House of Representatives,2,Republican,"Watkins, Steve",0,00017B
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Democratic,"Davis, Paul",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00018A
+BROWN,Sabetha Ward 4 Part A,United States House of Representatives,2,Republican,"Watkins, Steve",0,00018A
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Democratic,"Davis, Paul",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00018B
+BROWN,Sabetha Ward 4 Part B,United States House of Representatives,2,Republican,"Watkins, Steve",0,00018B
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Democratic,"Davis, Paul",0,000190
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,000190
+BROWN,Sabetha Ward 5,United States House of Representatives,2,Republican,"Watkins, Steve",0,000190
+BROWN,Walnut Township,United States House of Representatives,2,Democratic,"Davis, Paul",69,000200
+BROWN,Walnut Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",17,000200
+BROWN,Walnut Township,United States House of Representatives,2,Republican,"Watkins, Steve",176,000200
+BROWN,Washington Township,United States House of Representatives,2,Democratic,"Davis, Paul",41,000210
+BROWN,Washington Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000210
+BROWN,Washington Township,United States House of Representatives,2,Republican,"Watkins, Steve",147,000210
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Democratic,"Davis, Paul",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,900010
+BROWN,Sabetha Ward 1 Part 1 Exclave,United States House of Representatives,2,Republican,"Watkins, Steve",0,900010

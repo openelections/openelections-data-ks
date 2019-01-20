@@ -1,0 +1,375 @@
+county,precinct,office,district,party,candidate,votes,vtd
+HARPER,Anthony Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",69,000010
+HARPER,Anthony Ward 1,Attorney General,,Republican,"Schmidt, Derek",321,000010
+HARPER,Anthony Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",45,000020
+HARPER,Anthony Ward 2,Attorney General,,Republican,"Schmidt, Derek",154,000020
+HARPER,Anthony Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",7,000030
+HARPER,Anthony Ward 3,Attorney General,,Republican,"Schmidt, Derek",39,000030
+HARPER,Anthony Ward 4,Attorney General,,Democratic,"Swain, Sarah G.",20,000040
+HARPER,Anthony Ward 4,Attorney General,,Republican,"Schmidt, Derek",80,000040
+HARPER,Harper Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",47,000050
+HARPER,Harper Ward 1,Attorney General,,Republican,"Schmidt, Derek",150,000050
+HARPER,Harper Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",49,000060
+HARPER,Harper Ward 2,Attorney General,,Republican,"Schmidt, Derek",185,000060
+HARPER,Township 1,Attorney General,,Democratic,"Swain, Sarah G.",57,000070
+HARPER,Township 1,Attorney General,,Republican,"Schmidt, Derek",234,000070
+HARPER,Township 2,Attorney General,,Democratic,"Swain, Sarah G.",4,000080
+HARPER,Township 2,Attorney General,,Republican,"Schmidt, Derek",39,000080
+HARPER,Township 4,Attorney General,,Democratic,"Swain, Sarah G.",22,000100
+HARPER,Township 4,Attorney General,,Republican,"Schmidt, Derek",53,000100
+HARPER,Township 3 East,Attorney General,,Democratic,"Swain, Sarah G.",8,800010
+HARPER,Township 3 East,Attorney General,,Republican,"Schmidt, Derek",43,800010
+HARPER,Township 3 West,Attorney General,,Democratic,"Swain, Sarah G.",11,800020
+HARPER,Township 3 West,Attorney General,,Republican,"Schmidt, Derek",65,800020
+HARPER,Township 5 East,Attorney General,,Democratic,"Swain, Sarah G.",25,800030
+HARPER,Township 5 East,Attorney General,,Republican,"Schmidt, Derek",104,800030
+HARPER,Township 5 West,Attorney General,,Democratic,"Swain, Sarah G.",6,800040
+HARPER,Township 5 West,Attorney General,,Republican,"Schmidt, Derek",34,800040
+HARPER,Township 6 East,Attorney General,,Democratic,"Swain, Sarah G.",13,800050
+HARPER,Township 6 East,Attorney General,,Republican,"Schmidt, Derek",71,800050
+HARPER,Township 6 West,Attorney General,,Democratic,"Swain, Sarah G.",6,800060
+HARPER,Township 6 West,Attorney General,,Republican,"Schmidt, Derek",35,800060
+HARPER,Anthony Ward 2 Exclave 1,Attorney General,,Democratic,"Swain, Sarah G.",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900010
+HARPER,Anthony Ward 2 Exclave 2,Attorney General,,Democratic,"Swain, Sarah G.",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900020
+HARPER,Anthony Ward 3 Exclave 1,Attorney General,,Democratic,"Swain, Sarah G.",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900030
+HARPER,Anthony Ward 3 Exclave 2,Attorney General,,Democratic,"Swain, Sarah G.",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900040
+HARPER,Anthony Ward 4 Exclave 1,Attorney General,,Democratic,"Swain, Sarah G.",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900050
+HARPER,Harper Ward 1 Exclave 1,Attorney General,,Democratic,"Swain, Sarah G.",0,900060
+HARPER,Harper Ward 1 Exclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900060
+HARPER,Township 5 West Enclave,Attorney General,,Democratic,"Swain, Sarah G.",0,900070
+HARPER,Township 5 West Enclave,Attorney General,,Republican,"Schmidt, Derek",0,900070
+HARPER,Anthony Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",6,000010
+HARPER,Anthony Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",37,000010
+HARPER,Anthony Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",110,000010
+HARPER,Anthony Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000010
+HARPER,Anthony Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",240,000010
+HARPER,Anthony Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000020
+HARPER,Anthony Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",22,000020
+HARPER,Anthony Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",59,000020
+HARPER,Anthony Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000020
+HARPER,Anthony Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",120,000020
+HARPER,Anthony Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000030
+HARPER,Anthony Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",9,000030
+HARPER,Anthony Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,000030
+HARPER,Anthony Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000030
+HARPER,Anthony Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",24,000030
+HARPER,Anthony Ward 4,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000040
+HARPER,Anthony Ward 4,Governor / Lt. Governor,,independent,"Orman, Greg",12,000040
+HARPER,Anthony Ward 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",31,000040
+HARPER,Anthony Ward 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000040
+HARPER,Anthony Ward 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",58,000040
+HARPER,Harper Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000050
+HARPER,Harper Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",12,000050
+HARPER,Harper Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",68,000050
+HARPER,Harper Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000050
+HARPER,Harper Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",122,000050
+HARPER,Harper Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000060
+HARPER,Harper Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",22,000060
+HARPER,Harper Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",84,000060
+HARPER,Harper Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,000060
+HARPER,Harper Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",126,000060
+HARPER,Township 1,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000070
+HARPER,Township 1,Governor / Lt. Governor,,independent,"Orman, Greg",19,000070
+HARPER,Township 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",69,000070
+HARPER,Township 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000070
+HARPER,Township 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",208,000070
+HARPER,Township 2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000080
+HARPER,Township 2,Governor / Lt. Governor,,independent,"Orman, Greg",2,000080
+HARPER,Township 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,000080
+HARPER,Township 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000080
+HARPER,Township 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",32,000080
+HARPER,Township 4,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000100
+HARPER,Township 4,Governor / Lt. Governor,,independent,"Orman, Greg",13,000100
+HARPER,Township 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",25,000100
+HARPER,Township 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000100
+HARPER,Township 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",34,000100
+HARPER,Township 3 East,Governor / Lt. Governor,,independent,"Kloos, Rick",1,800010
+HARPER,Township 3 East,Governor / Lt. Governor,,independent,"Orman, Greg",7,800010
+HARPER,Township 3 East,Governor / Lt. Governor,,Democratic,"Kelly, Laura",7,800010
+HARPER,Township 3 East,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,800010
+HARPER,Township 3 East,Governor / Lt. Governor,,Republican,"Kobach, Kris",37,800010
+HARPER,Township 3 West,Governor / Lt. Governor,,independent,"Kloos, Rick",0,800020
+HARPER,Township 3 West,Governor / Lt. Governor,,independent,"Orman, Greg",6,800020
+HARPER,Township 3 West,Governor / Lt. Governor,,Democratic,"Kelly, Laura",16,800020
+HARPER,Township 3 West,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,800020
+HARPER,Township 3 West,Governor / Lt. Governor,,Republican,"Kobach, Kris",59,800020
+HARPER,Township 5 East,Governor / Lt. Governor,,independent,"Kloos, Rick",0,800030
+HARPER,Township 5 East,Governor / Lt. Governor,,independent,"Orman, Greg",11,800030
+HARPER,Township 5 East,Governor / Lt. Governor,,Democratic,"Kelly, Laura",39,800030
+HARPER,Township 5 East,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,800030
+HARPER,Township 5 East,Governor / Lt. Governor,,Republican,"Kobach, Kris",78,800030
+HARPER,Township 5 West,Governor / Lt. Governor,,independent,"Kloos, Rick",0,800040
+HARPER,Township 5 West,Governor / Lt. Governor,,independent,"Orman, Greg",2,800040
+HARPER,Township 5 West,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,800040
+HARPER,Township 5 West,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,800040
+HARPER,Township 5 West,Governor / Lt. Governor,,Republican,"Kobach, Kris",26,800040
+HARPER,Township 6 East,Governor / Lt. Governor,,independent,"Kloos, Rick",0,800050
+HARPER,Township 6 East,Governor / Lt. Governor,,independent,"Orman, Greg",9,800050
+HARPER,Township 6 East,Governor / Lt. Governor,,Democratic,"Kelly, Laura",19,800050
+HARPER,Township 6 East,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,800050
+HARPER,Township 6 East,Governor / Lt. Governor,,Republican,"Kobach, Kris",55,800050
+HARPER,Township 6 West,Governor / Lt. Governor,,independent,"Kloos, Rick",0,800060
+HARPER,Township 6 West,Governor / Lt. Governor,,independent,"Orman, Greg",10,800060
+HARPER,Township 6 West,Governor / Lt. Governor,,Democratic,"Kelly, Laura",7,800060
+HARPER,Township 6 West,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,800060
+HARPER,Township 6 West,Governor / Lt. Governor,,Republican,"Kobach, Kris",24,800060
+HARPER,Anthony Ward 2 Exclave 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Governor / Lt. Governor,,independent,"Orman, Greg",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900010
+HARPER,Anthony Ward 2 Exclave 2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Governor / Lt. Governor,,independent,"Orman, Greg",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900020
+HARPER,Anthony Ward 3 Exclave 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Governor / Lt. Governor,,independent,"Orman, Greg",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900030
+HARPER,Anthony Ward 3 Exclave 2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Governor / Lt. Governor,,independent,"Orman, Greg",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900040
+HARPER,Anthony Ward 4 Exclave 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Governor / Lt. Governor,,independent,"Orman, Greg",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900050
+HARPER,Harper Ward 1 Exclave 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900060
+HARPER,Harper Ward 1 Exclave 1,Governor / Lt. Governor,,independent,"Orman, Greg",0,900060
+HARPER,Harper Ward 1 Exclave 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900060
+HARPER,Harper Ward 1 Exclave 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900060
+HARPER,Harper Ward 1 Exclave 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900060
+HARPER,Township 5 West Enclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900070
+HARPER,Township 5 West Enclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,900070
+HARPER,Township 5 West Enclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900070
+HARPER,Township 5 West Enclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900070
+HARPER,Township 5 West Enclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900070
+HARPER,Anthony Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",67,000010
+HARPER,Anthony Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",311,000010
+HARPER,Anthony Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",32,000020
+HARPER,Anthony Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",168,000020
+HARPER,Anthony Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000030
+HARPER,Anthony Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",40,000030
+HARPER,Anthony Ward 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",23,000040
+HARPER,Anthony Ward 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",76,000040
+HARPER,Harper Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",38,000050
+HARPER,Harper Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",163,000050
+HARPER,Harper Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",46,000060
+HARPER,Harper Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",187,000060
+HARPER,Township 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",46,000070
+HARPER,Township 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",247,000070
+HARPER,Township 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",4,000080
+HARPER,Township 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",40,000080
+HARPER,Township 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",19,000100
+HARPER,Township 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",55,000100
+HARPER,Township 3 East,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",10,800010
+HARPER,Township 3 East,Commissioner of Insurance,,Republican,"Schmidt, Vicki",41,800010
+HARPER,Township 3 West,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",12,800020
+HARPER,Township 3 West,Commissioner of Insurance,,Republican,"Schmidt, Vicki",64,800020
+HARPER,Township 5 East,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",13,800030
+HARPER,Township 5 East,Commissioner of Insurance,,Republican,"Schmidt, Vicki",117,800030
+HARPER,Township 5 West,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,800040
+HARPER,Township 5 West,Commissioner of Insurance,,Republican,"Schmidt, Vicki",39,800040
+HARPER,Township 6 East,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",14,800050
+HARPER,Township 6 East,Commissioner of Insurance,,Republican,"Schmidt, Vicki",67,800050
+HARPER,Township 6 West,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,800060
+HARPER,Township 6 West,Commissioner of Insurance,,Republican,"Schmidt, Vicki",34,800060
+HARPER,Anthony Ward 2 Exclave 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900010
+HARPER,Anthony Ward 2 Exclave 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900020
+HARPER,Anthony Ward 3 Exclave 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900030
+HARPER,Anthony Ward 3 Exclave 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900040
+HARPER,Anthony Ward 4 Exclave 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900050
+HARPER,Harper Ward 1 Exclave 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900060
+HARPER,Harper Ward 1 Exclave 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900060
+HARPER,Township 5 West Enclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900070
+HARPER,Township 5 West Enclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900070
+HARPER,Anthony Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",103,000010
+HARPER,Anthony Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000010
+HARPER,Anthony Ward 1,Secretary of State,,Republican,"Schwab, Scott",280,000010
+HARPER,Anthony Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",55,000020
+HARPER,Anthony Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000020
+HARPER,Anthony Ward 2,Secretary of State,,Republican,"Schwab, Scott",144,000020
+HARPER,Anthony Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",13,000030
+HARPER,Anthony Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000030
+HARPER,Anthony Ward 3,Secretary of State,,Republican,"Schwab, Scott",30,000030
+HARPER,Anthony Ward 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",30,000040
+HARPER,Anthony Ward 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000040
+HARPER,Anthony Ward 4,Secretary of State,,Republican,"Schwab, Scott",70,000040
+HARPER,Harper Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",59,000050
+HARPER,Harper Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000050
+HARPER,Harper Ward 1,Secretary of State,,Republican,"Schwab, Scott",131,000050
+HARPER,Harper Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",75,000060
+HARPER,Harper Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000060
+HARPER,Harper Ward 2,Secretary of State,,Republican,"Schwab, Scott",148,000060
+HARPER,Township 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",64,000070
+HARPER,Township 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000070
+HARPER,Township 1,Secretary of State,,Republican,"Schwab, Scott",219,000070
+HARPER,Township 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",4,000080
+HARPER,Township 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000080
+HARPER,Township 2,Secretary of State,,Republican,"Schwab, Scott",38,000080
+HARPER,Township 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",26,000100
+HARPER,Township 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000100
+HARPER,Township 4,Secretary of State,,Republican,"Schwab, Scott",46,000100
+HARPER,Township 3 East,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",10,800010
+HARPER,Township 3 East,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,800010
+HARPER,Township 3 East,Secretary of State,,Republican,"Schwab, Scott",40,800010
+HARPER,Township 3 West,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",14,800020
+HARPER,Township 3 West,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,800020
+HARPER,Township 3 West,Secretary of State,,Republican,"Schwab, Scott",62,800020
+HARPER,Township 5 East,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",35,800030
+HARPER,Township 5 East,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,800030
+HARPER,Township 5 East,Secretary of State,,Republican,"Schwab, Scott",90,800030
+HARPER,Township 5 West,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",11,800040
+HARPER,Township 5 West,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,800040
+HARPER,Township 5 West,Secretary of State,,Republican,"Schwab, Scott",31,800040
+HARPER,Township 6 East,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",18,800050
+HARPER,Township 6 East,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,800050
+HARPER,Township 6 East,Secretary of State,,Republican,"Schwab, Scott",65,800050
+HARPER,Township 6 West,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",11,800060
+HARPER,Township 6 West,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,800060
+HARPER,Township 6 West,Secretary of State,,Republican,"Schwab, Scott",28,800060
+HARPER,Anthony Ward 2 Exclave 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900010
+HARPER,Anthony Ward 2 Exclave 1,Secretary of State,,Republican,"Schwab, Scott",0,900010
+HARPER,Anthony Ward 2 Exclave 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900020
+HARPER,Anthony Ward 2 Exclave 2,Secretary of State,,Republican,"Schwab, Scott",0,900020
+HARPER,Anthony Ward 3 Exclave 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900030
+HARPER,Anthony Ward 3 Exclave 1,Secretary of State,,Republican,"Schwab, Scott",0,900030
+HARPER,Anthony Ward 3 Exclave 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900040
+HARPER,Anthony Ward 3 Exclave 2,Secretary of State,,Republican,"Schwab, Scott",0,900040
+HARPER,Anthony Ward 4 Exclave 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900050
+HARPER,Anthony Ward 4 Exclave 1,Secretary of State,,Republican,"Schwab, Scott",0,900050
+HARPER,Harper Ward 1 Exclave 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900060
+HARPER,Harper Ward 1 Exclave 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900060
+HARPER,Harper Ward 1 Exclave 1,Secretary of State,,Republican,"Schwab, Scott",0,900060
+HARPER,Township 5 West Enclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900070
+HARPER,Township 5 West Enclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900070
+HARPER,Township 5 West Enclave,Secretary of State,,Republican,"Schwab, Scott",0,900070
+HARPER,Anthony Ward 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",354,10
+HARPER,Anthony Ward 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",181,20
+HARPER,Anthony Ward 3,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",44,30
+HARPER,Anthony Ward 4,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",84,40
+HARPER,Harper Ward 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",173,50
+HARPER,Harper Ward 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",201,60
+HARPER,Township 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",259,70
+HARPER,Township 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",41,80
+HARPER,Township 4,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",60,100
+HARPER,Township 3 East,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",47,800010
+HARPER,Township 3 West,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",71,800020
+HARPER,Township 5 East,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",109,800030
+HARPER,Township 5 West,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",38,800040
+HARPER,Township 6 East,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",72,800050
+HARPER,Township 6 West,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",34,800060
+HARPER,Anthony Ward 2 Exclave 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900010
+HARPER,Anthony Ward 2 Exclave 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900020
+HARPER,Anthony Ward 3 Exclave 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900030
+HARPER,Anthony Ward 3 Exclave 2,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900040
+HARPER,Anthony Ward 4 Exclave 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900050
+HARPER,Harper Ward 1 Exclave 1,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900060
+HARPER,Township 5 West Enclave,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",0,900070
+HARPER,Anthony Ward 1,State Treasurer,,Democratic,"Francisco, Marci",78,000010
+HARPER,Anthony Ward 1,State Treasurer,,Republican,"LaTurner, Jake",312,000010
+HARPER,Anthony Ward 2,State Treasurer,,Democratic,"Francisco, Marci",39,000020
+HARPER,Anthony Ward 2,State Treasurer,,Republican,"LaTurner, Jake",164,000020
+HARPER,Anthony Ward 3,State Treasurer,,Democratic,"Francisco, Marci",11,000030
+HARPER,Anthony Ward 3,State Treasurer,,Republican,"LaTurner, Jake",35,000030
+HARPER,Anthony Ward 4,State Treasurer,,Democratic,"Francisco, Marci",27,000040
+HARPER,Anthony Ward 4,State Treasurer,,Republican,"LaTurner, Jake",74,000040
+HARPER,Harper Ward 1,State Treasurer,,Democratic,"Francisco, Marci",47,000050
+HARPER,Harper Ward 1,State Treasurer,,Republican,"LaTurner, Jake",153,000050
+HARPER,Harper Ward 2,State Treasurer,,Democratic,"Francisco, Marci",64,000060
+HARPER,Harper Ward 2,State Treasurer,,Republican,"LaTurner, Jake",167,000060
+HARPER,Township 1,State Treasurer,,Democratic,"Francisco, Marci",53,000070
+HARPER,Township 1,State Treasurer,,Republican,"LaTurner, Jake",244,000070
+HARPER,Township 2,State Treasurer,,Democratic,"Francisco, Marci",3,000080
+HARPER,Township 2,State Treasurer,,Republican,"LaTurner, Jake",40,000080
+HARPER,Township 4,State Treasurer,,Democratic,"Francisco, Marci",24,000100
+HARPER,Township 4,State Treasurer,,Republican,"LaTurner, Jake",52,000100
+HARPER,Township 3 East,State Treasurer,,Democratic,"Francisco, Marci",9,800010
+HARPER,Township 3 East,State Treasurer,,Republican,"LaTurner, Jake",41,800010
+HARPER,Township 3 West,State Treasurer,,Democratic,"Francisco, Marci",14,800020
+HARPER,Township 3 West,State Treasurer,,Republican,"LaTurner, Jake",63,800020
+HARPER,Township 5 East,State Treasurer,,Democratic,"Francisco, Marci",23,800030
+HARPER,Township 5 East,State Treasurer,,Republican,"LaTurner, Jake",105,800030
+HARPER,Township 5 West,State Treasurer,,Democratic,"Francisco, Marci",6,800040
+HARPER,Township 5 West,State Treasurer,,Republican,"LaTurner, Jake",35,800040
+HARPER,Township 6 East,State Treasurer,,Democratic,"Francisco, Marci",16,800050
+HARPER,Township 6 East,State Treasurer,,Republican,"LaTurner, Jake",68,800050
+HARPER,Township 6 West,State Treasurer,,Democratic,"Francisco, Marci",7,800060
+HARPER,Township 6 West,State Treasurer,,Republican,"LaTurner, Jake",35,800060
+HARPER,Anthony Ward 2 Exclave 1,State Treasurer,,Democratic,"Francisco, Marci",0,900010
+HARPER,Anthony Ward 2 Exclave 1,State Treasurer,,Republican,"LaTurner, Jake",0,900010
+HARPER,Anthony Ward 2 Exclave 2,State Treasurer,,Democratic,"Francisco, Marci",0,900020
+HARPER,Anthony Ward 2 Exclave 2,State Treasurer,,Republican,"LaTurner, Jake",0,900020
+HARPER,Anthony Ward 3 Exclave 1,State Treasurer,,Democratic,"Francisco, Marci",0,900030
+HARPER,Anthony Ward 3 Exclave 1,State Treasurer,,Republican,"LaTurner, Jake",0,900030
+HARPER,Anthony Ward 3 Exclave 2,State Treasurer,,Democratic,"Francisco, Marci",0,900040
+HARPER,Anthony Ward 3 Exclave 2,State Treasurer,,Republican,"LaTurner, Jake",0,900040
+HARPER,Anthony Ward 4 Exclave 1,State Treasurer,,Democratic,"Francisco, Marci",0,900050
+HARPER,Anthony Ward 4 Exclave 1,State Treasurer,,Republican,"LaTurner, Jake",0,900050
+HARPER,Harper Ward 1 Exclave 1,State Treasurer,,Democratic,"Francisco, Marci",0,900060
+HARPER,Harper Ward 1 Exclave 1,State Treasurer,,Republican,"LaTurner, Jake",0,900060
+HARPER,Township 5 West Enclave,State Treasurer,,Democratic,"Francisco, Marci",0,900070
+HARPER,Township 5 West Enclave,State Treasurer,,Republican,"LaTurner, Jake",0,900070
+HARPER,Anthony Ward 1,United States House of Representatives,4,Democratic,"Thompson, James A.",86,000010
+HARPER,Anthony Ward 1,United States House of Representatives,4,Republican,"Estes, Ron",311,000010
+HARPER,Anthony Ward 2,United States House of Representatives,4,Democratic,"Thompson, James A.",40,000020
+HARPER,Anthony Ward 2,United States House of Representatives,4,Republican,"Estes, Ron",162,000020
+HARPER,Anthony Ward 3,United States House of Representatives,4,Democratic,"Thompson, James A.",15,000030
+HARPER,Anthony Ward 3,United States House of Representatives,4,Republican,"Estes, Ron",31,000030
+HARPER,Anthony Ward 4,United States House of Representatives,4,Democratic,"Thompson, James A.",24,000040
+HARPER,Anthony Ward 4,United States House of Representatives,4,Republican,"Estes, Ron",76,000040
+HARPER,Harper Ward 1,United States House of Representatives,4,Democratic,"Thompson, James A.",50,000050
+HARPER,Harper Ward 1,United States House of Representatives,4,Republican,"Estes, Ron",150,000050
+HARPER,Harper Ward 2,United States House of Representatives,4,Democratic,"Thompson, James A.",58,000060
+HARPER,Harper Ward 2,United States House of Representatives,4,Republican,"Estes, Ron",172,000060
+HARPER,Township 1,United States House of Representatives,4,Democratic,"Thompson, James A.",50,000070
+HARPER,Township 1,United States House of Representatives,4,Republican,"Estes, Ron",245,000070
+HARPER,Township 2,United States House of Representatives,4,Democratic,"Thompson, James A.",3,000080
+HARPER,Township 2,United States House of Representatives,4,Republican,"Estes, Ron",40,000080
+HARPER,Township 4,United States House of Representatives,4,Democratic,"Thompson, James A.",26,000100
+HARPER,Township 4,United States House of Representatives,4,Republican,"Estes, Ron",49,000100
+HARPER,Township 3 East,United States House of Representatives,4,Democratic,"Thompson, James A.",8,800010
+HARPER,Township 3 East,United States House of Representatives,4,Republican,"Estes, Ron",44,800010
+HARPER,Township 3 West,United States House of Representatives,4,Democratic,"Thompson, James A.",12,800020
+HARPER,Township 3 West,United States House of Representatives,4,Republican,"Estes, Ron",68,800020
+HARPER,Township 5 East,United States House of Representatives,4,Democratic,"Thompson, James A.",21,800030
+HARPER,Township 5 East,United States House of Representatives,4,Republican,"Estes, Ron",109,800030
+HARPER,Township 5 West,United States House of Representatives,4,Democratic,"Thompson, James A.",3,800040
+HARPER,Township 5 West,United States House of Representatives,4,Republican,"Estes, Ron",39,800040
+HARPER,Township 6 East,United States House of Representatives,4,Democratic,"Thompson, James A.",13,800050
+HARPER,Township 6 East,United States House of Representatives,4,Republican,"Estes, Ron",71,800050
+HARPER,Township 6 West,United States House of Representatives,4,Democratic,"Thompson, James A.",8,800060
+HARPER,Township 6 West,United States House of Representatives,4,Republican,"Estes, Ron",34,800060
+HARPER,Anthony Ward 2 Exclave 1,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900010
+HARPER,Anthony Ward 2 Exclave 1,United States House of Representatives,4,Republican,"Estes, Ron",0,900010
+HARPER,Anthony Ward 2 Exclave 2,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900020
+HARPER,Anthony Ward 2 Exclave 2,United States House of Representatives,4,Republican,"Estes, Ron",0,900020
+HARPER,Anthony Ward 3 Exclave 1,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900030
+HARPER,Anthony Ward 3 Exclave 1,United States House of Representatives,4,Republican,"Estes, Ron",0,900030
+HARPER,Anthony Ward 3 Exclave 2,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900040
+HARPER,Anthony Ward 3 Exclave 2,United States House of Representatives,4,Republican,"Estes, Ron",0,900040
+HARPER,Anthony Ward 4 Exclave 1,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900050
+HARPER,Anthony Ward 4 Exclave 1,United States House of Representatives,4,Republican,"Estes, Ron",0,900050
+HARPER,Harper Ward 1 Exclave 1,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900060
+HARPER,Harper Ward 1 Exclave 1,United States House of Representatives,4,Republican,"Estes, Ron",0,900060
+HARPER,Township 5 West Enclave,United States House of Representatives,4,Democratic,"Thompson, James A.",0,900070
+HARPER,Township 5 West Enclave,United States House of Representatives,4,Republican,"Estes, Ron",0,900070

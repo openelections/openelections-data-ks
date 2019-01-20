@@ -1,0 +1,723 @@
+county,precinct,office,district,party,candidate,votes,vtd
+NEMAHA,Adams Township,Attorney General,,Democratic,"Swain, Sarah G.",14,000010
+NEMAHA,Adams Township,Attorney General,,Republican,"Schmidt, Derek",59,000010
+NEMAHA,Berwick Township,Attorney General,,Democratic,"Swain, Sarah G.",11,000020
+NEMAHA,Berwick Township,Attorney General,,Republican,"Schmidt, Derek",168,000020
+NEMAHA,Capioma Township,Attorney General,,Democratic,"Swain, Sarah G.",11,000030
+NEMAHA,Capioma Township,Attorney General,,Republican,"Schmidt, Derek",57,000030
+NEMAHA,Center Township,Attorney General,,Democratic,"Swain, Sarah G.",15,000040
+NEMAHA,Center Township,Attorney General,,Republican,"Schmidt, Derek",63,000040
+NEMAHA,Centralia,Attorney General,,Democratic,"Swain, Sarah G.",39,00005A
+NEMAHA,Centralia,Attorney General,,Republican,"Schmidt, Derek",108,00005A
+NEMAHA,Centralia Illinois A,Attorney General,,Democratic,"Swain, Sarah G.",5,00005B
+NEMAHA,Centralia Illinois A,Attorney General,,Republican,"Schmidt, Derek",26,00005B
+NEMAHA,Centralia Illinois B,Attorney General,,Democratic,"Swain, Sarah G.",0,00005C
+NEMAHA,Centralia Illinois B,Attorney General,,Republican,"Schmidt, Derek",0,00005C
+NEMAHA,Clear Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",17,000060
+NEMAHA,Clear Creek Township,Attorney General,,Republican,"Schmidt, Derek",35,000060
+NEMAHA,Gilman Township,Attorney General,,Democratic,"Swain, Sarah G.",20,000070
+NEMAHA,Gilman Township,Attorney General,,Republican,"Schmidt, Derek",71,000070
+NEMAHA,Granada Township,Attorney General,,Democratic,"Swain, Sarah G.",13,000080
+NEMAHA,Granada Township,Attorney General,,Republican,"Schmidt, Derek",39,000080
+NEMAHA,Harrison - Goff,Attorney General,,Democratic,"Swain, Sarah G.",21,000090
+NEMAHA,Harrison - Goff,Attorney General,,Republican,"Schmidt, Derek",46,000090
+NEMAHA,Harrison - Kelly,Attorney General,,Democratic,"Swain, Sarah G.",8,000100
+NEMAHA,Harrison - Kelly,Attorney General,,Republican,"Schmidt, Derek",37,000100
+NEMAHA,Home Township,Attorney General,,Democratic,"Swain, Sarah G.",10,000110
+NEMAHA,Home Township,Attorney General,,Republican,"Schmidt, Derek",63,000110
+NEMAHA,Illinois Township,Attorney General,,Democratic,"Swain, Sarah G.",31,000120
+NEMAHA,Illinois Township,Attorney General,,Republican,"Schmidt, Derek",175,000120
+NEMAHA,Marion Township,Attorney General,,Democratic,"Swain, Sarah G.",44,000130
+NEMAHA,Marion Township,Attorney General,,Republican,"Schmidt, Derek",157,000130
+NEMAHA,Mitchell Township,Attorney General,,Democratic,"Swain, Sarah G.",21,000140
+NEMAHA,Mitchell Township,Attorney General,,Republican,"Schmidt, Derek",123,000140
+NEMAHA,Nemaha Township,Attorney General,,Democratic,"Swain, Sarah G.",5,000150
+NEMAHA,Nemaha Township,Attorney General,,Republican,"Schmidt, Derek",67,000150
+NEMAHA,Neuchatel Township,Attorney General,,Democratic,"Swain, Sarah G.",4,000160
+NEMAHA,Neuchatel Township,Attorney General,,Republican,"Schmidt, Derek",54,000160
+NEMAHA,Red Vermillion Township,Attorney General,,Democratic,"Swain, Sarah G.",6,000170
+NEMAHA,Red Vermillion Township,Attorney General,,Republican,"Schmidt, Derek",45,000170
+NEMAHA,Reilly Township,Attorney General,,Democratic,"Swain, Sarah G.",11,000180
+NEMAHA,Reilly Township,Attorney General,,Republican,"Schmidt, Derek",55,000180
+NEMAHA,Richmond Township,Attorney General,,Democratic,"Swain, Sarah G.",30,000190
+NEMAHA,Richmond Township,Attorney General,,Republican,"Schmidt, Derek",224,000190
+NEMAHA,Rock Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",20,00020A
+NEMAHA,Rock Creek Township,Attorney General,,Republican,"Schmidt, Derek",175,00020A
+NEMAHA,Rock Creek Township Enclave A,Attorney General,,Democratic,"Swain, Sarah G.",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Attorney General,,Republican,"Schmidt, Derek",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Attorney General,,Democratic,"Swain, Sarah G.",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Attorney General,,Republican,"Schmidt, Derek",0,00020C
+NEMAHA,Sabetha Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",59,000210
+NEMAHA,Sabetha Ward 1,Attorney General,,Republican,"Schmidt, Derek",213,000210
+NEMAHA,Sabetha Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",50,000220
+NEMAHA,Sabetha Ward 2,Attorney General,,Republican,"Schmidt, Derek",239,000220
+NEMAHA,Sabetha Ward,Attorney General,,Democratic,"Swain, Sarah G.",53,00023A
+NEMAHA,Sabetha Ward,Attorney General,,Republican,"Schmidt, Derek",252,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Attorney General,,Democratic,"Swain, Sarah G.",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Attorney General,,Republican,"Schmidt, Derek",0,00023B
+NEMAHA,Sabetha Ward 4,Attorney General,,Democratic,"Swain, Sarah G.",32,000240
+NEMAHA,Sabetha Ward 4,Attorney General,,Republican,"Schmidt, Derek",121,000240
+NEMAHA,Sabetha Ward 5,Attorney General,,Democratic,"Swain, Sarah G.",0,000250
+NEMAHA,Sabetha Ward 5,Attorney General,,Republican,"Schmidt, Derek",0,000250
+NEMAHA,Seneca Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",49,000260
+NEMAHA,Seneca Ward 1,Attorney General,,Republican,"Schmidt, Derek",154,000260
+NEMAHA,Seneca Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",92,000270
+NEMAHA,Seneca Ward 2,Attorney General,,Republican,"Schmidt, Derek",264,000270
+NEMAHA,Seneca Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",82,000280
+NEMAHA,Seneca Ward 3,Attorney General,,Republican,"Schmidt, Derek",278,000280
+NEMAHA,Washington Township,Attorney General,,Democratic,"Swain, Sarah G.",23,000290
+NEMAHA,Washington Township,Attorney General,,Republican,"Schmidt, Derek",170,000290
+NEMAHA,Wetmore Township,Attorney General,,Democratic,"Swain, Sarah G.",39,000300
+NEMAHA,Wetmore Township,Attorney General,,Republican,"Schmidt, Derek",121,000300
+NEMAHA,Richmond Township Enclave 1,Attorney General,,Democratic,"Swain, Sarah G.",0,900010
+NEMAHA,Richmond Township Enclave 1,Attorney General,,Republican,"Schmidt, Derek",0,900010
+NEMAHA,Richland Township Enclave 2,Attorney General,,Democratic,"Swain, Sarah G.",0,900020
+NEMAHA,Richland Township Enclave 2,Attorney General,,Republican,"Schmidt, Derek",0,900020
+NEMAHA,Sabetha Ward Exclave,Attorney General,,Democratic,"Swain, Sarah G.",0,900030
+NEMAHA,Sabetha Ward Exclave,Attorney General,,Republican,"Schmidt, Derek",0,900030
+NEMAHA,Adams Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
+NEMAHA,Adams Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000010
+NEMAHA,Adams Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",22,000010
+NEMAHA,Adams Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000010
+NEMAHA,Adams Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000010
+NEMAHA,Berwick Township,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000020
+NEMAHA,Berwick Township,Governor / Lt. Governor,,independent,"Orman, Greg",12,000020
+NEMAHA,Berwick Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",23,000020
+NEMAHA,Berwick Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000020
+NEMAHA,Berwick Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",143,000020
+NEMAHA,Capioma Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000030
+NEMAHA,Capioma Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000030
+NEMAHA,Capioma Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",19,000030
+NEMAHA,Capioma Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000030
+NEMAHA,Capioma Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",45,000030
+NEMAHA,Center Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000040
+NEMAHA,Center Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000040
+NEMAHA,Center Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",26,000040
+NEMAHA,Center Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000040
+NEMAHA,Center Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",46,000040
+NEMAHA,Centralia,Governor / Lt. Governor,,independent,"Kloos, Rick",2,00005A
+NEMAHA,Centralia,Governor / Lt. Governor,,independent,"Orman, Greg",19,00005A
+NEMAHA,Centralia,Governor / Lt. Governor,,Democratic,"Kelly, Laura",64,00005A
+NEMAHA,Centralia,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,00005A
+NEMAHA,Centralia,Governor / Lt. Governor,,Republican,"Kobach, Kris",62,00005A
+NEMAHA,Centralia Illinois A,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00005B
+NEMAHA,Centralia Illinois A,Governor / Lt. Governor,,independent,"Orman, Greg",4,00005B
+NEMAHA,Centralia Illinois A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,00005B
+NEMAHA,Centralia Illinois A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00005B
+NEMAHA,Centralia Illinois A,Governor / Lt. Governor,,Republican,"Kobach, Kris",13,00005B
+NEMAHA,Centralia Illinois B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00005C
+NEMAHA,Centralia Illinois B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00005C
+NEMAHA,Centralia Illinois B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00005C
+NEMAHA,Centralia Illinois B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00005C
+NEMAHA,Centralia Illinois B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00005C
+NEMAHA,Clear Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000060
+NEMAHA,Clear Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000060
+NEMAHA,Clear Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",21,000060
+NEMAHA,Clear Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000060
+NEMAHA,Clear Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",23,000060
+NEMAHA,Gilman Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000070
+NEMAHA,Gilman Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000070
+NEMAHA,Gilman Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",34,000070
+NEMAHA,Gilman Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000070
+NEMAHA,Gilman Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000070
+NEMAHA,Granada Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000080
+NEMAHA,Granada Township,Governor / Lt. Governor,,independent,"Orman, Greg",7,000080
+NEMAHA,Granada Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",20,000080
+NEMAHA,Granada Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000080
+NEMAHA,Granada Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",24,000080
+NEMAHA,Harrison - Goff,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000090
+NEMAHA,Harrison - Goff,Governor / Lt. Governor,,independent,"Orman, Greg",13,000090
+NEMAHA,Harrison - Goff,Governor / Lt. Governor,,Democratic,"Kelly, Laura",17,000090
+NEMAHA,Harrison - Goff,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000090
+NEMAHA,Harrison - Goff,Governor / Lt. Governor,,Republican,"Kobach, Kris",34,000090
+NEMAHA,Harrison - Kelly,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000100
+NEMAHA,Harrison - Kelly,Governor / Lt. Governor,,independent,"Orman, Greg",8,000100
+NEMAHA,Harrison - Kelly,Governor / Lt. Governor,,Democratic,"Kelly, Laura",12,000100
+NEMAHA,Harrison - Kelly,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000100
+NEMAHA,Harrison - Kelly,Governor / Lt. Governor,,Republican,"Kobach, Kris",24,000100
+NEMAHA,Home Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000110
+NEMAHA,Home Township,Governor / Lt. Governor,,independent,"Orman, Greg",18,000110
+NEMAHA,Home Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",26,000110
+NEMAHA,Home Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000110
+NEMAHA,Home Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",29,000110
+NEMAHA,Illinois Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000120
+NEMAHA,Illinois Township,Governor / Lt. Governor,,independent,"Orman, Greg",33,000120
+NEMAHA,Illinois Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",70,000120
+NEMAHA,Illinois Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000120
+NEMAHA,Illinois Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",103,000120
+NEMAHA,Marion Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000130
+NEMAHA,Marion Township,Governor / Lt. Governor,,independent,"Orman, Greg",27,000130
+NEMAHA,Marion Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",64,000130
+NEMAHA,Marion Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000130
+NEMAHA,Marion Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",111,000130
+NEMAHA,Mitchell Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000140
+NEMAHA,Mitchell Township,Governor / Lt. Governor,,independent,"Orman, Greg",11,000140
+NEMAHA,Mitchell Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",44,000140
+NEMAHA,Mitchell Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000140
+NEMAHA,Mitchell Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",89,000140
+NEMAHA,Nemaha Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000150
+NEMAHA,Nemaha Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000150
+NEMAHA,Nemaha Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,000150
+NEMAHA,Nemaha Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000150
+NEMAHA,Nemaha Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",50,000150
+NEMAHA,Neuchatel Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000160
+NEMAHA,Neuchatel Township,Governor / Lt. Governor,,independent,"Orman, Greg",7,000160
+NEMAHA,Neuchatel Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,000160
+NEMAHA,Neuchatel Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000160
+NEMAHA,Neuchatel Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",36,000160
+NEMAHA,Red Vermillion Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000170
+NEMAHA,Red Vermillion Township,Governor / Lt. Governor,,independent,"Orman, Greg",10,000170
+NEMAHA,Red Vermillion Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",14,000170
+NEMAHA,Red Vermillion Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000170
+NEMAHA,Red Vermillion Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",28,000170
+NEMAHA,Reilly Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000180
+NEMAHA,Reilly Township,Governor / Lt. Governor,,independent,"Orman, Greg",8,000180
+NEMAHA,Reilly Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",16,000180
+NEMAHA,Reilly Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000180
+NEMAHA,Reilly Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",41,000180
+NEMAHA,Richmond Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000190
+NEMAHA,Richmond Township,Governor / Lt. Governor,,independent,"Orman, Greg",19,000190
+NEMAHA,Richmond Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",66,000190
+NEMAHA,Richmond Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",5,000190
+NEMAHA,Richmond Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",170,000190
+NEMAHA,Rock Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",6,00020A
+NEMAHA,Rock Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",13,00020A
+NEMAHA,Rock Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",39,00020A
+NEMAHA,Rock Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,00020A
+NEMAHA,Rock Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",141,00020A
+NEMAHA,Rock Creek Township Enclave A,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Governor / Lt. Governor,,independent,"Orman, Greg",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Governor / Lt. Governor,,independent,"Orman, Greg",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00020C
+NEMAHA,Sabetha Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",8,000210
+NEMAHA,Sabetha Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",28,000210
+NEMAHA,Sabetha Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",90,000210
+NEMAHA,Sabetha Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",7,000210
+NEMAHA,Sabetha Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",143,000210
+NEMAHA,Sabetha Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000220
+NEMAHA,Sabetha Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",18,000220
+NEMAHA,Sabetha Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",89,000220
+NEMAHA,Sabetha Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000220
+NEMAHA,Sabetha Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",181,000220
+NEMAHA,Sabetha Ward,Governor / Lt. Governor,,independent,"Kloos, Rick",3,00023A
+NEMAHA,Sabetha Ward,Governor / Lt. Governor,,independent,"Orman, Greg",21,00023A
+NEMAHA,Sabetha Ward,Governor / Lt. Governor,,Democratic,"Kelly, Laura",102,00023A
+NEMAHA,Sabetha Ward,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,00023A
+NEMAHA,Sabetha Ward,Governor / Lt. Governor,,Republican,"Kobach, Kris",182,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00023B
+NEMAHA,Sabetha Ward 4,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000240
+NEMAHA,Sabetha Ward 4,Governor / Lt. Governor,,independent,"Orman, Greg",23,000240
+NEMAHA,Sabetha Ward 4,Governor / Lt. Governor,,Democratic,"Kelly, Laura",42,000240
+NEMAHA,Sabetha Ward 4,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000240
+NEMAHA,Sabetha Ward 4,Governor / Lt. Governor,,Republican,"Kobach, Kris",89,000240
+NEMAHA,Sabetha Ward 5,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000250
+NEMAHA,Sabetha Ward 5,Governor / Lt. Governor,,independent,"Orman, Greg",0,000250
+NEMAHA,Sabetha Ward 5,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,000250
+NEMAHA,Sabetha Ward 5,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000250
+NEMAHA,Sabetha Ward 5,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,000250
+NEMAHA,Seneca Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000260
+NEMAHA,Seneca Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",16,000260
+NEMAHA,Seneca Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",85,000260
+NEMAHA,Seneca Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000260
+NEMAHA,Seneca Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",100,000260
+NEMAHA,Seneca Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000270
+NEMAHA,Seneca Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",31,000270
+NEMAHA,Seneca Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",144,000270
+NEMAHA,Seneca Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000270
+NEMAHA,Seneca Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",171,000270
+NEMAHA,Seneca Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",4,000280
+NEMAHA,Seneca Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",27,000280
+NEMAHA,Seneca Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",135,000280
+NEMAHA,Seneca Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000280
+NEMAHA,Seneca Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",199,000280
+NEMAHA,Washington Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000290
+NEMAHA,Washington Township,Governor / Lt. Governor,,independent,"Orman, Greg",16,000290
+NEMAHA,Washington Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",44,000290
+NEMAHA,Washington Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000290
+NEMAHA,Washington Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",134,000290
+NEMAHA,Wetmore Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000300
+NEMAHA,Wetmore Township,Governor / Lt. Governor,,independent,"Orman, Greg",14,000300
+NEMAHA,Wetmore Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",45,000300
+NEMAHA,Wetmore Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000300
+NEMAHA,Wetmore Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",94,000300
+NEMAHA,Richmond Township Enclave 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900010
+NEMAHA,Richmond Township Enclave 1,Governor / Lt. Governor,,independent,"Orman, Greg",0,900010
+NEMAHA,Richmond Township Enclave 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900010
+NEMAHA,Richmond Township Enclave 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900010
+NEMAHA,Richmond Township Enclave 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900010
+NEMAHA,Richland Township Enclave 2,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900020
+NEMAHA,Richland Township Enclave 2,Governor / Lt. Governor,,independent,"Orman, Greg",0,900020
+NEMAHA,Richland Township Enclave 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900020
+NEMAHA,Richland Township Enclave 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900020
+NEMAHA,Richland Township Enclave 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900020
+NEMAHA,Sabetha Ward Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,900030
+NEMAHA,Sabetha Ward Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,900030
+NEMAHA,Sabetha Ward Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,900030
+NEMAHA,Sabetha Ward Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,900030
+NEMAHA,Sabetha Ward Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,900030
+NEMAHA,Adams Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",9,000010
+NEMAHA,Adams Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",66,000010
+NEMAHA,Berwick Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000020
+NEMAHA,Berwick Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",168,000020
+NEMAHA,Capioma Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000030
+NEMAHA,Capioma Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",62,000030
+NEMAHA,Center Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",12,000040
+NEMAHA,Center Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",65,000040
+NEMAHA,Centralia,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",31,00005A
+NEMAHA,Centralia,Commissioner of Insurance,,Republican,"Schmidt, Vicki",114,00005A
+NEMAHA,Centralia Illinois A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,00005B
+NEMAHA,Centralia Illinois A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",25,00005B
+NEMAHA,Centralia Illinois B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00005C
+NEMAHA,Centralia Illinois B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00005C
+NEMAHA,Clear Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",14,000060
+NEMAHA,Clear Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",37,000060
+NEMAHA,Gilman Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",14,000070
+NEMAHA,Gilman Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",76,000070
+NEMAHA,Granada Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",8,000080
+NEMAHA,Granada Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",42,000080
+NEMAHA,Harrison - Goff,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",18,000090
+NEMAHA,Harrison - Goff,Commissioner of Insurance,,Republican,"Schmidt, Vicki",48,000090
+NEMAHA,Harrison - Kelly,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",7,000100
+NEMAHA,Harrison - Kelly,Commissioner of Insurance,,Republican,"Schmidt, Vicki",39,000100
+NEMAHA,Home Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",9,000110
+NEMAHA,Home Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",58,000110
+NEMAHA,Illinois Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",29,000120
+NEMAHA,Illinois Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",178,000120
+NEMAHA,Marion Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",27,000130
+NEMAHA,Marion Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",171,000130
+NEMAHA,Mitchell Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",15,000140
+NEMAHA,Mitchell Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",127,000140
+NEMAHA,Nemaha Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000150
+NEMAHA,Nemaha Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",61,000150
+NEMAHA,Neuchatel Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000160
+NEMAHA,Neuchatel Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",51,000160
+NEMAHA,Red Vermillion Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",8,000170
+NEMAHA,Red Vermillion Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",43,000170
+NEMAHA,Reilly Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,000180
+NEMAHA,Reilly Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",59,000180
+NEMAHA,Richmond Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",26,000190
+NEMAHA,Richmond Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",220,000190
+NEMAHA,Rock Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",15,00020A
+NEMAHA,Rock Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",176,00020A
+NEMAHA,Rock Creek Township Enclave A,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00020C
+NEMAHA,Sabetha Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",47,000210
+NEMAHA,Sabetha Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",215,000210
+NEMAHA,Sabetha Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",39,000220
+NEMAHA,Sabetha Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",249,000220
+NEMAHA,Sabetha Ward,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",39,00023A
+NEMAHA,Sabetha Ward,Commissioner of Insurance,,Republican,"Schmidt, Vicki",262,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00023B
+NEMAHA,Sabetha Ward 4,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",24,000240
+NEMAHA,Sabetha Ward 4,Commissioner of Insurance,,Republican,"Schmidt, Vicki",128,000240
+NEMAHA,Sabetha Ward 5,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,000250
+NEMAHA,Sabetha Ward 5,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,000250
+NEMAHA,Seneca Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",43,000260
+NEMAHA,Seneca Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",155,000260
+NEMAHA,Seneca Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",74,000270
+NEMAHA,Seneca Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",273,000270
+NEMAHA,Seneca Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",61,000280
+NEMAHA,Seneca Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",294,000280
+NEMAHA,Washington Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",24,000290
+NEMAHA,Washington Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",162,000290
+NEMAHA,Wetmore Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",26,000300
+NEMAHA,Wetmore Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",135,000300
+NEMAHA,Richmond Township Enclave 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900010
+NEMAHA,Richmond Township Enclave 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900010
+NEMAHA,Richland Township Enclave 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900020
+NEMAHA,Richland Township Enclave 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900020
+NEMAHA,Sabetha Ward Exclave,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,900030
+NEMAHA,Sabetha Ward Exclave,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,900030
+NEMAHA,Adams Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",18,000010
+NEMAHA,Adams Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000010
+NEMAHA,Adams Township,Secretary of State,,Republican,"Schwab, Scott",57,000010
+NEMAHA,Berwick Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",17,000020
+NEMAHA,Berwick Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000020
+NEMAHA,Berwick Township,Secretary of State,,Republican,"Schwab, Scott",160,000020
+NEMAHA,Capioma Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",12,000030
+NEMAHA,Capioma Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000030
+NEMAHA,Capioma Township,Secretary of State,,Republican,"Schwab, Scott",54,000030
+NEMAHA,Center Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",24,000040
+NEMAHA,Center Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000040
+NEMAHA,Center Township,Secretary of State,,Republican,"Schwab, Scott",55,000040
+NEMAHA,Centralia,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",44,00005A
+NEMAHA,Centralia,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,00005A
+NEMAHA,Centralia,Secretary of State,,Republican,"Schwab, Scott",93,00005A
+NEMAHA,Centralia Illinois A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",9,00005B
+NEMAHA,Centralia Illinois A,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00005B
+NEMAHA,Centralia Illinois A,Secretary of State,,Republican,"Schwab, Scott",21,00005B
+NEMAHA,Centralia Illinois B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00005C
+NEMAHA,Centralia Illinois B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00005C
+NEMAHA,Centralia Illinois B,Secretary of State,,Republican,"Schwab, Scott",0,00005C
+NEMAHA,Clear Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",20,000060
+NEMAHA,Clear Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000060
+NEMAHA,Clear Creek Township,Secretary of State,,Republican,"Schwab, Scott",31,000060
+NEMAHA,Gilman Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",25,000070
+NEMAHA,Gilman Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000070
+NEMAHA,Gilman Township,Secretary of State,,Republican,"Schwab, Scott",61,000070
+NEMAHA,Granada Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",14,000080
+NEMAHA,Granada Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000080
+NEMAHA,Granada Township,Secretary of State,,Republican,"Schwab, Scott",35,000080
+NEMAHA,Harrison - Goff,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",26,000090
+NEMAHA,Harrison - Goff,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000090
+NEMAHA,Harrison - Goff,Secretary of State,,Republican,"Schwab, Scott",37,000090
+NEMAHA,Harrison - Kelly,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",15,000100
+NEMAHA,Harrison - Kelly,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000100
+NEMAHA,Harrison - Kelly,Secretary of State,,Republican,"Schwab, Scott",28,000100
+NEMAHA,Home Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",20,000110
+NEMAHA,Home Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000110
+NEMAHA,Home Township,Secretary of State,,Republican,"Schwab, Scott",50,000110
+NEMAHA,Illinois Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",65,000120
+NEMAHA,Illinois Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000120
+NEMAHA,Illinois Township,Secretary of State,,Republican,"Schwab, Scott",136,000120
+NEMAHA,Marion Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",60,000130
+NEMAHA,Marion Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000130
+NEMAHA,Marion Township,Secretary of State,,Republican,"Schwab, Scott",139,000130
+NEMAHA,Mitchell Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",35,000140
+NEMAHA,Mitchell Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000140
+NEMAHA,Mitchell Township,Secretary of State,,Republican,"Schwab, Scott",106,000140
+NEMAHA,Nemaha Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,000150
+NEMAHA,Nemaha Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000150
+NEMAHA,Nemaha Township,Secretary of State,,Republican,"Schwab, Scott",62,000150
+NEMAHA,Neuchatel Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",9,000160
+NEMAHA,Neuchatel Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000160
+NEMAHA,Neuchatel Township,Secretary of State,,Republican,"Schwab, Scott",47,000160
+NEMAHA,Red Vermillion Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",10,000170
+NEMAHA,Red Vermillion Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",1,000170
+NEMAHA,Red Vermillion Township,Secretary of State,,Republican,"Schwab, Scott",41,000170
+NEMAHA,Reilly Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",22,000180
+NEMAHA,Reilly Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000180
+NEMAHA,Reilly Township,Secretary of State,,Republican,"Schwab, Scott",43,000180
+NEMAHA,Richmond Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",53,000190
+NEMAHA,Richmond Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000190
+NEMAHA,Richmond Township,Secretary of State,,Republican,"Schwab, Scott",196,000190
+NEMAHA,Rock Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",30,00020A
+NEMAHA,Rock Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,00020A
+NEMAHA,Rock Creek Township,Secretary of State,,Republican,"Schwab, Scott",166,00020A
+NEMAHA,Rock Creek Township Enclave A,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00020B
+NEMAHA,Rock Creek Township Enclave A,Secretary of State,,Republican,"Schwab, Scott",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00020C
+NEMAHA,Rock Creek Township Enclave B,Secretary of State,,Republican,"Schwab, Scott",0,00020C
+NEMAHA,Sabetha Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",70,000210
+NEMAHA,Sabetha Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000210
+NEMAHA,Sabetha Ward 1,Secretary of State,,Republican,"Schwab, Scott",195,000210
+NEMAHA,Sabetha Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",74,000220
+NEMAHA,Sabetha Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000220
+NEMAHA,Sabetha Ward 2,Secretary of State,,Republican,"Schwab, Scott",212,000220
+NEMAHA,Sabetha Ward,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",64,00023A
+NEMAHA,Sabetha Ward,Secretary of State,,Libertarian,"Hodgkinson, Rob",8,00023A
+NEMAHA,Sabetha Ward,Secretary of State,,Republican,"Schwab, Scott",232,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,Secretary of State,,Republican,"Schwab, Scott",0,00023B
+NEMAHA,Sabetha Ward 4,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",44,000240
+NEMAHA,Sabetha Ward 4,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000240
+NEMAHA,Sabetha Ward 4,Secretary of State,,Republican,"Schwab, Scott",108,000240
+NEMAHA,Sabetha Ward 5,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,000250
+NEMAHA,Sabetha Ward 5,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000250
+NEMAHA,Sabetha Ward 5,Secretary of State,,Republican,"Schwab, Scott",0,000250
+NEMAHA,Seneca Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",74,000260
+NEMAHA,Seneca Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000260
+NEMAHA,Seneca Ward 1,Secretary of State,,Republican,"Schwab, Scott",127,000260
+NEMAHA,Seneca Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",141,000270
+NEMAHA,Seneca Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",8,000270
+NEMAHA,Seneca Ward 2,Secretary of State,,Republican,"Schwab, Scott",199,000270
+NEMAHA,Seneca Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",114,000280
+NEMAHA,Seneca Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",9,000280
+NEMAHA,Seneca Ward 3,Secretary of State,,Republican,"Schwab, Scott",233,000280
+NEMAHA,Washington Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",39,000290
+NEMAHA,Washington Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000290
+NEMAHA,Washington Township,Secretary of State,,Republican,"Schwab, Scott",154,000290
+NEMAHA,Wetmore Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",45,000300
+NEMAHA,Wetmore Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",8,000300
+NEMAHA,Wetmore Township,Secretary of State,,Republican,"Schwab, Scott",107,000300
+NEMAHA,Richmond Township Enclave 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900010
+NEMAHA,Richmond Township Enclave 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900010
+NEMAHA,Richmond Township Enclave 1,Secretary of State,,Republican,"Schwab, Scott",0,900010
+NEMAHA,Richland Township Enclave 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900020
+NEMAHA,Richland Township Enclave 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900020
+NEMAHA,Richland Township Enclave 2,Secretary of State,,Republican,"Schwab, Scott",0,900020
+NEMAHA,Sabetha Ward Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900030
+NEMAHA,Sabetha Ward Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900030
+NEMAHA,Sabetha Ward Exclave,Secretary of State,,Republican,"Schwab, Scott",0,900030
+NEMAHA,Adams Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",23,10
+NEMAHA,Berwick Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",20,20
+NEMAHA,Capioma Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",18,30
+NEMAHA,Center Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",32,40
+NEMAHA,Centralia,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",71,00005A
+NEMAHA,Centralia Illinois A,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",13,00005B
+NEMAHA,Centralia Illinois B,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00005C
+NEMAHA,Clear Creek Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",22,60
+NEMAHA,Gilman Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",38,70
+NEMAHA,Granada Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",17,80
+NEMAHA,Harrison - Goff,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",26,90
+NEMAHA,Harrison - Kelly,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",16,100
+NEMAHA,Home Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",35,110
+NEMAHA,Illinois Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",78,120
+NEMAHA,Marion Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",76,130
+NEMAHA,Mitchell Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",50,140
+NEMAHA,Nemaha Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",11,150
+NEMAHA,Neuchatel Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",14,160
+NEMAHA,Red Vermillion Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",21,170
+NEMAHA,Reilly Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",14,180
+NEMAHA,Richmond Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",72,190
+NEMAHA,Rock Creek Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",41,00020A
+NEMAHA,Rock Creek Township Enclave A,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00020C
+NEMAHA,Sabetha Ward 1,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",86,210
+NEMAHA,Sabetha Ward 2,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",76,220
+NEMAHA,Sabetha Ward,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",74,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,00023B
+NEMAHA,Sabetha Ward 4,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",43,240
+NEMAHA,Sabetha Ward 5,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,250
+NEMAHA,Seneca Ward 1,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",89,260
+NEMAHA,Seneca Ward 2,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",168,270
+NEMAHA,Seneca Ward 3,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",159,280
+NEMAHA,Washington Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",42,290
+NEMAHA,Wetmore Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",46,300
+NEMAHA,Richmond Township Enclave 1,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,900010
+NEMAHA,Richland Township Enclave 2,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,900020
+NEMAHA,Sabetha Ward Exclave,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",0,900030
+NEMAHA,Adams Township,Kansas House of Representatives,62,Republican,"Garber, Randy",55,10
+NEMAHA,Berwick Township,Kansas House of Representatives,62,Republican,"Garber, Randy",159,20
+NEMAHA,Capioma Township,Kansas House of Representatives,62,Republican,"Garber, Randy",52,30
+NEMAHA,Center Township,Kansas House of Representatives,62,Republican,"Garber, Randy",45,40
+NEMAHA,Centralia,Kansas House of Representatives,62,Republican,"Garber, Randy",78,00005A
+NEMAHA,Centralia Illinois A,Kansas House of Representatives,62,Republican,"Garber, Randy",18,00005B
+NEMAHA,Centralia Illinois B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00005C
+NEMAHA,Clear Creek Township,Kansas House of Representatives,62,Republican,"Garber, Randy",30,60
+NEMAHA,Gilman Township,Kansas House of Representatives,62,Republican,"Garber, Randy",54,70
+NEMAHA,Granada Township,Kansas House of Representatives,62,Republican,"Garber, Randy",34,80
+NEMAHA,Harrison - Goff,Kansas House of Representatives,62,Republican,"Garber, Randy",41,90
+NEMAHA,Harrison - Kelly,Kansas House of Representatives,62,Republican,"Garber, Randy",29,100
+NEMAHA,Home Township,Kansas House of Representatives,62,Republican,"Garber, Randy",38,110
+NEMAHA,Illinois Township,Kansas House of Representatives,62,Republican,"Garber, Randy",134,120
+NEMAHA,Marion Township,Kansas House of Representatives,62,Republican,"Garber, Randy",128,130
+NEMAHA,Mitchell Township,Kansas House of Representatives,62,Republican,"Garber, Randy",99,140
+NEMAHA,Nemaha Township,Kansas House of Representatives,62,Republican,"Garber, Randy",62,150
+NEMAHA,Neuchatel Township,Kansas House of Representatives,62,Republican,"Garber, Randy",45,160
+NEMAHA,Red Vermillion Township,Kansas House of Representatives,62,Republican,"Garber, Randy",33,170
+NEMAHA,Reilly Township,Kansas House of Representatives,62,Republican,"Garber, Randy",53,180
+NEMAHA,Richmond Township,Kansas House of Representatives,62,Republican,"Garber, Randy",186,190
+NEMAHA,Rock Creek Township,Kansas House of Representatives,62,Republican,"Garber, Randy",160,00020A
+NEMAHA,Rock Creek Township Enclave A,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00020B
+NEMAHA,Rock Creek Township Enclave B,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00020C
+NEMAHA,Sabetha Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",190,210
+NEMAHA,Sabetha Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",221,220
+NEMAHA,Sabetha Ward,Kansas House of Representatives,62,Republican,"Garber, Randy",238,00023A
+NEMAHA,Sabetha Ward 3 Enclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,00023B
+NEMAHA,Sabetha Ward 4,Kansas House of Representatives,62,Republican,"Garber, Randy",112,240
+NEMAHA,Sabetha Ward 5,Kansas House of Representatives,62,Republican,"Garber, Randy",0,250
+NEMAHA,Seneca Ward 1,Kansas House of Representatives,62,Republican,"Garber, Randy",116,260
+NEMAHA,Seneca Ward 2,Kansas House of Representatives,62,Republican,"Garber, Randy",191,270
+NEMAHA,Seneca Ward 3,Kansas House of Representatives,62,Republican,"Garber, Randy",210,280
+NEMAHA,Washington Township,Kansas House of Representatives,62,Republican,"Garber, Randy",155,290
+NEMAHA,Wetmore Township,Kansas House of Representatives,62,Republican,"Garber, Randy",114,300
+NEMAHA,Richmond Township Enclave 1,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900010
+NEMAHA,Richland Township Enclave 2,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900020
+NEMAHA,Sabetha Ward Exclave,Kansas House of Representatives,62,Republican,"Garber, Randy",0,900030
+NEMAHA,Adams Township,State Treasurer,,Democratic,"Francisco, Marci",8,000010
+NEMAHA,Adams Township,State Treasurer,,Republican,"LaTurner, Jake",64,000010
+NEMAHA,Berwick Township,State Treasurer,,Democratic,"Francisco, Marci",11,000020
+NEMAHA,Berwick Township,State Treasurer,,Republican,"LaTurner, Jake",164,000020
+NEMAHA,Capioma Township,State Treasurer,,Democratic,"Francisco, Marci",13,000030
+NEMAHA,Capioma Township,State Treasurer,,Republican,"LaTurner, Jake",56,000030
+NEMAHA,Center Township,State Treasurer,,Democratic,"Francisco, Marci",14,000040
+NEMAHA,Center Township,State Treasurer,,Republican,"LaTurner, Jake",64,000040
+NEMAHA,Centralia,State Treasurer,,Democratic,"Francisco, Marci",40,00005A
+NEMAHA,Centralia,State Treasurer,,Republican,"LaTurner, Jake",104,00005A
+NEMAHA,Centralia Illinois A,State Treasurer,,Democratic,"Francisco, Marci",8,00005B
+NEMAHA,Centralia Illinois A,State Treasurer,,Republican,"LaTurner, Jake",23,00005B
+NEMAHA,Centralia Illinois B,State Treasurer,,Democratic,"Francisco, Marci",0,00005C
+NEMAHA,Centralia Illinois B,State Treasurer,,Republican,"LaTurner, Jake",0,00005C
+NEMAHA,Clear Creek Township,State Treasurer,,Democratic,"Francisco, Marci",19,000060
+NEMAHA,Clear Creek Township,State Treasurer,,Republican,"LaTurner, Jake",33,000060
+NEMAHA,Gilman Township,State Treasurer,,Democratic,"Francisco, Marci",24,000070
+NEMAHA,Gilman Township,State Treasurer,,Republican,"LaTurner, Jake",66,000070
+NEMAHA,Granada Township,State Treasurer,,Democratic,"Francisco, Marci",11,000080
+NEMAHA,Granada Township,State Treasurer,,Republican,"LaTurner, Jake",41,000080
+NEMAHA,Harrison - Goff,State Treasurer,,Democratic,"Francisco, Marci",22,000090
+NEMAHA,Harrison - Goff,State Treasurer,,Republican,"LaTurner, Jake",44,000090
+NEMAHA,Harrison - Kelly,State Treasurer,,Democratic,"Francisco, Marci",9,000100
+NEMAHA,Harrison - Kelly,State Treasurer,,Republican,"LaTurner, Jake",37,000100
+NEMAHA,Home Township,State Treasurer,,Democratic,"Francisco, Marci",12,000110
+NEMAHA,Home Township,State Treasurer,,Republican,"LaTurner, Jake",58,000110
+NEMAHA,Illinois Township,State Treasurer,,Democratic,"Francisco, Marci",34,000120
+NEMAHA,Illinois Township,State Treasurer,,Republican,"LaTurner, Jake",168,000120
+NEMAHA,Marion Township,State Treasurer,,Democratic,"Francisco, Marci",42,000130
+NEMAHA,Marion Township,State Treasurer,,Republican,"LaTurner, Jake",154,000130
+NEMAHA,Mitchell Township,State Treasurer,,Democratic,"Francisco, Marci",22,000140
+NEMAHA,Mitchell Township,State Treasurer,,Republican,"LaTurner, Jake",121,000140
+NEMAHA,Nemaha Township,State Treasurer,,Democratic,"Francisco, Marci",7,000150
+NEMAHA,Nemaha Township,State Treasurer,,Republican,"LaTurner, Jake",64,000150
+NEMAHA,Neuchatel Township,State Treasurer,,Democratic,"Francisco, Marci",3,000160
+NEMAHA,Neuchatel Township,State Treasurer,,Republican,"LaTurner, Jake",53,000160
+NEMAHA,Red Vermillion Township,State Treasurer,,Democratic,"Francisco, Marci",10,000170
+NEMAHA,Red Vermillion Township,State Treasurer,,Republican,"LaTurner, Jake",43,000170
+NEMAHA,Reilly Township,State Treasurer,,Democratic,"Francisco, Marci",10,000180
+NEMAHA,Reilly Township,State Treasurer,,Republican,"LaTurner, Jake",56,000180
+NEMAHA,Richmond Township,State Treasurer,,Democratic,"Francisco, Marci",39,000190
+NEMAHA,Richmond Township,State Treasurer,,Republican,"LaTurner, Jake",205,000190
+NEMAHA,Rock Creek Township,State Treasurer,,Democratic,"Francisco, Marci",15,00020A
+NEMAHA,Rock Creek Township,State Treasurer,,Republican,"LaTurner, Jake",180,00020A
+NEMAHA,Rock Creek Township Enclave A,State Treasurer,,Democratic,"Francisco, Marci",0,00020B
+NEMAHA,Rock Creek Township Enclave A,State Treasurer,,Republican,"LaTurner, Jake",0,00020B
+NEMAHA,Rock Creek Township Enclave B,State Treasurer,,Democratic,"Francisco, Marci",0,00020C
+NEMAHA,Rock Creek Township Enclave B,State Treasurer,,Republican,"LaTurner, Jake",0,00020C
+NEMAHA,Sabetha Ward 1,State Treasurer,,Democratic,"Francisco, Marci",56,000210
+NEMAHA,Sabetha Ward 1,State Treasurer,,Republican,"LaTurner, Jake",214,000210
+NEMAHA,Sabetha Ward 2,State Treasurer,,Democratic,"Francisco, Marci",53,000220
+NEMAHA,Sabetha Ward 2,State Treasurer,,Republican,"LaTurner, Jake",235,000220
+NEMAHA,Sabetha Ward,State Treasurer,,Democratic,"Francisco, Marci",61,00023A
+NEMAHA,Sabetha Ward,State Treasurer,,Republican,"LaTurner, Jake",247,00023A
+NEMAHA,Sabetha Ward 3 Enclave,State Treasurer,,Democratic,"Francisco, Marci",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,State Treasurer,,Republican,"LaTurner, Jake",0,00023B
+NEMAHA,Sabetha Ward 4,State Treasurer,,Democratic,"Francisco, Marci",35,000240
+NEMAHA,Sabetha Ward 4,State Treasurer,,Republican,"LaTurner, Jake",121,000240
+NEMAHA,Sabetha Ward 5,State Treasurer,,Democratic,"Francisco, Marci",0,000250
+NEMAHA,Sabetha Ward 5,State Treasurer,,Republican,"LaTurner, Jake",0,000250
+NEMAHA,Seneca Ward 1,State Treasurer,,Democratic,"Francisco, Marci",60,000260
+NEMAHA,Seneca Ward 1,State Treasurer,,Republican,"LaTurner, Jake",141,000260
+NEMAHA,Seneca Ward 2,State Treasurer,,Democratic,"Francisco, Marci",95,000270
+NEMAHA,Seneca Ward 2,State Treasurer,,Republican,"LaTurner, Jake",247,000270
+NEMAHA,Seneca Ward 3,State Treasurer,,Democratic,"Francisco, Marci",86,000280
+NEMAHA,Seneca Ward 3,State Treasurer,,Republican,"LaTurner, Jake",271,000280
+NEMAHA,Washington Township,State Treasurer,,Democratic,"Francisco, Marci",25,000290
+NEMAHA,Washington Township,State Treasurer,,Republican,"LaTurner, Jake",169,000290
+NEMAHA,Wetmore Township,State Treasurer,,Democratic,"Francisco, Marci",44,000300
+NEMAHA,Wetmore Township,State Treasurer,,Republican,"LaTurner, Jake",117,000300
+NEMAHA,Richmond Township Enclave 1,State Treasurer,,Democratic,"Francisco, Marci",0,900010
+NEMAHA,Richmond Township Enclave 1,State Treasurer,,Republican,"LaTurner, Jake",0,900010
+NEMAHA,Richland Township Enclave 2,State Treasurer,,Democratic,"Francisco, Marci",0,900020
+NEMAHA,Richland Township Enclave 2,State Treasurer,,Republican,"LaTurner, Jake",0,900020
+NEMAHA,Sabetha Ward Exclave,State Treasurer,,Democratic,"Francisco, Marci",0,900030
+NEMAHA,Sabetha Ward Exclave,State Treasurer,,Republican,"LaTurner, Jake",0,900030
+NEMAHA,Adams Township,United States House of Representatives,2,Democratic,"Davis, Paul",11,000010
+NEMAHA,Adams Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000010
+NEMAHA,Adams Township,United States House of Representatives,2,Republican,"Watkins, Steve",62,000010
+NEMAHA,Berwick Township,United States House of Representatives,2,Democratic,"Davis, Paul",17,000020
+NEMAHA,Berwick Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000020
+NEMAHA,Berwick Township,United States House of Representatives,2,Republican,"Watkins, Steve",155,000020
+NEMAHA,Capioma Township,United States House of Representatives,2,Democratic,"Davis, Paul",16,000030
+NEMAHA,Capioma Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000030
+NEMAHA,Capioma Township,United States House of Representatives,2,Republican,"Watkins, Steve",51,000030
+NEMAHA,Center Township,United States House of Representatives,2,Democratic,"Davis, Paul",22,000040
+NEMAHA,Center Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000040
+NEMAHA,Center Township,United States House of Representatives,2,Republican,"Watkins, Steve",56,000040
+NEMAHA,Centralia,United States House of Representatives,2,Democratic,"Davis, Paul",52,00005A
+NEMAHA,Centralia,United States House of Representatives,2,Libertarian,"Standley, Kelly",12,00005A
+NEMAHA,Centralia,United States House of Representatives,2,Republican,"Watkins, Steve",83,00005A
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Democratic,"Davis, Paul",9,00005B
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,00005B
+NEMAHA,Centralia Illinois A,United States House of Representatives,2,Republican,"Watkins, Steve",20,00005B
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Democratic,"Davis, Paul",0,00005C
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00005C
+NEMAHA,Centralia Illinois B,United States House of Representatives,2,Republican,"Watkins, Steve",0,00005C
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Democratic,"Davis, Paul",21,000060
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000060
+NEMAHA,Clear Creek Township,United States House of Representatives,2,Republican,"Watkins, Steve",27,000060
+NEMAHA,Gilman Township,United States House of Representatives,2,Democratic,"Davis, Paul",27,000070
+NEMAHA,Gilman Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",4,000070
+NEMAHA,Gilman Township,United States House of Representatives,2,Republican,"Watkins, Steve",59,000070
+NEMAHA,Granada Township,United States House of Representatives,2,Democratic,"Davis, Paul",16,000080
+NEMAHA,Granada Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000080
+NEMAHA,Granada Township,United States House of Representatives,2,Republican,"Watkins, Steve",32,000080
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Democratic,"Davis, Paul",20,000090
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Libertarian,"Standley, Kelly",8,000090
+NEMAHA,Harrison - Goff,United States House of Representatives,2,Republican,"Watkins, Steve",38,000090
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Democratic,"Davis, Paul",11,000100
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000100
+NEMAHA,Harrison - Kelly,United States House of Representatives,2,Republican,"Watkins, Steve",32,000100
+NEMAHA,Home Township,United States House of Representatives,2,Democratic,"Davis, Paul",25,000110
+NEMAHA,Home Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000110
+NEMAHA,Home Township,United States House of Representatives,2,Republican,"Watkins, Steve",47,000110
+NEMAHA,Illinois Township,United States House of Representatives,2,Democratic,"Davis, Paul",57,000120
+NEMAHA,Illinois Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",15,000120
+NEMAHA,Illinois Township,United States House of Representatives,2,Republican,"Watkins, Steve",138,000120
+NEMAHA,Marion Township,United States House of Representatives,2,Democratic,"Davis, Paul",50,000130
+NEMAHA,Marion Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",11,000130
+NEMAHA,Marion Township,United States House of Representatives,2,Republican,"Watkins, Steve",142,000130
+NEMAHA,Mitchell Township,United States House of Representatives,2,Democratic,"Davis, Paul",37,000140
+NEMAHA,Mitchell Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",4,000140
+NEMAHA,Mitchell Township,United States House of Representatives,2,Republican,"Watkins, Steve",102,000140
+NEMAHA,Nemaha Township,United States House of Representatives,2,Democratic,"Davis, Paul",9,000150
+NEMAHA,Nemaha Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",2,000150
+NEMAHA,Nemaha Township,United States House of Representatives,2,Republican,"Watkins, Steve",61,000150
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Democratic,"Davis, Paul",12,000160
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",1,000160
+NEMAHA,Neuchatel Township,United States House of Representatives,2,Republican,"Watkins, Steve",46,000160
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Democratic,"Davis, Paul",10,000170
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",6,000170
+NEMAHA,Red Vermillion Township,United States House of Representatives,2,Republican,"Watkins, Steve",38,000170
+NEMAHA,Reilly Township,United States House of Representatives,2,Democratic,"Davis, Paul",13,000180
+NEMAHA,Reilly Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",6,000180
+NEMAHA,Reilly Township,United States House of Representatives,2,Republican,"Watkins, Steve",47,000180
+NEMAHA,Richmond Township,United States House of Representatives,2,Democratic,"Davis, Paul",44,000190
+NEMAHA,Richmond Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",11,000190
+NEMAHA,Richmond Township,United States House of Representatives,2,Republican,"Watkins, Steve",202,000190
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Democratic,"Davis, Paul",29,00020A
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",10,00020A
+NEMAHA,Rock Creek Township,United States House of Representatives,2,Republican,"Watkins, Steve",163,00020A
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Democratic,"Davis, Paul",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00020B
+NEMAHA,Rock Creek Township Enclave A,United States House of Representatives,2,Republican,"Watkins, Steve",0,00020B
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Democratic,"Davis, Paul",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00020C
+NEMAHA,Rock Creek Township Enclave B,United States House of Representatives,2,Republican,"Watkins, Steve",0,00020C
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Democratic,"Davis, Paul",69,000210
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",17,000210
+NEMAHA,Sabetha Ward 1,United States House of Representatives,2,Republican,"Watkins, Steve",190,000210
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Democratic,"Davis, Paul",72,000220
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",9,000220
+NEMAHA,Sabetha Ward 2,United States House of Representatives,2,Republican,"Watkins, Steve",207,000220
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Democratic,"Davis, Paul",72,00023A
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Libertarian,"Standley, Kelly",14,00023A
+NEMAHA,Sabetha Ward,United States House of Representatives,2,Republican,"Watkins, Steve",218,00023A
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Democratic,"Davis, Paul",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00023B
+NEMAHA,Sabetha Ward 3 Enclave,United States House of Representatives,2,Republican,"Watkins, Steve",0,00023B
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Democratic,"Davis, Paul",40,000240
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Libertarian,"Standley, Kelly",8,000240
+NEMAHA,Sabetha Ward 4,United States House of Representatives,2,Republican,"Watkins, Steve",108,000240
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Democratic,"Davis, Paul",0,000250
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,000250
+NEMAHA,Sabetha Ward 5,United States House of Representatives,2,Republican,"Watkins, Steve",0,000250
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Democratic,"Davis, Paul",72,000260
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",10,000260
+NEMAHA,Seneca Ward 1,United States House of Representatives,2,Republican,"Watkins, Steve",117,000260
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Democratic,"Davis, Paul",123,000270
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",23,000270
+NEMAHA,Seneca Ward 2,United States House of Representatives,2,Republican,"Watkins, Steve",206,000270
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Democratic,"Davis, Paul",108,000280
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Libertarian,"Standley, Kelly",20,000280
+NEMAHA,Seneca Ward 3,United States House of Representatives,2,Republican,"Watkins, Steve",232,000280
+NEMAHA,Washington Township,United States House of Representatives,2,Democratic,"Davis, Paul",36,000290
+NEMAHA,Washington Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",5,000290
+NEMAHA,Washington Township,United States House of Representatives,2,Republican,"Watkins, Steve",152,000290
+NEMAHA,Wetmore Township,United States House of Representatives,2,Democratic,"Davis, Paul",36,000300
+NEMAHA,Wetmore Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",10,000300
+NEMAHA,Wetmore Township,United States House of Representatives,2,Republican,"Watkins, Steve",111,000300
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Democratic,"Davis, Paul",0,900010
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,900010
+NEMAHA,Richmond Township Enclave 1,United States House of Representatives,2,Republican,"Watkins, Steve",0,900010
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Democratic,"Davis, Paul",0,900020
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,900020
+NEMAHA,Richland Township Enclave 2,United States House of Representatives,2,Republican,"Watkins, Steve",0,900020
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Democratic,"Davis, Paul",0,900030
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,900030
+NEMAHA,Sabetha Ward Exclave,United States House of Representatives,2,Republican,"Watkins, Steve",0,900030

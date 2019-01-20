@@ -1,0 +1,363 @@
+county,precinct,office,district,party,candidate,votes,vtd
+JACKSON,Adrian Township,Attorney General,,Democratic,"Swain, Sarah G.",8,000010
+JACKSON,Adrian Township,Attorney General,,Republican,"Schmidt, Derek",60,000010
+JACKSON,Banner Township,Attorney General,,Democratic,"Swain, Sarah G.",37,000020
+JACKSON,Banner Township,Attorney General,,Republican,"Schmidt, Derek",137,000020
+JACKSON,Cedar Township,Attorney General,,Democratic,"Swain, Sarah G.",144,000030
+JACKSON,Cedar Township,Attorney General,,Republican,"Schmidt, Derek",377,000030
+JACKSON,Douglas Township,Attorney General,,Democratic,"Swain, Sarah G.",287,000040
+JACKSON,Douglas Township,Attorney General,,Republican,"Schmidt, Derek",708,000040
+JACKSON,Franklin Township,Attorney General,,Democratic,"Swain, Sarah G.",99,000050
+JACKSON,Franklin Township,Attorney General,,Republican,"Schmidt, Derek",351,000050
+JACKSON,Garfield Township,Attorney General,,Democratic,"Swain, Sarah G.",59,000060
+JACKSON,Garfield Township,Attorney General,,Republican,"Schmidt, Derek",192,000060
+JACKSON,Grant Township,Attorney General,,Democratic,"Swain, Sarah G.",17,000070
+JACKSON,Grant Township,Attorney General,,Republican,"Schmidt, Derek",59,000070
+JACKSON,Holton Ward 1,Attorney General,,Democratic,"Swain, Sarah G.",122,00008A
+JACKSON,Holton Ward 1,Attorney General,,Republican,"Schmidt, Derek",229,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,Attorney General,,Democratic,"Swain, Sarah G.",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Attorney General,,Republican,"Schmidt, Derek",0,00008B
+JACKSON,Holton Ward 2,Attorney General,,Democratic,"Swain, Sarah G.",143,000090
+JACKSON,Holton Ward 2,Attorney General,,Republican,"Schmidt, Derek",294,000090
+JACKSON,Holton Ward 3,Attorney General,,Democratic,"Swain, Sarah G.",101,00010A
+JACKSON,Holton Ward 3,Attorney General,,Republican,"Schmidt, Derek",217,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,Attorney General,,Democratic,"Swain, Sarah G.",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Attorney General,,Republican,"Schmidt, Derek",0,00010B
+JACKSON,Jefferson Township,Attorney General,,Democratic,"Swain, Sarah G.",37,000110
+JACKSON,Jefferson Township,Attorney General,,Republican,"Schmidt, Derek",197,000110
+JACKSON,Liberty Township,Attorney General,,Democratic,"Swain, Sarah G.",68,000120
+JACKSON,Liberty Township,Attorney General,,Republican,"Schmidt, Derek",189,000120
+JACKSON,Lincoln Township,Attorney General,,Democratic,"Swain, Sarah G.",223,000130
+JACKSON,Lincoln Township,Attorney General,,Republican,"Schmidt, Derek",177,000130
+JACKSON,Netawaka Township,Attorney General,,Democratic,"Swain, Sarah G.",26,000140
+JACKSON,Netawaka Township,Attorney General,,Republican,"Schmidt, Derek",110,000140
+JACKSON,Soldier Township,Attorney General,,Democratic,"Swain, Sarah G.",37,000150
+JACKSON,Soldier Township,Attorney General,,Republican,"Schmidt, Derek",141,000150
+JACKSON,Straight Creek Township,Attorney General,,Democratic,"Swain, Sarah G.",11,000160
+JACKSON,Straight Creek Township,Attorney General,,Republican,"Schmidt, Derek",61,000160
+JACKSON,Washington Township,Attorney General,,Democratic,"Swain, Sarah G.",43,000170
+JACKSON,Washington Township,Attorney General,,Republican,"Schmidt, Derek",173,000170
+JACKSON,Whiting Township,Attorney General,,Democratic,"Swain, Sarah G.",33,000180
+JACKSON,Whiting Township,Attorney General,,Republican,"Schmidt, Derek",110,000180
+JACKSON,Adrian Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
+JACKSON,Adrian Township,Governor / Lt. Governor,,independent,"Orman, Greg",5,000010
+JACKSON,Adrian Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",10,000010
+JACKSON,Adrian Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000010
+JACKSON,Adrian Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",53,000010
+JACKSON,Banner Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000020
+JACKSON,Banner Township,Governor / Lt. Governor,,independent,"Orman, Greg",14,000020
+JACKSON,Banner Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",64,000020
+JACKSON,Banner Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000020
+JACKSON,Banner Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",93,000020
+JACKSON,Cedar Township,Governor / Lt. Governor,,independent,"Kloos, Rick",12,000030
+JACKSON,Cedar Township,Governor / Lt. Governor,,independent,"Orman, Greg",43,000030
+JACKSON,Cedar Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",200,000030
+JACKSON,Cedar Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",12,000030
+JACKSON,Cedar Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",258,000030
+JACKSON,Douglas Township,Governor / Lt. Governor,,independent,"Kloos, Rick",21,000040
+JACKSON,Douglas Township,Governor / Lt. Governor,,independent,"Orman, Greg",99,000040
+JACKSON,Douglas Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",366,000040
+JACKSON,Douglas Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",22,000040
+JACKSON,Douglas Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",491,000040
+JACKSON,Franklin Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000050
+JACKSON,Franklin Township,Governor / Lt. Governor,,independent,"Orman, Greg",46,000050
+JACKSON,Franklin Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",190,000050
+JACKSON,Franklin Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000050
+JACKSON,Franklin Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",216,000050
+JACKSON,Garfield Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000060
+JACKSON,Garfield Township,Governor / Lt. Governor,,independent,"Orman, Greg",18,000060
+JACKSON,Garfield Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",91,000060
+JACKSON,Garfield Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000060
+JACKSON,Garfield Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",139,000060
+JACKSON,Grant Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000070
+JACKSON,Grant Township,Governor / Lt. Governor,,independent,"Orman, Greg",11,000070
+JACKSON,Grant Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",26,000070
+JACKSON,Grant Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000070
+JACKSON,Grant Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",38,000070
+JACKSON,Holton Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",3,00008A
+JACKSON,Holton Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",36,00008A
+JACKSON,Holton Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",164,00008A
+JACKSON,Holton Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",14,00008A
+JACKSON,Holton Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",139,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Governor / Lt. Governor,,independent,"Orman, Greg",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00008B
+JACKSON,Holton Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000090
+JACKSON,Holton Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",37,000090
+JACKSON,Holton Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",204,000090
+JACKSON,Holton Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",12,000090
+JACKSON,Holton Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",184,000090
+JACKSON,Holton Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",3,00010A
+JACKSON,Holton Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",27,00010A
+JACKSON,Holton Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",148,00010A
+JACKSON,Holton Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",9,00010A
+JACKSON,Holton Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",132,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Governor / Lt. Governor,,independent,"Orman, Greg",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00010B
+JACKSON,Jefferson Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000110
+JACKSON,Jefferson Township,Governor / Lt. Governor,,independent,"Orman, Greg",23,000110
+JACKSON,Jefferson Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",70,000110
+JACKSON,Jefferson Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",6,000110
+JACKSON,Jefferson Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",132,000110
+JACKSON,Liberty Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000120
+JACKSON,Liberty Township,Governor / Lt. Governor,,independent,"Orman, Greg",28,000120
+JACKSON,Liberty Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",108,000120
+JACKSON,Liberty Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000120
+JACKSON,Liberty Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",123,000120
+JACKSON,Lincoln Township,Governor / Lt. Governor,,independent,"Kloos, Rick",4,000130
+JACKSON,Lincoln Township,Governor / Lt. Governor,,independent,"Orman, Greg",25,000130
+JACKSON,Lincoln Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",228,000130
+JACKSON,Lincoln Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",15,000130
+JACKSON,Lincoln Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",129,000130
+JACKSON,Netawaka Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000140
+JACKSON,Netawaka Township,Governor / Lt. Governor,,independent,"Orman, Greg",22,000140
+JACKSON,Netawaka Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",40,000140
+JACKSON,Netawaka Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000140
+JACKSON,Netawaka Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",73,000140
+JACKSON,Soldier Township,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000150
+JACKSON,Soldier Township,Governor / Lt. Governor,,independent,"Orman, Greg",14,000150
+JACKSON,Soldier Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",57,000150
+JACKSON,Soldier Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000150
+JACKSON,Soldier Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",104,000150
+JACKSON,Straight Creek Township,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000160
+JACKSON,Straight Creek Township,Governor / Lt. Governor,,independent,"Orman, Greg",7,000160
+JACKSON,Straight Creek Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",23,000160
+JACKSON,Straight Creek Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000160
+JACKSON,Straight Creek Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",43,000160
+JACKSON,Washington Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000170
+JACKSON,Washington Township,Governor / Lt. Governor,,independent,"Orman, Greg",16,000170
+JACKSON,Washington Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",57,000170
+JACKSON,Washington Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000170
+JACKSON,Washington Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",142,000170
+JACKSON,Whiting Township,Governor / Lt. Governor,,independent,"Kloos, Rick",1,000180
+JACKSON,Whiting Township,Governor / Lt. Governor,,independent,"Orman, Greg",21,000180
+JACKSON,Whiting Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",42,000180
+JACKSON,Whiting Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000180
+JACKSON,Whiting Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",76,000180
+JACKSON,Adrian Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",5,000010
+JACKSON,Adrian Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",52,000010
+JACKSON,Banner Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",22,000020
+JACKSON,Banner Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",147,000020
+JACKSON,Cedar Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",103,000030
+JACKSON,Cedar Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",406,000030
+JACKSON,Douglas Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",203,000040
+JACKSON,Douglas Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",781,000040
+JACKSON,Franklin Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",70,000050
+JACKSON,Franklin Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",385,000050
+JACKSON,Garfield Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",38,000060
+JACKSON,Garfield Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",206,000060
+JACKSON,Grant Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",14,000070
+JACKSON,Grant Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",63,000070
+JACKSON,Holton Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",93,00008A
+JACKSON,Holton Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",256,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00008B
+JACKSON,Holton Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",111,000090
+JACKSON,Holton Ward 2,Commissioner of Insurance,,Republican,"Schmidt, Vicki",325,000090
+JACKSON,Holton Ward 3,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",69,00010A
+JACKSON,Holton Ward 3,Commissioner of Insurance,,Republican,"Schmidt, Vicki",246,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Commissioner of Insurance,,Republican,"Schmidt, Vicki",0,00010B
+JACKSON,Jefferson Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",38,000110
+JACKSON,Jefferson Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",198,000110
+JACKSON,Liberty Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",44,000120
+JACKSON,Liberty Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",212,000120
+JACKSON,Lincoln Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",191,000130
+JACKSON,Lincoln Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",205,000130
+JACKSON,Netawaka Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",16,000140
+JACKSON,Netawaka Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",120,000140
+JACKSON,Soldier Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",26,000150
+JACKSON,Soldier Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",149,000150
+JACKSON,Straight Creek Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,000160
+JACKSON,Straight Creek Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",68,000160
+JACKSON,Washington Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",31,000170
+JACKSON,Washington Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",156,000170
+JACKSON,Whiting Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",22,000180
+JACKSON,Whiting Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",121,000180
+JACKSON,Adrian Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",13,000010
+JACKSON,Adrian Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,000010
+JACKSON,Adrian Township,Secretary of State,,Republican,"Schwab, Scott",52,000010
+JACKSON,Banner Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",60,000020
+JACKSON,Banner Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000020
+JACKSON,Banner Township,Secretary of State,,Republican,"Schwab, Scott",109,000020
+JACKSON,Cedar Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",201,000030
+JACKSON,Cedar Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",19,000030
+JACKSON,Cedar Township,Secretary of State,,Republican,"Schwab, Scott",299,000030
+JACKSON,Douglas Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",383,000040
+JACKSON,Douglas Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",51,000040
+JACKSON,Douglas Township,Secretary of State,,Republican,"Schwab, Scott",556,000040
+JACKSON,Franklin Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",152,000050
+JACKSON,Franklin Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",20,000050
+JACKSON,Franklin Township,Secretary of State,,Republican,"Schwab, Scott",276,000050
+JACKSON,Garfield Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",89,000060
+JACKSON,Garfield Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000060
+JACKSON,Garfield Township,Secretary of State,,Republican,"Schwab, Scott",157,000060
+JACKSON,Grant Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",27,000070
+JACKSON,Grant Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000070
+JACKSON,Grant Township,Secretary of State,,Republican,"Schwab, Scott",47,000070
+JACKSON,Holton Ward 1,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",152,00008A
+JACKSON,Holton Ward 1,Secretary of State,,Libertarian,"Hodgkinson, Rob",21,00008A
+JACKSON,Holton Ward 1,Secretary of State,,Republican,"Schwab, Scott",178,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,Secretary of State,,Republican,"Schwab, Scott",0,00008B
+JACKSON,Holton Ward 2,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",171,000090
+JACKSON,Holton Ward 2,Secretary of State,,Libertarian,"Hodgkinson, Rob",18,000090
+JACKSON,Holton Ward 2,Secretary of State,,Republican,"Schwab, Scott",238,000090
+JACKSON,Holton Ward 3,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",126,00010A
+JACKSON,Holton Ward 3,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,00010A
+JACKSON,Holton Ward 3,Secretary of State,,Republican,"Schwab, Scott",183,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,Secretary of State,,Republican,"Schwab, Scott",0,00010B
+JACKSON,Jefferson Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",61,000110
+JACKSON,Jefferson Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000110
+JACKSON,Jefferson Township,Secretary of State,,Republican,"Schwab, Scott",167,000110
+JACKSON,Liberty Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",96,000120
+JACKSON,Liberty Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",6,000120
+JACKSON,Liberty Township,Secretary of State,,Republican,"Schwab, Scott",156,000120
+JACKSON,Lincoln Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",237,000130
+JACKSON,Lincoln Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",23,000130
+JACKSON,Lincoln Township,Secretary of State,,Republican,"Schwab, Scott",140,000130
+JACKSON,Netawaka Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",43,000140
+JACKSON,Netawaka Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",3,000140
+JACKSON,Netawaka Township,Secretary of State,,Republican,"Schwab, Scott",91,000140
+JACKSON,Soldier Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",50,000150
+JACKSON,Soldier Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000150
+JACKSON,Soldier Township,Secretary of State,,Republican,"Schwab, Scott",122,000150
+JACKSON,Straight Creek Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",17,000160
+JACKSON,Straight Creek Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,000160
+JACKSON,Straight Creek Township,Secretary of State,,Republican,"Schwab, Scott",52,000160
+JACKSON,Washington Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",54,000170
+JACKSON,Washington Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",5,000170
+JACKSON,Washington Township,Secretary of State,,Republican,"Schwab, Scott",157,000170
+JACKSON,Whiting Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",42,000180
+JACKSON,Whiting Township,Secretary of State,,Libertarian,"Hodgkinson, Rob",7,000180
+JACKSON,Whiting Township,Secretary of State,,Republican,"Schwab, Scott",91,000180
+JACKSON,Adrian Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",57,10
+JACKSON,Banner Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",138,20
+JACKSON,Cedar Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",429,30
+JACKSON,Douglas Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",783,40
+JACKSON,Franklin Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",335,50
+JACKSON,Garfield Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",204,60
+JACKSON,Grant Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",65,70
+JACKSON,Holton Ward 1,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",269,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",0,00008B
+JACKSON,Holton Ward 2,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",346,90
+JACKSON,Holton Ward 3,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",254,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",0,00010B
+JACKSON,Jefferson Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",198,110
+JACKSON,Liberty Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",201,120
+JACKSON,Lincoln Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",240,130
+JACKSON,Soldier Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",156,150
+JACKSON,Straight Creek Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",56,160
+JACKSON,Washington Township,Kansas House of Representatives,61,Republican,"Awerkamp, Francis",184,170
+JACKSON,Netawaka Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",30,140
+JACKSON,Whiting Township,Kansas House of Representatives,62,Democratic,"Baker, Melvin L.",38,180
+JACKSON,Netawaka Township,Kansas House of Representatives,62,Republican,"Garber, Randy",106,140
+JACKSON,Whiting Township,Kansas House of Representatives,62,Republican,"Garber, Randy",105,180
+JACKSON,Adrian Township,State Treasurer,,Democratic,"Francisco, Marci",8,000010
+JACKSON,Adrian Township,State Treasurer,,Republican,"LaTurner, Jake",60,000010
+JACKSON,Banner Township,State Treasurer,,Democratic,"Francisco, Marci",33,000020
+JACKSON,Banner Township,State Treasurer,,Republican,"LaTurner, Jake",138,000020
+JACKSON,Cedar Township,State Treasurer,,Democratic,"Francisco, Marci",158,000030
+JACKSON,Cedar Township,State Treasurer,,Republican,"LaTurner, Jake",361,000030
+JACKSON,Douglas Township,State Treasurer,,Democratic,"Francisco, Marci",293,000040
+JACKSON,Douglas Township,State Treasurer,,Republican,"LaTurner, Jake",696,000040
+JACKSON,Franklin Township,State Treasurer,,Democratic,"Francisco, Marci",106,000050
+JACKSON,Franklin Township,State Treasurer,,Republican,"LaTurner, Jake",340,000050
+JACKSON,Garfield Township,State Treasurer,,Democratic,"Francisco, Marci",67,000060
+JACKSON,Garfield Township,State Treasurer,,Republican,"LaTurner, Jake",182,000060
+JACKSON,Grant Township,State Treasurer,,Democratic,"Francisco, Marci",18,000070
+JACKSON,Grant Township,State Treasurer,,Republican,"LaTurner, Jake",59,000070
+JACKSON,Holton Ward 1,State Treasurer,,Democratic,"Francisco, Marci",133,00008A
+JACKSON,Holton Ward 1,State Treasurer,,Republican,"LaTurner, Jake",215,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,State Treasurer,,Democratic,"Francisco, Marci",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,State Treasurer,,Republican,"LaTurner, Jake",0,00008B
+JACKSON,Holton Ward 2,State Treasurer,,Democratic,"Francisco, Marci",142,000090
+JACKSON,Holton Ward 2,State Treasurer,,Republican,"LaTurner, Jake",285,000090
+JACKSON,Holton Ward 3,State Treasurer,,Democratic,"Francisco, Marci",101,00010A
+JACKSON,Holton Ward 3,State Treasurer,,Republican,"LaTurner, Jake",215,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,State Treasurer,,Democratic,"Francisco, Marci",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,State Treasurer,,Republican,"LaTurner, Jake",0,00010B
+JACKSON,Jefferson Township,State Treasurer,,Democratic,"Francisco, Marci",40,000110
+JACKSON,Jefferson Township,State Treasurer,,Republican,"LaTurner, Jake",193,000110
+JACKSON,Liberty Township,State Treasurer,,Democratic,"Francisco, Marci",70,000120
+JACKSON,Liberty Township,State Treasurer,,Republican,"LaTurner, Jake",185,000120
+JACKSON,Lincoln Township,State Treasurer,,Democratic,"Francisco, Marci",223,000130
+JACKSON,Lincoln Township,State Treasurer,,Republican,"LaTurner, Jake",176,000130
+JACKSON,Netawaka Township,State Treasurer,,Democratic,"Francisco, Marci",28,000140
+JACKSON,Netawaka Township,State Treasurer,,Republican,"LaTurner, Jake",109,000140
+JACKSON,Soldier Township,State Treasurer,,Democratic,"Francisco, Marci",39,000150
+JACKSON,Soldier Township,State Treasurer,,Republican,"LaTurner, Jake",138,000150
+JACKSON,Straight Creek Township,State Treasurer,,Democratic,"Francisco, Marci",9,000160
+JACKSON,Straight Creek Township,State Treasurer,,Republican,"LaTurner, Jake",61,000160
+JACKSON,Washington Township,State Treasurer,,Democratic,"Francisco, Marci",44,000170
+JACKSON,Washington Township,State Treasurer,,Republican,"LaTurner, Jake",172,000170
+JACKSON,Whiting Township,State Treasurer,,Democratic,"Francisco, Marci",31,000180
+JACKSON,Whiting Township,State Treasurer,,Republican,"LaTurner, Jake",110,000180
+JACKSON,Adrian Township,United States House of Representatives,2,Democratic,"Davis, Paul",10,000010
+JACKSON,Adrian Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000010
+JACKSON,Adrian Township,United States House of Representatives,2,Republican,"Watkins, Steve",54,000010
+JACKSON,Banner Township,United States House of Representatives,2,Democratic,"Davis, Paul",46,000020
+JACKSON,Banner Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",14,000020
+JACKSON,Banner Township,United States House of Representatives,2,Republican,"Watkins, Steve",112,000020
+JACKSON,Cedar Township,United States House of Representatives,2,Democratic,"Davis, Paul",173,000030
+JACKSON,Cedar Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",41,000030
+JACKSON,Cedar Township,United States House of Representatives,2,Republican,"Watkins, Steve",302,000030
+JACKSON,Douglas Township,United States House of Representatives,2,Democratic,"Davis, Paul",341,000040
+JACKSON,Douglas Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",75,000040
+JACKSON,Douglas Township,United States House of Representatives,2,Republican,"Watkins, Steve",576,000040
+JACKSON,Franklin Township,United States House of Representatives,2,Democratic,"Davis, Paul",158,000050
+JACKSON,Franklin Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",17,000050
+JACKSON,Franklin Township,United States House of Representatives,2,Republican,"Watkins, Steve",277,000050
+JACKSON,Garfield Township,United States House of Representatives,2,Democratic,"Davis, Paul",76,000060
+JACKSON,Garfield Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",13,000060
+JACKSON,Garfield Township,United States House of Representatives,2,Republican,"Watkins, Steve",162,000060
+JACKSON,Grant Township,United States House of Representatives,2,Democratic,"Davis, Paul",29,000070
+JACKSON,Grant Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",8,000070
+JACKSON,Grant Township,United States House of Representatives,2,Republican,"Watkins, Steve",39,000070
+JACKSON,Holton Ward 1,United States House of Representatives,2,Democratic,"Davis, Paul",140,00008A
+JACKSON,Holton Ward 1,United States House of Representatives,2,Libertarian,"Standley, Kelly",35,00008A
+JACKSON,Holton Ward 1,United States House of Representatives,2,Republican,"Watkins, Steve",178,00008A
+JACKSON,Holton Ward 1 Exclave City Lake,United States House of Representatives,2,Democratic,"Davis, Paul",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00008B
+JACKSON,Holton Ward 1 Exclave City Lake,United States House of Representatives,2,Republican,"Watkins, Steve",0,00008B
+JACKSON,Holton Ward 2,United States House of Representatives,2,Democratic,"Davis, Paul",170,000090
+JACKSON,Holton Ward 2,United States House of Representatives,2,Libertarian,"Standley, Kelly",29,000090
+JACKSON,Holton Ward 2,United States House of Representatives,2,Republican,"Watkins, Steve",232,000090
+JACKSON,Holton Ward 3,United States House of Representatives,2,Democratic,"Davis, Paul",123,00010A
+JACKSON,Holton Ward 3,United States House of Representatives,2,Libertarian,"Standley, Kelly",26,00010A
+JACKSON,Holton Ward 3,United States House of Representatives,2,Republican,"Watkins, Steve",166,00010A
+JACKSON,Holton Ward 3 Exclave Industrial Park,United States House of Representatives,2,Democratic,"Davis, Paul",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,United States House of Representatives,2,Libertarian,"Standley, Kelly",0,00010B
+JACKSON,Holton Ward 3 Exclave Industrial Park,United States House of Representatives,2,Republican,"Watkins, Steve",0,00010B
+JACKSON,Jefferson Township,United States House of Representatives,2,Democratic,"Davis, Paul",58,000110
+JACKSON,Jefferson Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",13,000110
+JACKSON,Jefferson Township,United States House of Representatives,2,Republican,"Watkins, Steve",164,000110
+JACKSON,Liberty Township,United States House of Representatives,2,Democratic,"Davis, Paul",92,000120
+JACKSON,Liberty Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",13,000120
+JACKSON,Liberty Township,United States House of Representatives,2,Republican,"Watkins, Steve",155,000120
+JACKSON,Lincoln Township,United States House of Representatives,2,Democratic,"Davis, Paul",222,000130
+JACKSON,Lincoln Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",29,000130
+JACKSON,Lincoln Township,United States House of Representatives,2,Republican,"Watkins, Steve",148,000130
+JACKSON,Netawaka Township,United States House of Representatives,2,Democratic,"Davis, Paul",43,000140
+JACKSON,Netawaka Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",9,000140
+JACKSON,Netawaka Township,United States House of Representatives,2,Republican,"Watkins, Steve",83,000140
+JACKSON,Soldier Township,United States House of Representatives,2,Democratic,"Davis, Paul",45,000150
+JACKSON,Soldier Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",14,000150
+JACKSON,Soldier Township,United States House of Representatives,2,Republican,"Watkins, Steve",117,000150
+JACKSON,Straight Creek Township,United States House of Representatives,2,Democratic,"Davis, Paul",22,000160
+JACKSON,Straight Creek Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",3,000160
+JACKSON,Straight Creek Township,United States House of Representatives,2,Republican,"Watkins, Steve",50,000160
+JACKSON,Washington Township,United States House of Representatives,2,Democratic,"Davis, Paul",53,000170
+JACKSON,Washington Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",12,000170
+JACKSON,Washington Township,United States House of Representatives,2,Republican,"Watkins, Steve",151,000170
+JACKSON,Whiting Township,United States House of Representatives,2,Democratic,"Davis, Paul",33,000180
+JACKSON,Whiting Township,United States House of Representatives,2,Libertarian,"Standley, Kelly",15,000180
+JACKSON,Whiting Township,United States House of Representatives,2,Republican,"Watkins, Steve",93,000180
