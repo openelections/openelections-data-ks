@@ -9,31 +9,31 @@ COMANCHE,Protection Township H115,Attorney General,,Democratic,"Swain, Sarah G."
 COMANCHE,Protection Township H115,Attorney General,,Republican,"Schmidt, Derek",175,120020
 COMANCHE,Protection Township H116,Attorney General,,Democratic,"Swain, Sarah G.",5,120030
 COMANCHE,Protection Township H116,Attorney General,,Republican,"Schmidt, Derek",50,120030
-COMANCHE,Avilla Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
-COMANCHE,Avilla Township,Governor / Lt. Governor,,independent,"Orman, Greg",1,000010
-COMANCHE,Avilla Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",6,000010
-COMANCHE,Avilla Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000010
-COMANCHE,Avilla Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",31,000010
-COMANCHE,Coldwater Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000020
-COMANCHE,Coldwater Township,Governor / Lt. Governor,,independent,"Orman, Greg",39,000020
-COMANCHE,Coldwater Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",107,000020
-COMANCHE,Coldwater Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",18,000020
-COMANCHE,Coldwater Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",220,000020
-COMANCHE,Powell Township,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000030
-COMANCHE,Powell Township,Governor / Lt. Governor,,independent,"Orman, Greg",2,000030
-COMANCHE,Powell Township,Governor / Lt. Governor,,Democratic,"Kelly, Laura",8,000030
-COMANCHE,Powell Township,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000030
-COMANCHE,Powell Township,Governor / Lt. Governor,,Republican,"Kobach, Kris",28,000030
-COMANCHE,Protection Township H115,Governor / Lt. Governor,,independent,"Kloos, Rick",2,120020
-COMANCHE,Protection Township H115,Governor / Lt. Governor,,independent,"Orman, Greg",16,120020
-COMANCHE,Protection Township H115,Governor / Lt. Governor,,Democratic,"Kelly, Laura",45,120020
-COMANCHE,Protection Township H115,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,120020
-COMANCHE,Protection Township H115,Governor / Lt. Governor,,Republican,"Kobach, Kris",132,120020
-COMANCHE,Protection Township H116,Governor / Lt. Governor,,independent,"Kloos, Rick",0,120030
-COMANCHE,Protection Township H116,Governor / Lt. Governor,,independent,"Orman, Greg",8,120030
-COMANCHE,Protection Township H116,Governor / Lt. Governor,,Democratic,"Kelly, Laura",4,120030
-COMANCHE,Protection Township H116,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,120030
-COMANCHE,Protection Township H116,Governor / Lt. Governor,,Republican,"Kobach, Kris",42,120030
+COMANCHE,Avilla Township,Governor,,independent,"Kloos, Rick",0,000010
+COMANCHE,Avilla Township,Governor,,independent,"Orman, Greg",1,000010
+COMANCHE,Avilla Township,Governor,,Democratic,"Kelly, Laura",6,000010
+COMANCHE,Avilla Township,Governor,,Libertarian,"Caldwell, Jeff",2,000010
+COMANCHE,Avilla Township,Governor,,Republican,"Kobach, Kris",31,000010
+COMANCHE,Coldwater Township,Governor,,independent,"Kloos, Rick",0,000020
+COMANCHE,Coldwater Township,Governor,,independent,"Orman, Greg",39,000020
+COMANCHE,Coldwater Township,Governor,,Democratic,"Kelly, Laura",107,000020
+COMANCHE,Coldwater Township,Governor,,Libertarian,"Caldwell, Jeff",18,000020
+COMANCHE,Coldwater Township,Governor,,Republican,"Kobach, Kris",220,000020
+COMANCHE,Powell Township,Governor,,independent,"Kloos, Rick",0,000030
+COMANCHE,Powell Township,Governor,,independent,"Orman, Greg",2,000030
+COMANCHE,Powell Township,Governor,,Democratic,"Kelly, Laura",8,000030
+COMANCHE,Powell Township,Governor,,Libertarian,"Caldwell, Jeff",0,000030
+COMANCHE,Powell Township,Governor,,Republican,"Kobach, Kris",28,000030
+COMANCHE,Protection Township H115,Governor,,independent,"Kloos, Rick",2,120020
+COMANCHE,Protection Township H115,Governor,,independent,"Orman, Greg",16,120020
+COMANCHE,Protection Township H115,Governor,,Democratic,"Kelly, Laura",45,120020
+COMANCHE,Protection Township H115,Governor,,Libertarian,"Caldwell, Jeff",3,120020
+COMANCHE,Protection Township H115,Governor,,Republican,"Kobach, Kris",132,120020
+COMANCHE,Protection Township H116,Governor,,independent,"Kloos, Rick",0,120030
+COMANCHE,Protection Township H116,Governor,,independent,"Orman, Greg",8,120030
+COMANCHE,Protection Township H116,Governor,,Democratic,"Kelly, Laura",4,120030
+COMANCHE,Protection Township H116,Governor,,Libertarian,"Caldwell, Jeff",1,120030
+COMANCHE,Protection Township H116,Governor,,Republican,"Kobach, Kris",42,120030
 COMANCHE,Avilla Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,000010
 COMANCHE,Avilla Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",35,000010
 COMANCHE,Coldwater Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",63,000020
@@ -59,11 +59,11 @@ COMANCHE,Protection Township H115,Secretary of State,,Republican,"Schwab, Scott"
 COMANCHE,Protection Township H116,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",6,120030
 COMANCHE,Protection Township H116,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,120030
 COMANCHE,Protection Township H116,Secretary of State,,Republican,"Schwab, Scott",46,120030
-COMANCHE,Avilla Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",29,10
-COMANCHE,Coldwater Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",250,20
-COMANCHE,Powell Township,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",25,30
-COMANCHE,Protection Township H116,Kansas House of Representatives,116,Republican,"Hoffman, Kyle D.",46,120030
-COMANCHE,Protection Township H115,Kansas House of Representatives,115,Republican,"Orr, Boyd",187,120020
+COMANCHE,Avilla Township,State House,116,Republican,"Hoffman, Kyle D.",29,10
+COMANCHE,Coldwater Township,State House,116,Republican,"Hoffman, Kyle D.",250,20
+COMANCHE,Powell Township,State House,116,Republican,"Hoffman, Kyle D.",25,30
+COMANCHE,Protection Township H116,State House,116,Republican,"Hoffman, Kyle D.",46,120030
+COMANCHE,Protection Township H115,State House,115,Republican,"Orr, Boyd",187,120020
 COMANCHE,Avilla Township,State Treasurer,,Democratic,"Francisco, Marci",0,000010
 COMANCHE,Avilla Township,State Treasurer,,Republican,"LaTurner, Jake",39,000010
 COMANCHE,Coldwater Township,State Treasurer,,Democratic,"Francisco, Marci",72,000020
@@ -74,13 +74,13 @@ COMANCHE,Protection Township H115,State Treasurer,,Democratic,"Francisco, Marci"
 COMANCHE,Protection Township H115,State Treasurer,,Republican,"LaTurner, Jake",169,120020
 COMANCHE,Protection Township H116,State Treasurer,,Democratic,"Francisco, Marci",4,120030
 COMANCHE,Protection Township H116,State Treasurer,,Republican,"LaTurner, Jake",49,120030
-COMANCHE,Avilla Township,United States House of Representatives,4,Democratic,"Thompson, James A.",4,000010
-COMANCHE,Avilla Township,United States House of Representatives,4,Republican,"Estes, Ron",36,000010
-COMANCHE,Coldwater Township,United States House of Representatives,4,Democratic,"Thompson, James A.",89,000020
-COMANCHE,Coldwater Township,United States House of Representatives,4,Republican,"Estes, Ron",295,000020
-COMANCHE,Powell Township,United States House of Representatives,4,Democratic,"Thompson, James A.",8,000030
-COMANCHE,Powell Township,United States House of Representatives,4,Republican,"Estes, Ron",31,000030
-COMANCHE,Protection Township H115,United States House of Representatives,4,Democratic,"Thompson, James A.",27,120020
-COMANCHE,Protection Township H115,United States House of Representatives,4,Republican,"Estes, Ron",170,120020
-COMANCHE,Protection Township H116,United States House of Representatives,4,Democratic,"Thompson, James A.",5,120030
-COMANCHE,Protection Township H116,United States House of Representatives,4,Republican,"Estes, Ron",50,120030
+COMANCHE,Avilla Township,U.S. House,4,Democratic,"Thompson, James A.",4,000010
+COMANCHE,Avilla Township,U.S. House,4,Republican,"Estes, Ron",36,000010
+COMANCHE,Coldwater Township,U.S. House,4,Democratic,"Thompson, James A.",89,000020
+COMANCHE,Coldwater Township,U.S. House,4,Republican,"Estes, Ron",295,000020
+COMANCHE,Powell Township,U.S. House,4,Democratic,"Thompson, James A.",8,000030
+COMANCHE,Powell Township,U.S. House,4,Republican,"Estes, Ron",31,000030
+COMANCHE,Protection Township H115,U.S. House,4,Democratic,"Thompson, James A.",27,120020
+COMANCHE,Protection Township H115,U.S. House,4,Republican,"Estes, Ron",170,120020
+COMANCHE,Protection Township H116,U.S. House,4,Democratic,"Thompson, James A.",5,120030
+COMANCHE,Protection Township H116,U.S. House,4,Republican,"Estes, Ron",50,120030

@@ -9,31 +9,31 @@ KIOWA,Haviland,Attorney General,,Democratic,"Swain, Sarah G.",36,000040
 KIOWA,Haviland,Attorney General,,Republican,"Schmidt, Derek",259,000040
 KIOWA,Mullinville,Attorney General,,Democratic,"Swain, Sarah G.",20,000050
 KIOWA,Mullinville,Attorney General,,Republican,"Schmidt, Derek",150,000050
-KIOWA,Belvidere,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000010
-KIOWA,Belvidere,Governor / Lt. Governor,,independent,"Orman, Greg",0,000010
-KIOWA,Belvidere,Governor / Lt. Governor,,Democratic,"Kelly, Laura",3,000010
-KIOWA,Belvidere,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,000010
-KIOWA,Belvidere,Governor / Lt. Governor,,Republican,"Kobach, Kris",17,000010
-KIOWA,Center I,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000020
-KIOWA,Center I,Governor / Lt. Governor,,independent,"Orman, Greg",27,000020
-KIOWA,Center I,Governor / Lt. Governor,,Democratic,"Kelly, Laura",56,000020
-KIOWA,Center I,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",1,000020
-KIOWA,Center I,Governor / Lt. Governor,,Republican,"Kobach, Kris",169,000020
-KIOWA,Center I I,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000030
-KIOWA,Center I I,Governor / Lt. Governor,,independent,"Orman, Greg",23,000030
-KIOWA,Center I I,Governor / Lt. Governor,,Democratic,"Kelly, Laura",61,000030
-KIOWA,Center I I,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",2,000030
-KIOWA,Center I I,Governor / Lt. Governor,,Republican,"Kobach, Kris",100,000030
-KIOWA,Haviland,Governor / Lt. Governor,,independent,"Kloos, Rick",3,000040
-KIOWA,Haviland,Governor / Lt. Governor,,independent,"Orman, Greg",24,000040
-KIOWA,Haviland,Governor / Lt. Governor,,Democratic,"Kelly, Laura",65,000040
-KIOWA,Haviland,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000040
-KIOWA,Haviland,Governor / Lt. Governor,,Republican,"Kobach, Kris",212,000040
-KIOWA,Mullinville,Governor / Lt. Governor,,independent,"Kloos, Rick",2,000050
-KIOWA,Mullinville,Governor / Lt. Governor,,independent,"Orman, Greg",18,000050
-KIOWA,Mullinville,Governor / Lt. Governor,,Democratic,"Kelly, Laura",33,000050
-KIOWA,Mullinville,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",5,000050
-KIOWA,Mullinville,Governor / Lt. Governor,,Republican,"Kobach, Kris",117,000050
+KIOWA,Belvidere,Governor,,independent,"Kloos, Rick",0,000010
+KIOWA,Belvidere,Governor,,independent,"Orman, Greg",0,000010
+KIOWA,Belvidere,Governor,,Democratic,"Kelly, Laura",3,000010
+KIOWA,Belvidere,Governor,,Libertarian,"Caldwell, Jeff",0,000010
+KIOWA,Belvidere,Governor,,Republican,"Kobach, Kris",17,000010
+KIOWA,Center I,Governor,,independent,"Kloos, Rick",3,000020
+KIOWA,Center I,Governor,,independent,"Orman, Greg",27,000020
+KIOWA,Center I,Governor,,Democratic,"Kelly, Laura",56,000020
+KIOWA,Center I,Governor,,Libertarian,"Caldwell, Jeff",1,000020
+KIOWA,Center I,Governor,,Republican,"Kobach, Kris",169,000020
+KIOWA,Center I I,Governor,,independent,"Kloos, Rick",0,000030
+KIOWA,Center I I,Governor,,independent,"Orman, Greg",23,000030
+KIOWA,Center I I,Governor,,Democratic,"Kelly, Laura",61,000030
+KIOWA,Center I I,Governor,,Libertarian,"Caldwell, Jeff",2,000030
+KIOWA,Center I I,Governor,,Republican,"Kobach, Kris",100,000030
+KIOWA,Haviland,Governor,,independent,"Kloos, Rick",3,000040
+KIOWA,Haviland,Governor,,independent,"Orman, Greg",24,000040
+KIOWA,Haviland,Governor,,Democratic,"Kelly, Laura",65,000040
+KIOWA,Haviland,Governor,,Libertarian,"Caldwell, Jeff",3,000040
+KIOWA,Haviland,Governor,,Republican,"Kobach, Kris",212,000040
+KIOWA,Mullinville,Governor,,independent,"Kloos, Rick",2,000050
+KIOWA,Mullinville,Governor,,independent,"Orman, Greg",18,000050
+KIOWA,Mullinville,Governor,,Democratic,"Kelly, Laura",33,000050
+KIOWA,Mullinville,Governor,,Libertarian,"Caldwell, Jeff",5,000050
+KIOWA,Mullinville,Governor,,Republican,"Kobach, Kris",117,000050
 KIOWA,Belvidere,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",0,000010
 KIOWA,Belvidere,Commissioner of Insurance,,Republican,"Schmidt, Vicki",18,000010
 KIOWA,Center I,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",18,000020
@@ -59,11 +59,11 @@ KIOWA,Haviland,Secretary of State,,Republican,"Schwab, Scott",233,000040
 KIOWA,Mullinville,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",36,000050
 KIOWA,Mullinville,Secretary of State,,Libertarian,"Hodgkinson, Rob",4,000050
 KIOWA,Mullinville,Secretary of State,,Republican,"Schwab, Scott",129,000050
-KIOWA,Belvidere,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",18,10
-KIOWA,Center I,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",220,20
-KIOWA,Center I I,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",151,30
-KIOWA,Haviland,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",264,40
-KIOWA,Mullinville,Kansas House of Representatives,117,Republican,"Mastroni, Leonard A.",148,50
+KIOWA,Belvidere,State House,117,Republican,"Mastroni, Leonard A.",18,10
+KIOWA,Center I,State House,117,Republican,"Mastroni, Leonard A.",220,20
+KIOWA,Center I I,State House,117,Republican,"Mastroni, Leonard A.",151,30
+KIOWA,Haviland,State House,117,Republican,"Mastroni, Leonard A.",264,40
+KIOWA,Mullinville,State House,117,Republican,"Mastroni, Leonard A.",148,50
 KIOWA,Belvidere,State Treasurer,,Democratic,"Francisco, Marci",0,000010
 KIOWA,Belvidere,State Treasurer,,Republican,"LaTurner, Jake",18,000010
 KIOWA,Center I,State Treasurer,,Democratic,"Francisco, Marci",32,000020
@@ -74,13 +74,13 @@ KIOWA,Haviland,State Treasurer,,Democratic,"Francisco, Marci",36,000040
 KIOWA,Haviland,State Treasurer,,Republican,"LaTurner, Jake",258,000040
 KIOWA,Mullinville,State Treasurer,,Democratic,"Francisco, Marci",21,000050
 KIOWA,Mullinville,State Treasurer,,Republican,"LaTurner, Jake",147,000050
-KIOWA,Belvidere,United States House of Representatives,4,Democratic,"Thompson, James A.",0,000010
-KIOWA,Belvidere,United States House of Representatives,4,Republican,"Estes, Ron",20,000010
-KIOWA,Center I,United States House of Representatives,4,Democratic,"Thompson, James A.",38,000020
-KIOWA,Center I,United States House of Representatives,4,Republican,"Estes, Ron",214,000020
-KIOWA,Center I I,United States House of Representatives,4,Democratic,"Thompson, James A.",39,000030
-KIOWA,Center I I,United States House of Representatives,4,Republican,"Estes, Ron",143,000030
-KIOWA,Haviland,United States House of Representatives,4,Democratic,"Thompson, James A.",40,000040
-KIOWA,Haviland,United States House of Representatives,4,Republican,"Estes, Ron",262,000040
-KIOWA,Mullinville,United States House of Representatives,4,Democratic,"Thompson, James A.",24,000050
-KIOWA,Mullinville,United States House of Representatives,4,Republican,"Estes, Ron",150,000050
+KIOWA,Belvidere,U.S. House,4,Democratic,"Thompson, James A.",0,000010
+KIOWA,Belvidere,U.S. House,4,Republican,"Estes, Ron",20,000010
+KIOWA,Center I,U.S. House,4,Democratic,"Thompson, James A.",38,000020
+KIOWA,Center I,U.S. House,4,Republican,"Estes, Ron",214,000020
+KIOWA,Center I I,U.S. House,4,Democratic,"Thompson, James A.",39,000030
+KIOWA,Center I I,U.S. House,4,Republican,"Estes, Ron",143,000030
+KIOWA,Haviland,U.S. House,4,Democratic,"Thompson, James A.",40,000040
+KIOWA,Haviland,U.S. House,4,Republican,"Estes, Ron",262,000040
+KIOWA,Mullinville,U.S. House,4,Democratic,"Thompson, James A.",24,000050
+KIOWA,Mullinville,U.S. House,4,Republican,"Estes, Ron",150,000050

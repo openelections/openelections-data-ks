@@ -11,36 +11,36 @@ GRANT,Precinct 4 H122,Attorney General,,Democratic,"Swain, Sarah G.",0,120020
 GRANT,Precinct 4 H122,Attorney General,,Republican,"Schmidt, Derek",0,120020
 GRANT,Precinct 4 H124,Attorney General,,Democratic,"Swain, Sarah G.",56,120030
 GRANT,Precinct 4 H124,Attorney General,,Republican,"Schmidt, Derek",375,120030
-GRANT,Ulysses Ward 1,Governor / Lt. Governor,,independent,"Kloos, Rick",0,000020
-GRANT,Ulysses Ward 1,Governor / Lt. Governor,,independent,"Orman, Greg",52,000020
-GRANT,Ulysses Ward 1,Governor / Lt. Governor,,Democratic,"Kelly, Laura",74,000020
-GRANT,Ulysses Ward 1,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",3,000020
-GRANT,Ulysses Ward 1,Governor / Lt. Governor,,Republican,"Kobach, Kris",107,000020
-GRANT,Ulysses Ward 2,Governor / Lt. Governor,,independent,"Kloos, Rick",2,00003A
-GRANT,Ulysses Ward 2,Governor / Lt. Governor,,independent,"Orman, Greg",67,00003A
-GRANT,Ulysses Ward 2,Governor / Lt. Governor,,Democratic,"Kelly, Laura",124,00003A
-GRANT,Ulysses Ward 2,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",4,00003A
-GRANT,Ulysses Ward 2,Governor / Lt. Governor,,Republican,"Kobach, Kris",368,00003A
-GRANT,Ulysses Ward 2 Exclave,Governor / Lt. Governor,,independent,"Kloos, Rick",0,00003B
-GRANT,Ulysses Ward 2 Exclave,Governor / Lt. Governor,,independent,"Orman, Greg",0,00003B
-GRANT,Ulysses Ward 2 Exclave,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,00003B
-GRANT,Ulysses Ward 2 Exclave,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,00003B
-GRANT,Ulysses Ward 2 Exclave,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,00003B
-GRANT,Ulysses Ward 3,Governor / Lt. Governor,,independent,"Kloos, Rick",5,000040
-GRANT,Ulysses Ward 3,Governor / Lt. Governor,,independent,"Orman, Greg",82,000040
-GRANT,Ulysses Ward 3,Governor / Lt. Governor,,Democratic,"Kelly, Laura",179,000040
-GRANT,Ulysses Ward 3,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",11,000040
-GRANT,Ulysses Ward 3,Governor / Lt. Governor,,Republican,"Kobach, Kris",320,000040
-GRANT,Precinct 4 H122,Governor / Lt. Governor,,independent,"Kloos, Rick",0,120020
-GRANT,Precinct 4 H122,Governor / Lt. Governor,,independent,"Orman, Greg",0,120020
-GRANT,Precinct 4 H122,Governor / Lt. Governor,,Democratic,"Kelly, Laura",0,120020
-GRANT,Precinct 4 H122,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",0,120020
-GRANT,Precinct 4 H122,Governor / Lt. Governor,,Republican,"Kobach, Kris",0,120020
-GRANT,Precinct 4 H124,Governor / Lt. Governor,,independent,"Kloos, Rick",4,120030
-GRANT,Precinct 4 H124,Governor / Lt. Governor,,independent,"Orman, Greg",50,120030
-GRANT,Precinct 4 H124,Governor / Lt. Governor,,Democratic,"Kelly, Laura",74,120030
-GRANT,Precinct 4 H124,Governor / Lt. Governor,,Libertarian,"Caldwell, Jeff",8,120030
-GRANT,Precinct 4 H124,Governor / Lt. Governor,,Republican,"Kobach, Kris",301,120030
+GRANT,Ulysses Ward 1,Governor,,independent,"Kloos, Rick",0,000020
+GRANT,Ulysses Ward 1,Governor,,independent,"Orman, Greg",52,000020
+GRANT,Ulysses Ward 1,Governor,,Democratic,"Kelly, Laura",74,000020
+GRANT,Ulysses Ward 1,Governor,,Libertarian,"Caldwell, Jeff",3,000020
+GRANT,Ulysses Ward 1,Governor,,Republican,"Kobach, Kris",107,000020
+GRANT,Ulysses Ward 2,Governor,,independent,"Kloos, Rick",2,00003A
+GRANT,Ulysses Ward 2,Governor,,independent,"Orman, Greg",67,00003A
+GRANT,Ulysses Ward 2,Governor,,Democratic,"Kelly, Laura",124,00003A
+GRANT,Ulysses Ward 2,Governor,,Libertarian,"Caldwell, Jeff",4,00003A
+GRANT,Ulysses Ward 2,Governor,,Republican,"Kobach, Kris",368,00003A
+GRANT,Ulysses Ward 2 Exclave,Governor,,independent,"Kloos, Rick",0,00003B
+GRANT,Ulysses Ward 2 Exclave,Governor,,independent,"Orman, Greg",0,00003B
+GRANT,Ulysses Ward 2 Exclave,Governor,,Democratic,"Kelly, Laura",0,00003B
+GRANT,Ulysses Ward 2 Exclave,Governor,,Libertarian,"Caldwell, Jeff",0,00003B
+GRANT,Ulysses Ward 2 Exclave,Governor,,Republican,"Kobach, Kris",0,00003B
+GRANT,Ulysses Ward 3,Governor,,independent,"Kloos, Rick",5,000040
+GRANT,Ulysses Ward 3,Governor,,independent,"Orman, Greg",82,000040
+GRANT,Ulysses Ward 3,Governor,,Democratic,"Kelly, Laura",179,000040
+GRANT,Ulysses Ward 3,Governor,,Libertarian,"Caldwell, Jeff",11,000040
+GRANT,Ulysses Ward 3,Governor,,Republican,"Kobach, Kris",320,000040
+GRANT,Precinct 4 H122,Governor,,independent,"Kloos, Rick",0,120020
+GRANT,Precinct 4 H122,Governor,,independent,"Orman, Greg",0,120020
+GRANT,Precinct 4 H122,Governor,,Democratic,"Kelly, Laura",0,120020
+GRANT,Precinct 4 H122,Governor,,Libertarian,"Caldwell, Jeff",0,120020
+GRANT,Precinct 4 H122,Governor,,Republican,"Kobach, Kris",0,120020
+GRANT,Precinct 4 H124,Governor,,independent,"Kloos, Rick",4,120030
+GRANT,Precinct 4 H124,Governor,,independent,"Orman, Greg",50,120030
+GRANT,Precinct 4 H124,Governor,,Democratic,"Kelly, Laura",74,120030
+GRANT,Precinct 4 H124,Governor,,Libertarian,"Caldwell, Jeff",8,120030
+GRANT,Precinct 4 H124,Governor,,Republican,"Kobach, Kris",301,120030
 GRANT,Ulysses Ward 1,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",59,000020
 GRANT,Ulysses Ward 1,Commissioner of Insurance,,Republican,"Schmidt, Vicki",176,000020
 GRANT,Ulysses Ward 2,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",91,00003A
@@ -71,12 +71,12 @@ GRANT,Precinct 4 H122,Secretary of State,,Republican,"Schwab, Scott",0,120020
 GRANT,Precinct 4 H124,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",77,120030
 GRANT,Precinct 4 H124,Secretary of State,,Libertarian,"Hodgkinson, Rob",16,120030
 GRANT,Precinct 4 H124,Secretary of State,,Republican,"Schwab, Scott",340,120030
-GRANT,Precinct 4 H122,Kansas House of Representatives,122,Republican,"Jennings, J. Russell ""Russ""",0,120020
-GRANT,Ulysses Ward 1,Kansas House of Representatives,124,Republican,"Long, Martin (Marty)",195,20
-GRANT,Ulysses Ward 2,Kansas House of Representatives,124,Republican,"Long, Martin (Marty)",499,00003A
-GRANT,Ulysses Ward 2 Exclave,Kansas House of Representatives,124,Republican,"Long, Martin (Marty)",0,00003B
-GRANT,Ulysses Ward 3,Kansas House of Representatives,124,Republican,"Long, Martin (Marty)",491,40
-GRANT,Precinct 4 H124,Kansas House of Representatives,124,Republican,"Long, Martin (Marty)",381,120030
+GRANT,Precinct 4 H122,State House,122,Republican,"Jennings, J. Russell ""Russ""",0,120020
+GRANT,Ulysses Ward 1,State House,124,Republican,"Long, Martin (Marty)",195,20
+GRANT,Ulysses Ward 2,State House,124,Republican,"Long, Martin (Marty)",499,00003A
+GRANT,Ulysses Ward 2 Exclave,State House,124,Republican,"Long, Martin (Marty)",0,00003B
+GRANT,Ulysses Ward 3,State House,124,Republican,"Long, Martin (Marty)",491,40
+GRANT,Precinct 4 H124,State House,124,Republican,"Long, Martin (Marty)",381,120030
 GRANT,Ulysses Ward 1,State Treasurer,,Democratic,"Francisco, Marci",74,000020
 GRANT,Ulysses Ward 1,State Treasurer,,Republican,"LaTurner, Jake",162,000020
 GRANT,Ulysses Ward 2,State Treasurer,,Democratic,"Francisco, Marci",106,00003A
@@ -89,15 +89,15 @@ GRANT,Precinct 4 H122,State Treasurer,,Democratic,"Francisco, Marci",0,120020
 GRANT,Precinct 4 H122,State Treasurer,,Republican,"LaTurner, Jake",0,120020
 GRANT,Precinct 4 H124,State Treasurer,,Democratic,"Francisco, Marci",54,120030
 GRANT,Precinct 4 H124,State Treasurer,,Republican,"LaTurner, Jake",376,120030
-GRANT,Ulysses Ward 1,United States House of Representatives,1,Democratic,"LaPolice, Alan",64,000020
-GRANT,Ulysses Ward 1,United States House of Representatives,1,Republican,"Marshall, Roger",171,000020
-GRANT,Ulysses Ward 2,United States House of Representatives,1,Democratic,"LaPolice, Alan",95,00003A
-GRANT,Ulysses Ward 2,United States House of Representatives,1,Republican,"Marshall, Roger",460,00003A
-GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,00003B
-GRANT,Ulysses Ward 2 Exclave,United States House of Representatives,1,Republican,"Marshall, Roger",0,00003B
-GRANT,Ulysses Ward 3,United States House of Representatives,1,Democratic,"LaPolice, Alan",138,000040
-GRANT,Ulysses Ward 3,United States House of Representatives,1,Republican,"Marshall, Roger",444,000040
-GRANT,Precinct 4 H122,United States House of Representatives,1,Democratic,"LaPolice, Alan",0,120020
-GRANT,Precinct 4 H122,United States House of Representatives,1,Republican,"Marshall, Roger",0,120020
-GRANT,Precinct 4 H124,United States House of Representatives,1,Democratic,"LaPolice, Alan",57,120030
-GRANT,Precinct 4 H124,United States House of Representatives,1,Republican,"Marshall, Roger",365,120030
+GRANT,Ulysses Ward 1,U.S. House,1,Democratic,"LaPolice, Alan",64,000020
+GRANT,Ulysses Ward 1,U.S. House,1,Republican,"Marshall, Roger",171,000020
+GRANT,Ulysses Ward 2,U.S. House,1,Democratic,"LaPolice, Alan",95,00003A
+GRANT,Ulysses Ward 2,U.S. House,1,Republican,"Marshall, Roger",460,00003A
+GRANT,Ulysses Ward 2 Exclave,U.S. House,1,Democratic,"LaPolice, Alan",0,00003B
+GRANT,Ulysses Ward 2 Exclave,U.S. House,1,Republican,"Marshall, Roger",0,00003B
+GRANT,Ulysses Ward 3,U.S. House,1,Democratic,"LaPolice, Alan",138,000040
+GRANT,Ulysses Ward 3,U.S. House,1,Republican,"Marshall, Roger",444,000040
+GRANT,Precinct 4 H122,U.S. House,1,Democratic,"LaPolice, Alan",0,120020
+GRANT,Precinct 4 H122,U.S. House,1,Republican,"Marshall, Roger",0,120020
+GRANT,Precinct 4 H124,U.S. House,1,Democratic,"LaPolice, Alan",57,120030
+GRANT,Precinct 4 H124,U.S. House,1,Republican,"Marshall, Roger",365,120030
