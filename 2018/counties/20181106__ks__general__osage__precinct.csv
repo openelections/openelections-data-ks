@@ -195,8 +195,8 @@ OSAGE,Osage City Ward 2 Exclave,Governor,,independent,"Orman, Greg",0,900040
 OSAGE,Osage City Ward 2 Exclave,Governor,,Democratic,"Kelly, Laura",0,900040
 OSAGE,Osage City Ward 2 Exclave,Governor,,Libertarian,"Caldwell, Jeff",0,900040
 OSAGE,Osage City Ward 2 Exclave,Governor,,Republican,"Kobach, Kris",0,900040
-OSAGE,Grant Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",28,000007
-OSAGE,Grant Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",89,000007
+OSAGE,Grant Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",28,7
+OSAGE,Grant Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",89,7
 OSAGE,Agency Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",23,000010
 OSAGE,Agency Township,Commissioner of Insurance,,Republican,"Schmidt, Vicki",113,000010
 OSAGE,Arvonia Township,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",13,000020
@@ -335,41 +335,41 @@ OSAGE,Grant Township Enclave 2,Secretary of State,,Republican,"Schwab, Scott",0,
 OSAGE,Osage City Ward 2 Exclave,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,900040
 OSAGE,Osage City Ward 2 Exclave,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,900040
 OSAGE,Osage City Ward 2 Exclave,Secretary of State,,Republican,"Schwab, Scott",0,900040
-OSAGE,Elk Township,State House,54,Democratic,"Coats, Sarah",281,50
-OSAGE,North Burlingame,State House,54,Democratic,"Coats, Sarah",125,110
-OSAGE,North Ridgeway,State House,54,Democratic,"Coats, Sarah",194,120
-OSAGE,Scranton Township,State House,54,Democratic,"Coats, Sarah",138,190
-OSAGE,South Burlingame,State House,54,Democratic,"Coats, Sarah",100,200
-OSAGE,South Ridgeway,State House,54,Democratic,"Coats, Sarah",182,210
-OSAGE,Elk Township,State House,54,Republican,"Corbet, Ken",541,50
-OSAGE,North Burlingame,State House,54,Republican,"Corbet, Ken",259,110
-OSAGE,North Ridgeway,State House,54,Republican,"Corbet, Ken",292,120
-OSAGE,Scranton Township,State House,54,Republican,"Corbet, Ken",236,190
-OSAGE,South Burlingame,State House,54,Republican,"Corbet, Ken",219,200
-OSAGE,South Ridgeway,State House,54,Republican,"Corbet, Ken",264,210
-OSAGE,Fairfax Township,State House,59,Republican,"Finch, Blaine",195,60
-OSAGE,Michigan Valley Township,State House,59,Republican,"Finch, Blaine",168,100
-OSAGE,North Valleybrook,State House,59,Republican,"Finch, Blaine",302,130
-OSAGE,South Valleybrook,State House,59,Republican,"Finch, Blaine",130,220
-OSAGE,Vassar Township,State House,59,Republican,"Finch, Blaine",210,240
-OSAGE,Fairfax Township,State House,59,Democratic,"Hall, John",72,60
-OSAGE,Michigan Valley Township,State House,59,Democratic,"Hall, John",52,100
-OSAGE,North Valleybrook,State House,59,Democratic,"Hall, John",98,130
-OSAGE,South Valleybrook,State House,59,Democratic,"Hall, John",51,220
-OSAGE,Vassar Township,State House,59,Democratic,"Hall, John",98,240
+OSAGE,Elk Township,State House,54,Democratic,"Coats, Sarah",281,000050
+OSAGE,North Burlingame,State House,54,Democratic,"Coats, Sarah",125,000110
+OSAGE,North Ridgeway,State House,54,Democratic,"Coats, Sarah",194,000120
+OSAGE,Scranton Township,State House,54,Democratic,"Coats, Sarah",138,000190
+OSAGE,South Burlingame,State House,54,Democratic,"Coats, Sarah",100,000200
+OSAGE,South Ridgeway,State House,54,Democratic,"Coats, Sarah",182,000210
+OSAGE,Elk Township,State House,54,Republican,"Corbet, Ken",541,000050
+OSAGE,North Burlingame,State House,54,Republican,"Corbet, Ken",259,000110
+OSAGE,North Ridgeway,State House,54,Republican,"Corbet, Ken",292,000120
+OSAGE,Scranton Township,State House,54,Republican,"Corbet, Ken",236,000190
+OSAGE,South Burlingame,State House,54,Republican,"Corbet, Ken",219,000200
+OSAGE,South Ridgeway,State House,54,Republican,"Corbet, Ken",264,000210
+OSAGE,Fairfax Township,State House,59,Republican,"Finch, Blaine",195,000060
+OSAGE,Michigan Valley Township,State House,59,Republican,"Finch, Blaine",168,000100
+OSAGE,North Valleybrook,State House,59,Republican,"Finch, Blaine",302,000130
+OSAGE,South Valleybrook,State House,59,Republican,"Finch, Blaine",130,000220
+OSAGE,Vassar Township,State House,59,Republican,"Finch, Blaine",210,000240
+OSAGE,Fairfax Township,State House,59,Democratic,"Hall, John",72,000060
+OSAGE,Michigan Valley Township,State House,59,Democratic,"Hall, John",52,000100
+OSAGE,North Valleybrook,State House,59,Democratic,"Hall, John",98,000130
+OSAGE,South Valleybrook,State House,59,Democratic,"Hall, John",51,000220
+OSAGE,Vassar Township,State House,59,Democratic,"Hall, John",98,000240
 OSAGE,Grant Township,State House,76,Republican,"Smith, Eric L.",106,7
-OSAGE,Agency Township,State House,76,Republican,"Smith, Eric L.",121,10
-OSAGE,Arvonia Township,State House,76,Republican,"Smith, Eric L.",41,20
-OSAGE,Barclay Township,State House,76,Republican,"Smith, Eric L.",71,30
-OSAGE,Dragoon Township,State House,76,Republican,"Smith, Eric L.",95,40
-OSAGE,Lincoln Township,State House,76,Republican,"Smith, Eric L.",40,80
-OSAGE,Melvern Township,State House,76,Republican,"Smith, Eric L.",218,90
-OSAGE,Olivet Township,State House,76,Republican,"Smith, Eric L.",92,140
-OSAGE,Osage City Ward 1,State House,76,Republican,"Smith, Eric L.",257,150
-OSAGE,Osage City Ward 2,State House,76,Republican,"Smith, Eric L.",138,160
-OSAGE,Osage City Ward 3,State House,76,Republican,"Smith, Eric L.",183,170
-OSAGE,Osage City Ward 4,State House,76,Republican,"Smith, Eric L.",239,180
-OSAGE,Superior Township,State House,76,Republican,"Smith, Eric L.",101,230
+OSAGE,Agency Township,State House,76,Republican,"Smith, Eric L.",121,000010
+OSAGE,Arvonia Township,State House,76,Republican,"Smith, Eric L.",41,000020
+OSAGE,Barclay Township,State House,76,Republican,"Smith, Eric L.",71,000030
+OSAGE,Dragoon Township,State House,76,Republican,"Smith, Eric L.",95,000040
+OSAGE,Lincoln Township,State House,76,Republican,"Smith, Eric L.",40,000080
+OSAGE,Melvern Township,State House,76,Republican,"Smith, Eric L.",218,000090
+OSAGE,Olivet Township,State House,76,Republican,"Smith, Eric L.",92,000140
+OSAGE,Osage City Ward 1,State House,76,Republican,"Smith, Eric L.",257,000150
+OSAGE,Osage City Ward 2,State House,76,Republican,"Smith, Eric L.",138,000160
+OSAGE,Osage City Ward 3,State House,76,Republican,"Smith, Eric L.",183,000170
+OSAGE,Osage City Ward 4,State House,76,Republican,"Smith, Eric L.",239,000180
+OSAGE,Superior Township,State House,76,Republican,"Smith, Eric L.",101,000230
 OSAGE,Superior Township Enclave 1,State House,76,Republican,"Smith, Eric L.",0,900010
 OSAGE,Grant Township Enclave 1,State House,76,Republican,"Smith, Eric L.",0,900020
 OSAGE,Grant Township Enclave 2,State House,76,Republican,"Smith, Eric L.",0,900030
