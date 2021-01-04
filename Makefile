@@ -9,12 +9,29 @@
 	perl -pi -e 's/,(\w{5})$$/,0$$1/g' 2018/counties/*csv
 	perl -pi -e 's/,000vtd$$/,vtd/g' 2018/counties/*csv
 
-2020:
+2020-transform:
+	ruby src/2020/parse-johnson-court-appeals.rb ../openelections-sources-ks/2020/2020_General_Election_Court_of_Appeals_results_by_precinct/JOHNSON.csv > 2020/johnson-court-appeals.csv
+	ruby src/2020/parse-sedgwick-court-appeals.rb ../openelections-sources-ks/2020/2020_General_Election_Court_of_Appeals_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-court-appeals.csv
+	ruby src/2020/parse-shawnee-court-appeals.rb ../openelections-sources-ks/2020/2020_General_Election_Court_of_Appeals_results_by_precinct/SHAWNEE.csv > 2020/shawnee-court-appeals.csv
+	ruby src/2020/parse-wyandotte-court-appeals.rb ../openelections-sources-ks/2020/2020_General_Election_Court_of_Appeals_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-court-appeals.csv
+	ruby src/2020/parse-supreme-court.rb Johnson ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/JOHNSON.csv > 2020/johnson-supreme-court.csv
+	ruby src/2020/parse-supreme-court.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-supreme-court.csv
+	ruby src/2020/parse-supreme-court.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/SHAWNEE.csv > 2020/shawnee-supreme-court.csv
+	ruby src/2020/parse-supreme-court.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-supreme-court.csv
+
+2020-mkdir:
 	mkdir -p 2020/counties
+
+2020-parse-sos:
 	ruby src/parse-csv.rb -o 2020/counties -t general -d 20201103 ../openelections-sources-ks/2020/2020_General_Election_*/*csv
+	ruby src/parse-csv.rb -o 2020/counties -t general -d 20201103 2020/*.csv
+
+2020-normalize:
 	perl -pi -e 's,United States House of Representatives,U.S. House,g' 2020/counties/*csv
 	perl -pi -e 's,United States Senate,U.S. Senate,g' 2020/counties/*csv
 	perl -pi -e 's,Kansas House of Representatives,State House,g' 2020/counties/*csv
 	perl -pi -e 's,Kansas Senate,State Senate,g' 2020/counties/*csv
+
+2020: 2020-mkdir 2020-transform 2020-parse-sos 2020-normalize
 
 .PHONY: 2018 2020
