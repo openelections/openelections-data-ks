@@ -81,7 +81,7 @@ def format_csv_row(row)
   district = (row['district'] || nil)
   if district.nil? and office =~ /\d+$/
     district = office.dup
-    district.gsub!(/^.+(\d+)$/, '\1')
+    district.gsub!(/^.+\ (\d+)$/, '\1')
     office.gsub!(/^(.+)\ (\d+)$/, '\1')
   end
   cells = [
