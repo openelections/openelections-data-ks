@@ -22,6 +22,10 @@
 	ruby src/2020/parse-president.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Sedgwick.csv > 2020/sedgwick-president.csv
 	ruby src/2020/parse-president.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Shawnee.csv > 2020/shawnee-president.csv
 	ruby src/2020/parse-president.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Wyandotte.csv > 2020/wyandotte-president.csv
+	ruby src/2020/parse-ks-house.rb Johnson ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/JOHNSON.csv > 2020/johnson-state-house.csv
+	ruby src/2020/parse-ks-house.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-state-house.csv
+	ruby src/2020/parse-ks-house.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/SHAWNEE.csv > 2020/shawnee-state-house.csv
+	ruby src/2020/parse-ks-house.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-state-house.csv
 
 2020-mkdir:
 	mkdir -p 2020/counties
