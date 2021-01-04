@@ -18,6 +18,10 @@
 	ruby src/2020/parse-supreme-court.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-supreme-court.csv
 	ruby src/2020/parse-supreme-court.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/SHAWNEE.csv > 2020/shawnee-supreme-court.csv
 	ruby src/2020/parse-supreme-court.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Supreme_Court_Justice_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-supreme-court.csv
+	ruby src/2020/parse-president.rb Johnson ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Johnson.csv > 2020/johnson-president.csv
+	ruby src/2020/parse-president.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Sedgwick.csv > 2020/sedgwick-president.csv
+	ruby src/2020/parse-president.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Shawnee.csv > 2020/shawnee-president.csv
+	ruby src/2020/parse-president.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_President_results_by_precinct/Wyandotte.csv > 2020/wyandotte-president.csv
 
 2020-mkdir:
 	mkdir -p 2020/counties
@@ -31,6 +35,7 @@
 	perl -pi -e 's,United States Senate,U.S. Senate,g' 2020/counties/*csv
 	perl -pi -e 's,Kansas House of Representatives,State House,g' 2020/counties/*csv
 	perl -pi -e 's,Kansas Senate,State Senate,g' 2020/counties/*csv
+	perl -pi -e 's,President / Vice President,President,g' 2020/counties/*csv
 
 2020: 2020-mkdir 2020-transform 2020-parse-sos 2020-normalize
 
