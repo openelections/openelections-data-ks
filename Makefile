@@ -9,4 +9,12 @@
 	perl -pi -e 's/,(\w{5})$$/,0$$1/g' 2018/counties/*csv
 	perl -pi -e 's/,000vtd$$/,vtd/g' 2018/counties/*csv
 
-.PHONY: 2018
+2020:
+	mkdir -p 2020/counties
+	ruby src/parse-csv.rb -o 2020/counties -t general -d 20201103 ../openelections-sources-ks/2020/2020_General_Election_*/*csv
+	perl -pi -e 's,United States House of Representatives,U.S. House,g' 2020/counties/*csv
+	perl -pi -e 's,United States Senate,U.S. Senate,g' 2020/counties/*csv
+	perl -pi -e 's,Kansas House of Representatives,State House,g' 2020/counties/*csv
+	perl -pi -e 's,Kansas Senate,State Senate,g' 2020/counties/*csv
+
+.PHONY: 2018 2020
