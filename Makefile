@@ -30,6 +30,10 @@
 	ruby src/2020/parse-ks-senate.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-state-sentate.csv
 	ruby src/2020/parse-ks-senate.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/SHAWNEE.csv > 2020/shawnee-state-sentate.csv
 	ruby src/2020/parse-ks-senate.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-state-sentate.csv
+	ruby src/2020/parse-us-senate.rb Johsnon ../openelections-sources-ks/2020/2020_General_Election_US_Senate_results_by_precinct/JOHNSON.csv > 2020/johnson-us-senate.csv
+	ruby src/2020/parse-us-senate.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_US_Senate_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-us-senate.csv
+	ruby src/2020/parse-us-senate.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_US_Senate_results_by_precinct/SHAWNEE.csv > 2020/shawnee-us-senate.csv
+	ruby src/2020/parse-us-senate.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_US_Senate_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-us-senate.csv
 
 2020-mkdir:
 	mkdir -p 2020/counties
