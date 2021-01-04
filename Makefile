@@ -26,6 +26,10 @@
 	ruby src/2020/parse-ks-house.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-state-house.csv
 	ruby src/2020/parse-ks-house.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/SHAWNEE.csv > 2020/shawnee-state-house.csv
 	ruby src/2020/parse-ks-house.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Kansas_House_of_Representatives_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-state-house.csv
+	ruby src/2020/parse-ks-senate.rb Johnson ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/JOHNSON.csv > 2020/johnson-state-sentate.csv
+	ruby src/2020/parse-ks-senate.rb Sedgwick ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/SEDGWICK.csv > 2020/sedgwick-state-sentate.csv
+	ruby src/2020/parse-ks-senate.rb Shawnee ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/SHAWNEE.csv > 2020/shawnee-state-sentate.csv
+	ruby src/2020/parse-ks-senate.rb Wyandotte ../openelections-sources-ks/2020/2020_General_Election_Kansas_Senate_results_by_precinct/WYANDOTTE.csv > 2020/wyandotte-state-sentate.csv
 
 2020-mkdir:
 	mkdir -p 2020/counties
