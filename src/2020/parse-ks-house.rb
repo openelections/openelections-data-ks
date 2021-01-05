@@ -28,10 +28,23 @@ require 'pp'
 # we output to the KS SOS format, so that we can import to this repo with parse-csv.rb
 # output header: County,Precinct,Race,Candidate,Party,Votes
 
+# some counties are missing party affiliation (e.g. Johnson)
+# so pull down master list from SOS to look up
+@sos_results = 'https://raw.githubusercontent.com/statedemocrats/ks-sos-unofficial-stats/main/kssos_ent.csv'
+
+def read_or_cache_sos_results
+  tmp_file = '/tmp/kssos_ent.csv'
+  if !File.exists?(tmp_file)
+    system("curl -s #{@sos_results} > #{tmp_file}")
+  end
+  CSV.read(tmp_file, headers: true, header_converters: :symbol).map(&:to_h).map { |r| [r[:name], r] }.to_h
+end
+
 def read_csv(filename)
   puts "County,Precinct,Race,Candidate,Party,Votes"
   offices = nil
   candidates = nil
+  sos_results = read_or_cache_sos_results
   CSV.foreach(filename, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
     # first 2 rows are headers
     if row[0] and !offices
@@ -61,7 +74,7 @@ def read_csv(filename)
       end
       votes = row[candidate_idx]
       race_rows[race] ||= []
-      race_rows[race] << [votes.to_i, process_csv_row(row[0], candidate.dup, race, votes)]
+      race_rows[race] << [votes.to_i, process_csv_row(row[0], candidate.dup, race, votes, sos_results)]
     end
 
     # only print rows where the vote total for the race in the precinct is > 0
@@ -75,14 +88,14 @@ def read_csv(filename)
   end
 end
 
-def process_csv_row(precinct, candidate, race, votes)
+def process_csv_row(precinct, candidate, race, votes, sos_results)
   #puts "precinct=#{precinct} candidate=#{candidate} race=#{race} votes=#{votes}"
   party = nil
-  if candidate =~ /DEM/
+  if candidate =~ /DEM/ or sos_results.dig(candidate, :party) == 'D'
     party = 'Democratic'
-  elsif candidate =~ /LIB/
+  elsif candidate =~ /LIB/ or sos_results.dig(candidate, :party) == 'L'
     party = 'Libertarian'
-  elsif candidate =~ /REP/
+  elsif candidate =~ /REP/ or sos_results.dig(candidate, :party) == 'R'
     party = 'Republican'
   end
   candidate.gsub!(/\ ?DEM|LIB|REP\ ?/, '')
