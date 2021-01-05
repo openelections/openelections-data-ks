@@ -37,8 +37,7 @@ require 'pp'
 def read_csv(filename)
   puts "County,Precinct,Race,Candidate,Party,Votes"
   CSV.foreach(filename, headers: true, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
-    precinct = row[0]
-    precinct = row[1] if @county == 'Johnson'
+    precinct = (row['precinct'] || row['precinct name'])
 
     ['Democratic', 'Republican', 'Libertarian'].each do |party| 
       puts process_csv_row(row, precinct, party)
