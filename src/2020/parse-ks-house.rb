@@ -46,9 +46,10 @@ def read_csv(filename)
   candidates = nil
   sos_results = read_or_cache_sos_results
   CSV.foreach(filename, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
-    # first 2 rows are headers
-    if row[0] and !offices
+    # first 2 rows are headers, but some files contain multiple headers
+    if row[0] == 'Precinct' or row[0] == 'PRECINCT NAME'
       offices = row
+      candidates = nil
       next
     elsif !row[0] and !candidates
       candidates = row
@@ -72,6 +73,9 @@ def read_csv(filename)
           idx -= 1
         end
       end
+
+      next unless race =~ /State Rep/
+
       votes = row[candidate_idx]
       race_rows[race] ||= []
       race_rows[race] << [votes.to_i, process_csv_row(row[0], candidate.dup, race, votes, sos_results)]
@@ -91,14 +95,14 @@ end
 def process_csv_row(precinct, candidate, race, votes, sos_results)
   #puts "precinct=#{precinct} candidate=#{candidate} race=#{race} votes=#{votes}"
   party = nil
-  if candidate =~ /DEM/ or sos_results.dig(candidate, :party) == 'D'
+  if candidate =~ /DEM/i or sos_results.dig(candidate, :party) == 'D'
     party = 'Democratic'
-  elsif candidate =~ /LIB/ or sos_results.dig(candidate, :party) == 'L'
+  elsif candidate =~ /LIB/i or sos_results.dig(candidate, :party) == 'L'
     party = 'Libertarian'
-  elsif candidate =~ /REP/ or sos_results.dig(candidate, :party) == 'R'
+  elsif candidate =~ /REP/i or sos_results.dig(candidate, :party) == 'R'
     party = 'Republican'
   end
-  candidate.gsub!(/\ ?DEM|LIB|REP\ ?/, '')
+  candidate.gsub!(/\ ?DEM|LIB|REP\ ?/i, '')
   if race =~ /.*State Representative (\d+)\w+ District/
     race.gsub!(/.*State Representative (\d+)\w+ District/, 'State Representative \1')
   end
