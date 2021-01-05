@@ -23,6 +23,7 @@
 
 require 'csv'
 require 'zlib'
+require 'pp'
 
 # filename template
 # date__state__{party}__{special}__election_type__{jurisdiction}{office}__{office_district}__{reporting_level}.format
@@ -76,11 +77,18 @@ def fh_for(filepath)
 end
 
 def format_csv_row(row)
+  office = (row['race'] || row['office'])
+  district = (row['district'] || nil)
+  if district.nil? and office =~ /\d+$/
+    district = office.dup
+    district.gsub!(/^.+\ (\d+)$/, '\1')
+    office.gsub!(/^(.+)\ (\d+)$/, '\1')
+  end
   cells = [
     row['county'],
     row['precinct'],
-    (row['office'] || row['race']),
-    (row['district'] || nil),
+    office,
+    district,
     (row['party']),
     (row['candidate']).strip,
     (row['votes']),
@@ -90,7 +98,7 @@ end
 
 def process_csv_row(row)
   if !row['county']
-    puts "No county in row: #{row.inspect}"
+    STDERR.puts "No county in row: #{row.inspect}"
   else
     write_to_csv(csv_out_file(row['county']), row)
   end
