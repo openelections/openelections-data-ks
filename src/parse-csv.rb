@@ -91,7 +91,7 @@ def format_csv_row(row)
     district,
     (row['party']),
     (row['candidate']).strip,
-    (row['votes']),
+    (row['votes'] || '0'),
     (row['vtd']),
   ].to_csv
 end

@@ -46,9 +46,12 @@ def read_csv(filename)
   candidates = nil
   sos_results = read_or_cache_sos_results
   CSV.foreach(filename, header_converters: [:downcase], encoding: 'bom|utf-8') do |row|
+
+    # Wyandotte combines multiple headers in one file so change headers every time we encounter a "Precinct" row
     # first 2 rows are headers
-    if row[0] and !offices
+    if row[0] == 'Precinct'
       offices = row
+      candidates = nil
       next
     elsif !row[0] and !candidates
       candidates = row
@@ -73,7 +76,7 @@ def read_csv(filename)
         end
       end
 
-      next if race =~ /US REP/ # Wyandotte mixes races
+      next unless race =~ /State Senat/ # Wyandotte mixes races
 
       votes = row[candidate_idx]
       race_rows[race] ||= []
