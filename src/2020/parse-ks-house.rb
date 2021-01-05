@@ -99,8 +99,8 @@ def process_csv_row(precinct, candidate, race, votes, sos_results)
     party = 'Republican'
   end
   candidate.gsub!(/\ ?DEM|LIB|REP\ ?/, '')
-  if race =~ /For State Representative (\d+)\w+ District/
-    race.gsub!(/For State Representative (\d+)\w+ District/, 'State Representative \1')
+  if race =~ /.*State Representative (\d+)\w+ District/
+    race.gsub!(/.*State Representative (\d+)\w+ District/, 'State Representative \1')
   end
   cells = [
     @county,
