@@ -37,8 +37,8 @@ GRAHAM,Hill City Precinct 3 H110,Attorney General,,Democratic,"Swain, Sarah G.",
 GRAHAM,Hill City Precinct 3 H110,Attorney General,,Republican,"Schmidt, Derek",99,120060
 GRAHAM,Hill City Precinct 3 H118,Attorney General,,Democratic,"Swain, Sarah G.",5,120070
 GRAHAM,Hill City Precinct 3 H118,Attorney General,,Republican,"Schmidt, Derek",19,120070
-GRAHAM,Nicodemus Township  H110,Attorney General,,Democratic,"Swain, Sarah G.",2,120080
-GRAHAM,Nicodemus Township  H110,Attorney General,,Republican,"Schmidt, Derek",4,120080
+GRAHAM,Nicodemus Township H110,Attorney General,,Democratic,"Swain, Sarah G.",2,120080
+GRAHAM,Nicodemus Township H110,Attorney General,,Republican,"Schmidt, Derek",4,120080
 GRAHAM,Nicodemus Township H118,Attorney General,,Democratic,"Swain, Sarah G.",7,120090
 GRAHAM,Nicodemus Township H118,Attorney General,,Republican,"Schmidt, Derek",3,120090
 GRAHAM,Allodium Township,Governor,,independent,"Kloos, Rick",0,000010
@@ -136,11 +136,11 @@ GRAHAM,Hill City Precinct 3 H118,Governor,,independent,"Orman, Greg",1,120070
 GRAHAM,Hill City Precinct 3 H118,Governor,,Democratic,"Kelly, Laura",8,120070
 GRAHAM,Hill City Precinct 3 H118,Governor,,Libertarian,"Caldwell, Jeff",1,120070
 GRAHAM,Hill City Precinct 3 H118,Governor,,Republican,"Kobach, Kris",14,120070
-GRAHAM,Nicodemus Township  H110,Governor,,independent,"Kloos, Rick",0,120080
-GRAHAM,Nicodemus Township  H110,Governor,,independent,"Orman, Greg",1,120080
-GRAHAM,Nicodemus Township  H110,Governor,,Democratic,"Kelly, Laura",1,120080
-GRAHAM,Nicodemus Township  H110,Governor,,Libertarian,"Caldwell, Jeff",0,120080
-GRAHAM,Nicodemus Township  H110,Governor,,Republican,"Kobach, Kris",4,120080
+GRAHAM,Nicodemus Township H110,Governor,,independent,"Kloos, Rick",0,120080
+GRAHAM,Nicodemus Township H110,Governor,,independent,"Orman, Greg",1,120080
+GRAHAM,Nicodemus Township H110,Governor,,Democratic,"Kelly, Laura",1,120080
+GRAHAM,Nicodemus Township H110,Governor,,Libertarian,"Caldwell, Jeff",0,120080
+GRAHAM,Nicodemus Township H110,Governor,,Republican,"Kobach, Kris",4,120080
 GRAHAM,Nicodemus Township H118,Governor,,independent,"Kloos, Rick",0,120090
 GRAHAM,Nicodemus Township H118,Governor,,independent,"Orman, Greg",1,120090
 GRAHAM,Nicodemus Township H118,Governor,,Democratic,"Kelly, Laura",7,120090
@@ -184,8 +184,8 @@ GRAHAM,Hill City Precinct 3 H110,Commissioner of Insurance,,Democratic,"McLaughl
 GRAHAM,Hill City Precinct 3 H110,Commissioner of Insurance,,Republican,"Schmidt, Vicki",105,120060
 GRAHAM,Hill City Precinct 3 H118,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",3,120070
 GRAHAM,Hill City Precinct 3 H118,Commissioner of Insurance,,Republican,"Schmidt, Vicki",21,120070
-GRAHAM,Nicodemus Township  H110,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,120080
-GRAHAM,Nicodemus Township  H110,Commissioner of Insurance,,Republican,"Schmidt, Vicki",4,120080
+GRAHAM,Nicodemus Township H110,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",2,120080
+GRAHAM,Nicodemus Township H110,Commissioner of Insurance,,Republican,"Schmidt, Vicki",4,120080
 GRAHAM,Nicodemus Township H118,Commissioner of Insurance,,Democratic,"McLaughlin, Nathaniel",6,120090
 GRAHAM,Nicodemus Township H118,Commissioner of Insurance,,Republican,"Schmidt, Vicki",4,120090
 GRAHAM,Allodium Township,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",0,000010
@@ -242,9 +242,9 @@ GRAHAM,Hill City Precinct 3 H110,Secretary of State,,Republican,"Schwab, Scott",
 GRAHAM,Hill City Precinct 3 H118,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",7,120070
 GRAHAM,Hill City Precinct 3 H118,Secretary of State,,Libertarian,"Hodgkinson, Rob",2,120070
 GRAHAM,Hill City Precinct 3 H118,Secretary of State,,Republican,"Schwab, Scott",15,120070
-GRAHAM,Nicodemus Township  H110,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,120080
-GRAHAM,Nicodemus Township  H110,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,120080
-GRAHAM,Nicodemus Township  H110,Secretary of State,,Republican,"Schwab, Scott",4,120080
+GRAHAM,Nicodemus Township H110,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",2,120080
+GRAHAM,Nicodemus Township H110,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,120080
+GRAHAM,Nicodemus Township H110,Secretary of State,,Republican,"Schwab, Scott",4,120080
 GRAHAM,Nicodemus Township H118,Secretary of State,,Democratic,"McClendon, Brian ""BAM""",8,120090
 GRAHAM,Nicodemus Township H118,Secretary of State,,Libertarian,"Hodgkinson, Rob",0,120090
 GRAHAM,Nicodemus Township H118,Secretary of State,,Republican,"Schwab, Scott",2,120090
@@ -268,11 +268,11 @@ GRAHAM,Nicodemus Township H118,State House,118,Republican,"Hineman, Don",7,12009
 GRAHAM,Hill City Precinct 1 H110,State House,110,Republican,"Rahjes, Ken",53,120020
 GRAHAM,Hill City Precinct 2 H110,State House,110,Republican,"Rahjes, Ken",280,120040
 GRAHAM,Hill City Precinct 3 H110,State House,110,Republican,"Rahjes, Ken",99,120060
-GRAHAM,Nicodemus Township  H110,State House,110,Republican,"Rahjes, Ken",4,120080
+GRAHAM,Nicodemus Township H110,State House,110,Republican,"Rahjes, Ken",4,120080
 GRAHAM,Hill City Precinct 1 H110,State House,110,Democratic,"Thomas, Kim",16,120020
 GRAHAM,Hill City Precinct 2 H110,State House,110,Democratic,"Thomas, Kim",101,120040
 GRAHAM,Hill City Precinct 3 H110,State House,110,Democratic,"Thomas, Kim",25,120060
-GRAHAM,Nicodemus Township  H110,State House,110,Democratic,"Thomas, Kim",2,120080
+GRAHAM,Nicodemus Township H110,State House,110,Democratic,"Thomas, Kim",2,120080
 GRAHAM,Allodium Township,State Treasurer,,Democratic,"Francisco, Marci",0,000010
 GRAHAM,Allodium Township,State Treasurer,,Republican,"LaTurner, Jake",13,000010
 GRAHAM,Bogue City,State Treasurer,,Democratic,"Francisco, Marci",0,000020
@@ -311,8 +311,8 @@ GRAHAM,Hill City Precinct 3 H110,State Treasurer,,Democratic,"Francisco, Marci",
 GRAHAM,Hill City Precinct 3 H110,State Treasurer,,Republican,"LaTurner, Jake",105,120060
 GRAHAM,Hill City Precinct 3 H118,State Treasurer,,Democratic,"Francisco, Marci",5,120070
 GRAHAM,Hill City Precinct 3 H118,State Treasurer,,Republican,"LaTurner, Jake",19,120070
-GRAHAM,Nicodemus Township  H110,State Treasurer,,Democratic,"Francisco, Marci",2,120080
-GRAHAM,Nicodemus Township  H110,State Treasurer,,Republican,"LaTurner, Jake",4,120080
+GRAHAM,Nicodemus Township H110,State Treasurer,,Democratic,"Francisco, Marci",2,120080
+GRAHAM,Nicodemus Township H110,State Treasurer,,Republican,"LaTurner, Jake",4,120080
 GRAHAM,Nicodemus Township H118,State Treasurer,,Democratic,"Francisco, Marci",5,120090
 GRAHAM,Nicodemus Township H118,State Treasurer,,Republican,"LaTurner, Jake",5,120090
 GRAHAM,Allodium Township,U.S. House,1,Democratic,"LaPolice, Alan",0,000010
@@ -353,7 +353,7 @@ GRAHAM,Hill City Precinct 3 H110,U.S. House,1,Democratic,"LaPolice, Alan",29,120
 GRAHAM,Hill City Precinct 3 H110,U.S. House,1,Republican,"Marshall, Roger",92,120060
 GRAHAM,Hill City Precinct 3 H118,U.S. House,1,Democratic,"LaPolice, Alan",7,120070
 GRAHAM,Hill City Precinct 3 H118,U.S. House,1,Republican,"Marshall, Roger",16,120070
-GRAHAM,Nicodemus Township  H110,U.S. House,1,Democratic,"LaPolice, Alan",2,120080
-GRAHAM,Nicodemus Township  H110,U.S. House,1,Republican,"Marshall, Roger",4,120080
+GRAHAM,Nicodemus Township H110,U.S. House,1,Democratic,"LaPolice, Alan",2,120080
+GRAHAM,Nicodemus Township H110,U.S. House,1,Republican,"Marshall, Roger",4,120080
 GRAHAM,Nicodemus Township H118,U.S. House,1,Democratic,"LaPolice, Alan",6,120090
 GRAHAM,Nicodemus Township H118,U.S. House,1,Republican,"Marshall, Roger",3,120090
