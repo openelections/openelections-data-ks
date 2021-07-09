@@ -71,8 +71,8 @@ Brown,0006 HORTON WARD 2,Voters,,,BALLOTS CAST - TOTAL,135
 Brown,0006 HORTON WARD 2,Voters,,,REGISTERED VOTERS - TOTAL,306
 Brown,0007 HORTON WARD 3,Voters,,,BALLOTS CAST - TOTAL,79
 Brown,0007 HORTON WARD 3,Voters,,,REGISTERED VOTERS - TOTAL,225
-Brown,0008 RESERVE  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,42
-Brown,0008 RESERVE  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,88
+Brown,0008 RESERVE PRECINCT,Voters,,,BALLOTS CAST - TOTAL,42
+Brown,0008 RESERVE PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,88
 Brown,0009 HAMLIN PRECINCT,Voters,,,BALLOTS CAST - TOTAL,72
 Brown,0009 HAMLIN PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,108
 Brown,0010 HIAWATHA TWP,Voters,,,BALLOTS CAST - TOTAL,257
@@ -85,14 +85,14 @@ Brown,0013 MORRILL PRECINCT,Voters,,,BALLOTS CAST - TOTAL,182
 Brown,0013 MORRILL PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,296
 Brown,0014 PADONIA PRECINCT,Voters,,,BALLOTS CAST - TOTAL,75
 Brown,0014 PADONIA PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,132
-Brown,0015 POWHATTAN  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,204
-Brown,0015 POWHATTAN  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,439
-Brown,0016 ROBINSON  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,169
-Brown,0016 ROBINSON  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,264
-Brown,0017 WALNUT  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,254
-Brown,0017 WALNUT  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,399
-Brown,0018 WASHINGTON  PRECINCT,Voters,,,BALLOTS CAST - TOTAL,158
-Brown,0018 WASHINGTON  PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,310
+Brown,0015 POWHATTAN PRECINCT,Voters,,,BALLOTS CAST - TOTAL,204
+Brown,0015 POWHATTAN PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,439
+Brown,0016 ROBINSON PRECINCT,Voters,,,BALLOTS CAST - TOTAL,169
+Brown,0016 ROBINSON PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,264
+Brown,0017 WALNUT PRECINCT,Voters,,,BALLOTS CAST - TOTAL,254
+Brown,0017 WALNUT PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,399
+Brown,0018 WASHINGTON PRECINCT,Voters,,,BALLOTS CAST - TOTAL,158
+Brown,0018 WASHINGTON PRECINCT,Voters,,,REGISTERED VOTERS - TOTAL,310
 Cherokee,0001 Baxter Sprs W1,Voters,,,BALLOTS CAST,193,3,18,166,6
 Cherokee,0001 Baxter Sprs W1,Voters,,,REGISTERED VOTERS,720,,,,
 Cherokee,0002 Baxter Sprs W2,Voters,,,BALLOTS CAST,142,5,12,118,7
@@ -314,16 +314,16 @@ Douglas,35 S2,Voters,,,Cast,477
 Douglas,35 S2,Voters,,,Registered,1073
 Douglas,35 S3,Voters,,,Cast,35
 Douglas,35 S3,Voters,,,Registered,65
-Douglas,36  S2,Voters,,,Cast,402
-Douglas,36  S2,Voters,,,Registered,931
-Douglas,36  S3,Voters,,,Cast,331
-Douglas,36  S3,Voters,,,Registered,838
+Douglas,36 S2,Voters,,,Cast,402
+Douglas,36 S2,Voters,,,Registered,931
+Douglas,36 S3,Voters,,,Cast,331
+Douglas,36 S3,Voters,,,Registered,838
 Douglas,37 H10,Voters,,,Cast,764
 Douglas,37 H10,Voters,,,Registered,1583
-Douglas,37  H46,Voters,,,Cast,28
-Douglas,37  H46,Voters,,,Registered,127
-Douglas,38  H10,Voters,,,Cast,632
-Douglas,38  H10,Voters,,,Registered,1226
+Douglas,37 H46,Voters,,,Cast,28
+Douglas,37 H46,Voters,,,Registered,127
+Douglas,38 H10,Voters,,,Cast,632
+Douglas,38 H10,Voters,,,Registered,1226
 Douglas,39,Voters,,,Cast,528
 Douglas,39,Voters,,,Registered,1048
 Douglas,3,Voters,,,Cast,464
@@ -338,20 +338,20 @@ Douglas,41 S3 H46,Voters,,,Cast,909
 Douglas,41 S3 H46,Voters,,,Registered,1694
 Douglas,42 H45,Voters,,,Cast,239
 Douglas,42 H45,Voters,,,Registered,441
-Douglas,42  H46,Voters,,,Cast,198
-Douglas,42  H46,Voters,,,Registered,479
-Douglas,43  CC1,Voters,,,Cast,419
-Douglas,43  CC1,Voters,,,Registered,744
-Douglas,43  CC3,Voters,,,Cast,438
-Douglas,43  CC3,Voters,,,Registered,776
+Douglas,42 H46,Voters,,,Cast,198
+Douglas,42 H46,Voters,,,Registered,479
+Douglas,43 CC1,Voters,,,Cast,419
+Douglas,43 CC1,Voters,,,Registered,744
+Douglas,43 CC3,Voters,,,Cast,438
+Douglas,43 CC3,Voters,,,Registered,776
 Douglas,44 H44,Voters,,,Cast,106
 Douglas,44 H44,Voters,,,Registered,152
-Douglas,44  H45,Voters,,,Cast,385
-Douglas,44  H45,Voters,,,Registered,703
+Douglas,44 H45,Voters,,,Cast,385
+Douglas,44 H45,Voters,,,Registered,703
 Douglas,45,Voters,,,Cast,1713
 Douglas,45,Voters,,,Registered,2725
-Douglas,46  S3,Voters,,,Cast,930
-Douglas,46  S3,Voters,,,Registered,2145
+Douglas,46 S3,Voters,,,Cast,930
+Douglas,46 S3,Voters,,,Registered,2145
 Douglas,47,Voters,,,Cast,360
 Douglas,47,Voters,,,Registered,615
 Douglas,48,Voters,,,Cast,880
@@ -414,18 +414,18 @@ Douglas,66 Wakarusa W S19 H10,Voters,,,Cast,246
 Douglas,66 Wakarusa W S19 H10,Voters,,,Registered,347
 Douglas,66 Wakarusa W S19 H45,Voters,,,Cast,166
 Douglas,66 Wakarusa W S19 H45,Voters,,,Registered,275
-Douglas,66 Wakarusa W S3   H10,Voters,,,Cast,145
-Douglas,66 Wakarusa W S3   H10,Voters,,,Registered,213
+Douglas,66 Wakarusa W S3 H10,Voters,,,Cast,145
+Douglas,66 Wakarusa W S3 H10,Voters,,,Registered,213
 Douglas,66 Wakarusa W S3 H45,Voters,,,Cast,2
 Douglas,66 Wakarusa W S3 H45,Voters,,,Registered,3
-Douglas,67 Willow S19  H45,Voters,,,Cast,262
-Douglas,67 Willow S19  H45,Voters,,,Registered,403
-Douglas,67 Willow S19  H54,Voters,,,Cast,272
-Douglas,67 Willow S19  H54,Voters,,,Registered,453
-Douglas,67 Willow S3  H45,Voters,,,Cast,82
-Douglas,67 Willow S3  H45,Voters,,,Registered,126
-Douglas,67 Willow S3  H54,Voters,,,Cast,47
-Douglas,67 Willow S3  H54,Voters,,,Registered,94
+Douglas,67 Willow S19 H45,Voters,,,Cast,262
+Douglas,67 Willow S19 H45,Voters,,,Registered,403
+Douglas,67 Willow S19 H54,Voters,,,Cast,272
+Douglas,67 Willow S19 H54,Voters,,,Registered,453
+Douglas,67 Willow S3 H45,Voters,,,Cast,82
+Douglas,67 Willow S3 H45,Voters,,,Registered,126
+Douglas,67 Willow S3 H54,Voters,,,Cast,47
+Douglas,67 Willow S3 H54,Voters,,,Registered,94
 Douglas,6,Voters,,,Cast,604
 Douglas,6,Voters,,,Registered,996
 Douglas,70 Lawrence / Willow,Voters,,,Cast,10
@@ -505,31 +505,31 @@ Harvey,14-Newton City W4P1,,,,Registration,759
 Harvey,15-Newton City W4P2,,,,Registration,1329
 Harvey,16-Newton City W4P3,,,,Registration,974
 Harvey,17-Newton City W4P4,,,,Registration,420
-Harvey,18-North  Newton,,,,Registration,1355
-Harvey,19-Alta  Township,,,,Registration,170
-Harvey,1-Halstead  City W1P1,,,,Registration,536
-Harvey,20-Burrton  City/Twp,,,,Registration,640
-Harvey,21-Darlington  Township,,,,Registration,311
-Harvey,22-Darlington  Twp  North,,,,Registration,93
-Harvey,23-Emma  Township,,,,Registration,369
-Harvey,24-Garden  Township,,,,Registration,201
-Harvey,25-Halstead  Township,,,,Registration,181
-Harvey,26-Highland  Twp FD1,,,,Registration,169
-Harvey,27-Lake  Township,,,,Registration,100
-Harvey,28-Lakin  Township,,,,Registration,188
-Harvey,29-Macon  Township,,,,Registration,315
-Harvey,2-Halstead  City W2P1,,,,Registration,719
-Harvey,30-Newton  Township  AB,,,,Registration,232
-Harvey,31-Newton  Township  CDE,,,,Registration,77
-Harvey,32-Pleasant  Twp,,,,Registration,185
-Harvey,33-Richland  Township,,,,Registration,266
-Harvey,34-Sedgwick  City/Twp,,,,Registration,1125
-Harvey,35-Walton  City/Twp FD,,,,Registration,316
-Harvey,36-Walton  Township,,,,Registration,27
-Harvey,37-Highland  Township,,,,Registration,101
-Harvey,38-Pleasant  Township,,,,Registration,156
-Harvey,3-Hesston  City W1P1,,,,Registration,1170
-Harvey,4-Hesston  City W2P1,,,,Registration,1154
+Harvey,18-North Newton,,,,Registration,1355
+Harvey,19-Alta Township,,,,Registration,170
+Harvey,1-Halstead City W1P1,,,,Registration,536
+Harvey,20-Burrton City/Twp,,,,Registration,640
+Harvey,21-Darlington Township,,,,Registration,311
+Harvey,22-Darlington Twp North,,,,Registration,93
+Harvey,23-Emma Township,,,,Registration,369
+Harvey,24-Garden Township,,,,Registration,201
+Harvey,25-Halstead Township,,,,Registration,181
+Harvey,26-Highland Twp FD1,,,,Registration,169
+Harvey,27-Lake Township,,,,Registration,100
+Harvey,28-Lakin Township,,,,Registration,188
+Harvey,29-Macon Township,,,,Registration,315
+Harvey,2-Halstead City W2P1,,,,Registration,719
+Harvey,30-Newton Township AB,,,,Registration,232
+Harvey,31-Newton Township CDE,,,,Registration,77
+Harvey,32-Pleasant Twp,,,,Registration,185
+Harvey,33-Richland Township,,,,Registration,266
+Harvey,34-Sedgwick City/Twp,,,,Registration,1125
+Harvey,35-Walton City/Twp FD,,,,Registration,316
+Harvey,36-Walton Township,,,,Registration,27
+Harvey,37-Highland Township,,,,Registration,101
+Harvey,38-Pleasant Township,,,,Registration,156
+Harvey,3-Hesston City W1P1,,,,Registration,1170
+Harvey,4-Hesston City W2P1,,,,Registration,1154
 Harvey,5-Newton City W1P1,,,,Registration,725
 Harvey,6-Newton City W1P2,,,,Registration,576
 Harvey,7-Newton City W1P3,,,,Registration,424
